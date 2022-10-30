@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+I have argued often that rational (i.e., most truthful) beliefs are less diverse than those we commonly observe now.  Many (such as Hal Finney in recent comments) have responded by saying diversity is valuable, and so society might lose if beliefs became less diverse.  It seems to me, however, that while there is value in the diversity of info, analysis, and action, there is not much additional value in diversity of belief.
+ Our info is the clues we find about how things are, including what we see, what we feel, and what we observe about others.  Our analyzes are our thoughts, both conscious and unconscious, in looking for patterns and dependencies between clues and hypotheses, which suggest which clues might support which hypotheses.  Our beliefs are the conclusions we form from our analyzes about the world (including ourselves).  Finally, we take concrete actions based on our beliefs and our values.
+ If we are going to share our clues, we are of course better off if we each collect different clues than if we all re-collect the same clues.  Similarly, (as Scott Page emphasizes) we are better off if we share and compare the results of different styles of thinking, instead of each of us redoing the same kind of analysis.  And we must often take different actions if we are to actually find different clues and use different types of analysis.
+ We do not, however, require different beliefs to achieve any of these other differences.  For example, searchers in an Easter egg hunt do not need different beliefs about egg locations to spread out across the lawn – there is a strategic advantage to searching where others are not searching.  And the best strategy in many social situations is to randomly choose among many possibilities, so that people with the same beliefs end up taking different actions.
+ We do not need different beliefs to hold and share different info and analysis.  We can talk directly about the clues we have seen, and about the conclusions our analyzes seem to favor.  We can get into the habit of distinguishing "what I saw was …" and "it seems to me that …" from "I believe that …"  Yes, to share info we must each describe what we saw and what our analyzes suggest, but we need not be so stupid as to form our beliefs only on such things.  When choosing beliefs, we are wise to weigh heavily the info, analysis, and beliefs of others, even if when talking we are wise to offer distinctive and diverse insights.  
+ I do not dispute that there are in fact some specific situations where a diversity of belief will lead people to sacrifice their own ends for the benefit of society.  What I question is how representative are such situations.  There are many other situations where belief diversity hurts society, such as when innovations are rejected because they were "not invented here."  
+
+
+title: Distinguish Info, Analysis, Belief, Action
+
+date: March 13, 2008 6:00 am
+

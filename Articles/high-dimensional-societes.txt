@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+I’ve seen many “spatial” models in social science. Such as models where voters and politicians sit at points in a space of policies. Or where customers and firms sit at points in a space of products. But I’ve never seen a discussion of how one should expect such models to change in high dimensions, such as when there are more dimensions than points.
+In small dimensional spaces, the distances between points vary greatly; neighboring points are much closer to each other than are distant points. However, in high dimensional spaces, distances between points vary much less; all points are about the same distance from all other points. When points are distributed randomly, however, these distances do vary somewhat, allowing us to define the few points closest to each point as that point’s “neighbors”. “Hubs” are closest neighbors to many more points than average, while “anti-hubs” are closest neighbors to many fewer points than average. It turns out that in higher dimensions a larger fraction of points are hubs and anti-hubs (Zimek et al. 2012).
+If we think of people or organizations as such points, is being a hub or anti-hub associated with any distinct social behavior?  Does it contribute substantially to being popular or unpopular? Or does the fact that real people and organizations are in fact distributed in real space overwhelm such things, which only only happen in a truly high dimensional social world?
+
+
+title: High Dimensional Societes?
+
+date: July 17, 2017 2:50 pm
+

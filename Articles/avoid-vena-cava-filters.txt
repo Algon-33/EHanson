@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Shannon Brownlee warns us:
+We tend to reward innovation in medicine for innovation's sake. Here's an example: there are, oh, on the order of at least 10 different companies all making a device called a vena cava filter. Each one claims superiority on the basis of some innovation in design. But do vena cava filters actually improve outcomes? Surgeons have been using these things for decades, yet they've never actually put them to the real test of efficacy. The French finally did, and it looks like for most patients the devices don't add value, they just add risk and cost. Now, we probably want to do another study just to be sure, but what's the value of innovation in vena cava filters if you aren't going to find out if they actually help patients. 
+
+
+title: Avoid Vena Cava Filters
+
+date: January 24, 2009 1:30 pm
+

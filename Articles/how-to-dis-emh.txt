@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+A recent dispute on the EMH (Efficient Market Hypothesis).  John Cochrane:
+“What is there about recent events that would lead you to say markets are inefficient?” he said to me. “The market crashed. To which I would say, We had the events last September in which the President gets on television and says the financial markets are near collapse. On what planet do markets not crash after that?”
+Paul Kedrosky:
+The only reason the markets crashed in 2008 was because the U.S. President got on TV and said they might? … We had had an unprecedented run on the shadow-banking system, assets for many banks looking like zero, Fannie/Freddie as state wards, banks up to Goldman and Merrill wobbling, and it was the President that made a crash happen? Simply staggering – and, in its fact-free and inflexible defense of a particular economic ideology, a crushing indictment.
+Brad DeLong:
+Unless you think that one speech by President Bush had a profound effect on dividend levels and discount factors in 2019 and beyond, you simply cannot (a) know enough about the dividend-discount model to remember that at a dividend yield of 3% three-quarters of the present value comes a decade and more hence, (b) claim that the market is “efficient,” and also (c) claim that a speech by George W. Bush caused the meltdown.
+Look, everyone, this game should have rules.  EMH (at least the interesting version) says prices are our best estimates, so to deny EMH is to assert that prices are predictably wrong.  And for EHM violations to be relevant for regulatory policy, price errors must be so systematic as to allow a government agency to follow some bureaucratic process to identify when prices are too high, vs. too low, and act on that info.
+So the clearest way for EMH skeptics to show they are right is to collect a track record showing that they can predict, ahead of time, when prices are too high, vs. too low.  There’s little point in picking out some year old event, and saying, “see that price drop was too big.”  Monday morning quarterbacking is way too easy.
+But if just before a price drop you’d been on record saying the price was too high, or if just after you’d said the price was too low, well then we could include your purported error in a EMH-skeptic track record.  And with enough skeptics identifying enough purported price errors, it wouldn’t take long to collect enough data to see if EMH skeptics really do have a system for identifying price errors.  (Of course some would do well just by chance, so we’d need to look at the whole set.)
+With a proven skeptic track record, we could then begin a conversation about whether their system was the sort that regulators should embody in some official government process, in order to improve our financial system.  (Or whether skeptics should just post their errors, and let speculators fix prices.)
+But all this continual harping year after year on how EMH is obviously wrong, based on selective stories of past prices you say were obviously wrong, sounds awful suspicious when you don’t bother to publicly flag price errors at the time, much less to collect and publicize a track record of such error flags.  (E.g., care to declare which prices are wrong today?)  What’s up with that?
+HT Rajiv Sethi.  See also previous OB posts.
+
+
+title: How To Dis EMH
+
+date: January 9, 2010 11:15 am
+

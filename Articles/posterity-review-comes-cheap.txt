@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Compared to most people, academics care more about what posterity will think of them.  And academics tend to be overconfident, believing posterity will remember them better than most.  Also, the magic of compound interest rates makes the current price to get posterity to review current academic work remarkably low.  For example, at a real interest rate of five percent, one hour of work today will buy 130 hours of equally productive work in a century, and over 17,000 hours of such work in two centuries.   
+ Combining these observations, a relatively cheap way to improve the incentives of academics today could be pay to have posterity publish a careful historical review of today’s research.  Imagine that for each academic paper written today, we paid one minute of time now to buy 300 hours of evaluation at a future date (e.g., two centuries later at five percent interest).  Looking at all available records, including web, email, and voice records, and looking together at groups of related papers, this future evaluation would estimate the relative accuracy and valued added of each contribution relative to resources used, carefully tracing out where these insights came from and where they led.
+ Posterity review would seem to have a much better chance than peer review of figuring out who stole what ideas from who, who contributed real useful insight instead of showing impressive ability with words or math, and so on.  And once we knew that such review would take place, we could create many interesting forecasting mechanisms and reward schemes today, tied to those future evaluations.  
+ Of course there are crucial problems to work out regarding how to organize these future historians and give them the proper incentives.  But these seem like problems well worth thinking about.  
+
+
+title: Posterity Review Comes Cheap
+
+date: February 13, 2007 6:00 am
+

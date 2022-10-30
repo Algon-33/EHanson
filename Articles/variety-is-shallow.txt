@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+I haven’t read that much in the field of marketing, but what I have read so far has tended to confirm what I’ve read and taught in economics industrial organization: firms try hard to make products have distinctive feature packages in order to gain market power over customers whose ideal product is closer to that package. Even if some of those features are symbolic and created via how ads make people see products.
+Reading the book How Brands Grow: What Marketers Don’t Know, by Byron Sharp, leads me to doubt this usual story. Sharp presents a lot of data (some shown in these figures for the Audible version) in support of these points (from this summary):
+1. Penetration is key .. all brands have similar levels of loyalty.
+2. Light users are as or even more important as heavy ones
+3. Leading brands are distinctive, not different
+4. Create memory structure to build “mental availability”
+5. The power of “physical availability”
+6. People don’t want a love affair with most brands
+Most price promotions, and ads that don’t reinforce easy-to-recall product cues, are wasted money. We can model the distribution of purchase choices pretty well via these assumptions:
+A. People vary a lot in how often they buy from any given product category; most buys are from very infrequent buyers, who mostly buy from other brands.
+B. People have a some “loyalty” in having a better than random (but far from certain) chance to buy the same brand choice as last time.
+C. If they don’t pick the same brand as last time, buyers pick a brand at random in proportion to product popularity.
+Product categories are surprisingly large. For example, to a first approximation all fast food competes nearly equally with all other fast food. It isn’t that pizza places compete mainly pizza places while burger places compete mainly with other burger places. There are some exceptions, such a rich people tending more to buy expensive brands, or people with kids tending to buy books for kids, but these are rare and weak. Mostly there is no “space” of product features; there is just a set of distinct but equally different options, some more popular than others.
+Over the last century consumers have moved to choosing a LOT more product variety, which ends up being expensive because of all the fixed costs to support all those different products. We like to tell ourselves that we do this because the new products we pick are closer to the ideal points of our complex authentic identity. Marketers like to tell the same thing to us, and to the firms who buy marketing services. But in fact we just want the appearance of having specific feature packages we like that fit who we are; we mostly don’t actually have coherent identities, but instead just wander around in the space of available products.
+This greatly strengthens the welfare case for reducing product variety, in order to reduce unit costs. It seems we are mostly trying to gain a zero-sum status via showing off our wealth and not-actually-there distinct identity.
+
+
+title: Variety Is Shallow
+
+date: November 21, 2015 11:45 am
+

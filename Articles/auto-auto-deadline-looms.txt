@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+It is well-known that while electricity led to big gains in factory productivity, few gains were realized until factories were reorganized to take full advantage of the new possibilities which electric motors allowed. Similarly, computers didn’t create big productivity gains in offices until work flow and tasks were reorganized to take full advantage.
+Auto autos, i.e., self-driving cars, seem similar: while there could be modest immediate gains from reducing accident rates and lost productive time commuting, the biggest gains should come from reorganizing our cities to match them. Self-driving cars could drive fast close together to increase road throughput, and be shared to eliminate the need for parking. This should allow for larger higher-density cities. For example, four times bigger cities could plausibly be twenty-five percent more productive.
+But to achieve most of these gain, we must make new buildings with matching heights and locations. And this requires that self-driving cars make their appearance before we stop making so many new buildings. Let me explain.
+Since buildings tend to last for many decades, one of the main reasons that cities have been adding many new buildings is that they have had more people who need buildings in which to live and work. But world population growth is slowing down, and may peak around 2055. It should peak earlier in rich nations, and later in poor nations.
+Cities with stable or declining population build a lot fewer buildings; it would take them a lot longer to change city organization to take advantage of self-driving cars. So the main hope for rapidly achieving big gains would be in rapidly growing cities. What we need is for self-driving cars to become available and cheap enough in cities that are still growing fast enough, and which have legal and political support for driving such cars fast close together, so they can achieve high throughput. That is, people need to be sufficiently rewarded for using cars in ways that allow more road throughput. And then economic activity needs to move from old cities to the new more efficient cities.
+This actually seems like a pretty challenging goal. China and India are making lots of buildings today, but those buildings are not well-matched to self-driving cars. Self-driving cars aren’t about to explode there, and by the time they are cheap the building boom may be over. Google announced its self-driving car program almost four years ago, and that hasn’t exactly sparked a tidal wave of change. Furthermore, even if self-driving cars arrive soon enough, city-region politics may well not be up to the task of coordinating to encourage such cars to drive fast close together. And national borders, regulation, etc. may not let larger economies be flexible enough to move much activity to the new cities who manage to support auto autos well.
+Alas, overall it is hard to be very optimistic here. I have hopes, but only weak hopes.
+
+
+title: Auto-Auto Deadline Looms
+
+date: June 26, 2014 2:45 pm
+

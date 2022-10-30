@@ -1,0 +1,15 @@
+author: Hal Finney
+
+text: 
+Sometimes reading the posts and discussions here I am reminded of some of the most interesting characters in science fiction: the Vulcans of Star Trek. Vulcans are depicted as having two main traits: they are extremely logical, and they are unemotional. These two characteristics are generally presented as if they are related, or even synonymous. Vulcans make decisions based on logic, in contrast to humans who frequently make decisions on emotional grounds.
+When we try to overcome our biases and see the truth clearly, are we aiming to become Vulcans? Is Bayesian another word for Vulcan?
+In some ways it does seem true. We talk about trying not to be influenced in our thinking by our hopes and fears, but to reason dispassionately and logically. Many or most of our biases are emotionally based and satisfy emotional needs. Vulcans have perfected the art of overcoming these sorts of biases. In many of our critiques here of bias, I mentally hear the voice of Mr. Spock chiding: "You are behaving most illogically."
+One problem with the Vulcan emphasis on logic above all is that it is not clear what motivates Vulcans. Logic helps us to see what is true, but it cannot tell us what we ought to do. Indeed, although Vulcans in the stories are successful within the quasi-military structure of Star Fleet, where orders come from above and give them straightforward guidance as to what their goals should be, they seem to be at something of a loss if thrown into an ambiguous situation, separated from authority and forced to set their own goals.
+This suggests that we do not want to become true Vulcans, but rather to retain a core of human emotionality surrounded by a shell of logic. Our emotions, our needs and our drives set our goals. Logic then helps us to achieve those goals. Logic is the means, but emotional satisfaction is the end.
+I must admit that this sounds a little too pat. It is far from clear that we can separate our mental functions so nicely. Even Vulcans are depicted as suffering from rare episodes of near psychotic irrationality and emotion, as years of suppressed emotions seem to explode uncontrollably. I wonder if our efforts to channel and control our emotions may lead to similar catastrophic failures.
+
+
+title: Vulcan Logic
+
+date: December 31, 2006 3:21 am
+

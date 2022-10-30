@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+The first global financial bubble in stock prices occurred 1720 …  Using newly collected stock prices for British and Dutch firms in 1720, we find evidence against indiscriminate irrational exuberance and evidence in favor of speculation about two factors:  the Atlantic trade and the incorporation of insurance companies. The fundamentals of both sectors may have led to high expectations of future growth.  Our findings are consistent with the hypothesis that financial bubbles require a plausible story to justify investor optimism. …
+Although  1720  is  not  generally  viewed  as  a  period  of  technological novelty, we argue in this paper that there were at least three critical innovations that took place in a very short span of time; two of which were financial innovations, the other was a major potential shift in the configuration of global trade.  The first innovation was financial engineering at a national scale.  The Mississippi Company  and  the  South  Sea  Company  issued  equity  shares  in  exchange  for government debt; in effect converting the national debt into corporate stock.  …
+The second innovation was an incipient shift in global trade.  Both of the companies were set up to exploit trade in the Americas. …  The  third  innovation was also financial.  The first publicly  traded insurance corporations were chartered in Great Britain 1720, as a result of the Act.  As such, they represented a new model of capital formation for maritime insurance firms – in a nation built on maritime trade.
+More here.  These sure do seem like big innovations, which eventually did have large implications.  The general lesson: it is easy to over-estimate the profits to be gained by first-movers exploiting even very large innovations.
+
+
+title: The First Tech Bubble: 1720
+
+date: September 25, 2009 6:00 am
+

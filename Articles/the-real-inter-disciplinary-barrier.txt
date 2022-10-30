@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+The view of academic experts in an area often differs considerably from the impression given in the popular media, such as in newspapers and magazines.  But each academic knows only a few areas as an academic; most of the rest he knows mainly as a consumer of popular media.  Unfortunately, academics typically accept media impressions of academic consensus in areas outside their own.   
+Because of this, it is very hard to combine media-contrary results from more than one academic field.  No field will accept a contribution from another field that differs much from the media impression of that other field; only the most elite academics can get people to listen long enough to believe otherwise.  Non-elites who try will mainly just be called "strange" or "crazy."  I had trouble convincing hard sci/tech folks to believe uncontroversial results in economics, and I’ve had similar troubles going the other direction.  I’ve even had non-health-economists call me crazy for telling them standard results in health economics.   
+This is my main explanation for my apparent disagreement with Tyler Cowen (of whom I’m a big fan), who today clarified where he thinks we disagree.  If you recall, Tyler profiled me in his new book Discover your Inner Economist, saying "Robin has strange ideas" and also recently said "I do think he’s crazy on a bunch of things."  I suggested Tyler didn’t really disagree with me much, but used me to "voice views Tyler is reluctant to embrace directly in a popular book."  
+Tyler countered, "In some ways I think of the whole book as an (attempted) rebuttal to Robin" and then described our disagreement via labels like "Darwin, Fourier, Comte" versus "Henry Sidwick, Hayek, Quine."  I complained that this was too vague, explaining that I don’t mind differing styles or values, but being a reluctant disagreer I want to see disagreements on fact stated as clearly as possible.   
+ Today Tyler clarified:  (Added: In the comments see Tyler, me, Tyler, me.) 
+  
+
+Of a randomly chosen three hundred persons, I am probably closer to Robin’s views than anyone else in the group. 
+
+ (Does this mean most people could say Tyler has "strange ideas"?)  But then Tyler lists eight items of disagreement.  Tyler’s list does not include these "strange ideas" tied to me in his book: medical spending ineffectiveness, fast future robot-driven growth rates, widespread evolution-driven signaling and self-deception, and objections to social hypocrisy.  Can I presume he doesn’t disagree much on these?
+ Strikingly, the three items on which Tyler most clearly identifies a disagreement (only one of which was in the book) are all in hard science and technology:
+
+1. I see the chance of people becoming uploads — even within centuries — as less than one percent.  Apart from the technical issues (ever get a flat tire?), I think it is easier to graft greater intelligence and computational abilities onto already-existing biological beings. 
+ 5. … "If your head is cryogenically frozen today, you will be alive in 2100."  … I assign this a "p" of under one in ten thousand, basically for the reasons that a stupid person would give. 
+ 7.  Robin believes in the "many worlds interpretation of quantum mechanics."  … I’ll accept the estimate of the professional community of the relevant experts and not raise my "p" or betting odds any higher than that. 
+
+ Tyler seems to be unaware that relevant physics experts probably give many worlds view a "p" of over 1/3, which isn’t far from what I’d give.  And having just attended a technical workshop on whole brain emulation (WBE), I can say I doubt any attendee would have assigned it a chance anywhere near as low as one percent in centuries.   And if WBE (= upload) works, then cryonics (to which I’ve assigned a chance of >5%) must work too if freezing doesn’t destroy too much info, and if premature thawing is prevented.
+ Honestly, Tyler doesn’t know that much about hard science and technology; in eight years of close contact I’ve never seen the argumentative Tyler introduce, engage, or even show much interest in a technical hard sci/tech argument.  And yet Tyler feels confident enough in his perception of expert consensus on such topics to base his disagreements with me on them, even though I’ve spend years in such areas (e.g., M.S. physics, 2 physics journal articles, 9 years computer research).  Thus I attribute our disagreement to the standard interdisciplinary barrier/bias.   
+ On Tyler’s other five points, it is still not clear to me that we actually disagree.   On his #2 and #6, I think Tyler and I both agree that private law and decision markets are among the twenty most interesting big potential policy ideas in the last few decades, that such big ideas have little chance of being adopted wholesale and even then would work out very differently than anticipated, but that such ideas are nevertheless well worth exploring and trying out first on small scales.  On decision markets Tyler says:
+
+I stress the expressive function of democracy, and its ability to maintain public morale and cohesion, … I don’t think values and beliefs can be so easily separated. 
+
+ But I don’t disagree; yes non-policy functions of government are important, and I never said fact-value separation was easy.  Tyler also exaggerates our differences on private law, saying "Robin thinks we could privatize all law; I don’t." while the link he gives for me is to this essay, where I explored subjecting private law to anti-trust regulation and invasion protection by a central government.  
+ On Tyler’s points #3, #4, and #8, as best I can understand them I just don’t see that Tyler has identified facts on which we disagree.  Sure we may have "very distinct analytical engines", though even that is a bit of an exaggeration.  But it does make perfect sense for people to take advantage of their comparative advantages at different styles.  The problem only comes when we conclude for no good reason that our favored style is more informative than others.   
+
+
+title: The Real Inter-Disciplinary Barrier
+
+date: August 4, 2007 5:00 pm
+

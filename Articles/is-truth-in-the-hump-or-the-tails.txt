@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+How does the distribution of truth compare to the distribution of opinion?  That is, consider some spectrum of possible answers, like the point difference in a game, or the sea level rise in the next century.  On each such spectrum we could get a distribution of (point-estimate) opinions, and in the end a truth.  So in each such case we could ask for truth’s opinion-rank: what fraction of opinions were less than the truth?  For example, if 30% of estimates were below the truth (and 70% above), the opinion-rank of truth was 30%.  
+ If we look at lots of cases in some topic area, we should be able to collect a distribution for truth’s opinion-rank, and so answer the interesting question: in this topic area, does the truth tend to be in the middle or the tails of the opinion distribution?  That is, if truth usually has an opinion rank between 40% and 60%, then in a sense the middle conformist people are usually right.  But if the opinion-rank of truth is usually below 10% or above 90%, then in a sense the extremists are usually right.  
+ Now the sense in which extremists might be more right is not a sense of a better median or expected value; surely those tend to be near the middle of the distribution of opinion.  But as I explained yesterday, we might be rewarded for opinions closer to the truth than other opinions.  If truth tended to be in the opinion tails, extremists would on average get more such rewards, while if the truth tended to be in the middle, the conformists would get more rewards.   (Other social rewards, for conforming or for showing originality and daring, would probably explain the deviation.)  
+ Extremists could also be more right in the sense of providing more useful explorations of points of view.  That is, if the choice of a point estimate was the choice to explore the implications of possible scenarios near that point estimate, we might want the fraction of people who explored each scenario to be proportional to its probability, as well as to the difficulty and importance of thinking about that scenario, if it were true.  
+ So, does truth tend to be found more in the middle hump of opinion, or in the extreme tails?  Someone out there must have data that can shed light on this.   
+
+
+title: Is Truth in the Hump or the Tails?
+
+date: February 12, 2007 6:00 am
+

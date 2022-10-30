@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Consumer pressure for quality in medicine is very weak.  How weak?  Consider that readers of Consumer Reports are unusually wealthy and assertive as customers, and readers who answered a Consumer Reports survey are probably especially so.  Yet when such folks had a choice of hospitals, only 2% listed a hospital rating among their top three reasons:
+Fifty-nine percent of patients in our survey did not enter the hospital through the emergency room, so they might have had a choice of which hospital to go.  But 65 percent [of these] simply went to the hospital their physician recommended or was affiliated with.  Forty percent chose a hospital for its location, and 28 percent because it was in their health plan’s network.  (Respondents were asked for their top three reasons.)  Only 11 percent chose the hospital for its record in treating their condition, and only 2 percent on the basis of the hospital’s ratings in books or magazines or online.  (Consumer Reports, September 2009, “Patients Beware,” pp. 18-23.)
+I suspect most of that 11% of patients were actually just relying on their physician’s claim about a hospital’s record, rather than checking it out for themselves.  Consumer Reports also surveyed 731 hospital nurses, 26% of who said their staff is lax in washing hands, vs. 5% of patients who said so:
+To help prevent hospital infections, the national Centers for Disease Control and Prevention says that doctors or nurses should wash their hands (or use alcohol gel) in front of you when they enter your room, and if they don’t you should remind them.  Many hospitals have campaigns to encourage patients to speak up in that way.
+Do it!
+
+
+title: Indifference To Hospital Quality
+
+date: August 10, 2009 6:00 am
+

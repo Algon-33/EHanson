@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+A new PNAS paper:
+Prediction markets set up to estimate the reproducibility of 44 studies published in prominent psychology journals and replicated in The Reproducibility Project: Psychology predict the outcomes of the replications well and outperform a survey of individual forecasts. … Hypotheses being tested in psychology typically have low prior probabilities of being true (median, 9%). … Prediction markets could be used to obtain speedy information about reproducibility at low cost and could potentially even be used to determine which studies to replicate to optimally allocate limited resources into replications. (more; see also coverage at 538, Atlantic, Science, Gelman)
+We’ve had enough experiments with prediction markets over the years, both lab and field experiments, to not be at all surprised by these findings of calibration and superior accuracy. If so, you might ask: what is the intellectual contribution of this paper?
+When one is trying to persuade groups to try prediction markets, one encounters consistent skepticism about experiment data that is not on topics very close to the proposed topics. So one value of this new data is to help persuade academic psychologists to use prediction markets to forecast lab experiment replications. Of course for this purpose the key question is whether enough academic psychologists were close enough to the edge of making such markets a continuing practice that it was worth the cost of a demonstration project to create closely related data, and so push them over the edge.
+I expect that most ordinary academic psychologists need stronger incentives than personal curiosity to participate often enough in prediction markets on whether key psychology results will be replicated (conditional on such replication being attempted). Such additional incentives could come from:
+
+direct monetary subsidies for market trading, such as via subsidized market makers,
+traders with higher than average trading records bragging about it on their vitae, and getting hired etc. more because of that, or
+prediction market prices influencing key decisions such as what articles get published where, who gets what grants, or who gets what jobs.
+
+For example, imagine that one or more top psychology journals used prediction market chances that an empirical paper’s main result(s) would be confirmed (conditional on an attempt) as part of deciding whether to publish that paper. In this case the authors of a paper and their rivals would have incentives to trade in such markets, and others could be enticed to trade if they expected trades by insiders and rivals alone to produce biased estimates. This seems a self-reinforcing equilibrium; if good people think hard before participating in such markets, others could see those market prices as deserving of attention and deference, including in the journal review process.
+However, the existing equilibrium also seems possible, where there are few or small markets on such topics off to the side, markets that few pay much attention to and where there is little resources or status to be won. This equilibrium arguably results in less intellectual progress for any given level of research funding, but of course progress-inefficient academic equilibria are quite common.
+Bottom line: someone is going to have to pony up some substantial scarce academic resources to fund an attempt to move this part of academia to a better equilibria. If whomever funded this study didn’t plan on funding this next step, I could have told them ahead of time that they were mostly wasting their money in funding this study. This next move won’t happen without a push.
+
+
+title: Could Gambling Save Psychology?
+
+date: November 10, 2015 2:23 pm
+

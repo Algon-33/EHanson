@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I’ve talked on my book Age of Em 79 times so far (#80 comes Saturday in Pisa, Italy). As it relies a lot on economics, while I mostly talk to non-econ audiences, I’ve been exposed a lot to how ordinary people react to economics. As I posted recently, one big thing I see a low confidence in any sort of social science to say anything generalizable about anything.
+But the most common error I see is a lack of appreciation that coordination is hard. I hear things like:
+If you asked most people today if they want a future like this, they’d say no. So how could it happen if most people don’t like it?
+Their model seems to be that social outcomes are a weighted average of individual desires. If so, an outcome most people dislike just can’t happen. If you ask for a mechanism the most common choice is revolution: if there was some feature of the world that most people didn’t like, well of course they’d have a revolution to fix that. And then the world would be fixed. And not just small things: changes as big as the industrial or farming revolutions just wouldn’t happen if most people didn’t want them.
+Now people seem to be vaguely aware that revolutions are hard and rare, that many attempted revolutions have failed, or succeeded but failed to achieve its stated aims, and that the world today has many features that majorities dislike. The world today has even more features where majorities feel unsure, not knowing what to think, because things are so complicated that it is hard to understand the feasible options and action consequences. Yet people seem to hold the future to a different standard, especially the far future.
+Near-far theory (aka construal level theory) offers a plausible explanation for this different attitude toward the future. As we know a lot less detail about the future, we see it in a far mode, wherein we are more confident in our theories, see fewer relevant distinctions, and emphasize basic moral values relative to practical constraints. Even if the world around us seems too complex to understand and evaluate, issues and choices seem simpler and clearer regarding a distant future where in fact we can barely envision its outlines.
+But of course coordination is actually very hard. Not only do most of us only dimly understand the actual range of options and consequences of our actions today, even when we do understand we find it hard to coordinate to achieve such outcomes. It is easier to act locally to achieve our local ends, but the net effect of local actions can result in net outcomes that most of us dislike. Coordination requires that we manage large organizations which are often weak, random, expensive, and out of control.
+This seems especially true regarding the consequences of new tech. So far in history tech has mostly appeared whenever someone somewhere has wanted it enough, regardless of what the rest of the world thought. Mostly, no one has been driving the tech train. Sometimes we like the result, and sometimes we don’t. But no one rules the world, so these results mostly just happen either way.
+
+
+title: No One Rules The World
+
+date: October 2, 2016 3:45 pm
+

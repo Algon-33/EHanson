@@ -1,0 +1,54 @@
+author: Robin Hanson
+
+text: 
+I wrote: 
+
+ We feel a deep pleasure from realizing that we believe something in common with our friends, and different from most people. … This feeling is EVIL.
+
+ Patri Friedman responded:
+
+ I see this bias as counteracting the bias of groupthink. The opposite bias is for people to enjoy believing what everyone else believes. This leads to homogeneity of viewpoints, less generation and testing of new hypothesis, and stasis. The people who enjoy believing they have a secret truth are those who nurture non-mainstream but plausible hypotheses, and accumulate new evidence to possibly challenge the mainstream. I think this is very valuable.
+
+ Yes, we want to explore a diversity of hypotheses, but this doesn’t require a diversity of beliefs; we can believe similar things while exploring different things.  Yes, groupthink seems to exist, but not as a general bias to conform to average beliefs; groupthink is a bias to conform to in-group beliefs against out-groups.  Thus by their nature groupthink biases of in-groups come already countered by out-groups.  
+When a particular group (such as academia) rewards in-group conformity, you may at times be right to resist that.  But by doing so you would not be resisting some general pressure to conform with a global average; you would instead be favoring one group less than others.  I see no general conformity pressure in need of resisting; I instead see instead particular groupthinks, some of which may be preferred to others.  
+ For example, in herding experiments, subjects must choose between a few acts (e.g., which movie to watch), where some acts pay better than others.  One at a time subjects choose an act, after seeing both a private clue about act quality, and seeing others’ previous choices.  I’ve just reviewed 16 papers on this (including this this this this this this this this this this this and this).
+  
+Herding experiment subjects will respond to payoffs that explicitly reward making the same choice as others, but without such extra payoffs subject behavior is well explained by these factors: 
+
+Rationality:  Subjects attend to the info contained in others’ acts. 
+Error:  Subjects make random mistakes 
+Contrarian:  Subjects prefer acts that fewer others pick. 
+Arrogance:  Subjects weigh their own clues more strongly than others’.
+
+We need no additional tendency to conform with others’ acts to explain this data!   
+Yes, conformity-related personality factors predict who herds more, and for the inexperienced losses can loom larger than gains.  And we do see info collection puzzles; subjects buy too much info and can prefer poor social info over good private info.  But given their info, we see no tendency for herding experiment subjects to conform to others acts unless payoffs directly reward such conformity.  We in fact see the opposite – unrewarded contrarian tendencies.  
+ Yes, psychologists have a huge literature on conformity, but I can’t find psych data clearly showing belief conformity effects, beyond these other effects.  Most psych experiments don’t carefully control for info effects, and so can’t tell if belief herding is due to info or conformity effects.  Asch’s "conformity" experiments are now most famous, but actually:
+
+[Considering] 99 accounts in social psychology textbooks … we found that authors have often distorted Asch’s findings, and that this trend has increased substantially with time.  … When it first appeared, the Asch study was understood … as evidence of the impressive powers of independence in social life.  With the passing years, however, it has been increasingly represented as a traditional demonstration of conformity and the central point of Asch’s work has become not only drastically weakened, but reversed.  
+
+The place where belief conformity seems clearest to me is in ideological groupthink – religion, politics, etc., i.e., where a group’s identity is tied up with a belief on some hard to verify topic.  I’m willing to believe this often extends to more practical beliefs as well, but as far as I can tell there just is no net "bias … to enjoy believing what everyone else believes."  At best we see pressures to embrace particular groupthinks against others.  
+ Some extended quotes from four papers.  One: 
+
+ If there is an additional preference to go along with the crowd, then this status-quo bias should show up most clearly when the Bayes’ distribution for A is close to 1/2. … We think that it is reasonable to identify the previous decision as being the status quo, even when there is only one previous decision.  … If there is a systematic bias in favor of following the previous decision(s), it is too weak to show up in these data.
+
+Two: 
+
+ We study the role of social preferences and conformity in explaining herding behavior in anonymous risky environments. In an experiment similar to information cascade settings, but with no private information, we find no evidence for conformity. On the contrary, we observe a significant amount of non-conforming behavior, which cannot be attributed to errors.
+
+Three:  
+
+ 6000 subjects, including a subsample of 267 … from an international consulting firm, participated in the experiment. … We find no evidence of herding or imitative behavior in the presence of a flexible market price…. While we do not observe herding, we find considerable support for the existence of "contrarian" behavior. … There seems to be no significant difference between male and female subjects, or between subjects with and without college education. Ph.D.’s and Ph.D. students, however, performed slightly better in terms of rationality. … physicists and mathematicians perform best in terms of "rationality" (i.e. performance according to theory) and psychologists worst. However, since "rational" behavior is only profitable when other subjects also behave rationally … the ranking in terms of profits is just the opposite: psychologists are best and physicists are worst.
+
+ Four: 
+
+ An experiment found significant correlations between herding and age … In outlining the dimensions of social awareness, we use the DSM-IV-TR (2000) / ICD-10 (1994) classifications of an anti-social / dissocial personality along the dimensions of non-conformity, recklessness, disregard for others, impulsivity and risk-seeking. … In the behavioural model, gender and impulsivity have no significant impact on the tendency to herd. The grade of herding still exerts a strong, positive and statistically significant impact on the likelihood of herding. The association with age confirms other research suggesting that older people are less susceptible to social pressure.
+
+
+ Conformity and extraversion are associated with a significantly higher tendency to herd and venturesomeness is associated with a significantly lower tendency to herd. With the exception of the anomalous finding that the propensity to herd is relatively low in the empathetic subjects, overall the results from the psychometric analysis support the idea that the tendency to herd is a function of sociability, giving preliminary evidence that the interactions between conformity and sociability extends beyond the purely social contexts and into economic and financial decision-making.
+
+
+
+title: What Belief Conformity?
+
+date: November 10, 2008 6:00 am
+

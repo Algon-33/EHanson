@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Most artificial systems, made by humans, slowly degrade over time until they become dysfunctional, and are replaced. Such systems rarely change or improve over time, and so are sometimes replaced while still functional, with new improved competitors.
+Many systems, such as organisms and some kinds of firms, try to adapt to changing external conditions. But internal damage accumulates and eventually limits their ability to adapt quickly or well enough, and so they lose out to competitors. Empires may also decline due to internal damage.
+Some larger systems, like species, nations, languages, and many kinds of firms, face many similar competitors, and rise and fall in ways that seem so random that it is hard to tell if they suffer much from internal damage, including in their ability to adapt to context.
+In contrast, other larger systems face no competitors, at least for a long time, even as they are drawn from large spaces of possible systems. Consider, for example, that the community of mathematicians has created a total system of math that hangs together and is stable in many ways, and yet is drawn from a vastly larger space of possibilities. The space of possible math axioms is astronomical, but mathematicians consistently reuse the same tiny set of axioms. One could say that those axioms have become “entrenced” in math practice.
+Many other kinds of widely shared systems have few competitors, and yet entrench a set of specific practices drawn from a much larger space of possibilities. Consider, for example, the DNA code, the basic architectures of cells, and standard methods of making multi-cellular organisms. Or consider the shared features of most human languages, legal systems, financial systems, economic systems, and firm organization. Or even of computer languages and computer architectures. In each of these cases most of the world has long shared the same common set of interrelated practices, even though a vastly larger space of possibilities is known to exist and to have been little explored.
+Such shared practices plausibly persist because they are just too much trouble to change. As I wrote last year:
+When an architecture is well enough matched to a stable problem, systems build on it can last long, and grow large, because it is too much trouble to start a competing system from scratch. But when different approaches or environments need different architectures, then after a system grows large enough, one is mostly forced to start over from scratch to use a different enough approach, or to function in a different enough environment.
+In sum, entrenchment (or “entrenchit”) happens. I mention this to suggest that, as per my last post, known styles of software really could continue to dominate for long into the future. Many seem confident that very different styles will arise relatively soon on a civilizational time scale, and then mostly displace familiar styles. But who thinks we will soon see domination by new very different kinds of math axioms, human languages, legal systems, or world economic systems? Why expect more radical change in software than in most other things?
+Yes, sometimes new systems really do arise to displace old ones. But you can’t help but notice that while small systems are often replaced, revolutions to replace interlocking sets of common worldwide practices much rarer. And for such systems there are far more proposed and attempted revolutions than successful ones.
+
+
+title: Entrenchit Happens
+
+date: August 28, 2017 5:01 pm
+

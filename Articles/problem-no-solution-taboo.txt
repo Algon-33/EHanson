@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Three years ago I described the “What if Failure Taboo”:
+A simple moral principle: when a future change is framed as a problem which we might hope our political system to solve, then the only acceptable reason to talk about the consequences of failing to solve that problem is to scare folks into trying harder to solve it. If you instead assume that politics will fail to solve the problem, and analyze the consequences of that in more detail, not to scare people but to work out how to live in that scenario, you are seen as expressing disloyalty to the system and hostility toward those who will suffer from that failure.
+I suggested this could be an issue with my book Age of Em:
+All of which seems bad news for my book, which mostly just accepts the “robots take over, humans lose wages and get sidelined” scenario and analyzes its consequences. No matter how good my reasons for thinking politics will fail to prevent this, many will react as did Nikola Danaylov, with outrage at my hostility toward the poor suffering losers.
+This week I talked on my book to a sharp lively group organized by Azeem Azhar (author of the futurist newsletter Exponential View), and learned that this taboo may be worse than I thought. I tried to present the situation as something that you might consider to be a problem, but that while my analysis should enable better problem solving, I’ve personally focused on just describing this situation. Mixing up normative and positive discussions risks the positive being overshadowed by the normative, and positive claims seeming less reliable when mixed up with more disputable normative claims.
+Even with this reframing, several people saw me as still violating the key taboo. Apparently it isn’t just taboo to assume that we’ll fail to solve a problem; it can also be taboo to merely describe a problem without recommending a solution. At least when the problem intersects with many strong feelings and moral norms. To many, neutral analysis just seems cold and uncaring, and suspiciously like evil.
+
+
+title: Problem, No Solution Taboo?
+
+date: May 19, 2016 6:00 am
+

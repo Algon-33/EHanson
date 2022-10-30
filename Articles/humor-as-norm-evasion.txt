@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+As a young engineering and physics student, I was suspicious of the “subtext” and hidden meanings humanities types went on about.  Yeah sure some writers might use hidden meanings, but why analyze most texts this way?  And analyzing ordinary human conversation in such terms seemed over the top.  I thought, “How convenient for English teachers that only they can explain a novel’s hidden meanings to us?”
+But, I was wrong, wrong, wrong.  Hidden meanings are everywhere.  Maybe you can’t see them much when young, but if you keep at it eventually you will.  The Homo Hypocritus (i.e., man the sly rule bender) hypothesis I’ve been exploring lately is that humans evolved to appear to follow norms, while covertly coordinating to violate norms when mutually advantageous.  A dramatic example of this seems to be the sheer joy and release we feel when we together accept particular norm violations.  Apparently much “humor” is exactly this sort of joy:
+The benign-violation [= humor] hypothesis suggests that three conditions are jointly necessary and sufficient for eliciting humor: A situation must be appraised as a [norm] violation, a situation must be appraised as benign, and these two appraisals must occur simultaneously. … People who see the behavior as both a violation and benign will be amused. Those who do not simultaneously see both interpretations will not be amused. …
+In five experimental studies, … we found that benign moral violations tend to elicit laughter (Study 1), behavioral displays of amusement (Study 2), and mixed emotions of amusement and disgust (Studies 3–5). Moral violations are amusing when another norm suggests that the behavior is acceptable (Studies 2 and 3), when one is weakly committed to the violated norm (Study 4), or when one feels psychologically distant from the violation (Study 5). …
+We investigated the benign-violation hypothesis in the domain of moral violations. The hypothesis, however, appears to explain humor across a range of domains, including tickling, teasing, slapstick, and puns. (more; HT)
+Laughing at the same humor helps us coordinate with close associates on what norms we expect to violate together (and when and how). This may be why it is more important to us that close associates share our sense of humor, than our food or clothing tastes, and why humor tastes vary so much from group to group.
+Added 14Aug: I don’t mean to claim that all humor is benign norm violations, nor that all such violations are humorous.  Rather, I’d say the pattern fits much better than chance, and seems insightful.  I suggested humor functions in part to help us coordinate with close associates on what norm violations to excuse. This suggests that humorous norm violations could be pretty harmful, but just not to those doing the coordinating. This seems to apply to Vlad’s example; I expect wives to laugh at his joke more than husbands.  This also suggests, as per Evan and Katja, that covertly lowering the status of outsiders, by indirectly “making fun of them” against egalitarian norms, should also be funny.  Perhaps the more general pattern is that covertly conspiring against others tends to be funny.
+
+
+title: Humor As Norm Evasion
+
+date: August 11, 2010 2:30 pm
+

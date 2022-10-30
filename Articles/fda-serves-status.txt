@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+In June I wrote:
+It seems to me that the FDA’s rare “reputation” that so impresses Carpenter was not for doing well at trading off social costs and benefits of regulation, but was instead a reputation for scientific prestige. Many folks care far more that the FDA exalted scientists, and that the US gained prestige via its prestigious scientists, than whether this regulatory regime was too strict or weak in terms of trading harm, health, and costs for US citizens.
+New results confirm that FDA regulation is all about status:
+Favorable [FDA] regulatory outcomes enjoyed by established firms have traditionally been considered the result of political capture.  Alternatively, some scholars have argued that a firm’s reputation signals product quality to the regulator, which leads to better outcomes. …
+An examination of 884 New Drug Approval (NDA) applications submitted to the FDA from 1990 to 2004 [found] … firms with higher status in the knowledge domain enjoyed faster review times for their drugs. A drug sponsored by a firm occupying a position in the top 15% of the knowledge hierarchy spends roughly two hundred days less in the regulatory review process compared with a drug from a median status firm. … High status firms are rewarded for pursuing new market niches that enhance the bureaucratic reputation of the FDA, and enjoy a smaller penalty when the FDA slows down approval after a significant product recall event. …
+I find evidence that the regulatory advantages high status firms enjoy have less to do with the underlying quality of a specific product, and have more to do with the general identity of the firm in the broader knowledge domain. A firm’s status in the relevant therapeutic domain had a positive effect on review speed, but it was status accumulated in more basic scientific domains or unrelated therapy categories that had a larger effect on regulatory duration.  Furthermore, status did not exhibit a strong correlation with observable measures of quality such as priority rating, suggesting that these status effects occur independent of actual differences in quality.  …
+A [patent] citation from one organization to another signals an implicit acknowledgement of the importance of the citation-receiving organization, and suggests a certain deference5 by one organization to the other. …Therefore, I define status in the technology domain as … the proportion of citations a firm receives to all citations made to pharmaceutical firms in the sample five-year moving window.  (more)
+
+
+title: FDA Serves Status
+
+date: August 26, 2010 12:00 pm
+

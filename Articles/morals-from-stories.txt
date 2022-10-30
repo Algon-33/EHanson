@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+Scott Sumner suggests utilitarian stories drive our moral intuitions:
+One of the most common strategies of the anti-utilitarian position is to assume some societal set-up which shocks our sensibilities, and then assume that it would satisfy the utilitarian criterion of maximizing aggregate happiness.  Thus we might be asked to imagine a scenario where the total pleasures of the slave-owner exceed the suffering of the slaves … Bryan has an even more shocking example where the benefits to Nazi’s from the Holocaust exceeded the suffering to the Jews. …  At the end of these thought experiments we are told that unless we are willing to embrace the society envisioned in the thought experiment, we must, on logical grounds, give up on utilitarianism.
+
+title: Morals From Stories?
+
+date: April 17, 2009 9:00 am
+

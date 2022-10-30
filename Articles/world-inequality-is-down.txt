@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+From the Nov. ’13 Review of Income and Wealth:
+This paper provides a full decomposition of world [individual purchasing-power-parity income] inequality, as measured by the Gini coefficient, in the period 1970–2009. (more; ungated)
+
+The top two lines show total world inequality over time as estimated by this paper and by another previous paper. Both agree that worldwide income inequality has been falling consistently over four decades, especially in the last decade.
+Of course this ignores non-financial inequality and inequality across time.
+
+
+title: World Inequality Is Down
+
+date: November 19, 2013 2:00 pm
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+We intended this "web forum" to be a cross between a group blog and a conversation among experts.   We want to both attract readers to highlight our cause, and form a community discussing our shared interest.  This may not turn out not to be viable, but until we give up, let me ask contributors to help in this way: make half your posts accessible to a wide audience.   
+ It is great to have formal discussion of details of epistemology or Bayesian theory, but if that is mainly what readers see, most of them will leave.  And honestly our commitment to overcoming bias is a bit suspect if we just talk generalities and rarely grapple with specific biases and hard cases.   So please, I ask, let us post as often on accessible papers, news, or events that illustrate or embody important biases and corrections.  
+ Oh, and please, delete needless words; a screenful of text or less is ideal.  
+
+
+title: Contributors:  Be Half Accessible
+
+date: December 21, 2006 7:22 pm
+

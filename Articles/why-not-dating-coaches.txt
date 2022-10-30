@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+From the New York Times last week:
+
+"We have business coaches, dietitians, accountants, but we don’t have an expert for our love life?" said Lisa Clampitt, a dating coach and a founder of the Matchmaking Institute, which trains matchmakers in Manhattan. "It doesn’t make sense. It is really the single most important aspect in our life."
+
+ Ezra Klein adds:
+
+The idea that folks who need a bit of coaching or advice on these matters are painted as pathetic and weird has always struck me as deeply unfair. This idea that our romantic lives should be organic and spontaneous is rather nice, but for some folks, quite unlikely, and for others, quite self-deceptive. … That society suggests those who haven’t had free guides or good luck should be too ashamed to seek outside help is pretty cruel.
+
+  
+ Tyler Cowen counters:
+
+Many of the people with dating problems are their own worst enemies.  Paying for advice won’t much help because self-sabotage is the goal and the advice-giver can’t disassemble the relevant weirdnesses.  …  Second, I do not believe it much benefits "losers" to learn additional slickness.  The more likely result is that the coach tells the loser about seven of his mistakes, thereby discouraging him altogether. … It is much easier to sell aspirational goods than honesty. 
+
+This looks like this is a job for … <ta da> signaling man!  It seems obvious to me that: 
+
+dating couches can help individuals a lot,
+it looks very bad to have a dating coach, 
+we dislike even distant strangers using a coach, and
+who mates with who is largely a zero-sum game. 
+
+ People think that those who choose dating coaches have something seriously wrong with them, and so we try to avoid seeing ourselves as such a person.  And since dating is mostly zero-sum, if this reduces dating effort then its seems to me a case where self-deceptive signaling makes us better off.  But I don’t think we dislike strangers using dating coaches because of the zero-sum aspect.  I instead suggest we think games are more fair when winning correlates better with genetic quality, and that coaching reduces this correlation.  
+
+
+title: Why Not Dating Coaches?
+
+date: October 3, 2007 6:00 am
+

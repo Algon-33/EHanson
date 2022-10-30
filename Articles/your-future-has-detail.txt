@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Our visions of future events don’t include a lot of detail.  In the Sept. 7 Science, Gilbert and Wilson discuss the many resulting biases:   
+
+We feel better when we imagine going to the theater than to the dentist, but we feel better imagining either event on a sunny day than on a rainy day, or when we are well rather than ill. … When people who have missed trains in the past are asked to imagine missing a train in the future, they tend to remember their worst train-missing experience rather than their typical train-missing experience. … which leads them to overestimate how painful the next train-missing experience will be. 
+Similarly, when people experience an unpleasant episode that ends in brief relief – for example, submerging their arms for 90 s in a bath of ice water that is slightly warmed in the final 30 s – they tend to remember the closing moments of the experience rather than the most typical moments … which leads them to underestimate how painful the recurrence will be. It seems that everyone remembers their best day, their worst day, and their yesterday. Because unusual events and recent events are so memorable, people tend to use them when constructing simulations of future events. … Because simulations omit inessential features, people tend to predict that good events will be better and bad events will be worse than they actually turn out to be … 
+
+  
+
+Participants in one study were told that in a year there would be an interesting lecture at an inconvenient location and a boring lecture at a convenient location. Because their simulations of the lecture contained the essential features (e.g., the topic) but lacked the inessential features (e.g., the location), participants predicted that they would attend the more interesting lecture. But participants who were told that the same lecture was taking place tomorrow instead of next year tended to simulate both the essential and inessential features, and thus predicted that they would attend the more convenient lecture. The fact that simulations of far-future events are especially likely to omit inessential features is one of the reasons why people so often make future commitments that they regret when the time to fulfill them arrives. …
+ When people imagine what their lives would be like if they won the lottery or became paraplegic, they are more likely to imagine the first day than the two-hundred-and-ninety-seventh. The problem with imagining only the early moments of an event is that hedonic reactions to events typically dissipate over time, which means that mental simulations tend to overrepresent the moments that evoke the most intense pleasure or pain. This is one of the reasons why healthy people consistently underestimate how happy they would be in various states of ill-health. … 
+ When students at a university library were approached by a researcher and given a $1 coin, those who received an explanation for the event were less happy 20 min later than those who did not. But when students were asked to simulate the event, they predicted that they would be happier if they received an explanation. Participants in another study were more satisfied with a gift when they were not given the opportunity to exchange it because inescapability, like explanation, facilitates adaptation. And yet, participants who merely simulated receiving gifts failed to realize that they would be more satisfied with gifts that they couldn’t exchange. … 
+ Hungry people mistakenly expect to like eating spaghetti for breakfast the next day, and sated people mistakenly expect to dislike eating it for dinner the next day. People who have just exercised mistakenly expect to enjoy drinking water the next day more than do people who are about to exercise. … people overestimate how unhappy they will be after their team loses a football game and how happy they will be after becoming wealthy.
+
+It seems to me that intellectual commentary about the distant future suffers from similar lack of detail.  People focus on a few abstract moral or aesthetic considerations and extreme cases, and forget the vast detail that will make the difference between slightly more or less satisfying lives.  To a large extent the main things that matter about the future are how many people there are and how rich they are, so they can buy all those details that matter. 
+
+
+title: Your Future Has Detail
+
+date: September 20, 2007 6:00 am
+

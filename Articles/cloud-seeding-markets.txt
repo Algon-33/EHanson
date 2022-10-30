@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Nature considers cloud-seeding:
+
+Chinese meteorologists will use weather-modification technologies to try to stop rain from spoiling the [Olympic] party. … Official figures … say that the country created 250 billion tonnes of rain between 1999 and 2006. … Critics say that many of these claims are laughable, and that most of the projects under way are based on little more than faith. … Today, countries from Australia to Iran practise some form of cloud-seeding – as do nearly a dozen US states. …
+Some Chinese rain-makers have tried to conduct controlled seeding experiments. … In the early 1990s, the researchers found that rainfall rose by 18% as a result of 21 seeding operations – but the sample was too small for the results to be statistically significant.  In an earlier study, conducted between 1975 and 1986, meteorologists in … southeast China, conducted a randomized seeding experiment with two 14,000-square-kilometre regions. Over the course of 244 experimental days, they found that areas that had been seeded had 20% more rainfall than did those that had been left to their own devices.
+
+
+ 
+
+  
+
+Still, the results of these cloud-seeding experiments have not been published in peer-reviewed journals, and much scepticism lingers. … The national statistics on rain creation … are tied to performance appraisals … [so] there is plenty of incentive to exaggerate. … An influential 2003 report from the US National Research Council (NRC) declared that "there still is no convincing scientific proof of the efficacy of intentional weather-modification efforts." … The Weather Modification Association … said they had held cloud seeding to a standard of scientific proof "that few atmospheric problems could satisfy". …
+[There is] a new debate on whether Israel’s randomized seeding experiments – once seen as some of the most convincing evidence for the effects of cloud-seeding – were as effective as once thought. Two long-running experiments, each of which was carried out over 6 years in the 1960s and 1970s, suggested that seeding increased rainfall by 12-15%. …
+[In China,] long-term, randomized or targeted seeding experiments over a large region would mean forgoing opportunities to seed suitable clouds, and to some Chinese meteorologists, this is unthinkable given the country’s water crisis.  "If suitable clouds are there, we have to conduct cloud-seeding operations," says Shi. "The farmers would be furious if we didn’t." 
+
+Disagreement on whether cloud-seeding works gives us the sad situation where some places refuse to try cloud-seeding without rock-solid proof, which they wait for others to provide, while other places refuse random testing because that would mean sometimes forgoing seeding.  Now imagine prediction markets on whether cloud seeding works.  
+ Imagine officials in each location had their own differing private estimate of the average effectiveness of cloud-seeding.  Without a market, they would each choose different cloud-seeding policies based on their differing estimates.  But given a prediction market, then if free to act to maximize value, such officials would find it in their interest to all choose their cloud-seeding efforts as if they all agreed with the common market estimate — their differing private estimates would only influence their market trades.  (These sort of effects are illustrated in this colorful example.) Furthermore, these trades could create enough market liquidity to entice speculators to pay for randomized trials to gain trading info advantages.  
+
+
+title: Cloud Seeding Markets
+
+date: July 9, 2008 6:00 am
+

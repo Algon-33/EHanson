@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Unless project gains can be very clearly proven to analysts, or perhaps so small and numerous to allow averaging over them, public firms are basically incapable of taking a loss on earnings this quarter in order to make gains several years later. … CEOs are strongly tempted to instead please analysts by grabbing higher short-term quarterly earnings. …
+Private firms are 3.5 times more responsive to changes in investment opportunities than are public firms. … IPO firms are significantly more sensitive to investment opportunities in the five years before they go public than after. (more)
+A month ago I said that these results imply that we need wealth inequality, to ensure we make the discretionary investments on which all our future wealth depends.
+Today I want to admit that these results also imply that even thick speculative markets, full of lots of people trading lots of money, often have big info failures. While I am a big fan of using speculative markets to aggregate info, I must admit that they quite often fail to aggregate all relevant info, even when a lot of money can be won there.
+CEOs at private firms choose investments based on private info on likely rates of return. If the same firm were to be made public, however, the above evidence suggests that CEOs would make less than 25% of those investments. In the other 75+% of cases, the CEO would estimate that market speculators would not credit the stock price for the value of those promising investments, but would instead punish the firm for lower short term earnings. It seems that market speculators cannot distinguish these investments from other less promising ones that CEOs would undertake if speculators were to credit these. CEOs typically know crucial investment details not available to speculators.
+Now I can see ways to improve existing stock markets, so that they could aggregate more investment info. We could allow and even encourage “insider” stock trading by firm insiders like the CEO. And we could create decision markets, trading the stock value conditional on specific investment decisions. But while these changes should raise that <25% figure, i.e., the fraction of investments by private firms that would also be made by a public firm, they might not raise it by much.
+Speculative markets can work info aggregation wonders, at least compared to common methods like surveys or committee meetings. But if you really want as much info as possible on big investments, we still know of nothing better than rich private investors with a lot on the line.
+
+
+title: Info Market Failure
+
+date: February 12, 2012 9:35 pm
+

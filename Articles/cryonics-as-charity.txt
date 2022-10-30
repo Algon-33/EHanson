@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Products and services (i.e., “goods”) can be divided into two types: those that on net suffer from congestion effects, and those that instead benefit from scale effects.  For congestion goods, the more that one person consumes of the good, the harder it gets for others to consume it.  For scale goods, in contrast, the more that some consume, the easier it gets for others to consume.
+Creating a new person with a demand for some good, or raising an existing person’s demand for that good, has very different effects on others, depending on whether it is a congestion or scale good.  Adding new demand for congestion goods hurts others, while adding new demand for scale goods helps others.
+For example, an increase in your demand for limited beachfront property, or for food prepared personally by today’s most famous chef, hurts others who also demand those goods.  Your increased demand for certain computer chips could also hurt others, if such chips required a special metal in limited supply.
+Chips, however, are usually net scale goods: bigger chip plants make chips cheaper, and larger demand justifies higher fixed costs such as in chip design, and induces faster innovation in chip design, manufacture, use, etc.  Larger communities of users for a good can also benefit from network externalities, such as when a phone or IM system becomes more valuable because more other folks can be contacted via them.  Note, however, that apparent “network” gains via more folks following a new fashion are  usually negated by the harm to those following older fashions.
+Tyler recently said the world would be better if tech nerds donated to charity instead of buying cryonics (he didn’t explain why this isn’t just as true for most consumption.)  But while many dislike cryonics because they see it as especially selfish, in fact cryonics has such huge scale effects that buying cryonics seems to me a pretty good charity in its own right.  Consider:
+
+The main risk for cryonics failure, and the reason I usually only give it a >5% chance of success, is social — it will be hard for small disliked marginal organizations with only thousands of scattered customers to survive for a century or two.  With millions or more supporting customers, however, such survival would be far more likely.   Reputation, regulation, and reinsurance would more effectively ensure that cryo orgs kept their commitments.
+Cryonics cost is now dominated by fixed costs, such has to maintain skilled teams ready to do procedures.  With millions of customers, the cost to freeze could fall to a few thousand dollars.
+The marginal cost to store another frozen person in liquid nitrogen is dominated by the cost of liquid nitrogen, which goes as the surface area of the containers used.   Larger containers have a smaller surface area relative to enclosed volume, and so cost less per person.
+Millions of customers would induce a better adapted regulatory treatment, making it legally easier to freeze folks, and especially for frozen folks to save and grow assets to use decades later for revival and reintegration into society.  With enough customers who cared enough, interest rates could even fall.
+Another major cryonics risk is that a rich powerful future able to revive frozen folks may never arrive.  But the more folks hope to use cryonics to live in such a future, the more folks will care more about that future and try harder to make sure it happens.  Which will of course could greatly benefit innumerable future generations.
+One possible cryonics congestion effect is that the future may have a limited capacity to absorb workers not trained in then-current techniques.  But this effect seems minor relative to the others here; enough savings can pay for retraining.
+New fashionable goods, that gain users status, hurt others by making them look less fashionable.  Cryonics is not only not in fashion, it tends to make users worse.  This effect adds to its status as a charity.
+
+OK, even if consuming cryonics helps others, could it really help as much as direct charity donations?  Well it might be hard to compete with cash directly handed to those most in need, but remember that most real charities suffer great inefficiencies and waste from administration costs, agency failures, and the inattention of donors.
+If cryonics does ever succeed, the failure of humanity to actually use it much until many decades after it was possible will seem like one of humanities greatest failures, and those the who opposed it as some of histories greatest villains.
+
+
+title: Cryonics As Charity
+
+date: July 12, 2010 4:45 pm
+

@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+The main feedback I get on posts is comments. Sometimes I’m puzzled that a favorite post of mine gets very few comments, and I’m not sure if that is because others didn’t like it or just didn’t have anything to say about it.  So now, you can vote on posts, to signal your interest without needing to say something in particular about a post. Let the feedback begin.
+
+
+title: OB, Now With Votes
+
+date: June 13, 2011 11:15 pm
+

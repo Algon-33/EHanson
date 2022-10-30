@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+In The New Yorker, Tad Friend on what movie marketers say about who likes what:
+ Young males like explosions, blood, cars flying through the air, pratfalls, poop jokes, "you're so gay" banter, and sex – but not romance. Young women like friendship, pop music, fashion, sarcasm, sensitive boys who think with their hearts, and romance – but not sex (though they like to hear the naughty girl telling her friends about it). They go to horror films as much as young men, but they hate gore; you lure them by having the ingénue take her time walking down the dark hall. 
+Older women like feel-good films and Nicholas Sparks-style weepies: they are the core audience for stories of doomed love and triumphs of the human spirit. They enjoy seeing an older woman having her pick of men; they hate seeing a child in danger. Particularly once they reach thirty, these women are the most "review-sensitive": a chorus of critical praise for a movie aimed at older women can increase the opening weekend’s gross by five million dollars. In other words, older women are discriminating, which is why so few films are made for them. 
+Older men like darker films, classic genres such as Westerns and war movies, men protecting their homes, and men behaving like idiots. Older men are easy to please, particularly if a film stars Clint Eastwood and is about guys just like them, but they’re hard to motivate. "Guys only get off their couches twice a year, to go to `Wild Hogs' or `3:10 to Yuma'." 
+This seems a nice set of "stylized facts" to explain. Must we invoke age and gender specific random cultural drift to explain these, or can we find more systematic and functional explanations? 
+  I can roughly understand young men liking action, violence, and sex while young women like fashion, gossip, and romance.   But why do old men like darkness and idiocy while old women like critical praise, "doomed love and triumphs of the human spirit"?   Can you, for example, tell a plausible story of how this helps them learn about something useful, or helps them signal a valued characteristic?
+
+
+title: Who Likes What Movies
+
+date: January 21, 2009 10:00 am
+

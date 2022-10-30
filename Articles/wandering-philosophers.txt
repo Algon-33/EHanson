@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Philosophy is the "miscellaneous" academic discipline.  Once upon a time all abstract topics were philosophy, dealt with by a common set of methods, which made it relatively easy to relate any two topics.  Then one by one various academic disciplines broke away, gaining advantages of focus and a topic-specific mix of methods, at the expense of more difficulties relating topics across disciplinary boundaries.   
+ Philosophy now deals with the hardest topics, that no other discipline wanted to take away, and applies general methods – mostly clarifying claims and identifying the arguments that connect them.  The more ambitious I get intellectually, the more I find myself crossing paths with philosophers.  But as I do so the more puzzled I am to see  philosophical practice mostly avoid a standard general method: concise summary claims.
+ To me, an ideal paper first clearly and concisely states a claim it will defend, in its title and abstract.  The introduction quickly reviews the context and restates the claim, summarizing its supporting argument.  The body of the paper makes good on those promises, filling out the detail, clearly flagging all required assumptions.  And then the conclusion restates the claim and argument and points to further implications.  This standard approach gives readers full warning, so that they can lookout for rhetorical tricks favoring the claim.
+ In contrast, most philosophy papers today have no abstract.  They instead start by introducing a topic or question, and then they critique other philosophers’ views on it.  As unsatisfactory views are discarded, new views may be proposed and also discarded, and the question may be rephrased.  The author’s preferred phrasing and answer is usually only described near the end of the paper, and then with only moderate detail or attention to counter arguments.  
+I presume there must be important advantages of this style, but still don’t see how the advantages can outweigh the disadvantages. 
+
+
+title: Wandering Philosophers
+
+date: June 20, 2007 6:00 am
+

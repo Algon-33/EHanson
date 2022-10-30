@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Most people distrust for-profit firms, relative to individuals and other kinds of orgs. And they distrust such firms more when they get larger, and serve a larger fraction of their industries. This fear expresses itself in criticism, suspicion, and support for politicians who increase the regulations and taxes on such orgs.
+This fear is often justified by pointing to potential harms that might result from selfish firms exercising their market power, i.e., their ability to influence prices. (Somehow they can’t believe government or charities would do similarly.) Most people are thus especially eager to see “antitrust” regulation, which purports to directly focus on and address this issue.
+Thus most people are surprised when scholars like me (and others) tell them that, historically, regulation with that label seems to been worse than useless; it has done net harm. While simple theory says that harmful market power would be used to raise prices and restrict supply, antitrust regulation has often punished firms for lowering prices and increasing supply.
+But a valid question remains: if theory suggests that market power can be harmful, why don’t we see beneficial regulation to limit such harm? Is government so incompetent that it can’t even on average help to limit the harms from market power?
+My main point in this post is just to say: actually we do have a lot of regulation that usefully limits market power. It just doesn’t go under the name “antitrust regulation”. It instead goes under the name “utilities regulation”.
+We quite commonly have regulation that controls to varying degrees the organizations that supply water, sewer, gas, electricity, phone, cable TV, internet, roads, mail, and other common city services. This is because of a strong widespread consensus that it wouldn’t go well to allow most such organizations full freedom to choose the prices that they charge for such services. It is often prohibitively expensive to build infrastructure to allow multiple competing suppliers of such services, and a single supplier could charge crazy high prices.
+Now it might in fact be feasible and even preferable to have such services be supplied by fully private organizations constrained by long term contracts with their customers. But most everywhere instead solves such problems with utilities regulation. Suggesting a widespread consensus that there is in fact a real problem with market power in these cases, and that regulation is usually a reasonable solution.
+So the lesson to learn here is not that governments can’t effectively regulate market power. The lesson is that market power has to get pretty extreme before that approach works. Regulating roads and sewer services, that can make sense. But regulating suppliers of oil, aluminum, cameras, or computer operating systems, when suppliers face actual competitors offering such products to customers, doesn’t make sense.
+Yes there is often substantial market power there, and thus some potential for harm, and the logical possibility that smart well-intentioned regulators could improve on unregulated behavior. But given typical abilities of firms to capture regulators, and use their powers as a club to limit competition, it doesn’t actually make sense. The state of the art is: either turn an industry into a regulated utility, or just leave it alone.
+
+
+title: Sensible Antitrust
+
+date: March 23, 2022 8:35 pm
+

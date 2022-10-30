@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Over the years I’ve seen many studies correlating overall death rates with other features, and also seen studies on correlates of particular causes of death, but until Ken Lee’s thesis I’d never seen how death correlates change with broad categories of death causes. Yesterday I pointed to one disturbing correlate: more med spending correlates with more cancer deaths, but not with more deaths from other causes.
+That data also found injury deaths increasing more with alcohol use, which makes sense.  While no population density estimates were significant, density’s most positive correlation with death was for “other” deaths, which contains most known contagious conditions. This also makes sense, as density increases contagion.
+That was all from Lee’s chapter 2, where he looks at 50 states over 28 years. In chapter 3 Lee turns to a much larger data set, 367,101 adults from the National Longitudinal Mortality Study, followed over 11 years during which 9.1% of them died. Here are a few selections from Lee’s Table 14, where he breaks down deaths into cancer, heart attack, injury, and other:
+
+If docs are especially bad at treating cancer, then we should expect those who use docs more to do worse at cancer.  And in fact women, the rich, and the well educated do worse at cancer.  Since there are many more dangerous objects in rural and poor lives, it also makes sense that such folks suffer injury deaths more.
+If the main reason rural folks die less is that lower density reduces contagion, we’d expect the rural effect to be largest for “other” deaths, and that is what we find. Interestingly, that is also the kind of death which marriage best prevents – does married life prevent contagion compared with single life?
+
+
+title: Death Cause Correlates
+
+date: May 24, 2011 1:50 pm
+

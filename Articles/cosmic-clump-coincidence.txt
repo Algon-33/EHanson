@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Now this is just weird: the Zodiac, an apparent ring of distinct extra bright stars centered on us, is not an illusion – it really exists out there.  Called Gould’s belt, it is ~1000pc (parsec) in diameter, we are within about 100pc of its center, and it formed together 30-60 million years ago:
+
+Some think it formed when a clump of dark matter, massing about ten million suns, passed through a molecular cloud, an event they say should happen every ~300 million years.  (Clumps pass elsewhere more often – Smith’s cloud, massing a hundred million suns, is passing right now. There should be about a thousand  such clumps near our galaxy.)
+Since our galaxy’s diameter is about 40,000pc , the chance that the most recent clump would hit that close to us was roughly one in (40,000/200)2, or one in 40,000.  Since about a tenth of galaxy area has molecular clouds, the chance the most recent clump to hit a cloud would hit that close to us is one in 4000.  Coincidence?  Consider this plot from Jerison:
+
+This dark matter clump hit us just about when the last big burst of max brain size growth began on Earth, with primates ~50 million years ago.  Yes, it is hard to see how a rare dark matter clump passing near could induce a primate brain growth spurt, so it is probably coincidence.  But big apparent coincidences should at least make us pause and ponder.
+More details:
+In this rational age, we have come to recognise constellations as chance alignments of groups of stars. … Yet it seems that an unseen hand may after all have been responsible for placing these stars in the sky.  Hints are emerging that around 30 million years ago, a giant clump of dark matter struck our part of the Milky Way, creating a rippling disc of star formation that eventually produced Orion’s belt, the bright ruby jewel of Antares in Scorpius, and many more of the sky’s most notable stars. …
+In the middle of the 19th century, … John Herschel noticed that we are surrounded by a ring of bright stars. But it was Boston-born Benjamin Gould who brought this to wider attention in 1874. Gould’s belt, as it is now known, supplies bright stars for many famous constellations including Orion, Scorpius and Crux, the Southern Cross, which appears on the official flags of five countries and several territories. Perseus and Canis Major in the north, along with Vela and Centaurus in the south, also contain stars in Gould’s belt.
+It is a sizeable structure, some 3000 light years across, and can be traced as a bright band of stars tilted at about 20 degrees to the Milky Way. Within it are several thousand high-mass stars as well as up to a million low-mass ones. Most importantly, these stars appear to have formed separately from the rest of the stars in the galaxy … “Gould’s belt is not part of the spiral structure … It must have been triggered by some local, violent event.” …
+Every galaxy is thought to be surrounded by a giant sphere of dark matter more than 10 times the width of the visible portion of the galaxy, and containing at least 10 times the mass of the visible stars. The dark matter “halo” is clumpy rather than smooth, because it contains residues of smaller halos that the galaxy has swallowed. … In the halo surrounding the Milky Way – which is a pretty typical sort of galaxy – there could be a million billion (1015) such clumps of dark matter. … Dark matter clumps do not normally emit radiation, and so continue to circulate in the same orbits into which they were born …
+Kenji Bekki … cranked up a computer model and began simulating what happened as clump after clump of dark matter smashed into one giant molecular cloud after another. Sure enough, he found that it was child’s play to generate something resembling a Gould’s belt. … as a clump of dark matter with a mass of about 10 million suns passes through a giant molecular cloud, it pulls gas in towards the centre of the collisions and triggers a wave of star formation. …
+Bekki estimates that a collision with a chunk of dark matter happens only rarely – about once every 300 million years somewhere in the Milky Way – and that the resulting Gould’s belt will typically fade away in a few tens of millions of years. That makes us very lucky indeed to be sitting almost at the bull’s eye of the collision.
+
+
+title: Cosmic Clump Coincidence?
+
+date: December 1, 2009 8:50 am
+

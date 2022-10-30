@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+The great filter is the sum total of all of the obstacles that stand in the way of a simple dead planet (or similar sized material) proceeding to give rise to a cosmologically visible civilization. As there are 280 stars in the observable universe, and 260 within a billion light years, a simple dead planet faces at least roughly 60 to 80 factors of two obstacles to birthing a visible civilization within 13 billion years. If there is panspermia, i.e., a spreading of life at some earlier stage, the other obstacles must be even larger by the panspermia life-spreading factor.
+We know of a great many possible candidate filters, both in our past and in our future. The total filter could be smooth, i.e. spread out relatively evenly among all of these candidates, or it could be lumpy, i.e., concentrated in only one or a few of these candidates. It turns out that we should hope for the filter to be lumpy.
+For example, imagine that there are 15 plausible filter candidates, 10 in our past and 5 in our future. If the filter is maximally smooth, then given 60 total factors of two, each candidate would have four factors of two, leaving twenty in our future, for a net chance for us now of making it through the rest of the filter of only one in a million. On the other hand, if the filter is maximally lumpy, and all concentrated in only one random candidate, then we have a 2/3 chance of facing no filter at all in our future. Thus a lumpy filter gives us a much better chance of making it.
+For “try-try” filters, a system can keep trying over and over until it succeeds. If a set of try-try steps must all succeed within the window of life on Earth, then the actual times to complete each step must be drawn from the same distribution, and so take similar times. The time remaining after the last step must also be drawn from a similar distribution.
+A year ago I reported on a new study estimating that 1.75 to 3.25 billion years remains for life on Earth. This is a long time, and implies that there can’t be many prior try-try filter steps within the history of life on Earth. Only one or two, and none in the last half billion years. This suggests that the try-try part of the great filter is relatively lumpy, at least for the parts that have and will take place on Earth. Which according to the analysis above is good news.
+Of course there can be other kinds of filter steps. For example, perhaps life has to hit on the right sort of genetic code right from the start; if life hits on the wrong code, life using that code will entrench itself too strongly to let the right sort of life take over. These sort of filter steps need not be roughly evenly distributed in time, and so timing data doesn’t say much about how lumpy or uniform are those steps.
+It is nice to have some good news. Though I should also remind you of the bad news that anthropic analysis suggests that selection effects make future filters more likely than you would have otherwise thought.
+
+
+title: Hope For A Lumpy Filter
+
+date: September 21, 2014 2:30 am
+

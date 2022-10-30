@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Over-regulation is delaying the automation of flight:
+Time was when a uniformed man would close a metal gate, throw a switch, and intone, “Second floor- men’s clothing, linens, power tools …” and the carload of people would glide upward. Now each passenger handles the job with a punch of a button and not a hint of white-knuckled hesitation. … And back in the day, every train had an “engineer” in the cab of the locomotive. Then robo-trains took over intra-airport service, and in the past decade they have appeared on subway lines in Copenhagen, Detroit, Tokyo, and other cities. …
+Automation … runs oceangoing freighters, the crews of which have shrunk by an order of magnitude in living memory. … Today, the U.S. military trains twice as many ground operators for its unmanned aerial vehicles (UAVs) as pilots for its military jets. Its UAVs started off by flying surveillance millions, then took on ground attack; now they are bering readied to move cargo and evacuate wounded soldiers.
+In the sphere of commercial flight, too, automation has thinned the cockpit crew from five to just the pilot and copilot, whose jobs it has greatly simplified. Do we even need those two? Many aviation experts think not. ….
+Still, UAVs have yet to find a place in even the humblest parts of the aviation business – surveying traffic jams, say, or snooping on celebrity weddings.  Such work has not yet been approved for routine purposes, even when the aircraft is small and controlled by a human on the ground. …
+Technical problems are hardly the entire explanation. The military has proved this time and again. … For nearly two decades, automatic landing systems have been able to drop and stop a jet on the fog shrouded deck of an aircraft carrier. … “There’s no harder job for a pilot than landing on an aircraft carrier.” …
+Pilotless commercial flight is overdue … Civilian UAVs could easily and profitablyt be deployed to survey infrastructure and carry cargo. … Already, … an airliner’s software typically takes over flight secods after takeoff, handles the landing – and most of what happens in between. The pilot just “babysits.” … Global Hawk .. is able to fly itself home and land on its own if it loses its satellite link with its ground station. ..
+As significant as the technical hurdles are, however, by far the biggest impediment to pilotless flight lies in the mind. People who otherwise retain a friendly outlook toward futuristic technologies are quick to declare that they’d never board a plan run by software. (more)
+
+
+title: Over-Regulated Flight
+
+date: December 3, 2011 4:10 pm
+

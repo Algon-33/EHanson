@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+A survey [in 1992] indicated that 46 percent of Americans would be unwilling to give up television for the rest of their lives in return for a million dollars. (more)
+How much would someone have to pay you to give up the Internet for the rest of your life? Would a million dollars be enough? Twenty million? How about a billion dollars? “When I ask my students this question, they say you couldn’t pay me enough.” (more)
+I believe that most people think they wouldn’t give up TV or the internet for a million. They might even actually reject such an offer if it came out of the blue with little time to consider. And I’m happy to admit people get a lot of value out of tv and internet relative to the price they now pay. But reframe this offer so that it has more time to generate social support, and no way would most people reject it.
+At 5% interest, a million dollars pays ~$4000 a month. So let’s imagine offering people $4000 to give up TV or internet for one month, and then renewing the offer every month afterward – they could go on or off the plan at will. Furthermore, let the offer be made to every member of a median-income community of one thousand folks, all of whom know several other folks in the community. This community might be a neighborhood, a workplace, a church, etc.
+Under these circumstances I predict that within ten years over 80% of them would be on the plan in any given month. First they’d see that the offer is real, and they’d also see all the fun their associates have splurging or quitting work and enjoying their leisure in non-tv/internet ways. Then they’d try it themselves and like it, and mostly stick with it.
+Thus I think the survey questions above are quite misleading on the value people actually place on tv and internet. Misleading features of these survey questions:
+
+They require a sudden commitment regarding one’s entire future life, rather than giving people a chance to learn and adapt to this new possibility. Most people are commitment averse.
+They ask people to become weird, accepting an offer made to no one else, and leaving the familiar world of their associates’ options and actions.
+They put people in a far (vs. near) frame of mind and then ask them to affirm a high value on money.  In far mode people are idealistic, and so think they care less about money.
+
+Even today a million dollars is a lot of money, enough that most people would do a lot to get it.
+Added 7p: Commenters are eager to declare they wouldn’t take the internet deal, and seem uninterested in my claim that 80% of median income folks would take the deal, which pays median household income (~50K$/yr) just to not use the internet. It seems important to many commenters’ identity to declare their allegiance to the internet, i.e., that without it they might as well shrivel up and die.
+Added 12July: Tyler Cowen reviews the academic lit on willingness to pay for internet – its about 2% of income, or less than $100 a month.
+
+
+title: They’d Take The Million
+
+date: July 8, 2011 1:20 pm
+

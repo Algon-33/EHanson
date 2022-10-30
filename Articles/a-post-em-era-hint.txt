@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+A few months ago I noticed a pattern across the past eras of forager, farmer industry: each era has a major cycle (ice ages, empires rise & fall, business cycle) with a period of about one third of that era’s doubling time. So I tentatively suggested that a em future might also have a major cycle of roughly one third of its doubling time. If that economic doubling time is about a month, the em major cycle period might be about a week.
+Now I report another pattern, to be treated similarly. In roughly the middle of each past era, a pair of major innovations in calculating and communicating appeared, and gradually went from barely existing to having big social impacts.
+
+Forager: At unknown periods during the roughly two million year forager era, humanoids evolved reasoning and language. That is, we became able to think about and say many complex things to each other, including our reasons for and against claims.
+Farmer: While the farming era lasted roughly 7 to 10 millennia, the first known writing was 5 millennia ago, and the first known math textbooks 4 millennia ago. About 2.5 millennia ago writing became widespread enough to induce major religious changes worldwide.
+Industry: While the industry era has lasted roughly 16 to 24 decades, depending on how you count, the telegraph was developed 18 decades ago, and the wholesale switch from mechanical to digital electronic communication happened 4 to 6 decades ago. The idea of the computer was described 20 decades ago, the first digital computer was made 7 decades ago, and computers became widespread roughly 3 decades ago.
+
+Note that innovations in calculation and communication were not independent, but instead intertwined with and enabled each other. Note also that these innovations did not change the growth rate of the world economy at the time; each era continued doubling at the same rate as before. But these innovations still seem essential to enabling the following era. It is hard to imagine farming before language and reasoning, nor industry before math and writing, nor ems before digital computers and communication.
+This pattern weakly suggests that another pair of key innovations in calculation and communication may appear and then grow in importance across a wide middle of the em era. This era may only last a year or two in objective time, though typical ems may experience millennia during this time.
+This innovation pair would be interdependent, not change the growth rate, and perhaps enable a new era to follow. I can think of two plausible candidates:
+
+Ems might discover a better language for expressing and manipulating something like brain states. This could help ems to share their thoughts and use auxiliary hardware to help calculate useful thoughts.
+Ems might develop analogues to combinatorial prediction markets, and thus better share beliefs and aggregate information on a wide range of topics.
+
+(Or maybe the innovation produces some combination of these.) Again, these are crude speculations based on a weak inference from a rough pattern in only three data points. But even so, they give us a vague hint about what an age after ems might look like. And such hints are actually pretty hard to find.
+
+
+title: A Post-Em-Era Hint
+
+date: July 4, 2017 5:10 pm
+

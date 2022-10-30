@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Nick Bostrom once argued that you must choose between three options re the possibility that you are now actually living in and experiencing a simulation created by future folks to explore their past: (A) its true, you are most likely a sim person living in a sim, either of this sort or another, (B) future folk will never be able to do this, because it just isn’t possible, they die first, or they never get rich and able enough, or (C) future folk can do this, but they do not choose to do it much, so that most people experiencing a world like yours are real humans now, not future sim people.
+This argument seems very solid to me: future folks either do it, can’t do it, or choose not to. If you ask folks to pick from these options you get a simple pattern of responses:
+
+Bostrom said are only 3 options (A) you live in a simulation, (B) future won’t get rich/able enough to make many sim people, (C) future folk will have little interest in making sims of people from your historical era. Which is right, or (D) is Bostrom wrong & other options exist?
+— Robin Hanson (@robinhanson) August 21, 2020
+
+Here we see 40% in denial, hoping for another option, and the others about equally divided among the three options. But if you ask people to estimate the chances of each option, a different picture emerges. Lognormal distributions (which ignore the fact that chances can’t exceed 100%) are decent fits to these distributions, and here are their medians:
+
+0.11% (A) now living in sim
+347% (B) future not able
+16% (C) future not choose
+27% (D) argument wrong
+
+So when we look at the people who are most confident that each option is wrong, we see a very different picture. Their strongest confidence, by far, is that they can’t possibly be living in a sim, and their weakest confidence, by a large margin, is that the future will be able to create sims. So if we go by confidence, poll respondents’ favored answer is that the future will either die soon or never grow beyond limited abilities, or that sims are just impossible.
+My answer is that the future mostly won’t choose to sim us:
+I doubt I’m living in a simulation, because I doubt the future is that interested in simulating us; we spend very little time today doing any sort of simulation of typical farming or forager-era folks, for example. (More)
+If our descendants become better adapted to their new environment, they are likely to evolve to become rather different from us, so that they spend much less of their income on sim-like stories and games, and what sims they do like should be overwhelmingly of creatures much like them, which we just aren’t. Furthermore, if such creatures have near subsistence income, and if a fully conscious sim creature costs nearly as much to support as future creatures cost, entertainment sims containing fully conscious folks should be rather rare. (More)
+If we look at all the ways that we today try to simulate our past, such as in stories and games, our interest in sims of particular historical places and times fades quickly with our cultural distance from them, and especially with declining influence over our culture. We are especially interested in Ancient Greece, Rome, China, and Egypt, because those places were most like us and most influenced us. But even so, we consume very few stories and games about those eras. And regarding all the other ancient cultures even less connected to us, we show far less interest.
+As we look back further in time, we can track decline in both world population, and in our interest in stories and games about those eras. During the farming era population declined by about a factor of two every millennium, but it seems to me that our interest in stories and games of those eras declines much faster. There’s far less than half as much interest in 500AD than in 1500AD, and that fact continues for each 1000 year step backward.
+So even if future folk make many sims of their ancestors, people like us probably aren’t often included. Unless perhaps we happen to be especially interesting.
+
+
+title: Sim Argument Confidence
+
+date: August 23, 2020 8:35 am
+

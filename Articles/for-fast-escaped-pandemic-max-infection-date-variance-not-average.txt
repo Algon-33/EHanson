@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+In an open column, … to provide greater dispersion, the vehicle distance varies from 50 to 100 meters, … distance between dismounted soldiers varies from 2 to 5 meters to allow for dispersion and space for marching comfort. (More)
+The troop density has decreased through military history in proportion to the increase in lethality of weapons being use in combat. (More)
+Armies moving in hostile areas usually spread out, as concentrations create attractive targets for enemy fire. For soldiers on foot, it might be possible to try to induce such dispersion by having a vicious wild animal chase them. After all, in the process of running fast to escape, they might spread out more than they otherwise might. But this would be crazy – there’s no reason to think this would induce just the right level of dispersion, and it would have many bad side effects. Better just to order soldiers to deliberately space the right distance. 
+For a very infectious pandemic like COVID-19, clearly not contained and with no strong treatment likely soon, the fact that medical resources get overwhelmed toward a pandemic peak creates a big value in dispersion – spreading out infection dates. But, alas, our main method is that crazy “chased by a wild animal” approach, in this case chased by the virus itself. 
+That is, each person tries to delay their infection as long as possible, in part via socially destructive acts like staying home instead of working. Like soldiers running from a wild animal, our varying efforts at delay do create some variance as a side effect. But probably less than optimal variance, and at great cost. 
+Yes, delay has some value in allowing more stockpiling. For example, we should (but apparently aren’t) mass training more medical personnel who can function in makeshift ICU tents. But increasing average delay is can be less valuable than increasing delay variance. Even if we can’t just tell each person when to get infected, like telling soliders where to walk, we have several relevant policy levers. 
+First, as I’ve discussed before, we might pay people to be deliberately exposed, and covering the cost of their medical treatment and quarantine until recovery. Yes, if their immunity has a limited duration, then we might want to not start deliberate exposure until there’s less than that duration before the pandemic peak. But there’s still big potential value here, especially via targeting medicine and critical infrastructure workers. 
+Second, this is a situation were inequality of wealth, health, and social connections is good. In the last few years, many have loudly lamented many kinds of social inequalities that make the low feel ashamed and unloved, resulting in their more often becoming lonely and sick. Some are enough friends and money that they can afford go to all the parties, while others suffer in poverty alone. And no doubt many will cry loudly when such inequality makes the low get infected before the high.
+But however bad such inequality might usually be, in a pandemic it is exactly what the doctor should order, if he could. Among a community close enough to share the same medical resources, the more that individuals vary in their likeliness of catching and passing on the pandemic, the better! Those who catch it early or late will do better than those who catch it just at the peak.  So for this pandemic, let’s maybe back off on whatever we now do to cut inequality, and maybe even open up more to whatever we are not doing that could increase inequality. 
+In my next post, I’ll describe some simple concrete sim models supporting these claims.
+
+
+title: For Fast Escaped Pandemic, Max Infection Date Variance, Not Average
+
+date: March 3, 2020 4:15 pm
+

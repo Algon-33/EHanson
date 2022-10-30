@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Hanging out with moral philosophers last week at Oxford reminded me of the old complaint that economists neglect morality.  Actually, I think the real problem is the reverse!  Let me explain. 
+ Many people advise us on what to do.  Some discuss personal actions, while others suggest how groups could better coordinate.  And, crucially, some advise us on what we should do, while others advise us on how to get what we want.  
+ At the personal level, parents, teachers, preachers, and activists tend to tell us what is morally right, while friends, mentors, lawyers, doctors, therapists, and financial planners tend to tell us what will achieve our ends.  At the level of social policy, pundits and wonks give a mixture of rationales for their suggestions.  Moral philosophers, for example, tend to emphasize policies we should pick, while economists tend to emphasize policies to better get us what we want.   
+ All else equal, we may each prefer to do what is right, but when all else is not equal we often allow other considerations to weigh against morality.  After all, morality is only one of the many ends we pursue.  Yes we want to be moral, but we also want other things, and we each choose as if we often care about those other things more than morality.  (Some say moral beliefs directly cause us to be moral even if we don’t want that, but I prefer to describe this as a revealed preference for moral ends, i.e., for "wanting" to be moral.)  
+  
+ Economic analysis tries to infer what people want, largely from actions, and then tries to suggest policies to get people more of what they want.  (In particular, it suggests good deals – policy packages which should be better for most everyone.)  Yes people often make mistakes, are ignorant, and have conflicts with the wants of others, but economists have many reasonable fixes for such problems.  Critics, however, say economic analysis is untrustworthy because it is incomplete, since wants are only one of many moral considerations.  But this complaint seems to me backwards.
+ Yes, we "should" (morally) prefer to analyze policy in moral terms, and we should choose what moral analysis recommends.  For example, perhaps we should immediately and drastically cut CO2 emissions because we have no right to pollute natural purity, and we should care greatly about wildlife and distant future generations.  If so, economic analyzes advising only modest CO2 taxes are a moral travesty, reflecting an unconscionable neglect of "non-economic" considerations.  We should thus condemn these analyzes and the economists who support them.  
+ But in fact we care only moderately about what we "should" do.  We do not want immediate drastic CO2 cuts because we do not in fact care much about natural purity, wildlife, or distant generations, even if we should care more. Economic analyzes suggest modest CO2 taxes not because they ignore "non-economic" considerations – there are no such things – but because such analyzes give morality only as much weight as people do.   
+ What we humans want is policy that considers our wants overall, without giving excess weight to morality.  So we want policy advisors, like economists, who suggest actions that better get us what we want, even if those actions are immoral.  We do not want to just do what we should, but we instead want to achieve all our ends, including immoral and amoral ends.  So we mostly do not want to just do what moral philosophers suggest.  
+ Unfortunately, all this is clouded by our tendency to want to appear to care more about morality than we actually do.  We want to take the moral high ground and be seen as supporting highly moral policies, even if we don’t actually want those policies implemented.  So we publicly support moral policies when our support seems unlikely to change the outcome.  But it is amoral advisors, like economists, who help us the most.   
+Bottom line: We want to get what we want, not just do what we should, and so we want advisors like economists who tell us how to get what we want.  But we’d rather be seen as following advisors like moral philosophers who tell us to do what we should.
+Thanks to Nicholas Shackel for stimulating discussions on this.  
+
+
+title: Morality Is Overrated
+
+date: March 18, 2008 6:00 am
+

@@ -1,0 +1,17 @@
+author: David J. Balan
+
+text: 
+There’s a quite powerful scene in To Kill a Mockingbird where Tom Robinson, a black man on trial for raping a poor, low-status white woman, is being cross-examined by the prosecutor.  Tom admits that he was in the woman’s house, but says that he was only there to help her take care of some chores that she was having a hard time handling on her own.  Here is the dialogue:
+
+‘You did all this chopping and work from sheer goodness, boy?’‘Tried to help her, I says.’Mr Gilmer smiled grimly at the jury.  ‘You’re a mighty good fellow, it seems–did all this for not one penny?’‘Yes suh.  I felt right sorry for her, she seemed to try more’n the rest of ’em–‘‘You felt sorry for her, you felt sorry for her?’ Mr Gilmer seemed ready to rise to the ceiling.The witness realized his mistake and shifted uncomfortably in the chair.  But the damage was done.  Below us, nobody liked Tom Robinson’s answer.  Mr Gilmer paused a long time to let it sink in.
+
+  
+The reason why this was such a mistake on Tom’s part is that saying you feel sorry for someone means (or at least can mean) that you regard yourself as in some sense superior to that person; and in the racist society described in the book it is totally unacceptable for any black person to regard himself as in any way superior to a white person.
+What’s interesting about this is that the reaction was purely to the subtext of Tom’s statement and not to the text.  The idea that a physically strong black man might be moved to help a physically weaker white woman who had more work than she could handle was presumably not objectionable in itself, or at least not seriously so; the reason it was a big deal was the implied offense against general white supremacy.  Moreover, it was clear to everyone in the room that this was what was going on. That is, everyone in the room understood that what was really being talked about and what was nominally being talked about had almost nothing to do with each other.
+I’m not sure what implications this has for the project of Overcoming Bias, or what implications it has for figuring out how to combat evil ideologies (the two projects are related, but not identical, and the latter is more important).  But it is worth noting that sometimes biases are such that the best way to advance the ball is not to engage this or that specific bias or flaw in what someone says but to recognize that what they say has pretty much no relation to what is actually going on.
+
+
+title: You Felt *Sorry* for Her?
+
+date: May 21, 2007 12:18 am
+

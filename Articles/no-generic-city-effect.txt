@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+This is my last post on results from Ken Lee’s excellent thesis.
+People who in rural areas die consistently less than others, even after controlling for other death predictors. To study this effect, Lee tried interacting urbanity with many other predictors, including geography. That is, Lee looked at all combinations of whether someone lived in a city, suburb, or rural area, and in which of nine regions of the US they lived.
+After controlling for his other usual predictors (age, race, gender, married, education, income), Lee found that eleven of the 26 interaction ratios were 5% significant, and six were 1% significant. It seems that there is just no such thing as a generic effect of living in a city, suburb or rural area, nor a generic effect of living in each region. Instead, each of the 27 different place combinations has its own distinct influence on health. Put another way, each of the nine US region has a different city, suburb, or rural effect. Here are the estimated death ratios of each place (relative to Middle Atlantic cities):
+
+It is West North Central, New England, and Mountain rural areas that are good for health (adding a year or so of life), and it is South Atlantic cities that are the worst for health (cutting ~1.5 years of life).
+FYI, these are the ratios and significance from Lee’s table 17:
+
+
+
+title: No Generic City Effect
+
+date: May 26, 2011 1:50 pm
+

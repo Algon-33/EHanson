@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Why is AIDS so much more common in Africa than elsewhere?  The standard theory is, essentially: Africans are sex perverts.  Details have varied over the years: too much prostitution or polygamy or anal sex, too many partners, not enough condoms or circumcision, or girls starting too young.  Most of these theories haven’t found much support, or (like circumcision) are too weak to explain African excess.  (For example, polygamy reduces risk.)
+The currently popular version is that Africans have too many concurrent (at the same time) long-term partners.  There is some evidence that this happens in African more than elsewhere, and there are theoretical reasons to expect it to speed sex epidemics.  But a December review says the case is far from closed.  From Lancet in October:
+A four-city African study actually found lower rates of concurrency in places with larger HIV epidemics, and a study using nationally representative surveys in 22 countries (all but one of which was in Africa) concluded that ‘‘the prevalence of concurrency does not seem correlated with HIV prevalence at the community level or at the country level, neither among women nor among men.’’ Additionally, Wellings and colleagues reviewed global sexual behaviour and could not ﬁnd sufficient data to assess whether rates of concurrency differ across the world.
+The main reply is:
+[Critics] offer no credible alternative explanation … It is simply not plausible that serial monogamy by itself could generate the explosive generalised epidemics.
+But Karl Smith and David Friedman suggest bad med instead:
+Much of the transmission may be due to sloppy medical procedures, in particular the reuse of needles for injections.
+In fact, there is a whole journal devoted to this thesis:
+Seven years ago the International Journal of STD & AIDS (IJSA) began actively encouraging reexamination of the prevailing view that penile–vaginal sex was driving African HIV epidemics, … Although the IJSA-published dissenting views have largely been ignored, dismissed or fiercely resisted by established HIV researchers and allied health agencies.
+A 2007 Annals of Epidemiology paper found:
+In regression analyses, nonuse of disable syringes is associated robustly with greater HIV prevalence in all models. … Greater HIV prevalence also is associated with higher Gini Index, less female economic activity, less urbanization, and less percentage of Muslims.
+World-wide, resusable needles are the second biggest binary predictor of HIV (after Sub-Saharan African location and before gender-literacy ratio):
+
+Focusing on Sub-Saharan Africa, resusable needles are a huge predictor, as is a U-shaped dependence on Tetanus coverage:
+
+For balance, see a brief critique of this view:
+If injections were a major source of transmission, one would expect high rates during childhood, when children receive most preventive vaccinations and many health care visits. Yet a study of mother-child dyads in public health facilities in South Africa found only 1.4% of HIV-positive children aged 2–9 years had HIV-negative mothers. While this study needs to be replicated in other settings, it does not indicate that injections play a major role in transmission among children.  Further, if transmission were primarily due to medical injections, one would expect similar rates of HIV infection among males and females. However, there was a ﬁve-fold difference in our dataset (10.6% of adolescent females vs. 2.1% of adolescent males were HIV-positive). Potterat et al present data suggesting teenaged females were more likely to have received recent injections, but their argument is ﬂawed in several ways. … Although antibiotic injections are often used to treat sexually transmitted infections (STI) such as syphilis, in our survey, more male than female adolescents ever sought treatment for an STI from a health worker (48% vs. 29%, respectively).
+I’m not saying I’m sure bad docs are a big cause of African AIDS, but the possibility sure seems to deserve more attention than it has been getting.  More related papers here, here, here, here, here, here, here, and here.
+Added 10a: For you skeptics, yes African data on cause of death is suspect, but overall death rates are much less so, and Africa has clearly suffered a huge death increase relative to pre-AIDS trends.
+Added 14Feb: We often think of anti-racism as core to our culture, but when our choice is to think of blacks as sex perverts or to think of med as deadly, we clearly choose the former over the later.  This suggests heroic med is far more central to our culture than anti-racism.
+
+
+title: Africa HIV: Perverts or Bad Med?
+
+date: February 11, 2010 12:15 am
+

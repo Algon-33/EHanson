@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Law is our main system of official blame; it is how we officially blame people for things. So it is a pretty big deal that, over the last few centuries, changes to law have induced big changes in who officially blames who for most things that go wrong. These changes may be having big bad effects.
+Long ago most everyone could use law to blame most everyone else. Even though people were poor, the legal process was simple enough for most to use it without needing a lawyer. (Many places actually banned lawyers.) Those found liable could often be sold into slavery to pay their legal debts, and their larger family clans could also be held responsible for their debts. So basically, people blamed people, with families as guarentors.
+Over the last few centuries, the legal system has become far more complex and expensive, now requiring people to pay lawyers to sue. But at the same time we’ve made it harder to get people who are found liable to pay. We don’t sell them into slavery or make their families pay, and going bankrupt has become easier and less painful. So when ordinary people suffer a harm and look for someone to sue, their lawyers usually strongly advise that they focus on any deep pockets at all related to their harm.
+The law, sympathetic to their plight, has found ways to blame the rich and big firms for most everything that goes wrong. For example, these are all real examples.
+
+A rape in an abandoned building is blamed on the building owner.
+Harassment in a stadium parking lot is blamed on the stadium owner.
+A student harming another student in an off-campus apartment is blamed on the school.
+A post-event bad-weather auto-accident is blamed on event host for not cancelling.
+A harm from using a product bought from a 3rd party is blamed on its manufacturer.
+
+As ordinary people aren’t suing each other much, the government steps in to discipline ordinary folks’ behavior, via regulation and crime law. So, while once people blamed people, law now trains people to blame the rich and big business, and to expect to be blamed by government. So it maybe isn’t so strange that in the recent US Democratic presidential debates, the main parties blamed are the rich and big business. And if ordinary people are seen as doing something wrong (as with guns), regulation or crime law is assumed to be the solution.
+When bad things happen in government spaces, like roads, it gets harder to find a rich person or business to blame. So on the roads we have introduced a system of requiring liability insurance, to make sure there’s a big rich business to pay if something goes wrong. As a result, on the road people blame people. That seems a healthier situation to me, and my vouching proposal would try to apply that idea much more widely, to help us return to a world where more often people blame people, rather than people blaming business or government blaming people.
+
+
+title: The Big Change In Blame
+
+date: October 22, 2019 8:00 am
+

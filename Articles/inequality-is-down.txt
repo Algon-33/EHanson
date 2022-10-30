@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Alex liked Arnold’s trend summary:
+Perhaps the most important trend of the past thirty years is the  increased importance of cognitive skills relative to physical labor. … Consequences: … women[‘s] comparative advantage went from  housework to market work. … [who now] … look for [mate] complementarity in consumption … [which] leads to more assortive mating … [which] leads to greater inequality across households … [and] children. …
+Inequality is exacerbated by globalization and technological change. If  your comparative advantage is basic physical labor, you have to compete with  machines as well is with workers from the Third World.
+But this is only for rich nations; global inequality is down:
+We … estimate the income distribution for 191 countries between 1970 and 2006. … Using the official $1/day line, … world poverty rates have fallen by 80% from 0.268 in 1970 to 0.054 in 2006. The corresponding total number of poor has fallen from 403 million in 1970 to 152 million in 2006. … We also find similar reductions in poverty if we use other poverty lines. …
+Global income inequality has fallen between 1970 and 2006. This is true for the Gini coefficient, for a wide variety of Atkinson indexes and General Entropy indexes as well as the 90th-to-10th and the 75th-to-25th percentile ratios. …
+Total growth in world welfare measured is estimated to be between 77% and 160%, with most estimates over 100%.  At the regional level … whenever GDP grows, poverty tends to decline and whenever poverty declines, GDP tends to grow.  Poverty has declined substantially in East and South Asia, and has recently began declining in Africa.
+Global change is of course what matters most.  If the price of making the world’s poor richer has been slower gains for the least rich of rich nations, it seems a good deal overall.
+
+
+title: Inequality Is Down
+
+date: November 1, 2009 9:50 am
+

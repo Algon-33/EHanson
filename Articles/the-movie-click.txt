@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+One way to discourage bias is via social disapproval of standard biases.   That is, if when A argues with B, A can show that B’s claim fits a standard bias scenario, then observers could believe A more and respect B less, encouraging B to avoid such claims.   For example if B claims that he is in the top 5% of drivers, and A points out that most people overestimate their driving ability,  observers might believe B less. 
+There are several problems with this approach.   One such problem is that scearnios widely accepted as identifying bias may do no such thing.  
+  
+Which brings me to the recent movie "Click," whose moral is similar to "It’s A Wonderful Life," and "A Christmas Carol," and the song "Cats in the Cradle."  These all suggest that successful men tend to emphasize work too much over family and friends, and will live to regret it.   "No one on their deathbed ever wished they had spent more time in the office," the saying goes. 
+Is this bias real?   I wish someone would actually survey people at their deathbeds about their regrets, but until then I have my doubts.   Successful men have surely considered this advice before rejecting it, and deathbed regrets could just reflect a conflict between the interests of younger and older selves.   It sounds too much like lobbying from friends and family, and its advocates seem a bit too smug and uncritical to be believed.   That all said though, I really don’t know.
+What seems clearer is that if people can reasonably doubt whether widely described biases are real, it will be a lot harder to use social disapproval to discourage real biases.  
+
+
+title: The Movie “Click”
+
+date: November 21, 2006 6:00 am
+

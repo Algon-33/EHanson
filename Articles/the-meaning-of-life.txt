@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Humans act all the time, which implies that they have preferences, i.e. persistent internal structures which say which choices they make in which situations. But humans aren’t usually very good at explaining their preferences. They instead find it hard to give a consistent abstract account that explains their choices. They can act, but can’t say what they want.
+One of the things people sometimes say is that they make their choices to gain “meaning”. But they say many different conflicting things about what things actually give “meaning”, different not only between people but even within the same person. That is, people seem quite confused about the “meaning of life”.
+If humans are at root pretty similar, then having any one person learn the meaning of their life would seem to be quite informative to everyone else about the meaning of their lives. And a substantial fraction of the many billions of humans who have ever lived have in fact tried to learn about the meaning of their lives. Furthermore, some of these people have claimed to have succeed in discovering this meaning.
+Yet no one seem to have persuaded a substantial fraction of humanity to their view on this. Presented solutions to this key questions seem either overly vague or insufficiently supported by evidence in human behavior or words. What can we conclude from this key fact? Let us consider some possible explanations.
+One possibility is that there is just no such thing. Human actions are induced by a complex mess of structures that is not reasonably summarized by any abstract coherent shared concept of “meaning”. When people have a feeling of having found “meaning”, that isn’t the result of their matching their lives to such a coherent pre-existing concept, but instead due to yet another complex mess of social and mental processes. We feel “meaning” when that seems to be useful to our minds, but there is no there there. We haven’t found it because it doesn’t exist.
+A second possibility is that people have in fact discovered simple abstract expressible truths about the meaning of our lives. But these truths are mostly ugly, and thus not one they are eager to own and tell to others. And when they do tell others, their audiences mostly do not want to hear, and instead prefer to embrace the mistaken claims of those who do not actually know, but instead wishfully offer more aspirational accounts.
+And a third possibility, is, what? My mind goes blank here. How could there be simple abstract truth on what gives us meaning, to explain our preferences, and yet either no one among the billions who have looked has ever found it, or when they all do find it they somehow can’t communicate it to others, even though to others this discovery would be quite unobjectionable and pleasing?
+
+
+title: The Meaning of Life
+
+date: April 29, 2022 11:50 pm
+

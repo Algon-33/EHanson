@@ -1,0 +1,14 @@
+author: Hal Finney
+
+text: 
+I hope this title doesn’t get the blog blacklisted. I assure you it is perfectly "SFW"!
+I’m using "information porn" in a certain way based on an entertaining and informative Bloomberg article about investment firm Dimensional Fund Advisors. The article discusses DFA’s warnings about "investment porn", by which they mean articles that tout some new company or investment as the next big thing. DFA are followers of the Efficient Market Hypothesis, and one of their directors is economist Eugene Fama, a pioneer of the EMH. DFA were among the first fund families to create index funds and promote "passive investing", a sharp departure from traditional active investing, where fund managers try to cleverly pick stocks and other investments that have exceptional value. DFA is almost fanatical about their philosophy and really puts investment advisors through the wringer before allowing them to sell DFA funds. I suppose this can be seen as an example of the EMH applied to marketing; if you have a high value product, the market will figure it out and so you can afford to be picky about your customers. That seems to be their philosophy, anyway, and they’ve been quite successful at it.
+Investment porn is therefore material which is exciting and makes you think you’re getting inside information, an inside track and a chance to do well in the markets ahead of everyone else. But it’s basically public information, so you’re deluding yourself if you think this kind of data is really going to give you an advantage.
+ I’m generalizing this to information porn, which can play a similar misleading role in more general areas of controversy where you are trying to come up with an unbiased view of the truth. Information porn in this sense is data which will supposedly lead you to the truth, often by promoting or arguing for a certain position. But as with the investment porn case, the data is fundamentally public and available to everyone. Once again, you are fooling yourself if you think that relying on this data is going to give you an advantage over the consensus opinion, because that opinion will already have taken this data into account.
+This obviously ties into the Majoritarian view, and I want to thank commenter ChrisA for pointing out the connection between Philosophical Majoritarianism and the EMH. From this perspective, arguments and data which support a controversial position are much like pornography, and should be viewed with similar skepticism. (Or consumed with similar eagerness, depending on taste.)
+
+
+title: Beware of Information Porn
+
+date: March 29, 2007 6:43 pm
+

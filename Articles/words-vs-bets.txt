@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+I once had a long discussion with Ken Steiglitz about P=NP, while I was still at Princeton. … Ken was and still is sure that P must not be equal to NP. Okay, I said to Ken, what are the odds that they are equal? Ken said that he thought the odds were a million to one. I immediately suggested a bet. I did not ask him to “bet his life,” but I did ask for a million to one bet. I would put up one dollar. If in say ten years P=NP had not been proved, then he would win my dollar. If P=NP was proved in that time frame, then I would win a million dollars from Ken. Ken said no way. After more discussion the best bet I could get out of Ken was  to .  Two to one. That was the best he would do.
+That is from Richard Lipton; hat tip to Michael Nielsen.  Does anyone doubt that two to one better summarizes his evidence than a million to one?
+
+
+title: Words Vs. Bets
+
+date: September 11, 2009 3:00 pm
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+In Nature, Colin Macilwain says science reporting is too uncritical:
+[Science journalism] converts original scientific findings, via a production line of embargoed press releases from journals and universities, into a steady stream of largely uncritical stories. … In stark contrast to proper investigations of issues such as public corruption, corporate maleficence or industrial health and safety — essentially silly stories about science continue to fill newspapers and news broadcasts.  Some science reporters are uneasy about this situation, but most accept it. … Most [scientists] seem to be largely content with a system that disguises the very human process of scientific discovery as a seamless stream of ingenious and barely disputed ‘breakthroughs’. Like other elites, researchers feel no great yearning to be held to account by the press. ….
+There is a need for dedicated newspaper sections, radio and TV programmes, more akin to existing sports coverage, that can provide detailed, critical assessment of the scientific enterprise for people who really like science.  Reporters and editors could then engage with sets of findings and associated issues of real societal importance in the news pages, asking the hard questions about money, influence and human frailty that much of today’s science journalism sadly ignores. …
+The machine … serves the short-term interests of its participants. … Researchers, universities and funding agencies get clips that show that their work has had ‘impact’. And readers get snippets, such as how red or white wine makes you live longer or less long, to chat about at the water-cooler. … Science is being misrepresented as a cacophony of sometimes divergent but nonetheless definitive ‘findings’, each warmly accepted by colleagues, on the record, as deeply significant. The public learns nothing about the actual cut and thrust of the scientific process.
+Yes, science reporting is less critical than political, business, or sports reporting.  Since the media is very competitive, readers/viewers must prefer it that way.  But why?
+First, we are far more suspicious of bids for dominance-status than for prestige-status.  We see politicians and businesses as threatening to dominate us and so we are eager to watch out for illicit power grabs.  In contrast, we see science, arts, literature, etc. as only awarding prestige, not power, and we are less worried about illicit prestige grabs.  We mainly care about prestigious stuff as ways to see who is more impressive, and a tricky “illicit” prestige grab is itself pretty impressive, so little harm done.
+Also, we like some critical reporting on sports, music, and literature because we are expected to choose sides in these areas as part of our identity.  We are supposed to have our favorite band, team, or author, and so we appreciate news rehearsing arguments we might offer for or against such things
+But we are not supposed to have favorite positions on science disputes.  Science is more like our communal religion, something that distinguishes us advanced insiders from those ignorant outsiders, and we are eager to signal being part of us and not them.  It is like how, aside from worrying about power-grabs by our military leaders, we are not each supposed to have a different favorite war strategy for our troops – that would be divisive and we prefer to show that we are united against them.
+Sciences of politics or business are of course the obvious exception, as we suspect illicit power in politics or business might be supported by illicit scientists.  So we do see critical reporting in these sort of sciences.
+
+
+title: Uncritical Science News
+
+date: February 17, 2010 10:10 pm
+

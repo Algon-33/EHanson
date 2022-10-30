@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Two years ago I predicted that the future will eventually take a long view:
+If competition continues for long enough, eventually our world should contain units that do care about the distant future, and are capable of planning effectively over long timescales. And eventually these units should have enough of a competitive advantage to dominate. … The future not being neglected seems such a wonderfully good outcome that I’m tempted to call the “Long View Day” when this starts one of the most important future dates.
+Today I predict that the future will also eventually take a more abstract view, also to its benefit. Let me explain.
+Recently I posted on how while we don’t have a world government today, we do now have a close substitute: a strong culture of oft-talking world elites, that can and does successfully pressure authorities everywhere to adopt their consensus regulation opinions. This is much like how in forager bands, the prestigious would gossip to form a consensus plan, which everyone would follow.
+This “world forager elite”, as I called them, includes experts, but often overrules them in their areas of expertise. And on the many topics for which this elite doesn’t bother to form a consensus, other institutions and powers are allowed to made key decisions.
+The quality of their judgements depends on how able and knowledgeable is this global elite, and on how long and carefully they deliberate on each topic. And these parameters are in turn influenced by the types of topics on which they choose to have opinions, and on how thinly they spread themselves across the many topics they consider.
+And this is where abstraction has great potential. For example, in order of increasing generality these elites could form opinions on the particular kinds of straws offered in a particular London restaurant, or on plastic straws in general at all restaurants, or on all kinds of straws used everywhere, on how to set taxes and subsidies for plastic and paper for all food use, or on how to set policy on all plastic and paper taxes and subsidies.
+The higher they go up this abstraction ladder, they more that elites can economize on their efforts, to deal with many issues all at once. Yes, it can take more work to reason more abstractly, and there can be more ways to go wrong. And it often helps to first think about concrete examples, and then try to generalize to more abstract conclusions. But abstraction also helps to avoid biases that push us toward arbitrarily treat fundamentally similar things differently. And abstraction can better encompass indirect effects often neglected by concrete analysis. It is certainly my long experience as a social scientist and intellectual that abstraction often pays huge dividends.
+So why don’t elites reason more abstractly now? Because they are mostly amateurs who do not understand most topics well enough to abstract them. And because they tend to focus on topics with strong moral colors, for which there is often an expectation of “automatic norms”, wherein we are just supposed to intuit norms without too much explicit analysis.
+In the future, I expect us to have smarter better-trained better-selected elites (such as ems), who thus know more basics of more different fields, and are more able to reason abstractly about them. This has been the long term historical trend. Instead of thinking concrete issues through for themselves, and then overruling experts when they disagree, elites are more likely to focus on how manage experts and give them better incentives, so they can instead trust expert judgements. This should produce better judgements about what to regulate how, and what to leave alone how.
+The future will take longer, and more abstract, views. And thus make more sensible decisions. Finally.
+
+
+title: Abstract Views Are Coming
+
+date: September 26, 2020 4:45 pm
+

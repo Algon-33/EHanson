@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+When young, I imagined that the giants of the intellectual world would be found chipping away at our deepest most important questions.  Sure perhaps most intellectuals would work on practical problems with paying customers, or do less glorious but needed ground work, but the best and the brightest would focus on combining that ground work into deep answers.  Aspiring to high status, I also tried to identify and chip away at deep questions.
+Imagine how strange, then, the real world seems to me.  For example, Caltech prof and top science blogger Sean Carroll publishes a well-written book, From Eternity to Here, arguing for his explanation for the arrow of time, clearly one of our deepest questions.  Yet not only are such attempts rare, they get surprising little engagement.  Of the fourteen other blurbs, reviews, and articles (besides mine) listed at the book website, none express an opinion on whether Carroll’s answer is right, much less offer reasons for such an opinion.  Of the six Amazon reviews, two do express an opinion, one by complete-crank Ranger McCoy, and one by Lubos Motl, who says there is no arrow of time problem.  I also found a review by Peter Woit, who rejects the whole idea of a multiverse.  Geez, what does it take to get serious engagement of a proposed answer to a deep question?
+If you search for “arrow of time” or “origin time asymmetry” at arxiv.org you’ll find a smattering of papers, but almost no one makes the subject their main focus.  In our real intellectual world, smart ambitious folks find it far easier to signal their ability by working on more mundane ground work or practical questions.  So only a crank focuses their effort on a deep question, inducing people afraid of being confused with cranks to be careful to avoid such questions.  Super bigshots sometimes counter-signal, rambling on about such topics without having given them much thought, just to show that they can.
+Kudos to Sean for bucking the trend, and I hope he gets more serious engagement sometime soon.  As I said, his story is consistent, if speculative:
+Many of these are far-from-proven conjectures, but still it does all hold together. … Even so, it is very hard to over-emphasize just how far one must project current physics beyond the accuracy with which we have verified it to talk about tiny new universes popping out of quantum fluctuations in empty space at 10-29K.
+In the social sciences books that propose answers to deep questions do at least get reviews that engage those proposed answers.  Is that because we actually care more about social science questions?
+
+
+title: Big Questions
+
+date: January 10, 2010 6:10 pm
+

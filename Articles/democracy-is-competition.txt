@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+How much should business be regulated? This is often framed as a choice between the good feelings of freedom, and the costs of unmanaged cut-throat competition. But consider: the democracy that most people want to use to manage business is itself a form of cut-throat competition. That is, candidates usually have wide freedoms as they compete to get elected.
+Oh sure there are places like Iran or China where democratic competition is highly regulated, such as via restrictions on who can run for office and what can be said to whom. But such places are usually seen as shams – real democracy must have highly competitive elections.
+Fans of democratic regulation of business thus need to explain why mostly unregulated business competition is bad, while mostly unregulated candidate competition is good. In both cases ignorant customers are often exploited, and there can be lots of waste and duplication of effort.
+Libertarians, who want pretty free business competition but more limits on what regulations democratically-elected governments can choose, also need to explain why business competition is good but democratic competition is bad. It is autocrats and Adictators who are the most consistent here – they usually want strong regulation of both.
+Added 12Jan: Campaign finance rules seem more to regulate business than candidates. The intuition is that unfair business competition makes some people unfairly rich, and we shouldn’t let that unfairness influence elections.
+
+
+title: Democracy Is Competition
+
+date: January 11, 2013 1:20 pm
+

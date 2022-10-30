@@ -1,0 +1,14 @@
+author: David J. Balan
+
+text: 
+A while back I wrote a post suggesting that it would be better if people didn’t statistically discriminate (i.e., refused to use information on the average characterists of a group when making judgments about individuals from that group).  The idea (not original to me) was that an individual from a group with bad average characteristics will lack an incentive to invest in improving since they won’t be judged on their individual merits anyway.  Various comments and discussions and trackbacks have generated a few further thoughts:
+1. There is no guarantee that a refusal to discriminate will increase economic efficiency; for that to be true, it would have to be the case that the benefit of improved investment incentives outweighs the cost of discarding useful information.
+2. The benefit of a refusal to discriminate increases if you place any weight on the normative proposition that everyone deserves to be judged on their own merits.
+3. The benefit also increases if you believe that discrimination leads to alienation and various forms of costly anti-social behavior in the discriminated-against group.
+4. Bryan Caplan suggests that statistical discrimination is at least mitigated, and possibly eliminated, by the fact that high-attribute individuals in groups with low average attributes have an incentive to “counter-signal” by taking some action to show that they are in fact high attribute.  It is true that the possibility of counter-signalling will mitigate the harm from statistical discrimination, but I don’t see how it can ever make it go away.  Someone who bears both the direct cost of investment and the additional cost of counter-signalling will have less incentive to invest than someone who bears only the direct cost.  Furthermore, counter-signalling may not be cheap; it’s pretty darn costly to write a dissertation under an advisor known for high-tech mathematics just to show you don’t suck at math if you didn’t want to write with that guy anyway, you may just decide to punt and go to law school instead.  Finally, the problem may accumulate over an individual’s life as each investment not made makes the next one costlier until the point where an investment that would otherwise have been possible no longer is.
+
+
+title: Statistical Discrimination is (Probably) Bad
+
+date: January 16, 2007 8:45 pm
+

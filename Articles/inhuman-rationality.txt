@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+We seem comfortable celebrating those who practice complex statistical analysis, even if only one in a thousand can do so.  And the one in a billion genius celebrated for greatly improving our understanding or practice of statistics, or other rationality, seems to us an epitome of the best in humanity.  Who would call such exemplars "inhuman"?
+ But when rationality seems to require not rare celebrated abilities, but common despised tendencies, suddenly many complain rationality is "inhuman."  For example, many balk at my suggestion that rationality requires us to be more conformist in our beliefs, deferring more to others’ opinions, even if in conversation we explore different evidence and analyzes.  Yet conformity is widespread and most people have far more diverse word-opinions than betting-opinions.  I’d guess far more than one in a thousand humans realize something close to the degree of conformity I’m suggesting.  
+ It seems to me that the real issue here is not humanity but social status.  We are eager to achieve aspects of rationality that get high social status, but not those that get low status.  To gain high status, we don’t mind moving far out into the tails of the distribution of human features, but if low status is a prospect we suddenly express grave concern about moving out into the "inhuman" tails.
+For example, when I said:  
+  
+
+If you want to believe the truth, … just accept the average belief on any topic unless you have a good (and better than average) reason to think the causes of your belief difference would be substantially more informed than average. 
+
+ Many then said belief diversity is good.  I responded:
+
+We do not need different beliefs to hold and share different info and analysis.  We can talk directly about the clues we have seen, and about the conclusions our analyzes seem to favor. … We need not be so stupid as to form our beliefs only on such things.   
+
+Hal Finney commented:
+
+ It’s hard to imagine a society of beings who don’t believe in the theories and positions they argue for. I can’t help thinking that pending a vast realignment of human psychology, belief is a necessary ingredient for vigorous pursuit and advocacy of ideas.  One could imagine what we might call "epistemological zombies", beings who act just like people who have strong beliefs, but who don’t actually hold those beliefs at all. (They would mostly all privately believe what seems to be the consensus belief.) … [Robin] envisions beings who are sort of halfway between ordinary humans and e-zombies. … Doesn’t the fact that people have evolved with belief highly correlated with their actions suggest that this semi-e-zombie behavior is not consistent with human cognitive limitations? …
+
+I replied:  
+
+Consider people who vigorously argue for their claims but tend to find excuses not to bet on those claims, nor to act on their claims in other ways. To some extent, such people already are the "zombies" you find it hard to imagine. 
+
+Hal again:  
+
+These discrepancies … are … usually considered as cases of self-deception or cognitive dissonance. People still think they believe what they claim to. … My e-zombies were meant to … be free of self-deception, but still to act similarly to self-deceived humans. 
+
+
+
+title: Inhuman Rationality?
+
+date: April 8, 2008 6:00 am
+

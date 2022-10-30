@@ -1,0 +1,22 @@
+author: James Miller
+
+text: 
+The Large Hadron Collider (LHC) will create conditions “last seen a trillionth of a second after the Big Bang.”  A lawsuit has been filed to prevent the LHC from being turned on for fear that it might destroy the earth or perhaps even the universe.  Some scientists associated with the LHC have stated that the LHC is safe to operate.
+But, as the Dilbert Blog points out, should we trust these scientists’ stated opinions?  Scott Adams writes:
+
+“And who exactly ran the numbers to decide it wasn’t that risky? After all, the whole point of the Large Hadron Collider is to create conditions that are not predictable. If someone already predicted what would happen using nothing but his laptop and Excel, and determined it was safe, I don’t think we’re getting our $8 billion worth.
+I can’t see the management of this project spending $8 billion, realizing it was a huge boner, and then holding a press conference suggesting it be turned into a parking garage. I’ll bet a lot of people in that position would take at least a 5% risk of incinerating the galaxy versus incinerating their own careers. I know I would.
+If the lawsuit succeeds, imagine trying to get another job with that project failure on your resume.
+Interviewer: ‘So, you spent $8 billion dollars trying to build a machine that would either discover something cool or destroy the universe. Is it fair to say you are not a people person?’”
+
+Some of this blogs’ readers and writer seem to know a lot about physics.  Here is a question for you:
+(1)  What is the probability that the LHC will destroy the visible universe?
+If you think the answer is zero please don’t bother posting a comment since your knowledge of probability theory is insufficient for your comment to be informative.  
+And here is a question for everyone:
+(2)  For what answers to (1) should the LHC be prevented from operating?
+
+
+title: What is the probability of the Large Hadron Collider destroying the universe?
+
+date: June 17, 2008 11:00 pm
+

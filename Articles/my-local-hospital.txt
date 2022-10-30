@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Most people don’t think much of congress, but think better of their own representatives.  When people read newspaper articles about events they know personally, they are surprised to see how wrong such articles can be.  These illustrate the importance of checking your general beliefs against specific cases you come across.  In this spirit, I take special notice of a Washington Post column about my local hospital.  It seems regulation has restricted entry, driving up prices and profits of local hospitals, and so the columnist thinks governments should subsidize those hospitals’ efforts to attract rich patients from around the world.  
+
+ One of the most successful businesses in the Washington area [is] … a not-for-profit named Inova Health System. Over the past 40 years, what started out as a loose affiliation of three community hospitals in Fairfax County has transformed itself into the dominant provider of hospital and medical services in one of the richest and fastest growing regions of the country. And Inova’s Fairfax facility has become the best hospital in the Washington region, with nationally ranked programs in treatment of cancer and digestive disorders, endocrinology, gynecology and heart surgery. 
+ Much of the credit for Inova’s success goes to Knox Singleton, … one of the toughest, shrewdest and most ambitious business executives in the region.  As chief executive over the past 23 years, he’s bought up local competitors and cleverly used the legal, regulatory and political machinery to deny national hospital chains entry into the market. Now Singleton has visions of competing with the likes of the Mayo, Scripps or Cleveland clinics in attracting wealthy or interesting patients from all around the world. … Inova’s handicap, however, is that unlike other "destination" medical centers, it doesn’t have a world-class research program or a full-blown medical education program that usually goes with it. …
+ So far, Singleton has failed to convince any of the major medical schools in the region to set up a full-fledged program at Inova’s Fairfax campus. … In the case of Inova’s most likely partner, Virginia Commonwealth University, politics also comes into play: With the state facing a budget deficit, getting downstate legislators to finance a new medical school in Northern Virginia looks like a non-starter to VCU President Eugene Trani.  This is the sort of short-sighted approach to public investment and economic development we have come to expect from Virginia and its legislators.   
+
+This sure seems more about signaling regional pride than about helping sick people cope with rising medical costs.  
+
+
+title: My Local Hospital
+
+date: October 15, 2007 6:00 am
+

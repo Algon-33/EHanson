@@ -1,0 +1,27 @@
+author: Stuart Buck
+
+text: 
+   
+If you took a psychology class in college, you may have run across the so-called “Hawthorne Effect,” which is discussed in many college textbooks (see page 31 of this extensive survey from 2004) and is still cited in various studies.  But the original studies that gave the “Hawthorne Effect” its name have long been discredited, and textbooks don’t always give you the full details. First, a quick definition of the “Hawthorne Effect” from Wikipedia:
+
+The term gets its name from a factory called the Hawthorne Works, where a series of experiments on factory workers were carried out between 1924 and 1932.  There were many types of experiments conducted on the employees, but the purpose of the original ones was to study the effect of lighting on workers’ productivity. Researchers found that productivity almost always increased after a change in illumination but later returned to normal levels. This effect was observed for minute increases in illumination. . . .  A second set of experiments began and were supervised by Harvard University professors Elton Mayo, Fritz Roethlisberger and William J. Dickson. They experimented on other types of changes in the working environment, using a study group of five young women. Again, no matter the change in conditions, the women nearly always produced more. The researchers reported that they had accidentally found a way to increase productivity. 
+
+But is the original research valid?  Does it really prove that workers improve their productivity no matter what changes are made to their environment, or — more broadly — that people tend to improve their performance with any change that is being studied?  
+No.   As a 1998 New York Times article pointed out, “only five workers took part in the study, . . . and two were replaced partway through for gross insubordination and low output.”   In addition to the extremely small sample size and attrition, there are two additional problems: 1) the group’s performance didn’t even always increase, and 2) there were many confounding variables, such as the use of incentive pay (!) and rest breaks. In short, as this 1992 article from the American Journal of Sociology pointed out, the original data show “slender or no evidence of a Hawthorne effect.”   
+  
+Even so, psychology textbooks still seem to get many of these details wrong.  For example, many textbooks suggest incorrectly that the workers’ performance consistently improved in the Hawthorne studies.  As the textbook survey notes, “Contrary to the assertions of the authors of 76% of the textbooks in our sample (f = 16), performance did not always increase in the illumination studies.”  Many textbooks also fail to discuss attrition or confounding variables: 
+
+Excessive focus upon lighting manipulations can obfuscate other relevant independent variable manipulations made by Hawthorne researchers, including duration of rest and lunch breaks, length of work day, and the type of incentive pay. Rest breaks were a primary independent variable in the [first] experiment but were only discussed in 13 of the 21 books in our sample. Incentive pay was rarely discussed in our sample of textbooks (f =5) as an intentionally manipulated independent variable at Hawthorne. . . . 
+Many students would be surprised to learn these facts and that participants’ in the [first] experiment ranked “earnings” among the top three reasons why they preferred the test room over regular working conditions. * * * 
+[I]t was discouraging that references to other confounding variables within the environmental type were comparatively rare. As previously mentioned, changes in incentive pay during the [first] experiment were mentioned in only five textbooks. The fact that 2 of the 5 participants in the [first] study were replaced several months into the [first] experiment was mentioned only once. Changes in the quality and quantity of performance feedback during the same experiment were also mentioned only once in the sample. 
+
+ The phrase “too good to check” seems to apply to more than journalism.   A few thoughts that come to mind:  
+First, out of the three following categories of studies, which do you suppose would be most susceptible to this sort of propagation? 1. Studies purporting to prove something that is totally obvious; 2.  Studies purporting to prove something that is surprising at first but that has a plausible explanation; or 3.  Studies purporting to prove something that is both surprising and implausible.   
+Second, I’m not denying that there may be a real “Hawthorne Effect” of a more limited sort, in the sense that when people know they’re being watched and studied, they may alter their behavior in any number of ways.  See, e.g., here or here. Still, that’s not the same as saying that “any change can cause an improvement,” which is how the “Hawthorne” experiments are sometimes misinterpreted.  
+Third, to the extent that people do alter their behavior just in response to being studied, what then? Do we think that such behavioral alterations will be random and thus wash out?  Or will they be tilted in a particular direction (depending on the field and on what question is being studied), thus affecting the overall results of a given study?  And what does this tell us about Institutional Review Boards and their insistence that subjects should provide informed consent for anything and everything?  
+
+
+title: The Hawthorne Effect
+
+date: February 21, 2008 6:00 am
+

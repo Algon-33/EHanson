@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+I’m teaching environmental econ again for the first time in six years, and reviewing some standard texts two things stand out:
+
+Green Is Mostly Pink – Weighted by public or private efforts, most environmental policies are focused on limiting the harm some “pink” humans do to others via intermediaries of air, water, food, light, or sound. Whether that harm passes through green stuff is incidental to such policies. Much of the rest focuses on vague concerns that current human ways are not “sustainable.”  What little concern there is about green stuff out there is mostly to ensure humans have nice green places to visit when they want, and that humans avoid guilt for stuff that happens out there due to their intervention.  Actually concern for the welfare of green stuff from its own point of view is pretty minimal.
+Green Is Far – At first, I found it hard to see what the various “environmental” topics have in common.  Air purity, food locality, future human population, animal experiments, oil & mineral depletion, energy efficiency, sea levels, urban sprawl, landfills, consumerism, – what unites such diverse topics?  And then it hit me: they are mostly rather “far“.  That is, “environmental” concerns tend to be at unusually large distances in space, time, and social relation from ordinary folks and concerns.  The common theme seems to be how we here now relate to much larger contexts, and the oddities of far-mode thinking go a long way to explain odd enviro thoughts.  Cosmology would be super-green, if folks thought we had a non-trivial relation to non-Earth life.
+
+
+
+title: Green Is Far, Mostly Pink
+
+date: September 10, 2010 12:00 pm
+

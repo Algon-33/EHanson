@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+What is politics about?  A single “ideology” dimension explains most within-society political variation, and two dimensions, roughly “east-west” and “rich-poor” seem to explain most between-society variations.  But what are these dimensions, and why do they exist?
+It would make a lot of sense if political conflict derived from natural conflicts between obvious categories of individuals: old vs. young, men vs. women, rich vs. poor, married vs. single, parents vs. kidless, owners vs. renters, natives vs. immigrants, rural vs. urban, smart vs. dumb, extroverts vs. introverts, etc.  For example, it would make sense if the young were to struggle with the old over tax-funded benefits for the old.  But remarkably, such factors correlate only weakly with the sides in key policy disputes.
+Yes, we’d expect lots of random behavior if politics were mainly about signaling, rather than policy.  But signaling doesn’t by itself get us very far in explaining the two main political dimensions.  What could be the two key features being signaled?
+An important clue is that political positions have long drifted steadily toward the “rich”, and to a lesser extent “west”, directions.  This steady drift is hard to reconcile with people learning to deal with a discrete change, as changes due to such learning should instead look more like a random walk.
+A better explanation is that this political drift results from common context-dependent strategies applied to a steadily drifting environment. That is, individuals and societies might have evolved to express different values and attitudes in different sorts of situations. In particular, folks might have evolved different priorities when rich vs. poor.  So as societies get smoothly rich, their politics might smoothly change toward rich-appropriate strategies.  And individuals who grow up richer, or who inherited stronger context-dependency, would favor more rich-end politics.
+The problem is, it is hard to see why most “rich” policies make more sense for rich folk.  Why exactly would folks have evolved to, when rich, more prefer abortion, divorce, homosexuality, and leisure, and less kids religion, patriotism, and authority?  It seems hard to find satisfying direct functional explanations for most of these patterns.  Could these patters instead be no-longer-functional vestiges of a prior disruption?
+The biggest disruption in the last million years was the transition from foraging to farming (= digging + herding), roughly ten thousand years ago.  This transition required huge changes in attitudes and behaviors, supported by modest still-slowly-continuing genetic changes and huge cultural changes.  I hypothesize that the cultural pressures which long ago pushed folks from more natural forager ways into then-more-functional farming ways work better on poor people, so that rich folk less feel their pressure.  If so, as folks get rich they would tend to revert back to the natural-feeling forager ways.
+While this hypothesis may seem natural, I must point out that it has a gaping hole: it is far from obvious why the cultural pressures that made foragers act like farmers should weaken when folks get rich.  Yes poor farmers may have few other options, while rich folks have the luxury of acting more like foragers. But rich farmers could have instead used their wealth to act like hyper-farmers, moving even further from forager styles. Why exactly did rich farmers act more like foragers?
+More tomorrow on how farming pressures might depend on wealth.
+
+
+title: Hole In My Hypothesis
+
+date: October 5, 2010 9:00 am
+

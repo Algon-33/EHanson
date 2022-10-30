@@ -1,0 +1,15 @@
+author: Robert Wiblin
+
+text: 
+I often listen to music or use my phone while walking through town. I have heard that this is dangerous and could cause me to get killed, so I’ll attempt a back of the envelope calculation to work out if I should stop.
+Firstly, the base rate of risk for being run over as a pedestrian in the UK is 0.0006% per person each year. Let’s say as a young man I face double that risk, or 0.0012%. I don’t know how much using my phone some of the time while walking raises the risk, though this data suggests a pedestrian failing to look properly was the cause of 190 road fatalities in the UK, out of a total of 385 pedestrian deaths. For the sake of argument, let’s say the risk triples. Let me know if you have a better estimate. That would result in an extra risk of death of 0.0024% each year. Dying now would cost me some 60 years of healthy life, so I should expect to lose 0.00144 years for each year I engage in this behaviour – which is around 12 hours.
+As compensation, I get to listen to music, audiobooks and check my email for on average 10 minutes a day, which comes to 60 hours or so a year. I would say that time is about 50% better spend than it would be otherwise thanks to my ability to use my phone, so I expect to gain the equivalent of 30 hours a year.
+If these numbers are about right, I should be fairly comfortable listening to music or looking at my phone as a pedestrian. However, the harm is pretty close to the benefit, and someone could reasonably think the cost actually outweighs the benefit.
+Nonetheless I could do better by not using my phone in cases where the cost exceeds the benefit, for example by keeping the volume low, not having conversations which are particularly distracting, and being strict about not starting to look at my phone if I expect to cross the street soon after.
+If you like this approach – and maybe even if you don’t – you’ll also like How to Gain or Lose 30 Minutes of Life Every Day, which estimates how much life you should expect to gain or lose each time you exercise, eat fruit, vegetables or meat, drink alcohol, smoke a cigarette, remain overweight, or sit at a computer for hours at a time. Gains and losses are measured using the ‘micromort‘, which corresponds to half an hour of life. While the numbers are no doubt a dramatic simplification of the medical evidence, I find a concrete estimate of the benefits gives me stronger motivation to eat more vegetables, drink less, and perhaps exercise more as well. And it helps me prioritise which health enhancing activities are worth the trouble, and which are not.
+
+
+title: Should I stop using my phone as a pedestrian?
+
+date: March 11, 2013 1:26 pm
+

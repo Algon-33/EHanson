@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+A recent Psychological Science article describes experiments where subjects were randomly induced into either an proud or a neutral mental state, and then worked with a group on solving a problem: 
+Proud individuals not only took on a dominant role within the group problem-solving task, but also were perceived as the most likeable interaction partners. These findings suggest that pride, when representing an appropriate response to actual performance (as opposed to overgeneralized hubris), constitutes a functional social emotion with important implications for leadership and the building of social capital.
+This seems a somewhat odd conclusion to draw, since in this experiment the pride was not an appropriate response to actual performance; it was randomly induced!  
+Nevertheless, this does seem to confirm pride as a signal of social status.  We like folks who signal high status, except if they are a rival or we think they are bidding for more status than they can support.  
+Added: This NYT article from a month ago reviews this and other pride studies.
+
+
+title: We Like Pride
+
+date: May 6, 2009 6:00 am
+

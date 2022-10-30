@@ -1,0 +1,14 @@
+author: Hal Finney
+
+text: 
+Via the Freakonomics blog I found this pointer to an article in today’s New York Times: The New, Soft Paternalism by Jim Holt.
+It relates to one of the most curious of human failures, our inability to successfully act in our own self-perceived best interest. Now, it’s not clear that this is actually a case of bias in the sense of inability to see the truth. It may be the case that we often take actions we know we will regret, and fully and correctly predict our attitudes and responses throughout the time in which we will experience the consequences of our actions. Yet we find that as we move from one time period to the next, we perceive that the actions that we have taken were not in our self-interest.
+The Times article discusses various measures which have arisen to try to help people guard against falling into this error, along with skeptics who question whether it is an error at all. One example is a system where compulsive gamblers can voluntarily put themselves on a list to be excluded from casinos. More commonplace examples include throwing out all the cigarettes in the house, or buying only small containers of ice cream when you know you’ll eat the whole thing.
+Robin pointed a few years ago to a paper by Caplin and Leahy which discussed some similar issues: The Social Discount Rate (pdf). They argued that inconsistent time preferences were a dominant feature of human psychology and suggested that social welfare could be improved via institutions to encourage (or coerce) a longer-term perspective in human action. Caplin and Leahy want to overthrow the "dictatorship of the present" and give future selves a greater say in decisions which will affect their welfare.
+I am not convinced about these issues; it’s confusing to consider one’s future self as a different person. And there is also the problem of uncertainty, in that I don’t know what his circumstances will be or if he will even be alive. I think this does justify a certain amount of discounting of his preferences over those of the present self, but probably not as much as is commonly done.
+
+
+title: Future Selves
+
+date: December 3, 2006 7:01 pm
+

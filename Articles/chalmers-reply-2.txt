@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+In April 2010 I commented on David Chalmers’ singularity paper:
+The natural and common human obsession with how much [robot] values differ overall from ours distracts us from worrying effectively.  … [Instead:]
+1. Reduce the salience of the them-us distinction relative to other distinctions. …
+2. Have them and us use the same (or at least similar) institutions to keep peace among themselves and ourselves as we use to keep peace between them and us.
+I just wrote a 3000 word new comment on this paper, for a journal. Mostly I complain Chalmers didn’t say much beyond what we should have already known. But my conclusion is less meta:
+The most robust and promising route to low cost and mutually beneficial mitigation of these [us vs. superintelligence] conflicts is strong legal enforcement of retirement and bequest contracts. Such contracts could let older generations directly save for their later years, and cheaply pay younger generations to preserve old loyalties. Simple consistent and broad-based enforcement of these and related contracts seem our best chance to entrench the enforcement of such contracts deep in legal practice. Our descendants should be reluctant to violate deeply entrenched practices of contract law for fear that violations would lead to further unraveling of contract practice, which threatens larger social orders built on contract enforcement.
+As Chalmers notes in footnote 19, this approach is not guaranteed to work in all possible scenarios. Nevertheless, compare it to the ideal Chalmers favors:
+AI systems such that we can prove they will always have certain benign values, and such that we can prove that any systems they will create will also have those values, and so on … represents a sort of ideal that we might aim for (p.35).
+Compared to the strong and strict controls and regimentation required to even attempt to prove that values disliked by older generations could never arise in any later generations, enforcing contracts where older generations pay younger generations to preserve specific loyalties seems to me a far easier, safer and more workable approach, with many successful historical analogies on which to build.
+
+
+title: Chalmers Reply #2
+
+date: July 2, 2011 3:20 pm
+

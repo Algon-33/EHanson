@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Consider some uses of the word “confident“:
+Tom is confident the bus will arrive soon.
+This is often interpreted as Tom assigning a high probability to the bus arriving soon. But then what about:
+The CDC is confident this diseases poses only a moderate risk.
+Is there a high probability that moderate risk is the correct risk assessment?  But what can it mean for an estimate to be “correct”? Is this about the robustness of estimate to analysis variations? Now consider:
+Sam took me into his confidence.
+Perhaps this means Sam assigned a high probability that I would not betray him. But then what about:
+Bill’s manner is more confident these days.
+Perhaps this means Bill assigns a high probability to his having a high ability.  But this last usage seems to me better interpreted as Bill acting higher status, and expecting his bid for higher status to be accepted by others. Bill does not expect to be challenged in this bid, and beaten down.
+If you think about it, this status move interpretation can also make sense of all the other uses above. Sam taking me into his confidence might mean that Sam didn’t expect me to use his trust to reduce his status.  And the CDC might expect that its risk estimation could not be successfully challenged by other parties, perhaps in part because this estimate was robust to analysis variations. Similarly, Tom might expect that his status won’t be reduced by the bus failing to show up as he predicted.
+Yes, sometimes confidence can be in part about assigning a high probability, or about the robustness of an analysis.  But more fundamentally, confidence may be about status moves. It is just that in some circumstances we makes status bids via asserting that some event is high probability, or asserting that variations of an analysis tend to lead to similar results.
+If you ever offer advice, to someone who asks you how confident you are in your advice, try to remember that this may at root not be a question about probabilities. It may instead be a question what can happen socially if your advisee follows your advice. How easily might others might challenge that advice, perhaps then lowering your advisee’s status? To figure that out, you may need to look beyond probabilities and analysis robustness, and consider who might want to challenge this advice, what might make them want to launch such a challenge, and what resources they might bring to such a fight.
+
+
+title: Is Confidence Social?
+
+date: September 17, 2011 11:00 pm
+

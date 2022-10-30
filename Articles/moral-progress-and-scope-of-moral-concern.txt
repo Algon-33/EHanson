@@ -1,0 +1,15 @@
+author: Matthew Pianalto
+
+text: 
+I just read the first few pages of Paul Johnston’s (1999) The Contradictions of Modern Moral Philosophy, and he makes an interesting opening suggestion that addresses some of Robin’s concerns about whether we can know that we have made any moral progress – as he puts it, whether we can know that our moral beliefs are better than, say, those of Kant or Aristotle.
+Johnston notes that the success of scientific explanation and challenges to traditional religious beliefs have given rise to various forms of moral skepticism and moral relativism, and suggests that, "Overall, there seems to be a real question as to whether, knowing what we do, we can still believe in right and wrong." The following paragraph, however, presents an interesting assessment of the situation of ethics in "modernity":
+
+This issue looks surprisingly different when considered from a less theoretical perspective. Measured against our actual practices the suggestion that ethical thinking has lost its hold in our society seems exaggerated. Paradoxically, the modern world seems characterised not only by scepticism about ethics but also by the clash of strongly held moral views. Take the controversy about abortion. This debate highlights the divisions that can arise in our society, but it also refutes the suggestion that modernity and moral certainty are antithetical. Indeed, it could be argued that in some ways people today are more ethical than their forbears insofar as certain aspects of human life that were previously not believed to raise moral issues are now seen as doing so. The rise of vegetarianism and of new concepts such as animal rights suggest that, far from withering away in our society, ethical notions are gaining new force and fresh applications. Despite theoretical misgivings about ethics, the modern world seems willing to embrace moral codes even more demanding than those held in earlier times.
+
+I suppose one could object to Johnston’s argument by claiming that we simply make mountains out of what our forbears would have only regarded as molehills. But it seems that saying that would commit one to the view that abolishing slavery and condemning sexual harassment are not to be regarded as moral improvements, since these are simply, to abuse Paul Graham’s phrase, "moral fashions." (Thanks for the reference to Graham, Daniel and Richard.)
+
+
+title: Moral Progress and Scope of Moral Concern
+
+date: March 22, 2007 7:32 am
+

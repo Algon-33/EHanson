@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+In a prisoner’s dilemma, two sides have an incentive to defect, even though mutual defection is worse for both sides than mutual cooperation. It is well known that in theory and in reality people cooperate more when then expect to interact over more repetitions, and when they care more about the future.
+It is hard to make people live longer, or care more about the future. It can be just as helpful, however, and often much easier, to make people interact more frequently. In the limit of continuous interaction, people should cooperate the most. My once co-author Ryan Oprea has a paper with Daniel Friedman in the latest AER, showing this:
+We study [lab experiment] prisoners’ dilemmas played in continuous time with flow payoffs accumulated over 60 seconds. In most cases, the median rate of mutual cooperation is about 90%. Control sessions with repeated matchings over 8 subperiods achieve less than half as much cooperation, and cooperation rates approach zero in one-shot control sessions.
+They introduce some new theory to explain details of this behavior:
+Inspired by a strand of existing theoretical literature, we postulated a particular class of epsilon equilibria and derived formulas predicting how cooperation rates respond to adjustment lags and to payoff parameters. These predictions accounted well for the Continuous, Grid-8 and (trivially) One-Shot data. They also nicely explained a set of second-round data from Grid-n sessions, which varied the number of subperiods from 2 to 60. Thus the formulas correctly predict defection in one shot games, cooperation in continuous time and intermediate results on the path between the two. The underlying intuition is simple. When your opponent can react very quickly, defecting from mutual cooperation is likely to earn you the temptation paypoff only briefly and may cost you the cooperation payoff for the rest of the period.
+So do online firms cooperate more when they can vary their prices more frequently? What rapidly-changeable actions would help nations to cooperate more?
+
+
+title: Continuous Cooperation
+
+date: March 16, 2012 8:00 am
+

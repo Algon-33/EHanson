@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Seth Roberts says economists neglect innovation:
+How to avoid or recover from stagnation … is the central question of economic life, with no clear answer. Yet it is roundly ignored. In the Berkeley Public Library a few years ago, I picked up an introductory economics textbook for junior colleges, 700 pages long. It had one page – fact-free, poorly-written – about where new goods and services come from. This is typical of the introductory economics textbooks I’ve seen. It reflects the profession as a whole: I estimate about 1% of mainstream economic research is about innovation. It should be half the field.
+He’s right; innovation is neglected, at least using a standard of what has impact or relevance. But academics don’t study topics because they are important; they study topics to gain prestige, by being certified as mastering impressive techniques. Sure, all else equal it can help to write about an important topic.  (At least if you avoid taking on a topic too big for your status – big grand overviews and contrarian jabs tend to be reserved for senior folk.) But academics usually aren’t rewarded enough for the added effort to figure out what topics are actually important. So they might as well just do what others say is important. And since it is hard to use standard impressive tools to study how to promote innovation, that topic gets neglected.
+Enough excuses; here’s a positive contribution. It seems to me that one of the major factors limiting innovation is this: would be innovators must now combine two risky decisions:
+
+What innovative ideas or projects are ripe and promising to purse now?
+Who is best placed or skilled to attempt the realization of each idea?
+
+People who pitch project ideas to venture capitalists often focus on convincing them of #1, idea quality, not realizing that if you convince them of that but not #2, your team quality, they will just steal your idea and give it to another better team.  Usually they hear from several teams pitching pretty similar concepts, so they are judging mainly on team quality.
+Knowing this, sophisticated innovators tend to neglect idea quality, and focus on team quality.  Naive innovators address both issues, but being naive they don’t know enough about what other folks think about the quality of their ideas. The net result is too little aggregation of info about idea quality. Could we do better?
+Prediction markets, to the rescue! Imagine prediction markets on which innovative ideas will succeed soon, possibly conditional on approach or team style.  Such prediction markets could offer a valuable modularity to aid innovation. Some people could focus on idea quality, and profit from their insights by trading in markets on which ideas will succeed when. Other folks could focus on team quality, by creating high quality teams which pursue the ideas that prediction markets have endorsed. Such teams could hedge some of their idea risk in prediction markets, and that hedging would add market liquidity, enabling idea specialists to better profit from their insights.
+
+
+title: Modular Innovation
+
+date: March 9, 2011 6:30 pm
+

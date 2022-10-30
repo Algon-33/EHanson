@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+From a recent Post artice:
+
+Looking at data from every trade made by all investors in Taiwan from 1995 to 1999, Odean discovered that the "aggregate portfolio of individual investors suffers an annual performance penalty of 3.8 percentage points," which includes trading costs. If investors had simply bought the index and not traded at all, they would have done about 3.5 percent better. The amount of money lost was equivalent to 2.2 percent of Taiwan’s gross domestic product.
+
+
+
+title: How to Add 2% to GDP
+
+date: June 6, 2008 6:00 am
+

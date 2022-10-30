@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Our culture tends to celebrate the smart, creative, and well-informed. So we tend to be blind to common criticisms of such folks. A few days ago I pointed out that creative folk tend to cheat more. Today I’ll point out that the well-informed tend to donate less to charity:
+The best approach for a charity raising money to feed hungry children in Mali, the team found, was to simply show potential donors a photograph of a starving child and tell them her name and age. Donors who were shown more contextual information about famine in Africa — the ones who were essentially given more to think about — were less likely to give. …
+Daniel Oppenheimer … found that simply giving people information about a charity’s overhead costs makes them less likely to donate to it. This held true, remarkably, even if the information was positive and indicated and the charity was extremely efficient. …
+According to [John] List, thinking about all the people you’re not helping when you donate  …  makes the act of giving a lot less satisfying. (more; HT  Reihan Salam)
+
+
+title: Info Cuts Charity
+
+date: December 9, 2011 9:00 pm
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Futurist George Dvorsky:
+A popular notion amongst futurists … is … that we can proactively engineer the kind of future we want to live in. … I myself have been seduced by this idea. … Trouble is, we’re mostly deluded about this.  Now, I don’t deny that we should collectively work to build a desirable future … What I am concerned about, however, is the degree to which we can actually control our destiny. While I am not an outright technological determinist, I am pretty damn close. As our technologies increase in power and sophistication, and as unanticipated convergent effects emerge from their presence, we will increasingly find ourselves having to deal with the consequences. …
+For example, consider the remedial ecology and geoengineering concepts. …. Breaking down toxic wastes and removing carbon from the atmosphere was not anything anybody would have desired a century ago. …
+The Cold War … we have no reason to believe that a similar arrangement couldn’t happen again, especially when considering … nuclear proliferation and … nanoweapons and robotic armadas. … We are slaves to technological adaptationism. … In order to avoid our extinction, … we may be compelled to alter our social structures, values, technological areas of inquiry and even ourselves in order to adapt. As to whether or not such a future is desirable by today’s standards is an open question.
+Bravo George.  These are hard truths; not the sort that throngs of enthusiastic futurists will applaud in keynote speeches. I’d say it isn’t so much that “technologies increase in power and sophistication” as that coordination is hard.  Yes it can be hard to anticipate how changes, including new tech changes, will interact.  But even when we can anticipate changes we find it very hard to coordinate to act on such warnings.  Only the most extreme warnings will move us, and we have little interest in funding efforts to find warnings to consider.
+So futurists would do well to follow economists’ usual analysis strategy: make your best guess about what things will be like if we do nothing to change them, and then try to sign the gains from moving parameters in particular directions away from that best guess. As I said in June:
+When our ability to influence the future is quite limited, then our first priority must be to make a best guess of what the future will actually be like, if we exert no influence. This best guess should not be a wishful assertion of our far values, it should be a near-real description of how we would actually bet, if the asset at risk in the bet wer something we really cared about strongly. And yes, that description may well be “cynical.”  With such a cynical would-bet best guess, one should then spend most of one’s efforts asking which small variations on this scenario one would most prefer, and what kinds of actions could most usefully and reliably move the future toward these preferred scenarios. (Econ marginal analysis can help here.)  And then one should start doing such things.
+Once you can guess which directions are “up”, you can work to push outcomes in such directions.  Even if you can’t push very far, you may still do the best you can, and perhaps make an important difference.
+
+
+title: Dvorsky Matures
+
+date: August 16, 2010 6:00 am
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Scenario planning is a popular way to think about possible futures. In scenario planning, one seeks a modest number of scenarios that are each internally consistent, story-like, describe equilibrium rather than transitory situations, and are archetypal in representing clusters of relevant driving forces. The set of scenarios should cover a wide range of possibilities across key axes of uncertainty and disagreement.
+Ask most “hard” science folks about scenario planning and they’ll roll their eyes, seeing it as hopelessly informal and muddled. And yes, one reason for its popularity is probably that insiders can usually make it say whatever they want it to say. Nevertheless, when I try to think hard about the future I am usually drawn to something very much like scenario planning. It does in fact seem a robustly useful tool.
+It often seems useful to collect a set of scenarios defined in terms of their reference to a “baseline” scenario. For example, macroeconomic scenarios are often (e.g.) defined in terms of deviation from baseline projections of constant growth, stable market shares, etc.
+If one chooses a most probable scenario as a baseline, as in microeconomic projections, then variations on that baseline may conveniently have similar probabilities to one another. However, it seems to me that it is often more useful to instead pick baselines that are simple, i.e., where they and simple variations can be more easily analyzed for their consequences.
+For example even if a major war is likely sometime in the next century, one may prefer to use as a baseline a scenario where there are no such wars. This baseline will make it easier to analyze the consequences of particular war scenarios, such as adding a war between India and Pakistan, or between China and Taiwan. Even if a war between India and Pakistan is more likely than not within a century, using the scenario of such a war as a baseline will make it harder to define and describe other scenarios as variations on that baseline.
+Of course the scenario where an asteroid destroys all life on Earth is extremely simple, in the sense of making it very easy to forecast socially relevant consequences. So clearly you usually don’t want the simplest possible scenario. You instead want to a mix of reasons for choosing scenario features.
+Some features will be chosen because they are central to your forecasting goals, and others will be chosen because they seem far more likely than alternatives. But still other baseline scenario features should be chosen because they make it easier to analyze the consequences of that scenario and of simple variations on it.
+In economics, we often use competitive baseline scenarios, i.e., scenarios where supply and demand analysis applies well. We do this not such much because we believe that this is the usual situation, but because such scenarios make great baselines. We can more easily estimate the consequences of variations by seeing them as situations where supply or demand changes. We also consider variations where supply and demand applies less well, but we know it will be harder to calculate the consequences of such scenarios and variations on them.
+Yes, it is often a good idea to first look for your keys under the lamppost. You keys are probably not there, but that is a good place to anchor your mental map of the territory, so you can plan your search of the dark.
+
+
+title: Rah Simple Scenarios
+
+date: January 30, 2013 11:00 am
+

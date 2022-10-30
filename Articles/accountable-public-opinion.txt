@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+In a recent Time oped, Michael Kinsley laments that the public doesn’t take more responsibility for its opinions: 
+
+[On the Iraq war, pundits have] all changed their tunes, a little or a lot, with various degrees of contrition.  Politicians, too, are under pressure to recant anything nice they may have said about the Iraq war … But one important voice was as wrong as any of them and now is among the most censorious about the way things have turned out. Yet this voice has never acknowledged its previous errors. In fact, no one expects it to do so, even though it is more responsible than any pundit for U.S. policy in Iraq. This is the voice of the citizenry, the American people. …
+I am always amazed at the things people are willing to express opinions about. Is the "surge" working? Is there likely to be a terrorist attack in the next few months? … In opinion polls, citizens are treated like gods, dispensing or withholding their "approval" on any basis they wish or none at all. …  Ninety percent of the electorate once approved of Bush’s "handling" of terrorism. Now only 39% approve. That means at least 51%, or more than half of all Americans, used to support Bush on terrorism but don’t anymore. You might say they have decided they were wrong, but opinion-poll democracy requires no such self-criticism. Political opinions are like old-fashioned airline tickets, with no change penalty.
+ Bush’s decision to go to war in Iraq … did in fact have the support of most American citizens, which surely egged him on. … Millions of Americans now apparently regret those opinions. But unlike the politicians and the pundits, they do not face pressure to recant or apologize.  American democracy might be stronger if they did.
+
+ Kinsley hits the nail on the head with the word "pressure."  Secure dictators such as the opinion poll and voting public now are feel little pressure to admit anything.   This is why I’d prefer public policy to instead be based on a more accountable public opinion, one with more pressure to be right due to a personal penalty for being wrong.  This is the key concept behind "futarchy," or decision markets for public policy.  
+
+
+title: Accountable Public Opinion
+
+date: August 10, 2007 6:00 am
+

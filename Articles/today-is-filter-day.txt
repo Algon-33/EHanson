@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+By tracking daily news fluctuations, we can have fun, join in common conversations, and signal our abilities to track events and to quickly compose clever commentary. But for the purpose of forming accurate expectations about the world, we attend too much to such news, and neglect key constant features of our world and knowledge.
+So today, let us remember one key somber and neglected fact: the universe looks very dead. Yes, there might be pockets of life hiding in small corners, but for billions of years billions of galaxies full of vast resources have been left almost entirely untouched and unused. While we seem only centuries away making a great visible use of our solar system, and a million years from doing the same to our galaxy, any life out there seems unable, uninterested, or afraid to do the same. What dark fact do they know that we do not?
+Yes, it is possible that the extremely difficultly was life’s origin, or some early step, so that, other than here on Earth, all life in the universe is stuck before this early extremely hard step. But even if you find this the most likely outcome, surely given our ignorance you must also place a non-trivial probability on other possibilities. You must see a great filter as lying between initial planets and visibly expanding civilizations, and wonder how far along that filter we are. In particular, you must estimate a substantial chance of “disaster”, i.e., something destroying our ability or inclination to make a visible use of the vast resources we see. (And this disaster can’t be an unfriendly super-AI, because that should be visible.)
+Assume that since none of the ~1020 planets we see has yet given rise to a visible expanding civilization, each planet has a less than one in 1020 chance of doing so. If so, what fraction of this 1020+ filter do you estimate still lies ahead of us? If that fraction were only 1/365, then we face at least a 12% chance of disaster. Which should be enough to scare you.
+To make sure we take the time to periodically remember this key somber fact, I propose that today, the day before winter solstice, the darkest day of the year, be Filter Day. I pick the day before to mock the wishful optimistic estimate that only 1/365 of the total filter remains ahead of us. Perhaps if you estimate that 1/12 of the filter still lies ahead, a filter we have less than a 2% chance of surviving, you should commemorate Filter Day one month before winter solstice. But then we’d all commemorate on different days, and so may not remember to commemorate at all.
+So, to keep it simple, today is Filter Day. Take a minute to look up at the dark night sky, see the vast ancient and unbroken deadlands, and be very afraid.
+What other activities makes sense on Filter Day? Visit an ancient ruin? A volcano? A nuclear test site? The CDC? A telescope?
+
+
+title: Today Is Filter Day
+
+date: December 20, 2012 6:00 am
+

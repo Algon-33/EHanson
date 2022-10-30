@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+To increase efforts to dealt with catastrophic risks, shift responsibility from individuals to firms:
+Corporate demand for catastrophe coverage is actually more price inelastic than the demand for non-catastrophe coverage. … A 10% increase in price will reduce quantity of terrorism coverage by only 2.42% whereas it will reduce the quantity of property coverage by 2.91%. This result is in contrast to the ﬁndings with respect to individual insurance choices in laboratory experiments and empirical studies on homeowners insurance. …
+The majority of homeowners do not purchase catastrophic coverage voluntarily and those cases that do obtain some coverage, exhibit a very elastic demand. … Typically, individuals either ignore those low-probability risks (optimism) or over-estimate them by focusing on possible outcomes without paying much attention to the likelihood of them happening (availability bias). Such bimodal distributions of behavior were also shown experimentally … analyzing actual long-term care insurance decisions by individuals. … Individuals tend to largely neglect risks with a very low probability. However, once a low-probability event takes place, the risk is back in their attention and individuals tend to overinsure against this risk. …
+Even when the cost of insurance is subsidized, many people located in high risk areas
+still do not purchase coverage. … Even those homeowners who purchased insurance against catastrophe risks (hurricane) exhibited a more price elastic demand for catastrophic risks than for non-catastrophe risks (ﬁre). A related ﬁnding is that many individuals are willing to pay signiﬁcantly more for non-catastrophe insurance than for catastrophe insurance. (more)
+
+
+title: Firms Fight Risk
+
+date: September 12, 2011 9:00 am
+

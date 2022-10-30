@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+In an interview in the December 16 New Scientist (ungated for now here), psychiatrist Patrick Lemoine explains how what he sells is partly illusion: 
+
+How much do doctors use placebo therapy? The most reliable estimates suggest that around 35 to 40 per cent of all official prescriptions are impure placebos, by which I mean pharmacologically inactive substances contaminated with a tiny amount of active ingredient – not enough to have a clinical effect, but enough for doctors to claim it does. … 
+Doctors hate not to be able to predict or control the outcome of a treatment, because it makes them feel like charlatans. As a result they tend not to prescribe pure placebos – that is, totally inactive substances – but impure placebos. This way they can fool themselves, at the same time as they fool their patients, that the treatment has predictable, scientifically tested effects. 
+
+  
+
+Can you give an example of an impure placebo?Magnesium is one. Rare conditions resulting from a deficiency of magnesium produce some symptoms very similar to those of anxiety. Magnesium is therefore often prescribed for anxiety in Europe, even though the cause, in most cases, is unlikely to be magnesium deficiency. …
+Are you guilty of prescribing placebos?
+
+title: A Honest Doctor, Sort Of
+
+date: January 1, 2007 6:00 am
+

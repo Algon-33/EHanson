@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Back in 1948, the Supreme Court ordered Paramount, Metro-Goldwyn-Mayer and other movie studios to divest themselves of their theater chains, ruling that the practice of giving their own theaters preference on the best movies amounted to illegal restraint of trade.
+In 1962, MCA, then the most powerful force in Hollywood as both a talent agency and producer of TV shows, was forced to spin off its talent agency after the Justice Department concluded that the combination gave it unfair advantage in both markets.
+And in 1970, the Federal Communications Commission prohibited the broadcast networks — ABC, CBS and NBC — from owning or producing programming aired during prime time, ushering in a new golden era of independent production.
+In recent decades, however, because of new technology and the government’s willful neglect of the antitrust laws, most of those prohibitions have fallen by the wayside. (more)
+My last post talked about how our standard economic models of firms competing in industries typically show industries having too many, not too few, firms. It is a suspicious and damning fact that economists and policy makers have allowed themselves and the public to gain the opposite impression, that our best theories support interventions to cut industry concentration.
+My last post didn’t mention the most extreme example of this, the case where we have the strongest theory reason to expect insufficient concentration:
+
+Multi-Monopoly: There’s a linear demand curve for a product that customers must assemble for themselves via buying components separately from multiple monopolists. Each monopolist must pay a fixed cost and a constant marginal cost per component sold. Monopolists simultaneously set their prices, and the sum of these prices is intersected with the demand curve to get a quantity, which becomes the quantity that each firms sells.
+
+The coordination failure among these firms is severe. It produces a much lower quantity and welfare than would result if all these firms were merged into a single monopolist who sold a single merged product. So in this case the equilibrium industry concentration is far too low.
+This problem continues, though to a lessor extent, even when each of these monopolists is replaced by a small set of firms, each of who faces the same costs, firms who compete to sell that component. This is because the problem arises due to firms having sufficient market power to influence their prices.
+For example, this multi-monopoly problem shows up when many towns along a river each separately set the tax they charge for boats to travel down that river. Or when, to get a functioning computer, you must buy both a processing chip and an operating system from separate firms like Intel and Microsoft.
+Or when you must buy a movie or TV experience from (1) an agent who makes actors available, (2) a studio who puts those actors together into a performance, and (3) a theatre or broadcast network who finally show it to you. When these 3 parties separately set their prices for these three parts, you have a 3-way monopoly (or strong market power) problem.
+This last example is why the quote above by Steven Pearlstein is so sad. He calls for anti-trust authorities to repeat some of their biggest ever mistakes: breaking monopolies into multi-monopolies. And alas, our economic and policy authorities fail to make clear just how big a mistake this is. In most industrial organization classes, both grad and undergrad, you will never even hear about this problem.
+
+
+title: Beware Multi-Monopolies
+
+date: September 8, 2019 9:15 am
+

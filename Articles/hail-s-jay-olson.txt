@@ -1,0 +1,32 @@
+author: Robin Hanson
+
+text: 
+Over the years I’ve noticed that grad students tend to want to declare their literature search over way too early. If they don’t find something in the first few places they look, they figure it isn’t there. Alas, they implicitly assume that the world of research is better organized than it is; usually a lot more search is needed.
+Seems I’ve just made this mistake myself. Having developed a grabby aliens concept and searched around a bit I figured it must be original. But it turns out that in the last five years physicist S. Jay Olson has a whole sequence of seven related papers, most of which are published, and some which got substantial media attention at the time. (We’ll change our paper to cite these soon.)
+Olson saw that empirical study of aliens gets easier if you focus on the loud (not quiet) aliens, who expand fast and make visible changes, and also if you focus on simple models with only a few free parameters, to fit to the few key datums that we have. Olson variously called these aliens “aggressively expanding civilizations”, “expanding cosmological civilizations”, “extragalactic civilizations”, and “visible galaxy-spanning civilizations”. In this post, I’ll call them “expansionist”, intended to include both his and my versions.
+Olson showed that if we assume that humanity’s current date is a plausible expansionist alien origin date, and if we assume a uniform distribution over our percentile rank among such origin dates, then we can estimate two things from data:
+
+from our current date, an overall appearance rate constant, regarding how frequently expansionist aliens appear, and
+from the fact that we do not see grabby controlled volumes in our sky, their expansion speed.
+
+Olson only required one more input to estimate the full distribution of such aliens over space and time, and that is an “appearance rate” function f(t), to multiply by the appearance rate constant, to obtain the rate at which expansionist aliens appear at each time t. Olson tried several different approaches to this function, based on different assumptions about the star formation rate and the rate of local extinction events like supernovae. Different assumptions made only make modest differences to his conclusions.
+Our recent analysis of “grabby aliens”, done unaware of Olson’s work, is similar in many ways. We also assume visible long-expanding civilizations, we focus on a very simple model, in our case with three free parameters, and we fit two of them (expansion speed and appearance rate constant) to data in nearly the same way that Olson did.
+The key point on which we differ is:
+
+My group uses a simple hard-steps-power-law for the expansionist alien appearance rate function, and estimates the power in that power law from the history of major evolutionary events on Earth.
+Using that same power law, we estimate humanity’s current date to be very early, at least if expansionist aliens do not arrive to set an early deadline. Others have estimated modest degrees of earliness, but they have ignored the hard-steps power law. With that included, we are crazy early unless both the power is implausibly low, and the minimum habitable star mass is implausibly large.
+
+So we seem to have something to add to Olson’s thoughtful foundations.
+Looking over the coverage by others of Olson’s work, I notice that it all seems to completely ignore his empirical efforts! What they mainly care about seems to be that his having published on the idea of expansionist aliens licensed them to speculate on the theoretical plausibility of such aliens: How physically feasible is it to rapidly expansion in space over millions of years? If physically feasible, is it socially feasible, and if that would any civilization actually choose it?
+That is, those who commented on Olson’s work all acted as if the only interesting topic was the theoretical plausibility of his postulates. They showed little interest in the idea that we could confront a simple aliens model with data, to estimate the actual aliens situation out there. They seem stuck assuming that this is a topic on which we essentially have no data, and thus can only speculate using our general priors and theories.
+So I guess that should become our central focus now: to get people to see that we may actually have enough data now to get decent estimates on the basic aliens situation out there. And with a bit more work we might make much better estimates. This is not just a topic for theoretical speculation, where everyone gets to say “but have you considered this other scenario that I just made up, isn’t it sorta interesting?”
+Here are some comments via email from S. Jay Olson:
+It’s been about a week since I learned than Robin Hanson had, in a flash, seen all the basic postulates, crowd-sourced a research team, and smashed through his personal COVID infection to present a paper and multiple public talks on this cosmology. For me, operating from the outskirts of academia, it was a roller coaster ride just to figure out what was happening.
+But, what I found most remarkable in the experience was this. Starting from two basic thoughts — 1) some fraction of aliens should be high-speed expansionistic, and 2) their home galaxy is probably not a fundamental barrier to expansion — so many conclusions appear inevitable: “They” are likely a cosmological distance from us. A major fraction of the universe is probably saturated by them already. Sufficiently high tech assumptions (high expansion speed) means they are likely invisible from our vantage point. If we can see an alien domain, it will likely cover a shockingly large angle in the sky. And the key datum for prediction is our cosmic time of arrival. It’s all there (and more), in both lines of research.
+Beyond that, Robin has a knack for forcing the issue. If their “hard steps model” for the appearance rate of life is valid (giving f(t) ~ t^n), there aren’t too many ways to solve humanity’s earliness problem. Something would need to make the universe a very different place in the near cosmic future, as far as life is concerned. A phase transition resulting in the “end of the universe” would do it — bad news indeed. But the alternative is that we are, literally, the phase transition.
+
+
+title: Hail S. Jay Olson
+
+date: February 21, 2021 5:10 pm
+

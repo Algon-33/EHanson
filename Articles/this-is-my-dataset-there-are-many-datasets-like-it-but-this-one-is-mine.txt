@@ -1,0 +1,24 @@
+author: Will Wilkinson
+
+text: 
+Having read a huge number of studies on "happiness research" over the past year or so, I have concluded that the data is not very good and tells us little about happiness as most of us intuitively understand it. In fact, some of the problems with the data seem so damning, and so daunting, that it has become a matter of some surprise to me that more researchers don’t see the alleged problems as damning or daunting at all, and just proceed pretty much as usual.  
+Now, maybe my analysis of the difficulties in measuring happiness with surveys (which I would be happy to share at some other time) is wrong. But even if I and other critics of the data are wrong, it appears that many of the best criticisms aren’t taken very seriously, even when they are duly noted. Indeed, I’ve noticed a tendency to bristle defensively at mention of problems with the data, or even at requests simply to be more precise in what it is that is being measured. "Don’t tell us we’re only really measuring dispositions to say certain things about happiness under various conditions! We don’t call it the Journal of Saying Things About Happiness Studies, now do we!" seems to be a fairly widespread attitude.  And there also seems to be a willingness to cite just about anything that superficially seems to support the validity of the measurement instrument — a sign of a kind of confirmation bias. 
+Now this is just my cumulative impression from reading a boatload of papers, and I’m not prepared to press this any further, or more specifically, with respect to happiness research, which isn’t the point of this post, anyway. The general question I want to raise concerns the the possible biases of social scientists when it comes to the quality of sets of data they have come to depend upon. 
+Here’s a plausible fictional narrative on a topic other than happiness. Let’s do it in the second person:
+  
+
+You take a grad course on some aspect of income inequality in which you are introduced to a certain data set with information about household income. You write a paper using this data, get a good grade, and are invited by your professor to co-author something in the same vein. You agree, you’re paper is published in a good journal, you develop a reputation as an expert on some corner of the inequality literature, and you are offered a decent job. You publish a few more decent journal articles and have high hopes for tenure. Now, suppose someone comes along and argues that this particular survey of household income upon which you have been relying is shot through with problems, implying that everything that you have developed a reputation for having demonstrated may simply be gibberish. 
+
+What do you do? 
+
+(a) Sigh, open-mindedly dig into the claims about the data, and if they are right, reassess everything you have done?(b) Latch on to any bit of reasoning that confirms the reliability of the data and dismiss the criticism?(c) Fight dirty and attack the motives, credentials, etc. of the critic with anything you can lay your hands on?
+
+My bet is that most human beings — even scientists! — will go for some combination (b) and (c). It is probably an inevitability for humans who have written a moralizing book using their potentially debunked data source. Now, this may in fact be a necessary part of "normal science," since most researchers would go crazy if they didn’t mostly ignore and/or dismiss manifestations of the fact of the underdetemination of theory by data — especially when it comes to the auxiliary hypotheses upon which their day-to-day work depends implicitly. 
+My worry is that whole fields of inquiry can get stuck in bad path-dependent channels due simply to a practically sensible but epistemically irrational disposition to affirm the reliability of one’s data sources. It seems that a poor-quality, but widely accepted body of data could impede the progress of human knowledge by decades!
+I’m a newcomer around here, so maybe this has been discussed at length. If so, sorry! But I wanted to raise the issue, and ask if others have thoughts about it, or if there are any good studies that address it.     
+
+
+title: This Is My Dataset. There Are Many Datasets Like It, but This One Is Mine. . .
+
+date: February 27, 2007 3:25 pm
+

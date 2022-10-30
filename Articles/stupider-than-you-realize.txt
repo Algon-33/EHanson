@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+A common bias among the smart is to overestimate how smart everyone else is.  This was certainly my experience in moving from top rank universities as a student to a mid rank university as a teacher.  A better intuition for common abilities can be found by browsing the US National Assesment of Adult Literacy sample questions.
+For example, in 1992 out of a random sample of US adults, 7% could not do item SCOR300, which is to find the expiration date on a driver’s license.  26% could not do item AB60303, which is to check the “Please Call” box on a phone message slip when they’ve been told:
+James Davidson phones and asks to speak with Ann Jones, who is at a meeting. He needs to know if the contracts he sent are satisfactory and requests that she call before 2:00 p.m. His number is 259-3860. Fill in the message slip below.
+Only 52% could do item AB30901, which is to look at a table on page 118 of the 1980 World Almanac and answer:
+According to the chart, did U.S. exports of oil (petroleum) increase or decrease between 1976 and 1978?
+Only 16% could do item N010301, which is to answer “What is the purpose of the Se Habla Espanol expo?” after reading  a short newspaper article called “Se Habla Espanol Hits Chicago; September 25,26,27 are three days that will change your marketing.” The article includes this quote:
+It’s Mr. Martinez’s job—his mission in life—to make sure companies learn how they can serve and sell to America’s Hispanics. He has been marketing to the community for many years, working with the best in the business, including Coca-Cola and the advertising firm of Castor GS&B. Now his staff is organizing the largest annual Hispanic market trade show in the business—Se Habla Español.
+Acceptable answers include statement such as:
+To enable people to better serve and sell to the Hispanic community; to improve marketing strategies to the Hispanic community; and to enable people to establish contacts to serve the Hispanic community.
+Only 11% could do Item N100701, which asks:
+Using the information in the table, write a brief paragraph summarizing the extent to which parents and teachers agreed or disagreed on the statements about issues pertaining to parental involvement at their school.
+I think an acceptable answer is to note that parents tend to have lower opinions than teachers of school performance.
+Hat tip to  Linda Gottfredson.
+
+
+title: Stupider Than You Realize
+
+date: July 4, 2009 9:30 am
+

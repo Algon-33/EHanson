@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Time in ’09:
+Christopher Ruhm … examined statewide mortality fluctuations in the U.S. between 1972 and 1991 and found that a 1% rise in a state’s unemployment rate led to a 0.6% decrease in total mortality. … In a review of such studies … Stephen Bezruchka … suggests the results could be explained by declines in smoking, excessive alcohol consumption and overeating during recessions as people look for ways to save money.
+NBER today:
+A higher risk of unemployment is associated with reduced consumption of fruits and vegetables and increased consumption of “unhealthy” foods such as snacks and fast food. … Among individuals predicted to be at highest risk of being unemployed, a one percentage point increase in the resident state’s unemployment rate is associated with … a 2-4% reduction in the frequency of fruits and vegetables consumption, and an 8% reduction in the consumption of salad.
+Either we can cross “eat healthier” off the list of possible ways unemployment helps health, or maybe fruits and veggies aren’t as healthy, and fast food as unhealthy, as we suppose.
+
+
+title: Beware Fruits, Veggies?
+
+date: January 2, 2011 8:00 am
+

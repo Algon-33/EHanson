@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The Yale Technology & Ethics study group hosts about one talk a month on various futurist topics. Amazingly, I was their very first speaker when the group started in 2002. And this Thursday I’ll return to talk on the same subject:
+The Age of Em: Social Implications of Brain Emulations
+4:15-6:15pm, May 22, Yale ISPS, 77 Prospect St (corner of Prospect & Trumbull), Rm A002.
+The three most disruptive transitions in history were the introduction of humans, farming, and industry. If another transition lies ahead, a good guess for its source is artificial intelligence in the form of whole brain emulations, or “ems,” sometime in the next century. I attempt a broad synthesis of standard academic consensus, including in business and social science, in order to outline a baseline scenario set modestly far into a post-em-transition world. I consider computer architecture, energy use, cooling infrastructure, mind speeds, body sizes, security strategies, virtual reality conventions, labor market organization, management focus, job training, career paths, wage competition, identity, retirement, life cycles, reproduction, mating, conversation habits, wealth inequality, city sizes, growth rates, coalition politics, governance, law, and war.
+My ’02 talk was controversial; Thursday’s talk will likely be well. All are welcome.
+Added 28May: Audio, slides.
+
+
+title: Em Econ @ Yale Thursday
+
+date: May 17, 2014 9:15 am
+

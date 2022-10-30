@@ -1,0 +1,16 @@
+author: Carl Shulman
+
+text: 
+One of the most well-worn examples in introductions to Bayesian reasoning is testing for rare diseases: if the prior probability that a patient has a disease is sufficiently low, the probability that the patient has the disease conditional on a positive diagnostic test result may also be low, even for very accurate tests. One might hope that every epidemiologist would be familiar with this textbook problem, but this New York Times story suggests otherwise: 
+
+For months, nearly everyone involved thought the medical center had had a huge whooping cough outbreak, with extensive ramifications. […] 
+Then, about eight months later, health care workers were dumbfounded to receive an e-mail message from the hospital administration informing them that the whole thing was a false alarm.
+Now, as they look back on the episode, epidemiologists and infectious disease specialists say the problem was that they placed too much faith in a quick and highly sensitive molecular test that led them astray.
+
+While medical professionals can modestly improve their performance on inventories of cognitive bias when coached, we should not overestimate the extent to which formal instruction such as statistics or epidemiology classes will improve actual behavior in the field.
+
+
+title: Sick of Textbook Errors
+
+date: January 27, 2007 10:01 pm
+

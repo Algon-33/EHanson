@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Philosopher Eric Schwitzgebel asks good questions:  
+
+I’m interested in the moral behavior of ethics professors — and why, in particular, it doesn’t appear to be any better than that of non-ethicists of similar social background. One possibility is that philosophical moral reflection is behaviorally inert. In conversation, I’ve found that philosophers are often quick to endorse that idea.   Maybe I haven’t done a very good job of articulating what I find unattractive in that view. Let me phrase my concern as a dilemma: Is philosophical reflection about ethics different in this respect from everyday moral deliberation about what to do?
+
+
+If no, then the view being espoused is dark indeed: Moral deliberation, in general, is behaviorally inert. When we think morally about what we are obliged to do, the resulting judgments must either simply justify what we were going to do anyway, or if they don’t match our prior inclinations they must be cast aside as we go ahead and act contrary to them.
+
+He’s found relevant data here:
+
+The majority of respondents expressed the view that ethicists do not, on average, behave better than non-ethicists.  While ethicists tended to avoid saying either that ethicists in general (Version I) or individual arbitrarily selected ethicists (Version II) behave worse than non-ethicists, non-ethicists expressed that pessimistic view about as often as they expressed the view that ethicists behave better. 
+
+  
+and here:
+
+Study 1 found that contemporary (post-1959) ethics books were actually 25% more likely to be missing than non-ethics books.  When the list was reduced to the relatively obscure books most likely to be borrowed exclusively by professional ethicists, ethics books were almost 50% more likely to be missing.  Study 2 found that classic (pre-1900) ethics books were more than twice as likely to be missing as other classic philosophy books. 
+
+Other thoughtful observations here:  
+
+In the 1940’s and 1950’s, many people in the United States appear to have thought they dreamed in black and white. For example, Middleton (1942) found 70.7% of college sophomores reported "rarely" or "never" seeing colors in their dreams. The present student replicated Middleton’s questionnaire and found that students in 2001 reported a significantly greater rate of colored dreaming than the earlier sample, with only 17.7% saying that they "rarely" or "never" see colors in their dreams. Assuming that dreams themselves have not changed over this time period, it appears that one or the other (or both) groups of students must be profoundly mistaken about a basic feature of their dream experiences.
+
+
+
+title: Schwitzgebel Thoughts
+
+date: April 19, 2008 6:00 am
+

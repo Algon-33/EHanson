@@ -1,0 +1,42 @@
+author: Robin Hanson
+
+text: 
+We have seen a centuries-long increase in the scale and scope of governance, and today we see many forms of global governance. While the literature has so far identified many costs and benefits of global governance, I here suggest that we add one so-far-neglected consideration to the list: rot. While many kinds of systems tend to innovate and grow with time, other kinds of systems tend to rot, decay, and die. We should consider the risks that global governance may increase the rot of our total world system.
+Global Governance
+Over the last millennia, the scale of nations has increased, as has the scope and intensity of governance. Particular governance functions have tended to migrate to larger scales, from local to regional to national to global. At the global level, we have increasingly many organizations with increasing abilities to coordinate policy in many particular areas.
+In addition to formal organizations like the United Nations and the World Trade Organization, we also see an increasingly strong informal global convergence of policy across many areas, such as regarding pandemics, medicine, finance, schools, nuclear, aviation, telecom, and media. This is plausibly due to an increasingly integrated global community of elites and policy-makers, an integration which makes policy-makers in each nation reluctant to deviate far from global policy consensus.
+How much wider and stronger might global governance become, and what might be the costs and benefits of such changes? An old literature had identified many relevant factors (Glossop 1993; Alesina & Spolaore 2003; Deudney 2008).
+On the plus side, larger scale governance allows for wider standardization, and more trade and migration over larger scales. It also allows for more production of larger-scale public goods such as the promotion of innovation, and dealing with global problems such as CO2 warming. Also, global governance can suppress inter-state warfare.
+On the minus side, however, large scale governance encompasses more diverse places, cultures, and populations, and this diversity is an obstacle to coordination. It suggests more internal conflicts within these global systems, and more difficulty reaching consensus, perhaps even leading to armed rebellion. Also, as the threat of external competition weakens, larger scale political processes become freer to focus on internal conflicts and rent seeking, and governance units become freer to suppress dissent and to entrench themselves. Global governance also becomes a single point of failure for the globe, for example increasing risks of both global suicide and of a global totalitarian regime well-entrenched against resistance.
+The purpose of this short paper/post is to add one more consideration to this list: rot.
+The Question of Rot
+Some kinds of systems rot and decay, while other kinds grow and improve. To better judge the potential for rot in our total world system, we need to better understand what distinguishes these two kinds of systems.
+For example, over time whole biospheres like Earth seem to slowly accumulate innovations and to spread into more environmental niches. But the individual organisms of which such biospheres are made tend to decay and die, after an initial period of growth. Most individual species, adapted to relatively stable environments, may slowly rot, to be outweighed by the few rare species adapted to varied and changing environments, forcing them to abstract and remain flexible.
+Non-trivial software systems seem to consistently rot and decay (Kruchten et al. 2012; Izurieta & Bieman 2013). Software changes resulting from new features and changing hardware and customer environments tend to be haphazard, resulting in more interdependences between previously relatively modular subsystems. This interdependence makes further changes increasingly expensive, so that the system becomes more inflexible and changes less.
+While efforts to “refactor” such systems, by streamlining their overall structures, can temporarily increase flexibility, large software systems are almost always eventually discarded, to be replaced by new systems rewritten from scratch.
+Over time, legal systems seem to similarly become more complex, interdependent, and resistant to change. Sometimes legal systems are “refactored” to increase flexibility, such as when the Roman emperor Justinian arranged for a restructuring and simplification of the Roman legal code. This Justinian code was later adapted by Napolean, who spread it across Europe, after which European conquests spread it across the world.
+While the rate at which firms die does not seem to depend on age (Daepp 2015), older firms do tend to grow at a lower rate (Hosono et al. 2020). That is, individual firms rot.
+While industries supplied by many diverse firms seem to consistently grow and innovate, such innovation is greatly reduced when industries are dominated by a very small number of firms (Peneder & Woerter 2014; Delbono & Lambertini 2020). Industry innovation can also be greatly reduced by intrusive and globally coordinate regulations. For example, in the nuclear industry strong regulation has resulting in greatly increasing costs, greatly curtailing its potential (Haas 2019; Hall 2021).
+Across human history, entire civilizations and empires also seem to consistently rise and then fall, suggesting that empires also rot (Turchin & Nefedov 2009). Will today’s integrated world economy and culture also rot for similar reasons, or will some important difference in today’s world civilization prevent that?
+Does World Government Rot?
+So now we reach the crucial question: are our new systems of global governance more like an open field of competition that innovates and grows, as do open industries and biospheres? Or are they more like individual organisms, firms, empires, and software and legal systems, or like overly-concentrated or overly-regulated industries? Which tend to decay and rot. What are the key parameters that determine renewal versus rot, and how can they be mapped onto systems of global governance? And can we identify the safest least-rotting variations to recommend? Is it sufficient to keep such systems very simple and modular, allowing few dependencies?
+References
+Alberto Alesina, Enrico Spolaore (2003) The Size of Nations, The MIT Press, November 7.
+Madeleine I. G. Daepp , Marcus J. Hamilton , Geoffrey B. West and Luís M. A. Bettencourt 2015. “The mortality of companies” Interface 6, May.
+Flavio Delbono, Luca Lambertini (2020) “Innovation and product market concentration: Schumpeter, arrow, and the inverted U-shape curve.” Oxford Economic Papers, November,
+Daniel H. Deudney (2008) Bounding Power: Republican Security Theory from the Polis to the Global Village. Princeton University Press, November 9.
+Ronald J. Glossop (1993) World Federation?: A Critical Analysis of Federal World Government.
+McFarland Publishing, July 1.
+Reinhard Haas, Stephen Thomas, Amela Ajanovic (2019) “The Historical Development of the Costs of Nuclear Power” in The Technological and Economic Future of Nuclear Power, pp.97-115.
+J. Storrs Hall (2021) Where Is My Flying Car? Stripe Press, November 30.
+Kaoru Hosono, Miho Takizawa, Kenta Yamanouchi (2020), “Firm Age, Productivity, and Intangible Capital.” RIETI Discussion Paper 20-E-001.
+Clemente Izurieta & James M. Bieman (2013) “A multiple case study of design pattern decay, grime, and rot in evolving software systems” Software Quality Journal 21:289–323.
+Philippe Kruchten; Robert L. Nord; Ipek Ozkaya (2012) “Technical Debt: From Metaphor to Theory and Practice” IEEE Software 29(6):,18 – 21, Nov-Dec.
+Peter Turchin, Sergey A. Nefedov (2009) Secular Cycles Princeton University Press, August 9.
+Peneder M. Woerter M. (2014) “Competition, R&D and innovation: testing the inverted-U in a simultaneous system.” Journal of Evolutionary Economics 24:653–87.
+
+
+title: Will World Government Rot?
+
+date: November 19, 2021 9:00 pm
+

@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Reading the novel Lolita while listening to Winston’s Summer, thinking a fond friend’s companionship, and sitting next to my son, all on a plane traveling home, I realized how vulnerable I am to needing such things. I’d like to think that while I enjoy such things, I could take them or leave them. But that’s probably not true. I like to think I’d give them all up if needed to face and speak important truths, but well, that seems unlikely too. If some opinion of mine seriously threatened to deprive me of key things, my subconscious would probably find a way to see the reasonableness of the other side.
+So if my interests became strongly at stake, and those interests deviated from honesty, I’ll likely not be reliable in estimating truth. Yet as my interests fade to zero, I also suspect my opinions to be dominated by random weak influences, such as signaling pressures, that also have little to do with truth. My reliability seems contingent on my having atypically good incentives to get it right.
+So on what topics do I have good incentives?  Of course this is also a subject on which I may have poor incentives for accuracy.  If things precious to me depended on my believing I had good incentives, well then I’d believe that, even if untrue. What to do?
+It seems my safest place to stand for drawing inferences is on my most robust beliefs about good incentives. And for me, that place is prediction markets. Since prediction markets seem to give robustly good incentives on a rather wide range of topics, I should believe what they say, and think I’d have more reliable beliefs if we had more such markets. I might think we don’t need them much on certain safe topics, because we already have good reliable other ways to estimate such topics. But I just can’t trust such judgements that much – they might also be biased.
+Of course I can’t know that I or we will be better off by having more truthful estimates on any particular topic.  I might think that on certain topics we’d be better off not knowing.  But I can’t trust that judgement greatly – it would be better to rely on prediction markets on this meta question, of what we’d be better off not to know.
+Someday hopefully we’ll have many prediction markets, and maybe even futarchies, to guide humanity through the many shoals ahead, including on what we’d do better not to know.  Of course we might be mistaken about what we value, and so ask futarchies about the wrong consequences, thus inducing mistakes about what we’d rather not know. So it is especially important to consider the values in which we have the most confidence.
+You might argue that your best estimate is that we are in fact seriously mistaken on what we value, so mistaken that we would ask futarchies the wrong questions, and then such markets would mislead us on what we’d be better off not to know. You might instead recommend that we follow your suggestions about what we should know, and what to believe in the absence of the prediction markets you advise against. And well, you might be right. But really, what grounds do you have have for confidence in that set of judgements? Why should we trust your judgement on the good quality of the incentives for your intuitions?
+
+
+title: What Do I Want To Know?
+
+date: April 18, 2011 8:00 am
+

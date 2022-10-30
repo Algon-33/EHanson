@@ -1,0 +1,25 @@
+author: Paul Gowder
+
+text: 
+In the early days of this blog, I would pick fierce arguments with Robin about the no-disagreement hypothesis.  Lately, however, reflection on things like public reason have brought me toward agreement with Robin, or at least moderated my disagreement.  To see why, it’s perhaps useful to take a look at the newspapers…
+
+the pope said the book “explained with great clarity” that “an interreligious dialogue in the strict sense of the word is not possible.” In theological terms, added the pope, “a true dialogue is not possible without putting one’s faith in parentheses.”
+
+What are we to make of a statement like this?
+  
+Let’s start with the basics.  
+Basic 1: Theological claims are beliefs — they are statements with propositional content that refer to the world.  "There is a God."  "God loves me."  "The world was created ten thousand years ago."  One might reinterpret religion to strip away the propositional content, but then one loses everything that makes religion different from any random social activity.  
+Basic 2:  Beliefs should be held for reasons.  Many of our beliefs are not held for reasons, in the sense that I’m using the term (normative, rather than explanatory reasons).  As Robin says in the linked post, those beliefs — random beliefs, beliefs that are contingent on one’s social and physical history rather than on the sorts of things that actually justify beliefs (evidence, argument) ought to be rejected.  This includes beliefs that are based on un-swamped priors from, e.g., how one was raised.  
+Basic 3: Beliefs have objective and universal truth-values.  It is flat-out incoherent to utter sentences like "God exists for me but not for you."  This might not be true about everything, but it is manifestly true about ontological claims about the world, historical claims, etc.  
+In light of those three basics, what can we make of the pope’s statement?  I take there to be four possibilities for making sense of it.  
+1.  The pope believes that his beliefs are not held for reasons.  This, of course, counsels revising those beliefs.  
+2.  The pope believes that his beliefs are held for reasons, but that the beliefs of those with whom he disagrees are not. Given that his beliefs and the beliefs of, say, Muslims, are roughly on an epistemic par, this belief is unwarranted.  
+3.  The pope believes that his beliefs, and those of his interlocutors, are underdetermined by the available reasons.  That is, the evidence and arguments are consistent with both his beliefs and those of his interlocutors.  If that’s the case, however, it seems to call for his putting equal credence in his beliefs and in those of his interlocutors.
+4.  He believes he has access to reasons that are fundamentally incommunicable.  Gnosis.  There are two worries about this claim.  First, is truly incommunicable belief really impossible?  Agents ought to be able to communicate the fact of their gnosis: the pope ought to be able to turn to the mullah and say "I experienced a gnosis, and so did these millions of other people," and that ought to count for the mullah, if the mullah holds his beliefs for reasons (that is, is a bayesian).  Second, if it doesn’t count for the mullah, maybe it’s because the mullah experienced a gnosis too, and that possibility, of course, ought to count for the pope.
+Any way we take it, it seems like the pope’s evident belief that it’s impossible to discuss religious differences with those who have different beliefs ought to lead the pope to reduce his credence in his own beliefs.  The pope ought not to be Catholic.  
+
+
+title: Beliefs Require Reasons, or: Is the Pope Catholic?  Should he be?
+
+date: November 26, 2008 11:00 am
+

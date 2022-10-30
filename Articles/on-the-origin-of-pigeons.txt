@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+“Pigeons indeed,” huffed Charles Darwin, his brow furrowed as he read to the end of a letter and laid it down on his desk.
+The letter contained feedback from his publisher John Murray on a draft of what would become On the Origin of Species by Means of Natural Selection. Murray had farmed out copies of the manuscript to a couple of his trusted advisers. One of them, a rural vicar and literary editor by the name of Whitwell Elwin, had not liked it all. “At every page, I was tantalized by the absence of the proofs,” Elwin had written to Murray on 3 May 1859. In contrast to the Journal of Researches (later known as Voyage of the Beagle), which Elwin had found “one of the most charming books”, Darwin had written this new work in a “much harder & drier style”.
+Although opposed to the publication of what he saw as “a wild and foolish piece of imagination”, Elwin hadn’t advised Murray to reject the manuscript outright. Instead, he had sought the advice of the geologist Charles Lyell. It was Lyell who said that the book should focus on Darwin’s observations of pigeons “accompanied with a brief statement of his general principles” on natural selection. …
+It is worth taking a moment to reflect on what might have been On the Origin of Pigeons. Such a volume would, Elwin had suggested, “be reviewed in every journal in the kingdom & would soon be on every table”. He was probably right. Breeding ‘fancy’ pigeons was an extraordinarily popular pastime in Victorian Britain, with enthusiasts spanning the entire social spectrum, from the poorest weavers in London’s Spitalfields to Queen Victoria herself.  But how effective would On the Origin of Pigeons have been as a vehicle for Darwin’s ideas on evolution by natural selection?
+That is from Nature.  One of my best papers started out in my PhD Thesis as a general model of rational paternalism.  For publication the editor insisted that it appear as a model of paternalism in drug bans only, even though the math applied just as well to most other paternalism.
+I think the general rule is that little people should only have little ideas; big ideas are reserved for big people.  That makes little sense for an academia designed to achieve intellectual progress, but more sense for an academia designed to let people affiliate with credentialed impressiveness.
+
+
+title: On The Origin Of Pigeons
+
+date: July 22, 2009 6:00 am
+

@@ -1,0 +1,12 @@
+author: Nicholas Shackel
+
+text: 
+From here: an article discussing the benefits of biases
+""Biased mechanisms are not design defects of the human mind, but rather design features," …Haselton likens a biased decision pathway to a smoke alarm that can make one of two errors. It can go off in the absence of fire—a false positive: irritating, but far from lethal. The more dangerous error is the false negative, which fails to signal a real fire. "Engineers can’t minimize both errors, because there’s a trade-off," explains Haselton. "If you lower the threshold for noting fires, you’re going to have more false alarms. Natural selection created decision-making adaptations not to maximize accuracy but to minimize the more costly error." 
+"Glenn Geher, an associate professor of psychology at SUNY at New Paltz, who, with Miller, edited a forthcoming volume on mating intelligence, is developing a mathematical model to demonstrate what many a grandmother has long cautioned: Women who are de facto skeptical of a man’s intentions are almost always better off than women who spend hours deconstructing the first date. ("He gave me his home number, he asked about my family, he mentioned a concert this spring—he must be into me!") Geher found that if a woman cannot accurately judge a man’s romantic designs at least 90 percent of the time, she’s better off being biased. "Women using a ‘men are always pigs’ decision-making rule may be more likely to actually end up with honest, committed, and long-term-seeking males," insists Geher."
+
+
+title: Bias not a bug but a feature?
+
+date: January 11, 2007 12:36 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+We care more about the future when happy:
+We conduct a random-assignment experiment to investigate whether positive affect impacts time preference, where time preference denotes a preference for present over future utility.  Our result indicates that, compared to neutral affect, mild positive affect significantly reduces time preference over money. … Happier respondents are [also] less likely to agree with the “live for today” statement than are less happy respondents.  This holds even after controlling for covariates that have been shown to be related to happiness … High cognitive load increases time preference and … individuals with greater cognitive skills, as measured by IQ tests, exhibit lower time preference. (more)
+This is predicted by near-far analysis, since happy is far, and the future matters more in far mode. This matters for finance today, as whatever sets discount rates, sets prices:
+“All price-dividend variation corresponds to discount-rate variation.” … When it comes to broad price aggregates, such as stocks in general or land in general, price changes basically reflect crazily-changing [discount rate] values. (more)
+
+
+title: Financial Mood
+
+date: February 4, 2012 1:30 pm
+

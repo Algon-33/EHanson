@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+My colleague Don Boudreaux had an oped in Saturday’s WSJ, on “Learning to Love Insider Trading.”  The economic case against banning insider trading seems strong, yet the public overwhelmingly wants bans.  Why?
+Well first ask: why do we speculate in financial markets, if on average we’d make more money in index funds?  Probably for the same reason we compete in sporting contests: because a chance at either the thrill of victory or the agony of defeat looks better than not even trying.  We use both financial markets and sporting contests to signal our ability, and not trying sends a bad signal.
+Relative to sporting contests, speculative contests benefit society via side effects: prices get more accurate, letting us better allocate resources.  But alas another side effect is that we prefer to regulate speculation to make it “fairer,” even if this makes it less effective at allocating resources.  Insider trading bans are a good example.
+Obviously individual firms need ways to limit the damage their employees and suppliers might do; they need to watch for theft, bribes, sabotage, self-dealing, and more.  Contractual limits on when such insiders can trade company stock can help this effort, and central registration of who trades what can help enforce such contracts.  But beyond this, firms have little use for our broad laws against insider trading; before our broad bans were enacted, few firms chose to contractually limit their employees’ trading.  Insider trading laws are mainly there to satisfy public sensibilities.
+Without such laws, some amateur traders might get discouraged and instead compete via sports, music, or poker.  But there’d be about as much total investment, perhaps more concentrated in index funds.  Even if fewer amateurs hunted for price errors, since professional speculators could hunt more freely, my guess is that on net prices would be more accurate.
+Furthermore, even with laws against insider trading, the speculation game is and must remain ridiculously uneven.  Today most inside info gets into prices before official announcements, and well-connected well-organized investment groups are vastly better equipped to find and exploit pricing errors than almost all amateurs.  It is just crazy to see financial speculation is any remotely like an even sporting contest.
+But if we must have laws giving the appearance of competition among equals on insider trading, let me suggest a much milder rule that should achieve the same end: just require insiders to announce their trades say twenty four hours in advance.  If such trades are informative, the price will have moved before their trade, and such trades won’t on net make a profit.
+
+
+title: Why Insider Trade Bans
+
+date: October 26, 2009 10:30 pm
+

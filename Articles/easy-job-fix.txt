@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I’ve been slowly working my way through Triver’s book Folly of Fools. Chapter six reviews the many amazing benefits that appear to arise from having people write about their troubles.  For example:
+Writing about job loss improves one’s chance of reemployment. This sort of writing appears to be cathartic – people immediately feel better. More striking, at least in one study, is a sharply increased chance of getting a job. After six months, 53 percent of writers had found a new job, compared with only 18 percent of non writers. One effect of writing is that it helps you work through your anger so it is not displaced onto a new, prospective employer or, indeed, revealed to the employer in any form.
+Here is the cited ’94 study:
+Subjects in the study were 63 professionals (62 men, 1 woman), with a mean  age of 54 years  (representing  of range of 40  to  68 years) and an average tenure of 20 years with their  former  employer, a large computer and  electronics firm. Subjects had held engineering or other professional positions with the company. They were voluntarily recruited to the Writing in Transition  Project from … an outplacement firm, following a large-scale layoff from their company.  At the time  of the study the length of unemployment was five months for all subjects.  All [100] potential subjects were informed that the project involved a writing process that was expected to benefit them in their search process. Forty-one of [them] volunteered for the study and were randomly assigned to either the experimental writing (N  =  20) or the control  writing (N  =  21) conditions. …
+[We saw] a significant  difference (… p  = .018)  between  those  who  got  jobs  and  those  who  did  not. … The effects were not mediated by measures of heightened motivation. That is, subjects in the experimental condition did not receive more phone calls, make more contacts, or send out more letters than controls. … Most subjects had very powerful emotions about their termination experience. (more)
+This suggests an easy way to increase employment, at least if the problem is employee attitudes. Digging more, I found this ’01 review, which seems to confirm the benefits of writing therapy. It all does seem a bit hard to believe, but stranger things have been true.
+Added 31Dec: jsalvatier finds a good ’06 meta analysis:
+One hundred forty-six randomized studies of experimental disclosure were collected and included in the present meta-analysis. Results of random effects analyses indicate that experimental disclosure is effective.
+
+
+title: Easy Job Fix?
+
+date: December 6, 2011 4:00 pm
+

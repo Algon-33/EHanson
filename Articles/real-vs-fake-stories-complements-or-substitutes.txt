@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+Regarding meaningful stories and narratives, I see two huge trends over the last century or so.
+
+First, we’ve seen a great increase in the amount of fiction consumed. People now spend many hours of day watching TV and movies, reading novels, etc. Centuries ago this fraction of time was far lower. An important fraction of these stories take place in universes which make a lot more emotional and moral sense than our real world seems to, especially on larger historical and cosmological scales.
+Second, we’ve seen a great decline in passions regarding grand historical and cosmological narratives. Religion, nationalism, and ideology all seem to have waned. Yes many people still care a lot about such things today, but centuries ago people eagerly and repeatedly went to war over such things. (We even instituted “freedom of speech” to cut back on their destructive enthusiasm.)
+
+Note that I’m not saying that these “real” narratives are true, just that many people treat them as true. (Or as more true.) This is in stark contrast to stories that inspire and engage people, but which people don’t even pretend are true. (Trekkies love Star Trek, but don’t claim it really happened.)
+One simple interpretation of these two trends is that “fake” stories are a substitute for “real” ones. To review, A and B are substitutes when you less want A the more you have of B, while A and B are complements when you more want A the more you have of B. So the theory here would be that we less want “real” stories the more “fake” stories we consume.
+One problem with my theory is that most people seem to think fake and real stories are complements:
+
+Two kinds of stories: inspiring & engaging stories about (A) actual lives and worlds (B) fictional lives and worlds. Are these two kinds of stories complements or substitutes? (Don’t answer if you don’t know what these words mean.)
+— Robin Hanson (@robinhanson) April 9, 2021
+
+Now if we just look at random stories, and ignore their types, it seems clear that individual stories are on net substitutes. We only have so many hours a day to consume stories, so if we spend another hour on a particular story, that leaves fewer hours for other stories. So if individual stories are substitutes, it seems plausible that so are categories of stories.
+But they why would all these poll respondents be wrong? I suggest: social desirability bias. Stories are seen as good things, and good things are seen to be even better if they are complements. (E.g., exercise and healthy eating.) So I suggest poll respondents are saying that story types are complements mainly to show their support for the good thing of stories.
+So if fake and real stories are substitutes, from which side were recent changes driven? A simple tech theory would be that we have improved our ability to tell and share fake stories far more than we’ve improved our ability to construct grant historical and cosmological narratives.
+
+
+title: Real Vs. Fake Stories: Complements or Substitutes?
+
+date: April 10, 2021 11:25 am
+

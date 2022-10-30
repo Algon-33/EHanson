@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+The June Skeptical Inquirer reviews what little we know about nutrition:
+Nutrition research and practice have lagged behind many other biological and medical fields. … The data clearly show that much current advice about dietary pyramids, food supplements, megavitamins, and weight loss regimens is frequently unproven, erroneous, or even harmful and is often based on pseudoscience or derivative incorrect professorial opinion. …
+Table 1. Examples of Essential Substances for which Recommended Daily Allowances are Known
+1. “Calories” for fuel from carbohydrate, fat and/or protien
+2. Vitamins (water- and fat-soluable)
+3. Minerals (e.g., potassium, magnesium, calcium, zinc, salt, trace metals)
+4. Essential amino acids
+5. Essential fatty acids
+6. High-quality protein (animal or vegetable, e.g., amaranth) ….
+A healthy person (given RDA intake of the substances in Table 1) can proceed with a normal (see below), stable weight by eating predominantly fat or carbohydrates or protein or various combinations of these because of the body’s ability to interconvert and utilize carbohydrates, fats, and proteins (amino acids) as needed.  In other words, fat, carbohydrate, or protein can serve as the principal source of calories. …
+In healthy people who ingest the essential nutrients in Table 1 and have a normal stable weight (BMI approximately 20-25), there is no convincing comparative outcome evidence (as I defined above) that common foodstuffs, e.g., saturated fats like butter, rapidly absorbed carbohydrates like white rice and potatoes, or animal proteins, are especially helpful or harmful. The notion that some diets (e.g., low-fat or low-carbohydrate) are better than others is not based on sound science. …
+There is no rigorous scientific evidence for the utility of dietary supplements, including megavitamins in normal-weight (nonpregnant) adults with a stable BMI of 20-25 eating a diet containing adequate amounts of the nutrients in Table 1.
+Hat tip to Robert Wiblin.
+
+
+title: Our Nutrition Ignorance
+
+date: August 30, 2009 6:00 am
+

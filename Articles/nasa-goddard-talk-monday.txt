@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+This Monday at 3:30p I talk on interstellar colonization at the Engineering Colloquim of NASA Goddard:
+Attempts to model interstellar colonization may seem hopelessly compromised by uncertainties regarding the technologies and preferences of advanced civilizations. However, if light speed limits travel speeds and reliability limits travel distances, then a selection effect may eventually determine behavior at the colonization frontier. Making weak assumptions about colonization technology, I use this selection effect to predict colonists’ behavior, including which oases they colonize, how long they stay there, how many seeds they then launch, how fast and far those seeds fly, and how behavior changes with increasing congestion. This colonization model might explain some astrophysical puzzles, predicting lone oases like ours, amid large quiet regions with vast unused resources. (more here; here)
+Added: Slides, Audio
+I’m also talking on helping now vs. later at the DC Less Wrong Meetup Sunday (tomorrow), 3p in the courtyard of the National Portrait Gallery.
+
+
+title: NASA Goddard Talk Monday
+
+date: March 29, 2014 3:50 pm
+

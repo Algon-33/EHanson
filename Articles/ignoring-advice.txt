@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+When do people listen to advice?  I teach my health econ students about studies showing no effect from randomized trials giving (or not giving) advice to teens about smoking, to heart attack victims about healthy living, and to new mothers about caring for their low birth weight babies.   Here is a new related result:  
+
+Affari Tuoi is the Italian prototype of the television show Deal or No Deal …114 television episodes … with large monetary stakes. When faced with a decision problem in Affari Tuoi, a contestant may seek advice from the audience, which comes in a form of the vote results. While there is a positive trend between contestants’ decisions and advice, this relation is not statistically significant. … When contestants do not have an opportunity to use advice or when the option of advice is available but not used, they make ex post "wrong" decisions in 52.9% and 54.6% of cases respectively. However, when they choose to consult the audience, the fraction of ex post "wrong" decisions decreases to 36.1%. Moreover, … by following advice contestants increase their earnings (Table 1). Subjects make ex post "wrong" decisions in 46.2% of cases when they neglect the advice and only in 30.4% of cases when they follow the advice.  
+
+However, the literature does show that in some situations people seem to listen too much to advice:   
+
+Schotter (2003) surveys several laboratory studies on advice when nonoverlapping “generations” of subjects play ultimatum and coordination games. In these studies (e.g. Schotter and Sopher, 2004, 2007) subjects often rely on the advice of naïve advice. … who hardly possess more expertise or knowledge than we do.
+
+So why do we not listen sometimes and listen other times? 
+
+
+title: Ignoring Advice
+
+date: February 27, 2008 6:00 am
+

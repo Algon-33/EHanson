@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Imagine that you are expert in field A, and a subject in field B comes up at party. You know that there may be others at the party who are expert in field B. How reluctant does this make you to openly speculate about this topic? Do you clam up and only cautiously express safe opinions, or do you toss out the thoughts that pop into your head as if you knew as much about the subject as anyone?
+If you are like most people, the relative status of fields A and B will likely influence your choice. If the other field has higher status than yours, you are more likely to be cautious, while if the other field has lower status than yours, you are more likely to speculate freely. In both cases your subconscious will have made good guesses about the likely status consequences to you if an expert in B were to speak up and challenge your speculations. At some level you would know that others at the party are likely to back whomever has the higher status, even if the subject is within the other person’s area of expertise.
+But while you are likely to be relatively safe from status losses, you should know that you are not safe from being wrong. When people from different fields argue about something within one of their areas of expertise, that expert is usually right, even when the other field has higher status. Yes people from your field may on average be smarter and harder-working, and your field may have contributed more to human progress. Even so, people who’ve studied more about the details of something usually know more about it.
+
+
+title: Beware Status Arrogance
+
+date: August 31, 2014 10:12 am
+

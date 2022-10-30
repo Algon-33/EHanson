@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Here is a simple one question survey that I’d like to get a hundred or so folks to answer. It is a surprisingly interesting question, and I have a bet with Bryan Caplan on it, but I won’t say more now, so as not to bias your answer.
+Added 9p: The survey(s) are now closed.  I did three of them:  a few of my facebook friends, 100 folks via Survey Monkey, and 1000 folks via Quick Survey . The question was “In a popular book with a modestly technical readership, what word should be used to refer to the set that includes both humans and artificial/robot intelligences?” Here are answer counts:
+ 
+
+title: A Survey Question
+
+date: September 7, 2012 1:30 pm
+

@@ -1,0 +1,31 @@
+author: Robin Hanson
+
+text: 
+Recently I’ve browsed some specific UFO encounter reports, and I must admit they can feel quite compelling. But then I remember the huge selection effect. We all go about our lives looking at things, and only rarely do any of us officially report anything as so strange that authorities should know about it. And then when experts do look into such reports, they usually assign them to one of a few mundane explanation categories, such as “Venus” or “helicopter.”  For only a small fraction do they label it “unidentified”. And from thousands of these cases, the strangest and most compelling few become the most widely reported. So of course the UFO reports I see are compelling!
+However, that doesn’t mean that such reports aren’t telling us about new kinds of things. After all, noticing weird deviations from existing categories is how we always learn about new kinds of things. So we should study this data carefully to see if random variation around our existing categories seems sufficient to explain it, or if we need to expand our list of categories and the theories on which they are based. Alas, while enormous time and effort has been spent collecting all these reports, it seems that far less effort has been spent to formally analyze them. So that’s what I propose.
+Specifically, I suggest that we more formally model the choice to label something “unknown”. That is, model all this data as a finite mixture of classes, and then explicitly model the process by which items are assigned to a known class, versus labeled as “unknown.” Let me explain.
+Imagine that we had a data set of images of characters from the alphabet, A to Z, and perhaps a few more weird characters like წ. Nice clean images. Then we add a lot of noise and mess them up in many ways and to varying degrees. Then we show people these images and ask them to label them as characters A to Z, or as “unknown”. I can see three main processes that would lead people to choose this “unknown” label for a case:
+
+Image is just weird, sitting very far from prototype of any character A to Z.
+Image sits midway between prototypes of two particular characters in A to Z.
+Image closely matches prototype of one of the weird added characters, not in A to Z
+
+
+If we use a stat analysis that formally models this process, we might be able to take enough of this labeling data and then figure out whether in fact weird characters have been added to the data set of images, and to roughly describe their features.
+You’d want to test this method, and see how well it could pick out weird characters and their features. But once it work at least minimally for character images, or some other simple problem, we could then try to do the same for UFO reports. That is, we could model the “unidentified” cases in that data as a combination of weird cases, midway cases, and cases that cluster around new prototypes, which we could then roughly describe. We could then compare the rough descriptions of these new classes to popular but radical UFO explanations, such as aliens or secret military projects.
+More formally, assume we have a space of class models, parameterized by A, models that predict the likelihood P(X|A) that a data case X would arise from that class. Then given a set of classes C, each with parameters Ac and a class weight wc, we could for any case X produce a vector of likelihoods pc = wc*P(X|Ac), one for each class c in C. A person might tend more to assign the known label L when the value of pL was high, relative to the other pc. And if a subset U of classes C were unknown, people might tend more to assign assign the label “unknown” when either:
+
+even the highest pc was relatively low,
+the top two pc had nearly equal values, or
+the highest pc belonged to an unknown class, with c in U.
+
+Using this model of how the label “unknown” is chosen, then given a data set of labeled cases X, including the unknown label, we could find the best parameters wc and Ac (and any in the labeling process) to fit this dataset. When fitting such a model to data, one could try adding new unknown classes, not included in the initial set of labels L. And in this way find out if this data supports the idea of new unknown classes U, and with what parameters.
+For UFO reports, the first question is whether the first two processes for producing “unknown” labels seems sufficient to explain the data, or if we need to add a process associated with new classes. And if we need new classes, I’d be interested to see if there is a class fitting the “military prototype” theory, where events happened more near to military bases, more at days and times when those folks tend to work, with more intelligent response, more noise and less making nearby equipment malfunction, and impressive but not crazy extreme speeds and accelerations that increase over time with research abilities. And I’d be especially interested to see if there is a class fitting the “alien” theory, with more crazy extreme speeds and accelerations, enormous sizes, nearby malfunctions, total silence, apparent remarkable knowledge, etc.
+Added 9a: Of course the quality of such a stat analysis will depend greatly on the quality of the representations of data X. Poor low-level representations of characters, or of UFO reports, aren’t likely to reveal much interesting or deep. So it is worth trying hard to process UFO reports to create good high level representations of their features.
+Added 28May: If there is a variable of importance or visibility of an event, one might also want to model censoring of unimportant hard-to-see events. Perhaps also include censoring near events that authorities want to keep hidden.
+
+
+title: Modeling the ‘Unknown’ Label
+
+date: May 12, 2020 10:45 am
+

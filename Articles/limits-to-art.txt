@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan:
+Robin Hanson has repeatedly told me that during the next million years, we’ll discover all useful science/technology; there’s only so much to know, and by then, we’ll have it all figured out.  But would Robin see art the same way?  By his logic, it seems like you could also say say: During the next million years, will we discover all interesting art; there’s only so much art to create, and by then we’ll have created it.
+You might object, “Science is about truth, art is about creativity, so science but not art has finite limits.”  But is “useful” more like “true” or “interesting”?  So even given constant science, we might endlessly create novel applications.  Once you go down this route, though, it’s hard to see why scientific questions – as opposed to answers – would be any less open-ended than artistic visions.
+My claim is that within a million years economic growth due to innovation will have essentially ceased, at least relative to our innovation rates, in terms of giving value to creatures like us.  I do not say our descendants will never discover anything new and valuable; the space of possible combinations is far too vast for that.  Instead, I say new discoveries will have very close value substitutes in billions of previous discoveries.  At least for creature like us, and setting aside the value of novelty itself, which cannot contribute much to economic growth.
+So yes, our descendants will discover new stories, art, and even math theorems, rare items of high value in a vast mostly-unexplored space of low value items.  But creatures like us will not gain substantially more value from these new items, compared to the last million such items.  They may perceive a value of novelty in finding something new, and having been the one to find it.  But they won’t get substantially more value from this than did their ancestors in finding the last million such novelties.
+Yes it might be possible to create creatures who gain unboundedly increasing value from ever more rare yet actually found combinations.  But we are not such creatures, nor do we have unbounded sympathy with such creatures.  So the value obtained by creatures like us is bounded.
+It is also hard to see why such unbounded-value creatures would naturally evolve in a competitive world; we evolved to value rare hard-to-find combinations because this signaled useful abilities.  But when abilities are bounded, then so should be the value gained from signaling such abilities.  And much of the value of such signals is relative; when some gain, others lose by comparison.
+Of course in a million years we may not have expanded more than a million light-years from home, and so our economy will at least grow with our slowly expanding sphere of resources.  But this growth rate is far below familiar growth rates, and far below feasible population growth rates.
+
+
+title: Limits To Art
+
+date: May 31, 2010 1:50 pm
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Famed Historian Angus Deaton:
+It is sometimes supposed … that rich people have always lived healthier and longer lives than poor people. That this supposition is generally false is vividly shown by Harris who compares the life expectancies at birth of the general population in England with that of [rich] ducal families. From the middle of the 16th to the middle of the 19th century, there was little obvious trend in general life expectancy. For the ducal families up to 1750, life expectancy was no higher than, and sometimes lower than, the life expectancy of the general population. However, during the century after 1750, the life prospects of the aristocrats pulled away from those of the general population, and by 1850–74, they had an advantage of about 20 years. After 1850, the modern increase in life expectancy became established in the general population. Johansson tells a similar story for the British royals compared to the general population, though the royals began with an even lower life expectancy at birth. …
+Men die at higher rates than women at all ages after conception. Although women around the world report higher morbidity [= sickness] than men, their mortality [= death] rates are usually around half of those of men. … Women get sick and men get dead. … Biology cannot be the whole explanation. The female advantage in life expectancy in the US is now smaller than for many years, 5.3 years in 2008 compared with 7.8 years in 1979, and it has been argued that there was little or no differential in the preindustrial world. The contemporary decline in female advantage is largely driven by cigarette smoking; women were slower to start smoking than men, and have been slower to quit. (more)
+This is a provocative hypothesis, but I don’t believe it. That is, I don’t believe that in general status and gender were unrelated to mortality until the industrial revolution. Chimp females live longer than chimp males, and I’ll bet that holds for foragers too. I’ll also bet that in both chimps and foragers high status tends to correlate with lower mortality.
+
+
+title: Historical Heresy
+
+date: October 9, 2011 10:00 pm
+

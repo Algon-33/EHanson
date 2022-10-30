@@ -1,0 +1,50 @@
+author: Robin Hanson
+
+text: 
+A careful analysis of UFOs should consider lots of data, and consider it in much detail. I oft hear skeptics seek shortcuts, such as by declaring all testimony invalid, or insisting that only some long conjunction of encounter features could be sufficient. But consider a legal accusation of attempted murder. Even though the prior odds that a random  X attempts to kill Y during hour Z is terribly low (<10-12), we are still willing to entertain such claims, and we accept personal testimony as an important part of supporting evidence.
+Yes, advocates of things like UFOs seem willing to put more time into such details, and it may seem unfair to expect skeptics to put in as much work. But jurors and lawyers must put in a lot of effort in legal trials. This is the great problem of how to divide intellectual labor; as with most topics, we do best if we task a few with going into great detail on each topic, so the rest of us can defer to their analysis. If you aren’t willing to go into sufficient detail, then admit this isn’t one of your topics, and defer to others on it.
+In that spirit, instead of expressing opinions on many UFO topics, let me instead focus on the area where I have the most relative expertise: the priors to associate with the some-UFOs-are-aliens hypothesis. As far as I can tell, the main reason that most give for skepticism that aliens visit Earth in the UFO style is that this theory seems a priori crazy unlikely. But that estimate seems wrong to me. Let me explain.
+A full Bayesian analysis of the four main UFO theory categories (error, hoax, secret Earth orgs, aliens) needs eight numbers: one prior and likelihood for each theory. In this post I try only to estimate one of these eight numbers: the prior for the aliens theory. Here goes.
+Life exists here on Earth, and our standard best theories say that this was not a miracle, nor was Earth the only place such things could happen. Furthermore, our universe also seems very large (perhaps infinite). Thus our standard best theories predict that advanced life has appeared and will appear many times out there.
+These standard best theories also predict a wide range of dates when this could happen. As a result, two independent alien origins are likely to be millions to trillions of years apart in time. Which gives aliens a lot of time to travel to visit other aliens.
+So we can break down doubts on prior expectations about UFO as aliens into three parts:
+
+What is the chance that advanced aliens appear often enough in space and time for some of them to have been born early and close enough to travel to Earth to be here now?
+What is the chance that aliens (or, more likely their robot descendants) who can travel actually do travel to Earth by now, but do not visibly remake the local universe?
+Given that aliens exist, and travel to here, but don’t remake the local universe, what is the chance that they would act the way that UFOs seem to act, i.e., being somewhat evasive, but not completely hiding nor announcing themselves?
+
+First, how close might aliens be? As my co-authors and I discuss here, humans seem to have arrived quite early in history, at least if one assumes that the universe would remain empty and wait indefinitely for advanced life like us to appear. This is the main reason we offer for postulating a grabby aliens deadline, to explain human earliness. And our grabby aliens model implies that aliens do appear often enough for maybe some of them to have come here by now.
+Now grabby aliens arriving by here now would also be quite visible to us now. But our basic model is quite consistent with variations wherein there are many, perhaps thousands or millions, of non-grabby alien civs per grabby civ, all born at the same sort of places and times. These non-grabby civs do not remake their local universe. So either they die fast, life long but do not expand, or they expand long but do little to remake their universe.
+In my view, the most likely scenario that puts long-expanding-but-not-remaking aliens here now is panspermia siblings. Life arose long ago on some very rare Eden, which then seeded our Sun’s stellar nursery, with life quickly spreading to most stars in that nursery. At least two of these stars eventually developed advanced life, but Earth was not the first. Aliens at the first star looked for their panspermia siblings, noticed simple life on Earth here long ago, and then long ago traveled to near here to await the arrival of advanced life. Where they now do their weird UFO encounter things.
+So to explain UFOs as aliens, we must postulate that these first star sibling aliens had preferences and coordination abilities sufficient to do the following:
+
+prevent any parts of their own civ from expanding and visibly remaking the local universe,
+travel to sibling stars that might birth civs, to stand ready to prevent them from also expanding, but also not kill them, and
+while waiting here they allow or induce the sort of UFO encounters we see, but prevent any clearer more direct interactions.
+
+I estimate a chance of at least 10% for each of the following events, given the prior events:
+
+Earth was seeded by panspermia in its nursery
+A sibling star gave rise to a long-lived advanced civ long before now
+That civ prevents itself from expanding, tries to prevent siblings from expanding, and long ago traveled to here to wait to enforce this preference,
+They induce or allow UFO-style encounters while they wait here.
+
+Note that #1 requires a high enough rate of rock transfer between star systems, #2 requires that most of the great filter happened on Eden, #3 is more likely when civs adopt strong “world” governments, and #4 is relatively likely because we shouldn’t really expect to be able to predict detailed behaviors of strange alien civilizations.
+Four factors of 10% gives a minimum prior chance of 10-4, but as most of the probability weight should above these minimums, I estimate the total chance to be at least 10-3. As I’ve said before, combining all the relevant priors and posteriors I judge the hoax and aliens theories to be most likely for the hardest-to-explain UFO cases. But I don’t claim as much expertise on all the other numbers required to judge that, as I do for the one number I estimate here:
+The prior chance of the aliens theory of the hardest-to-explain UFO cases is at least 10-3, relative to the other three theory categories of error, hoax, and secret Earth orgs.
+This prior is actually pretty high compared to the usual priors in most legal cases. So the types and amounts of evidence on particular cases that is sufficient to convict in legal cases seems sufficient to judge UFOs-are-aliens as more or less likely than not. But again, I have no special expertise to offer you for judging the details of UFO encounters. I can just say that you need to look at such details; you can’t just dismiss UFOs-as-aliens theory with a wave of your philosophical hands.
+Added 10June: Many take issue with my estimating 1/10 for the chance that aliens waiting here would be somewhat evasive, but not completely hide nor announce themselves. They don’t see this as a good plan for any goals they can think of.
+But we are talking about an entire alien civilization here! Human societies often do things, like fight wars or stop having kids, that seem counter-productive from the point of view of that society as a whole. In addition, individual humans often do things that seem counter-productive until you consider their signaling incentives. I wrote a whole book on this.
+If we often have trouble explaining the behaviors of human societies and individuals, I don’t think we should feel very confident in predicting detailed behaviors of a completely alien civilization. After all, many have reasonably doubted if we could even communicate with aliens, or recognize them when we saw them. Having outlined some possible signaling motives for alien UFO behavior, I can see that there are many possible explanations for aliens-as-UFO behavior. Thus a 1/10 prior seems reasonable to me.
+Added 13Jun: I did 6 Twitter polls to elicit relative priors and likelihoods for the four main theory categories:
+
+Medians of lognormal fits to my recent polls gives these Bayesian estimates re 4 different UFO theories. These numbers seem crazy wrong to me. https://t.co/0jY93DJy2m pic.twitter.com/B7itXtHDyd
+— Robin Hanson (@robinhanson) June 10, 2021
+
+Added 14Jun: Thinking through the consequences of the show-but-don’t-talk strategy suggests that it will work out pretty well for the aliens.
+
+
+title: On UFOs-As-Aliens Priors
+
+date: June 8, 2021 8:30 pm
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I recently discussed a puzzling regulatory difference: our applying work hour limits less to high than low status jobs. Many took me to be advocating fewer limits for low status jobs, and were eager to point out good reasons for work hour limits. But our not having a good reason for putting more work hour limits on high vs. low status jobs can equally well support adding more limits to high status jobs, rather than fewer limits on low status jobs.
+John Cochrane similarly discussed a puzzling regulatory difference:
+Ken Rogoff put in this little zinger
+Medical care … fails to satisfy several of the basic requirements necessary for the price mechanism to produce economic efficiency, beginning with the difficulty that consumers have in assessing the quality of their treatment.
+… really, Et tu Ken?  It’s hard to know if the car mechanic is doing a good job. Get ready for the Federal takeover of the car industry. I can’t tell B grade exterior from A grade interior plywood, so we need a Federal takeover of home rehab.
+Many readers probably take this as an argument for less medical regulation, and are eager to argue for or against that position. But pointing out that we have a similar difficulty assessing car mechanic and doctor quality can equally well argue for regulating car mechanics more, instead of regulating doctors less.
+In general, people seem far more eager to collect respectable arguments for or against various specific regulations, than to consider the coherence of a pattern of regulations they endorse. They are satisfied to offer arguments for why janitors should have work hour limits, why musicians should not, why doctors should be highly regulated, and why car mechanics should not, all without much noticing or caring how much they treat similar cases differently.
+This suggests that there is a lot of rationalization going on. That is, rather than choosing some principles and then consistently applying them, people instead pick various random policy positions and then search for justifications. There seems to be only weak pressures to even notice much less reduce how they and their arguments treat similar things differently.
+
+
+title: Regulatory Differences
+
+date: January 2, 2012 11:50 pm
+

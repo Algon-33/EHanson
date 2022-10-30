@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Cooperation is a popular topic these days.  For example, see this Science review article and this Nature book review of de Waal’s The Age of Empathy:
+A repeated foil throughout is Gordon Gekko, from the 1987 movie Wall Street, who reiterates in various forms the basic credo that “greed is good”. … [de Waal’s] main political message is that we should not continue to harp on about evolution justifying only the selfish side of human nature, although of course that exists. He urges that we must also capitalize on the empathetic and cooperative attitudes that evolution has equipped us with, writing: “A society that ignores these tendencies can’t be optimal”.
+Here is a New Scientist book review:
+Given all that we know about empathy in animals, why do so many persist in seeing ours as a dog-eat-dog world? De Waal chalks it up to what he calls “macho origin myths”, which insist that “our species has been waging war for as long as it has been around”. But humans have shown empathy for as long as we’ve been around too.
+Many stories discuss recent research on how cooperation can be sustained by norms to punish non-cooperators, and punish those who don’t punish non-cooperators, etc.  For example, New Scientist:
+The temptation to freeload – reap the rewards without contributing anything – often leads to rapidly disintegrating cooperation.  Previous research found that cooperation is promoted by allowing players to punish freeloaders: cooperative players would pay a small cost that enables them to inflict a loss on the offender.
+The unstated moral behind most media stories on our biological instincts to cooperate seems to be that we would do better to empower and emphasize these instincts.  Such as, oh, taxing carbon, and shaming those who don’t tax carbon.
+But such stories mostly ignore the dark side of cooperation:  pro-cooperation instincts rely on dangerous conformity. Yes groups can be better off if individuals can see who do things that hurt the group overall, and punish those folks, and punish those who don’t punish them, etc.  But our evolved instincts about which are the individual actions that actually hurt others might be quite out of whack.
+For example, in big disasters like hurricanes, certain goods like gas, wood, water, or food become especially valuable.  While natural selfish reactions lead to higher prices for these key items, humans clearly evolved to see this behavior as uncooperative; we resist such price rises, and want to punish those who allow them.
+Perhaps this made sense for our distant ancestors, but today it is counter-productive.  If these goods are not allocated by price, they will instead be allocated by standing in lines, personal connections, etc., processes that are consistently worse at giving goods to those who value them the most, and do worse at creating incentives to prepare for such scenarios.
+But even when some of us realize that disaster price rises are actually cooperative behavior, pro-“cooperation” instincts get in the way of acting on this insight.  If others mistakenly intuit, that we are suggesting acts they consider uncooperative, they will punish us for such suggestions.  They will similarly punish us if their usual conformity rumor mill, not exactly designed for subtle  analysis, tells them our suggestions are uncooperative.  And even if others agree that we are actually suggesting cooperation, they may still have to punish us to avoid being punished themselves by others for failing to punish non-cooperators.
+The problem is that evolved cooperation instincts reward supporting behavior that most people feel is cooperative, and not what is actually cooperative.  In novel situations, where our ancient instincts and simple rumor mills are poor guides, ordinary folks can be quite mistaken about which actions help vs. hurt everyone.  In this case our “cooperative” instincts can make it much harder to share info about what actually helps or hurts.  In contrast, if it is accepted that we will each act selfishly, cooperating selfishly via exchange and contract, we can more easily rethink and relearn what actions are actually helpful in our new changing world.
+
+
+title: The Dark Side of Cooperation
+
+date: September 15, 2009 11:00 pm
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I finally had a chance to read Robyn Dawes’ book House of Cards, recommended to us here by Michael Crichton.  Here Dawes summarizes evidence on the effectiveness of psychotherapy:  
+
+ Randomized experiments evaluating the efficacy of psychotherapy began appearing occasionally in the scientific journals during the 1960s. … In 1977, Mary L. Smith and Gene V. Glass published a famous article in American Psychologist that concluded that psychotherapy is very effective.  They summarized the results of 375 studies of psychotherapy effectiveness that had purported to use random assignment to experimental, and control groups. … 
+ Smith and Glass found that someone chosen at random from the experimental group after therapy had a two-to-one chance of being better off on the measure examined than someone chosen at random from the control group.  That is a very strong finding … Smith and Glass’s meta-analysis … concluded that three factors that most psychologists believed influenced this efficacy actually did not influence it.  
+ First, they discovered that the therapists’ credentials – Ph.D., M.D., or no advanced degree – and experience were unrelated to the efficacy of therapy.  Second, they discovered that the type of therapy given was unrelated to its effectiveness, with the possible exception of behavioral techniques, which seemed superior for well-circumscribed behavioral problems.  They also discovered that length of therapy was unrelated to its success.   …
+ The professional psychology community hailed Smith and Glass’s overall finding but not the three subsidiary findings.  A series of studies was thereafter conducted to indicate that at least the first finding was inaccurate.  But these studies failed to refute Smith and Glass.  I became involved in the field of meta-analysis after reading Smith and Glass’s paper.  At the time I was skeptical of it. … in the academic year 1978-79, Janet Landman … and I collaborated … to check out … Smith and Glass.  … Much to our surprise, our results were virtually identical to those of Smith and Glass. 
+
+Apparently an intelligent sympathetic ear is mainly what you need if you feel a bit crazy.  The book has much more worth pondering.  But I fear many take the wrong lesson here, thinking they knew all along something as "unscientific" as psychotherapy couldn’t work.  In fact, few experts have faced such careful scrutiny of their effectiveness. 
+
+
+title: Dawes on Therapy
+
+date: November 9, 2007 6:00 am
+

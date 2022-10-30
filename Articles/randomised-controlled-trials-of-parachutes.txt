@@ -1,0 +1,16 @@
+author: Peter McCluskey
+
+text: 
+It is tempting to react to unscientific methods of medical practice by rejecting any treatment that isn’t supported by rigorous scientific evidence.  Here’s a parody of naive implementations of evidence-based medicine that demonstrates the pitfalls of doing so: Smith GCS, Pell JP. (2003). Parachute use to prevent death and major trauma related to gravitational challenge: systematic review of randomised controlled trials. BMJ, 327(7429), 1459-1461.
+From the paper: 
+
+Results We were unable to identify any randomised controlled trials of parachute intervention.  
+Conclusions As with many interventions intended to prevent ill health, the effectiveness of parachutes has not been subjected to rigorous evaluation by using randomised controlled trials. Advocates of evidence based medicine have criticised the adoption of interventions evaluated by using only observational data. We think that everyone might benefit if the most radical protagonists of evidence based medicine organised and participated in a double blind, randomised, placebo controlled, crossover trial of the parachute. 
+
+ There are some interesting comments on the paper here and here.
+
+
+title: Randomised Controlled Trials of Parachutes
+
+date: August 24, 2008 6:00 am
+

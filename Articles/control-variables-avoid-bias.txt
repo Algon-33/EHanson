@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+I teach health economics data (to both undergrads and grads) by going over the main regression tables of a bunch of recently published journal articles.   Such regressions usually have a health indicator (such as death rate) as the dependent variable, some focal factor which was the reason for the study as an independent variable, and then a bunch of other possible factors as control variables.   Common variables include age, gender, race, income, education, alcohol, weight, exercise, living density, marital status, hours of sleep, dietary fat, medical spending, water supply, and so on.  
+ I warn students that most studies have an agenda associated with their focal factor; the authors, funders, and referees have answers they expect and want to see.  Authors can manipulate the statistics to get the answer they want, and funders and referees can refuse to publish unwanted answers.   So I tell students to focus more on the control variables when deciding what to believe.   For example, you can better trust the control variable estimates of the effect of alcohol, than the estimates from studies where alcohol was the main focus.   
+ Of course authors won’t be as careful about control variables, and so you should expect more sloppiness and noise in the estimates.  But control estimates should be less biased.  I wish someone would do a meta-analysis comparing the estimates of control and focal variables, to test my bias suspicions.
+Added:  A big problem is the increasing trend to not include control variable estimates in the published paper.   For example, this week’s interesting NEJM article on air pollution and heart attacks just says "all estimates were adjusted for age, ethnicity, education, household income, smoking status, years smoked, cigarettes per day, diabetes, hypertension, systolic blood pressure, BMI, and hypercholesterolemia."  
+More Added:  Oops – that study does give control variable estimates.  This study on sleep, however, does not.  
+
+
+title: Control Variables Avoid Bias
+
+date: February 6, 2007 6:00 am
+

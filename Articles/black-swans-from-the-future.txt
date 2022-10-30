@@ -1,0 +1,20 @@
+author: Stuart Armstrong
+
+text: 
+“I’m the Doctor,” he said, stepping out of his time machine and ogling the young ladies. “I know your future.”
+You react as any full-blooded, rational de-biaser must react when confronted by the impossible: you invite him out for a drink. 
+Several bottles later, he confides in you that an extremely unlikely event – a “black swan” – is going to happen within the next few days. “Not only is it going to be a total outlier, like September the 11th,” he slurs, “but also like then, all your probability estimates are going to be up in the air for several weeks after.” 
+He stumbles back to his machine and vanishes – to crash soon after as he tries to drive between our two suns – and leaves you with a pair of important questions: as a dedicated de-biaser, how do you add this information to your estimates? And, more importantly, how do you make money out of it? 
+  
+I’ll argue that there isn’t much you can do in practice. Let’s assume he’d confided that the black swan was an event on the stock markets. Your first instinct might be to increase your estimate of a dramatic crash or a huge upswing. But those aren’t the only sort of outliers that can happen; and arguably, they’d be the least effective at messing up all your probability estimates. 
+What if there’s an hour of trading where no-one buys or sells a stock? What if the market were to stay constant for a full day – every price increase balanced by a price decrease, so that the total value never moves. What if instead the fluctuations of the market that day spell out, in Morse code, the first chapter of the Koran – or Moby Dick? 
+In order to update your estimates, you’d need to know, in advance, everything that would be an extreme event, and spread an increase of probability over them all.
+The comparison with 9/11 might be useful here – suppose you knew in advance that some massive terrorist attack was on its way that day (as some apparently should have). You’d have to imagine everything could be a terrorist attack, and spread an increase in probability among them all. You’d probably end up increasing the probability of an attack on the World Trade Center, or a plane hijacking (correct) but also on attacks on ports, an assassination attempt on the president, and more terrifying events like a dirty bomb or a bacteriological weapon. You probably wouldn’t increase your estimate of the chance of a plane being used to crash into a building – because that wouldn’t occur to you.    
+To even begin changing your estimates, you’d have to have a feel for how much of these outliers there are out there that you can’t even imagine yet – an impossible task. If you allowed yourself “probabilities about probabilities” you might be tempted to just decrease your certainty of all your estimates. But that, however, is the equivalent of smashing up your telescope because a friend told you it had an unspecified flaw.
+I think the best you can do is leave your estimates as they are, bet someone a lot of money that “something financial will make the news in a big way soon” and expect the unexpected. But is there a better way? It’s intensely frustrating to have information we can’t use.
+
+
+title: Black swans from the future
+
+date: April 4, 2007 3:13 pm
+

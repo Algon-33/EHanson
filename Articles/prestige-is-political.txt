@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Imagine an ancient forager band had a conflict. For example, imagine some were eating foods that induced stinky farts which bothered others who slept nearby. There are several generic ways to deal with such a conflict:
+
+Force – someone strong might destroy the stinky foods, or threaten to beat up those who eat them.
+Deal – those bothered by the smell might compensate others for not eating stinky foods.
+Exit – those bothered by the smell might leave and find or form another band.
+Prestige – prestigious folks could push the idea that eating stinky foods is low prestige, to shame people into not eating them.
+
+I think foragers had a strong preference for this last type of solution. But note that prestige is not available as a solution to conflicts unless prestige is in part political. If prestige were a fixed thing, say some fixed weighting of smart, strong, tall, etc., then it couldn’t be changed to solve problems. But if prestige is somewhat flexible, a dominant political coalition can try to flex it to encourage desired outcomes.
+Now consider an analogous global conflict today, such as global warming. It seems to me that people also intuitively prefer a prestige solution. Instead of forming a world government powerful enough to impose its will, or making a deal where rich nations pay poor ones whatever it takes to get them to sign, what elite nations actually seem to be doing is visibly cutting back on carbon, and trying to shame other nations into following their lead. They’d rather risk failing to solve the problem than having to resort to a non-prestige solution. Arguably prestige is in part how world elites actually pushed for changes such as more democracy, less slavery, and better protected environments.
+I’m also reminded of how people seem to prefer to choose their lawyers, doctors, investment advisors, etc. via prestige, instead of via track records or incentive contracts. And how people want to change who succeeds in the world via pushing elite colleges and institutions to change their admissions process, instead of reducing barriers to competition to make success more meritocratic.
+There are two kinds of status, sometimes called “prestige” vs. “dominance.” Both exist, but on the surface at least we want the former to matter more than the latter. And we often seem to categorize gaining via trade or personal effort as gaining via dominance. Which is in part why we often dislike market based solutions. But note that these two kinds of status could also be called “politics” vs. “non-political reality”. We prefer social outcomes to be determined by prestige that can be influenced by dominant political coalitions, and fear and suspect social outcomes determined by nature, personal effort, or social competition, even when such competition is peaceful.
+
+
+title: Prestige is Political
+
+date: June 15, 2016 6:25 am
+

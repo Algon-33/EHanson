@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+President Bush just spoke of "income inequality" for the first time, Tyler Cowen (the most impressive mind I’ve met) said last week that "inequality as a major and chronic American problem has been overstated," while Brad DeLong just said that "on the level of individual societies, I believe that inequality does loom as a serious political-economic problem."
+I find it striking that these discussions focus almost entirely on the smallest of these seven kinds of inequality:  
+
+Inequality across species 
+Inequality across the eras of human history
+Non-financial inequality, such as of popularity, respect, beauty, sex, kids
+Income inequality between the nations of a world
+Income inequality between the families of a nation
+Income inequality between the siblings of a family
+Income inequality between the days of a person’s life
+
+  
+Consider that "sibling differences [within each family] account for three-quarters of all differences between individuals in explaining American economic inequality" and that "eliminating income inequality within all nations would reduce global income inequality by no more than one-third."  So why do we talk mainly about financial inequality between a nation’s families, when each of these other six inequalities is arguably larger?  
+DeLong’s excuse is that "It is hard … to envision alternative political arrangements or economic policies during the past 50 years that would have transferred any significant portion of the wealth of today’s rich nations to today’s poor nations."  But surely we could have transferred wealth if we had wanted to, just as parents could teach their children to share income if they wanted.  We could compensate for unequal beauty by transferring from the pretty to the ugly.  And we could reduce species and era inequalities by sacrificing less for rich future generations and sacrificing more for other species.   
+Clearly, we do not just have a generic aversion to inequality; our concern is very selective.  The best explanation I can think of is that our distant ancestors got into the habit of complaining about inequality of transferable assets with a tribe, as a way to coordinate a veiled threat to take those assets if they were not offered freely.  Such threats would have been far less effective regarding the other forms of inequality.
+Added 5/7/07: There is also a huge ignored inequality between actual and possible siblings.
+
+
+title: Unequal Inequality
+
+date: February 2, 2007 6:00 am
+

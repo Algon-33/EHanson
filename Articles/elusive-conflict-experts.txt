@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Recently published in Interfaces: 
+
+ [Regarding] the decisions that adversaries will make, we compared the accuracy of 106 forecasts by experts [e.g., domain experts, conflict experts, and forecasting experts] and 169 forecasts by novices about [choices in] eight real conflicts. The forecasts of experts who used their unaided judgment were little better than those of novices, and neither group’s forecasts were much better than simply guessing. The forecasts of experts with more experience were no more accurate than those with less. The experts were nevertheless confident in the accuracy of their forecasts. … We obtained 89 sets of frequencies from novices instructed to assume there were 100 similar situations. Forecasts based on the frequencies were no more accurate than 96 forecasts from novices asked to pick the single most likely decision.
+
+Maybe conflict games are full of mixed strategies?  Hat Tip to WSJ Online, via Tyler Cowen.
+
+
+title: Elusive Conflict Experts
+
+date: September 27, 2007 6:30 am
+

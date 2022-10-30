@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Carl, thank you for thoughtfully engaging my whole brain emulation scenario.  This is my response.
+Hunters couldn’t see how exactly a farming life could work, nor could farmers see how exactly an industry life could work.  In both cases the new life initially seemed immoral and repugnant to those steeped in prior ways.  But even though prior culture/laws typically resisted and discouraged the new way, the few groups which adopted it won so big others were eventually converted or displaced.
+Carl considers my scenario of a world of near-subsistence-income ems in a software-like labor market, where millions of cheap copies are made of a each expensively trained em, and then later evicted from their bodies when their training becomes obsolete.  Carl doesn’t see how this could work:
+The Alices now know that Google will shortly evict them, the genocide of a tightly knit group of millions: will they peacefully comply with that procedure? Or will they use politics, violence and any means necessary to get capital from capital-holders so that they can continue to exist? If they seek allies, the many other ems who expect to be driven out of existence by competitive niche exclusion might be interested in cooperating with them. … In order … that biological humans could retain their wealth as capital-holders in his scenario, ems must be obedient and controllable enough that whole lineages will regularly submit to genocide, even though the overwhelming majority of the population expects the same thing to happen to it soon. But if such control is feasible, then a controlled em population being used to aggressively create a global singleton is also feasible.
+I see pathologically-obedient personalities neither as required for my scenario, nor as clearly leading to a totalitarian world regime.
+
+First, taking the long view of human behavior we find that an ordinary range of human personalities have, in a supporting poor culture, accepted genocide, mass slavery, killing of unproductive slaves, killing of unproductive elderly, starvation of the poor, and vast inequalities of wealth and power not obviously justified by raw individual ability.  The vast majority of these cultures were not totalitarian.  Cultures have found many ways for folks to accept death when “their time has come.”  When life is cheap, death is cheap as well.  Of course that isn’t how our culture sees things, but being rich we can afford luxurious attitudes.
+Those making body loans to ems would of course anticipate and seek to avoid expropriation after obsolesce.  In cultures where ems were not slaves, body owners might have to guarantee ems whatever minimum quality retirement ems needed to agree to a new body loan, perhaps immortality in some cheap slow-speed virtual-reality.  But em cultures able to avoid such guarantees, and only rarely suffering revolts, should have a substantial competitive advantage.  Some non-slave ways to avoiding revolts:
+
+ Bodies with embedded Lojack-like hardware to track and disable em bodies due for repossession.
+ Fielding new better versions slowly over time, to discourage rebel time coordination.
+ Avoid concentrating copies that will be obsolete at similar times in nearby hardware.
+ Prefer em copy clans trained several ways, so the clan won’t end when one training is obsolete.
+ Train ems without a history of revolting, even in virtual reality revolt-scenario sims.
+Have other copies of the same em mind be the owners who pull the plug.
+
+I don’t know what approach would work best, but I’ll bet something will.  And these solutions don’t seem to me to obviously lead to a single totalitarian world government.
+
+
+title: When Life Is Cheap, Death Is Cheap
+
+date: November 24, 2008 12:00 pm
+

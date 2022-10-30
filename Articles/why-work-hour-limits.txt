@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Many laws discourage and limit work hours. Laws require holidays and vacations, limit hours per day and week, and require extra payment for work over these limits. And of course income taxes discourage work more generally. The standard economic explanation for these limits is to prevent inefficient signaling. People motivated to gain relative status, to show their extra dedication to success, and to appear more able, work extra hours, for a net social loss. Work hour limits can reduce such losses. (Academic articles here, here, here, here, here.)
+This argument makes some sense, but it would make a lot more sense if we set broader and more consistent limits. Yet we don’t at all limit housework, and place few limits on self-employed work. Furthermore, high status occupations are especially exempt. Doctors, lawyers, managers, financiers, artists, writers, athletes, academics, and software engineers often work crazy hours. Yet the signaling argument would seem to apply nearly as well if not better to such high status work. Why are we so selective in our limits?
+One explanation is a battle for relative status between professions and activities. Areas where work hours are limited produce less, and so look less impressive. Ambitious folks who want to show their high abilities then choose other areas, leading to an equilibrium were observers reasonably less respect folks who work in limited areas. On this story, work hour limits were set in manufacturing and manual labor in order to reduce the status of such activities.
+A second related explanation is that each society is eager to look good to other societies. So each society prefers to encourage, not discourage, activities that are especially visible to outsiders. When outsiders evaluate societies more on the basis of their athletes than their shop technicians, societies naturally subsidize the former relative to the latter.
+Another third explanation is that voters support limits on work hours in some jobs mainly as a way to defy and “stick it to” employers, who are seen as evil and in need of taking down. Firms who employ low status workers may themselves seem lower status and “exploitive,” and thus more acceptable targets of ire. Work hour limits serve as a quantity limit which raises wages and thus employer expenses.  Any reduction of signaling losses is nice, but mainly a side effect.
+
+
+title: Why Work Hour Limits?
+
+date: December 26, 2011 9:30 am
+

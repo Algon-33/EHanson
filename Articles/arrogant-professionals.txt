@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+
+CEO – “We study a unique panel of over 11,600 probability distributions provided by top financial executives and spanning nearly a decade of stock market expectations.  Our results show that financial executives are severely miscalibrated:  realized market returns are within the executives’ 80% confidence intervals only 33% of the time.  We show that miscalibration improves following poor market performance periods because forecasters extrapolate past returns when forming their lower forecast bound (“worst case scenario”), while they do not update the upper bound (“best case scenario”) as much.  Finally, we link stock market miscalibration to miscalibration about own-firm project forecasts and increased corporate investment.” (more)
+Doc – “A study led by the Harvard researcher Nicholas Christakis asked the doctors of almost five hundred terminally ill patients to estimate how long they thought their patient would survive, and then followed the patients. Sixty-three per cent of doctors overestimated survival time. Just seventeen per cent underestimated it. The average estimate was five hundred and thirty per cent too high. And, the better the doctors knew their patients, the more likely they were to err. … Studies find that although doctors usually tell patients when a cancer is not curable, most are reluctant to give a specific prognosis, even when pressed. More than forty per cent of oncologists report offering treatments that they believe are unlikely to work.” (more)
+Lawyer – “[Consider] predictions by a sample of attorneys (n = 481) across the United States who specified a minimum goal to achieve in a case set for trial. … After the cases were resolved, case outcomes were compared with the predictions. Overall, lawyers were overconfident in their predictions, and calibration did not increase with years of legal experience. Female lawyers were slightly better calibrated … In an attempt to reduce overconfidence, some lawyers were asked to generate reasons why they might not achieve their stated goals. This manipulation did not improve calibration.” (more)
+
+I strongly suspect these patterns are driven mostly by customers, i.e., that more accurate professionals would be less successful in inspiring confidence by others in them.  If you are a successful professional, that is probably in part because of your unjustified arrogance.
+Added: Carl reminds us of an ’06 post on overconfident software managers.
+
+
+title: Arrogant Professionals
+
+date: July 31, 2010 10:00 pm
+

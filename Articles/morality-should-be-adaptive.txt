@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Yesterday I said:
+Morality should exist; … there should exist creatures who know what is moral, and who act on that.
+Many commenters disagreed, yet today I will go further:
+Morality should be adaptive; it should help groups survive.
+Humans evolved moral feelings as an adaptive response to difficult coordination problems in forager communal living. Culture tweaked those feelings to better fit farming life. Related feelings in other animals evolved for related reasons. So morality evolved to help us survive, and it has been intricately but not infinitely matched to that purpose. If, after a sudden unexpected change in our environment, we apply that morality in such a way as to make ourselves go extinct, that seems a rather dysfunctional broken application of such morality!
+Our moral feelings are crude and imprecise – they can have error. Given how complex is our world and crude our minds, and given how weird is our modern world relative to our evolved expectations, we should expect a lot of error. We should not blindly follow our moral intuitions, but should instead correct them as best we can whenever we can estimate a non-zero net error. And if your intuitions suggest that people like you should go extinct, well seems like  a pretty damn big clue of error. Of a BIG error. Correct!
+Added 4p: The evolutionary context of our moral intuitions gives a rich detailed framework for defining and estimating moral error. If you reject that framework, the question is what other framework will you substitute? How do you otherwise define and estimate the error in your specific moral intuitions?
+Added 21Apr: Richard Chappell comments here.
+
+
+title: Morality Should Be Adaptive
+
+date: April 20, 2012 2:45 pm
+

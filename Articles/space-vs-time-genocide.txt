@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Consider two possible “genocide” scenarios:
+
+Space Genocide – We expect the galaxy to have many diverse civilizations, with diverse behaviors and values, though we don’t know much about them. Their expansion tendencies would naturally lead to a stalemate, with different civilizations controlling different parts of the galaxy. Imagine, however, that it turns out we luckily have a chance to suddenly destroy all other civilizations in the galaxy, so that our civilization can expand to take it all over. (Other galaxies remain unchanged.) Let this destruction process be mild, such as sudden unanticipated death or a sterility allowing one last generation to live out its life. There is a modest (~5%) chance we will fail and if we fail all civilizations in the galaxy are destroyed. Should we try this option?
+Time Genocide – As their tech and environments changed, our distant ancestors evolved differing basic behaviors and values to match. We expect that our distant descendants will also naturally evolve different basic behaviors and values to match their changing tech and environments. Imagine, however, that it turns out we luckily have a chance to suddenly prevent any change in basic behaviors and values of our descendants from this day forward. If we succeed, we prevent the existence of descendants with differing basic behaviors and values, replacing them with creatures much like us. There is a modest (~5%) chance we will fail and if we fail all our descendants will be destroyed or exist in a mostly worthless state. Should we try this option?
+
+Probably, more people can accept or recommend time genocide than space genocide, even if success in both scenarios prevents the existence of a similar number of relatively alien creatures, to be replaced by a similar number of creatures more like us. This seems related to our tending to admire time-stretched civilizations (e.g., Rivendale) more than space-stretched civilizations (e.g., Trantor), even though space-stretched ones seem objectively more prosperous. But what exactly is the relation?
+The common thread, I suspect, is that the far future seems more far, in near/far concrete/abstract terms, than situations far away in space, or in the far past. The near/far distinction was first noticed in how people treated the future differently, and our knowing especially little detail about the future makes it especially easy to slip into abstract thought about the future.
+As we are less practical, more idealistic, and more uncompromising in far mode, we see civilizations time-stretched into the future as more ideal, and we are more willing to commit genocide to achieve our ideals regarding such a civilization, even at a substantial risk.
+Of course the future isn’t actually any less detailed than the past or places far away in space. And there isn’t any good reason to hold the far future to higher ideals now than we’d be inclined to want when the future actually arrives. If so, time-genocide should be no more morally acceptable than space-genocide. Beware the siren song of shiny far future thought.
+
+
+title: Space vs. Time Genocide
+
+date: June 16, 2011 9:30 pm
+

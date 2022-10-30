@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+This weekend I was in a AAAI (Association for the Advancement of Artificial Intelligence) Fall Symposium on Machine Aggregation of Human Judgment. It was my job to give a short summary about our symposium to the eight co-located symposia. Here is what I said.
+In most of AI, data is input, and judgements are output. But here humans turn data into judgements, and then machines and institutions combine those judgements. This work is often inspired by a “wisdom of crowds” idea that we often rely too much on arrogant over-rated experts instead of the under-rated insight of everyone else. Boo elites; rah ordinary folks!
+Many of the symposium folks are part of the IARPA ACE project, which is structured as a competition between four teams, each of which must collect several hundred participants to answer the same real-time intelligence questions, with roughly a hundred active questions at any one time. Each team uses a different approach. The two most common ways are to ask many people for estimates, and then average them somehow, or to have people trade in speculative betting markets. ACE is now in its second of four years. So, what have we learned?
+First, we’ve learned that it helps to transform probability estimates into log-odds before averaging them. Weights can then correct well for predictable over- or under-confidence. We’ve also learned better ways to elicit estimates. For example, instead of asking for a 90% confidence interval on a number, it is better to ask for an interval, and then for a probability. It works even better to ask about an interval someone else picked. Also, instead of asking people directly for their confidence, it is better to ask them how much their opinion would change if they knew what others know.
+Our DAGGRE team is trying to improve accuracy by breaking down questions into a set of related correlated questions. ACE has also learned how to make people better at estimating, both by training them in basic probability theory, and by having them work together in teams.
+But the biggest thing we’ve learned is that people are unequal – the best way to get good crowd wisdom is to have a good crowd. Contributions that most improve accuracy are more extreme, more recent, by those who contribute more often, and come with more confidence. In our DAGGRE system, most value comes from a few dozen of our thousands of participants. True, these elites might not be the same folks you’d have picked via resumes, and tracking success may give better incentives. But still, what we’ve most learned about the wisdom of crowds is that it is best to have an elite “crowd.”
+
+
+title: Wanted: Elite Crowds
+
+date: November 6, 2012 8:45 am
+

@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+According to the American Bar Association, hiring local counsel is a must for every trial. Even if you hire a specialty lawyer in addition to local counsel, the expense of having someone who is intimately familiar with the court system can be very worthwhile. …
+It might seem like justice should be the same everywhere in the country, but the reality is that there are different ways to go about achieving it. A local counsel service is the best option to ensure that you will not be hurt by the various customs and legal differences of a particular court. (more)
+Who’s going to be deciding your case? Does the judge have an implicit bias against out-of-towners? Is the jury going to take issue with or love your southern drawl? For example, on a case my firm tried, a Louisiana judge was a stickler for formality—don’t let calling your witness “Bob” instead of “Mr. Smith” ruin your rapport with the decision maker! Be sure to have local counsel who can guide you through these latent landmines. (more)
+In most ancient societies, you didn’t need a lawyer to use the law, and in many ancient societies you weren’t even allowed a lawyer. Today we’ve made the law and legal procedures so complex that everyone needs an expensive lawyer. Worse: if you have to participate in a legal process away from where your lawyer is based, you’ll have to pay extra to hire an extra local lawyer.
+This isn’t so much because laws are that different in different places; your lawyer can look up the local law and apply that to your case. And it seems crazy to let rules of legal procedure to vary so much from place to place that lawyers from elsewhere couldn’t follow those rules. If that were the case, we should standardize procedures.
+Yes, local lawyers can know the local jury pool better, both how to read them and how to appeal to them. And jurors may be biased to favor locals. However, while juries once decided most cases, today they are rare; judges decide most cases.
+Apparently, these are the two main reasons to hire a local lawyer:
+
+A) Individual judges are known by locals for how they deviate from an average judge, and knowing those deviations can help you win.
+B) Judges better treat lawyers that are are respected within the local law community. The most prestigious lawyers and judges in each area socialize and gossip a lot together, creating a local status hierarchy. And a judge’s reputation can be hurt if they do not treat each lawyer with the respect seen their due by a local community.
+
+If these two effects were weak they wouldn’t justify hiring a local lawyer. But in fact it is common wisdom that if you have an important case in some area, you must hire not only a local lawyer but one from the top of that local pecking order. Getting an even better lawyer from elsewhere just won’t do. So these affects must be strong.
+But these two affects being strong seems quite a damning fact about the neutrality and fairness of our law. You should be able to get a fair trial without your lawyer pandering to individual judge biases, or having socialized with your judge for years.
+There seems to be an obvious fix: randomize judges over a wide area, perhaps even nationwide. Either do the trials over zoom/skype or make the judges travel around from court to court. Maybe even you don’t know who is your judge until the trial starts; have some other random judge handle pre-trial issues. (Maybe even you don’t know who is the judge during the trial; that is only revealed afterward.)
+With judges randomly picked from a wide area, it would be very hard to pick a lawyer who socializes with the judge, or who knows his or her quirks well. And if you don’t know the judge until the trial starts (or even during it), you can’t pick your trial strategy based on knowing judge details. You’ll have to prepare your case, and negotiate with the other party, expecting a random judge. Which would put everyone in the same situation judge-wise. In addition, bribes and other judge corruption become harder for random non-local judges.
+Added 9am: It could also make sense to randomize jurors widely, to avoid local bias. I ago see several other easy fixes. Police misconduct should be dealt with by distant police agencies, instead of an internal affairs division of a local agency. Distant police should try often to entrap judges into accepting bribes and other corrupt practices. And judge corruption cases should be decided by juries, not judges.
+
+
+title: Randomize Judges Widely
+
+date: October 27, 2020 6:52 pm
+

@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+
+10 conclusions of an excellent analysis of firm management:
+
+Firms with “better” management practices tend to have better performance on a wide range of dimensions: they are larger, more productive, grow faster, and have higher survival rates.
+Management practices vary tremendously across firms and countries. Most of the difference in the average management score of a country is due to the size of the “long tail” of very badly managed firms. For example, relatively few U.S. firms are very badly managed, while Brazil and India have many firms in that category.
+Countries and firms specialize in different styles of management. For example, American firms score much higher than Swedish firms in incentives but are worse than Swedish firms in monitoring.
+Strong product market competition appears to boost average management practices through a combination of eliminating the tail of badly managed firms and pushing incumbents to improve their practices.
+Multinationals are generally well managed in every country. They also transplant their management styles abroad. For example, U.S. multinationals located in the United Kingdom are better at incentives and worse at monitoring than Swedish multinationals in the United Kingdom.
+Firms that export (but do not produce) overseas are better-managed than domestic non-exporters, but are worse-managed than multinationals.
+Inherited family-owned firms who appoint a family member (especially the eldest son) as chief executive officer are very badly managed on average.
+Government-owned firms are typically managed extremely badly. Firms with publicly quoted share prices or owned by private-equity firms are typically well managed.
+Firms that more intensively use human capital, as measured by more educated workers, tend to have much better management practices.
+At the country level, a relatively light touch in labor market regulation is associated with better use of incentives by management.
+
+It seems US firms have a bright future, and that China and India grow fast in spite of, not because of, their managers.
+Added: There are some online MBA rankings; I wonder how well they correlate with these quality ratings.
+
+
+title: Who Manages Best
+
+date: February 22, 2010 6:00 am
+

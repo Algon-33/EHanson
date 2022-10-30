@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Shannon Brownlee in the Post on drug companies inventing new diseases: 
+
+ It turns out that much of what we — and our doctors — think we know about many health problems has been shaped by drugmakers and their marketers. … Osteoporosis and osteopenia aren’t really diseases. Before the 1990s, doctors decided that you had osteoporosis if you were elderly and you broke a bone. When the pharmaceutical company Merck came up with its anti-bone-loss durg Fosamax, it wanted a broader market than just elderly fracture patients. The solution? The company helped fund a panel of medical experts to create diagnostic criteria for osteoporosis so that a diagnosis could be made before the patient actually broke a bone. 
+ The panel’s first step was to define "normal" bone density as that of the average 30-year-old woman. Next, the experts chose as their cutoff for osteoporosis a statistical point that was slightly below the bone density of their normal 30-year-old — a definition they admitted was "somewhat arbitrary." Finally, they came up with a completely new disease — osteopenia — for bone density that fell somewhere between that normal 30-year-old and their arbitrary definition of osteoporosis. 
+ Voila — 30 percent of post-menopausal women suddenly had a disease that needed to be treated early in order to prevent a problem — hip fracture — that wouldn’t occur for many years, if ever. According to the new guidelines, millions more women now had osteopenia, which their doctors needed to watch like hawks so that their patients could be treated once they progressed to osteoporosis. Merck then took the added step of helping doctors buy DEXA scanners, X-ray machines needed to scan your bones to get that all-important diagnosis. …
+ Fosamax … can cause necrosis (death) of the jawbone. What’s more, there aren’t any valid scientific studies to show that treating osteoporosis early will prevent fractures down the road. The drug can also trigger serious heartburn. 
+
+Added 6Apr: More from Brownlee:
+  
+   
+ Take the selling of Zantac, an anti-ulcer drug that came on the market in 1983 and paved the way for the blockbuster drugs that followed. First, Glaxo priced its new drug above its competitor, Tagamet — a bold move, Melody Petersen writes in Our Daily Meds, that "like an underweight boxer trying to fool the prizefighter with his swagger . . . implied that Zantac was better." In reality, Zantac was a "me-too" drug, chemically almost identical to Tagamet and no more effective.   
+But it was the second half of Glaxo’s strategy that was truly dazzling. Rather than plowing the revenue from Zantac back into R&D, as was then customary in the drug business, the company decided to invest in marketing the daylights out of its drug. Glaxo funded studies intended to show Zantac’s superiority. It hired a battalion of sales reps, who flogged the drug relentlessly to doctors. Most brilliant of all, the company pioneered a ploy now used routinely in pharmaceutical marketing: It "condition branded" Zantac.   
+Glaxo’s novel idea was to link its drug to the relief of a common but minor condition, then make consumers and doctors worry that the condition was a sign of a more worrisome disease. In this case, the minor condition was old-fashioned heartburn. Glaxo warned that heartburn was a sign of chronic reflux, which the company dubbed Gastro-Esophageal Reflux Disease, or GERD. Soon, millions of Americans were saying goodbye plop plop, fizz fizz, hello Zantac, an expensive prescription drug they started taking every day to ward off GERD, even though most episodes of reflux go away without treatment, and most heartburn can be relieved with an over-the-counter remedy.   
+
+
+
+title: Brownlee on Selling Anxiety
+
+date: April 4, 2008 6:00 am
+

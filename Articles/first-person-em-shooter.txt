@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Jesse Galef:
+It’s The Matrix meets Braid: a first-person shooter video game “where the time moves only when you move.” You can stare at the bullets streaking toward you as long as you like, but moving to dodge them causes the enemies and bullets to move forward in time as well. The game is called SUPERHOT … it struck me: this might be close to the experience of an emulated brain housed in a regular-sized body.
+Jesse asked for my reaction. I said:
+Even better would be to let the gamer change the rate at which game-time seems to move, to have a limited gamer-time budget to spend, and to give other non-human game characters a similar ability.
+Jesse riffed:
+It would be more consistent to add a “mental cycle” budget that ran down at a constant rate from the gamer’s external point of view. I don’t know about you, but I would buy that game! (Even if a multi-player mode would be impossible.)
+Let’s consider this in more detail. There’d be two plausible scenarios:
+Brain-In-Body Shooter – The em brain stays in a body. Here changing brain speeds would be accomplished by running the same processors faster or slower. In this case, assuming reversible computing hardware, the em brain computing cost for each subjective second would be linear in brain speed; the slower the world around you moved, the more you’d pay per gamer second. This would be an energy cost, to come out of the same energy budget you used to move your body, fire weapons, etc. There would also probably be a heat budget – you’d have some constant rate at which cooling fluids flow to remove heat, and the faster your mind ran the faster heat would accumulate to raise your temperature, and there’d be some limit to the temperature your hardware would tolerate. Being hot might make your body more visible to opponents. It would hard for a video game to model the fact that if your body is destroyed, you don’t remember what happened since your last backup.
+Brain-At-Server Shooter – The em brain runs on a server and tele-operates a body. Here switching brain speeds would usually be accomplished by moving the brain to run on more or fewer processors at the server. In this case, em brain computing cost would be directly proportional to subjective seconds, though there may be a switching cost to pay each time you changed mental speeds. This cost would come out of a financial budget of money to pay the server. One might also perhaps allow server processors to temporarily speed up or slow down as with the brain-in-body shooter. There’d be a serious risk of opponents breaking one’s net connection between body and brain, but when your body is destroyed at least you’d remember everything up to that point.
+To be able to switch back and forth between these modes, you’d need a very high bandwidth connection and time enough to use it lots, perhaps accomplished at a limited number of “hard line” connection points.
+Not that I think shooter situations would be common in an em world. But If you want to make a realistic em shooter, these would be how.
+
+
+title: First Person Em Shooter
+
+date: May 22, 2014 9:40 am
+

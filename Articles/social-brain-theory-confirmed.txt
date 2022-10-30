@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+The social brain theory is that human brains got big mainly due to deal with the complexity of human societies.  Such as, say, signaling.  While it is the dominant theory as far as I can tell, it is nice to see some direct evidence in its favor.   New Scientist: 
+Geary collected data from 175 fossil hominin skulls, from 1.9 million to 10,000 years old. Then he looked to see whether brain size was best correlated with climatic variability – a crude measure of biodiversity which could indicate the complexity of hunting and gathering – or the human population size at the time, which could reflect the complexity of social interactions.  Geary’s analysis found that population size was the best predictor of brain size, suggesting that our ancestors’ need to outcompete their neighbours in order to survive may have been the strongest driver of brain growth (Human Nature, vol 20, p 67).
+
+
+title: Social Brain Theory Confirmed
+
+date: August 12, 2009 6:00 am
+

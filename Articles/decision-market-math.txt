@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+Let me share a bit of math I recently figured out regarding decision markets. And let me illustrate it with Fire-The-CEO markets.
+Consider two ways that we can split $1 cash into two pieces. One way is: $1 = “$1 if A” + “$1 if not A”, where A is 1 or 0 depending on if a firm CEO stays in power til the end of the current quarter. Once we know the value of A, exactly one of these two assets can be exchanged for $1; the other is worthless. The chance a of the CEO staying is revealed by trades exchanging one unit of “$1 if A” for a units of $1.
+The other way to split is $1 = “$x” + “$(1-x)”, where x a real number in [0,1], representing the stock price of that firm at quarter end, except rescaled and clipped so that x is always in [0,1]. Once we know the value of x, then one unit of “$x” can be exchanged for x units of $1, while one unit of “$(1-x)” can be exchanged for 1-x units of $1. The expected value x of the stock is revealed by trades exchanging one unit of “$x” for x units of $1.
+We can combine this pair of two-way splits into a single four-way split:
+$1 = “$x if A” + “$x if not A” + “$(1-x) if A” + “$(1-x) if not A”.
+A simple combinatorial trading implementation would keep track of the quantities each user has of these four assets, and allow them to trade some of these assets for others, as long as none of these quantities became negative. The min of these four quantities is the cash amount that a user can walk away with at any time. And at quarter’s end, the rest turn into some amount of cash, which the user can then walk away with.
+To advise the firm board on whether to fire the CEO, we are interested in the value that the CEO adds to the firm value. We can define this added value as x1-x2, where
+x1 = E[x|A] is revealed by trades exchanging 1 unit of “$x if A” for x1 units of “$1 if A”
+x2 = E[x|not A] is revealed by trades exchanging 1 unit of “$x if not A” for x2 units of “$1 if not A”.
+In principle users could trade any bundle of these four assets for any other bundle. But three kinds of trades have the special feature of supporting maximal use of user assets in the following sense: when users make trades of only that type, two of their four asset quantities will reach zero at the same time. Reaching zero sets the limit of how far a user can trade in that direction.
+To see this, let us define:
+d1 = change in quantity of “$x if A”,
+d2 = change in quantity of “$x if not A”,
+d3 = change in quantity of “$(1-x) if A”,
+d4 = change in quantity of “$(1-x) if not A”.
+Two of these special kinds of trades correspond to the simple A and x trades that we described above. One kind exchanges 1 unit of “$1 if A” for a units of $1, so that d1=d3, d2=d4, -d1*(1-a)=a*d2. The other kind exchanges 1 unit of “$x” for x units of $1, so that d1=d2, d3=d4, -d1*(1-x)=x*d3.
+The third special trade bundles the diagonals of our 2×2 array of assets, so that d1=d4, d2=d3, -q*d1=(1-q)*d2. But what does q mean? That’s the math I worked out: q = (1-a) + (2a-1)*x + 2a(1-a)*r*x, where r = (x1-x2)/x, and x = a*x1 + (1-a)*x2. So when we have market prices a,x from the other two special markets, we can describe trade ratios q in this diagonal market in terms of the more intuitive parameter r, i.e., the percent value the CEO adds to this firm.
+When you subsidize markets with many possible dimensions of trade, you don’t have to subsidize all the dimensions equally. So in this case you could subsidize the q=r type trades much more than you do the a or x type trades. This would let you take a limited subsidy budget and direct it as much as possible toward the main dimension of interest: this CEO’s added value.
+
+
+title: Decision Market Math
+
+date: May 17, 2022 9:00 am
+

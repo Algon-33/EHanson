@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+New studies show existence and positive purpose biases.  First, we presume that what exists is better that what is not:
+People treat the mere existence of something as evidence of its goodness. Studies 1 and 2 demonstrate that an existing state is evaluated more favorably than an alternative. Study 3 shows that imagining an event increases estimates of its likelihood, which in turn leads to favorable evaluation; the more likely that something will be, the more positively it is evaluated. Study 4 shows that the more a form is described as prevalent, the more aesthetically attractive is that form. … Mere existence leads to assumptions of goodness; the status quo is seen as good, right, attractive, tasty, and desirable.
+Second, we presume the universe is designed to achieve broad positive purposes:
+Children in first, second, and fourth grades were asked whether rocks are pointy because they are composed of small bits of material or in order to keep animals from sitting on them. The children preferred the teleological explanation. … Recent work suggests that it’s not just children: [researchers] found the same tendency to ascribe purpose to phenomena like rocks, sand, and lakes in uneducated Romany adults. They also tested BU undergraduates who had taken an average of three college science classes. When the undergrads had to respond under time pressure, they were likely to agree with nonscientific statements such as “The sun radiates heat because warmth nurtures life.”
+For social institutions, these biases combine into a perfect storm: we assume our social institutions are well designed to achieve laudable broad purposes, rather than being more accidental arrangements where we each achieve private purposes holding constant others’ behavior.
+Yes things that we have adapted to our needs are probably better than random other things that could be there instead.  I’d rather keep the current parts in my car than replace them with other random objects.  And yes when institutions have varied from place to place the better ones have probably spread further.
+But even so we seem far too eager to believe that our current institutions are so well designed that there is little reason to consider alternatives.  This error is encouraged by the above biases, and by the fact that we can show loyalty to our local culture by believing it has superior institutions.  But be warned: it is nevertheless an error.  (And yes, I’ll tediously argue yet again that prediction markets could help correct this error.)
+
+
+title: Status Quo Institution Bias
+
+date: November 23, 2009 2:25 pm
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+
+At 8:15p Dec. 7, I’ll give an em econ talk in DC, to the Philosophical Society of Washington, at the Powell Auditorium adjacent to the Cosmos Club, 2170 Florida Avenue NW (Entrance through club gate). It is open to the public, free, informal dress, requires no reservation, and is followed by a social hour. Title & abstract:
+Whole Brain Emulation: Envisioning Economies And Societies of Emulated Minds
+The three most disruptive transitions in history were the introduction of humans, farming, and industry. If another transition lies ahead, a good guess for its source is artificial intelligence in the form of whole brain emulations, or “ems,” sometime in roughly a century. I apply standard social science to this unusual situation, to outline a relatively-likely reference scenario set modestly far into a post-em-transition world. I consider families, reproduction, life plans, daily activities, inequality, class, work training, property rights, firm management, industrial organization, urban agglomeration, security, politics, and governance.
+Added Dec 8: My talk was “among the best attended talks of the year.” Here are slides, audio, video (to appear here).
+
+
+title: Dec 7 DC Em Econ Talk
+
+date: November 16, 2012 10:52 am
+

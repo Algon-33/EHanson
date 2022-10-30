@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Crime is bad. So prosecuting criminals is good. Prosecution requires evidence, mainly testimony.  So we force witnesses to testify in court, without compensation.  Testifying in court might be quite inconvenient for a witness, might subject him or her to retaliation, and might damage her relationships.  Yet still we require it. Except:
+A privilege is … rules excluding evidence that would be adverse to a fundamental principle or relationship if it were disclosed. The most common form is … attorney-client privilege. … The rationale is that clients ought to be able to communicate freely with their lawyers, in order to facilitate the proper functioning of the legal system. Other common forms include privilege against self-incrimination, without prejudice privilege (protecting communications made in the course of negotiations to settle a legal dispute), public interest privilege (formerly Crown privilege, protecting documents for which secrecy is necessary for the proper functioning of government), marital privilege, medical professional privilege, and clergy-penitent privilege. (more)
+Reporters’ privilege … is the … right many jurisdictions by statutory law or judicial decision have given to journalists in protecting their confidential sources from discovery. (more)
+The right to remain silent is … the right of … the defendant to refuse to comment or provide an answer when questioned. … Adverse comments or inferences cannot be made by the judge or jury regarding the refusal by a defendant to answer questions before or during a … legal proceeding. (more)
+OK, if we want plea bargaining, we must privilege what is said in negotiations – who would negotiate otherwise?  And I could understand an “important secret” privilege, for when the social costs of revealing a secret outweigh a crime’s harm. But it is hard to believe social harm is that large in typical privilege applications, or much larger than for unprivileged relations. (And no harm calculations are given for us to examine.)
+For example, students would surely feel more comfortable talking to teachers who could never testify against them.  But that hardly seems reason to prevent teachers from testifying against students.  Friends and lovers prevented from testifying against each another should also feel closer.  In fact, most any relation could gain by eliminating the threat of future legal testimony.  But surely this isn’t reason to stop such testimony.
+Eliminating privileges should increase the cost of being a criminal, and discourage more crime.  So why don’t we do that?  If legal privilege isn’t about crime or social harm from secrets exposed, what is it about?
+Many people are horrified to learn of how ancient societies formally divided folks into classes, and limited what classes could wear.  But we aren’t so different. I suspect most legal priviledge serves the same function as the common requirement for folks to dress “respectfully” in court – it raises the status of some relative to others.  To mark our respect for married folk, lawyers, doctors, priests, reporters, and citizens in general, we give them special privileges, even if that costs us more crime.
+Added 11Feb:  There is also a research privilege!
+Certificates of Confidentiality are issued by the National Institutes of Health (NIH). … They allow the investigator and others who have access to research records to refuse to disclose identifying information on research participants in any civil, criminal, administrative, legislative, or other proceeding, whether at the federal, state, or local level. (more; HT Alex T.)
+Really? We make it harder to catch criminals because otherwise researchers might find it harder to recruit criminals into their studies?
+
+
+title: Privilege Marks Status
+
+date: February 8, 2011 8:30 pm
+

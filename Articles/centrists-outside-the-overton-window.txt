@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Overton window – the spectrum of ideas on public policy and social issues considered acceptable by the general public at a given time.
+The main thing that sets the size of the world economy today is the amount of innovation that has happened before today. In general we don’t induce enough innovation, as innovators tend to benefit society more than themselves. Thus better innovation institutions, which offer stronger incentives to innovate well, are probably the main way to make a better wealthier more prosperous tomorrow.
+Innovation is also terribly important in politics and governance. Most of today’s official policies today were once only proposals, and before that quite unpopular proposals. That is, most current policies were once outside the Overton window of policies seen as acceptable to at least consider. 
+The usual political and governance processes are about choosing among policies within the Overton window. Almost everything you see in government, politics, and the media is part of this process. As well as a great many things you don’t see. But just as important are the less visible processes that happen outside the Overton window, processes which decide which of the vast space of logically possible policies are moved closer to the edge of that window, where random fluctuations might tip them in. 
+These processes by which outside proposals are honed and selected seem especially neglected today. The main groups who attend to them seem to be political extremists, whose ideal policies are far outside the current Overton window. Such extremists seek ways to reframe political alliances or issues to move the Overton window, and thus gain more favorable consideration for their extreme ideal points. 
+Now given how important is innovation, and how neglected is the vast space of policies outside the tiny Overton window, it is good that at least some are thinking outside this “box”. But it also seems a shame that these are mainly extremists. 
+Our usual business and tech innovation would be worse if most of this was done by extremists pushing unusual agendas regarding how we should all want to live. For example, imagine if cell phones were only likely to be developed by religious cults with a deep hatred of wires. It is good that instead most business and tech innovation is instead driven by profit incentives, as that drives them to explore a much wider space of possibilities. 
+
+This common diagram describing the Overton window is seriously misleading, as it presents policy as a one-dimensional spectrum. In fact, the real space of policies is hugely multi-dimensional, with a “Overton hypercube” that takes up only tiny fraction of this vast space. It is thus perfectly rational to want to explore that vast space, even by those who are “centrists” with respect to the usually small number of ideological dimensions. There are surely a great many good policies out there in that vast space which are attractive to centrists, if only they can find and hone them.
+Thus we want many such centrists to help explore this space, and not just a few extremists. Perhaps in future posts I’ll make some new more concrete proposals for how to better recruit centrists, and most everyone, to explore the vast space of possible policies that lie outside the tiny Overton hypercube. To help hone and select candidates, moving them closer to the edge of this Overton “window.” After which they may later drift inside that window, to become live possibilities for adoption. The better we explore the total space of policy options, the better will be the policies that we adopt. 
+
+
+title: Centrists Outside The Overton Window
+
+date: November 16, 2020 5:00 pm
+

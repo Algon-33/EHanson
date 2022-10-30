@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+Three main relevant groups have vied lately to influence pandemic policy: public, elites, and experts. Initially, public health experts dominated, even when they screwed up. But then they seemed to publicly assume that it was too late to contain Covid19, and the only viable option was “flattening the curve” to get herd immunity. At that point, elite opinion worldwide objected loudly, and insisted that containment be the official policy.
+Experts and the public demurred, and elites got their way. Everywhere in the world, all at once, strong lockdown polices began, and containment became the official goal. But elites did not insist on any particular standard containment policy. Such as, for example, the packages of polices that seem to have worked initially in Wuhan or South Korea. Instead elites seemed satisfied to let the politicians and experts in each jurisdiction craft their own policy packages, as long as they seemed “strong”, involving much public sacrifice. And they allowed official public messages suggesting that relatively short durations would be sufficient.
+A few months later, those duration periods are expiring. And in the different jurisdictions, the diverse policies now sit next to quite diverse outcomes. In some places, infections are low or declining, while in others they are flat or increasing. The public is feeling the accumulated pain, and itching to break out. If these flat or increasing trends continue, containment will fail, and lockdown harms will soon exceed plausible future gains from preventing medical system overload.
+Elites are now loudly and consistently saying that this is not time to open; we must stay closed and try harder to contain. When confronted with the discouraging recent trends, elites respond with a blizzard of explanations for local failures, and point to a cacophony of prophets with plans and white papers declaring obvious solutions.
+But, and this is the key point, they mostly point to different explanations and solutions. For example, this polls shows very little agreement on the key problem:
+
+Which of these factors do you guess best explains which places have been doing better at suppressing Covid10: more testing, more tracing, stronger general lockdown, forced central quarantine of suspected infected?
+— Robin Hanson (@robinhanson) May 3, 2020
+
+So while the public will uniformly push for more opening, elites and experts push in a dozen different directions. If elites would all back the same story and solution, as they did before, they would probably get it. If they would say “We agree that this is what we did wrong over the last few months, and this is the specific policy package that will produce much different outcomes over the next few months.” But they aren’t saying this.
+So elites and experts don’t speak with a unified voice, while the public does. And that’s why the public will win. While the public tends to defer to elites and experts, and even now still defers a lot, this deference is gradually weakening. We are starting to open, and will continue to open, as long as opening is the main well-supported alternative to the closed status quo, which we can all see isn’t working as fast as expected, and plausibly not fast enough to be a net gain. Hearing elites debate a dozen other alternatives, each supported by different theories and groups, will not be enough to resist that pressure to open.
+Winning at politics requires more than just prestige, good ideas, and passion. It also requires compromise, to produce sufficient unity. At this game, elites are now failing, while the public is not.
+Added 3p: Many are reading me as claiming that the public is unified in the sense of agreeing on everything. But I only said that the public pushes will will tend to be correlated in a particular direction, in contrast with the elite pushes which are much more diverse. Some also read me as claiming that strong majorities of the public support fast opening, but again that’s not what I said.
+Added 6May: Here is data suggesting people are getting out more. Here is data suggesting increasing support for opening.
+Added 7May: This poll suggests patience is thin. Lognormal fit says only willing to wait median of 1.2 months (mode 0.08, mean 4.7).
+
+Your region is area w/o borders stopping internal spread. Weak lockdown prevents med system overloading, but doesn’t contain virus. If in your region, pandemic continues to grow, or decline very slowly, for N more months, you will support a weaker lockdown. What is your N?
+— Robin Hanson (@robinhanson) May 6, 2020
+
+
+
+title: Why Openers Are Winning
+
+date: May 5, 2020 7:50 am
+

@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+One standard finding about near vs. far thinking is that in far mode we tend to focus more on our goals, while in near near mode we tend to focus more on practical constraints that limit which goals we can achieve. However, there is one kind of practical consideration that can get us to think more in far mode; an “obstacle” we are inclined to overcome:
+Can obstacles prompt people to look at the “big picture” and open up their minds? Do the cognitive effects of obstacles extend beyond the tasks with which they interfere? These questions were addressed in 6 studies involving both physical and nonphysical obstacles and different measures of global versus local processing styles. Perceptual scope increased after participants solved anagrams in the presence, rather than the absence, of an auditory obstacle (random words played in the background; Study 1), particularly among individuals low in volatility (i.e., those who are inclined to stay engaged and finish what they do; Study 4). It also increased immediately after participants encountered a physical obstacle while navigating a maze (Study 3A) and when compared with doing nothing (Study 3B). Conceptual scope increased after participants solved anagrams while hearing random numbers framed as an “obstacle to overcome” rather than a “distraction to ignore” (Study 2) and after participants navigated a maze with a physical obstacle, compared with a maze without a physical obstacle, but only when trait (Study 5) or state (Study 6) volatility was low. Results suggest that obstacles trigger an “if obstacle, then start global processing” response, primarily when people are inclined to stay engaged and finish ongoing activities. Implications for dealing with life’s obstacles and related research are discussed. (more)
+
+
+title: Obstacles Are Far
+
+date: September 5, 2011 2:00 pm
+

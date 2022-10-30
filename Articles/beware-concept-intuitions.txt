@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+My dearest colleague Bryan Caplan has a broad solid training, a penetrating insight, and a laser-like focus on the important questions.  But Bryan shares an all-to-common intellectual flaw with other very smart folks: he trusts his concept intuitions way too much.
+Our minds come built with concepts that let us categorize and organize the world we see.  Those concepts evolved to be useful in the world of our ancestors, and we expect them to reflect real, important, and consistent patterns of experience in that ancestral world.  Such concepts are surely far from random.
+Nevertheless, we have little reason to think that our evolved concepts map directly and simply onto the fundamental categories of the universe, whatever those may be.  In particular, we have little reason to believe that categories that seem to us disjoint cannot in reality overlap.   For example:
+
+Bryan Caplan’s intuition tells him it is obvious that “mind” and “matter” are disjoint categories, and cannot overlap; nothing could be both mind and matter.  Thus he thinks he knows, based only on this conceptual consideration, that conscious intelligent machines or emulations are impossible.
+Bryan’s intuition tells him it is obvious that “is” and “ought” claims are distinct categories, and no ought claim could ever be justified by any set of is claims.   Since Bryan is sure he knows some ought claims that are true, he concludes he has a way to know things that doesn’t come via info about the world.
+The brilliant David Chalmers (and others) thinks it obvious that the categories of things that “feel” is distinct from the category of things that can “cause” other things, which to him implies that there is a deep puzzle of why we humans can feel in addition to participating in cause and effect interactions.  Folks like Chalmers are sure we know we can feel but that the conceptual distinctness of feeling implies that this info does not come to us via our causal relations.  They conclude we have ways of knowing independent of our causal interactions.
+The very smart Eliezer Yudkowsky, my once co-blogger, and others in his research group, think it obvious that “intelligence” tech is so conceptually distinct from other tech that devices that embody it can quickly explode to take over the world; our very different history with other tech so seems largely irrelevant to them.
+Once upon a time many now-quaint conclusions were thought to follow from the conceptual distinctness of “living” vs. “dead”, or “spiritual” vs. “material”.
+
+Yes categories such as “mind”, “matter”, “is”, “ought”, “cause”, and “feel” are powerful concepts that helped our ancestors to better organize their experiences.  But this usefulness is just not a strong enough basis on which to make sweeping conclusions about what must or cannot be true of all of reality, even parts, depths, and possibilities with which our ancestors never came into contact.   The categories in your head contain useful hints about what you might expect to see, but they simply cannot tell you what you must or can’t see; for that you have to actually look at the world out there.
+On reflection, it seems to me quite possible that some real things are both mind and matter, that some claims are both is and ought, and that real things naturally both cause and feel.  And it seems to me that our theory of info, even if tentative, is the most well established theory we have.  It suggests an info fundamentalism: all that we know that could have been otherwise, even about ourselves, comes via our causal contact with what is; we have no good reason to think we have some other special ways of knowing.
+
+
+title: Beware Concept Intuitions
+
+date: October 19, 2009 11:00 pm
+

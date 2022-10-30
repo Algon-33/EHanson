@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+When San Francisco banned the McDonalds Happy Meal, Adam Ozimek said that illustrated the slippery slope of paternalism; if we’ll ban that, what won’t we ban? Now the US Feds offer a bigger example:
+The Food and Drug Administration said it had concluded that adding caffeine to alcohol was unsafe and unapproved. … The products … have become a favorite among college students. … Treasury Department officials announced … the companies would be told that the products had been mislabeled and were therefore illegal to be shipped. And the Federal Trade Commission told the companies that marketing the products might violate federal law.
+
+Federal officials were facing increasing pressure to take action in the wake of a series of high-profile incidents. … Students … ended up in the emergency room after consuming the most popular of the drinks, Four Loko, including some with alcohol poisoning. In other incidents, deaths and fatal car crashes have been blamed on the drinks. …
+The drinks … contain high levels of alcohol and caffeine, making it difficult for people to realize how intoxicated they are, experts say. … Consuming one can of Four Loko is the equivalent of drinking as many as five cans of beer and a cup of coffee. …
+Four Loko [said] … “If it were unsafe, popular drinks like rum and colas or Irish coffees . . . would face the same scrutiny that our products recently faced.” … It had previously added multiple warning labels to its cans.
+My college student son assures me caffeine doesn’t keep kids from knowing they are drunk, and it is easier to track drinking with a few big cans than with lots of little shots; they usually limit themselves to one or two cans a night. Those who want to binge can do so just as easily without the cans. But the facts don’t seem to matter.
+The FDA likes to present itself as a paragon of scientific rigor, but there is no rigor here.  No randomized experiments or even careful regressions. Just public pressure to “do something” about vivid examples of “those people” hurting themselves.
+Little remains of the rule of law precept to treat people equally. The exact same chemical combinations which are fine to serve rich old folks at cocktail receptions, are banned in cheap cans from convenience store coolers. Clearly the goal is to target particular vaguely-imagined classes of people, and regulators would be fine with having the law specify the color of the cans, the geographic locations, time of purchase, form of financing, whatever it took to get to “them” without overly bothering “us.”
+And this is where the slippery slope of paternalism leads: naked classism.  When we the good people notice that those distrusted others do things that don’t seem proper to us, well we should just pass whatever laws it takes to make them toe our line.  Surely it wouldn’t be responsible to just let them do stuff we wouldn’t, right?
+Added 8a: mtraven points us to a CDC fact sheet, which cites exactly one randomized experiment with 26 subjects, whose abstract says:
+When compared with the ingestion of alcohol alone, the ingestion of alcohol plus energy drink significantly reduced subjects’ perception of … impairment of motor coordination. However, the ingestion of the energy drink did not significantly reduce the deficits caused by alcohol on objective motor coordination.
+They saw no difference after 30 minutes, but after 120 minutes the perception of altered motor control under alcohol was 15 +/- 15 (0 is none, 100 is max), while under alcohol plus energy drink was 11+/- 12, and under energy drink alone was 6 +/- 12.  They pooled the later two groups to get a 5% significant difference from the first group!  That’s not remotely kosher.
+
+
+title: Naked Classism
+
+date: November 17, 2010 11:00 pm
+

@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+Weak tall-tax support among economists suggests to me this question:
+
+How much does economic theory influence economists’ policy recommendations?
+
+ Or more precisely:
+
+Considering all policy judgments of all economists (made as economists, thinking economic theory relevant), what fraction of judgement variance is explained by the fact that they know a common economic theory (including frameworks, default assumptions, and standard data sources)?
+
+I asked (a version of) this question at lunch yesterday.  Tyler C. suggested about 15%, while Bryan C. thought the number could be much higher for some average of economist judgments.  (Alex T. and I withheld judgment.)  Low estimates suggest economic theory usually says little, or that we are usually unwilling to give it much weight relative to our considerations (legitimate or illegitimate).  
+ I know of two relevant studies.  In one study, economist (and physician) policy choices had no relation to their beliefs on health economics facts.  Similar results were found for labor policy.  This raises two more questions:
+
+Which economists rely more on economic theory, relative to other considerations, for their judgments?
+
+ For example, are libertarians better able to judge economic theory implications because libertarians explicitly reject such implications as a basis for policy?  Also:
+
+For good policy advice, what is the best weight to place on economic theory, versus (individual or cultural) intuitive judgment?
+
+My guess is over 75% weight, so I try to mostly just straightforwardly apply economic theory, adding little personal or cultural judgment.   Which is why I endorsed the tall tax.  What weights are other economists shooting for?
+Added:  That lunch seems to have also inspired Alex’s post today. 
+
+
+title: Economist Judgment
+
+date: December 14, 2007 6:00 am
+

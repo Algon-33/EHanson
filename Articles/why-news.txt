@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Google Alerts has failed me. For years I’d been trusting it to tell me about new news that cites me, and for the last few years it has just not been doing that. So when I happened to go searching for news that mentions me, I found 135 new articles, listed on my press page. I’d probably find more, if I spent a few more hours searching.
+Consider for the moment what would have happened if I had put up a blog post about each of those press articles, as they appeared. Even if I didn’t say much beyond a link and a short quote, some of you would have followed that link. And the sum total of those follows across all 135 articles would be far more than the number of you who today are going to go browsing my press page now that you know it has 135 new entries.
+Similarly, I now have 2829 scholarly citations of my work, most of which appeared while I was doing this blog, and this blog has had 3640 posts, many of which were written by others when this was a group blog. So I might plausibly have doubled the number of my posts on this blog by putting up a post on each paper that cited one of my papers. Or more reasonably, I might have made one post a month listing such articles.
+For both news and academic articles that cite me, I expect readers to pay vastly more attention to them if I announce them soon after they appear than if I give a single link to a set of them a few years later. Yet I don’t think, and I don’t think readers think, that the fundamental interest or importance of these articles declines remotely as fast as reader interest. This is also suggested by the fact that readers follow so many news sources, like blogs, instead of looking at only the ‘best of’ sections of far more sources.
+Bottom line, readers show a strong interest in reading and discussing articles soon after they appear, an interest not explained by an increased fundamental importance of recent articles. Instead a plausible hypothesis is that readers care greatly about reading and talking about the same articles that others will read and talk about, at near the time when those others will do that reading and talking. In substantial part, we like news in order to support talking about the news, and not so much because news communicates important information or insights.
+
+
+title: Why News?
+
+date: August 12, 2015 11:00 am
+

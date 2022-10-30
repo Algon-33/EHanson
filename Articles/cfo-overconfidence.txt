@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+A recent NBER paper:
+
+We test whether top corporate executives are miscalibrated, and whether their miscalibration impacts investment behavior. Over six years, we collect a unique panel of nearly 7,000 observations of probability distributions provided by top financial executives regarding the stock market. Financial executives are miscalibrated: realized market returns are within the executives’ 80% confidence intervals only 38% of the time. We show that companies with overconfident CFOs use lower discount rates to value cash flows, and that they invest more, use more debt, are less likely to pay dividends, are more likely to repurchase shares, and they use proportionally more long-term, as opposed to short-term, debt.
+
+It would be relatively easy to measure overconfidence in CFO candidates, and choose less overconfident ones.  Since this doesn’t happen, I suspect that CEOs, like bosses of software managers, prefer overconfident CFOs.
+
+
+title: CFO Overconfidence
+
+date: January 25, 2008 6:00 am
+

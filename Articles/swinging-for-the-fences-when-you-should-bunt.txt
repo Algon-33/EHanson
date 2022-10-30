@@ -1,0 +1,10 @@
+author: David J. Balan
+
+text: 
+There are probably some kinds of intellectual problems to which only geniuses can make any contribution.  That is, for some problems there may just be no way to break off a nugget of the problem that a non-genius could handle.  But this is not true of most kinds of problems.  Most kinds of problems can be broken up so that the non-geniuses handle the small nuggets and the geniuses handle the big nuggets and/or figure out how to put the nuggets together.  If success and failure could be determined unambiguously, no non-genius would have an incentive to tackle a genius-sized nugget because there would be no (or an unacceptably small) chance of success.  But if failure can be obscured, then it might be worth the while of a non-genius to tackle a genius sized nugget, and just obscure the fact that they didn’t get it right.  This is worse than nothing because it not only makes no contribution but also makes it hard to figure out who really knows what they are talking about.  It seems to me that a lot of this goes on in empirical economics.  It is clear that there are a lot of small nuggets that non-geniuses could work on, like carefully checking the work of genius researchers for robustness, or redoing the genius analysis on lots of other data sets. etc.  But this won’t get you any love, and a bad effort at tackling a big nugget will likely not be easily discovered, because much of the work is very complicated (either of necessity or by design) and no one will ever take the trouble to unpack it, and even if someone did, there would be some remaining ambiguity about who was right and who was wrong.  I know this is a problem for me, I often have a lot of doubt about who to listen to.  I’m not sure whether it introduces any systematic bias.
+
+
+title: Swinging for the Fences when You Should Bunt
+
+date: March 2, 2007 8:00 pm
+

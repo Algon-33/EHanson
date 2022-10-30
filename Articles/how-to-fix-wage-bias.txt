@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+It seems reasonably well documented that tall, slim, pretty people get higher wages.  A 2005 review:
+
+Hamermesh and Biddle found that the "plainness penalty" is 9 percent and that the "beauty premium" is 5 percent after controlling for other variables, such as education and experience. In other words, a person with below-average looks tended to earn 9 percent less per hour, and an above-average person tended to earn 5 percent more per hour than an average-looking person. For the median male in 1996 working fulltime, the respective penalty and premium amounted to approximately $2,600 and $1,400 annually. The corresponding penalty and premium for the median female worker are $2,000 and $1,100. … In a separate paper . …They found evidence of a beauty premium for attorneys that increases with age, at least for the 1971-78 classes. Five years after graduating, a male lawyer from these classes with a beauty rating of one rank above average had approximately 10 percent higher earnings than his counterpart with a rating of one rank below average. Fifteen years after graduation, the beauty premium increased to 12 percent.
+
+  
+(Beauty matters more for men and more for the old!) It also seems that some race and gender combinations get higher wages.  Many claim that these variations are mainly driven by variations in who is more productive at their jobs.  For example, one recent study finds beauty wage premiums are entirely explained by IQ variations.  
+ What if you don’t believe this?  What if you instead think these patterns reflect wage biases, in the sense that groups who tend to be paid more are overpaid, and do not tend to offer proportionally more (profit-type) value to their employers?  Well in this case you think you see a profit opportunity — you think these companies could make more money if they changed their wage policies to put less emphasis on hiring the types of people you think tend to be overpaid.  
+ I see three ways to take advantage of such bias-induced profit opportunities:   
+
+If a company tracks which new hires gave them good value, you could become involved in hiring and gain a track record for suggesting good hires. 
+If a company can be bought out, you could buy it, change its wage policies, wait until it makes more profits from your new policy, and then sell it. 
+You could start a new firm that uses your favored wage policy, wait for profits, and then sell it. 
+
+For example, if you think law firms tend to pay too much for tall white men over short black women, then you could start a law firm hiring short black women lawyers.  
+Of course not everyone is in a position to do this, but surely many people are.  If in fact these biases are real, this should be a far more effective and profitable way to correct those biases than lobbying for court remedies or legislation.  If we want this to be possible, we want more competitive industries, easier to buy and sell firms, and good internal tracking of hire advice.    
+
+
+title: How To Fix Wage Bias
+
+date: January 11, 2008 6:00 am
+

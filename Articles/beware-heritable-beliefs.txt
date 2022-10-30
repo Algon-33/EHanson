@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Some of the differences in our beliefs seem to be heritable.   "The Heritability of Attitutes: A Study of Twins," in Journal of Personality and Social Psychology in 2001, asked 339 twin pairs for their attitudes on 30 topics.  These attitudes had seven common factors, four of which moderate categories of beliefs:   
+
+Life: voluntary euthanasia, abortion on demand, birth control, and organized religion.
+Intellect: books, chess, education, and capitalism
+Equality: open-door immigration, distinct gender roles, racial discrimination, and getting along with others
+Punishment: death penalty for murder,  and castration for sex crimes
+
+Genetic differences explained most of differences in attitudes to life and equality (66% and 55% of the variance respectively), but none (0%) of the attitudes to intellect and punishment.   
+  
+Thus your differing attitudes on  abortion, birth control, immigrants, gender roles, and race are mostly due to your genes, while your attitudes toward education, capitalism and punishment are due to your life experiences.
+Is there a plausible story whereby those with genes encouraging your sort of beliefs on life and equality tend to have more accurate beliefs?   A correlation between IQ and such attitudes might be one such story, but I know of no data supporting this.
+If you can’t find such a story, you should admit that the process that produced these beliefs of yours was random and uncorrelated with the truth on those subjects.   You should thus reject those beliefs as biased.   For more on the subject of rejecting arbitrary belief origins see my Theory and Decision paper "Uncommon Priors Require Origin Disputes.
+
+
+title: Beware Heritable Beliefs
+
+date: November 22, 2006 6:00 am
+

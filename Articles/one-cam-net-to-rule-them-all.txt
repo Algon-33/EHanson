@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+The costs of surveillance hardware is falling rapidly. Soon it will be very cheap to install dense networks of cameras and microphones, to record what everyone does and says. (And the potential of vector microphones is neglected and huge.) So which networks are installed and used where will mainly come down to property rights – who is allowed to install and operate such networks where? And property rights will depend a lot on enforcement costs – how easy is it to detect and punish violations?
+Governments who want to install and operate such networks would seem to face few obstacles. Decentralized attempts to sabotage those nets face the problem that the nets makes it easy to identify and track saboteurs.
+What about private networks? Clearly they could work, if the government fully supported them. But what if the government opposes them? Some have argued that it would be too hard to enforce rules against unapproved surveillance networks. They argue that if everyone has a cam and mic in their phone, eyeglasses, etc., the government can’t control them all. But it is one thing to have a camera and mic available, and quite another thing to make those function effectively as part of a shared surveillance network.
+Imagine that some community tried to pool their cameras, mics, etc. to make a service that continually broadcasted the sight and sounds from a large set of locations. You could go to their website, pick a location, and then see and hear what was happening there now. And imagine that the authorities wanted to stop this, at least for particular times and locations. What happens then?
+If the authorities can go to this same website, they can not only see what others can see, they can also use that view to figure out where the cams and mics are. Even if those cams and mics are moving around, a continual broadcast should make it easy to find and disable them.
+So how can private surveillance networks function in the face of official disapproval? One approach is to only broadcast with a long delay. The delay must be long enough so one can afford to move or replace the cam/mics without revealing who helped. Another approach is to only rarely offer widespread access – the net turns on only for rare special events. A third approach is to process the raw cam/mic info into new versions that hide their exact location origins, but still convince outsiders of their accuracy. That seems hard to me, but maybe it could work eventually.
+All of these approaches seem to result in substantial reductions in the value of the surveillance info offered, and substantial increases in the cost to maintain the net. I conclude that governments can give themselves big cost and value advantages in the use of surveillance networks. If they choose, governments can see and hear much more than can the rest of us.
+
+
+title: One Cam Net To Rule Them All?
+
+date: January 9, 2014 11:07 am
+

@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Cosmologists tend to think that the physics we see around us is not universal. There is instead a vast “landscape” of possible ways a local physics could be, and different (large far away) places in the universe embody or express these different physics.
+When adjacent space-time places have different local physics, there must be a common “meta” physics that describes their border. This meta-physics will say how often places of one type lead to places of other types nearby, including “ends” where nothing is nearby.
+Let us distinguish two special kinds of places:
+
+Gardens support life and possibly civilization.
+Fertile places tend to lead to more fertile places nearby.
+
+The existence of any fertile place implies an expected infinity of connected fertile places. Thus when meta-physics maintains a one-to-one state map across a time dimension, there should be no finite upper bound to the entropy of a fertile place. Thus the entropy at a fertile place is always vastly lower than is possible, and entropy would increase in some local time direction. Since this low entropy should infect adjacent places, non-fertile places “close enough” to fertile ones should also have entropy increasing away from the fertile side. Thus we can explain our local “arrow of time” by assuming that our place is connected to a fertile place in our distant past.
+Is our garden fertile? If both gardens and fertile places are rare, and these properties are not very correlated, then fertile gardens would be especially rare – it would be quite unlikely that our garden is fertile. In this case, while our universe is infinite, our future is finite, and will see and influence only a finite amount before our space and entropy run out.
+Cosmologists today, however, tend to think that fertile places are not very rare. They expect places with a “positive vacuum energy” and a “low vacuum decay rate” to generate many “baby universes”, and that many of these baby universes also satisfy this description. In fact, they guess that our place here satisfies this description, and so is fertile. (This is, basically, Sean Carroll’s account of our arrow of time.)
+But a whole lot of guess work goes into all this. For example, it could be that vacuum decay rates are much higher, and that baby-universe-generating rates are much lower, than they’ve guessed. My guess is that this property of being fertile is rarer than cosmologists now guess, which lowers the chance of our garden being fertile.
+A correlation between being a garden and being fertile might result if civilizations tended to work to increase the rate at which their places lead to more places nearby. But it might be that for most gardens there isn’s much civilizations can do.  In which case if fertile places are rare, then most gardens are not fertile, our future is finite.
+Finally, even if our place is fertile, it might be that the border between our place and other different places has no “hair” letting us send specific influences from here to there. In this case, our future influence would still be finite.
+
+
+title: Are Gardens Fertile?
+
+date: March 8, 2011 10:40 pm
+

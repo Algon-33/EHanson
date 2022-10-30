@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+While we tend to be optimistic about our abilities, we are pessimistic about our luck:
+
+We analyze the answers of a sample of 1,540 individuals to the following question "Imagine that a coin will be flipped 10 times. Each time, if heads, you win 10C. How many times do you think that you will win?" The average answer is surprisingly about 3.9 which is below the average 5, and we interpret this as a pessimistic bias. We find that women are more "pessimistic" than men, as are old people relative to young.
+
+Added:  Benja Fallenstein notes "if there is no [personal] gain associated to the coin tossing, the average [guess] is 4.9, and 90% answer 5.
+
+
+title: Luck Pessimism
+
+date: November 28, 2008 6:00 am
+

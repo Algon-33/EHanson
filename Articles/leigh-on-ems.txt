@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Economist turned politician Andrew Leigh writes on “Five science breakthroughs that will transform politics“:
+In this article, I’ve focused on ideas that are just over the horizon for most of us. So green roofs, LED lights, genetically modified crops, 3D printers and geo-engineering are important, but improvements are likely to be steady rather than seismic. Instead, I’ve chosen “disruptive ideas” that could radically affect the way our society operates. … 1. Driverless electric cars … 2. Space elevators …  3. Nanotechnology … 4. Ubiquitous Data … 5. Machine Intelligence …
+He has many thoughtful policy comments on the first four topics, but when he gets to machine intelligence, he throws up his hands:
+A machine that can emulate the human brain would challenge all occupations, from hairdressers to architects. In the case of this science breakthrough, it’s hard to even begin to think how policymakers would respond. Do we limit how many times you can replicate yourself? If we have a machine that contains your memories and can think like you, shall we treat it like a slave or pay it a wage? Do you have the right to turn off copies of yourself? Will this breakthrough cause wages to fall? If so, how do we make sure that everyone has some capital to get by? After thinking about Hanson’s work for a few weeks, I’ve decided that this is one breakthrough for which I don’t want to be around.
+Leigh’s attitude makes sense to me. After spending years getting expert in thinking about good policy for this our industrial era, Leigh can see that ems are a whole new era where policy must be re-thought, starting back from basics. He doesn’t want to do that – he’d rather build on the expertise he has acquired to attack our many important industrial era problems. I hope he succeeds at that.
+I also hope that when people like me do think through em policy more carefully, people with Leigh’s good sense and connections will listen.
+
+
+title: Leigh on Ems
+
+date: April 21, 2012 9:20 am
+

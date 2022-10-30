@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+“Why am I late home from work? Terrible traffic slowed everyone down.”
+ “Why am I early home from work? I wanted to spend more time with you.”
+We try to make ourselves look good. So we try to associate closely with good events, and distance ourselves more from bad events. Specifically, we prefer to explain bad events near us in terms of distant causes over which we had little influence, but explain good events near us in terms of our good long-lasting features, such as our authenticity, loyalty, creativity, or intelligence.
+For example, managers are reluctant to adopt prediction markets for project deadlines, because it takes away their favorite excuse for failure: “The thing that delayed this project was a rare disaster that came out of left field; no one could have seen it coming.” Note that distant causes work best as excuses if they are rare and unpredictable. Otherwise there comes the question of why one didn’t do more to prevent or mitigate the distant influence.
+As another example, when a class of people is doing poorly and we are reluctant to blame them, we prefer explanations far from their choices. So instead of blaming their self-control, laziness, or intelligence, we prefer to blame capitalism, general malaise, discrimination, foreigners, or automation. Recent over-emphasis on a sudden burst of automation as an unemployment cause comes in part from a perfect storm of not wanting to blame low-skilled workers, and wanting to brag about the technical prowess of groups we feel associated with.
+Why don’t we blame close rivals more often, instead of distant causes? We do blame rivals sometimes, but if they retaliate by blaming us we risk ending up associated with a lot of blame. Better to keep the peace and both blame outsiders.
+
+
+title: The Good-Near Bad-Far Bias
+
+date: December 8, 2016 2:15 pm
+

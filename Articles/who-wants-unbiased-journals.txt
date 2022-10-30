@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Five years ago I proposed result-blind peer review, and I revised it later. Brendan Nyham just posted a nice long review of many such proposals, including a recent test at the journal Archives of Internal Medicine:
+The … alternate review process was applied to the editorial review that occurred prior to outside peer review. … Of the 46 articles examined, 28 were positive, and 18 were negative. … Ultimately, 36 of the 46 articles (>77%) were rejected. … Editors were consistent in their assessment of a manuscript in both steps of the review process in over 77% of cases. … Over 7% of positive articles benefited from editors changing their minds between steps 1 and 2 of the alternate review process, deciding to push forward with peer review after reading the results. By contrast, … this never occurred with the negative studies. Indeed, 1 negative study, which was originally queued for peer review after an editor’s examination of the introduction and “Methods” section, was removed from such consideration after the results were made available. (more)
+So even with two stage review, journal editors are tempted to publish papers with weak methods but positive results. And why not – unless important customers insisted, why would a journal handicap itself by committing itself to not publish such papers, which bring more fame and prestige to the journal.
+Journal customers include universities who tenure professors who publish in prestigious journals, and grant givers who prefer grantees who publish similarly. But why should these customers handicap themselves – they also win by affiliating with those who publish papers with weak methods but positive results.
+I’ve suggested that academia functions primarily to credential people as impressive and interesting in certain ways, so outsiders, like students and patron, can gain prestige by affiliating with them. If so, and if those who publish weak-method positive-results are in fact more impressive and interesting than those who publish stronger-method negative-results, there is little prospect to get rid of this publication bias.
+What is possible is to augment publications with betting market prices estimating the chance each result will be upheld by future research. This would let readers get unbiased estimates on the reliability of research results. Alas, it seems there is no customer willing to pay extra to get such reliability estimates. Most everyone involved in the process mainly cares about signals of impressiveness; few care much about which research results are actually true.
+
+
+title: Who Wants Unbiased Journals?
+
+date: April 27, 2012 11:00 pm
+

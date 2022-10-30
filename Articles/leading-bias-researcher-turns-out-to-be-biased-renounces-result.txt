@@ -1,0 +1,15 @@
+author: Paul Gowder
+
+text: 
+A few days ago, Robin posted on the Edge’s annual question, which this year is about the changing of minds.  One of the participants (a social scientist who undoubtedly knows lots) is Daniel Kahneman.  It’s impossible to overstate Kahneman’s eminence.  He’s unquestionably one of a handful of top researchers ever, and arguably the most important yet alive, on the subjects that make up the theme of this very blog.  In addition to being one of the inventors of the "heuristics and biases" research program, as well as prospect theory, he also won the 2002 "Nobel Prize" in economics.  
+Yet he, too, is not immune from motivated error.  A friend and colleague recently forwarded Kahneman’s Edge answer to me.  Apparently, Kahneman himself was so captivated by the lure of a neat theory to handle some difficulties in hedonic experience that he managed to misinterpret the first set of results!
+
+ Our hypothesis was that differences in life circumstances would have more impact on this measure than on life satisfaction.  We were so convinced that when we got our first batch of data, comparing teachers in top-rated schools to teachers in inferior schools, we actually misread the results as confirming our hypothesis.  In fact, they showed the opposite: the groups of teachers differed more in their work satisfaction than in their affective experience at work. This was the first of many such findings: income, marital status and education all influence experienced happiness less than satisfaction, and we could show that the difference is not a statistical artifact.  Measuring experienced happiness turned out to be interesting and useful, but not in the way we had expected.  We had simply been wrong. (Emphasis added)  
+
+Social scientists, beware.  If this can happen to Daniel Kahneman, it can happen to anyone.
+
+
+title: Leading bias researcher turns out to be… biased, renounces result
+
+date: January 13, 2008 6:00 am
+

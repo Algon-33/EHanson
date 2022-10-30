@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Speculators were blamed for rising oil prices a few months back, but not for recent falling oil prices.  Short-selling speculators were recently blamed for falling stock prices, and actually banned for a few weeks, but no one proposed banning buying speculators two years ago when stocks were rising.  Now Steven Pearlstein of the Post wants to close financial markets for a week:
+
+What we need to do is to stop making things worse by continuing to over-rely on financial markets and financial institutions that have proven to be incapable of performing their core missions: getting capital to where it needs to go and pricing that capital in a way that reflects the risks and underlying economic values. We have to stop digging. Another week like this one, and there won’t be much left to rescue.  
+To begin, the markets could use a timeout just about now, something that lasts longer than a weekend and gives policymakers around the world the chance to get a good nice sleep and evaluate their options without feeling like they have to respond to every movement flashing across their Bloomberg screens.  It would allow some time for passions to cool and for real investors to regain control of markets now dominated by the computerized short-term trading strategies of hedge funds and hot-shot money managers desperate to recoup some of their losses. 
+
+I can’t imagine Pearlstein suggesting closing newspapers for a week, or banning them from printing bad finance news for a few weeks.  So Pearlstein doesn’t get it:  financial markets are news institutions, just like newspapers!  The fact that newspapers report a lot less news on this crisis on weekends shows that most crisis news now comes via financial markets.  Don’t blame the messenger for telling you bad news; blame those who caused the bad news, and who keep you from learning sooner.
+  
+ Aside from times when firms issue stock or buy it back, stock trades do not change a firm’s total capital; they just gives us news about its future prospects.  Sure some of of these stock "reporters" can have incentives to mislead us, but newspaper reporters can also have incentives to mislead us.  Systems for detecting and punishing misleading reporters are far stronger and more effective in financial markets than in newspapers. 
+ Yes both kinds of reporters are human, and can succumb to fear, herd mentalities, and other human biases.  But I see no authority we could trust to ban or overrule news on this basis – better to let those who see our mistakes early be rewarded for saying so within our news institutions.  
+ Yes financial prices do often effect more than just finance traders, but that is almost entirely because financial prices contain valuable news, and we have set up our institutions to respond to that news in many ways.  If some of these responses are poorly designed, then let’s fix them, but don’t blame the news itself.  
+ To the contrary, we should want even more similar news institutions to inform us on topics, like public policy, where current financial markets do not speak clearly.  That is the prediction market vision which I’ve been pursuing for two decades.  
+ It turns out our banking system was in bad shape, and now we are finally learning just how bad.  Instead of sticking our head in the sand to block bad news, we should be grateful to those who have finally told us, be eager to learn more quickly, and be angry with those who kept us from learning sooner.  But don’t ban news, bad or good; we need news now, more than ever.  
+
+
+title: Grateful For Bad News
+
+date: October 12, 2008 12:10 pm
+

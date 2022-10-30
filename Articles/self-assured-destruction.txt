@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+If you thought mutually assured destruction was strange, wrap your mind around this:
+An actual doomsday device—a real, functioning version of the ultimate weapon, [was] always presumed to exist only as a fantasy of apocalypse-obsessed science fiction writers and paranoid über-hawks. … Turns out Yarynich, a 30-year veteran of the Soviet Strategic Rocket Forces and Soviet General Staff, helped build one. The point of the system, he explains, was to guarantee an automatic Soviet response to an American nuclear strike. Even if the US crippled the USSR with a surprise attack, the Soviets could still hit back. It wouldn’t matter if the US blew up the Kremlin, took out the defense ministry, severed the communications network, and killed everyone with stars on their shoulders. Ground-based sensors would detect that a devastating blow had been struck and a counterattack would be launched. …
+The Russians still won’t discuss it, and Americans at the highest levels—including former top officials at the State Department and White House—say they’ve never heard of it. … So why didn’t the Soviets tell the world, or at least the White House, about it? … In fact, the Soviet military didn’t even inform its own civilian arms negotiators. … The Soviets had taken game theory one step further than Kubrick, Szilard, and everyone else: They built a system to deter themselves. … By guaranteeing that Moscow could hit back, Perimeter was actually designed to keep an overeager Soviet military or civilian leader from launching prematurely during a crisis. … No matter what was going to happen, there still would be revenge.
+
+
+title: Self Assured Destruction
+
+date: October 7, 2009 12:05 am
+

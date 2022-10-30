@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+I talked for seven minutes this Wednesday at “Tap The Collective“, after six other speakers also talked for seven minutes each on various forms of “collective intelligence.”  I tried to put prediction markets (and similar mechanisms) in the context of other approaches by saying that other approaches often work very well when either:
+
+The info people contribute is verifiable, or
+The conclusions people draw are uncontroversial.
+
+In these cases good tools, representations, interfaces, etc. can greatly help people join together in a spirit of constructive camaraderie to build documents, analyses, plans, etc.   People then appreciate the additions and edits of others in building a common product that all will admire.  False or misleading contributions can be quickly detected and eliminated.
+The big problems for most collective intelligence tools come when the topics are controversial, and the contributions involve a lot of judgment.  For example, consider folks elaborating a schedule of which projects will be finished when, or designing a budget of which potential projects shall be funded.  Here folks are often justly concerned that many “contributions” will be self-serving attempts to make them or their groups look better or gain more resources.
+Prediction markets were designed exactly these sort of hard problems – contributors know they face a risk of losing as well as gaining from their contributions.  So folks think a little more carefully about what they might say, and choose not to speak when they doubt they have something useful to say.  Prediction markets allow organizations to tap the collective to aggregate info on their most important and controversial topics.  But of course they aren’t the only or best way to support collaboration on all topics.
+Cross-posted at Consensus Point.
+
+
+title: Prediction Markets As Collective Intelligence
+
+date: September 4, 2009 10:00 pm
+

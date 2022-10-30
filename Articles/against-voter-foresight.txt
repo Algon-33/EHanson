@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+No tech is created unless someone imagines it.  But how many imagine it, and for how long?  Some techs are heralded decades in advance, with wide public discussion on possible implications.  Other techs are only imagined by a few folks just before they are introduced.  You might think it obvious that humanity does better when techs are imagined and widely discussed well ahead of time, but I have my doubts.
+A good indicator that you think someone is rather irrational on topic is: you are reluctant to give them more info on it.  When someone’s thoughts are especially messed up, you may well think they’d be better of not knowing more about it. They “can’t handle the truth”, you think.  For example, if someone were especially irrational regarding an ex-lover, you might prefer they not hear any news about this ex-lover.  Out of sight, out of mind, is what you’d be hoping for.
+Unfortuately, my best guess is that public opinion is this messed up regarding techs that won’t appear for decades. Typically, when a public debate begins decades in advance of a potential new tech, it becomes a far-minded symbolic battle ground, where folks express grand positions on family values, materialism, inequality, nationalism, etc. The net effect is usually to inhibit the useful application of such techs. In contrast, when a tech appears mostly out of the blue, people tend to focus on whether they’d actually like to use it now.
+For example, the pill and the web were both largely unheralded, and were thus quickly adopted and integrated into our lives.  But if folks had seen thirty years in advance how the pill would change sexual practices, or how easily folks would give up privacy for web access, such techs might have been blocked or more heavily regulated, to our detriment.
+IVF, genetic engineering, and nanotech, in contrast, were hotly debated well in advance of their feasibility.  Such debates often were framed symbolically in ways quite at odds from typical practical application.
+Yes new techs can introduce market failures, and yes with foresight and warning a rational public could mitigate such failures, to its overall benefit.  But the biggest market failure regarding new techs is insufficient incentives to develop them. It can be good to have potential-developers envision techs ahead of time, so that they are inspired to do such developing.  But wider awareness and concern tends to be hijacked into far symbolic land, where it mostly just gets in the way.
+Alas this suggests that I should try not to make my speculations about the social implications of future tech too accessible to a wider audience.  The chance of inspiring potential devleopers must be weighed against the chance of scaring everyone else.  Decisions markets about how to deal with potential future techs might allow us to better anticipate and prepare for such techs, because greedy contributors would be in a more realistic near mode.  But without such markets, I should watch what I say.
+
+
+title: Against Voter Foresight
+
+date: January 13, 2011 12:50 pm
+

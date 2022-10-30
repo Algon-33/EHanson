@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+We choose many products mainly as a way to affiliate with its other customers – we often care more about this affiliation than about personally enjoying the product!  My evidence for this outrageous claim? Reading a negative online review by a high status person makes us more likely to buy the product:
+In our recent … paper “Towards a Theory Model for Product Search”, we noticed that demand for a hotel increases if the reviews on TripAdvisor and Travelocity are well-written, without spelling errors; this holds no matter if the review is positive or negative. In our TKDE paper “Estimating the Helpfulness and Economic Impact of Product Reviews: Mining Text and Reviewer Characteristics”, we observed similar trends for products sold and reviewed on Amazon.com. (more; HT Slate via Buck Farmer)
+You might know that your mind is capable of both truth-oriented investigation and of delusory pursuit of other goals, but you might think that you can roughly tell when you are in which mode. But if you thought that a negative review makes you like a product less, well then you are more deluded than you realize.
+
+
+title: Who Beats What
+
+date: May 21, 2011 10:00 am
+

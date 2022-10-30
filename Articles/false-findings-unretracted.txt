@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+A recent Wall Street Journal article:
+
+Dr. Ioannidis said "A new claim about a research finding is more likely to be false than true."  The hotter the field of research the more likely its published findings should be viewed skeptically, he determined. Take the discovery that the risk of disease may vary between men and women, depending on their genes.  Studies have prominently reported such sex differences for hypertension, schizophrenia and multiple sclerosis, as well as lung cancer and heart attacks. In research published last month in the Journal of the American Medical Association, Dr. Ioannidis and his colleagues analyzed 432 published research claims concerning gender and genes.  Upon closer scrutiny, almost none of them held up. Only one was replicated. … His 2005 essay "Why Most Published Research Findings Are False" remains the most downloaded technical paper [at] the journal PLoS Medicine …  Another PLoS Medicine article … demonstrated that the likelihood of a published research result being true increases when that finding has been repeatedly replicated in multiple studies. … Earlier this year, informatics expert Murat Cokol and his colleagues at Columbia University sorted through 9.4 million research papers at the U.S. National Library of Medicine published from 1950 through 2004 in 4,000 journals. By raw count, just 596 had been formally retracted, Dr. Cokol reported.
+
+Is anyone still surprised to hear these things?   Hat tip to Giancarlo Ibargaen. 
+
+
+title: False Findings, Unretracted
+
+date: September 28, 2007 6:00 am
+

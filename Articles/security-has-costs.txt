@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Technical systems are often insecure, in that they allow unauthorized access and control. While strong security is usually feasible if designed in carefully from the start, such systems are usually made fast on the cheap. So they usually ignore security at first, and then later address it as an afterthought, which as a result becomes a crude ongoing struggle to patch holes as fast as holes are made or discovered.
+The more complex a system is, the more different other systems it is adapted to, the more different organizations that share a system, and the more that such systems are pushed to the edge of technical or financial feasibility, the more likely that related security is full of holes.
+A dramatic example of this is cell phone security. Most anyone in the world can use your cell phone to find out where your phone is, and hence where you are. And there’s not much anyone is going to do about this anytime soon. From today’s Post:
+The tracking technology takes advantage of the lax security of SS7, a global network that cellular carriers use to communicate with one another when directing calls, texts and Internet data.
+The system was built decades ago, when only a few large carriers controlled the bulk of global phone traffic. Now thousands of companies use SS7 to provide services to billions of phones and other mobile devices, security experts say. All of these companies have access to the network and can send queries to other companies on the SS7 system, making the entire network more vulnerable to exploitation. Any one of these companies could share its access with others, including makers of surveillance systems.
+The tracking systems use queries sent over the SS7 network to ask carriers what cell tower a customer has used most recently. Carriers configure their systems to transmit such information only to trusted companies that need it to direct calls or other telecommunications services to customers. But the protections against unintended access are weak and easily defeated. …
+Carriers can attempt to block these SS7 queries but rarely do so successfully, experts say, amid the massive data exchanges coursing through global telecommunications networks. P1 Security, a research firm in Paris, has been testing one query commonly used for surveillance, called an “Any Time Interrogation” query, that prompts a carrier to report the location of an individual customer. Of the carriers tested so far, 75 percent responded to “Any Time Interrogation” queries by providing location data on their customers. …
+The GSMA, a London-based trade group that represents carriers and equipment manufacturers, said it was not aware of the existence of tracking systems that use SS7 queries, but it acknowledged serious security issues with the network, which is slated to be gradually replaced over the next decade because of a growing list of security and technical shortcomings.
+…
+As some carriers tightened their defenses, surveillance industry researchers developed even more effective ways to collect data from SS7 networks. The advanced systems now being marketed offer more-precise location information on targets and are harder for carriers to detect or defeat.
+Telecommunications experts say networks have become so complex that implementing new security measures to defend against these surveillance systems could cost billions of dollars and hurt the functioning of basic services, such as routing calls, texts and Internet to customers. “These systems are massive. And they’re running close to capacity all the time, and to make changes to how they interact with hundreds or thousands of phones is really risky.” …
+Companies that market SS7 tracking systems recommend using them in tandem with “IMSI catchers,” increasingly common surveillance devices that use cellular signals collected directly from the air to intercept calls and Internet traffic, send fake texts, install spyware on a phone, and determine precise locations. IMSI catchers … can home in on somebody a mile or two away but are useless if a target’s general location is not known. SS7 tracking systems solve that problem by locating the general area of a target so that IMSI catchers can be deployed effectively. (more)
+
+
+title: Security Has Costs
+
+date: August 25, 2014 8:50 am
+

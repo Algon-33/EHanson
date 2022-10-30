@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Yet more wisdom from Hard Facts:
+Bloodletting was used routinely until 1836 when French physician Pierre Louis conducted one of the first clinical trials in medicine.  Louis compared pneumonia patients whom he treated with aggressive bloodletting and those he treated without it.  Louis found that bloodletting was linked to far more deaths. … George Washington, the first president of the United States, … died two days after a doctor treated his sore throat by draining almost five pints of blood.  … A remarkably high percentage of medical decisions still reflect the often-obsolete practices that a doctor learned in medical school, the ingrained traditions of a hospital or region. (p.13) …
+What she thought was a straightforward study of how leader and coworker relationships influence errors in eight nursing units. … [She was] flabbergasted when nurse questionnaires showed that the units with the best leadership and best coworker relationships reported making 10 times more errors than the worst. … Better units reported more errors because people felt psychologically safe to do so. …
+Nurses whom doctors and administrators saw as most talented unwittingly caused the same mistakes to happen over and over.  These “ideal” nurses quietly adjust to inadequate materials without complaint, silently correct others’ mistakes without confronting error-makers, create the impression that they never fail, and find waits to quietly do the job without questioning flawed practices.  These nurses get sterling evaluations, but their silence and ability disguise and work around problems undermine orgainzational learning.  (pp105,106)
+Clearly most med errors are not reported, and docs reward nurses more for covering doc asses than for improving patient outcomes.
+
+
+title: Hard Facts: Med
+
+date: March 10, 2010 1:00 am
+

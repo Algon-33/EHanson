@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+From a recent book review:
+Jonah Lehrer's mission in The Decisive Moment is to help us determine when to override our instincts and when to let them run. … One of Lehrer's interesting recommendations [is]: trust your emotions in situations where you have had a lot of experience, since this is when [your brain is] … best equipped to warn you of any deviations from their established patterns. In novel situations, on the other hand, such as when playing a new game or considering a risk to your health, it is a good idea to take a step back and do the maths, even though your emotional brain will tell you it knows better.
+Macroeconomists have seen lots of precedents for this economic crisis; this isn't too far out of line from what they've seen before elsewhere. I've heard some macro folk complain that bigshot macroeconomist advice for us-now differs substantially from what they've written about there-then, i.e., about how others should have dealt with similar problems at other times.  Apparently they give different advice when a crisis is seen as "near" versus "far."  Which advice is better? 
+The quote above suggests this is like asking if you should drink before competing in a darts championship. If you've always practiced darts while drunk, you may be better at darts when drunk than sober; in which case you should compete drunk. Similarly, if macroeconomists have developed most of their expertise while considering events in far mode, they might give better advice when in far than near mode.  In which case we are getting bad advice. 
+Perhaps macroeconomists would give even better advice if they had trained in a near mode, just as you might compete better at darts if you'd trained sober.  (At least they might if my far-image near-decision speculation is correct.)  But once the training mode has been chosen, and it is time to act, that option may be no longer available. 
+
+
+title: Near-Far Like Drunk Darts?
+
+date: February 28, 2009 11:00 pm
+

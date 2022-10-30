@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Yesterday the weather was unseasonably warm and pleasant here in Virginia. I opened the windows at home, and felt pleased by the fresh air. I thought I was happier because of the nice weather.
+A new paper just took an unusually detailed look at how 11,000 diverse Australians’ answers to the question “‘All things considered, how satisfied are you with your life?” related to the weather at the 96,000 times and places they were asked. The authors found no effects when the word “life” was replaced with any of these: “job overall, employment opportunities, financial situation, home in which you live, feel part of local community, neighbourhood in which you live, how safe you feel, your health, amount of free time.”
+But the authors did find effects related to that overall life satisfaction version. There were no effects of rain/snow, temperature, humidity, or windspeed, but people seemed a bit happier on days that were overall sunnier, and happier with lower air pressure, “typically associated with clouds, rain and strong winds.” Men had three times the preference for sunny weather, and when people moved to very different climates, that climate change had no effect on their happiness, controlling for weather at the time of their answer!
+The authors suggest that life satisfaction answers differ from the others because “cognitive demands of assessing overall life satisfaction lead respondents to apply heuristics that are based on contemporaneous transient factors.” I think this means that we use weather to guess our happiness, when in fact we aren’t any happier. The authors support this by noting that these differences reduce as people get more experienced answering surveys, though I didn’t find that result very compelling.
+Other interesting results include that people report being happier when someone else is sitting next to them while they answer the survey, that they get progressively less happy over the course of a day, and that they are no happier on weekends. Married people were happier, but people with more dependents were less happy. Middle-aged folks were less happy, and also it seems were mid-education-level folks, controlling for age and income. Here is the paper’s main regression:
+
+
+
+title: Happy Weather
+
+date: December 15, 2015 11:30 am
+

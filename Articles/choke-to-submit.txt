@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+An old western movie truism (e.g., my fav Unforgiven) says good gunfighters are mainly those calm enough to aim straight.  This may seem trite, but I can attest that a big success factor in life is just being calm enough to do the obvious when it really matters.  A new Review of Economic Studies paper (ungated here) shows humans really do choke: 
+To test whether very high monetary rewards can decrease performance, we conducted a set of experiments in the U.S. and in India in which subjects worked on different tasks and received performance-contingent payments that varied in amount from small to very large relative to their typical levels of pay. With some important exceptions, very high reward levels had a detrimental effect on performance.
+For example, rural Indians paid 4, 40, or 400 Rupees for doing well on a mental task did much worse when paid 400 (above one month's spending). Subjects did worse when they were watched, but better when the task was mostly physical (just pushing keys).  
+So why did humans evolve to choke?  And why are we so terrified of, and bad at, public speaking?  And I've heard: 
+  
+When the US started training military folks from Mideast nation X, they found lower ranked folks would dumb down their performance so as not to risk out-performing higher ranked folks in the same exercise. Ranks had to be segregated for training to be effective. 
+I suspect that for our distant ancestors, it was dangerous to do well on an important mental task in front of a large group, if your performance could be clearly compared to other members.  Doing so in a calm confident manner was likely considered a bid for high status.  If you did not have the abilities and allies to make good on that bid, you might get squashed by others resisting your bid.  So it was often more important to show a submissive low-status attitude than to do well on such things.
+If so, it may be less functional to choke today, if others can't coordinate as well to retaliate.  It might make sense to encourage folks to have more confidence than their instincts suggest.  And it might make sense to reframe our choices, to avoid thinking of them as so large as to induce choking.  
+But this is all just a guess; any other theories to consider?
+Added: I first overcame my fear of public speaking by thinking the audience was beneath me, and my fear of asking women out by thinking they were not as far above me as I had previously thought.
+At Less Wrong I followed up on this post re Rationality Toughness Tests.
+
+
+title: Choke To Submit?
+
+date: April 5, 2009 7:30 pm
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+(I paraphrase.)
+After a year of Robin pestering co-blogger Eliezer "Can we talking about singularity on the blog now, can we?" and Eliezer saying "Not yet," Robin speaks up on the occasion of his IEEE Spectrum singularity article:
+Robin:  Hey Eliezer, I see you’ve been talking for years about an AI-singularity.  Have a look; I’ve analyzed the history of previous "singularities" (as Vinge defines the term) and can use that to forecast the timing, speedup, and transition inequalities of the next singularity.  I can also find a tech that looks pretty likely to appear within the predicted time-frame, and an economic analysis suggests it could plausibly deliver the forecasted speedup.  And this tech is a kind of AI!   Eliezer:  I really don’t have time to talk, but you are looking at untrustworthy surface analogies, not reliable deep causes.  My deep insight is that optimization processes are more powerful the smaller and better is their protected meta-level, and history is divided into epochs according to the arrival of new long-term optimization processes, and to a lesser extent their meta-level innovations, after each of which ordinary innovation rates speed up.  The two optimization processes so far were natural selection and cultured brains, and key meta-innovations were cells, sex, writing, and scientific thinking. I’m talking about a future singularity due to a transistor-based machine with no (and therefore the best) protected meta-level.  My deep insight suggests this would have an extremely large speedup and transition inequality.  
+Robin:  This history of when innovation rates sped up by how much just doesn’t seem to support your claim that the strongest speedups are caused by and coincide with new optimization processes, and to a lesser extent protected meta-level innovations.  There is some correlation, but it seems weak.  And since you don’t argue for a timing for your postulated singularity, why can’t we think yours will happen after the singularity I outline?  
+Eliezer:  Sorry, no time to talk.
+To be continued.  
+
+
+title: The Conversation So Far
+
+date: June 28, 2008 6:00 am
+

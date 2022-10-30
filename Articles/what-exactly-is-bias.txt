@@ -1,0 +1,18 @@
+author: Nick Bostrom
+
+text: 
+Bias is something bad from an epistemological point of view, but what exactly is it and how is it distinct from other kinds of epistemological error? 
+Let’s start with one remark Robin made in passing: "Bias is just avoidable systematic error." One big question here is what makes a systematic error avoidable. For example, suppose somebody has never heard about overconfidence bias. When such a person (erroneously) rates herself above average on most dimensions without strong specific evidence, is she making an avoidable error?
+It seems to be avoidable only in the sense that there is information which she doesn’t have but which she could get which would make it possible for her to correct her beliefs about her own abilities. But in this sense, we would be biased whenever we lack some piece of information that bears on some broad domain. Socractes would be biased merely by being ignorant of evolution theory, neuroscience, physics, etc. This seems too broad.
+Conversely, if she is systematically overestimating her own abilities, it seems she is biased even if these errors are unavoidable. Suppose she does learn about overconfidence bias, but for some deep psychological reasons simply cannot shake off the illusion. The error is systematic and unavoidable, yet I’d say it is a bias. 
+Here is an alternative explication that I’d like to put forward tentatively for discussion: A bias is a non-rational factor that systematically pushes one’s beliefs in some domain in one direction.
+  
+If we go with this, then to show somebody is biased it would be neither sufficient nor necessary to show that she is systematically in error in some domain (although showing that would often be inconclusive evidence in favor of the hypothesis that she is biased).
+It is not sufficient, because it would also have to be shown that the systematic error results from the influence of some non-rational factor (as opposed, for instance, to some high-level assumption that rationally seems plausible to the subject, based on her evidence, but happens to be wrong).
+It is not necessary, because somebody could be subject to the influence of a non-rational factor that systematically pushes her beliefs in some domain in a direction which fortuituosly makes her beliefs more accurate. Somebody might think highly of her own abilities as a result of a psychological mechanism that has evolved for signalling purposes, yet in some case it might happen to result in correct beliefs (for somebody who happens to be above average on most dimensions) even though she has no evidence for these beliefs.  
+
+
+title: What exactly is bias?
+
+date: November 25, 2006 1:50 pm
+

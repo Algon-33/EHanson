@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Via Bryan Caplan’s Myth of the Rational Voter (p.27), Scott Althaus reviews what a better informed U.S. public would think:
+
+Fully informed opinion on foreign policy issues is relatively more interventionist than surveyed opinion but slightly more dovish when it comes to the use and maintenance of military power. … fully informed opinion …  hold[s] more progressive attributives on a wide variety of social policy topics, particularly those framed as legal issues. …. [is] more ideologically conservative on the scope and applications of government power. … [it] tends to be fiscally conservative when it comes to expanding domestic programs, to prefer free market solutions over government intervention to solve policy problems, to be less supportive of additional government intervention to protect the environment, and to prefer a smaller and less powerful federal government.  
+
+ Bryan elaborates:
+
+If the public’s knowledge of politics magically increased, isolationism would be less popular.  … They want to be involved in world affairs, but see an greater downside of outright war.  … a more knowledgeable public would be more pro-choice, more supportive of  gay rights, and more opposed to prayer in school.  … Beliefs about welfare and affirmative action fit the same patterns: While political knowledge increases support for equal opportunity, it decreases support for equal results. 
+
+The method here is to survey people on political facts, political opinions, and demographics, then make a model predicting opinions from demographics and fact accuracy, and finally use that model to predict average opinion given high fact accuracy.   All else equal, shouldn’t learning this make you move toward these more informed opinions?
+Added:  The specific questions, and average and informed opinions, are here. 
+
+
+title: Opinions of the Politically Informed
+
+date: May 15, 2007 6:00 am
+

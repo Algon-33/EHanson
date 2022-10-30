@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Recently I [saw] … a cake that bore the iced command, “Celebrate Sustainability!” Clearly the candle had been passed. For more than a generation, cakes at campus events have tutored students to “Celebrate Diversity!” Something has changed. … Diversity and sustainability have a complicated, decades-old rivalry.  … Both are about repairing the world; both invite exuberant commitment; both are moralistic. … Sustainability set aside the driving idea of the original environmental movement, that we help ourselves when we clean up the environment. Sustainability shifts the focus to both the imagined future and the supposed needs of the earth itself. (more)
+Green Is Far – What [do] the various “environmental” topics have in common[?] … They are mostly … at unusually large distances in space, time, and social relation from ordinary folks and concerns. (more)
+In my enviro econ class we’ve come to concepts like “degradable,” “renewable,” and “sustainable.” People often get very concerned when they imagine that certain common practices can’t continue forever, and want to regulate them to extend how long they could last.  Interestingly, this logic is only applied to a few areas like oil, metals, and farms, but not to most of our industries and practices.
+For example, consider the sustainability of music. Each new song sits somewhere in a range of originality, from very original to very derivative. The more new original songs are developed and marketed, the harder it gets to develop and market new songs that will be seen as relatively original. Song writers then become more tempted to develop and market recycled versions of old songs.  As the supply of original songs is slowly exhausted, the music industry slowly changes its focus from original to derivative songs.
+Since original music cannot last forever, we face a “sustainability” question regarding whether we are using up the supply of original music too quickly, too slowly, or just right.  Formally, this question is very similar to questions of whether we are using up copper or farmland too quickly. Such things can also be reused, where all else equal reuse is less attractive than first use. But to most people, questions about the sustainability of music, or of novels or movies, seem silly, relative to the usual “serious” sustainability questions. Why?
+My suggestion: sustainability is a far concept, about what happens on far timescales, so it makes more sense to people as applied to far things.  Near things are to be considered only on near timescales, people assume.
+Added 9p: Jeremy points us to a very relevant short story by Spider Robinson.
+
+
+title: Sustainable Music
+
+date: October 20, 2010 12:00 pm
+

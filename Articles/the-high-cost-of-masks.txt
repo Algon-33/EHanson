@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+In my debate last night with Tomas Pueyo, after I emphasized the high costs of lockdowns he said lockdowns are over. From now on we’ll let people go out, as long as they (M) wear masks and keep 6 feet apart when not at home. Which let me to wonder: just how much cheaper is M than lockdowns?
+So I tried some Twitter polls. I asked:
+
+[1.14%] If you by law had to M unless you paid, what % of income would you pay?
+[4.6%] If you didn’t have to, but were offered % of income to M, what would it take?
+[19.6%] Like (2), except it is 2019 and there is no pandemic.
+[8.0%] Like (3), except half of the folks in your area are already M-ing
+[5.2%] Like (4), except only masks, no 6ft distancing.
+[15.8%] Like (4), except both at home and away.
+
+In brackets before each question is the median answer (using lognormal fits to % responses re theses 4 options: <3%, 3-6%, 6-12%, >12%). Note how widely these estimates vary!
+The following factors plausibly influence these responses: (A) personal pain and trouble of wearing masks and keeping apart, (B) endowment effect of preferring to stick with what current law seems to endorse, (C) not wanting to look or act too differently from others nearby, (D) wanting to be and seem pro-social and helpful in slowing the pandemic, and (E) wanting to support your side of current culture wars.
+The big variation in median answers suggests that non-A effects are big! And the big variation within each poll also suggests that these costs vary greatly across individuals. We might gain lots from policies that let some pay to avoid M-like policies.
+Question (4) seems to me to offer the best estimate of the real social cost of doing M. It has the best chance of avoiding effects C & D, and I don’t see a way to avoid E. Regarding B, I think we do want the endowment effect to go this direction, because in fact M was not the legal default a year ago. Yes we enjoy helping our community in a crisis, but we wouldn’t endorse creating crises just to enjoy such effects. So we shouldn’t include then when calculating how much to avoid or reduce crises.
+Now this 8.0% median (27% mean) of income cost of masks and public distancing doesn’t include all costs; businesses and other places must also pay to accommodate your distancing. But it is probably a big fraction of costs. And it is quite a bit lower than the 32% of GDP estimate for recent strong lockdowns.
+However, my estimate of the total cost of having 50% of the population infected at 0.5% IFR was 3 weeks of income, or 6% of one year’s income. So if we wear masks for 9 months, that single cost equals the entire cost of failing to contain. So as with lockdowns, we should be wary of spending more to prevent infections than the infections would cause. Yes, we should be willing to overspend for very effective preventions, with high elasticity. But masks aren’t plausibly such a very effective method.
+Added 30May: I added new polls, included on the above list as #5,6. Seems more than half the cost is from the masks alone. It also seems that masks at home would give similar benefits, and the above suggests that it costs about the same too. So why isn’t there more of push to require that?
+
+
+title: The High Cost of Masks
+
+date: May 29, 2020 1:05 pm
+

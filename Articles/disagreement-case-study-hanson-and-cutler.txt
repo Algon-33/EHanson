@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Michael Cannon, director of health policy studies at CATO, took my health economics course in spring 2006, wherein I elaborated my story that we see little correlation between variations in medicine and health.   Like most students he didn’t really believe me, and so last November Michael arranged to check on me by setting up a half hour group discussion between myself, star Harvard health economist David Cutler, Michael, and a few other CATO health folks.  
+ David Cutler is very pro-medicine.  For example, last August his New England Journal of Medicine article assumed half of lifespan gains have been due to medicine, and then concluded:
+
+From 1960 through 2000, the life expectancy for newborns increased by 6.97 years, lifetime medical spending adjusted for inflation increased by approximately $69,000, and the cost per year of life gained was $19,900. … [This cost per year gained] was approximately $31,600 at 15 years of age, $53,700 at 45 years of age, and $84,700 at 65 years of age. 
+
+In our discussion, I set aside disputes over medicine’s average value of medicine to focus on medicine’s marginal value – how much more health we get from a bit more medicine.   Here David largely agreed.  Yes, "most ordinary people would be shocked" to hear, the thirty-year-old RAND experiment is our best data, which we should repeat today, and its results are confirmed by typical "cross section" results – regions that have more doctors or medical or cultural habits of using more medicine show little or no resulting difference in aggregate health.  
+  
+But David also hedged.  Had the RAND experiment followed subjects for ten years, he thinks it would have shown medical benefits.  Because some recent studies suggest patients are price sensitive about some cheap effective drugs, of which we have more today than before, David thinks we would see a different price effect today in a RAND Two.  And he says he sometimes tries to argue, though he admits he can’t quite convince himself, that this low marginal value is good because it pays for medical innovation.  
+ I’m happy with the main outcome here, that our "disagreement" seems minor compared to the agreement I would like to make clear to a wider audience.  On the point of disagreement we explored, whether this marginal value is different today, David pointed to none of the old or recent aggregate correlation studies that suggest positive benefits, nor to any evidence that the relative mix of help/harmful/useless medicine has changed recently.  This seems to instead be a matter of judgment for him. 
+ My counter argument is that price sensitivity to cheap effective drugs was part of the effect seen RAND One. So unless the percentage mix of help/harmful/useless medicine has changed, we should expect similar results today.  Since total medical spending is three times what it was then, even if the mix hasn’t changed we should expect two thirds of cheap effective drugs to have been new since RAND One.  
+I don’t know what David thinks of me, but I accept that he is clearly objectively more expert than I on this topic, given his prestigious position and many more years of focus on the topic.  But given the strong usual tendency to give medicine the benefit of the doubt, my impression that David gives medicine this benefit of doubt on other topics, and his inability to point to any concrete supporting evidence, I’m willing to attribute David’s more positive assessment here to such wishful thinking, rather than to his superior intuition on this matter.  How rational am I?
+
+
+title: Disagreement Case Study: Hanson and Cutler
+
+date: June 5, 2007 6:00 am
+

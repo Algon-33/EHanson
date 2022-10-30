@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+On the surface, there seems to have been a big debate over the last few years on how fast automation will displace jobs over the next decade or so. Some have claimed very rapid displacement, much faster than we’ve seen in recent decades (or centuries). Others have been skeptical (like me here, here, here, and here).
+On October 13, David Mindell, Professor at MIT of both Aeronautics and Astronautics, and also History of Engineering and Manufacturing weighed in on this debate, publishing Our Robots, Ourselves: Robotics and the Myths of Autonomy:
+If robotics in extreme environments are any guide, Mindell says, self-driving cars should not be fully self-driving. That idea, he notes, is belied by decades of examples involving spacecraft, underwater exploration, air travel, and more. In each of those spheres, fully automated vehicles have frequently been promised, yet the most state-of-the-art products still have a driver or pilot somewhere in the network. This is one reason Mindell thinks cars are not on the road to complete automation. ..
+“There’s an idea that progress in robotics leads to full autonomy. That may be a valuable idea to guide research … but when automated and autonomous systems get into the real world, that’s not the direction they head. We need to rethink the notion of progress, not as progress toward full autonomy, but as progress toward trusted, transparent, reliable, safe autonomy that is fully interactive: The car does what I want it to do, and only when I want it to do it.” (more)
+In his book, Mindell expertly supports his position with a detailed review of the history of automation in planes, spacecraft and submarines. You might think than Mindell’s prestige, expertise, and detailed book on past automation rates and patterns would earn him a place in this debate on future rates of automation progress. Many of those who blurbed the book clearly think so:
+“Mindell’s ingenious and profoundly original book will enlighten those who prophesy that robots will soon make us redundant.”—David Autor
+“My thanks to the author for bringing scholarship and sanity to a debate which has run off into a magic la-la land in the popular press.”—Rodney Brooks
+But looking over dozens of reviews Mindell’s book in the 75 days since it was published, I find no thoughtful response from the other side! None. No one who expects rapid automation progress has bothered to even outline why they find Mindell’s arguments unpersuasive.
+Perhaps this shows that people on the other side know Mindell’s arguments to be solid, making any response unpersuasive, and so they’d rather ignore him. Maybe they just don’t think the past is any guide to the future, at least in automation, making Mindell’s discussion of the past irrelevant to the debate. I’ve known people who think this way.
+But perhaps a more plausible interpretation is that on subjects like this in our intellectual world, usually there just is no “debate”; there are just different sides who separately market their points of view. Just as in ordinary marketing, where firms usually pitch their products without mentioning competing products, intellectuals marketing of points of view also usually ignore competing points of view. Instead of pointing out contrary arguments and rebutting them, intellectual usually prefer to ignore contrary arguments.
+This seems a sad state of affairs with respect to intellectual progress. But of course such progress is a public good, where individual contributions must trade a personal cost against a collective benefit, encouraging each of us to free-ride on the efforts of others. We might create intellectual institutions that better encourage more engagement with and response to contrary arguments, but unless these are global institutions others may prefer to free-ride and not contribute to local institutions.
+You might think that academic norms of discourse are such global institutions encouraging engagement. And academics do give much lip service to that idea. But in fact it is mostly empty talk; academics don’t actually encourage much engagement and response beyond the narrow scope of prestigious folks in the same academic discipline.
+
+
+title: Missing Engagement
+
+date: December 27, 2015 2:10 pm
+

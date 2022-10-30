@@ -1,0 +1,12 @@
+author: Eliezer Yudkowsky
+
+text: 
+Eliezer Yudkowsky is blogging on Overcoming Bias in order to generate raw material for at least one popular book, and several e-books.  (Thanks to his fortuitous discovery that his brain was willing to write "blog posts" faster than "book material.)
+If you’re interested in being notified when the popular book or the e-books come out, you can subscribe to several possible notifications at http://yudkowsky.net/subscribe.html.
+Meanwhile, Yudkowsky’s posts often have dependencies on his previous posts (as one would expect in book material).  Andrew Hay has kindly produced a continually updated graph of all posts with explicit dependencies and a chronological list of all Yudkowsky posts.  Yudkowsky does hope to turn all this into neatly packaged downloadable e-books at some point in the indefinite future – sign up here to be notified when those come out.
+
+
+title: Yudkowsky’s Book
+
+date: August 6, 2008 9:27 am
+

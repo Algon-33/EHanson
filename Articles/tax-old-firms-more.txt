@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+It is widely believed that free markets tend to undersupply innovation, and that new firms tend to be more innovative. Here is yet another compatible academic analysis:
+A subsidy to incumbent R&D equivalent to 5% of GDP reduces welfare by about 1.5% because it deters entry of new high-[quality] firms. On the contrary, substantial improvements (of the order of 5% improvement in welfare) are possible if the continued operation of incumbents is taxed while at the same time R&D by incumbents and new entrants is subsidized. This is because of a strong selection effect: R&D resources (skilled labor) are inefficiently used by low-[quality] incumbent firms. Subsidies to incumbents encourage the survival and expansion of these firms at the expense of potential high-[quality] entrants. (more)
+Many have suggested that we subsidize firm research, though it still seems puzzling that we don’t do more of this. Yes it can be hard to measure research spending, but that probably isn’t the whole issue. However, one rarely hears serious proposals to tax old firms more relative to young firms. (Exception here.) And the age of a firm seems even easier to measure.
+Why not tax old firms more, or young firms less? This doesn’t seem to be a left vs. right issue, or to favor any other side of a familiar political divide. Is this another example of our pretending to oppose dominance by big powers, but really accept it?
+
+
+title: Tax Old Firms More?
+
+date: May 2, 2013 2:20 am
+

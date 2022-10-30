@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Human status competition can be wasteful. For example, often many athletes all work hard to win a contest, yet if they had all worked only half as hard, the best one could still have won. Many human societies, however, have found ways to channel status efforts into more useful directions, by awarding high status for types of effort of which there might otherwise be too little. For example, societies have given status to successful peace-makers, explorers, and innovators.
+Relative to history and the world, the US today has unusual high levels of political polarization. A great deal of effort is going into people showing loyalty to their side and dissing the opposing side. Which leads me to wonder: could we harness all this political energy for something more useful?
+Traditionally in a two party system, each party competes for the endorsement of marginal undecided voters, and so partisans can be enticed to work to produce better outcomes when their party is in power. But random variation in context makes it harder to see partisan quality from outcomes. And in a hyper partisan world, there aren’t many undecided voters left to impress.
+Perhaps we could create more clear and direct contests, where the two political sides could compete to do something good. For example, divide Detroit or Puerto Rico into two dozen regions, give each side the same financial budget, political power, and a random half of the regions to manage. Then let us see which side creates better regions.
+Political decision markets might also create more clear and direct contests. It is hard to control for local random factors in making statistical comparisons of polities governed by different sides. But market estimates of polity outcomes conditional on who is elected should correct for most local context, leaving a clearer signal of who is better.
+These are just two ideas off the top of my head; who can find more ways that we might harness political polarization energy?
+Added 28Sep: Notice that these contests don’t have to actually be fair. They just have to induce high efforts to win them. For that, merely believing that others may see them as fair could be enough.
+
+
+title: Harnessing Polarization
+
+date: September 27, 2017 2:40 pm
+

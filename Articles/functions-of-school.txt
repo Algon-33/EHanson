@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Bill Dickens to Bryan Caplan:
+I take it that you think that nearly all of the value of schooling is signaling? I used to take that view too, but the accumulation of evidence that I’ve seen leads me to believe that isn’t the case. …
+I find it very hard to believe that we would waste so many resources on a nearly unproductive enterprise. There are plenty of entrepreneurs out there trying to make money by selling cheaper … versions of education. …
+1. Education isn’t mainly about learning specific subject matter. Rather education is mainly about practicing the sort of self-discipline that is necessary to be productive in a modern work environment. High school allows you to practice showing up on time and doing what you are told. College allows you to practice and work out techniques that work for you that allow you to take on and complete on time complicated multi-part tasks in an environment where you have considerable freedom. …
+2 … Some (if not most) people actually enjoy the reading, the lectures, the homework, etc. …
+3. … The shared culture produced by the education experience expands our common language with a lot of meaning, and that produces huge network externalities. …
+4. Some classes are very very valuable at work. Reading, writing and numeracy are all obviously important.
+The claim I’m most confident of: school is mostly not about the material taught in classes. I’m less sure to what extent it is about learning-to-learn, coming-to-obey, bonding with other kids, and signaling these features as well as intelligence and conscientiousness.  I’m pretty sure signaling of various sorts is at least 30% of the average private value of school, and it could go as high as 80%.
+To think straight about school, it is important to keep a good counterfactual in mind.  If kids didn’t go to school they would be doing something else, like work. The value and cost of school must be estimated relative to that other activity.  If kids started work earlier, they would still meet other similar-age friends and mates, enjoy exploring, create a shared culture, “learn how to learn,” learn specific useful skills on and off the job, become acclimated to workplace discipline, and signal their intelligence and continentiousness via their record of work attendence, reputation, and success. The social value of school is how well these things get done better than in a work-instead scenario, minus the productivity lost because schooled kids aren’t immediately useful.
+The best evidence I’ve seen that school adds great value is the stories I’ve heard about how difficult are employees who grew up in “primitive” cultures without familiar schools.  Apparently, it is not so much that such folks don’t know enough to be useful, but that they refuse to accept being told what to do, and object to being publicly ranked relative to co-workers.  Why child labor could not similarly aclimate kids, however, isn’t clear to me.
+
+
+title: Functions Of School
+
+date: August 25, 2010 2:00 pm
+

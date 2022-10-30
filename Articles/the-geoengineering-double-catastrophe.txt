@@ -1,0 +1,14 @@
+author: Robert Wiblin
+
+text: 
+I recently attended the World Congress on Risk in Sydney, primarily to see some sessions on ‘global catastrophic risk’. There were some presentations on the ‘tail risk’ of climate change that made me think that I should take it more seriously as a catastrophic risk than I have over the last few years. Despite some promising signs to the contrary, I am pessimistic that we will have enough incentive to limit emissions individually, or be able to coordinate to limit emissions collectively. It looks as though we are on track to burn most of easily accessed oil and gas, and much of the coal. If we do continue with ‘business as usual’ then I am told to expect temperature increases of at least 4 degrees Celsius over the next 100-200 years.
+If temperatures rise that far then it will be very tempting to try to suppress them with geoengineering. One of the cheaper options is to release aerosols into the atmosphere. Another suggestion is to use chemicals or sea spray to seed clouds, or make them more reflective. A single country could afford to do this for the whole planet if they chose, which makes it much more likely that someone eventually will.
+While this geoengineering might be better than nothing, a new paper (currently under review for publication) by Seth Baum, Tim Maher, and Jacob Haqq-Misra of the Global Catastrophic Risk Institute points out that it would leave humanity as a whole in a precarious position. Aerosols and sea spray gradually fall out of the atmosphere, so these geoengineering activities would need to be kept up continuously. If a disaster ever occurred that interfered with the project, for example a serious pandemic, then temperatures could start rising very quickly. This would lead to a second disaster – unpredictable and dramatic climate change – that humanity would have to deal with on top of the first.
+Given that we should be focussed on the worst risks that threaten humanity as a whole, this kind of double-punch is particularly worrisome. That said, even if significant parts of the planet were made unliveable for mammals, it still seems improbable that climate change would lead to extinction. Some of the planet would still be suitable for humans, even if in the worst case they had to return to subsistence farming. However, having to deal with rising temperatures when our ability to adapt has already been compromised would increase the chance of a cascading collapse of law and order and sophistication in the economy, which would take us away from achieving the technologies or space colonisation that would safeguard us for the long term.
+If rising carbon emissions are nonetheless inevitable an option would be to find geoengineering projects that continue working for some time without ongoing maintenance – perhaps mirrors in space or reflective white surfaces.
+
+
+title: The geoengineering double catastrophe
+
+date: July 21, 2012 7:24 am
+

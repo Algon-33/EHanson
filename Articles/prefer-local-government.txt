@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Government agencies waste money mainly because they are inefficient, not because they are corrupt.  Local governments waste a lot less.  More here:
+We analyze procurement purchases by a representative sample of Italian public bodies over the period 2000-2005. Our dataset contains very detailed information on the purchase of 21 generic goods. For each purchase, this includes quantity, brand, model, speciﬁcations, delivery conditions, and — most importantly — the price paid. …
+The average prices paid by different Italian public bodies vary substantially. The public body at the 90th percentile of the ﬁxed effect distribution pays on average 55% more than the one at the 10th percentile. …
+Differences across public bodies are correlated with institutional characteristics rather than geography or size. Semi-autonomous bodies (universities and health authorities) pay the lowest prices. Compared to these, the average town government pays 13% more. The difference increases further for regional governments (21%), social security institutions (22%), while the average ministry tops the list with 40% higher prices. …
+At least 82% of estimated waste is passive and that passive waste accounts for the majority of waste in at least 83% of our sample public bodies. …  Overall our ﬁndings are consistent with the hypothesis that, in aggregate, most waste in the procurement of generic goods by the Italian public sector is not due to corruption but to inefficiency.
+Scale diseconomies appear to be strong in government, as they are in the private sector.
+
+
+title: Prefer Local Government
+
+date: October 15, 2009 6:00 am
+

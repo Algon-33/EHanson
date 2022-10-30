@@ -1,0 +1,22 @@
+author: Hal Finney
+
+text: 
+The New York Times reports on a particularly interesting bias, moral hypocrisy. Unfortunately I could not get access to any of the primary reports, but generally this refers to judging your own actions as moral when you would see them as immoral for someone else. The experiment blatantly shows the effect:
+You show up for an experiment and are told that you and a person arriving later will each have to do a different task on a computer. One job involves a fairly easy hunt through photos that will take just 10 minutes. The other task is a more tedious exercise in mental geometry that takes 45 minutes.  
+You get to decide how to divvy up the chores: either let a computer assign the tasks randomly, or make the assignments yourself. Either way, the other person will not know you had anything to do with the assignments.
+Now, what is the fair way to divvy up the chores?
+When the researchers posed this question in the abstract to people who were not involved in the tasks, everyone gave the same answer: It would be unfair to give yourself the easy job.
+But when the researchers actually put another group of people in this situation, more than three-quarters of them took the easy job. Then, under subsequent questioning, they gave themselves high marks for acting fairly. The researchers call this moral hypocrisy because the people were absolving themselves of violating a widely held standard of fairness (even though they themselves hadn’t explicitly endorsed that standard beforehand).
+  
+I must admit that I too would probably assign myself the easy task. However I would hope that I would not be so hypocritical as to claim that I had behaved fairly when I did so. But of course, reading about the experiment is different from being part of it. Maybe I would have been just as hypocritical as the other subjects.
+For me, the most interesting finding was that a simple intervention could eliminate the hypocrisy (although not the unfair action!):
+[The researchers] brought more people into the lab and watched them selfishly assign themselves the easy task. Then, at the start of the subsequent questioning, some of these people were asked to memorize a list of numbers and retain it in their heads as they answered questions about the experiment and their actions.  
+That little bit of extra mental exertion was enough to eliminate hypocrisy. These people judged their own actions just as harshly as others did. Their brains were apparently too busy to rationalize their selfishness, so they fell back on their intuitive feelings about fairness.
+This is an intriguing and (to me) counter-intuitive means for preventing at least one pervasive bias. It seems surprising because we normally think of our biases as being subconscious, in opposition to our conscious goals of clear thinking. In that sense, we might expect that distracting our conscious minds by memorizing numbers would actually increase the opportunity for bias to creep in. Yet in this case, we see the opposite. Apparently our subconscious evaluations of morality are more accurate and it is our conscious, volitional efforts which produce distortion.
+Eliezer Yudkowski reported earlier on studies that showed the opposite effect, where distraction made people less accurate. It raises the question of what effect distraction would have on other forms of bias we have considered. I wonder if there is a rule of thumb for when one might productively use mental distraction in order to improve decision making?
+
+
+title: Distraction Overcomes Moral Hypocrisy
+
+date: July 1, 2008 2:44 pm
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Imagine the reception an academic would get if he gave a talk in a clown suit.  Or if he sang instead of just speaking his words.  Or if his papers were written on colored paper, or in crayon.  No matter how well his work otherwise corresponded to academic norms, it would be hard to get other academics to take him seriously.   I remember when I first started writing on economics, I was scolded for formatting my papers in a two-column, single-spaced format.  While that format was common in computer science, to be taken seriously in economics a paper must be formatted as single-column, double-spaced. 
+ Academics are well aware that these norms are relatively arbitrary, but usually assume that similar norms do not influence the content of their talks or papers.  But I strongly suspect that not only are some presentation formats considered too silly to be taken seriously, the same also applies to many topics.  That is, I suspect academics refuse to consider certain topics and theses because such things just seem silly.  Academics assume that silly-seeming topics must be unworthy of study, but this conclusion may not really be based on much analysis; it could be the same immediate unthinking reaction they would have to a prof in a clown suit. 
+ I’m thinking of writing an oped on this subject, and so want to collect a list of candidate topics that seem unfairly ignored because they just seem silly.  Can you suggest topics for this list, and reasons why they should be considered more seriously?
+
+
+title: Academics in Clown Suits
+
+date: October 8, 2008 1:00 pm
+

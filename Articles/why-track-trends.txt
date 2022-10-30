@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+I just read my first book via phone, Tyler’s The Great Stagnation. Turned out to be a surprisingly pleasant way to read, especially while traveling.
+Tyler’s thesis is that the US has slower growth than decades ago because we’ve used up the low hanging fruits of easy industry-era innovations, mass education, and cutting discrimination. The mismatch between growth expectations and realities is behind our financial and deficit crises. As solutions he suggests we lower our expectations and raise the social status of scientists.
+My grad school (Caltech) didn’t teach macro, and I never took undergrad econ, so I’ve tried to avoid pontificating on macro topics. Tyler’s growth slowdown story sounds plausible, but others disagree, so I’ll stay agnostic for now.
+But what I can speak to is how little such trend analysis or projection matters, at least for most economic policy. The complexities of the world often make it hard to say with great confidence which policies will increase economic welfare. Even so, given our usual way of doing economic analysis, the  question of which institutions will most increase economic welfare rarely depends much on the exact values of the sorts of parameters social scientists and the media track with such enthusiasm and concern.
+Yes, knowing your budget can help you decide how much to spend, and so yes firms and governments should attend to clues about their future revenue. But in a good economic institution, it will be some folks’ job to attend to such clues and signal their conclusions to others, so that important actions can depend on such things. We economists should mainly worry about arranging the incentives, etc. for that job, and then leave it to them to figure it out the details.
+Alas Tyler doesn’t even discuss what are good institutions for this job of dealing with uncertainties in future growth rates. I’d guess that huge political coalitions fighting to the death to maintain their expected government benefit increases is particularly bad at adapting to such uncertainties. With private pensions, medical plans, etc. adaptation would still be painful, but would less threaten our national stability.
+Tyler also gets it wrong by suggesting we raise the status of scientists. It is engineers and business innovators more generally, whose status needs a boost. Scientists already claim too much credit for social innovation – they have little to do with most of it.  Tyler also doesn’t mention over-regulation, a huge barrier to innovation. Consider this recent quote on flying cars:
+The company has cleared the biggest hurdle: building a safe flying, driving and converting vehicle. But there are other obstacles ahead. Foremost, the vehicle needs regulatory clearance from an alphabet soup of agencies, including the FAA and the National Highway Traffic Safety Administration. The company says it is working closely with regulators to ensure that the aircraft meets all standards. It has won important exemptions to certain road and air rules.
+But any “no” from any regulator — for being a pound overweight, or having a bumper an inch too short, or failing to have adequate airbags, or a thousand other issues — means at best delays and at worst a failed project. Weight, especially, has proven problematic for the company, Dietrich says — in part because a heavy car is a safe car, but a light plane is a safe plane, two engineering truths that are hard to square. (more)
+As Bryan wisely notes, people attend too much to recent news and trends, and too little to fundamental, at least for the purpose of gaining useful insights.
+
+
+title: Why Track Trends?
+
+date: March 29, 2011 5:00 pm
+

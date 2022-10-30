@@ -1,0 +1,49 @@
+author: Hal Finney
+
+text: 
+I want to follow up on my earlier post on Philip E. Tetlock’s book, Expert Political Judgment, and in particular his discovery of differential predictive accuracy between individuals with the cognitive styles corresponding to "Foxes" vs "Hedgehogs".  As several commenters guessed, his study found that Foxes (who have a flexible, adaptive, tentative cognitive style) significantly outperformed Hedgehogs (who are said to "know one thing and know it well" and to focus on a single, coherent theoretical framework in their analyses and predictions).
+I first want to emphasize that this is a wide-ranging book with a variety of points of view and directions of analysis.  I hope my focus on one aspect in these blog postings doesn’t give readers too narrow a view of Tetlock’s work.  Here is an excellent review of the book from The New Yorker that goes into more detail on the range of material covered.
+However, from the point of view of predictive accuracy and bias, Tetlock does organize much of his presentation around the Fox/Hedgehog distinction.  This is not because of some prejudice that this aspect of cognitive style is of supreme importance, but rather that it came out of the data.  More on this below the fold.
+  
+The headline news from Tetlock’s book is that human experts, in general, did poorly in predictive accuracy.  They barely outperformed a model based on completely random guessing which is colloquially described as "chimps".  And humans were significantly bested by several formula-based models which made predictions based on extrapolating past results.  Here’s a table showing the success of various prediction methods, in terms of a rather complicated measure which I can’t explain here, but for which higher is better:
+
+-.045 – Expansive base rate model (recent past)
+-.025 – Restrictive base rate model (recent past)
+-.01  – Chimps
+0.00  – Human experts
+0.00  – Contemporary base rate model
+0.025 – Aggressive case-specific extrapolation model
+0.035 – Cautious case-specific extrapolation model
+0.07  – Autoregressive distributed lag models
+
+I won’t try to explain all the different models, except to note that the "chimps" guess at random, while the first two base rate models (which did poorly) make their guesses to match the probabilities of recent history.  The "contemporary base rate" model matches human performance but it "cheats" by using the base rate for the whole period including future events.
+The more elaborate models did considerably better, and the autoregression model in particular greatly outperformed humans.  In order to turn this measure into something more tangible, I will quote Tetlock, "whereas the best human forecasters were hard-pressed to predict more than 20 percent of the total variability in outcomes…, the generalized autoregressive distributed lag models explained on average 47 percent of the variance."
+So the loudest message from the data is that relatively straightforward computer models do much better than humans, which raises the question, why do we use human experts at all in these fields?  I don’t have an answer to that.  But clearly this points to the possibility of greatly improving the accuracy of our forecasts of political events, such as the current turmoil in the Middle East, by ignoring experts and just doing some curve fitting.  This area is ripe for further work.
+However Tetlock is a psychologist and chooses to focus instead on trying to understand details of why humans did as well or poorly as they did.  His first effort was to look for factors that correlate with prediction accuracy.  He focused on three categories: differences in background and accomplishments; different in content of belief systems; and differences in styles of reasoning.
+The first category produced no statistically significant correlations.  Factors such as education, years of experience, academic vs non-academic work, and access to classified information were not significant.  The strongest effect here was a mild negative correlation to fame: the better known an expert was, the poorer he did.
+Among factors relating to belief content, left-right ideology and idealist-realist distinctions were not significant.  There was a weak statistically significant measure Tetlock calls doomster-boomster relating to optimism about human potential.  Generally for all these categories the moderates did somewhat better than the extremists.
+It was in cognitive style that the strongest correlation was found, statistically significant at the 1% level.  And that is the Fox-Hedgehog distinction.  Let’s re-do the table above and put in Foxes and Hedgehogs:
+
+-.045 – Expansive base rate model (recent past)
+-.025 – Restrictive base rate model (recent past)
+-.025 – "Hedgehogs"
+-.01  – Chimps
+0.00  – Contemporary base rate model
+0.015 – "Foxes"
+0.025 – Aggressive case-specific extrapolation model
+0.035 – Cautious case-specific extrapolation model
+0.07  – Autoregressive distributed lag models
+
+The best Foxes approach the accuracy of the case-specific extrapolation model, while the Hedgehogs do considerably worse than chimps.  The predictions of the best Foxes explain 20% of the variance in outcomes, while the worst Hedgehogs explain less than 7% of the variance.
+Tetlock found that some of the other cognitive factors listed above do moderate the overall dominance of Foxes over Hedgehogs.  One rather bizarre result relates to an experiment where Tetlock asked experts to also make predictions far from their field of expertise.  Among Foxes, as we might expect, experts do better than the "dilettantes" who are going outside their field.  But among Hedgehogs, the results are reversed!  Hedgehogs actually do worse in their own fields where they are supposed experts than when they are forced to make predictions in other areas.
+Another area of difference is the distinction between extremists and moderates on political philosophy.  Among Foxes, these categories didn’t matter much.  But among Hedgehogs, it made a huge difference, with Hedgehog extremists doing far worse than moderates.
+Again, I can’t do more than scratch the surface of the material which Tetlock presents in depth here.  But I will note one other result which was surprising and amusing.  There exist various methodologies to attempt to improve analysis and prediction by "de-biasing" individuals and getting them to be more open-minded in their approach.  Tetlock studied one such approach, scenario exercises, where participants are presented with a number of alternative scenarios before beginning their analysis, in the hope that this will get them to consider factors that they might otherwise overlook.
+In Tetlock’s study, this approach was a failure, but the effects were different for Foxes and Hedgehogs.  Hedgehogs tended to reject scenarios which did not fit their pet models, in effect snorting in derision at what seemed to them to be far-fetched and pointless speculation.  Their scores did not change in these exercises.  However, Foxes did respond to the scenarios, but in a negative way.  Their scores actually got worse as they seemed to get caught up in the complexities of all the different scenarios, becoming in effect too open-minded and giving too much consideration to inherently unlikely possibilities.
+Summing up this perhaps over-long posting, the Fox-Hedgehog distinction appears to be relevant and important in understanding how people analyze uncertain situations and make forecasts about possible outcomes.  Tetlock’s book is a great step forward in shedding light on the factors which influence predictive success.  Understanding ones own position on the Fox-Hedgehog scale can be a useful tool in calibrating our own predictive abilities and perhaps may point the way towards self-improvement.
+I took the test after creating it, and although it was difficult to be unbiased since I knew that Foxes were better, I tried to compensate for that.  My score ended up a -7, weakly Hedgehog.  Indeed I am attracted to the idea that there is some big insight, some magic tool (prediction markets? autoregressive distributed lag models?) which can cut through the messy complexity of human endeavor and provide clear insight into the fog of the future.  The lesson of Tetlock’s studies is that this temptation is more likely to lead to Hedgehogly narrow-mindedness than Foxy predictive success.
+
+
+title: Foxes vs Hedgehogs: Predictive Success
+
+date: November 26, 2006 3:01 am
+

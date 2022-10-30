@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+A central issue of this blog is: when exactly is it how important to emphasize truth, relative to other belief functions? New data suggest that truth is more important in bad times than in good, and when problems are big rather than small. Specifically, rose-colored marriage glasses help in good times, but hurt in bad times:
+Individuals in new marriages were interviewed separately about their ongoing stressful experiences, and their own appraisals of those experiences were compared with those of the interviewers. … Spouses’ tendencies to form positively biased appraisals of their stressful experiences predicted fewer depressive symptoms over the subsequent 4 years among individuals judged to be facing relatively mild experiences but more depressive symptoms among individuals judged to be facing relatively severe experiences. … These effects were mediated by changes in those experiences, such that the interaction between the tendency to form positively biased appraisals of stressful experiences and the objectively rated severity of initial levels of those experiences directly predicted changes in those experiences, which in turn accounted for changes in depressive symptoms. (more)
+Truth should also be especially important for situations that are novel relative to our evolved intuitions. The more our current situation differs from situations where our ancestors evolved (genetically or culturally) their intuitions about when to be truth-oriented, the more we risk by following such intuitions. And this seems especially likely for “futuristic” issues, with few genetic or cultural precedents.
+Put them together and it is especially important for humanity to be truth-oriented regarding big bad evolutionarily-novel problems. Beware rose-colored glasses when turning a new corner to the future.
+
+
+title: Beware Big Bad Novelties
+
+date: June 4, 2011 2:50 pm
+

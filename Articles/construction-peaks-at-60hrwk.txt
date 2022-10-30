@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Yesterday I puzzled over:
+I have found many studies, conducted by businesses, universities, industry associations and the military, that support the basic notion that, for most people, eight hours a day, five days per week, is the best sustainable long-term balance point between output and exhaustion. Throughout the 30s, 40s, and 50s, these studies were apparently conducted by the hundreds. … Somehow, Silicon Valley didn’t get the memo. … Five-day weeks of eight-hour days maximize long-term output in every industry that has been studied over the past century. (more)
+The most recent study this cites is from ’80 on construction. But I just dug a bit deeper, found some recent papers, and I can now say that this claim is just wrong, at least for construction.
+First, an ’01 review found total product peaking at 60 hours per weak:
+
+Now some claim that added product only comes in the first few weeks of long hours, after which exhaustion sets in. But an ’05 paper looked at 88 long construction projects, many over fifteen weeks duration, and it still found max product at 60 hr/wk. Also, an ’11 paper gives an integrated model that explicitly includes exhaustion effects, and it also has max product at 60 hr/wk.
+So averaging over many construction projects, and including long-run exhaustion effects, total product tends to be highest at sixty hours of work per week. This leaves plenty of room for higher hours-per-week peaks 1) for especially hardy individuals, and 2) in less physically demanding industries.
+
+
+title: Construction Peaks At 60Hr/Wk
+
+date: December 24, 2011 1:00 pm
+

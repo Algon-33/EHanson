@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Last week I had lots of fun talking and listening at a SETI conference.  Turns out the US is almost the only nation to fund SETI research, and even then most funding is private, and most researchers are outside universities.  Apparently most people the world over think aliens exist, think searches might find them, think that would be a very important discovery, but think the subject is way too silly to justify government funding.  Why?
+ It would be good to survey public (and academic) opinion about a wide range of "odd" research topics, such as SETI, ESP, dinosaur civilization, sex, humor, ancient Egyptians in the Americas, living in a simulation, or future robots, for each topic asking questions like:
+
+ how likely is the topic a real phenomena,
+ how important is learning about the subject if it is real,
+ how fast could research make substantial progress on it,
+ should governments fund research in it,
+ should universities host professors who study and teach it,
+ should private research on it get a charity tax deduction,
+
+ and any other questions that might offer clues to the topics people think worthy of study.  Any suggests for other illuminating survey questions here?
+
+
+title: What is Worth Study?
+
+date: February 11, 2008 6:00 am
+

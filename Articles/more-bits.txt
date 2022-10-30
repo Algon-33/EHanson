@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+You can get info by listening to general broadcasts, by asking others specifically, by remembering previous related info, or by figuring it out yourself on the fly, either using general slow methods or fast context-specific methods. Improving tech seems to increasingly favor asking specifically for info over listening to broadcasts. It also favors remembering stuff, and especially asking electronic assistants. For such assistants, tech increasingly favors figuring stuff out on the fly, especially via hardware dedicated to a specific purpose, over remembering or asking.
+All this is because the world’s ability to crunch bits has grown fast, much faster than our ability to store or talk, and bidirectional talk has grown much faster than broadcast talk. Even so, the raw capacity of a single human body outshines it all:
+During the period from 1986 to 2007 … [world-wide] general-purpose computing capacity grew at an annual rate of 58%. The world’s capacity for bidirectional telecommunication grew at 28% per year, closely followed by the increase in globally stored information (23%). Humankind’s capacity for unidirectional information diffusion through broadcasting channels has experienced comparatively modest annual growth (6%). … The per capita [computing] capacity of our sample of application specific machine mediators grew .. [at] 83% … per year. …
+The 6.4 × 1018 instructions per second that humankind can carry out on its general-purpose computers in 2007 are in the same ballpark area as the maximum number of nerve impulses executed by one human brain per second (1017).  The 2.4 × 1021 bits stored by humanity in all of its technological devices in 2007 is approaching an order of magnitude of the roughly 1023 bits stored in the DNA of a human adult. (more)
+
+
+title: More Bits
+
+date: April 5, 2011 8:15 am
+

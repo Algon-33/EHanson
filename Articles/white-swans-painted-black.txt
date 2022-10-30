@@ -1,0 +1,28 @@
+author: Peter McCluskey
+
+text: 
+Nassim Taleb has an article related to the current financial crisis. While much of what he says is true, he misleads when he implies that the recent collapse of financial companies resulted from a Black Swan. He claims:
+
+use of probabilistic methods for the estimation of risks did just blow up the banking system
+
+  
+Did people who are skeptical of statistical models keep more of their money in the housing/mortgage collapse than those who rely on statistical models? Maybe, but I see little evidence for that claim.
+I see a widespread pattern of mistakes that appear to have been committed by a much larger set of people than users of statistical models. Homebuyers and politicians fueled the bubble without using any fancy math.
+Availability bias appears to explain more of these mistakes than Taleb’s analysis does. Evidence about housing prices from the U.S. during your lifetime is easier to find and remember than evidence going back a century or covering other countries such as Japan. Figuring out whether an X% drop in home prices would cause your company to collapse isn’t easy, because it depends on the size of the mistakes other companies make. But there are numerous financial panics from which we can derive crude statistical models (although the models may look less convincing than models selected to produce results that look more precise).
+People who carefully looked for and evaluated as much relevant evidence as they could saw some chance of the current panic happening, regardless of whether they used intuition or fancy statistical models. Some of them warned of the risk. But it was hard for most people to worry about warnings that had been consistently wrong under all the conditions that were fresh in their minds.
+Resisting peer pressure isn’t pleasant. The banker who insisted on a 20% down payment for all mortgages got less business during the bubble and was seen by his colleagues as a burden on the bank and an obstacle to helping customers. The regulator who insisted on a 20% down payment for all mortgages was seen as denying the poor the good investments that were available to the rest of the country, and as an obstacle to home ownership (sometimes better described as home borrowing)(governments think home ownership ought to be encouraged, in spite of (or because of?) its tendency to increase unemployment).
+I don’t see how I could have done a good job as a banker or bank regulator in 2004 and 2005 – I would almost certainly have quit due to frustration.
+What can be done to prevent bubbles from repeating? If investors study history and other countries more objectively, they’ll do less to fuel the bubbles and will be moderately wealthier as a result, but investors need a good deal of patience and thought to make that effort. Avoiding overconfidence would also help, but much of Taleb’s advice boils down to that, and he more or less admits that few people want to follow this advice. Overcoming availability bias takes time and effort. Maybe AI will change that someday, but until then it’s hard to hope for more than a modest reduction in the harm done by bubbles.
+If a regulation requiring 20% down payments on mortgages could be implemented in a way that is as insulated from politics as the margin rules for stocks, there would be fewer foreclosures after the next housing bubble. But the large companies that are being bailed out have shown they would innovate around any similar restrictions on their leverage.
+Taleb also claims:
+
+This absence of "typical" event in Extremistan is what makes prediction markets ludicrous, as they make events look binary.
+
+Prediction markets will fail to answer questions that nobody thinks to ask (does any forecasting method not have this problem?), and will sometimes give the same wrong answers that other methods do. Those are reasons to worry about people becoming overconfident about prediction markets, but not to think that there’s a better alternative. (I don’t think Taleb disagrees, but a careless reading of his essay could easily lead people to think he disagrees more than he actually does).
+Prediction markets can be designed to focus on binary outcomes, or they can be designed to produce real-valued predictions (such as "the number of combat deaths in the next 5 years", or to better focus attention on extreme outcomes, the log of that number). If you look past Taleb’s hyperbole, you can see a valid concern that the incentives facing companies such as Intrade are causing them to focus on exciting predictions rather than on producing valuable knowledge. 
+
+
+title: White Swans Painted Black
+
+date: September 23, 2008 7:00 pm
+

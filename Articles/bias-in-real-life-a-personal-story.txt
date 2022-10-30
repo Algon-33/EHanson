@@ -1,0 +1,23 @@
+author: Paul Gowder
+
+text: 
+All too often, I, like all too many Americans, will walk into a fast food joint.  As is well known, the fast food industry has, for a good number of years now, been pushing combination meals — a single order will purchase a main course (classically, burger), a side order (fries) and a drink (coke).  As is also well known (pdf), people respond to cues like this in judging how much to consume — if something is packaged as a meal, we process it as a meal.  (In case that link doesn’t work, it’s to Brian Wansink & Koert van Ittersum, "Portion Size Me: Downsizing Our Consumption Norms" Journal of the American Dietetic Association 107:1103-1106 (2007).)
+All this stuff is old news.  But, I wouldn’t expect myself to fall for it (which is the point of this post: I did).  I’m a pretty cynical and suspicious guy, a cynicism and suspicion that rises to almost downright paranoia when it comes to marketing.  (I’ve been known to heavily discount a health threat the moment someone starts selling a product to protect against it, for example.)  I flatter myself by thinking I’m somewhat intelligent.  And I’m well aware of the above research.  
+Yet every few weeks until today, I’d walk into a Taco Bell and order one of those combo meals.  This is so even though I often don’t particularly want one of the items on the combo — I’m usually fairly indifferent between, say, having a soda and just drinking water.  Since water’s free and soda isn’t, rationally, I should just drink water every time.  So why do I order the combo meal?  Well, it’s in a combo meal — presumably, it’s cheaper than buying the items separately.  I’m saving money!*  Or, at least, this is the rationalization my brain would supply, on a level just below consciousness except on those rare, fleeting, and unproductive moments when I’d bother to think before ordering.**
+Recently, in order to live a little healthier, I made a firm decision to stop consuming sodas.  So it was actually easy to figure out how much I was "saving" by ordering the combo meal instead of all three items.***
+Guess how much I saved.  Go ahead.  Guess.  In the comments, even, if you want (status points to the first person who gets it right).  Highlight the space between the brackets to see, after you’ve guessed.  
+[Combo meal savings over ordering all three items separately: $0.08.  Extra combo meal cost over ordering just the two items I wanted: $1.61]  
+I fell for this kind of stupidity even though I know the research.  Do you?  
+I really think this bears emphasis.  I know this research really well, and I have known it for over a decade.  If they can get me, they can get anyone.  Everyone, even serious experts, even the guy who largely invented the study of these common biases, can fall prey to this kind of thing.  Dare you think you’re exempt?  
+Do you think maybe this contributes to our obesity problem? Or do you still think that overeating can casually be described as a "free choice" for which people are personally responsible?  (While Taco Bell profits from selling unwanted sodas…)
+Policy message: if even informed people can be suckered like this, maybe it is time for a legislative solution?  
+  
+—- * Even if this were true, one isn’t saving money if one buys something one doesn’t actually want, in order to get it at a discount!  There’s another sinister anchoring effect at work: one’s comparison case becomes "buying all three items at full price," not "buying only the two items one wants" (which is invariably cheaper than buying all three).  
+** That is, I’d basically process sodas as free because of the imagined "combo meal discount", and hence be indifferent between them and water, even though it’s actually more expensive.  Then, ordering the combo meal is the path of least resistance.
+*** That’s not so easy to do unless you actually order the items individually and compare: not all the prices for individual items show up on the menu.  Fortunately, the sodas do, so I could add the price of a soda to what I paid for the other two items and thereby learn the non-combo price for the three items.   
+
+
+title: Bias in Real Life: A Personal Story
+
+date: August 17, 2008 6:00 am
+

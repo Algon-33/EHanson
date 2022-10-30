@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Consider 3 possible space-time experience trajectories:
+In A, a person takes a drug at the start of a party which causes them to not remember that party the next day or anytime later. In C, an em splits off a short term “spur” copy which does a short term task and then ends.
+Scenario B can be seen as like A, except that right after taking the drug the person quickly moves to a distant party location. Call this B1.  Alternatively, B can be seen as like C, except that the em original is archived and inactive while the spur works. Call this B2.
+In my talks on Age of Em, I’ve heard many object to scenario C, but few object to A. In scenario A, few think they’d be stressed near the end of the party, thinking they are about to “die.” Yet many see scenario C as a “death,” and claim the em spur would refuse to do their assigned task, and instead fight fiercely to keep going.
+Scenario B is designed to be intermediate between A and B, and so to force a choice between conflicting intuitions. Would you really see B2 as “death” but B1 as no big deal, even though they have the same space time structure of experiences? If not, I think you should admit either that A is “death”, or that C is not. Or explain what matters besides the space-time structure of experience.
+I confidently predict that ems see all of these as no big deal, because a competitive em world selects for ems who are more productive, and a willingness to create short term spurs is quite productive in the em world.
+Note that this issue engages similar space vs time morality intuitions as these three prior posts.
+
+
+title: Is Forgotten Party Death?
+
+date: April 23, 2016 12:00 pm
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+The first thing we do, let’s kill all the lawyers. King Henry VI
+Commenters on yesterday’s law post are obsessed with the scenario where future robots exterminate humans.  From my ’94 essay If Uploads Come First:
+What if short people revolt tonight, and kill all the tall people?  In general, most societies have many potential subgroups who could plausibly take over by force, if they could coordinate among themselves. But such revolt is rare in practice; short people know that if they kill all the tall folks tonight, all the blond people might go next week, and who knows where it would all end? And short people are highly integrated into society; some of their best friends are tall people.
+In contrast, violence is more common between geographic and culturally separated subgroups. Neighboring nations have gone to war, ethnic minorities have revolted against governments run by other ethnicities, and slaves and other sharply segregated economic classes have rebelled.
+Thus the best way to keep the peace with uploads would be to allow them as full as possible integration in with the rest of society. Let them live and work with ordinary people, and let them loan and sell to each other through the same institutions they use to deal with ordinary humans. Banning uploads into space, the seas, or the attic so as not to shock other folks might be ill-advised. Imposing especially heavy upload taxes, or treating uploads as property, as just software someone owns or as non-human slaves like dogs, might be especially unwise.
+It is always possible in principle for everyone but some small group to agree to violate the previous law and peace and exterminate or enslave that small group.  We could for example do this to retirees today, and avoid their being “useless parasites” on society.   We could similarly eliminate some sick, weak, mentally ill, stupid, or idle rich.  But we don’t.  Why?
+We would suffer large costs to coordinate to do this, so the group we “eat” would need to be large enough to make this predation pay.  And this first act of coordination would lower the cost of similar coordinations on more small groups after that, and so each of us would acquire an heightened fear of being “eaten” in further rounds of extermination or enslavement.  These “slippery slope” expectations greatly add to the perceived cost of any first round of such coordinated predation.
+This predation coordination is also much more expensive for groups that are well integrated into our society.  Such groups would hear early about the proposal to eat them, retaliate against the proposers, suggest other groups to eat instead, and in the worse case actively resist plan implementation.  Their elimination would disrupt their many relations with others, and harm many others who care about them or see such predation as immoral.
+As long as future robots remain well integrated into society, and become more powerful gradually and peacefully, at each step respecting the law we use to keep the peace among ourselves, and also to keep the peace between them, I see no more reason for them to exterminate us than we now have to exterminate retirees or everyone over 100 years old.  We live now in a world where some of us are many times more powerful than others, and yet we still use law to keep the peace, because we fear the consequences of violating that peace.  Let’s try to keep it that way.
+
+
+title: Let’s Not Kill All The Lawyers
+
+date: October 11, 2009 9:30 am
+

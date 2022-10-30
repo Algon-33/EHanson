@@ -1,0 +1,12 @@
+author: Katja Grace
+
+text: 
+Lots of processes have filters: a certain proportion of the time they fail at that stage. There are filters in the path from dead stars to booming civilizations. There are filters in the path from being a baby to being an old person. There are filters in the path from having an idea to having a thriving business.
+Lots of processes also have bottlenecks. These look similar, in that many things fail at that point. For instance the path to becoming a Nobel Prize winner is bottlenecked by there only being so many Nobel Prizes ever year. Rather than a fixed fraction of people getting past that barrier, a fixed number of people do.
+It’s worth noticing if something is a filter or a bottleneck, because you should treat them differently often. Either way you can increase the fraction reaching the end by widening the filter or bottleneck to let more past. But for the filter it might be worth doing this at any other stage in the process, whereas for the bottleneck it is pointless at all earlier stages. You can’t get more Nobel Prize winners by improving education, but you might get more thriving businesses.
+
+
+title: Filters and bottlenecks
+
+date: December 13, 2012 6:56 pm
+

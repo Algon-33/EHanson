@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I usually read the entire Washington Post, but apparently I didn’t notice last Sunday’s best article, about how top violinist Josh Bell played hauntingly beautiful music incognito in the subway and got $32 in donations (plus $20 from someone who recognized him), substantially less than the $150 predicted by the National Symphony Orchestra music director.  The lesson Tyler Cowen draws is "most people are ninnies, with little or no taste," but for me the lesson is how we vastly overestimate our evaluation abilities.   Tyler more relevantly asks:
+
+If James Joyce were blogging today, without benefit of celebrity, and producing prose of the highest order, how many hits would he get a day? 
+
+ Surely the answer is: hardly any.  If we passed a super-model on the street, we would just think her another pretty face.  We employers overemphasize job interviews in part from overconfidence in our evaluation abilities.  We academics review papers, not realizing how little our evaluations correlate with one another.  We lovers are way too sure that our mate is the best person around for us.  
+ Fellow contributor Nick Bostrom is a philosophy star, and I have the greatest respect for him.  But sadly, I was not particularly impressed for the first few years I knew him.  I may well not recognize a genius who comments here either.  I was once indignant that few recognized my potential when I was young, but I now see how unreasonable that was.  
+ We do not like to admit how terribly dependent we are on imperfect and noisy social institutions to evaluate one another.  We like to think our institutions just confirm the obvious.  For example, academic stars usually feel confident that all the good people have been recognized; but surely that is very wrong.  
+ The main lesson is that we underestimate the importance of our evaluation institutions, and so should devote more effort to improving them.  I’d love to create prediction markets to estimate the expected publication record of new academic hires.  This should improve our estimates, though estimates would probably vary a lot less across candidates than we expect.
+
+
+title: Overconfident Evaluation
+
+date: April 13, 2007 6:00 am
+

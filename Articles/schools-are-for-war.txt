@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+The main reason we had rules to force kids to attend primary school was to make obedient soldier citizens to support their nation in time of war. This effect was even stronger for democracies:
+Using data from the last 150 years in a small set of countries, and from the postwar period in a large set of countries, we show that large investments in state primary education systems tend to occur when countries face military rivals or threats from their neighbors. By contrast, we find that democratic transitions are negatively associated with education investments, while the presence of democratic political institutions magnifies the positive effect of military rivalries. …
+We study historical panel data on education spending and enrollment – for Europe since the 19th century and a larger set of countries in the postwar period – to assess the correlation between military rivalry (or war risk) and primary education enrollment (or the occurrence of educational reforms). … [Our models] show a positive and significant effect of rivalry on primary enrollment, a negative direct effect of democracy, and a positive and significant interaction term between the two.  Overall, our empirical results indicate a causal relationship from rivalry to primary educational enrollment. …
+An economic literature … finds robust correlations between past wars and current state capacity in international panel data. … [A study] shows that military rivalry raises fiscal capacity in postcolonial developing states. … [Others] find that democracy does seem to have a systematic influence on top rates of estate taxation, whereas wars with mass mobilizations do significantly raise those rates. …
+[Prussia pushed schools] to arouse a moral, religious, and patriotic spirit in the nation, to instill into it again courage, confidence, readiness for every sacrifice. …
+[France pushed schools to] teach Frenchmen to be confident of their nation’s superiority … It should … eliminate disruptive conflicts and promote the unity of the classes. … The new teaching program … was … designed to teach the child that it was his duty to defend the fatherland, to shed his blood or die for the commonwealth, to obey the government, to perform military service, to work, learn, pay taxes, and so on.
+In Prussia, France and Japan … military defeats and/or perceived military threats appear to have prompted an otherwise reluctant ruling class to invest in mass primary education. …In most countries of the sample a war preceded the educational reform, while a democratic transition rarely occurs before the education rise … Most often, the democratic transition instead takes place *after the education reform period.  (more)
+
+
+title: Schools Are For War
+
+date: May 13, 2012 11:00 am
+

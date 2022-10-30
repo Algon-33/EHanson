@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Highly trustworthy individuals think others are like them and tend to form beliefs that are too optimistic, causing them to assume too much social risk, to be cheated more often and ultimately perform less well than those who happen to have a trustworthiness level close to the mean of the population.  On the other hand, the low-trustworthiness types form beliefs that are too conservative and thereby avoid being cheated, but give up profitable opportunities too often and, consequently, underperform.  Our [empirical] estimates imply that the cost of either excessive or too little trust is comparable to the income lost by foregoing college. [emphasis added]
+
+More here.  How much to trust others does sound like a very important parameter, and it makes sense that errors on this could have large consequences.  But it is puzzling that we make such large errors, apparently unable to learn much useful from those around us about how much to trust.  I could see how a lack of trust might prevent one from learning from others that one should trust more, but how does trusting too much prevent one from learning from others to that one should trust less?
+
+
+title: Trust Puzzle
+
+date: September 18, 2009 6:00 am
+

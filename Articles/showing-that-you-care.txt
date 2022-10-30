@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+My ambitious theory paper, which attempts to explain diverse health behavior puzzles with just a few assumptions, has finally been published in Medical Hypotheses.  (Print copies were mailed today.)  The abstract:  
+
+Human behavior regarding medicine seems strange; assumptions and models that seem workable in other areas seem less so in medicine. Perhaps, we need to rethink the basics. Toward this end, I have collected many puzzling stylized facts about behavior regarding medicine, and have sought a small number of simple assumptions which might together account for as many puzzles as possible.
+ The puzzles I consider include a willingness to provide more medical than other assistance to associates, a desire to be seen as so providing, support for nation, firm, or family provided medical care, placebo benefits of medicine, a small average health value of additional medical spending relative to other health influences, more interest in public than private signals of medical quality, medical spending as an individual necessity but national luxury, a strong stress-mediated health status correlation, and support for regulating health behaviors of the low status. These phenomena seem widespread across time and cultures.
+
+  
+
+ I can explain these puzzles moderately well by assuming that humans evolved deep medical habits long ago in an environment where people gained higher status by having more allies, honestly cared about those who remained allies, were unsure who would remain allies, wanted to seem reliable allies, inferred such reliability in part based on who helped who with health crises, tended to suffer more crises requiring non-health investments when having fewer allies, and invested more in cementing allies in good times in order to rely more on them in hard times.
+ These ancient habits would induce modern humans to treat medical care as a way to show that you care. Medical care provided by our allies would reassure us of their concern, and allies would want you and other allies to see that they had pay enough to distinguish themselves from posers who didn’t care as much as they. Private information about medical quality is mostly irrelevant to this signaling process.
+ If people with fewer allies are less likely to remain our allies, and if we care about them mainly assuming they remain our allies, then we want them to invest more in health than they would choose for themselves. This tempts us to regulate their health behaviors. This analysis suggests that the future will continue to see robust desires for health behavior regulation and for communal medical care and spending increases as a fraction of income, all regardless of the health effects of these choices.
+
+When I wrote this paper ten years ago I didn’t understand that there is simply no academic market for such grand theory papers, at least written by non-stars.  Reviewers consistently reject them saying they know of phenomena that the theory doesn’t seem to account well for, but sometimes they admit they think grand theorizing should be reserved for academic stars. 
+Added: As requested, here are some of those referee comments:
+
+"This is bizarre theory [because] … a taxpayer … will not generally place much weight on the health care to a single anonymous individual."
+ "As for the source of pressure for funding health care, isn’t it mostly employers?  They have an interest in having reliable employees.  … National health insurance provides for everyone, most of whom are not allies. … Contrary to the idea that the poor will have more care forced in them than they might want, there are obviously many countries where they have no access to health care at all. … International health insurance makes no sense because of purely practical matters and its absence does not need any other explanation."  
+ ""The article appears to conflate a number of discrete behaviors (e.g., investing in the health of others vs. encouraging others to invest in their health themselves).  And the suite of health-care behaviors referred to in the article is, I fear too complex to be accounted for by two or three factors.  For example, it is highly plausible that those who invest in the health care of others are motivated by the desire to find a cure in case they (the investors) or their significant others fall victim to the same disease."   
+
+
+
+title: Showing That You Care
+
+date: March 25, 2008 6:00 am
+

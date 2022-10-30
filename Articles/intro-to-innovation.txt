@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+The topic of innovation comes up often here, so let us review some basics:
+
+Systems are parts in a structure; innovations are better part or structure designs. An innovation embodies insights whose value depends on a context, and so changes with that context.
+Most net growth in the number or size of large systems has been due to collecting innovations.
+Wars, quakes, and diseases may be distributed so most impact comes from the few largest instances.  In contrast, in large systems most innovation value comes from many small innovations.  Even big innovations require many matching small innovations to be viable. 
+Innovation rates increase when early innovations make it easier to pursue later innovations, and decrease when the most valuable easiest innovations tend to be pursued first.  Steady (exponential) growth suggests that these factors roughly cancel.  Since growth rates commonly increase then decrease, usually the second factor eventually wins.   
+Innovation in large systems comes mostly from part innovation, so system innovation is steadier than part innovation, and the largest systems grow steadiest. 
+System structures vary in how well they encourage and test innovations locally and then distribute the best ones widely.  Better structures for this are meta-innovations.
+
+Good modularity reduces the need to match innovations in differing parts.  
+Good abstraction puts similar innovation problems within the same part.
+
+
+ If a barrier isolates two systems, the faster growing one eventually dominates.  A system that better promotes innovation can lose to a system with a larger source of innovation.  
+In large innovation pools, similar innovations commonly arise from several semi-independent sources at nearly the same time.  No single source was essential. 
+Current human society can give incentives to innovate too much, when innovation is used to signal, and to innovate too little, when innovators are not paid the full value gained by others.  
+
+I learned this stuff long ago so I have little idea how commonly known this all is.  
+
+
+title: Intro to Innovation
+
+date: May 29, 2008 6:00 am
+

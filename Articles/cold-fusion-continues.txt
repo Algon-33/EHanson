@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Via the Daily Tech, we learn of a new journal article (and talk video) on a zero-electronics measurement of nuclear particle emissions from a "cold fusion" device.  Apparently, previous measurements were criticized as due to electronic noise. 
+
+Using procedures that are commonly used in the area of nuclear physics, we have detected the emission of energetic particles during the electrolysis of heavy water on Pd electrodes prepared by codeposition in cells placed in either an external electric or magnetic field. Such energetic particles can only originate from nuclear reactions.
+
+ This would be a great topic for a disagreement case study, looking at the meta reasons people give for dismissing each others’ opinions here.   At least on the surface, this paper and the work it cites appear to be careful work, worthy of attention. 
+Added:  Cold fusion was the first topic of the 1989 corporate prediction market I helped create.  This reminds us to be wary of trying to settle bets too quickly – some disputes just take a long time to resolve.
+Added 12May: I just now got my 5May New Scientist article on this in the mail.  Sigh. 
+
+
+title: Cold Fusion Continues
+
+date: May 7, 2007 1:27 pm
+

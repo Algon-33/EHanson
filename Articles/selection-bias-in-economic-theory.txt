@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+A bit ago I surprised David Balan by suggesting that selection bias is so strong that when estimating the health effect of something like alcohol, we should prefer the sloppier and noisier control variable estimates from papers that focus on other topics, relative to the estimates from papers where alcohol is the main focus.  
+ Selection bias is also very strong in economic theory.   Here also, "authors, funders, and referees have answers they expect and want to see," and authors can search among possible assumptions to find models that give expected answers.  Unfortunately, there is no useful theory analog of bias-avoiding control variable estimates.  So how can we avoid selection bias in policy advice from economic theorists?
+ The clearest way I can see is to limit attention to a small range of standard theoretical models, a range that is still capable of giving clear policy advice covering the full ideological advice range.  And the obvious choice here is:  economic efficiency evaluations of supply and demand with externalities and transaction costs.   This is the main framework taught in introductory economics courses, and is fully capable of recommending high levels of regulation and intervention, depending on what empirical findings one applies.
+ Of course professional economic theorists such as myself know a lot more than this basic theory, and it seems a terrible shame to ignore all this further insight.  But I’ll have to admit we are so capable of choosing further assumptions to get the answers we want that outsiders can’t gain much policy advantage from our further insight.  I have a distant hope that betting markets can someday help us overcome this serious limitation.  
+
+
+title: Selection Bias in Economic Theory
+
+date: February 16, 2007 6:00 am
+

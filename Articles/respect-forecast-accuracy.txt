@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+The topic at Cato Unbound this month is “What’s Wrong with Expert Predictions.” Dan Gardner and Philip Tetlock’s lead essay points out a puzzling lack of interest in forecast accuracy:
+Corporations and governments spend staggering amounts of money on forecasting, and one might think they would be keenly interested in determining the worth of their purchases and ensuring they are the very best available. But most aren’t. They spend little or nothing analyzing the accuracy of forecasts and not much more on research to develop and compare forecasting methods. Some even persist in using forecasts that are manifestly unreliable. … This widespread lack of curiosity … is a phenomenon worthy of investigation.
+My response essay considers this puzzle. The editor summarizes:
+Robin Hanson argues that most people aren’t interested in the accuracy of predictions because predictions often aren’t about knowing the future. They are about affiliating with an ideology or signaling one’s authority. … He suggests that one way to make predictions more accurate might be to lift both the social stigma and legal prohibitions against gambling.
+Key quotes:
+Even if disinterest in forecast accuracy is explained by forecasting being only a minor role for pundits, academics, and managers, might we still hope for reforms to encourage more accuracy? …
+Hope … mainly comes from the fact that we pretend to care more about forecast accuracy than we actually seem to care. We don’t need new forecasting methods so much as a new social equilibrium, one that makes forecast hypocrisy more visible to a wider audience, and so shames people into avoiding such hypocrisy. …
+It isn’t enough to devise ways to record forecast accuracy—we also need a new matching social respect for such records. Might governments encourage a switch to more respect for forecast accuracy? Yes: by not explicitly discouraging it!
+
+
+title: Respect Forecast Accuracy
+
+date: July 13, 2011 11:05 am
+

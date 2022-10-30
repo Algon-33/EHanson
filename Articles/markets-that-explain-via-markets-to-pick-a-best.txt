@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+I recently heard someone say “A disadvantage of prediction markets is that they don’t explain their estimates.” I responded: “But why couldn’t they?” That feature may cost you more, and it hasn’t been explored much in research or development. But I can see how to do it; in this post, I’ll outline a concept.
+Previously, I’ve worked on a type of combinatorial prediction market built on a Bayes-Net structure. And there are standard ways to use such a structure to “explain” the estimates of any one variable in terms of the estimates of other variables. So obviously one could just apply those methods directly to get explanations for particular estimates in Bayes-Net based prediction markets. But I suspect that many would see such explanations as inadequate.
+Here I’m instead going to try to solve the explanation problem by solving a more general problem: how to cheaply get a single good thing, if you have access to many people willing to submit and evaluate distinguishable things, and you have access to at least one possibly expensive judge who can rank these things. With access to this general pick-a-best mechanism, you can just ask people to submit explanations of a market estimate, and then deliver a single best explanation that you expect to be rated highly by your judge.
+In more detail, you need five things:
+
+a prize Z you can pay to whomever submits the winning item,
+a community of people willing to submit candidate items to be evaluated for this prize, and to post bonds in the amount B supporting their submissions,
+an expensive (cost J) and trustworthy “gold standard” judge who has an error-prone tendency to pick the “better” item out of two items submitted.
+a community of people who think that they can guess on average how the judge will rate items, with some of these people being right about this belief, and
+a costly (amount B) and only mildly error-prone way to decide if one submission is overly derivative of another.
+
+With these five things, you can get a pretty good thing if you pay Z+J. The more Z you offer, the better will be your good thing. Here is the procedure. First, anyone in a large community may submit candidates c, if they post a bond B for each submission. Each candidate c is publicly posted as it becomes available.
+A prediction market is open on all candidates submitted so far, with assets of the form “Pays $1 if c wins.” We somehow define prices pc for such assets which satisfy 1 = pY + Sumc pc, where pY is the price of the asset “The winner is not yet submitted.” Submissions are not accepted after some deadline, and at that point I recommend the candidate c with the highest price pc; that will be a good choice. But to make it a good choice, the procedure has to continue.
+A time is chosen randomly from a final time window (such as a final day) after the deadline. We use the market prices pc at that random time to pick a pair of candidates to show the judge. We draw twice randomly (with replacement) using the price pc as the random chance of picking each c. The judge then picks a single tentative winning candidate w out of this pair.
+Anyone who submitted a candidate before w can challenge it within a limited challenge time window, claiming that the tentative winner w is overly derivative of their earlier submission e. An amount B is then spent to judge if w is derivative of e. If w is not judged derivative, then the challenger forfeits their bond B, and w remains the tentative winner. If w is judged derivative, then the tentative winner forfeits their bond B, and the challenger becomes a new tentative winner. We need potential challengers to expect a less than B/Z chance of a mistaken judgement regarding something being derivative.
+Once all challenges are resolved, the tentative winner becomes the official winner, the person who submitted it is given a large prize Z, and prediction market betting assets are paid off. The end.
+This process can easily be generalized in many ways. There could be more than one judge, each judge could be given more than two items to rank, the prediction markets could be subsidized, the chances of picking candidates c to show judges might be non-linear in market prices pc, and when setting such chances prices could be averaged over a time period. If pY is not zero when choosing candidates to evaluate, the prices pc could be renormalized. We might add prediction markets in whether any given challenge would be successful, and allow submissions to be withdrawn before a formal challenge is made.
+Now I haven’t proven a theorem to you that this all works well, but I’m pretty sure that it does. By offering a prize for submissions, and allowing bets on which submissions will win, you need only make one expensive judgement between a pair of items, and have access to an expensive way to decide if one submission is overly derivative of another.
+I suspect this mechanism may be superior to many of the systems we now use to choose winners. Many existing systems frequently invoke low quality judges, instead of less frequently invoking higher quality judges. I suspect that market estimates of high quality judgements may often be better than direct application of low quality judgements.
+
+
+title: Markets That Explain, Via Markets To Pick A Best
+
+date: October 14, 2017 6:10 pm
+

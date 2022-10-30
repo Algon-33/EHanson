@@ -1,0 +1,31 @@
+author: Robin Hanson
+
+text: 
+What is our main problem, bad policy or bad meta-policy? That is, do our collective choices go wrong mainly because we make a few key mistakes in choosing particular policies? Or do they go wrong mainly because we use the wrong institutions to choose these policies?
+I would have thought meta-policy was the obvious answer. But CATO asked 51 scholars/pundits this question:
+If you could wave a magic wand and make one or two policy or institutional changes to brighten the U.S. economy’s long-term growth prospects, what would you change and why?
+And out of the 29 answers now visible, only four (or 14%) of us picked meta-policy changes:
+ Michael Strain says to increase fed data agency budgets:
+BLS data on gross labor market flows … are not available at the state and MSA level, they do not have detailed industry breakdowns, and they do not break down by occupation or by job task. … We also need better “longitudinal” data — data that track individuals every year (or even more frequently) for a long period of time. … The major federal statistical agencies need larger budgets to collect the data we need to design policies to increase workforce participation and to strength future growth. … My second policy suggestion is to expand the … EITC.
+Lee Drutman says to increase Congress staff policy budgets:
+I would triple the amount the Congress spends on staff (keeping it still at just under 0.1% of the total federal budget). I’d also concentrate that spending in the policy committees. I’d give those committees the resources to be leading institutions for expertise on the issues on which they deal. I’d also give these committees the resources to hire their own experts — economists, lawyers, consultants, etc. But I’d also make sure that these committees were not explicitly partisan.
+Eli Dourado says to pay Congress a bonus if the economy does well:
+A performance bonus would help to overcome some of Congress’s complacency and division in the face of decades-long economic stagnation. … One good performance metric would be total factor productivity (TFP). … Fernald adjusts his TFP estimate for cyclical labor and capital utilization changes, making his series a better measure. … Members of Congress would earn a $200,000 bonus if the two-year period in which they serve averages 2 percent TFP growth. (more)
+Robin Hanson says to use decisions markets to choose policies:
+First, I propose that our national legislatures pass bills to define national welfare, and fund and authorize an agency to collect statistics to measure this numerical quantity after the fact. … Second, … create an open bounty system for proposing policies to increase national welfare. … Third, … create two open speculative decision markets for each official proposal, to estimate national welfare given that we do or do not adopt this proposal. … If over the decision day the average if-adopted price is higher than the average if-not-adopt price (plus average bid-ask spread), then the proposal … becomes a new law of the land.
+It seems to me that Michael, Lee, and Eli feel wave pretty weak wands. Surely if they thought their wands strong enough to cast any policy or meta-policy spell, wouldn’t they pick meta-policy spells a bit stronger than these? (And why is it always more spending, not less?)
+By focusing on policy instead of meta-policy, it seems to me that the other 25 writers show either an unjustified faith in existing policy institutions, or a lack of imagination on possible alternatives. Both of which are somewhat surprising for 51 scholars chosen by CATO.
+Added Dec3:  3 of the 25 remaining proposals were in the meta-policy direction:
+Susan Dudley:
+[Regulatory] agencies should be required to present evidence that they have identified a material failure of competitive markets or public institutions that requires a federal regulatory solution, and provide an objective evaluation of alternatives.
+Michael Mandel:
+The Regulatory Improvement Commission … would have a limited period of time to come up with a package of regulations to be eliminated or fixed, drawing on public suggestions. The package would then be sent to Congress for an up-or-down vote, and then onto the President for signing.
+Megan McArdle:
+Instead of analyzing whether the [cost-benefit] calculations in a regulatory ledger sum to a positive or a negative number, we need to set a level of [regulatory] complexity that we’re willing to live with, and then decide which positive sum regulations we’re willing to discard in order to stay within that budget. … Crude rules which might well serve, like capping the number of laws and regulations, allowing a new one to be implemented only if an older one is repealed.
+Added 30Sept2015: There are now 51 of these proposals, collected into a book. I found no more that are plausibly meta-proposals.
+
+
+title: Policy vs. Meta-Policy
+
+date: November 24, 2014 9:40 am
+

@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Just four weeks after my last episode, here is a new (63 min.) Blogging Heads TV episode, this time with Brian Christian, author of the new celebrated (NYT, New Yorker) book The Most Human Human:
+
+Christian describes competing in a Turing test to be seen as more human than rival chat-bots, and he offers his approach in that contest as a general philosophy of life: we should all try to live our lives to be hard for machines to mimic.
+Conversations that demure, dodge, lighten mood, change subject, “shouldn’t be allowed to pass as real human conversation.” He is “contemptuously unwilling to act like a bot” when arguing, by just responding to the last thing the other person said.  He dislikes nightclubs where you can’t hear others well, and the cautious and structured styles that make “the language of some salesmen, seducers, and politicians so half-human.” He much prefers people interrupting each other to politely taking turns.
+Christian hates customer service systems that make agents follow scripts, won’t give agents much discretion, and keep switching who each customer deals with. “Fragmentary humanity isn’t humanity.” He also dislikes “micromanagement” and structure work more generally, celebrating architects who refuse to change their practice to scale it up to more customers, and actors who only perform a play once so their acting is maximally fresh. Christian prefers academic domains with fuzzy or broad boundaries, real over simulated images, painting subjects that won’t sit still, flexible role playing over games with clear rules.
+So is he right? Often my personal preferences do lean in Christian’s direction; he and I share many tastes. But I just can’t see why one should try especially to be hard for machines to mimic, over and above the other usual reasons for our actions. For example, yes scripted customer service agents can be less pleasant to deal with, and are sometimes frustratingly inflexible, but they are generally cheaper and easier to manage. Over the coming decades it remains an open question how much customers will be willing to pay for more “human” service. If customers end up preferring services, I can’t say they’d be obviously wrong.
+More generally, the vast wealth of our industrial world comes in part from our willingness to structure our work lives more than our ancestors would tolerate, following the many scripts and procedures that Christian finds distasteful. We constantly choose between more personal flexibility and the rewards from fitting into larger structures. I don’t feel qualified to tell people they are systematically choosing too little flexibility, and I don’t see Christian as being any more qualified.
+In the video, I presented this argument to Christian and he didn’t seem to have much of a response. In fact, he didn’t seem to have considered the question before – it seems none of the many reviewers and interviewers who celebrated his book challenged him on his main thesis. Apparently, it is rare for an interviewer to directly inquire into the main argument for such a book’s thesis. While books like The Most Human Human give the appearance of arguing for a thesis, that is apparently just a thin cover for other offerings – few ever engage them as arguments.
+And admittedly, such books do offer long lists of fascinating facts, a pleasant experience listening to an articulate voice, a way to affiliate with an impressive person, and an excuse to talk knowingly with friends about important and interesting sounding topics. What more could a reader want?
+Added 3Apr: It seems the comments at BHTV are equally divided between those who think I’m obviously right, and those who think Brian is.  I’m always fascinated by this sort of situation.
+
+
+title: BHTV with Brian Christian
+
+date: April 2, 2011 7:15 am
+

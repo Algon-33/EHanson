@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+(Nobel-winner) Thomas Schelling just gave a talk here at GMU Econ on “Two Major Infrastructure Worldwide Projects to Prepare for Global Warming.” He said most work on global warming focuses on how to prevent it, and that there’s been a bit of a taboo on looking at how to mitigate harm if it happens.
+He defied that taboo, and talked about two harms from global warming: 1) crop drought due to snowpacks melting earlier in the annual cycle, and 2) sea levels rising if the Greenland or Antarctic ice sheets suddenly slip into the sea. For both problems Schelling wants central governments to start planning possible large engineering projects.
+On overly-early farm-water, he wants new canals and reservoirs dug to hold water until farmers want it and then deliver that water to them. For rising sea levels he wants dikes etc. to keep coastal cities dry. Such city protection systems could be at the scale of the harbor of a single city, or at the scale of blocking the Strait of Gibraltar to protect the entire Mediterranean Sea.
+On protecting coastal cities, John Nye pointed out that if governments are willing to do anything now they should consider taxing coastal cities to collect revenue to pay for future mitigation. This has the further big benefit of discouraging risky coastal development. And if governments aren’t willing to do this obvious easy thing now, what hope is there of them doing much useful later?
+Most of the coastal city structures that would be hurt via rising sea levels probably haven’t been built yet. So trying to get governments to start planning to protect coastal cities runs the risk of encouraging too much coastal development, which then becomes insufficiently protected or protected at excess expense.
+The fact that central governments are not coordinating much to reduce global warming suggests that they will also fail to coordinate at large scales to mitigate harm from warming. So a simpler safer solution might be to have central governments try to commit to not protect coastal cities in advance. Don’t even start central government initiatives to coordinate and plan for coastal protection, and stop current central government coastal protection programs, such as subsidized hurricane insurance.
+If coastal cities want to tax themselves to pay for their own local mitigation, fine, but to the extent we expect that more central governments won’t be able to resist helping later, have them tax low-lying coastal development in advance to pay for that. Let everyone know its time to start focusing new development away from low coasts.
+The problem of building reservoirs for farmers seems more easily dealt with via private property in water. If private parties can pay to dig reservoirs to sell water to private farmers at market prices, it isn’t clear why much central government coordination is required.
+Added: Seems Glenn Reynolds proposed to tax coastal development a month ago. HT Robert Koslover in the first comment below.
+
+
+title: Tax Coastal Cities?
+
+date: December 9, 2015 7:20 pm
+

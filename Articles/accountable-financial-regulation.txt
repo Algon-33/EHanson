@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+The Dow, S&P500, and Nasdaq, fell 3.3-3.9% Tuesday, inducing calls for more regulation to prevent such "irrational" price moves.  For example, Steven Pearlstein wrote: 
+
+Years of dirt-cheap debt have spawned bubbles across a wide range of asset classes,… It’s been a wonderful ride … sooner or later it had to end.  … It’s a confidence game that has little to do with the underlying economic fundamentals … make no mistake: This is herd behavior, as irrational on the way down as it was on the way up.
+It was a bit of bad luck that yesterday was the day Robert Steel, the undersecretary of the Treasury for domestic finance, chose to lay out the Bush administration’s case that the best protection against a market meltdown … is not more regulation, but allowing markets to discipline themselves. …
+This is precisely when markets need good regulators, and good regulations, to make these financial intermediaries behave in the "rational" way … To leave it to "voluntary" codes of conduct and "market discipline" is both naive and dangerous.
+
+Now any regulation to "debias" stock prices must come down to sometimes pushing prices up, and sometimes pushing prices down, compared to what they would have been.  And the measure of a good price push is whether it moves prices toward where prices end up in the long run.  But most price regulation regimes are not very accountable – they don’t track and report on whether regulator pushes tended to be good or bad.  So we never really see if regulation helped or hurt.  
+ Let me propose instead a very accountable way for regulators to fix stock prices.  
+  
+Congress could give some well-regarded "best and brightest" regulators a big pile of cash, say $100 billion, and have them correct prices by trading, buying when they think prices should rise and selling when they think prices should fall.  If regulators really do know how to choose good price pushes, then not only will they correct "biased" stock prices, they will increase their pile of cash, and we won’t need to give them any more.
+ If, however, regulators lose their pile of cash, let them come back to Congress begging for more, explaining how they had it all wrong before, but now they know when to push prices up versus down.   And after very some public hang-wringing, let Congress give them another $100 billion to work with.  And if regulators come back a few years later asking for even more money, explaining how they had it all wrong again, but now they know how to do it right, let Congress given them another very public scolding, along with another $100 billion.  
+ And if regulators lose that pile, maybe Congress and the public will have had enough, and will quit the price fixing business.  Fool me once, shame on you; fool me thrice, shame on me.  The $300 billion will have been well worth it to clearly show regulator inefficiency, especially since that money would just have been transferred to financial speculators, the people who really rationalize stock prices.
+ Added:  To be clear, I admit prices contain a lot of randomness, and I propose this regulator scheme only to achieve to achieve the goal of "reducing excess volatility," not all possible other regulatory goals. 
+
+
+title: Accountable Financial Regulation
+
+date: March 1, 2007 6:00 am
+

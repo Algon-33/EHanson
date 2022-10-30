@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+What if the airline industry lobbied to end the practice of routinely investigating the cause of each airline crash? After all, if there is no investigation, it will be hard to show an airline was at fault. You might imagine there’d be a public outcry. But in 1970 the US medical profession did essentially the same thing, and few complained:
+Today, hospitals perform autopsies on only about 5 percent of patients who die, down from roughly 50 percent in the 1960s. … Autopsies play a critical role in helping to advance understanding of the progress of a disease and the effectiveness of various treatments. At the same time, they may identify medical conditions that clinicians and high-tech imaging miss or misdiagnose. …
+In 1998 the Journal of the American Medical Association reported that autopsy results showed that clinicians misdiagnosed the cause of death up to 40 percent of the time. … Until 1970, hospitals had to autopsy at least 20 percent of their patients in order to remain accredited. Once that requirement was dropped, autopsy rates began to fall, due to lack of direct funding, fear of litigation and increasing reliance on technology as a diagnostic tool, among other reasons. … Today, about 40 percent of hospitals don’t perform autopsies at all. (more)
+The idea that we could afford autopsies before 1970, but now they are too expensive to afford is pretty crazy. In 1970 the US spent 75B$ on medicine (7% of GDP); we now spend 2500B$ (18% of GDP).  A pretty obvious explanation for fewer autopsies: docs don’t like being proven wrong.  Such dislike can lead to lawsuits, and generally make docs look bad. This can explain doc “fear of litigation”, dislike for autopsies that might disagree with tech diagnoses, and lobbying to cut accreditation rules requiring autopsy funding.
+Could there be any clearer evidence that docs care more about getting paid than about healing patients, yet the public can’t bring itself to imagine docs are that selfish?
+Added 20May: More detail on the transition:
+For most of the postwar period up to 1970, hospitals generally paid  it, essentially because they had to: the Joint Commission on  Accreditation of Healthcare Organizations required hospitals to maintain  autopsy rates of at least 20 percent (25 percent for teaching  hospitals), which, then and now, is the rate most advocates say is the  minimum for monitoring diagnostic and hospital error. The commission  eliminated that requirement in 1970. Lundberg says that this happened  because hospitals, which had already allowed the rate to drop to close  to 20 percent since its 1950’s high of about 50 percent, wanted to let  it drop further and pressured the commission. The commission’s current  president, Dr. Dennis S. O’Leary, says it eliminated the standard  because too many hospitals were doing poor autopsies — and often only  the cheapest, simplest ones — just to make the quota. (more)
+
+
+title: Who Killed Autopsies?
+
+date: May 17, 2011 10:40 am
+

@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Communications we read or see produce four kinds of changes in our beliefs: 
+
+Random – uncorrelated with much else of interest, 
+Info – more correlated with the world as it is, vs. as it might be, 
+Persuasion – more correlated with beliefs authors prefer us to have, and 
+Other – correlations with anything else of interest. 
+
+When choosing what to read (or see) how carefully, many of us prefer info to persuasion, and weakly dislike random and other changes. So we watch for signals indicating lots of info relative to persuasion. In contrast, readers who prefer persuasion over info seek signals indicating their favored mixture.  
+For example, consider contexts where people reaffirm their religious and patriotic allegiances, where coaches inspire teams or warriors inspire troops, or where "inspirational" speakers persuade folks to stick to their diets, try harder to succeed in their careers, or hold out for their romantic ideals. In such propaganda contexts, impressive charismatic leaders tend to speak in simple repetitive eloquent poetic vague emotional language, often with rambling structures, engaging stories, vivid colorful flashy emotional music and visual aids, and artistic impressive comforting communal surroundings.  
+In contrast, when possibly-hostile and expert critics are addressed by lawyers supporting clients, engineers presenting designs, accountants presenting financial accounts, or academics presenting analyses, styles are more "no-nonsense."  They avoid colorful flashy emotional visual aids and music, use precise concise technical and unemotional language, make structured and standardized arguments, explicitly summarize and address opposing views, make methods and premises explicit, and warn early of conclusions and structures.
+These differing styles occur not just because differing communication contexts have differing style requirements, but also because authors try to credibly signal their intentions. Authors who want to be seen as minimizing the propaganda element of their communications avoid using flashy styles, eloquent language, or compelling stories, even when such things would make it easier for readers to assimilate the presented info. After all, readers who cannot easily see that deviating from the usual non-nonsense style here actually promotes info may think worse of them.  One must furthermore worry about being quoted out of context by hostile parties.   
+  
+Of course common no-nonsense styles are designed to signal more than info-over-persuasion intentions; lawyers, engineers, accountants, and academics addressing possibly-hostile experts also want to signal expertise, social support, and social status more generally.  So their style often includes expensive dressings, references to prestigious institutions, conformity to arbitrary style conventions, excessive length, and overly-obscure language describing overly-complex techniques. (I remember that when I first started to write on economics, I was told to switch from my two-column single-spaced format; only single-columned double-spaced papers would be read.) 
+As much as you or I might lament this signaling equilibrium, we cannot wish it away. If you are willing to write only for loyal fans, well then you can adopt most any accessible style, acceptance of which can become a signal of in-group loyalty. But if you want be taken seriously by wide audiences of possibly-hostile experts, you must take signaling issues seriously. Furthermore, you should wonder just how sure you can reasonably be that your are not just looking for excuses to use more-persuasive styles.  
+I want to be clear, interesting, and engaging, but I am more willing to sacrifice my social status than my low-persuasion reputation for these ends. So while I try to avoid signaling my status via length, obscure language, complex techniques, and irrelevant citations, I am much more reluctant to deviate from standard signals of my info-over-persuasion intentions.  I thus tend to avoid emotion, color, flash, stories, vagueness, repetition, rambling, and even eloquence. I try to cite and respond to opponents, structure my arguments, offer clear summaries up front, and I tend to avoid subjects where I do not know how to be clear or precise. 
+I'm not saying this is the only reasonable communication style; each has its costs and benefits. But I do think it well suited to my goals and personality.
+Added 12Feb: This post gives a concrete math model of low emotion as signaling non-propoganda. 
+
+
+title: Against Propaganda
+
+date: February 9, 2009 7:00 pm
+

@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+   
+Friday Eliezer described a Superhero bias:
+
+The police officer who puts their life on the line with no superpowers, no X-Ray vision, no super-strength, no ability to fly, and above all no invulnerability to bullets, reveals far greater virtue than Superman.
+
+Superman risks less, yet we celebrate him more.  Eliezer followed with: 
+
+John Perry was a New York City police officer … the fact that an atheist and a transhumanist can still be a police officer, can still run into the lobby of a burning building, says more about the human spirit than all the martyrs who ever hoped of heaven.
+
+ Actually the hero bias is far worse than Eliezer imagines, because in fact police and firefighters do not risk their lives more for you!  Yes, these workers do die more often on the job, but they die much less often because of the job.  You see, these are relatively high status jobs, and having low status is quite deadly for humans.  So in fact people risk their life more by becoming waiters, bus drivers, truck drivers, plumbers, painters and lots of other jobs!  A 1999 Demography article shows how male mortality risk varies with job category:
+  
+
+ 
+Larger numbers (to the right) represent higher death rates.  The darker line adjusts for age and race, while the lighter line adjusts for age, race, income and education.  As you can see, many familiar jobs have higher death rates that the police and firefighter category, highlighted with a red arrow.  Yes, correlation need not be causation – but a small fraction of this correlation is far more than on the job police/fire deaths.  And even if police did die more often you wouldn’t know they were doing this for you, rather than to keep their job.  FYI, here are female jobs:     
+
+ 
+FYI, last year I posted about how helping professions don’t help more.  
+
+
+title: Heroic Job Bias
+
+date: December 5, 2007 6:00 am
+

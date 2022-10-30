@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Though yesterday I complained:
+[Robert] Frank offers no evidence whatsoever that the activities he dislikes and wants to tax in fact cause more inefficient status-seeking than the activities he likes and wants to subsidize.
+A few hours later I reported that others have published evidence on which particular goods and activities induce more inefficient status efforts. So now the key question is:
+Will folks like Frank consistently apply these results to recommend taxes or subsidies to reduce wasteful positional effort, wherever such waste may lie, or will they selectively cite only results favoring pre-existing political positions?
+Some policy implications of this data on positional effects seem easy for folks like Frank to swallow.  While our evidence so far is tentative, it does seem to support subsidizing health, including air quality and device safety (though not necessarily medicine if it has little relation to health).  It also supports subsidizing insurance more generally; bads being less positional than goods gives a new reason to avoid inequality from bad outcomes, such as crime.  Our evidence also supports taxing work relative to leisure, though since we already have large taxes just like this, this evidence does not obviously support larger work taxes.
+Many other policy implications, however, seem much harder for Frank to swallow.  Since sport effort seems especially positional, should we tax sports, instead of subsidizing them as we often do now?  Since education seems to be at least as positional as income, should we drastically reduce educational subsidies, or even tax it?  And since government spending seems far more positional than income, shall we greatly reduce our unprecedented levels of such spending?  
+Perhaps Frank would suggest that other compensating side effects justify vast government spending as well as sport and education subsidies.  But what about personal beauty, which our evidence suggests is one of our most positional goods?  Yes, exercise also improves health, but it is very hard to see any large compensating side effects justifying makeup, hairdressing, and nice clothes.  Will folks like Frank at least agree that severely taxing beauty aids is one of the clearest policy implications of our evidence on positional effects?
+Also, we observe a huge amount of variation in who sees what to be how positional.  This suggests that perhaps policy can influence this distribution of envy.  Shouldn't it be a top priority to find ways to influence folk's attitudes toward the gains of others, so that they don't feel as envious of such gains?
+Added 19May: Actually the wording of these surveys has them capturing folk's expectations about all side effects created by these choices. So it is mostly side effects of which these folks were unaware that could compensate for these results.
+
+
+title: Against Makeup?
+
+date: May 18, 2009 6:00 am
+

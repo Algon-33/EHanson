@@ -1,0 +1,18 @@
+author: Andrew
+
+text: 
+This entry by Eliezer struck me as an example of what I call the fallacy of the one-sided bet.  As a researcher and teacher in decision analysis, I’ve noticed that this form of argument has a lot of appeal as a source of paradoxes.  The key error is the framing of a situation as a no-lose (or no-win) scenario, formulating the problem in such a way so that tradeoffs are not apparent.  Some examples:
+  
+– How much money would you accept in exchange for a 1-in-a-billion chance of immediate death? Students commonly say they wouldn’t take this wager for any amount of money. Then I have to explain that they will do things such as cross the street to save $1 on some purchase, there’s some chance they’ll get run over when crossing the street, etc. (See Section 6 of this paper; it’s also in our Teaching Statistics book.)
+– Goals of bringing the levels of various pollutants down to zero. With plutonium, I’m with ya, but other things occur naturally, and at some point there’s a cost to getting them lower. And if you want to get radiation exposure down to zero, you can start by not flying and not living in Denver.
+– Pascal’s wager: that’s the argument that you might as well believe in God because if he (she?) exists, it’s an infinite benefit, and if there is no god, it’s no loss. (This ignores possibilities such as: God exists but despises believers, and will send everyone but atheists to hell. I’m not saying that this highly likely, just that, once you accept the premise, there are costs to both sides of the bet.) See also this from Alex Tabarrok and this from Lars Osterdal.
+– Torture and the ticking time bomb: the argument that it’s morally defensible (maybe even imperative) to torture a prisoner if this will yield even a small probability of finding where the ticking (H)-bomb is that will obliterate a large city. Again, this ignores the other side of the decision tree: the probability that, by torturing someone, you will motivate someone else to blow up your city.
+– Anything having to do with opportunity cost.
+– The argument for buying a lottery ticket: $1 won’t affect my lifestyle at all, but even a small chance of $1 million–that will make a difference! Two fallacies here. First, most lottery buyers will get more than 1 ticket, so realistically you might be talking hundreds of dollars a year, which indeed could affect your standard of living. Second, there actually is a small chance that the $1 can change your life–for example, that might be the extra dollar you need to buy a nice suit that gets you a good job, or whatever.
+There are probably other examples of this sort of argument. The key aspect of the fallacy is not that people are (necessarily) making bad choices, but that they only see half of the problem and thus don’t realize there are tradeoffs at all.
+
+
+title: The fallacy of the one-sided bet (for example, risk, God, torture, and lottery tickets)
+
+date: October 22, 2007 10:30 pm
+

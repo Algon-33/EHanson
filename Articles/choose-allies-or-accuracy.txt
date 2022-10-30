@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Imagine that person A tells you something flattering or unflattering about person B. All else equal, this should move your opinion of B in the direction of A’s claim. But how far? If you care mainly about accuracy, you’ll want to take into account base rates on claimers A and targets B, as well as more specific specific signs on the accuracy of A regarding B.
+But what if you care mainly about seeming loyal to your allies? Well if A is more of your ally than is B, as suggested by your listening now to A, then you’ll be more inclined to just believe A, no matter what. Perhaps if other allies give a different opinion, you’ll have to decide which of your allies to back. But if not, trying to be accurate on B mainly risks seeming disloyal to A and you’re other allies.
+It seems that humans tend to just believe gossip like this, mostly ignoring signs of accuracy:
+The trustworthiness of person-related information … can vary considerably, as in the case of gossip, rumors, lies, or “fake news.” …. Social–emotional information about the (im)moral behavior of previously unknown persons was verbally presented as trustworthy fact (e.g., “He bullied his apprentice”) or marked as untrustworthy gossip (by adding, e.g., allegedly), using verbal qualifiers that are frequently used in conversations, news, and social media to indicate the questionable trustworthiness of the information and as a precaution against wrong accusations. In Experiment 1, spontaneous likability, deliberate person judgments, and electrophysiological measures of emotional person evaluation were strongly influenced by negative information yet remarkably unaffected by the trustworthiness of the information. Experiment 2 replicated these findings and extended them to positive information. Our findings demonstrate a tendency for strong emotional evaluations and person judgments even when they are knowingly based on unclear evidence. (more; HT Rolf Degen)
+I’ve toyed with the idea of independent juries to deal with Twitter mobs. Pay a random jury a modest amount to 1) read a fuller context and background on the participants, 2) talk a bit among themselves, and then 3) choose which side they declare as more reasonable. Sure sometimes the jury would hang, but often they could give a voice of reason that might otherwise be drown out by loud participants. I’d have been willing to pay for this a few times. And once juries became a standard thing, we could lower costs via making prediction markets on jury verdicts if a case were randomly choose for jury evaluation.
+But alas, I’m skeptical that most would care much about what an independent jury is estimated to say, or even about what it actually says. For that, they’d have to care more about truth than about showing support for allies.
+
+
+title: Choose: Allies or Accuracy
+
+date: December 28, 2018 12:15 pm
+

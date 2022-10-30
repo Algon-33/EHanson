@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Fascinating observations from watching real science in action.  Half of data conflicts with theoretical expectations:
+Although the researchers were mostly using established techniques, more than 50 percent of their data was unexpected. (In some labs, the figure exceeded 75 percent.) … “The results kept contradicting their theories. It wasn’t uncommon for someone to spend a month on a project and then just discard all their data because the data didn’t make sense.” …
+There were models that didn’t work and data that couldn’t be replicated and simple studies riddled with anomalies. “These weren’t sloppy people,” Dunbar says. “They were working in some of the finest labs in the world. But experiments rarely tell us what we think they’re going to tell us. That’s the dirty secret of science.” …
+Most such anomalies are just ignored:
+The vast majority of people in the lab followed the same basic strategy. First, they would blame the method. The surprising finding was classified as a mere mistake; perhaps a machine malfunctioned or an enzyme had gone stale. … The experiment would then be carefully repeated. Sometimes, the weird blip would disappear, in which case the problem was solved. But the weirdness usually remained, an anomaly that wouldn’t go away.  …
+Even after scientists had generated their “error” multiple times — it was a consistent inconsistency — they might fail to follow it up. “Given the amount of unexpected data in science, it’s just not feasible to pursue everything.” …
+Marginalized folks contribute more to innovation:
+Thorstein Veblen was commissioned … to write an essay on how Jewish “intellectual productivity” would be changed if Jews were given a homeland. … [he] argued instead that the scientific achievements of Jews — at the time, Albert Einstein was about to win the Nobel Prize and Sigmund Freud was a best-selling author — were due largely to their marginal status.  … They were able to question everything, even the most cherished of assumptions. …
+Diversity induces far view talk, which finds creative answers:
+The diverse lab, in contrast, mulled the problem at a group meeting. None of the scientists were protein experts, so they began a wide-ranging discussion of possible solutions. …. “After another 10 minutes of talking, the protein problem was solved.” .. The intellectual mix generated a distinct type of interaction in which the scientists were forced to rely on metaphors and analogies to express themselves. … These abstractions proved essential for problem-solving, as they encouraged the scientists to reconsider their assumptions. Having to explain the problem to someone else forced them to think, if only for a moment, like an intellectual on the margins, filled with self-skepticism.
+Thorstein Veblen is under-appreciated, as is how weak are our theories.  How much innovation do we lose because Jews are no longer on the margin?  Hat tip to R0bert Koslover.
+
+
+title: Real Science
+
+date: December 31, 2009 1:30 pm
+

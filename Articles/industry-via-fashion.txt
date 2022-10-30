@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+What caused the industrial revolution to appear in Europe, clearly in full swing after 1800, yet never before anywhere else in the world? Since causes precede effects, one simple way to try to answer this question is to ask: What is the earliest thing that happened only in Europe that seems plausibly along a causal path to later produce an industrial revolution? For example, there was the scientific revolution in the mid 1600s, the exploration of new continents in the 1500s, and the printing press in the late 1400s. I just came across a plausible earlier candidate: rapidly changing clothing fashion starting in the mid 1300s:
+The sociocultural phenomenon called “fashion,” that is, styles being widely adopted for a limited period of time, was not part of dress in the ancient world. (more)
+Fashion in 15th-century Europe was characterized by a series of extremes and extravagances. … It is in this time period that we begin to see fashion take on a temporal aspect. People could now be dated by their clothes, and being in “out of date” clothing became a new social concern. (more)
+The craze for change year after year took some time to become really established. … The further back in tome one goes, even in Europe, one is more likely to find the still waters. .. The general rule was changelessness. Until toward the beginning of the twelfth century costumes in Europe remained entirely as they had been in Roman times. … The really big change came in about 1350 with the sudden shortening of men’s costume, which was viewed as scandalous by the old, the prudent, and the defenders of tradition. …After this, ways of dressing because subject to change in Europe. At the same time, whereas the traditional costumer had been much the same all over the continent, the spread of the shorter costume was irregular, subject to resistance and variation, so that eventually national styles of dressing were evolved, all influencing each other to a greater or lesser extent. … So Europe became and remained a patchwork of costumes, until at least the nineteenth century. (Braudel pp.315-7)
+The new taste for fashion led to a more general taste for the new, which plausibly promoted innovation, exploration, and science. A plausible partial cause of this new taste for fashion was the sudden big bump in wages caused by the Black Death in the mid 1300s.
+Added 6p: Its actually a bit of a puzzle. Why do fast fashion cycles seem so robust in our world, happening in so many areas, at yet they almost never happened in any areas in pre-modern societies? A great many theories have been published to explain fashion cycles, but they all seem to explain too much; I can’t find any to explain the lack of ancient fashion cycles.
+Added 8p: @abecedarius on Twitter points to this discussion of limited fashion in Rome. Fits my story of Rome as culturally an almost industry era.
+
+
+title: Industry Via Fashion?
+
+date: June 9, 2015 11:20 am
+

@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Humans have long had norms against “starting” fights. Even so, those who start fights are often able to point to things that the other side did first to “really” start the fight. For example, Putin says that actions by the West forced his hand in Ukraine.
+Within a nation, law is usually able to draw a clear enough line to decide who started a fight. But if you think about it, at the global level the world is not very clear on what counts as an “act of war”. Many have said the following are not acts of war: selling weapons, econ sanctions, cyberattacks, troop advisors, and even bombings.
+You might agree that we haven’t written down an exact clear rule, yet still feel like that it seems pretty clear in most cases. But due to “automatic norms” this is usually less clear than we think. Me four years ago:
+categorization of some of the options as norm violating is supposed to come to us fast, and with little thought or doubt. … we are supposed to be sure of which options to reject, without needing to consult with other people, and without needing to try to frame the choice in multiple ways, to see if the relevant norms are subject to framing effects. We are to presume that framing effects are unimportant, and that everyone agrees on the relevant norms and how they are to be applied. … “ignorance of the norms isn’t plausible; you must have known.” (more more more)
+For war, this norm ambiguity is especially unfortunate, as it causes more war. What we should hope for instead is to deal with war less via vague informal norms, and more via formal law.
+You might object that without a strong central world government, we can’t really have law; we can only have treaties enforced informally, by a threat of shame in the eyes of a world community. But actually, the world has long seen many different kind of legal systems, including legal systems that are stronger than informal norms, yet using powers short of a strong central government.
+For example, in one classic legal system, courts issue rulings without having any further power to enforce their rulings. Their threat is just that if you don’t do what they say, they may officially label you an “outlaw”, after which anyone is free to harm you without fear of legal penalties.
+Such a classic legal system could be further strengthened if its subjects were to give it hostages. For example, a financial hub which holds many financial assets of subjects could also serve as a legal system, if those assets held could be forfeit in the case of adverse legal rulings. (And if that hub were run by a distinct non-partisan community proud to serve in its legal role, and sufficiently able protect itself from outside attack.)
+Thus it seems possible for the world to have a legal system wherein a widely-used sufficiently-defended financial hub agreed to enforce treaties between the nations whose assets were held there. Then if a nation violated its treaty, and refused to abide by this court’s ruling against it, then this law could declare that nation an outlaw, and grab its held assets.
+How is that different from a large world alliance spontaneously agreeing to treat a nation as an outlaw and then grab whatever assets they can? It would be the difference between norms and contract law. An alliance might not be fair. It might instead not protect a once-ally if that were inconvenient, or it might opportunistically use its power to unfairly dump on a nation if that happened to be convenient. In contrast, with a more formal law, we might have more (though hardly infinite) hope for principled consistent non-partisan rulings.
+The world doesn’t need to have a strong world government to have a functioning contract law between nations. Treaties can be more than expressions of hope.
+
+
+title: From Norms to Law In War
+
+date: March 6, 2022 9:20 pm
+

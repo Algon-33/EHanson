@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+What nation increased its total economic consumption most from 1970 to 2010?  If you’ve been reading too much about a US “great stagnation” in that period, the answer might surprise you — the US wins by a long shot. The top thirty gains:
+United States 583, Japan 183, China 103, United Kingdom 73, Germany 63, France 53, India 47, Brazil 47, Italy 39, Canada 37, Mexico 37, Spain 28, Indonesia 14, Netherlands 11, Greece 9, South Africa 8, Thailand 8, Switzerland 8, Belgium 8, Austria 7, Colombia 7, Sweden 7, Philippines 7, Norway 7, Malaysia 7, Portugal 6, Chile 6, Finland 5, Ireland 5, Denmark 4.  (source)
+Units are tens of billions of dollars per year. All of Western Europe adds up to 285. Since total world change was ~1460, the US had ~40% of all consumption growth.
+
+
+title: US Grows Most ’70-’10
+
+date: October 22, 2011 9:00 pm
+

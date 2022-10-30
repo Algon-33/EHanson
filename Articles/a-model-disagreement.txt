@@ -1,0 +1,163 @@
+author: Robin Hanson
+
+text: 
+We have often pondered the question: when you find that you and someone else disagree, how much weight should you give to your and their opinions in forming your new opinion?  To explore this, I’ve worked out a simple math model of disagreement between two “Bayesian wannabes“, i.e., agents who are trying to act like Bayesians, but know that they make mistakes, and try to adjust for this fact.
+Consider two agents, A and B, having a conversation about a truth t = x1 + x2 + x3 + …  First A sees clue x1, and reports r1, his estimate of truth t.   Next B sees report r1, and also clue x2, and then reports r2, his estimate of truth t.  A now sees report r2, a new clue x3 and reports r3.  The two of them could go back and forth like this for a long time.
+If A and B were perfect Bayesians (and if each xi were independently and normally distributed with zero mean and a known variance Vi), then we would have ri = xi + ri-1.  When combining their last two expressed opinions, each agent puts zero weight on his own last report, and just adds his new clue to the other agent’s last report!
+OK, but what about imperfect agents?  I assume:
+
+
+when making report ri, each agent can only remember his last clue xi and the two most recent reports, what he last heard ri-1 and what he last said ri-2.
+while such agents would like to compute the perfect Bayesian estimate bi = E[t|xi,ri-1,ri-2], they can only produce an approximation ai = bi + ei, (where each ei is independently and normally distributed with zero mean and a known variance Ei),
+they know they make such mistakes, and so adjust, producing a calibrated estimate ri = E[t|ai], and
+everyone knows and agrees on the new info per round Vi and thinking noise per round Ei.
+
+Thus we should have
+A reports r1 = E[t| e1 + E[t|x1] ]
+B reports r2 = E[t| e2 + E[t|x2,r1] ]
+A reports r3 = E[t| e3 + E[t|x3,r2,r1] ]
+B reports r4 = E[t| e4 + E[t|x4,r3,r2] ]
+A reports r5 = E[t| e5 + E[t|x5,r4,r3] ]  and so on.
+These reports turn out to be linear, of the form:
+ri = (weight on last clue)*xi + (weight on other guy)*ri-1 + (weight on self)*ri-2 + noise
+I’ve made a spreadsheet calculating these weights.  Here are weights after hearing ten reports, for different combinations of info and noise (assumed same across rounds and agents):
+
+
+
+New info
+1
+1
+2
+4
+1
+1
+
+
+Think noise
+0
+1
+1
+1
+2
+4
+
+
+weight on self
+0
+0.39
+0.3
+0.19
+0.4
+0.25
+
+
+weight on other
+1
+0.57
+0.7
+0.81
+0.44
+0.25
+
+
+
+This table considers cases where the agents differ:
+
+
+
+A new info
+1
+1
+1
+4
+4
+1
+4
+1
+
+
+A think noise
+0
+0
+4
+1
+1
+1
+1
+1
+
+
+B new info
+1
+0
+4
+4
+1
+1
+1
+4
+
+
+B think noise
+1
+1
+4
+4
+4
+4
+1
+4
+
+
+A weight on A
+0.5
+1
+0.33
+0.48
+0.76
+0.67
+0.45
+0.47
+
+
+A weight on B
+0.53
+0
+0.59
+0.54
+0.24
+0.32
+0.54
+0.57
+
+
+B weight on B
+0
+0
+0.56
+0.14
+0.12
+0.17
+0.18
+0.19
+
+
+B weight on A
+0.94
+0.92
+0.33
+0.81
+0.81
+0.51
+0.82
+0.72
+
+
+
+I see lots of interesting patterns, but I’ll let commentors point them out. 🙂
+
+
+title: A Model Disagreement
+
+date: April 23, 2008 6:00 am
+

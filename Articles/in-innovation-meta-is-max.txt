@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Building on my intro to innovation, which summarized previous work, let me now offer a new insight: the max net-impact innovations, by far, have been meta-innovations, i.e., innovations that changed how fast other innovations accumulated.  
+ Concrete studies of specific innovations in biology, tech, and business suggest that most innovation value comes from bazillions of small innovations.  Yes once in a while a large innovation appears, like computers or a-bombs, but even these require scores of supporting innovations to fulfill their potential.  And if we consider innovations that improve not just one industry or region, but the entire world overall, then it is hard to identify any innovations responsible for identifiable deviations from the steady exponential growth (plus noise) that comes from the usual bazillions of small innovations.
+ Yet we know of perhaps four innovations responsible for deviations that were not only identifiable, but overwhelmingly so!  As I reviewed in my singularity econ article, these are the innovations that allowed animal brains, human brains, farming, and industry.  These innovations do not seem to have directly increased the level of the relevant economy much — instead within less than a previous doubling time each innovation increased the rate of innovation accumulation by a factor of sixty or more.  (If several innovations appeared together, they apparently had a single common cause.)
+The first human minds, the first farmers, and the first industrialists were actually not much better hunters, gatherers, or builders than their immediate ancestors — they were mainly just better at getting better faster.   
+So if you want to worry about big disruptive future innovations, you should definitely consider meta-innovations.  Admittedly, since the above data covers only innovations that improved the world overall, it does not include predatory innovations that mainly let one group gain at the expense of other groups.  So this data allows the possibility of very large predatory innovations.  But if you are thinking about non-predatory innovations, history suggests you should be most concerned about a single new meta-innovation.  
+
+
+title: In Innovation, Meta is Max
+
+date: June 15, 2008 6:00 am
+

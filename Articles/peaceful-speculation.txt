@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Supposedly, we have too many wars due to overconfidence and related biases.  In the latest American Journal of Political Science, Erik Gartzke says capitalism explains peace better than democracy: 
+
+It is widely accepted that democracies are less conflict prone, if only with other democracies. … Economic development, free markets, and similar interstate interests all anticipate a lessening of militarized disputes or wars. This "capitalist peace" also accounts for the effect commonly attributed to regime type in standard statistical tests of the democratic peace.
+
+Part of his story is that speculative markets give accurate signals of intent:
+
+Markets are arguably most relevant as mechanisms for revealing information …  States with economies integrated into global markets face autonomous investors with incentives to reallocate capital away from risk.  A leader’s threats against another state become costly when threats spark market repercussions.  Participants learn from watching the reactions of leaders to the differential incentives of economic cost and political reward. Two economically integrated states can more often avoid military violence, since market integration combines mechanisms for revelation and coercion. An economically integrated target can be coerced by the threat of losing valuable exchange, but a nonintegrated initiator cannot make its threats credible or informative.
+
+If true, it would be yet another way that speculative markets can make us more honest.  My main complaint is that Gartzke’s analysis doesn’t control for a big influence on war: the fraction of young males, who tend to be biased war-mongers.
+
+
+title: Peaceful Speculation
+
+date: January 15, 2007 6:00 am
+

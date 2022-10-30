@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+   
+Most important trends that change our world do not make the news.  Exhibit A:
+
+  RepRap is short for Replicating Rapid-prototyper. It is the practical self-copying 3D printer shown on the right – a self-replicating machine. This 3D printer builds the component up in layers of plastic. This technology already exists, but the cheapest commercial machine would cost you about 30,000 Euro. And it isn’t even designed so that it can make itself. So what the RepRap team are doing is to develop and to give away the designs for a much cheaper machine with the novel capability of being able to self-copy (material costs will be about 400 Euro). … We are distributing the RepRap machine at no cost to everyone under the GNU General Public Licence. … We hope to announce self-replication in 2008, though the machine that will do it – RepRap Version 1.0 “Darwin” – can be built now. 
+
+Apparently: 
+
+There are at least seven copies of the RepRap machine in the world that Olliver knows about. 
+
+ Exhibit B is even more dramatic, if you know what you are seeing:
+  
+
+This paper presents the first theoretical quantitative systems level study of a complete suite of reaction pathways for scanning-probe based ultrahigh-vacuum diamond mechanosynthesis (DMS). A minimal toolset is proposed for positionally controlled DMS consisting of three primary tools … and six auxiliary tools … Our description of this toolset, the first to exhibit 100% process closure, explicitly specifies all reaction steps and reaction pathologies, also for the first time. The toolset employs three element types …  and requires inputs of four feedstock molecules … The 9-tooltype toolset can, using only these simple bulk-produced chemical inputs: (1) fabricate all nine tooltypes, including their adamantane handle structures and reactive tool intermediates, starting from a flat passivated diamond surface or an adamantane seed structure; (2) recharge all nine tooltypes after use; and (3) build both clean and hydrogenated molecularly-precise unstrained cubic diamond … and hexagonal diamond surfaces of process-unlimited size … Reaction pathways and transition geometries involving 1620 tooltip/workpiece structures were analyzed … to compile 65 Reaction Sequences comprised of 328 reaction steps, 354 unique pathological side reactions and 1321 reported DFT energies. The reactions should exhibit high reliability at 80 K.   
+
+
+
+title: Self-Copying Factories
+
+date: April 29, 2008 6:00 am
+

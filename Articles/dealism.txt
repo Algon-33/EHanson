@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+We economists, and also other social scientists and policy specialists, are often criticized as follows:
+You recommend some policies over others, and thus make ethical choices. Yet your analyses are ethically naive and impoverished, including only a tiny fraction of the relevant considerations known to professional ethicists. Stop it, learn more on ethics, or admit you make only preliminary rough guesses.
+My response is “dealism”:
+The world is full of competent and useful advisors (doctors, lawyers, therapists, gardeners, realtors, hairstylists, etc.) similarly ignorant on ethics. Yes, much advice says “given options O, choose X to achieve purpose P”, but when they don’t specify purpose P the usual default is not P = “act the most ethically”, but instead P = “get what you want”.
+Economists policy recommendations are usually designed to help relatively large groups make better social “deals”, via identifying their “Pareto frontier” (within option subspaces). This frontier is the set of options where some can get more of what they want only via others getting less. We infer what people want via the “revealed preferences” of models that fit their prior choices.
+As people can be expected to seek out advice they expect to help them to get what they want, we economists branding ourselves in this way can induce more to seek our advice. We can reasonably want to fill this role. Doing so does not commit us to taking on all possible clients, nor to making any ethical claims whatsoever.
+Yes, if people are hypocritical, and pretend to want morality more than they do, they may prefer advisors who similarly pretend. In which case we economists can also pretend that our clients want that, to help preserve their pretensions. But we wouldn’t need to know more about ethics than our clients do, and beneath that veneer of morality, clients likely prefer our advice to be targeted mostly at getting them what they want.
+Yes, there are many ways one might argue that this economist’ practice is ethically good. But I make no such arguments here.
+Yes, there are other possible ways to help people. Helping them identify deals is not the only way, and often not the best way, to help or advise people.
+Most people want in part to be moral, and they think that what they and others want is relevant to what acts are moral. It is just that these two concepts are not identical. If in fact what people want is only and wholly to be ethical, then the difference between being ethical and getting what you want collapses. But even so, this econ approach remains useful, and in this case our advice now also becomes ethical.
+The same arguments apply if we replace “be ethical” with “do what you have good reasons to do”. If there is a difference, then others should seek our advice more if it is on what they want, relative to what they have reasons to do.
+What if the process of hearing our advice, or following it, can change what people want? (The advice might include a sermon, and doing something can change how you feel about it.) In this case, people will most seek out our advice when those changes in wants match their meta-wants regarding such changes. And those meta-wants are revealed in part via how they choose advisors.
+For example, when people choose advisors retrospectively, based on who seems to have been pleased with the advice that they were given, that reveals a preference for changes in wants that make them pleased after the fact. In that case, you’d want to give the advice that resulted in a combination of outcomes and want changes that made them pleased later. In this case they wouldn’t mind changes to their wants, as long as those resulted in their being more pleased.
+In contrast, when people choose advisors prospectively, based on how pleased they are now with the outcomes that they expect to result from your advice, then you would only want to offer advice which clients expect to change their wants if such clients expect to be pleased by such changes. So you’d want to offer advice that seemed to promote the want changes that they aspire to, but prevent the want changes that they fear or despise.
+And that’s it. Many presume that policy discussions are about morality. But as a policy advisor, you can reasonably take the stance that your advice is not about morality, and that economic analysis is well-suited to the advice role that you have chosen.
+
+
+title: Dealism
+
+date: April 23, 2022 11:20 am
+

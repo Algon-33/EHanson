@@ -1,0 +1,13 @@
+author: Chris Hibbert
+
+text: 
+Philip Tetlock, author of the book Expert Political Judgment, gave a talk a couple of weeks ago for the Long Now Foundation’s Seminars about Long-Term Thinking.  I listened to the podcast.  Tetlock has been collecting expert’s judgements for a couple of decades in order to evaluate what makes it possible for people to make good predictions.
+The only attribute of a person’s outlook that seems to correlate with better prediction ability is having an eclectic outlook; what Tetlock calls being a fox rather than a hedgehog from Archilochus’ phrase, "The fox knows many things, but the hedgehog knows one big thing." Foxes are less likely to make extreme predictions, but when they do, they’re better calibrated.
+There were a couple of interesting questions, which are worth mentioning because you won’t find the material in the book.  At about 47 minutes, Stewart Brand asks whether any of the experts were notably better than the others.   Tetlock responds that no one in is sample was reliably right, and then volunteers that there are mechanisms that improve people’s performance.  Brand and Tetlock continue to talk about prediction markets and Surowiecki’s Wisdom of Crowds and how aggregation helps improve forecasts, particularly when there are significant numbers of Hedgehogs in the sample.
+At the end of the Q&A, Brand pressed Tetlock pretty hard to give his assessment of the expert’s views of the state of events in Iraq.  Worth listening to, whatever your views.
+
+
+title: Philip Tetlock’s Long Now Talk
+
+date: February 10, 2007 8:49 pm
+

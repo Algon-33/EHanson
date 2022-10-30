@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+A recent article, "Weight bias may harm obese children," summarizes a July 2007 Psychological Bulletin article: 
+
+When the study participants were asked to rank the children in the order of whom they would like to be friends with, they ranked the overweight child last.  … Some studies found that a sizable number of teachers harbor negative views of overweight students, seeing them as "untidy," for example, or less likely to succeed than their thinner peers. Other research found that overweight children often report teasing from family members, including parents. 
+
+The article repeatedly uses the word "bias" to describe these negative judgments, but it doesn’t bother to show why these effects are in fact biases.  Unless you want to claim that no one should ever be teased or prefer some as friends over others, or that teachers should never estimate student tidiness or success, the question is: what is the evidence that judgments made about fat kids are in fact too negative on average?  Without such evidence, these negative judgments should not be called "biases."  
+
+
+title: Not Every Negative Judgment Is A Bias
+
+date: July 27, 2007 6:00 am
+

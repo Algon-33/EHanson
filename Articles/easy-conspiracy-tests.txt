@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+The most obvious kind of conspiracies to expect in the world are ones between your local organized crime, police, and political powers. These powers should each see each other as rivals to their dominance. So to reduce such threats they should should seek to either weaken each other,  or to ally with each other. There are rumors that such alliances are common around the world, and there is clear data that they have often happened in the past. 
+So this is no mere theoretical conspiracy theory, to be dismissed by claiming that too many people would know to keep it a secret. This sort of conspiracy is not only verifiably common, it also has a quite credible threat of punishing those who too publicly expose it.
+Given that this seems to usually be a real possibility, what sort of evidence might speak to it? Here are some indicators that, if true about your area, are at least weak evidence against such a local alliance:
+
+You see very little profitable crime in your area, such as gambling, drugs, or prostitution.
+You see profitable crime, but also conflicts over its control. E.g., wars over drug-selling territory.
+You see profitable crime, and little fighting for its control, but its consumer prices are quite near average costs.
+You see profitable crime, and see that those who enter such industries fear only police and competitors, not organized crime.
+You see a big conflicts in your area between police and organized crime. 
+Police in your area are bounty hunters, who regularly gain bounties from catching each other, and judges are clearly not corrupted.
+You do elections in a way that lets organized crime steal elections, yet they are clearly not being stolen.
+(what else?)
+
+Now if you don’t see any of these signs in your area, you should estimate a higher than average chance that you have a crime-police-politics conspiracy in your area. And as the base rate is already substantial, your estimate should be even higher than that. 
+If people were concerned about such conspiracies, they’d pay to hear from folks who collected and published stats on these indicators. And pay even more for stats that made it easier for skeptical observers to check on how such stats were collected and constructed. And then those with the worse indicators, suggesting local conspiracies, could learn about that fact, and perhaps coordinate to change it. 
+So what does it tell you if few seem to care enough to even know if such stats are published?
+
+
+title: Easy Conspiracy Tests
+
+date: November 17, 2020 1:45 pm
+

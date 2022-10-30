@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+My last two posts described inequality in firm and city sizes, and in individual wealth. Today, firms and cities are quite unequal, following a Zipf distribution, with a tail power near one (giving a very thick tail.) Individual wealth is a bit more equal, with a bigger power of ~1.4 (and hence a thinner tail).
+This distribution of firms and cities seems to result from their being tolerably effective across a wide range of sizes, having long unequal lifetimes, having little net local growth, and holding a roughly fixed total number of people. In contrast, individuals have more equal lifespans, are psychologically inclined to spend more as they get richer, and have spending habits that correlate only weakly across generations. (“Rags to rags in three generations.”)
+How might these change in the future? In the em era, I expect firm distributions to stay similar, but expect city and individual wealth distributions to change. I’ve talked before about how I suspect strong gains to em concentration, as they suffer less from travel congestion, leading perhaps to most being in a few dense cities. In this post, let me talk about em wealth.
+Since em lifespans should be limited mainly by em wealth, em lifetimes can vary a lot more than human lifetimes, and ems can have more long-term spending consistency. While some ems will spend their wealth on more copies, others will hoard their wealth. Some may even manage to consistently reinvest most of their wealth via something like a Kelly criteria. This seems likely to make future em wealth evolution more akin to today’s firm and city evolution. I thus expect a near Zipf distribution for the high tail of em wealth.
+This change in tail power should make em wealth distributions more unequal. Under a tail power of ~1.4, today’s richest person has about $75B, which is about 0.04% of the world’s $200T wealth. Under a power of ~1, the richest person might be about a hundred times richer, holding ~4% of the world’s wealth, or $7.5T.
+Since a Zipf distribution has an unbounded expected value, its inequality also depends on the total population size (which follows it). The following table shows this dependence:
+
+The “% of Richest” column says what fraction of the total wealth is held by the one richest person. The “MidW %” column shows the (smallest) fraction of the population that holds half of the total wealth. And the “MidW/ave” column shows how much richer is the mid-wealth person (for whom half of all wealth is held by richer folks) than the average person.
+For a Zipf wealth distribution, as the population gets larger wealth gets more concentrated. Even so, the very richest person holds a smaller fraction of the total wealth. The same should apply to firms and cities if they retain a Zipf distribution — the firm and cities that hold most people will get larger, even though the largest firm or city would be a smaller fraction of the total.
+In sum, as the population gets larger, I expect firms and cities to get larger.  And for “immortal” ems, I also expect a more unequal distribution of wealth. Even so, as population increases the very largest firms, cities, and rich folks should hold smaller fractions of their respective totals.
+Added 11p 14Jan: This post has now been up for a whole day, with zero comments and one vote. Which has to be some sort of record for reader disinterest. This is especially noteworthy, given that I’m especially proud of this post, culminating several days work trying to understand something important about the future. Alas that I  sometimes bore readers, but I’m writing this blog mainly for me, so I’ll continue to write about what most interests me, even if past responses suggest readers won’t be as interested.
+
+
+title: Future Wealth Inequity
+
+date: January 13, 2012 11:00 pm
+

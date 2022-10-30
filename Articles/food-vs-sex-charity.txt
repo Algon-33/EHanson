@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Added May 7, 2018: Scott Aaronson wishes me to state that he now, and for the past decade, completely renounces and disclaims any comparison between inequalities of wealth and inequalities of romantic and sexual fulfillment, even in the context of a thought experiment.  He regards having once briefly entertained such a comparison, during an episode
+of suicidal depression, as one of his greatest regrets in life.  He apologizes to anybody who was hurt or offended by the comparison, and has offered to make partial restitution to them, either by fielding their questions about quantum computing or any other subject, or by donating to a mutually agreed-upon charity.  For more, please see his
+recent blog post The Zeroth Commandment. End Added
+Scott Aaronson asks a great question:
+Consider two men, A and B. Man A steals food because he’s starving to death, while Man B commits a rape because no woman will agree to have sex with him.  From a Darwinian perspective, the two cases seem exactly analogous. In both we have a man on the brink of genetic oblivion, who commandeers something that isn’t his in order to give his genes a chance of survival. And yet the two men strike just about everyone — including me — as inhabiting completely different moral universes. The first man earns only our pity. We ask: what was wrong with the society this poor fellow inhabited, such that he had no choice but to steal? The second man earns our withering contempt.
+One problem with the question is that in our society giving enough sex to satisfy is expensive, while giving enough food to satisfy is cheap.  So it might help to imagine a society where the person who lost the food was also in some, though less, danger of starving.
+But even then food and sex seem to be treated differently.  When we give food aid we don’t just give rice and beans to keep folks from starving; we give them enough to have a moderately tasty diet.   We do nothing remotely similar for sex.
+To me the obvious answer is that our concern about inequality is not very general – compared to inequality in access to food, humans are just not that concerned about sexual inequality, especially for men.  Presumably for our ancestors, the gene pool of a tribe could benefit from equalizing food in ways that it could not benefit by equalizing sex.
+Added: Riffing off this post, Scott rewords his question:  Why do we, as a society, provide food stamps for the hungry but not sex stamps for the celibate?
+
+
+title: Food Vs. Sex Charity
+
+date: August 8, 2007 6:00 am
+

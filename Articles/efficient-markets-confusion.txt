@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Matt Yglesias and Brad DeLong are both fond of this Economist quote:
+The [Efficient Capital Markets] hypothesis has two parts, [Thaler] says: the “no-free-lunch part and the price-is-right part, and if anything the first part has been strengthened as we have learned that some investment strategies are riskier than they look and it really is difficult to beat the market.” The idea that the market price is the right price, however, has been badly dented.
+These two parts are not, however, easily separated. That same article explained:
+The efficient-markets hypothesis” (EMH). … Eugene Fama, of the University of Chicago, defined its essence: that the price of a financial asset reflects all available information that is relevant to its value.  … If the EMH held, then … deviations from equilibrium values could not last for long. If the price of a share, say, was too low, well-informed investors would buy it and make a killing. If it looked too dear, they could sell or short it and make money that way. It also followed that bubbles could not form—or, at any rate, could not last: some wise investor would spot them and pop them. And trying to beat the market was a fool’s errand for almost everyone. If the information was out there, it was already in the price.
+EMH claims that current market prices are the best available estimates of asset values; it does not claim that these two sets of numbers are exactly equal.  After the fact you will of course be able to look back and see that price estimates were once in error, either too high or too low relative to the right answer.  But the EMH is only wrong if you could reasonably have known to say the direction of the error at the time, using info “available” then.   And if you could have known then that the price was too high or low, you could have bought or sold based on your info, and gained the “free lunch” of superior investment returns.  
+On this topic, Paul Krugman was reminded of:
+An old paper by Larry Summers mocking finance economists as the equivalent of “ketchup economists”, who believe that they’ve demonstrated market efficiency by showing that two-quart bottles of ketchup always sell for twice the price of one-quart bottles.
+In the case of housing, buyers do carefully compare prices — with the prices of other houses. That is, they make sure that two-quart bottles of ketchup are the same price as one-quart bottles. As we’ve seen, however, they don’t do a very good job of checking whether the overall level of housing prices makes sense.  Yes, it was a bubble — and as Larry said way back when, the ketchup test just isn’t enough.
+The key question of course is: who could have reasonably known it was a bubble at the time?  Any such person could have gained the free-lunch of superior investment returns.
+There are several variations on the Efficient Markets Hypothesis, depending on what info counts as “available.”  Weak versions only count very widely and easily available info, while strong versions even count info available with difficulty to only a few.  The strongest possible forms are silly, and no one ever believed them.  Weak versions, which require info to be available to many deep-pocket market speculators, are much more plausible, and I don’t see recent history as offering much evidence against them.
+What widely available info should have told you the market was in a bubble?  And if you think you see such info, why did so few investors actually attend to it?  And if you propose a regulatory regime to fix market mispricing based the existence of such info, how will you ensure that regulators attend to that info when investors do not?
+The most plausible EMH violations are at the largest scales: long time-period slowly varying mispricings of large global financial aggregates.  This is because these are the most expensive mispricings for speculators to fix; for these problems it is not so much how many people know about them but how many are willing and able to devote resources to fix them.  Unfortunately, these are also the hardest mispricings for regulators to fix as well, for similar reasons.
+
+
+title: Efficient Markets Confusion
+
+date: July 20, 2009 2:00 pm
+

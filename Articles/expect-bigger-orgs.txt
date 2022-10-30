@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Me last year:
+Over the last year I’ve reviewed several ~1900 era future dystopias, such as Metropolis, We, and Pictures of the Socialistic Future. I wanted to see fears of the industrial revolution, from an era when that revolution was still young. … The strongest concerns were about the new scales of social organization, arguably the central distinguishing feature of the industrial era. … People imagined entire cities and nations being organized as were factories and firms, with commands sent down from above, and little room for local discretion. … Today, it seems that such fears were overblown. … But it is also too soon to claim that these fears will not be realized. The scale of cities, firms, and nations continues to climb. (more)
+Industry has made humans rich. And we have spent this wealth improving our lives in many ways. Which is why most long run industry-era trends are positive. But we aren’t very willing to give up the golden goose that lays our golden eggs: the industry processes itself. Which is why some trends are negative. For example, dense living is fairly central to industry, so density has increased, even though it seems to hurt our health, and many would prefer more space. Even more central to the industry process is big organizations. So firm sizes continue to get larger, even though most folks say they don’t like big firms.
+Yes booster futurists often claim big firms are passé and the future is all startups and lean nimble firms. Don’t believe them. The rate of new firms has been declining with wealth and time, and firms continue to get bigger. (Data quotes below.)
+I instead predict that future work life will look more like the work life at bigger firms today. So there will be less overall coordination and coherence, even as more effort is put into coordination via more meetings by more managers in more layers of management. Firms will have offices in more locations, with less in-person and direct communication. Workers will have more specific operational roles, and each do a narrower range of tasks. Firms will have stronger corporate cultures that depend less on distinctive individual personalities, and more on well-defined structures, like policy manuals and job descriptions.
+Governments won’t save us from this: increasing regulation tends to favor larger firms, and government organizations are getting larger. Also, government functions are drifting up to be handled by larger scales of government. That is, functions once done by cities were next done by states, and finally by nations. I have seen the future, and it has many middle managers in long meetings discussing policy manuals. Count on it. Happy labor day.
+Those promised data quotes:
+
+First, the entrepreneurship rate falls with per capita income across countries. Second, average firm size increases with per capita income. … Third, the standard deviation of fim size increases with per capita income across countries. Fourth, the skewness of the firm size distribution also increases with per capita income across countries. … Average firm size increased with per capita income over U.S. history (1900-70). Figure 2.2 shows that this time-series relationship persists. … Firm size dispersion is substantially higher in industrialized countries compared to emerging markets. (more)
+
+
+title: Expect Bigger Orgs
+
+date: September 2, 2013 11:40 am
+

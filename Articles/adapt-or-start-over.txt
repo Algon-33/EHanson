@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Sean Carroll has doubts on nanotech:
+Living organisms … can, in a wide variety of circumstances, repair themselves. … Which brings up something that has always worried me about nanotechnology … tiny machines that have been heroically constructed … just seem so darn fragile. … surely one has to worry about the little buggers breaking down. … So what you really want is microscopic machinery that is robust enough to repair itself. Fortunately, this problem has already been solved at least once: it’s called “life.” … This is why my utterly underinformed opinion is that the biggest advances will come not from nanotechnology, but from synthetic biology. (more)
+There are four ways to deal with system damage: 1) reliability, 2) redundancy, 3) repair, and 4) replacement. Some designs are less prone to damage; with redundant parts all must fail for a system to fail; sometimes damage can be undone; and the faster a system is replaced the less robust it needs to be. Both artificial and natural systems use all four approaches. Artificial systems often have especially reliable parts, and so rely less on repair. And since they can coordinate better with outside systems, when they do repair they rely more on outside assistance – they have less need for self-repair. So I don’t see artificial systems as failing especially at self-repair.
+Nevertheless, Carroll’s basic concern has merit. It can be hard for new approaches to compete with complex tightly integrated approaches that have been adapted over a long time. We humans have succeeded in displacing natural systems with artificial systems in many situations, but in other cases we do better to inherit and adapt natural systems than to try to redesign from scratch. For example, if you hear a song you like, it usually makes more sense to just copy it, and perhaps adapt it to your preferred instruments or style, than to design a whole new song like it.  I’ve argued that we are not up to the task of designing cities from scratch, and that the first human-level artificial intelligences will use better parts but mostly copy structure from biological brains.
+So what determines when we can successfully redesign from scratch, and when we are better off copying and adapting existing systems? Redesign makes more sense when we have access to far better parts, and when system designs are relatively simple, making system architecture especially important, especially if we can design better architecture. In contrast, it makes more sense to inherit and adapt existing systems when a few key architectural choices matter less, compared to system “content” (i.e., all the rest). As with songs, cities, and minds. I don’t have a strong opinion about which case applies best for nanotech.
+
+
+title: Adapt Or Start Over?
+
+date: September 21, 2011 2:30 pm
+

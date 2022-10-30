@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+In 2009 my co-blogger Eliezer Yudkowsky split off from Overcoming Bias (OB) to create the Less Wrong (LW) blog. TrikeApps wrote the feature-full software for LW, and Eliezer wanted to start it off with a high Google page rank via inheriting his posts here at OB. To support this, I agreed to let TrikeApps move OB from TypePad to a new platform where TrikeApps could turn Eliezer’s OB post links into hard links to posts at LW, to have recent LW and OB posts show up in a sidebar at the other site, and to have TrikeApps manage the technical aspects of OB.
+Four years later, I’d like to send a big hearty THANK YOU to TrikeApps for their blog management. I expect it would have cost lots to pay someone to do the work they’ve done. I don’t have any plans to change this arrangement anytime soon, though I’m of course open to suggestions for other ways to manage and structure this blog.
+
+
+title: Thank You TrikeApps!
+
+date: January 9, 2013 3:30 pm
+

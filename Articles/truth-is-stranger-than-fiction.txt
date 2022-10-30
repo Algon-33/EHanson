@@ -1,0 +1,26 @@
+author: Andrew
+
+text: 
+Robin asks the following question here:
+
+How does the distribution of truth compare to the distribution of opinion?  That is, consider some spectrum of possible answers, like the point difference in a game, or the sea level rise in the next century. On each such spectrum we could get a distribution of (point-estimate) opinions, and in the end a truth.  So in each such case we could ask for truth’s opinion-rank: what fraction of opinions were less than the truth?  For example, if 30% of estimates were below the truth (and 70% above), the opinion-rank of truth was 30%. 
+If we look at lots of cases in some topic area, we should be able to collect a distribution for truth’s opinion-rank, and so answer the interesting question: in this topic area, does the truth tend to be in the middle or the tails of the opinion distribution?  That is, if truth usually has an opinion rank between 40% and 60%, then in a sense the middle conformist people are usually right.  But if the opinion-rank of truth is usually below 10% or above 90%, then in a sense the extremists are usually right.
+
+My response:
+1.  As Robin notes, this is ultimately an empirical question which could be answered by collecting a lot of data on forecasts/estimates and true values.
+2.  However, there is a simple theoretical argument that suggests that truth will be, generally, more extreme than point estimates, that the opinion-rank (as defined above) will have a distribution that is more concentrated at the extremes as compared to a uniform distribution.
+The argument goes as follows:
+  
+Suppose that everybody’s Bayesian, everybody has the same prior distribution, but with different small amounts of data.  To give some notation:  suppose we will be looking at a sequence of parameters, theta_1, theta_2, theta_3, … with a common prior distribution p(theta), which represents the true distribution of this population of theta’s.  (We could further suppose a hierarchical structure, so that p(theta) has hyperparameters that are estimated from data, but this is not necessary for our discussion here.)  For simplicity, suppose p(theta) is a normal (bell-shaped) curve centered at 0 with standard deviation sigma.
+Now suppose you get some data, y, on a parameter, theta, and summarize your inference by a point estimate which is your posterior mean, theta.hat = E(theta|y).  Averaging over all possible data y that you might see, this posterior mean a sampling distribution which is centered about 0 but with a standard deviation less than sigma.  This derives from an application of the basic variance-decomposition inequality:  var(theta.hat) = var(E(theta)|y) = var(theta) – E(var(theta|y)), which tells us that the theta.hat’s are less variable than the underlying thetas.  (This is a point we make in our paper, All Maps of Parameter Estimates are Misleading, and it also is discussed in some papers by Tom Louis.)
+I posted a simulation of this (along with R code) here.  (It seemed too technical to go into this blog.)
+Getting back to Robin’s question:  so, if everybody is Bayesian, using a prior distribution that correctly reflects the distribution of the underlying parameters being modeled, then, the point estimates will, on average, be closer to the center of the distribution as compared to the true values.  (To put it another way, the parameter estimates are shrunk toward the prior mean.)  And so the truth will look stranger than fiction–if fiction is thought of as point estimates!
+3.  This point arises in many statistical examples:  one’s best guess is inherently more sober than what might possibly happen, which is one argument for considering fanciful possibilities in fiction. Taking your best point estimate at every step of the way will not give a realistic simulation of reality.  Reality occasionally includes the unexpected.
+4.  We can apply this reasoning to sports scores, for example. Football games can be predicted to an accuracy of about 14 points (that is, the difference between the score differential and the point spread has an approximate normal distribution with mean 0 and standard deviation 14); see chapter 1 of Bayesian Data Analysis and some data here.  Looking at these data:
+– The average difference between winner’s and loser’s score is 12 points.– The average spread (point prediction of difference between winner and loser) is 5.3 points.– 71% of the time, the score is more extreme (in difference between winner’s and loser’s score) than the spread.  (The favorite beats the spread in about half the games, and in another 20% or so of the games, the underdog actually wins by a larger margin than the favorite was favored.)– The distribution of actual game outcomes (as measured by score differentials) is more extreme than the distribution of the point predictions.
+
+
+title: Truth is stranger than fiction
+
+date: February 13, 2007 11:06 am
+

@@ -1,0 +1,32 @@
+author: Robin Hanson
+
+text: 
+Obama will to try to save his med reform effort by getting more involved; he won’t leave it all to Congress anymore.  Some encourage him to stand tough for a public option (i.e., a cheap widely available government run insurance plan), while others say:
+Obama still has a chance with his speech on Wednesday to wrest control of this monster, but he’ll have to return to his original mission of lowering costs and making insurance portable and fair (no preexisting condition disqualification).
+But while most controversy has been on the public option, it is probably time for me to explain my opposition to that less controversial no-pre-existing-condition reform.  My basic complaint is that I’m pretty skeptical about the health value of medicine, at least at the usual spending margin, and I’d like more people to become skeptics.  But this reform would take away the huge financial reward for seeing the light and being a skeptic, because this reform would take a huge step toward nationalizing the med industry.  Let me explain.
+At the moment US folks have their med plan tied to their employer, and so are only insured over the timescale of their job.  If they have a medical condition when they switch jobs, they are no longer covered for that “pre-existing” condition under their new insurance.  This is a real problem.  The best solution is to break the employer-insurance tie and then encourage longer term insurance contracts, but that is said to be politically infeasible now.  So instead the Dems propose to make it illegal for insurance companies to raise prices or exclude coverage based on pre-exisiting conditions.
+But by itself that rule would tempt people to skip med insurance, or only get very cheap insurance, and wait to buy generous insurance only when they have a serious medical problem.  After all, the new rule on pre-existing conditions would make their insurance just as cheap even after their problem appeared.
+To avoid this behavior, the Dems also propose to require that everyone get insurance.  But that won’t really work if there are really cheap no-frills plans available – then people would just buy cheap plans while waiting for a problem to appear.  So the Dem’s fix is to specify in some detail just what all med plans have to cover, and to not allow prices to vary much.  Yes this avoids the wait-to-insure problem, but at the cost having the government decide which are the good treatments, and then make everyone buy them; skeptics could no longer opt out of tossing their money down the med money pit.
+Here are some quotes from the July 14 med reform bill passed by the US House:
+A qualified health benefits plan may not impose any pre-existing condition exclusion … or otherwise impose any limit or condition on the coverage under the plan with respect to an individual or dependent based on any health status-related factors. …
+An Exchange-participating health benefits plan …. is required … to provide specified levels of benefits … A qualified health benefits plan may not impose any restriction (other than cost-sharing) unrelated to clinical appropriateness on the coverage of the health care items and services. …
+The premium rate charged for an insured qualified health benefits plan may not vary except as follows: … By age (within such age categories as the Commissioner shall specify) so long as the ratio of the highest such premium to the lowest such premium does not exceed the ratio of 2 to 1. … By premium rating [geographic] area … By family enrollment (such as variations within categories and compositions of families) …
+Minimum Services To Be Covered: ..
+(1) Hospitalization.
+(2) Outpatient hospital and outpatient clinic services, including emergency department services.
+(3) Professional services of physicians and other health professionals.
+(4) Such services, equipment, and supplies incident to the services of a physician’s or a health professional’s delivery of care in institutional settings, physician offices, patients’ homes or place of residence, or other settings, as appropriate.
+(5) Prescription drugs.
+(6) Rehabilitative and habilitative services.
+(7) Mental health and substance use disorder services.
+(8) Preventive services. ..
+(9) Maternity care.
+(10) Well baby and well child care and oral health, vision, and hearing services, equipment, and supplies at least for children under 21 years of age. 20
+The Health Benefits Advisory Committee shall recommend to the Secretary of Health and Human Services … benefit standards… and periodic updates to such standards.
+Yes these rules appear to let plans exclude treatments that are “clinically inappropriate,” but since 46% of treatments are of “unknown effectiveness”, clearly they can’t let plans exclude such treatments, or their whole strategy would collapses.  Yes they might do more effectiveness research, but there are too many treatments to make more than a dent and the political pressures against excluding treatments would be enormous; so the reality will be that unless someone proved that a treatment doesn’t work, everyone will be required to buy that treatment.  Which would be a pretty sad situation if we med skeptics are right that on the margin med mostly doesn’t work.
+
+
+title: Against This Med Reform
+
+date: September 7, 2009 11:00 pm
+

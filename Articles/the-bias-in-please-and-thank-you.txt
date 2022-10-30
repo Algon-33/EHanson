@@ -1,0 +1,20 @@
+author: Stuart Armstrong
+
+text: 
+Being polite is an evident bias, but often seen as a minor one – at its worse, equivalent to a white lie. But politeness has a more sinister side, biasing people’s perception of the truthfulness of other (see for instance why some groups failed in this study).
+Especially in critical situations, politeness has a detrimental effect. When dealing with doctors reporting their medical opinions, perceived politeness is the issue:
+
+The more severe the condition, the greater the chance that the listener construes the [use of a probability qualifier such as “possible”] as a politeness marker rather than as an uncertainty marker.
+
+In other words, “you may have cancer” is taken as “you certainly have cancer, but I’m being polite” while “you may have a cold” is accepted at face value. The expectation of politeness clouds clarity at a critical juncture, and exaggerates the risks.
+Conversely, politeness can also decrease people’s perception of risk. When companies decide – or are forced – to publish a product recall notice, their aim is to give consumers clear information and to warn them of a possible danger. But they also deploy various politeness strategies within the recall notice to protect their corporate image. These strategies don’t bias customers’ perceptions of the dangers if the risk is low. However,
+
+[in high risk situations] the use of politeness strategies […] seems to have a negative effect on the acceptability of the recall message.
+
+Politeness, whether present or absent, looked for or unexpected, is a source of potentially dangerous bias.
+
+
+title: The bias in “please” and “thank you”
+
+date: May 2, 2007 8:59 am
+

@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+During the Biden administration, we will hear many argue that we should hand out more benefits to more people. Now when we economists argue for policy, we usually make economic efficiency arguments. So it is worth noting that for many of these policies, the main economic efficiency rationale for such handouts is “social insurance”. We are already seeing related arguments regarding pandemic relief and school loan forgiveness.
+The “social insurance” argument posits a scenario where many people would have wanted to buy private insurance against big risks that they (or their descendants) face, but private insurance markets failed to offer such insurance. And thus the government should step in and produce the effect that such insurance would have produced, which is to pay certain people in certain situations, and tax everyone else to pay for it.
+Now it is certainly true that insurers don’t offer all possible kinds of insurance. This can be due to legal restrictions, transaction costs, and information asymmetries. But it can also be due to limited demand. What if most people don’t actually want the insurance that “social insurance” would provide?
+We already see many puzzling patterns in common insurance choices. Insurance was long illegal most everywhere, but then in the 1800s the first big retail success of insurance was life insurance sold to husbands as a way to signal devotion to their wives. Today, people often insure small risks like a new piece of electronics breaking, but fail to insure many of the largest risks in their lives, like failures at school, career, or marriage. And when I’ve asked students if they want to insure against such big risks, most usually say no, they don’t.
+To explore this further, I did some Twitter polls on willingness to pay for 15 kinds of risks. Here are those risks, sorted by the fraction of respondents who says they would find value in fairly-priced insurance:
+
+Note that only a majority favors private insurance for the top six items, and private insurance is in fact available for all of these today. Note also that these results are from the 3rd version of these polls that I tried. I found smaller fractions wanting insurance in the 2nd and 1st sets.
+Of course people aren’t always honest in polls; maybe they really do want to insure far more risks than they say. And the fact that people often push political systems for “social insurance” policies is supporting evidence. But equally plausible, I think, is the theory that many really just want to use government to induce transfers, but when those folks are economists they try to justify such plans using econ efficiency lingo.
+A clean test would be for the government to offer fairly-priced insurance against many risks, to ensure that no market failures prevents the availability of such insurance. Or even to subsidize such insurance. If there were actually a market failure preventing such insurance, that seems the most direct way to fix the problem. Yet we almost never see proposals like this; people almost always just push for more handouts. I wonder why.
+Added 9a: The usual insurance “market failures” are:
+
+Moral hazard – which government can only fix if it can see more private acts than can private insurers.
+Adverse selection – which can be solved by requiring purchase of private insurance, and whose existence requires the opposite correlation between risk level and insurance quantity than the one we usually see,
+Scale economics – which private insurers might also achieve if not forbidden by antitrust rules.
+
+To get private long term insurance, we could let kids sign insurance contracts when young, or empower their parents or grandparents to agree on their behalf. Note that today parents could, but usually do not, implement partial poverty insurance by insisting that their richer kids transfer to their poorer kids. As more than half of of national income variance is of this within-family form, this could achieve more than half of the gains possible from poverty insurance within a nation. And parents are much better placed than government to adjust for moral hazard of varying child efforts.
+
+
+title: Who Wants Social Insurance?
+
+date: November 23, 2020 5:20 am
+

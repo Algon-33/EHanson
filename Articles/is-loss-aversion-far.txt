@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Survey data show that subjects positively discount both gains and losses but discount gains more heavily than losses. This holds for monetary and non-monetary outcomes. These results do not confirm the findings of two earlier studies [L87,LP91] about negative time preferences for non-monetary outcomes. … We increased sample size to 190 and also looked at median instead of mean answers. L87 involved 30 US undergraduates and LP91 involved 95 Harvard undergraduates. L87 and LP91 conducted their study in the US while this study was conducted in Italy. In the about 20-years period between the original experiments and our study, we have not found a published replication of it. (more)
+Perhaps we are more loss-averse in far mode.  Could this help explain why folks focus so much on the possible negative consequences of  future technologies?
+
+
+title: Is Loss-Aversion Far?
+
+date: December 24, 2010 4:00 pm
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Arnold Kling:
+[James] Manzi is a fan of randomized controlled experiments in business and public policy (in the latter, examples include the Rand health care study and the Wisconsin income-maintenance studies). I believe that decision-makers will resist this approach, for the same reason that they resist Robin Hanson’s suggestion to use prediction markets. That is, decisions are not necessarily about achieving results. They are often about establishing the status of the decision-maker. For a decision-maker to conduct experiments or to employ prediction markets is to admit ignorance and doubt, which lowers the decision-maker’s status. (more)
+The examples of disinterest in random trials and prediction markets both help convince me that management is often less interested in information that it pretends to be. But since I’m giving a talk on the subject soon, I’d like other examples. So I ask you, dear readers: what common patterns of manager behavior suggests they are less (or more) interested in info than they let on?
+
+
+title: Seeking Firm Info Hypocrisy Examples
+
+date: March 6, 2012 1:40 pm
+

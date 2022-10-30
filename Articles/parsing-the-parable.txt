@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+The timing of Eliezer’s post on outside views, directly following mine on an outside view of singularity, suggests his is a reply to mine.  But instead of plain-speaking, Eliezer offers a long Jesus-like parable, wherein Plato insists that outside views always trump inside views, that it is obvious death is just like sleep, therefore that "our souls exist in the house of Hades."  
+ I did not suggest mine was the only or best outside view, or that it trumps any inside view of singularity. Reasonable people should agree inside and outside views are both valuable, and typically of roughly comparable value.  So if Eliezer thought my outside analysis was new and ably done, with a value typical of outside analyses, he might say "good work old boy, you’ve made a substantial contribution to my field of Singularity studies."  
+ Instead we must interpret his parable.  Some possibilities: 
+
+His use of Plato’s analogy suggests he thinks my comparison of a future AI revolution to the four previous suddenly growth rate jumps is no better motivated than Plato’s (to Eliezer poorly motivated) analogy. 
+His offering no other outside view to prefer suggests he thinks nothing that has ever happened is similar enough a future AI revolution to make an outside view at all useful. 
+His contrasting aerospace engineers’ success to schedulers’ failures in inside views, suggests he thinks he has access to inside views of future AIs whose power is more like aerospace engineering than project scheduling.  
+
+  
+Look, in general to do a multivariate statistical analysis of a set of related cases one must judge what cases to include, with what variables to describe them, and what kind of a model of multivariate relations to apply.  So yes when there is more uncertainty there can be more disagreements about the best approach, and the outside view becomes less useful.
+ But more uncertainty also makes inside views less useful.  When many parameter value combos are possible one must choose a distribution with which to sample over them.  And tractable analyzes must focus on a few factors considered the most important.  More uncertainty makes for more disagreements here as well.  So I don’t yet see a general rule saying inside views tend to be more valuable when there is more uncertainty.   
+ Future AI is so important and hard to study I’d think interested folks would grab at any concrete guides they could find, including careful outside views.  I look forward to hearing clear reviewable results from an inside analysis, particularly on the crucial question I addressed of transition-induced inequality.  So far all I’ve seen is folks noting that we don’t know enough to exclude the possibility of huge inequality, which by itself seems a pretty weak argument.  
+
+
+title: Parsing The Parable
+
+date: June 21, 2008 4:00 pm
+

@@ -1,0 +1,35 @@
+author: Robin Hanson
+
+text: 
+While many things count for status in our society, most of us have a rough idea of their relative weight, at least for common evaluations. But we understand the origins of these weights poorly. This ignorance seems especially clear when we consider how status might change in the future. For example, I’ve been pondering the scenario of a future world dominated by ems (whole brain emulations), and realize that it seems especially unclear what would count more for status among ems. Some possibilities:
+
+Pure physical size or power
+Impressiveness in conversation or verbal sparring
+How well its personality embodies the ideals of its age
+How mental, complex, or abstract is its job
+# other statusful ems this em commands or controls
+The accomplishments of this copy, since its last split.
+# other high status ems know it personally
+Political influence of this em in local disputes
+Personal em wealth
+Current daily wages
+Current daily profit, of wages minus cost to exist
+The status its human had in the pre-em world
+Total time this mind has experienced subjectively
+Time expected until em forced to retire/archive
+# active copies expected of this em at a future date
+# active “clan” copies, all of the same pre-em human
+# active copies expected of this clan at a future date
+The total accomplishments of the entire copy clan
+# other high status ems know anyone in clan
+Total wealth of its copy clan
+Total potential political influence of its copy clan
+
+Of course if we had a good theory of status, we could use that to predict future status. For example, if status were a measure of future evolutionary success, then #15 would make sense. But if status were instead a measure of the value of an ally in local coalition politics, then #8 would make more sense.
+Many of these measures (e.g., #14) could produce an abrupt change in status when a new copy is created. Do abrupt status changes make sense when others’ opinions about you haven’t changed?
+
+
+title: What Status Ems?
+
+date: October 12, 2011 6:50 pm
+

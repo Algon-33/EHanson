@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Mencius Moldbug and I did debate futarchy Saturday.  I’m not sure when the vid will be posted; here’s audio (start at 1:30).  Moldbug also has a follow-on 3700 word post; his main complaint is manipulator payola:
+Suppose player P stands to make $X from decision D. In our chess example, he might have a side bet, paying $X, that White will open with P-KB4. Therefore, the question is: what will be his expected loss, $Y, from buying enough P-KB4 bets that White opens with P-KB4?  If X is greater than Y, manipulating the market (ie, moving it intentionally) is profitable. …
+Professor Hanson … addresses this problem in three ways.  First, he constructs a model in which Y is infinite and X is finite. … Second, he does sociological experiments with undergraduates. He sets up these markets such that Y is greater than X. …  Third, he finds actual markets in which actual manipulations fail. …  None of this goes even a millimeter toward proving what needs to be proved – namely, that in all markets, Y is always greater than X. …
+Honestly, I think the greatest difference between my perspective and Professor Hanson’s is just that I have much higher standards. His entire argument proceeds from the position that, since government today is so bad, anything that could be somewhat less bad is worth a look. … Don’t people buy decisions now? Well, gee, they sure do. So there you go.
+For me, government safety is like airplane safety. Not only do I want a watertight proof that Y is greater than X, I want two or three parallel and independent proofs. At least one of them will probably turn out to be wrong. Professor Hanson is a professor, and thinks like a professor. I’m an engineer, and think like an engineer.
+I am also a student of history. … the European writers of the Victorian era, whose aristocratic governments worked much better than ours, and were thus appalled by government failures which to us seem trivial and not worth mentioning.
+In the debate, I suggested we start by trying fire-the-CEO markets, and only gradually rely more on them in CEO decisions as such markets collect good track records.  Moldbug seems to accept wide trading in ordinary stock markets because he doesn’t think any decisions depend on them, but strongly advises against allowing non-employees to trade in fire-the-CEO markets, due to manipulation concerns.  But even a track record showing that firms which followed market advice do better on average than firms that do not would not persuade him.
+In fact, Moldbug the “engineer” says no data anyone could collect in the lab or in any organization smaller than a nation would be relevant, and even with nations he doubts we’d see hidden manipulation. Nor does any data collected in the last century test his belief that the best governments are single rulers running city-sized polities with iron fists and complete discretion.  It is not even clear what prior data makes his case – apparently it can’t be summarized in any concise form; you have to just read dozens of books and have a feel for it.
+Not only does Moldbug know such iron fists would rule best, allow emigration, not cheat their investors, and never ever accept manipulator payola, he apparently knows this deductively, as a noble philosopher, not like data-addicted corrupt pansy social scientists.  And he has no interest in improvements in the status quo below his philosopher-deduced-best pinnacle.
+What more can one say to such a person?
+
+
+title: My Moldbug Debate
+
+date: January 20, 2010 11:40 pm
+

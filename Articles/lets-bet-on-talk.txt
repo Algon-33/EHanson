@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Science reports that recordings of 400 university students found men and women both say about 16,000 words per day:
+
+We have developed a method for recording natural language using the electronically activated recorder (EAR) … participants wear the EAR for several days during their waking hours. The device is programmed to record for 30 s every 12.5 min. All captured words spoken by the participant are transcribed. …  The data suggest that women spoke on average 16,215 (SD = 7301) words and men 15,669 (SD = 8633) words over an assumed period of, on average, 17 waking hours … the difference does not meet conventional thresholds for statistical significance.
+
+ See also the New York Times and Marginal Revolution.  The method was so easy and they are getting so much criticism for only looking at university students, surely someone will soon do a similar study on older adults.  This would be a perfect "idea futures" application – let’s bet on the fraction of words women are found to speak in that new study. 
+Added:  At my suggestion, InTrade is now offering this as a betting topic!   
+
+
+title: Let’s Bet on Talk
+
+date: July 7, 2007 6:00 am
+

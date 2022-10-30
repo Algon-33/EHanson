@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Far more academics study the past than the future.  That is, while most academics may study unchanging truths which apply equally well to all times, among academics who focus on particular times other than our own, far more focus on past than future times.  Why?   
+ Yes, we have more data on the past, but the future seems more interesting.  Our decisions today have far more influence on aspects of the future we care about, than the past.  And academics often overlook less interesting topics with lots of data, to focus on harder but more interesting topics.
+ Since we are more uncertain about the future than the past, study of the future would consist in elaborating more scenarios in less detail, relative to fewer more-detailed past scenarios.  Futurists could be hitech, constructing vast computer simulations and decision trees.  As with history, futurists could scour other fields for clues about the time they study.  Surely some people would be better at these tasks than others, so future study could also serve to signal intellectual ability.  
+ So why more history than futurism?  My best guess is that non-futurism intellectuals find it harder to independently evaluate claims about the future, relative to the past.  Ordinary people can read historians and be impressed by their apparent command of detail and care of analysis.  Such readers can then similarly impress each other by quoting what historians tell them.  It would be far harder to do similar things for the future.  If true, this theory suggests amateur evaluation importantly influences academic attention. 
+ I’m not very confident in this theory though; anyone have other explanations?  From a lunch conversation a week ago.  
+
+
+title: Why More History Than Futurism?
+
+date: October 4, 2007 6:00 am
+

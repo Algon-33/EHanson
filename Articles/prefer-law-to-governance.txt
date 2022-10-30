@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Libertarians are usually adamant that they prefer less government to more. But sadly this tends to make them reluctant to express opinions on choices between different non-zero government scenarios. After all, that might have them seeming to endorse some non-zero government scenario, while their primary desire is to make it clear that they are anti-government. So the main choices on which they are willing to express an opinion is between ones with clearly “more” versus “less” government.
+Alas, because there really are other choices that matter in the world. For example, it might matter how local is the government that is involved in any given area of life, even if a local and centralized government would have the same “amount” of involvement. It might also matter how accountable is government to citizens, and on what timescales; governments can be more or less “democratic” even when they have the same scope for controlling citizens.
+One big choice that I think matters a lot is between dealing with a problem via civil law, or via governance. Civil law mainly deals with after-the-fact disputes between equal parties, where judges can’t anticipate whom they will judge, and where judges must articulate clear principles of choice. In contrast, governance gives a lot more discretion for officials to give orders regarding future actions, to pick out the people they want to influence, and to treat similar people quite differently.
+For example, governance can deal with pollution by issuing detailed regulations on how, where, and by whom pollutants are made and used. In contrast, civil law can deal with pollution by letting those who suffer from it sue those who caused it. Governance can deal with poverty by taking money from whomever it wants, giving money to whomever it wants, and requiring recipients to abide by any lifestyle rules it wants. In contrast, civil law can deal with poverty by requiring siblings and cousins to take care of each other when in dire need.
+Governance can deal with crime by managing police, prosecutors, and prisons who decide in great detail who will be be investigated and punished how and for what. In contrast, private bounty hunters and required liability insurance could make these all private choices, leaving to the community only the choice of what is a crime and how strongly it is to be discouraged and discovered.
+Governance dealt with the pandemic by issuing regulations about masks, distancing, lockdowns, etc., by limiting and commanding how vaccines can be tested and produced, and then directly managing their distribution. In contrast, law could have dealt with the pandemic only via requiring liability insurance and the preservation of sufficient info to allow the infected to sue those who caused it.
+In all these cases the key difference is less about the overall level of government control, and more about the discretion of government officials, which allows favoritism, corruption, and over-confident micro-management. In the choice between law and governance, I usually prefer law. (Though yes of course, I don’t know how to manage a war well via law.)
+
+
+title: Prefer Law To Governance
+
+date: April 6, 2021 11:20 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+A groundbreaking report by the National Academy of Sciences (NAS) last year recognized that much of forensic science is not rooted in solid science. Many forensic disciplines — such as hair microscopy, bite-mark comparisons, fingerprint analysis, firearm testing and tool-mark analysis — were developed solely to solve crimes.  They evolved mainly in the context of individual cases, which often had significant variation in resources and expertise. They have not been subjected to rigorous experimental scrutiny, and there are no standards or oversight in the United States or elsewhere to ensure that validated, reliable forensic methods are used consistently. With the exception of DNA analysis, no forensic method has been proved to reliably and accurately demonstrate a connection between evidence and a specific source. …
+We advocate the creation of an office of forensic science improvement and support (OFSIS) within the US Department of Commerce to spur independent research, develop standards and ensure compliance. … [Some] within the forensic-science and law-enforcement fields … argue that an OFSIS is not necessary and that laboratory accreditation is sufficient. … They argue that an OFSIS would cost too much … and that it could create chaos in the US justice system by reopening countless old cases. … Political and criminal-justice ends — rather than research imperatives — have taken forensic science off course. … See www.just-science.org.
+More here.  The primary social pressure on law court practices is for courts to give the appearance of punishing guilty folks.  Observers have much less info on who is actually guilty.  So the main pressure on legal standards is that officially-accepted evidence seem to the public, juries, and judges to indicate guilt, not that it actually indicate guilt.  We expect the law to be overconfident about its evidence.
+Requiring that legal evidence standards stand up to independent experimental scrutiny would create a more accurate legal system, but at the expense of reducing the apparent rate at which the guilty are punished.  So I expect, sadly, this proposal to be rejected.
+
+
+title: Forensic Delusions
+
+date: March 20, 2010 6:00 am
+

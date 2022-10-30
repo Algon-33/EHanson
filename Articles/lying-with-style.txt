@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+Clear and Simple as the Truth, the best book I've read in years, explains the virtues and lies of a very popular writing style.  Excerpts:
+A [writing] style is defined by its conceptual stand on truth, presentation, writer, reader, thought, language, and their relationships. … Classic style is in its own view clear and simple as the truth. It adopts the stance that its purpose is presentation; its motive is disinterested truth. Successful presentation consists of aligning language with truth, and the test of this alignment is clarity and simplicity. The idea that presentation is successful when language is aligned with truth implies that truth can be known; truth needs no argument but only accurate presentation; the reader is competent to recognize truth; the symmetry between writer and reader allows the presentation to follow the model of conversation; a natural language is sufficient to express truth; and the writer knows the truth before he puts it into language. … 
+
+title: Lying With Style
+
+date: March 5, 2009 6:00 am
+

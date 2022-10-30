@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Great news: The cryonics organization Alcor is adding $10,000 to the Brain Preservation Technology Prize Evaluation Fund. With the other donations counted here (including my $5000), that should bring the prize evaluation fund to near $30,000, which might be near enough (so please donate more):
+We [Alcor] are committing $10,000 towards the Evaluation Fund. … Although the Prize itself is fully funded, funds are needed to conduct the evaluation. Alcor’s contribution will make a big difference, since the tests are estimated to cost $25,000 to $50,000.
+Alcor does not directly have a horse in this race. The cryopreservation approach is represented by a team from 21st Century Medicine. 21CM aims to demonstrate the quality of ultrastructure preservation that their low temperature vitrification technique can achieve when applied to whole rabbit brains.
+We will follow up this announcement of Alcor’s contribution with a longer piece. That article will address claims (currently untested) for the advantages of chemopreservation over cryopreservation. We will critically examine the claim that chemopreservation or plastic embedding would be much cheaper (for individuals not committed to whole body preservation), look at some reasons to expect significant damage caused by chemopreservation of whole brains, identify problems for chemopreservation under less-than-ideal circumstances, explain why the Prize handicaps the cryopreservation option because of the way the test is to be carried out, and will argue why brain preservation technologies should be evaluated by viability criteria as well. (more)
+While I look forward to reading their critique, I’ll note no one has accepted my bet offer:
+I offer to bet up to $5K that plastination is more likely to win this full prize than cryonics. (more)
+My thinking has evolved a bit over the last month. In chemopreservation [= plastination], one fills a brain with plastic-like chemicals, which make strong cross-links bonds between most everything they touch. So there are two times when brain info can be lost: before it is filled with plastic, and after.
+Assuming you can keep them safe from melting, burning, etc., plastic brains should last for a very long time:
+Brain researchers have looked at samples preserved many decades ago, and see almost no change. Tissues preserved in amber seem to have remain unchanged for forty million years. (more)
+So the main issue is how much info is lost before filling with plastic. Now it is obvious that non-fresh brains with collapsed blood vessels pose a serious problem – the plastic might just not get to some places. But for brains filled with plastic within a few minutes of live blood flow, I just can’t see the problem.
+For example, imagine that key brain info is encoded in certain key protein densities at tiny synapse pores, with different nearby pores having different key proteins. As long as there are thousands of copies of each key protein in each pore area, the plastic will almost surely usually preserve the info of which kind of proteins were in which areas. Even if some key proteins move away from their pores, most will stay near, and the amino acid sequences that define the proteins will mostly be preserved by the cross-link bonds the plastic makes.
+And even if this isn’t true for twenty percent of the key proteins, there is almost surely enough brain system redundancy for this to not matter. Yes, you’d need a finer scan than the Brain Preservation Prize will use to read it, but the info is still there.
+So as far as I can tell, the main issue with plastination [= chemopreservation] is how quickly brains can fill with plastic after ordinary blood flow has stopped. If we can find ways to do that well, plastination just wins, I think, at least for the goal of saving the info that is you.
+Added 19July: Sad news:
+The [Brain Preservation] Foundation has declined [Alcor’s] donation because of concerns that it might be perceived as influencing the judges’ decisions.
+Added 13Jan’13: They reached their $25K goal!
+
+
+title: Brain Prize Eval Fund Near Enough
+
+date: July 14, 2012 1:00 pm
+

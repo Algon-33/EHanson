@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Academics have a great tradition of review articles.  Even in areas where studies are conflicting and controversial, review articles try to present a neutral summary of the current state of the debate.  Of course review articles are often accused of being covertly partisan, but at least they are usually not overtly partisan.  Review article authors usually focus on hard analysis and data over speculation, and bend over backwards to appear neutral via their tone, style, and presentation.  This social norm of neutral summaries seems to help academics aggregate info in complex areas. 
+ Today, many academics say the current US presidential election is of enormous importance, and wonder how they can help.  And yet most everything I see academics doing on this election is overtly partisan – folks act as if it were obvious who is the best candidate, and just wonder how best to help that candidate.
+But If this election is really more important that the typical topic covered by an academic review article, why not write election review articles to advise academics like me who are honestly uncertain how to vote?  An election review article would apply typical academic standards to review what we know about the actual consequences of choosing each candidate.
+ For example, in this election the two candidates come from two established political parties.  So a review article could summarize published analyses attempting to discern how national outcomes relate to the party holding office.  Better yet, it could summarize the implications of published multivariate analyses, relating national outcomes to many candidate features.  Of special interest might be candidate policy positions; one could summarize how candidate policy positions have related historically to actual chosen policies.  For particular policy positions of these particular candidates, one could point to and summarize other academic review articles on the consequences of those particular policies.  
+ Sure some will accuse election review articles of being covertly partisan.  But given all the other academic review articles out there, why does no one even try this?  I was hoping disinterest in presidential decision markets came from inertia and novelty-aversion, but are even academics just aren’t interested in neutral evaluations? 
+
+
+title: Election Review Articles
+
+date: September 10, 2008 6:00 am
+

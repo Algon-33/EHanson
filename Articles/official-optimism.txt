@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Governments consistently overestimate their future budgets:
+Analyzing data for 33 countries, Frankel finds that the average upward bias in the official forecast of the budget balance, relative to the realized balance, is 0.2 percent of GDP at the one-year horizon, 0.8 percent at the two-year horizon, and 1.5 percent at the three-year horizon. The longer the horizon, and the more genuine uncertainty there is, the more scope there is for wishful thinking. The bias is not larger for the commodity producers, … or for the developing countries, than for others. …
+Over-optimism in predicting growth appears linked to over-optimism in predicting budget balances. On average, the upward bias in growth forecasts is 0.4 percent when looking one year ahead, 1.1 percent at the two-year horizon, and 1.8 percent at three years. The bias in growth forecasting appears in the United States and most other industrialized countries, but not among the commodity producing countries in the sample. …
+Over-optimism is more prominent, for both budget balances and for economic growth, during economic booms. …. Countries subject to a budget rule … make official forecasts of growth and budget deficits that are even more biased and more correlated with booms than do other countries. Evidently when such governments exceed the deficit limits set by the rules, they respond by adjusting their forecasts rather than by adjusting their policies …
+As a result of budget institutions created in 2000, Chile’s official forecasts of growth and of budget balance have not been overly optimistic, even in booms. (more)
+The key institutional innovation [in Chile] is that there are two panels of experts whose job it is each mid-year to make the judgments, respectively, what is the output gap and what is the medium term equilibrium price of copper, rather than leaving the job to government officials. …. A reinforcement of the Chilean idea would be to give the panels legal independence.  There could be laws protecting them from being fired, as there are for governors of independent central banks. (more)
+Prediction markets forecasting budget balances and growth rates would be easy, and they’d reliably resist political pressure for overly optimistic estimates. So why even bother with trying to figure out how to design expert panels that can remain both expert and independent?  Either Frankel naively thinks this easy, he is ignorant of the market solution, or doesn’t really want to promote accurate budget estimates.
+
+
+title: Official Optimism
+
+date: November 2, 2011 8:30 am
+

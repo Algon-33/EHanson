@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Detective: “Is there any other point to which you would wish to draw my attention?”
+Holmes: “To the curious incident of the dog in the night-time.”
+Detective: “The dog did nothing in the night-time.”
+Holmes: “That was the curious incident.”
+We’ve seen several centuries of continuing economic growth enabled by improving tech (broadly conceived). Some of that tech can be seen as “automation” where machines displace humans on valued tasks.
+The economy has consistently found new tasks for humans, to make up for displaced tasks. But while the rate of overall economic growth has be relatively steady, we have seen fluctuations in the degree of automation displacement in any given industry and region. This has often led to local anxiety about whether we are seeing the start of a big trend deviation – are machines about to suddenly take over most human jobs fast?
+Of course so far such fears have not yet been realized. But around the year 2000, near the peak of the dotcom tech boom, we arguably did see substantial evidence of investors suspecting a big trend-deviating disruption. During a big burst of computer-assisted task displacement, the tech sector should soon see a big increase in revenue. So anticipating a substantial chance of such a burst justifies bigger stock values for related firms. And this graph of the sector breakdown of the S&P500 over the last few decades shows that investors then put their money where their mouths were regarding such a possible big burst:
+
+In the last few years, we’ve heard another burst of anxiety about an upcoming big burst of automation displacing humans on tasks. It is one of our anxieties du jour. But if you look at the right side of the graph above you’ll note that are not now seeing a boom in the relative value of tech sector stocks.
+We see the same signal if we look at majors chosen by college graduates. A big burst of automation not only justifies bigger tech stock values, it also justifies more students majoring in tech. And during the dotcom boom we did see a big increase in students choosing to major in computer science. But we have not seen such an increase during the last decade.
+So the actions of both stock investors and college students suggest that they do not believe we are at substantial risk of a big burst of automation soon. These dogs are not barking. Even if robots taking jobs is what lots of talking heads are talking about. Because talking heads aren’t putting their money, or their time, where their mouths are.
+
+
+title: Investors Not Barking
+
+date: November 3, 2015 2:55 pm
+

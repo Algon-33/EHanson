@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+Eliezer Tuesday: 
+
+ EURISKO may still be the most sophisticated self-improving AI ever built – in the 1980s, by Douglas Lenat before he started wasting his life on Cyc.  … EURISKO lacked what I called "insight" – that is, the type of abstract knowledge that lets humans fly through the search space.  
+
+ I commented: 
+
+ You ignore that Lenat has his own theory which he gives as the reason he’s been pursuing CYC. You should at least explain why you think his theory wrong; I find his theory quite plausible.
+
+ Eliezer replied only:
+
+Artificial Addition, The Nature of Logic, Truly Part of You, Words as Mental Paintbrush Handles, Detached Lever Fallacy…
+
+ The main relevant points from these Eliezer posts seem to be that AI researchers wasted time on messy ad-hoc non-monotonic logics, while elegant mathy Bayes nets approaches work much better, that it is much better to know how to generate specific knowledge from general principles than to just be told lots of specific knowledge, and that our minds have lots of hidden machinery behind the words we use; words as "detached levers" won’t work.  But I doubt Lenat or CYC folks disagree with any of these points.
+ The lesson Lenat took from EURISKO is that architecture is overrated;  AIs learn slowly now mainly because they know so little.  So we need to explicitly code knowledge by hand until we have enough to build systems effective at asking  questions, reading, and learning for themselves.  Prior AI researchers were too comfortable starting every project over from scratch; they needed to join to create larger integrated knowledge bases.  This still seems to me a reasonable view, and anyone who thinks Lenat created the best AI system ever should consider seriously the lesson he thinks he learned. 
+  
+Of course the CYC project is open to criticism on its many particular choices.  People have complained about its logic-like and language-like representations, about its selection of prototypical cases to build from (e.g., encyclopedia articles), about its focus on answering over acting,  about how often it rebuilds vs. maintaining legacy systems, and about being private vs. publishing everything.
+But any large project like this would produce such disputes, and it is not obvious any of its choices have been seriously wrong.  They had to start somewhere, and in my opinion they have now collected a knowledge base with a truly spectacular size, scope, and integration.
+ Other architectures may well work better, but if knowing lots is anywhere near as important as Lenat thinks, I’d expect serious AI attempts to import CYC’s knowledge, translating it into a new representation.  No other source has anywhere near CYC’s size, scope, and integration.  But if so, how could CYC be such a waste?
+ Architecture being overrated would make architecture-based fooms less plausible.  Given how small a fraction of our commonsense knowledge it seems to have so far, CYC gives little cause for optimism for human level AI anytime soon.  And as long as a system like CYC is limited to taking no actions other than drawing conclusions and asking questions, it is hard to see it could be that dangerous, even if it knew a whole awful lot.  (Influenced by an email conversation with Stephen Reed.)
+Added:  Guha and Lenat in ’93:
+
+The Cyc project … is not an experiment whose sole purpose is to test a hypothesis, rather it is an engineering effort, aimed at constructing an artifact. … The artifact we are building is a shared information resource, which many programs can usefully draw upon.  Ultimately, it may suffice to be the shared resource…. If there is a central assumption behind Cyc, it has to do with Content being the bottleneck or chokepoint to achieving AI. I.e., you can get just so far twiddling with … empty AIR (Architecture, Implementation, Representation.) Sooner or later, someone has to bite the Content bullet. … The Implementation is just scaffolding to facilitate the accretion of that Content. … Our project has been driven continuously and exclusively by Content. I.e., we built and refined code only when we had to. I.e., as various assertions or behaviors weren’t readily handled by the then-current implementation, those needs for additional representational expressiveness or efficiency led to changes or new features in the Cyc representation language or architecture.
+
+At the bottom of this page is a little box showing random OpenCYC statements "in its best English"; click on any concept to see more.  OpenCYC is a public subset of CYC.
+
+
+title: I Heart CYC
+
+date: December 1, 2008 6:00 am
+

@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Yesterday I said that med spending increased faster for pets, vs. farm animals, suggests that med spending increases are due mainly to demand, not supply, effects. We spend more on pet medicine now more because we care more about pets now, or want to show we care, and less because doctors have invented new useful treatments.
+Now consider dog vs. cat medicine. A 2007 source said that at one point annual med spending was $200 per dog and $81 per cat. (It was $92 per horse, $9 per bird. Today we spend $655 per dog; other current figures available here for only $3000. Sigh.) So we spent 2.5 times as much on dog med, vs. cat med. Yet dogs and cats have about the same lifespan (dogs, cats), and similar rates of medical problems:
+50% of today’s cat owners never take their cats to a veterinarian for health care. … Because cats tend to keep their problems to themselves, … cats, on an average, are much sicker than dogs by the time they are brought to your veterinarian for treatment. (more)
+I doubt we should blame this on cats. It seems more likely that cat owners pay less attention to cats, because they care less:
+74 percent of the test sample like dogs a lot, while only 41 percent like cats a lot. … 15 percent of the adults questioned said they disliked cats a lot while the number who said they disliked dogs a lot was only 2 percent. … Dog people were 11 percent more conscientious than cat people. … Cat people were generally about 12 percent more neurotic. (more)
+Yet there are more cats than dogs. Note also that both WebMD and wikipedia have pages devoted to dog lifespan; neither have such a page for cats. Dogs are famously more loyal than cats, and it seems plausible that dog owners thus feel more loyal to dogs, and more obligated to help when sick.
+I tentatively conclude that we spend 2.5 times as much on dog vs. cat pet medicine mainly because we care more about dogs. This shows a huge demand effect on med spending.
+Now consider that in our society many consider men more expendable than women. We send men to war, expect men to put themselves in harms way to protect women, and try to save “women and children first.” Women also go to the doctor a lot more often than men, even though men are on average sicker (they die faster). For 2008 US doctor office visits, here is the ratio of women to men by age:
+All,  1.43; <15,  0.93; 15–24, 2.24; 25–44, 2.26; 45–64, 1.39; 65–74, 1.11; >75,  0.95. (more)
+This also seems likely to be a demand effect – we spend more on female medicine mainly because we care more about women, or care more to show that we care about them.
+Added 7p: That Marketplace show quotes similar numbers for dog and cat spending:
+The average dog owner spends $655 a year on health care, that’s up 50 percent from a decade ago. Cat owners are in for $644, up nearly 75 percent.
+So did we once to care more about dogs, and now care about the same?
+
+
+title: Dog vs. Cat Medicine
+
+date: February 17, 2012 9:20 am
+

@@ -1,0 +1,15 @@
+author: Hal Finney
+
+text: 
+   
+One of the topics which I have been following for the past couple of years is “Peak Oil”, the theory that global oil production will soon peak, imposing vast changes on the social and political world order. I find it a great test case for the issues we have been discussing here. The issue brings widespread disagreement, and it’s one where knowing the truth is of great importance even for the average person.
+A good starting point to get a handle on the situation is to look at what commodities traders call a “futures strip” for oil prices. Here’s a chart I created showing the prices of oil futures contracts from January 2007 through December 2012 as of the close of trading yesterday:
+ 
+ 
+The obvious message of this chart in terms of future oil prices is that they are expected to be relatively stable. The whole next six years stay within the range of $60-$70 per barrel. This is unlikely to be consistent with a significant oil shortage in that time frame. The markets seem to be telling us that Peak Oil is not a near-term concern.
+
+
+title: The Future of Oil Prices
+
+date: December 23, 2006 3:15 pm
+

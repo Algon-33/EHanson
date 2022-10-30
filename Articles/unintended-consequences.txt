@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+On [Thursday], the Dow Jones industrial average rapidly fell nearly 1,000 points before rebounding 700 points. … Although regulators have not pinpointed the cause, it has become increasingly clear that the stock exchanges’ disparate rules contributed to the market chaos. … As several stocks declined sharply under heavy selling pressure, the New York Stock Exchange, one of the largest pools, stopped or slowed trading in particular stocks.
+As part of that process, the NYSE held on to “buy” orders, in the hopes that it could gather enough of them to meet the selling demand. “Sell” orders that came to the NYSE were rerouted to other exchanges, which were not required to slow trading. Those other exchanges were soon overflowing with sell orders and didn’t have enough buy orders to meet them, leading to the rapid decline in prices. (more)
+So an NYSE regulation intended to prevent large price drops actually caused a big price drop.  Of course one must expect all regulations to have unintended consequences; the issue is whether regulators understand a situation well enough to on net to improve it via imperfect regulations.  My guess is that in this case no regulation is on average better, but that savvy regulators expect that the public expects them to “do something.”
+
+
+title: Unintended Consequences
+
+date: May 11, 2010 10:10 am
+

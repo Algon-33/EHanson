@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+How can we learn to see our signaling more clearly?  That is, how can we learn to see what our behavior would be like if we had not evolved to show off, but had still evolved to achieve the other non-show-off functions of our behavior?
+Some suggest we look at folks who are alone, but isolation was pretty rare for our distant ancestors, most interesting behaviors happen around others, and observers often give extra weight to the behavior of folks who expect to be alone.  Here is a more reliable clue:
+[In] standard one-dimentional signaling models, … signaling incentives distort actions most for the best agents, and *not at all* for the worst agents.
+In a standard game-theoretic signaling separating equilibrium, each person sees their hidden one dimensional ability A, and then chooses a one-dimensional effort E(A).  These together determine a visible one-dimensional performance P(A,E(A)).  Knowing the equilibrium behavior E(A) of the game, observers can then infer a person’s ability A from his performance P.  The fact that others observe one’s performance usually induces extra effort E, which contributes to the waste of signaling.
+In such an equilibrium, the people with the lowest possible ability A know they can’t gain by pretending to be any other type, and know that even doing their best they will be revealed to others to be of the worst type. So they know they might as well choose zero extra effort, and make their choice ignoring signaling incentives.  If everyone is going to know you are lazy, you might as well put your feet up and relax; if everyone thinks you terribly ugly, why bother with makeup?
+This is of course only a model; the real world isn’t exactly like this.  But I suspect its conclusion is robust: the behavior of those who send worst signals are the least influenced by signaling distortions.  So if you want to see what humans look when they are not trying to impress, even unconsciously, look at the worst folks.
+
+
+title: Who Signals Least?
+
+date: August 22, 2010 12:00 pm
+

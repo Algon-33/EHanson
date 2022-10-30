@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+The media holds medicine to a lower standard than it holds alternative medicine, such as say crystal healing. No way would an article in a major paper complain that we aren’t subsidizing crystals enough for poor folks, based on the observation that rich folks buy more crystals and rich folks are healthier. But for medicine, that sort of correlation is enough.
+For example, this week the Post has not one but two long articles celebrating a new breast cancer study, which it says shows:
+“Nearly five black women die needlessly per day from breast cancer” because they don’t have information about the importance of breast screening and they don’t have access to high quality care.
+But in fact, the study shows only that across 25 US cities, the ratio of the black vs. white breast cancer death rates correlates (barely significantly) with median city income and a measure of city racial segregation. It is a huge leap to conclude from these correlations that black women don’t have enough info or care!
+The very robust health-status correlation predicts more health for higher status folks, and thus more race-health disparity when there is a higher race-status disparity. It seem quite plausible that the race-status disparity is higher in cities where races are segregated and incomes are low.
+More from the Post:
+It would be nearly nine months before she told herself it was time to act. By then, the lump was the size of a small egg. … Doctors and advocates say the fear that kept her from acting quickly is all too common among black women. It is among the factors that contribute to a disturbing trend: Although they are less likely than white women to get breast cancer, black women are more likely to die from it. … Poverty and racial inequities are the primary factors driving the disparity, according to a study. … The study, which compared mortality rates between black and white women in the nation’s 25 largest cities, states that “nearly five black women die needlessly per day from breast cancer” because they don’t have information about the importance of breast screening and they don’t have access to high quality care. The authors … said genetics play only a small role in the disparity.
+More from the study:
+[In] the 25 largest cities in the US, … non-Hispanic Black : non-Hispanic White [breast cancer death] rate ratios (RRs) were calculated … Almost all the NHB rates were greater than almost all the NHW rates. … From among the 7 potential correlates, only median household income (r = 0.43, p = 0.037) and a measure of segregation (r = 0.42, p = 0.039) were signiﬁcantly related to the RR.
+Note that white women may seem to “get” more breast cancer because they are tested more often for it.
+
+
+title: Med Media Mangle
+
+date: March 22, 2012 6:20 pm
+

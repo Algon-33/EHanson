@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Here’s a nice simple general principle to describe many kinds of systems. When once self-sufficient wholes join together to become parts of a new whole, the parts get simpler and also more different from one another:
+The emergence of a higher level entity with functional capabilities is ordinary accompanied by the loss of part types within the lower-level organisms that constitute it. Thus … cells in multicellular organisms will have fewer part types than fee-living protists. … The lower-level organisms are transformed into differentiated parts within the higher-level entity. Along with this, as size increases, parts emerge at an intermediate scale, between the lower level organisms and the higher-level entity. …
+In the evolution of multicellularity, cells are transformed from organisms into different tailed parts. Then, as the size of the multicellular entity increased, cells combined to form larger parts, intermediate in scale between as cell and the multicellular organism as a whole. … Cells in metazoans and land plants have fewer part types on average than free-living protists. … found a power law relationship between size and number of cell types in multicellular organisms. Also, the degree of morphological, physiological, and/or behavioral differentiation – in insect societies increases with colony size.
+From: Daniel McShea and Carl Anderson. (2005) “The Remodularization of the Organism”, in Werner Callebaut and Diego Rasskin-Gutman, eds., Modularity: Understanding the Development and Evolution of Natural Complex Systems, pp. 185-206, MIT Press, May.
+That is, while each cell might in essence need legs, eyes, a mouth, and a stomach, when cells join together they can each live without such things, and they may specialist in order to become part of a leg, eye, etc. for the new organism.
+This has an obvious implication for our future. As we humans join together into larger more complex social organizations, our descendants will likely also become simpler and more differentiated. Of course there are limits on how fast these things can change today. Also, the cells in each organism now have a great many parts, and remain similar to each other in a great many ways. Change would likely become much faster if ems become possible.
+
+
+title: When Wholes Become Parts
+
+date: January 18, 2019 2:15 pm
+

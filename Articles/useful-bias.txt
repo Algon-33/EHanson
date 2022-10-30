@@ -1,0 +1,14 @@
+author: Adrian Tschoegl
+
+text: 
+I would like to introduce the perhaps, in this forum, heretical notion of useful bias.  By useful bias I mean the deliberate introduction of an error as a means to solving a problem.  The two examples I discuss below are concrete rather than abstract and come from my training as an infantry officer many years ago.  Now technology solves the problems they solved, but the examples may still serve to illustrate the notion. 
+  
+The first example comes from land navigation, which is the use of compass and map to get from one point to another.  One standard problem is to get from a point in a wood, or other occluded terrain, to a point on a road or the like, some distance away.  The unbiased approach is to take a bearing, i.e., determine a direction, from where one is to where one wants to go, and then follow it.  The problem is that as one follows the bearing, with each step a little random lateral error creeps in so that when one reaches the road one may not be sure whether the point one is seeking is to the right or the left.  The biased approach is to follow a bearing that is sufficiently to the left or right of the objective that when one reaches the road one can assume with a high degree of probability that the objective is to the right or left.  
+The second example comes from directing artillery fire to strike a target that one can observe, but that is an unknown distance away.  The unbiased approach is to estimate (guess) the distance, notify the gunners, observe the first shot, and then walk subsequent shots towards the target in increments of distance.  (Up 100. Up 100. etc.) The biased approach is “bracketing” the target.  In bracketing, the observer estimates (guesses) the distance, and then adds a large increment to the estimate to ensure that the first shot will fall beyond the target.  The observer then adjusts the fall of the sequence of subsequent shots by halving the distance between subsequent shots.  (ideally, by cycling through a sequence of over and under shots.  As n increases, X plus (0.5) to the nth power, times β sub n, where β is the unknown bias in estimating the unknown range X, will converge on X.  Experiments have shown that on average, bracketing will result in a faster convergence of the fire on the target than will walking.  
+So long as satellites and batteries don’t go dead, GPS and laser range finders now solve the land navigation and ranging problems in an unbiased manner.  Still, the questions that motivated this post remain: is the notion of useful bias itself useful?  That is, are there other, more pacific examples in the cognitive realm? 
+
+
+title: Useful bias
+
+date: March 25, 2007 12:08 pm
+

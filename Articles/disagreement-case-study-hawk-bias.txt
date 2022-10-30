@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Two weeks ago I asked for posts "describing disagreement case studies;" here is my first such post.  In January I posted on Daniel Kahneman and Jonathan Renshon’s Foreign Policy article claiming all known cognitive biases favor hawks over doves.  Foreign Policy then invited me to write this letter:
+
+Kahneman and Renshon … fail to understand that inaccurate beliefs do not necessarily equal bad outcomes. We have evolved most biases on purpose, and many give us advantages. The best salespeople really believe in their product no matter its quality, the best lawyers believe their guilty client is innocent, and the best lovers are confident of being attractive. Similarly, people often attribute successes to their own ability and character, and their failures to circumstance. Our ancestors evolved these biases because they can provide strategic advantages by instantly signaling intentions, resolve, and abilities. Perhaps nations are better off biased. Of course, every belief bias is not exactly designed for maximum advantage in every situation. But we could be too biased, or not biased enough. Until we know the direction of our errors, we certainly do not know, as Kahneman and Renshon claim, that hawks "are likely to be more persuasive than they deserve to be."
+
+Kahneman and Renshon respond: 
+
+As Robin Hanson’s comment illustrates, evolutionary arguments are sometimes used rather naively to defend the conclusion that the mind is perfect. Evolutionary psychology contends that human cognition evolved in the Pleistocene era, when humans lived in bands of fewer than 100 members. Assume for the sake of argument that cognitive biases evolved to yield just the right level of aggressiveness toward other small bands of humans. We still would not see why Hanson is confident that the cognitive machinery that was optimal in prehistoric times is still perfect in an age of world wars, ballistic missiles, and nuclear weapons. 
+
+So I find myself disagreeing with one of the few Nobel-prize winning psychologists ever (Kahneman), co-founder of modern cognitive bias studies, on the subject of bias.  Could I be more arrogant?  Surely he considers the possibility of his own biases, and can make use of many bias indicators.
+  
+The issue here is the relative mix of error and adaption in our hawk bias.  The most charitable spin I can find is that Kahneman and Renshon think the optimal hawk bias is distributed across environments with a mean of near zero bias, and either
+
+our ancestor’s hawk bias had little relation to the optimal level for their environment, or
+the optimal hawk bias for our ancestors has little relation with the optimal bias for us. 
+
+ In either case, our hawk bias would be mostly error, and not adaptation.   These would not be my best guesses, as our hawk bias seems too systematic, deep, and functional to be accidental, and in my theoretical analysis optimal biases tend to be more positive than negative.  But Kahneman and Renshon may know things I do not about how accidental biases can seem systematic and functional.      
+ I now put roughly 50% weight on this charitable spin, that they believe one of these two cases, for good reasons.  But the fact that they say I assume "cognitive machinery that was optimal in prehistoric times is still perfect in an age of world wars" when I explicitly said otherwise (though more clearly in my submitted draft) suggests they are not paying much attention here.  
+ They likely think me a nobody, and their less-expert co-author Renshon (BA in ’04) probably wrote their reply.  Neither has written anything I can find on evolutionary psychology; perhaps Kahneman resists this new trend in psychology that eclipses his.  And their staking out an extreme position on a politically-charged topic in a high-profile political forum weakly suggests politically-muddled thinking.   
+ So I put roughly 50% weight on the conclusion that our hawk bias is more adaptation than error.  Half of this weigh goes to Bryan Caplan’s suggestion that the adaption helps the individual but not the group; other group members may take hawk talk as a signal of loyalty.   The other half goes to the possibility that our hawk bias helps the group, similar to the way it may help individuals in dealing with each other.
+ All of these conclusions could change if Kahneman or Renshon responded further.  But a lesson here is that people feel freer to disagree with relative experts who seem to pay little attention to their arguments.   But how rational this is as response to silence? 
+
+
+title: Disagreement Case Study – Hawk Bias
+
+date: March 12, 2007 6:00 am
+

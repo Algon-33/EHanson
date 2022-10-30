@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+People often give advice to others; less often, they request advice from others. And much of this advice is remarkably bad. For example, such as the advice to “never settle” in pursuing your career dreams.
+When A takes advice from B, that is often seen as raising the status of B and lowering that of A. As a result, people often resist listening to advice, they ask for advice as a way to flatter and submit, and they give advice as a way to assert their status and goodness. For example, advisors often tell others to do what they did, as a way to affirm that they have good morals, and achieved good outcomes via good choices.
+These hidden motives understandably detract from the average quality of advice as a guide to action. And the larger is this quality reduction, the more potential there is for creating value via alternative advice institutions. I’ve previously suggested using decision markets for advice in many contexts. In this post, I want to explore a simpler/cheaper approach: a wiki full of advice polls. (This is like something I proposed in 2013.)
+Imagine a website where you could browse a space of decision contexts, connected to each other by the subset relation. For example under “picking a career plan after high school”, there’s “picking a college attendance plan” and under that there’s “picking a college” and “picking a major”. For each decision context, people can submit proposed decision advice, such as “go to the highest ranked college you can get into” for “pick a college”. You and anyone could then vote to say which advice they endorse in which contexts, and you see the current voter distribution over advice opinion.
+Assume participants can be anonymous if they so choose, but can also be labelled with their credentials. Assume that they can change their votes at anytime, and that the record of each vote notes which options were available at the time. From such voting records, we might see not just the overall distribution of opinion regarding some kind of decision, but also how that distribution varies with quality indicators, such as how much success a person has achieved in related life areas. One might also see how advice varies with level of abstraction in the decision space; is specific advice different from general advice?
+Of course such poll results aren’t plausibly as accurate as those resulting from decision markets, at least given the same level of participation. But they should also be much easier to produce, and so might attract far more participation. The worse are our usual sources of advice, the higher the chance that these polls could offer better advice. Compared to asking your friends and family, these distributions of advice less suffer from particular people pushing particular agenda, and anonymous advice may suffer less from efforts to show off. At least it might be worth a try.
+Added 1Aug: Note that decision context can include features of the decision maker, and that decision advice can include decision functions, which map features of the decision context to particular decisions.
+
+
+title: Advice Wiki
+
+date: July 31, 2019 1:40 pm
+

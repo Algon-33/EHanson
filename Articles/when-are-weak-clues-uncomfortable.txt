@@ -1,0 +1,12 @@
+author: Nick Bostrom
+
+text: 
+Robin Hanson asked, "What is the common element of topics where people are uncomfortable with weak clues?" I will hazard a guess:
+There are situations where even considering (deliberating about, giving conscious attention to) some possible course of action sends a bad signal. Sometimes taking that sort of action might be necessary. But ideally, you don’t want to be considering whether to take that action unless you really will take the action. In such cases, you may be uncomfortable with weak clues. If you notice and acknowledge such weak cues at all, they force you to consider whether they are strong enough that you need to take the dread action; yet they are likely too weak, so you won’t take the action after all. All you have done is to send out the bad signal.
+Consider examples such as accusing an employee of stealing, a spouse of cheating, or declaring war on a neighboring country. Sending the signal that you are thinking about whether the weak clues you have are sufficient to warrant embarking on these drastic courses of action may well sour your relationships. In these cases, weak clues can be worse than useless.
+
+
+title: When are weak clues uncomfortable?
+
+date: February 9, 2007 11:43 pm
+

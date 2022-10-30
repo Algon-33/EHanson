@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Two years ago I posted on evidence that called into question the effectiveness of bike helmet laws. A new NBER paper confirms this skepticism:
+Using hospital-level panel data and triple difference models. … We consider the effects of the [US bike helmet] laws directly on [’91-’08 US] bicycle related head injuries, bicycle related non-head injuries, and injuries as a result of participating in other wheeled sports (primarily skateboarding, roller skates and scooters). For 5-19 year olds, we find the helmet laws are associated with a 13 percent reduction in bicycle head injuries, but the laws are also associated with a 9 percent reduction in non-head bicycle related injuries and an 11 percent increase in all types of injuries from the wheeled sports. ..
+The estimated reduction in head injuries resulting from helmet laws is robust to changes in the definition of the control group, to changes in the type of fixed effects included (state versus hospital), and to changes in the samples of states and hospitals evaluated. … Considering the different offsetting results, we run our preferred specification on injury counts for 1) all head injuries and 2) total (all head and body) injuries arising from cycling and wheeled sports. The net effects of the helmet laws are small and are not statistically different from zero. (more)
+
+
+title: Bike Helmet Laws Fail
+
+date: February 26, 2013 12:00 pm
+

@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+I talked Friday at prediction parkets summit, on “Combinatorial Prediction Markets.”  Here are slides and audio.
+
+
+title: Combo Prediction Markets Talk
+
+date: November 11, 2009 11:15 am
+

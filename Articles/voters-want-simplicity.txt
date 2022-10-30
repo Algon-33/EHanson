@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Another Post gem from Shankar Vedantam: 
+
+In an unusual study analyzing State of the Union addresses like the one President Bush will give tonight, psychologists found a curious pattern in the speeches delivered by 41 U.S. presidents. … The study found that in the first three years after a new president takes office, his speeches displayed higher levels of complexity compared with addresses in the fourth year in office. In the first three speeches, presidents were more likely to acknowledge other points of view, potential pitfalls and unintended consequences. In the fourth year, however — as they were about to run for reelection — the complexity of their speeches plunged.  
+Not only that, but American presidents who showed a sharper decline in complexity were more likely to be reelected than those who continued to acknowledge that the challenges facing the nation were complex. …  So the next time you hear presidential candidates say simplistic things that people want to hear, remember that they are merely responding rationally to the incentives that voters give them. The disturbing question is not why politicians pander, but why pandering works — and for that we need to look in the mirror. 
+
+
+
+title: Voters Want Simplicity
+
+date: January 28, 2008 10:26 am
+

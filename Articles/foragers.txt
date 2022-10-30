@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+It seems that our distant forager ancestors beat wives but not kids, and weren’t remotely monogamous. They had huge inequalities in status and sex, but low material inequality, due to generous sharing and few durable goods.  They had little overt dominance or positions of power, and valued trust and honesty greatly.  Justice was personal, with personal violence and suicide rare.
+How do I know all this?  David Youngberg and I summarize cultural-anthro data on foragers:
+Using an existing dataset aggregated from diverse ethnographies, we collect statistics on the social environment of the studied cultures which most closely resemble our hunter-gatherer ancestors.  …
+Such foragers have neither formal class stratification nor slavery. While private property is usually present, most forager societies have no rich, and none have any poor or dispossessed.
+Food sharing is always common.  Compared to the most “modern” societies in the larger sample (which are different from us today), disease stress is similar, suicide and murder are rare, conflict casualty rates are lower, and fewer believe in an evil eye. Violence is never over resources, and when enemies are driven from a territory no one uses that territory.
+A person wronged always directly punishes the guilty; they never use a third party.  If there is a substantial dispute, one side will likely leave the community.  Leaders carefully cultivate support before acting, and none have a formal leadership position.  Polygamy is always allowed and usually socially preferred.  Co-wives either live together or one lives with a husband while the rest live in entirely different bands.  On average, about 35% of men have more than one wife, and 50% of women are in a polygamous marriage (vs. 3% and 7% in modern societies).
+People are expected to have premarital sex, which is usually common. Extramarital sex is also usually common, though it is usually not acceptable for women.  Adults talk about sex openly.  While wife-beating exists, divorce is easy.  Boys and girls are equally preferred, and women are considered equals of men.
+Mothers are usually the main, but not only caregiver of kids.  Relative to modern societies, kids are taught more to be generous, trusting, and honest. Parents more emphasize their love for kids, and kids are never punished physically. Adolescents sleep away from their parents.
+
+
+title: Foragers
+
+date: June 8, 2010 6:00 am
+

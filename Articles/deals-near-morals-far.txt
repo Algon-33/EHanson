@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Unlike most social scientists, economists publish papers whose main conclusions are normative, not just positive. That is, we explicitly recommend policies, rather than just predict the consequences that follow from choices. Moral philosophers are the main other academics who explicitly focus on making recommendations. Compared to philosophers, economists are more standardized and structured, allowing more specific recommendations.
+I see two rather different ways to think about what economists do when we recommend policies:
+
+Morals – We enter into a larger conversation about what actions are right. As language let humans enforce social norms, we evolved strong moral feelings and a rich practice of arguing about forbidden and required actions. While for our ancestors such discussion was often a prelude to concrete group action, today we more often argue about morals without such ways to coordinate in mind. Economists mainly join this larger argument about what actions are right, and only incidentally induce specific people to take specific actions.
+Deals – Groups of all sizes, from families to planets have conflicts that can be resolved at least in part via deals, both implicit and explicit. Finding and making such deals can be aided by neutral outside advisors, especially advisors who can suggest changes that might benefit all conflicting parties. Economists have a reputation for developing analytical tools useful for making suggestions about parts of deals. Economists mainly develop such suggestions for deal components, and only incidentally join larger conversations about morality.
+
+My closest colleagues seem to mostly take a morals view, but many of my students like a deals view. I think I see a correlation whereby academics who lean toward a sci/tech style tend to favor a deals view, while those who lean toward a humanities style tend to favor a morals view. Sci/tech styles tend more toward math, precision, and local incremental contributions toward specific things and plans, while humanities styles tend more toward bigger pictures, wider-ranging applications, broader interpretations, and joining larger conversations.
+In sum, how you think about economic recommendations may depend on whether your thinking leans near or far. It seems deals are near, while morals are far, and sci/tech folks lean near, while humanities folks lean far. Precise formal analysis is more near, while flexible more-metaphorical discussion is more far. Particular suggestions for particular conflicts of particular groups is more near, while general more accessible discussion about what choices tend to be good or bad is more far.
+
+
+title: Deals Near, Morals Far?
+
+date: February 4, 2012 10:45 pm
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Last night I heard a  group of smart pundits and wonks discuss Tyler Cowen’s new book Average Is Over. This book is a sequel to his last, The Great Stagnation, where he argued that wage inequality has greatly increased in rich nations over the last forty years, and especially in the last fifteen years. In this new book, Tyler says this trend will continue for the next twenty years, and offers practical advice on how to personally navigate this new world.
+Now while I’ve criticized Tyler for overemphasizing automation as a cause of this increased wage inequality, I agree that most of the trends he discusses are real, and most of his practical advice is sound. But I can also see reasonable grounds to dispute this, and I expected the pundits/wonks to join me in debating that. So I was surprised to see the discussion focus overwhelmingly on if this increased inequality was acceptable. Didn’t Tyler understand that losers might be unhappy, and push the political system toward redistribution and instability?
+Tyler quite reasonably said yes this change might not be good overall, and yes there might well be more redistribution, but it wouldn’t change the overall inequality much. He pointed out that most losers might be pretty happy with new ways to enjoy more free time, that our last peak of instability was in the 60’s when inequality was at a minimum, that since we have mostly accepted increased inequality for forty years it is reasonable to expect that to continue for another twenty, and that over history inequality has had only a weak correlation with redistribution and instability.
+None of which seemed to dent the pundit/wonk mood. They seemed to hold fast to a simple moral principle: when a future change is framed as a problem which we might hope our political system to solve, then the only acceptable reason to talk about the consequences of failing to solve that problem is to scare folks into trying harder to solve it. If you instead assume that politics will fail to solve the problem, and analyze the consequences of that in more detail, not to scare people but to work out how to live in that scenario, you are seen as expressing disloyalty to the system and hostility toward those who will suffer from that failure.
+I think we see something similar with other trends framed as negatives, like global warming, bigger orgs, or increased regulation. Once such a trend is framed as an official bad thing which public policy might conceivably reduce, it becomes (mildly) taboo to seem to just accept the change and analyze how to deal with its consequences.
+All of which seems bad news for my book, which mostly just accepts the “robots take over, humans lose wages and get sidelined” scenario and analyzes its consequences. No matter how good my reasons for thinking politics will fail to prevent this, many will react as did Nikola Danaylov, with outrage at my hostility toward the poor suffering losers.
+
+
+title: The ‘What If Failure?’ Taboo
+
+date: September 26, 2013 5:35 am
+

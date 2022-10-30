@@ -1,0 +1,15 @@
+author: Philip Goetz
+
+text: 
+Jed Harris wrote, in one of his otherwise very insightful comments:
+
+(Incidentally, there probably is no viable distinction between cognitive structure and content.)
+
+This statement is true, in that there is probably no distinction that I can write, that Jed can’t come up with a counter-example to.  Much as I can’t write a definition of "game" that Wittgenstein couldn’t come up with a counter-example to.
+But the statement was used to imply that distinguishing AI architectures by reliance on content vs. learning is nonsensical.  If that were so, knowledgeable people would be confused when Eliezer (or Lenat) says Cyc emphasizes content more than other architectures do.  They aren’t.
+Some more-popular false false dichotomies:
+
+title: False false dichotomies
+
+date: December 7, 2008 11:30 am
+

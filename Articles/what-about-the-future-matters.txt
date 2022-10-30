@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+The future of 2050 might be different in many ways if, for example, climate change were mitigated, abortion laws relaxed, marijuana legalized, or the power of different religious groups changed. Which of the following types of differences matter most to you? To most people?
+
+Dysfunction: murder, serious assault, disease, poverty, gender inequality, rape, homelessness, suicide, prostitution, corruption, burglary, fear of crime, forced immigration, gangs, terrorism, global warming.
+Development: technological innovation, scientific progress, major scientific discoveries, volunteering, social welfare organizations, community groups, education standards, science education.
+Warmth: warm, caring, considerate, insensitive, unfriendly, unsympathetic.
+Morality: honest, trustworthy, sincere, immoral, deceitful, unfaithful.
+Competence: capable, assertive, competent, independent, disorganized, lazy, unskilled.
+Conservation: respect for tradition, self-discipline, obedience, social order, being moderate, national security, family security, being humble.
+Self-transcendence: honesty, social justice, equality, helpful, protect environment, meaning in life.
+Openness to change: independence, exciting life, enjoying life, freedom, a varied life, being daring, creativity,
+Self-enhancement: social power, being successful, ambition, pleasure, wealth, social recognition.
+
+In fact, most people can hardly be bothered to care about the distant future world as a whole, and to the extent they do care, a recent study (details below) suggests that the main thing they care about from the above list is how warm and moral future folks will be. That is, people hardly care at all about future poverty, freedom, suicide, terrorism, crime, poverty, homelessness, disease, skills, laziness, or sci/tech progress. They care a bit more about self-enhancement (e.g., success, pleasure, wealth). But mostly they care about benevolence (warmth & morality, e.g., honesty, sincerity, caring, and friendliness).
+Now this study only looked at eight future changes, half of them religious, and I’m not that happy with the way they did their statistics. So there’s a slim hope better studies will get different results. But overall this is pretty sad; like us, future folks will actually care about many more things than their benevolence, and so they may well lament our priorities in helping them.
+This result is what one should expect if people think about the far future in a very far mode, and if the main distinct function of far views is to make good social impressions. To the extend they have any opinions about the distant future, people focus overwhelmingly on showing their support for standard social norms of good behavior. They reassure their associates of their support for good norms by showing them that making people nicer according to such norms is the main thing they care about regarding the distant future.
+Those promised details:
+In eight studies (N = 595), people imagined society in 2050 where climate change was mitigated (Study 1), abortion laws relaxed (Study 2), marijuana legalized (Study 3), or the power of different religious groups had increased (Studies 4-8). Participants rated how this future society would differ from today in terms of societal-level dysfunction and development (e.g., crime, inequality, education, technology), people’s character (warmth, competence, morality), and their values (e.g., conservation, self-transcendence). … A projection about benevolence in society (i.e., warmth/morality of people’s character) was the only dimension consistently and uniquely associated with present-day attitudes and intentions across contexts. …
+People were somewhat more likely to support social changes that they believed would result in reducing societal dysfunction (e.g., levels of crime, poverty, and disease). … [But] the overall effect did not persist after controlling for benevolence. … For societal development, the relationship with current attitudes and intentions was only significant in one study, and the overall effect was significant only insofar as it shared variance with societal dysfunction.
+There was little evidence that attitudes and intentions in the present were associated with changes in Self-Enhancement values (e.g., ambition, pleasure, wealth) or Openness to Change values (e.g., independence, freedom, creativity). To the extent that projected changes in values were associated with current attitudes and intentions, it was on the dimensions of Conservation (e.g., respect for tradition, self-discipline, obedience) and Self-Transcendence (e.g., honesty, social justice, equality). …  In the case of Self-Transcendence and Conservation, though, the zero-order correlations were only significant in half the studies, and the overall effects did not survive after controlling for other value dimensions. (more; HT)
+
+
+title: What About The Future Matters?
+
+date: March 22, 2013 10:05 pm
+

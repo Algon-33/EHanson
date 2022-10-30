@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+While some argue that we should change our laws to open our borders, it is more common for pro-immigrant folks to argue for weaker enforcement of anti-immigration laws. They want fewer government agencies to be authorized to help enforcement, fewer resources to go into finding violators, and weaker punishment of violators. Similar things happen regarding prostitution and adultery; many complain about enforcement of such laws, and yet don’t support eliminating them.
+The recently celebrated “criminal justice reform” didn’t make fewer things illegal, or substitute more efficient forms of punishment (eg torture, exile) for less efficient prison. It mainly just reduces jail sentence durations. When I probed supporters, they confirmed they didn’t want fewer things illegal or more efficient enforcement.
+The policing reforms that many want are not to substitute more cost-effective enforcers such as bounty hunters, or stronger punishments against police misconduct, but to instead just have police do less: pull over fewer drivers, investigate fewer suspects, etc.
+When I claim that stronger norm enforcement is a big advantage of legalized blackmail, many people say that’s exactly the problem; they want less enforcement of common norms. For example, Scott Sumner:
+Great literature and great films often turn people violating society’s norms into sympathetic characters, especially when they are ground down by “the machine”. I suspect that the almost universal public opposition to legalizing blackmail reflects society’s view (subconscious to be sure) that enforcing these norms (especially for non-criminal activities) requires a “light touch”, and that turning shaming into an highly profitable industry will do more harm than good. It will turn society into a mean, backstabbing culture. The people hurt most will be sensitive good people who made a mistake, not callous gang members who don’t care if others think they are evil.
+On the surface, all of these positions seems puzzling to me; if a norm or law isn’t worth enforcing well, why not eliminate it? Some possible explanations:
+
+People like the symbolism of being against things they don’t really want to stop. It is more about wanting to look like the sort of person who doesn’t fully approve of such things.
+Having more rules that are only weakly enforced allows the usual systems more ways to arbitrarily punish some folks via selective enforcement. You might like this if you share such system’s tastes re who to arbitrarily punish. Or if you want to signal submission to authorities who want to use such power.
+If these things were actually legal and licit, people might sometimes publicly suggest that you are engaging in them. But if they are illicit or illegal, there’s a norm against accusing someone of doing them without substantial evidence. So if you want to discourage others from lightly accusing you of such things, you may want those activities to be officially disapproved, even if you don’t actually want to discourage them.
+We mainly want these norms and laws to help us deal with some disliked “criminal class” out there, a class that we don’t actually interact with much. So when we see real cases in our familiar word, they seem like they are not in that class, and thus we don’t want our norms or laws to apply to them. We only want less enforcement for folks in our world.
+What else?
+
+Added 26Feb: I clearly didn’t communicate well in this post, as many commenters and this responding post saw me as arguing that all punishment, conditional on being caught and convicted, should either be zero or max extreme (eg death). Yes of course it is often reasonable to use intermediate punishments.
+But enforcement also includes a chance of being caught, not just a degree of punishment, and there are issues of the cost-effectiveness of the processes to catch and punish people. There are many who want less punishment if caught, and less chance of catching, for most all offenses, and don’t want more cost effective catching or punishment, for fear that this might lead to more catching or punishing. To me, this seems hard to explain via just thinking that we’ve overestimated the optimal punishment level for some particular offenses.
+Added 3Mar: A striking example is how in WWI recruits were supposed to be age 19 or older, but it was easy to lie and get in at younger ages, and most everyone knew of someone who had done this. We tsk tsk about child soldiers elsewhere, but don’t seem much ashamed of our own.
+
+
+title: Why Weakly Enforced Rules?
+
+date: February 22, 2019 9:10 am
+

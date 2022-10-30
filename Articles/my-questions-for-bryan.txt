@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+In my continuing conversation with Bryan Caplan on my book, he had questions for me (on my moral evaluations), and now I have questions for him.
+My main claim of expertise for the book is that I have taken a particular future tech scenario and analyzed its social consequences, by applying simple standard theories from many academic disciplines. (As we don’t have data on the future, theory drawn from prior data is all we have to go on.) Regarding that claim, I don’t want to be judged (much) on how likely you think is my scenario or what value you place on it. Instead, I want to be judged on the scope and accuracy of my forecasts, relative to this consensus academic theory standard.
+My book makes hundreds of specific forecasts. For each one you could ask: if you accepted my key scenario premises, how consistent is my forecast with what simple standard consensus (i.e., widely accepted) academic theories would imply about that topic? You might also ask whether you personally believe my forecast, all things considered, but that is a different standard.
+Obviously given hundreds of forecasts it should be easy for most anyone to find ones they see as mistaken, by either of these standards. But readers who merely hear that a critic has a few disagreements won’t know how reliable that critics rates the book overall. Which is why I’d like expert critics to imagine scoring me for accuracy on all of my predictions, averaging those scores into a total accuracy, and then ranking me, relative to other academics, on accuracy and scope.
+That is, I’d like critics to imagine that we took a large random sample of other academics, say tenured professors in social science, and assigned each of them the task of applying standard simple consensus theory from many fields to forecast many social consequences for the em scenario. These academics are to make as many forecasts as they can where standard theory suggests forecasts have a substantially better than random chance of being correct.
+Some academics would do well at this, and others not so well. But there’d be some overall distribution among these academics, for both the total accuracy of the forecasts they chose to make, and also some total number (or amount) of forecasts they could make at some reasonable level of accuracy.
+So, finally, we get to my specific questions to Bryan (or to any other expert reviewer). Now that you’ve made very clear your moral posture, please answer:
+Relative to tenured professors of social science who were hypothetically given my task, and considering average accuracy relative to simple standard academic theories, what do you estimate to be my percentile rank in 1) overall accuracy, and 2) the number (or amount) of forecasts?
+(Feel free to substitute a different comparison group if that makes the task easier or more insightful.) That is, what fraction of academics would done a better job better than I?
+Added 16 June: Bryan “answers“:
+My answer: If you want to forecast the Age of Em, simple standard academic theories are not enough to even get started.  The entire analysis hinges on which people get emulated, and there is absolutely no simple standard academic theory of that.  If, as I’ve argued, we would copy the most robot-like people and treat them as slaves, at least 90% of Robin’s details are wrong.  That’s low accuracy even by academic standards; I’d put it at the 20th percentile of overall accuracy.
+Wow. I can’t remotely see most of the book’s details depending  much on how “robot-like” are the dominant em personalities, at least within the usual human range of variation. For example, I can’t see how it matters for these: ease of fast population growth pushing wages low and growth high, speed dependence of the length of useful work careers before retirement, traffic congestion effects setting city sizes, virtual reality interaction delays depending on mind speeds, frequent use of spurs that work for just a few hours and then end or retire, and easier training via train a few copies and use many.
+
+
+title: My Questions For Bryan
+
+date: June 15, 2016 7:30 am
+

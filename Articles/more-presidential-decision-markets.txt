@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Wow.  Under "politics," next to the "US Pres. Decisions" section I announced Friday, Intrade.com now has an "Impact of next Pres." section, with markets for conditional estimates of these four parameters:
+
+eco growth to be at least 2.5% over the next three years,
+unemployment rate to be less than 5% at end of 2011,
+number of violent crimes in 2010 to be less than in 2007, and
+Democrats to control House of Rep’s after 2010 mid-terms,
+
+given each of these seven candidates: Clinton, Obama, Edwards, McCain, Giuliani, Huckabee, Romney.  Cool!  I don’t see any orders in these markets yet though, so it is hard to tell how much liquidity they will have.
+Added: This is a research initiative of the University of Westminster. 
+
+
+title: More Presidential Decision Markets!
+
+date: January 8, 2008 11:19 am
+

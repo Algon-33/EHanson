@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+The fact that your life would be easier if you could trust someone does not make that person trustworthy.  Doctors are a good example.  Wednesday’s Post: 
+
+The first-of-its-kind survey of more than 1,600 physicians, published today in the Annals of Internal Medicine, found that 45 percent said they did not always report an incompetent or impaired colleague to the appropriate authorities — even though 96 percent agreed that doctors should turn in such people. 
+ Moreover, 46 percent said they had failed to report at least one serious medical error that they knew about, despite the fact that 93 percent of doctors said physicians should report all significant medical errors that they observe. …
+ A majority said they would refer patients to an imaging facility in which they had a financial interest, but only 24 percent would inform patients of that financial tie.  Yet 96 percent told researchers that doctors should put their patients’ welfare above their own financial interests. 
+ Also, more than a third of physicians, 36 percent, said they would order an unneeded MRI (magnetic resonance imaging) test if it were requested by a patient with low back pain, though most doctors say they do not want to waste scarce resources. 
+ And while 93 percent said doctors should provide necessary medical care regardless of a patient’s ability to pay, only 69 percent currently accept uninsured patients who are unable to pay.
+
+I doubt doctors are much different from other professionals in succumbing to such temptations.  The problem is that people want to believe that doctors are somehow different, and can be trusted just because they are doctors.  Which lets them get away with … 
+
+
+title: Doctor Hypocrisy
+
+date: December 7, 2007 6:00 am
+

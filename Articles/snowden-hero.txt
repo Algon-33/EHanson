@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Six in 10 Americans … say Snowden’s actions harmed U.S. security, increasing 11 percentage points from July. … Clear majorities of Democrats, Republicans and independents believe disclosures have harmed national security. … More than half of poll respondents — 52 percent — say he should be charged with a crime. … And 55 percent say he was wrong to expose the NSA’s intelligence-gathering efforts. … Most poll respondents think the NSA’s surveillance program intrudes on some Americans’ privacy rights — 68 percent say this — while 54 percent see intrusions on their own privacy, 49 percent count foreign governments as victims and 48 percent say this of foreign citizens. Among those who say surveillance programs intrude on their privacy rights or those of other Americans, a clear majority say such actions are unjustified. (more)
+Though several legislative efforts are underway to curb the NSA’s surveillance powers, the wholesale move by private companies to expand the use of encryption technology may prove to be the most tangible outcome of months of revelations based on documents that Snowden provided to The Post and Britain’s Guardian newspaper. In another major shift, the companies also are explicitly building defenses against U.S. government surveillance programs in addition to combating hackers, criminals or foreign intelligence services. (more)
+The most limited estimates say that only 1% of the files that Snowden downloaded have been released publicly so far. At the other end of the spectrum, we may only have seen .25% of the files get released. The worst secrets may yet come forward in time. (more)
+Overall, we Americans have a stronger attachment to U.S. dominance than to fair play or anyone’s rights. Yeah the NSA lied, went beyond its authority, and hurt us and others. But, we say, the guy who exposed that should be punished for making us look bad. Even though he acted alone, seems personally beyond reproach, suffered substantially and gained little, carefully minimized incidental harm, and showed great competence and self-control in the process.
+Geez. I gotta say that Edward Snowden seems one of the best candidates for a classic hero that I’ve seen in a long time. Six years ago I wrote:
+In a park near my home is a plaque that reads:
+We honor all those who fought for our community.
+There is probably a similar plaque near you. I would be more proud to live in a community with a plaque that read:
+We honor those who fought against our community when it was wrong.
+The Snowden story isn’t over, and maybe it will all look very different later. But for now, he sure looks like someone who such a plaque would rightly honor. Edward, my hat is way way off to you sir.
+
+
+title: Snowden: Hero
+
+date: November 27, 2013 9:45 am
+

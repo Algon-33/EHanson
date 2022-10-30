@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan reminds us of a great old puzzle: why are libel, slander, and blackmail illegal? Bryan and I find it easier to understand two extreme positions than the actual intermediate mixture we have. The extremes:  
+
+
+Punish Falsehood – Authorities monitor what people say and punish them for saying things authorities believe false. Of course authorities pay attention to transaction costs; it isn't feasible to react to every little falsehood. But if authorities believe something, well they believe it to be true, and so they usually expect people to be harmed by believing the opposite. When a falsehood is important enough, punish it. 
+
+
+Listener Beware – It is up to listeners to decide what to believe. Speakers who are eager to be believed can, if they choose, subject themselves to penalties if they can be proved wrong. Such "fraud" penalties can even be in contracts. But since listeners can choose to ignore speakers they don't respect, and can use any basis they think appropriate to decide who to believe, it is not clear why we should risk empowering authorities to intervene further. If you hear something you think false, just say so. 
+
+Actual policy is an odd mix of these extremes. People are free to make any strange religious or political claims, but are not free to make medical claims, claims about people, or claims at trials. Nor are folks free to be paid not to tell truths. Surely there are some implicit bias theories behind these rules, but until these theories are made more explicit it remains hard to evaluate how much sense these rules make.
+
+title: Libel, Slander, Blackmail
+
+date: February 25, 2009 6:00 am
+

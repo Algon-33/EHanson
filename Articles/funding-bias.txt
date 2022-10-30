@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+From a Post article while I was traveling: 
+
+ Wal-Mart and Toys R Us … will stop selling plastic baby bottles, food containers and other products that contain [BPA]. … One of the eyebrow-raising statistics about the BPA studies is the stark divergence in results, depending on who funded them.  More than 90 percent of the 100-plus government-funded studies performed by independent scientists found health effects from low doses of BPA, while none of the fewer than two dozen chemical-industry-funded studies did.  This striking difference in studies isn’t unique to BPA. When a scientist is hired by a firm with a financial interest in the outcome, the likelihood that the result of that study will be favorable to that firm is dramatically increased. …
+
+  
+
+ Within the scientific community, there is little debate about the existence of the funding effect, but the mechanism through which it plays out has been a surprise.  At first, it was widely assumed that the misleading results … came from shoddy studies done by researchers who manipulated methods and data. … But close examination of the manufacturers’ studies showed that their quality was usually at least as good as, and often better than, studies that were not funded by drug companies. …
+ "Tricks of the trade" … include testing your drug against a treatment that either does not work or does not work very well; testing your drug against too low or too high a dose of the comparison drug because this will make your drug appear more effective or less toxic; publishing the results of a single trial many times in different forms to make it appear that multiple studies reached the same conclusions; and publishing only those studies, or even parts of studies, that are favorable to your drug, and burying the rest. … Decisions about which articles to include in a meta-analysis and how heavily to weight them have an enormous impact on the conclusions. …
+ The answer is de-linking sponsorship and research. One model is the Health Effects Institute … [with] an independent governing structure. … HEI conducts studies paid for by corporations, but its researchers are sufficiently insulated from the sponsors that their results are credible.
+
+Alas this solution is mostly wishful thinking. "Government funded" does not mean "unbiased" – it just means a different mix of biases.  Instead we need evaluation institutions, such as prediction markets, which can better resist funding biases of all sorts.  
+
+
+title: Funding Bias
+
+date: July 28, 2008 6:00 am
+

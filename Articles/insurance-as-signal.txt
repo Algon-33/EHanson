@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Barbara Kiviat in Time:
+There are higher-yielding varieties of groundnut than those that farmers in Malawi tend to plant, but getting them to switch is tough. Better seed is pricey, increasing their risk. So researchers from the World Bank ran an experiment. With local NGOs, they offered the farmers loans. Some loans even came with a crop-insurance policy: if the season was dry and the yield a dud, the debt would be forgiven. The farmers’ risk was lowered. Of farmers offered conventional loans, 33% signed up. With the added incentive of insurance, 18% did. The researchers were puzzled.
+It’s been more than 30 years since microfinance began its fantastic rise, spreading billions of dollars in credit to hundreds of millions of overlooked borrowers around the world. Insurance is the next big promise of financial services for the poor.  But there aren’t many takers.  That’s not from lack of interest on the part of suppliers. The Gates Foundation has plowed millions of dollars into microinsurance initiatives …
+In Portfolios of the Poor, New York University economist Jonathan Morduch and his co-authors toss out other reasons microinsurance may be a hard sell. First, being poor is not without complications, and that’s part of what makes a loan attractive. Sure, microcredit is typically meant to help build a business, but cash is fungible–if there’s no money for dinner one night, a line of credit, whatever its intent, solves the problem. Not so for insurance, which asks people to decide in advance which of the many risks they face they should hedge. Plus, even without formal insurance, most people already have some version of a safety net: friends, family and–in truly catastrophic situations–government. …
+There is also a much more basic explanation for why insurance doesn’t sell. Insurance has proved its worth for centuries, but people still resist it. They don’t like thinking about the possibility of bad things happening. That’s why car insurance is mandatory–and health insurance may soon be. If supposedly financially sophisticated Americans have to be coerced to buy insurance, should we really expect people in less rich countries to be any different?
+Why do people buy insurance?  The very solid economic theory of risk-aversion explains why insurance is a good idea, but I don’t believe this explains most of our insurance behavior.   In class discussions, my students seem completely uninterested in insuring most of the biggest risks they face, such failed marriages or careers, even if various practical problems could be overcome.
+Yes, we don’t like thinking of bad things happening to us, but even so many of us do voluntarily buy insurance.  So why are we uninterested in insuring our biggest risks, but do occasionally insure a few risks?
+My best guess is that most insurance is bought not to reduce risk but instead to signal prudence and caring.  The first life insurance companies had a terrible time selling “bets on their death,” and only succeded when they framed insurance as what a caring and prudent husband and father did to take care of his family.  While simple adverse-selection theories predict that high risk folks buy the most insurance, in fact low risk folks buy more insurance. And we don’t want to insure our big life risks because such a desire would signal a lack of confidence in our prospects.
+Poor folks want loans because they want the money, but to want insurance they’ll have to want to signal prudence and caring, above and beyond the signals they now use.  Seems a hard sell to me.
+
+
+title: Insurance As Signal
+
+date: September 14, 2009 9:45 pm
+

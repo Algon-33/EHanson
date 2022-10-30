@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+In the New Yorker,  Nicholas Lemann reviews James Baughman’s Same Time, Same Station: Creating American Television, 1948-1961, which shows just how wrong is the view that TV news exists because citizens want an independent forth estate to courageously resist government propaganda:
+
+The main reason [television news] came into existence, [Baughman] suggests, is that network executives, acutely aware that the United States was the only Western nation to have a predominantly private and commercial system of television, wanted to protect their berth. Broadcasters were legally required to operate in the "public interest," and they took the requirement seriously, albeit more as a meaningful threat than as a sacred duty. That’s where news came in. In effect, it was a means to the end of being permitted to prosper in the entertainment business. … Nobody should imagine that broadcasters courageously launched aggressive news divisions in the face of government hostility; if Baughman has it right, broadcasters became journalistic because the government forced them to. … 
+The networks’ decision to cover the quadrennial national political-party conventions, beginning in 1948, was, Baughman implies, motivated mainly by the thought that a heavily regulated industry would do well to make itself a big presence at a gathering of federal officials. The networks’ commitment to documentary units, beginning in the late fifties, coincided with the aftermath of the quiz-show scandals, when it was necessary, once again, to convince public officials that there was no need to tinker with the American model of broadcasting. Even the advent of televised debates between Presidential candidates, in 1960, was, to Baughman, just "one more bone tossed to the chattering classes" by the networks’ ever-fearful internal-reputation police. One can only hope that Baughman does not choose to make his next book a history of Santa Claus.
+
+Lemann apparently does not having his illusions shattered, but I am grateful.    
+
+
+
+title: Brave US TV News, Not
+
+date: May 4, 2007 6:00 am
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+At SciFoo Camp last weekend, famed quantum gravitist Lee Smolin mentioned that he’d noticed a correlation between these beliefs:
+
+Many worlds for quantum mechanics,
+Anthropic arguments in physics, and
+Conscious computer-based AIs could be built.
+
+This correlation seems intuitively right, but puzzling.  Any explanation for why it exists other than the obvious, that some people tend to be right about everything?
+Added: Lee and most who came to the particular SciFoo session where he made this observation disagree with these beliefs, yet were creative sharp physicists, hackers, sociologists, etc.
+
+
+title: Explain This Correlation
+
+date: July 17, 2009 8:00 pm
+

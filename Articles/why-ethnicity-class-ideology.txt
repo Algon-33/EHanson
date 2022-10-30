@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Individual humans can be described via many individual features that are useful in predicting what they do. Such features include gender, age, personality, intelligence, ethnicity, income, education, profession, height, geographic location, and so on. Different features are more useful for predicting different kinds of behavior.
+One kind of human behavior is coalition politics; we join together into coalitions within political and other larger institutions. People in the same coalition tend to have features in common, though which exact features varies by time and place. But while in principle the features that describe coalitions could vary arbitrarily by time and place, we in actual fact see more consistent patterns.
+Now when forming groups based on shared features, it make senses to choose features that matter more in individual lives. The more life decisions a feature influences, the more those who share this feature may plausibly share desired policies, policies that their coalition could advocate. So you might expect political coalitions to be mostly based on individual features that are very useful for predicting individual behavior.
+You might be right about small scale coalitions, such as cliques, gangs, and clubs. And you might even be right about larger scale political coalitions in the ancient world. But you’d be wrong about our larger scale political coalitions today. While there are often weak correlations with such features, larger scale political coalitions are not mainly based on the main individual features of gender, age, etc. Instead, they are more often based on ethnicity, class, and “political ideology” preferences. While ideology is famously difficult to characterize, and it does vary by time and place, it is also somewhat consistent across time and space.
+In this post, I just want to highlight this puzzle, not solve it: why are these the most common individual features on which large scale political coalitions are based? Yes, in some times and places ethnicity and class matter so much that they strongly predict individual behavior. But even when they don’t matter much for policy preferences, they are still often the basis of coalitions. And why is political ideology so attractive a basis for coalitions, when it matters so little in individual lives?
+I see two plausible types of theories here. One is a theory of current functionality; somehow these features actually do capture the individual features that best predict member positions on typical issues. Another is a theory of past functionality; perhaps in long-past forager environments, something like these features were the most relevant. I now lean toward this second type of theory.
+
+
+title: Why Ethnicity, Class, & Ideology? 
+
+date: August 18, 2017 3:40 pm
+

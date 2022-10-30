@@ -1,0 +1,46 @@
+author: Robin Hanson
+
+text: 
+If by chance one of your writings strikes a chord, and is cited by folks decades later, your main reward may be to repeatedly hear the same misunderstandings and off-target counter-arguments that you’ve repeatedly tried to head off in your writings, but which critics apparently can’t be bothered to read. Sometimes, though not usually, I bother to respond. Case in point: Sunil Suri’s complaints about futarchy in Politics With Skin In The Game.
+His summary of futarchy mechanics seems fine to me, though it might mislead readers into thinking that one needs to pick a new outcome for each new policy choice. I instead suggest picking just one standard outcome measure to use for most all big choices. I’d only pick specialized measures for decisions too small to sufficiently impact the standard measure.
+Suri admits to some positives:  
+futarchy creates financial incentives to be a better-informed citizen. This could transform our politics by:
+
+Reducing our consumption of low-quality information and our susceptibility to cognitive biases – both of which distract us from what matters.
+Making real expertise matter again – while democratising it. …
+
+
+Suri then lists ten objections. But five of those objections merely point to general features of the problem that futarchy is trying to address, which are thus issues that bedevil any solution to its problem.
+To review, the problem is how to make key government policy choices, the sorts of choices now made when bills are passed by a legislature, or when executives issue orders. These choices are typically made in a complex world under great uncertainty regarding relevant outcomes, outcomes which are often spread out over many decades. A great many values and preferences are relevant for these choices. These values, and the relevant info needed to make these decisions well, are all housed within opaque, distracted, and often irrational humans, who must somehow be induced to sufficiently reveal them.
+Here are Suri’s five applies-to-all-solutions objections: 
+[1] Given the long time horizons (fifteen years in our example), there are doubts whether it’s possible to accurately forecast the impact of a policy. … [Maybe] the core assumption in a futarchy – that a speculative market can forecast the impact of a policy well in advance of an outcome – falls apart.
+If solutions are to be judged in terms of their long term consequences, then all solutions must at least implicitly be making estimates of such consequences. What reason is there to think futarchy will do worse than the alternatives at this? If solutions are not to be judged this way, then failing to do this well isn’t a criticism of futarchy.
+[2] How does a futarchy account for the impact of unpredictable events on the value like a pandemic?
+But all solutions must deal with great uncertainty. 
+[3] Can we agree on one value to work towards? Is that even desirable? … The campaign to vote for a value might also be swayed by the very same problems futarchy is trying to address: ill-informed citizens voting on basis of flawed information and biases.
+Standard decision theory says that if our actions are to be consistent, then we must collapse all values into one uni-dimensional utility metric. Any consistent solution must do that. And it should be okay if a proposal for change doesn’t solve all problems, such as how to induce good voting on values, as long as it doesn’t make such problems worse.
+[4] Goodhart’s Law states that when a feature of the economy is picked as an indicator of the economy, it ceases to function as an effective indicator because people start to game it. A futarchy would embed Goodhart’s Law into the core of our governance system, with people optimising for that value regardless of the consequences – likely resulting in other policy failures we don’t even anticipate.
+Our current democratic system uses the indicator of votes; politicians are encouraged to choose policies that max their election votes received. And yes, people do try to game that. But every system will have some measure that defines who and what wins; there is no option for a system that doesn’t have such a measure. 
+[5] “seeing rooms” … are Nasa-like control centres designed to support policymakers to make decisions in complex environments. Futarchy seems to fit into the world of “seeing rooms.” Turn a few nobs here and there. And hey presto, we’ve got better outcomes! …Put simply, futarchy may embed a top-down approach to policymaking that many argue is ill-equipped to navigate the complexity of the real world and one that is already responsible for policy failures.
+The problem is how to choose key government policies, like bills and orders. Those are all by their nature “top-down”. And any solution must deal with the world being “complex”. 
+Two more objections attempt to tar futarchy based on vague associations; they don’t speak directly about futarchy at all: 
+[6] Futarchy is rooted in rational choice theory.… But we don’t behave like that in reality. … vote to leave the European Union was about much more than the economy. With its focus on one value, futarchy could advance a reductive model of human behaviour (“homo economicus”) that has already been challenged as outdated.
+I proposed futarchy, I’m a professor of economics, and economists are often fond of “rational choice” theories. But that’s the full extent of the connection; futarchy itself doesn’t need or make any such assumptions. 
+[7] Perhaps most problematic of all is that futarchy is emblematic of an approach to improving our politics that sees markets as a panacea to our problems, when in fact, its workings may be the cause of many of our problems.… Hanson misses … the long-standing failure of our markets to reflect the externalities of economic activity in their pricing.
+Futarchy uses speculative markets, and there exist markets in the world whose prices don’t account for key externalities. But just because some markets have a particular problem doesn’t mean all markets do. Unless you can point to a particular important externality that would be neglected by futarchy prices, this is just another vague criticism by association.
+Two more objections have been dealt with in great detail by the prior literature.
+[8 The rich] could buy policies that advantage them outside the realm of the speculative market. They can do this by purchasing yes options en masse and shorting selling no options.
+This is the famous problem of “manipulative traders”, which has been addressed repeatedly by theory, lab experiments, and field experiments. Actually, the more traders expect manipulators to try to influence prices, the more accurate that prices get.
+[9] And if multiple policies are implemented, how do you assess the causal relationship between a specific policy and the value? 
+There is simply no need to assess such a causal relation. Standard decision theory is clear that one should pick the option with highest expected utility, and the standard futarchy mechanism is designed to elicit such expectations, so that one can directly compare and choose. 
+Suri’s last objection conflates what happens in the voting booth with the entire democratic system: 
+[10] A market-based approach to politics like futarchy will likely erode the very principles that makes democracy powerful: equality and mass participation. … there is more equality in our one-person-one-vote electoral system than there would be in a futarchy. We may all be able to vote for the value to focus on, but when it comes to betting on how we improve that value, there are grounds to suspect that the rich are more likely to participate than others. …
+Our democratic system includes far more than votes made in voting booths. In the private sector, there is social media, mass media, the arts, and organized interest groups, think tanks, academia, and much more, all of whom influence the opinions of individual voters in the voting booth. Political strategists influence the positions that politicians choose, and lobbyists influence how politicians translate voter perceptions into specific bills. Government agencies are full of specialists who translate general policies into particular context-specific beliefs and choices. Elites, e.g., the rich and well-educated, have greatly disproportionate influence through all of these channels. 
+Futarchy has two parts: vote on values, and bet on beliefs. The vote on values part stays the same as today, and so the rich don’t get more influence there than they have today. The bet on beliefs part is the new part, and it is designed to at least partially replace many of those other channels, the ones now typically dominated by elites. Yes, elites would also have disproportionate influence in futarchy betting markets, just as they do today in most speculative market trading. As they do in most every part of our society. But I see no reason to expect elites to have more influence in futarchy than in our status quo political institutions. 
+And those are my responses to Suri’s objections to futarchy. 
+
+
+title: Response to Suri Re Futarchy
+
+date: April 6, 2021 3:00 pm
+

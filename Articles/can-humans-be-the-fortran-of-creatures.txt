@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+It is one of the most fundamental questions in the social and human sciences: how culturally plastic are people? Many anthropologists have long championed the view that humans are very plastic; with matching upbringing people can be made to behave a very wide range of ways, and to want a very wide range of things. Others say human nature is far more constrained, and collect descriptions of “human universals” (See Brown’s 1991 book.)
+This dispute has been politically potent. For example, in gender relations some have said that social institutions should reflect the fact that men and women have certain innate differences, while others say that we can pick most any way we want the genders to relate, and then teach our children to be like that.
+But let’s set those issues aside, look to the distant future, and ask: do varying degrees of human cultural plasticity make different predictions about the future?
+The easiest predictions are at the extremes. For example, if human nature is extremely rigid, and hard to change, then humans will most likely just go extinct. Eventually environments will change, and other creature will evolve or be designed that are better adapted to those new environments. Humans won’t adapt very well, by assumption, so they lose.
+At the other extreme, if human nature is very plastic, then it will adapt to most changes, and change to embody whatever innovations are required for such adaptation. But then there would be very little left of us by the end; our descendants would become whatever any initially very plastic species would have become in such an environment.
+So if you want some distinctive human features to last, you’ll have to hope for an intermediate level of plasticity. Human nature has to be flexible enough to not be out competed by a more flexible design platform, but inflexible enough to retain some of its original features.
+For example, consider the programming language FORTRAN:
+Originally developed by IBM … in the 1950s for scientific and engineering applications, Fortran came to dominate this area of programming early on and has been in continual use for over half a century in computationally intensive areas such as numerical weather prediction, finite element analysis, computational fluid dynamics, computational physics and computational chemistry. It is one of the most popular languages in the area of high-performance computing and is the language used for programs that benchmark and rank the world’s fastest supercomputers. (more)
+FORTRAN isn’t the best possible programming language, but because it was first, it collected a powerful installed base well adapted to it. It has been flexible enough to stick around, but it isn’t infinitely flexible — one can very much recognize early FORTRAN features in current versions.
+Similarly, humans have the advantage of being the first species to master culture in a powerful way. We have slowly accumulated many powerful innovations we call civilization, and we’ve invested a lot in adapting those innovations to the particulars of humanity. This installed based of the ways civilization is matched well to humans gives us an advantage over creatures with a substantially differing design.
+If humans are flexible enough, but not too flexible, we may become the FORTRAN of future minds, clunky but still useful enough to keep around, noticeably retaining many of its original features.
+I should note that some hope to preserve humanity by ending decentralized competition; they hope a central power will ensure than human features survive regardless of their local efficiency in future environments. I have a lot of concerns about that, but yes it should be included on the list of possibilities.
+
+
+title: Can Humans Be The FORTRAN Of Creatures?
+
+date: October 9, 2012 8:00 am
+

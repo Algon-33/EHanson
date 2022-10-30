@@ -1,0 +1,34 @@
+author: Robin Hanson
+
+text: 
+Food isn’t about Nutrition
+Clothes aren’t about Comfort
+Bedrooms aren’t about Sleep
+Marriage isn’t about Romance
+Talk isn’t about Info
+Laughter isn’t about Jokes
+Charity isn’t about Helping
+Church isn’t about God
+Art isn’t about Insight
+Medicine isn’t about Health
+Consulting isn’t about Advice
+School isn’t about Learning
+Research isn’t about Progress
+Politics isn’t about Policy
+“X is not about Y,” … mean[s] that while Y is the function commonly said to drive most X behavior, in fact some other function Z drives X … more. … Many are well aware of this but say we are better off pretending X is about Y.
+I’ve argued that much of our behavior is poorly explained by the reasons we give, and better explained as ways to signal abilities, loyalties, etc.  But if so, why do we act so astoundingly ignorant?  Why don’t we know about, and explicitly acknowledge, these functions?  Yes, it can look bad to brag, or to be consciously strategic about loyalties, and some observers may be usefully fooled by our idealistic stories.  But are these really enough to explain our incredible ignorance?
+Man the sly rule bender offers a more satisfying explanation: we evolved to overtly and consciously embrace social norms against bragging, dominance, and sub-band coalitions, while covertly and subconsciously signaling our abilities, and loyalties:
+Consistent enforcement of [egalitarian forager] norms seems to drastically reduce the payoff to expensive coalition-politics-savvy brains.  If you can’t collude to grab the food or the women, and everyone is treated fairly based on their contributions, why bother to be so clever? …  [But] in a messy real world, social norms expressed in language typically have many iffy boundary cases and ambiguities. … [So] big brain gains come five ways:
+Unnormed – coalition politics on acts uncovered by norms.
+Skirt – keep actions near but not over edge of violating norms.
+Cover – politics of observers on if to report an act to others.
+Frame – lawyer-like arguing on if acts violate social norms.
+Conspire – form coalitions on how to publicly interpet iffy acts.
+… Foragers … sincerely believe they usually just do their job and “tell it like it is,” and then unconsciously try to act, selectively report and frame acts, and support interpretation coalitions, to their advantage. … Both complex broad incest rules and allowing sorcery complaints greatly increase the scope for gains to large rule-bending brains, and suggest that we tend to prefer to allow such scope.
+It looks bad to brag and to be consciously strategic about loyalties not just because those can in general look bad, but because they violate strong forager norms.  We signal covertly and unconsciously because our ancestors were strongly punished for overt and conscious signals.
+
+
+title: Homo Hypocritus Signals
+
+date: April 10, 2010 9:15 am
+

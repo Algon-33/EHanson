@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+While some argue that economist theorists should act more like biology/ecology theorists, some geologists are now arguing instead that environmental theorists should act more like economic theorists.  A New York Times book review of "Useless Arithmetic: Why Environmental Scientists Can’t Predict the Future" says
+
+When coastal engineers decide whether to dredge sand and pump it onto an eroded beach, they use mathematical models to predict how much sand they will need, when and where they must apply it … Orrin H. Pilkey, … recommends … just dredge up a lot of sand and dump it on the beach willy-nilly. This "kamikaze engineering" might not last very long, he says, but projects built according to models do not usually last very long either, and at least his approach would not lull anyone into false mathematical certitude.  … 
+Dr. Pilkey and his daughter Linda … have expanded this view into an overall attack on the use of computer programs to model nature. … Their book … originated in a seminar Dr. Pilkey organized at Duke to look into the performance of mathematical models used in coastal geology.  …  seminar participants … [concluded] that erroneous assumptions, fudge factors and the reluctance to check predictions against unruly natural outcomes produce models with, as the authors put it, "no demonstrable basis in nature." …  
+
+  
+
+Given the problems with models, should we abandon them altogether? Perhaps, the authors say. Their favored alternative … [has] policymakers … make constant observations in the field, altering their policies as conditions change. 
+But that approach has drawbacks, among them requirements for assiduous monitoring, … Besides, they acknowledge, people seem to have such a powerful desire to defend policies with formulas (or "fig leaves," as the authors call them), that managers keep applying them, long after their utility has been called into question.  
+So the authors offer some suggestions … Modeling should be transparent. That is, any interested person should be able to see and understand how the model works – what factors it weighs heaviest, what coefficients it includes, what phenomena it leaves out, and so on. Also, modelers should say explicitly what assumptions they make.  
+And instead of demanding to know exactly how high seas will rise or how many fish will be left … we should seek to discern simply whether seas are rising, fish stocks are falling … Models should be regarded as producing "ballpark figures," they write, not accurate impact forecasts.
+
+ Economic theorists have long followed this advice to avoid making and believing large complex integrated models, in favor of focusing on sign predictions from models simple enough to be understandable.  And Pilkey’s suggestion that complex models can’t be trusted echoes my similar recent lament about complex economic models.  
+
+
+title: Fig Leaf Models
+
+date: February 22, 2007 6:00 am
+

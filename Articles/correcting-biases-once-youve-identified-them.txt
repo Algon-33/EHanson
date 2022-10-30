@@ -1,0 +1,11 @@
+author: David J. Balan
+
+text: 
+Most of the discussion on this blog seems to focus on figuring out how to identify biases.  We implicitly assume that this is the hard part; that biases can be really sneaky and hard to ferret out, but that once you’ve identified a bias, correcting it is pretty straightforward and mechanical.  If you’ve figured out that you have a bias that causes you to systematically overestimate the probability of a particular kind of event happening by .2, you simply subtract .2 from future estimates (or whatever).  But it seems to me that actually correcting a bias can be pretty hard even once it’s been identified.  For example, I have a tendency to swing a bit too late at a (slow-pitch) softball.  I’m sure this bias could be at least partially corrected with effort, but it is definitely not simply a matter of saying to myself: "swing .5 seconds sooner than you feel like you should swing."  That just can’t be done in real time without screwing up the other mechanics of the swing.
+I think this is also a problem for more consequential matters  In real decision-making situations, where there are elements of the problem that need attention besides the (already identified) bias, it is not going to be a trivial matter to fix the bias without screwing up some other part of the problem even worse.  I’m not sure this is the right way to put it, but it seems like OB engineering is a seperate and important discipline distinct from OB science.
+
+
+title: Correcting Biases Once You’ve Identified Them
+
+date: September 23, 2008 6:00 am
+

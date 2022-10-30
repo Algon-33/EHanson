@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Some companies specialize in making or servicing tools, and some even specialize in redesigning and inventing tools.  All these tool companies use tools themselves.  Let us say that tool type A "aids" tool type B if tools of type A are used when improving tools of type B.  The aiding graph can have cycles, such as when A aids B aids C aids D aids A.  
+ Such tool aid cycles contribute to progress and growth.  Sometimes a set of tool types will stumble into conditions especially favorable for mutual improvement.  When the aiding cycles are short and the aiding relations are strong, a set of tools may improve together especially quickly.  Such favorable storms of mutual improvement usually run out quickly, however, and in all of human history no more than three storms have had a large and sustained enough impact to substantially change world economic growth rates.  
+ Imagine you are a venture capitalist reviewing a proposed business plan.  UberTool Corp has identified a candidate set of mutually aiding tools, and plans to spend a millions pushing those tools through a mutual improvement storm.  While UberTool may sell some minor patents along the way, UberTool will keep its main improvements to itself and focus on developing tools that improve the productivity of its team of tool developers.  
+ In fact, UberTool thinks that its tool set is so fantastically capable of mutual improvement, and that improved versions of its tools would be so fantastically valuable and broadly applicable, UberTool does not plan to stop their closed self-improvement process until they are in a position to suddenly burst out and basically "take over the world."  That is, at that point their costs would be so low they could enter and dominate most industries.   
+ Now given such enormous potential gains, even a very tiny probability that UberTool could do what they planned might enticed you to invest in them.  But even so, just what exactly would it take to convince you UberTool had even such a tiny chance of achieving such incredible gains?
+
+
+title: Fund UberTool?
+
+date: November 12, 2008 7:00 am
+

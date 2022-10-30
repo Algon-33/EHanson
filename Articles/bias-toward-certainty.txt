@@ -1,0 +1,16 @@
+author: Arnold Kling
+
+text: 
+Before the Iraq invasion, President Bush did not say, "I think that there is a 60 percent chance that Saddam has an active WMD program."
+Al Gore does not say, "I think there is a 2 percent chance that if we do nothing there will be an environmental catastrophe that will end life as we know it."
+Instead, they speak in the language of certainty.  I assume that as political leaders they know a lot better than I do how to speak to the general population.  So I infer that, relative to me, the public has a bias toward certainty.
+Another piece of evidence of that is an anecdote I cite about my (former) doctor.  Several years ago, he said I needed a test.  I did some research and some Bayes’ Theorem calculations, and I faxed him a note saying that I did not think the test was worth it.  He became irate. 
+I think that one reason that our health care system works the way it does is that it does not occur to anyone to say, "OK, I can live with that level of uncertainty."  Instead, we must have the MRI, or the CT scan, or whatever.  Even, as in my case, when the patient is willing to live with uncertainty, the doctor has a problem with it.
+Another way that bias toward certainty shows up is in the way we handle disagreement.  People don’t say that there were differences within the intelligence community about the probability distribution for Saddam having WMD.  They say that Bush manipulated the intelligence.  And they are right, in the sense that he tried to make it sound certain.  
+My point is that what comes naturally to a lot of people on this blog–thinking in Bayesian terms–is in fact very unnatural in general.  It seems as though outside of the realm of sport betting, people don’t like to think in terms of chance.  Maybe there are realms where even those of us who are more Bayesian than most are victims of bias toward certainty.
+
+
+title: Bias Toward Certainty
+
+date: February 16, 2007 9:38 am
+

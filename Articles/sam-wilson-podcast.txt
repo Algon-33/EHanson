@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Sam Wilson and I did a podcast for his series, on near-far, em econ, and related topics.
+One topic that came up briefly deserves emphasis: robustness can be very expensive.
+Imagine I told you to pack a bag for a trip, but I wouldn’t tell you to where. The wider the set of possibilities you needed to handle, the bigger and more expensive your bag would have to be. You might not need a bag at all if you knew your destination was to stay inside one of the hundred largest airports. But you’d need a big bag if you might go anywhere on the surface of the Earth. You’d need a space-suit if you might go anywhere in the solar system, and if you might go anywhere within the Sun, well we have no bag for that.
+Similarly, it sounds nice to say that because the future can be hard to predict, we should seek strategies that are robust to many different futures. But the wider the space of futures one seeks to be robust against, the most expensive that gets. For example, if you insist on being ready for an alien invasion by all possible aliens, we just have no bag for that. The situation is almost as bad if you say we need to give explicit up-front-only instructions to a computer that will overnight become a super-God and take over the world.
+Of course if those are the actual situations you face, then you must do your best, and pay any price, even if extinction is your most likely outcome. But you should think carefully about whether these are likely enough bag-packing destinations to make it worth being robust toward them. After all, it can be very expensive to pack a spacesuit for a beach vacation.
+(There is a related formal result in learning theory: it is hard to learn anything without some expectations about the kind of world you are learning about.)
+
+
+title: Sam Wilson Podcast
+
+date: May 15, 2014 9:55 am
+

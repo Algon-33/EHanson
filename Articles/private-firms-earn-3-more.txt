@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+More evidence that privately owned firms do better:
+We present evidence on the performance of nearly 1400 U.S. private equity (buyout and venture capital) funds using a new research-quality dataset.  … Average U.S. buyout fund performance has exceeded that of public markets for most vintages for a long period of time.  The outperformance versus the S&P 500 averages 20% to 27% over the life of the fund and more than 3% per year. Average U.S. venture capital funds, on the other hand, outperformed public equities in the 1990s, but have underperformed public equities in the 2000s. … Within a given vintage year, performance relative to public markets can be predicted well by a fund’s multiple of invested capital and internal rates of return. (more)
+
+
+title: Private Firms Earn 3% More
+
+date: March 2, 2012 8:00 am
+

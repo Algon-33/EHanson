@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+About a year ago I finished David Graeber’s 2011 book Debt: The First 5000 Years. Since he’s an Occupy Wall Street anthropologist, you might expect me to dislike the book. But I enjoyed it, and learned a lot, even though it does ramble, and his economics is weak.
+Graeber’s overall mood is anti-debt:
+For thousands of years, the struggle between rich and poor has largely taken the form of conflicts between creditors and debtors – of arguments about the rights and wrongs of interest payments, debt peonage, amnesty, repossession, restitution, the sequestering of sheep, the seizing of vineyards, and the selling of debtors’ children into slavery. By the same token, for the last five thousand years, with remarkable regularity, popular insurrections have begun the same way: with the ritual destructions of the debt records – tablets, papyri, ledgers, whatever form they might have taken in any particular time and place. (After that, rebels usually go after the records of landholding and tax assessments.) As the great classicist Moses Finley often liked to say, in the ancient world, all revolutionary movements had a single program: “Cancel the debts and redistribute the land.” (p.8)
+That is sure a dramatic image, and makes one’s opinion on debt seem pretty fundamental. Oddly, Graeber never actually comes out directly against debt. He doesn’t seem to want to forbid it. Instead he seems to just want to set a low bar for forgiving the debts of the poor, mainly because helping the poor is a good thing. The closest thing to an argument I found:
+The remarkable thing about the statement “one has to pay one’s debts” is that even according to standard economic theory, it isn’t true. A lender is supposed to accept a certain degree of risk. If all loans, no matter how idiotic, were still retrievable – if there were no bankruptcy laws, for instance – the results would be disastrous. What reason would lenders have not to make a stupid loan? (p.3)
+Actually standard economic theory doesn’t say that the results without bankruptcy laws would be disastrous. Yes, the more stuff people can promise as collateral to support loans, or promise to suffer if they fail to pay, the more loans will be made, and the more people there will end up poorer or suffering because they can’t pay loans. But economists can’t say this is bad without adding assumptions about why such poverty is inefficient.
+You might say that poverty is economically inefficient because it makes other people feel bad to know it exists, or because it keeps investments from being made in poor folks’ human capital. It could make sense to support general redistribution to deal with such problems. But debt forgiveness is not general redistribution. A policy of forgiving the debts of the especially poor mainly keeps the nearly poor from taking out loans from which they expect to gain overall, and raises the loan interest rates they pay.
+Standard economic theory says that such debt forgiveness redistributes to the very poor, but not by taxing the rich. Anticipated future debt forgiveness instead taxes the nearly poor who take out loans and then do well, by raising the interest rates at which they repay their loans.
+Yes debts are one of the ways by which people take chances with their wealth level, sometimes rising and sometimes falling. And yes if we stopped the nearly poor from taking such chances we might reduce the numbers of the very poor. But why pick only on loans? There are lots of other ways in which the nearly poor take chances with their wealth level, such as by trying new careers, jobs, neighborhoods, and social groups. Should we try to stop these risky behaviors as well?
+
+
+title: Graeber’s Debt book
+
+date: October 6, 2013 12:04 pm
+

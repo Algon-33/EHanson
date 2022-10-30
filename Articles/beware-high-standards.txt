@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+300,000 useless knee surgeries annually, costing $1.5B, continue in the US because a ’02 study finding them useless "was criticized as flawed."  Now a new study finds the same results but "also has weaknesses."  We sure wouldn’t want anyone to change beliefs or behavior because of a criticizable study – not when there are all those impossible-to-criticize studies out there. The news: 
+
+One of the most common surgical procedures performed in the United States — arthroscopy to treat arthritis in the knee — is useless. … [The] findings are being published in today’s issue of the New England Journal of Medicine. … The study marks the second time a major study has questioned the operations, which can cost about $5,000 and are done on hundreds of thousands of Americans each year. In 2002, a study found the operations were no better than a sham procedure for arthritis. A year later, based on that and other studies, Medicare stopped paying for the operations for severe arthritis of the knee, and the number of claims for the procedure plunged. 
+ But the 2002 study was criticized as flawed: All the operations were done by one surgeon, and the subjects, who were all men, tended to be older than the typical patient. As a result, many surgeons continued to perform the procedures. Feagan says that as many as a third of the estimated 950,000 arthroscopic knee surgeries performed each year in the United States are probably still being done for arthritis, which affects about 27 million Americans.  … 
+
+  
+
+ The new study was designed to avoid the shortcomings of the earlier research; it involved men and women with an average age of 60, which is more typical. All patients received standard nonsurgical treatment, including physical therapy, painkillers such as acetaminophen and ibuprofen, glucosamine supplements and injections to lubricate the joint. Eighty-six of the patients also underwent arthroscopic surgery, which involves inserting instruments through tiny incisions to clean out any loose debris and smooth out the joint. 
+ Tests done every six months for the next two years showed that both groups improved, reporting less pain and stiffness and more mobility. But the patients who did not have the surgery fared just as well as those who did. …
+ Whether the new study will settle the debate remains unclear. In an editorial accompanying the study, Robert Marx of the Hospital for Special Surgery in New York argued that the new study also has weaknesses, and that there might be patients with knee arthritis who might benefit, such as those who also have torn cartilage.  Feagan said that argument could result in continued overuse of the surgery. A second study involving 991 patients in the same issue of the journal found that many patients with arthritis in their knees also have small cartilage tears but that the tears are not the source of their pain. 
+
+Holding a high standard for what counts as a good study does not make you more evidence-based, and it is not a good thing if the factors you implicitly rely on in the absense of a "good" study (e.g., "all else equal a doc recommendation is a good sign") are even less reliable than the "bad" studies you reject.  
+
+
+title: Beware High Standards
+
+date: September 13, 2008 6:00 am
+

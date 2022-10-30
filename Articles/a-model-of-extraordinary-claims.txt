@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Last week I claimed that the saying "extraordinary claims require extraordinary evidence" is appropriate anytime people too easily make more extreme claims than their evidence can justify.  Eliezer, however, whom I respect, thought the saying appropriate anytime people make claims with a very low prior probability.  So I have worked out a concrete math model to explore our dispute.  I suggest that if you are math averse you stop reading this post now.  
+  
+Consider the example of power law disasters, where the chance of an event with severity greater than x goes as a negative power x^-v.  If we talk in terms of the magnitude y = log(x) of the disaster, then our prior on y is distributed exponentially as exp(-v*y).
+ Imagine that a claimer gets a signal s about our next disaster magnitude y, a signal normally distributed with mean y and standard deviation d.  His maximum posterior estimate (MPE) of y should rationally be z = s – d*v, and his posterior for y should be normally distributed with mean z and standard deviation d.   The claimer will claim to us either that his signal was s’, or equivalently that his MPE was z’.   We must then decide what to believe about the distribution of y (or x) from this claim. 
+ Let us assume that the payoff U of this claimer is the sum of two parts: attention U1 and truth U2.  First, he gets an attention payoff U1 that goes as a*z’, rewarding him more for claiming that a bigger disaster looms.  Second, he gets a truth payoff U2 that is a logarithmic proper scoring rule.  That is, he must declare a probability distribution p(y) and will be paid as log(p(y)), using the chance he assigned to the actual disaster magnitude y that occurs.  (So U = a*z(s’) + Int_y p(y|s) log(p(y|s’)) dy.) 
+ Let us also assume that the claimer is not an exact rational agent; the chance he makes any claim z’ (or s’) is exponential in his total payoff, as in exp(r*U), where r is his rationality.  Finally, assume that we know parameters like a,d,r,v, and that the claimer’s signal s is well away from the lower boundary of possible y, so we can treat integrals over normal distributions as if they went to infinity.  
+ Putting this all together and turning the crank, we find that a claimer with zero attention payoff will claim a z’ that is normally distributed with a mean of the infinitely rational z (or equivalently a s’ that is normally distributed around a mean of the actual s).  The standard deviation c of this distribution depends on his rationality r and the strength of his payoffs U.  For a claimer with a positive attention payoff, his z’ (or s’) is also normally distributed with the same standard deviation c, but the mean of this distribution is biased toward larger disasters, with a bias b that is proportional to a.  
+ When we hear the claimer’s claim z’ (or s’), we make an inference about y.  Our rational posterior for y should have a mean z = z’-b-c*v and a standard deviation c, which depends on both d and r.   That is, we are skeptical about the claim for two reasons.  First, we correct for the bias b due to the claimer distorting his claims to gain more attention.   Second, we correct for the fact that larger disasters are a priori less likely, a correction that rises as the claimer’s rationality falls.
+ So this model contains effects similar to those Eliezer and I were discussing.  My claim was that in practice the attention payoff effect is larger than the irrational claimer effect, but I have not shown that yet.  Note, however, that the correction, and the relative size of the two effects, does not depend on how a priori unlikely is the claim z’.  
+
+
+title: A Model of Extraordinary Claims
+
+date: January 21, 2007 11:55 pm
+

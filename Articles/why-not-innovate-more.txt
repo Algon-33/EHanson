@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+When investigating specific policy changes to test for evidence of whether stronger patents induce more R&D, a number of papers have failed to uncover such a relationship. (more)
+Economists widely believe that failing to sufficiently promote innovation is one of humanity’s biggest, if not the biggest, social failure. While innovation is the main cause of growth in population, wealth, and satisfaction over time, the people who put in effort to create and diffuse innovations on average gain much less from their efforts than what everyone else gains. So they do too little.
+Yes, we do have some laws and policies that we say promote innovation. Such as intellectual property, research tax credits, and government funded research. But our total spending on all of these is quite small as a fraction of the economy. Even given these efforts, we still have a huge underinvestment in innovation. Why?
+One theory says that we still don’t sufficiently understand innovation. Yes, we know roughly what social process we have in mind, and we can roughly agree on which events and things around us represent more or less innovation. For example, we can hand out awards for unusually good innovation. But if we funded a government agency tasked with promoting innovation, or if your org funded a special office to do similarly, they wouldn’t actually know enough about what to do to justify a large budget. Which suggests that we don’t actually know enough yet about which are the more useful innovation efforts.
+Another theory, however, says that we know plenty of other ways to promote innovation, but just aren’t willing to pay their costs. Our world would be more innovate with lower levels of regulation, especially re new products and services. There’d be more innovation with less variety in products, services, languages, and cultures, and with more emphasis on capital and engineering over labor and design. We’d also have more innovation diffusion if we weakened our “not invented here” biases, and other biases to celebrate invention more than diffusion. And if we celebrated innovation more, compared to other accomplishments, such as activism.
+We know of many ways to make changes in these directions. But for all such changes we have sacred-like values that oppose them, and which we prioritize over innovation. The obvious but hard solution: change our priorities.
+
+
+title: Why Not Innovate More?
+
+date: August 24, 2021 2:00 pm
+

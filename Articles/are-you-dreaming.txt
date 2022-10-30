@@ -1,0 +1,14 @@
+author: James Miller
+
+text: 
+Often when I’m dreaming I “feel” that I’m awake.  When I’m awake, however, I always  “feel” that I’m awake and have no conscious doubt (except in the philosophical sense) that I’m not dreaming.
+But logically when I “feel” awake I should believe there is a non-trivial chance that I’m dreaming.  This has implications for how I should behave.
+For example, imagine I’m considering eating spinach or chocolate.  I like the taste of chocolate more than spinach, but recognize that spinach is healthier for me.  Let’s say that if the probability of my being awake were greater than 99% then to maximize the expected overall quality of my life I should eat the spinach otherwise I should pick the chocolate.  
+Rationally, I should probably figure that the chance of my being awake is less than 99% so I should go with the chocolate.  Yet like most other humans I don’t take into account that I might be dreaming when I “feel” awake.
+Over the long run you would likely reduce your inclusive genetic fitness if when you  “feel” awake you act as if there is a less than 100% chance of your actually being awake.  For this reason I suspect we are “genetically programmed” to never doubt that we are awake when we “feel” awake even though it would be rational to hold such a doubt.
+
+
+title: Are you dreaming?
+
+date: November 23, 2008 4:00 pm
+

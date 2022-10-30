@@ -1,0 +1,16 @@
+author: James Miller
+
+text: 
+Here is a moral puzzle in the spirit of Eliezer’s Torture vs. Dust Specks post.  It is directed to free market admirers.
+A company has 100 employees.  It has the opportunity to make $1 billion but only if a task gets completed.  There are two ways of completing the task.
+(1)  A specific employee, named John, must die.(2)  Three of the 100 employees will be randomly chosen and killed.
+The company can’t force its employees to take any actions, but it can bribe them.  John will not accept any amount of money to give up his life with certainty.  But all 100 employees would gladly risk a 3% chance of death in return for $5 million.  Consequently, the company intends to pay each employee $5 million and complete the task using option (2).
+Now imagine that you are a government regulator who has the power to change what will happen.  You can:
+(A) Forbid the company from completing the task.(B)  Not interfere.(C)  Force the company, and John, to complete the task by using method (1).  You could then force the company to give $5 million to each employee.
+Assume that all 100 employees are exactly alike except that only John can complete the task by himself.  What should you do?  Does it matter if John was randomlly chosen right before the game started?
+
+
+title: Random vs. Certain Death
+
+date: October 31, 2007 5:30 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Here is a great example of signaling and screening:
+The rock supergroup Van Halen had a clause in their concert contracts that stipulated that the band would “be provided with one large bowl of M&M candies, with all brown candies removed”. Once the “M&Ms” story leaked to the press, social commentators jumped all over it as an egregious example of the pampered and spoiled behavior that rock artists demanded. … [But] the band put the “no brown M&Ms” clause in their contracts for a very good reason. …
+The band kept noticing errors (sometimes significant errors) in the stage setup in smaller cities. The band needed a way to know that their contract had been read fully. And this is where the “no brown M&Ms” came in. The band put a clause smack dab in the middle of the technical jargon of other riders: “Article 126: There will be no brown M&M’s in the backstage area, upon pain of forfeiture of the show, with full compensation”. That way, the band could simply enter the arena and look for a bowl of M&Ms in the backstage area. … A bowl of M&Ms with the brown candies? No bowl of M&Ms at all? Stop everyone and check every single thing, because someone didn’t bother to read the contract. (more; HT Phil Maymin)
+This example also shows how hard it can be to collect solid evidence for signaling theories. If we didn’t have the evidence of band members explaining their reasons, how long would it take to guess this reason, and how much other evidence would one have to collect to convince skeptical observers? Because we are often trying to be subtle with our signals, it can be hard to convince skeptical observers that much signaling is actually going on.
+
+
+title: Subtle Signals
+
+date: August 5, 2011 10:35 am
+

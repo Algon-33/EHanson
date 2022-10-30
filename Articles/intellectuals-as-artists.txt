@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Consider some related phenomena:
+
+Casual conversation norms say to wander across many topics, with each person staying relevant to each current topic. This functions well to test individual impressiveness. Today, academic and mass media conversations today follow similar norms, though they did this much less in the ancient world.
+While ancient artists and musicians tried to perfect common styles, modern artists and musicians seek more distinctive personal styles. For example, while songs were once designed to sound good when ordinary folks sang them, now songs are designed to create a unique impressive performance by one artist.
+Politicians often go out of their way to do “position taking” on many issues, even on issues they have little chance of influencing policy while in office. Voters prefer systems like proportional representation where voters can identify more closely with particular representatives, even if this doesn’t give voters better outcomes overall. Knowing many of a politician’s positions helps voters to identify with them.
+“Sophomoric” thinkers, typically college sophomores, are eager to take positions on as many common topics as possible, even if this means taking poorly consider positions. They don’t feel they are adult until they have an opinion ready for most common intellectual conversations. This is more feasible when opinions on each topic area are reduced to choices between a small number of standard “isms”, offering integrated packages of answers. Sophomoric thinkers love isms.
+We often try to extract “isms” out of individuals, such as my colleagues Tyler Cowen or Bryan Caplan. We might ask “What is the Caplanian position on X?” That is, we wonder how they would answer random questions, presuming that we can infer a coherent style from past positions that would answer all future questions, at least within some wide scope. Intellectuals who desire wider attention often go out of their way to express opinions on many topics, chosen via a distinctive personal style.
+
+We pretend that we search only for truth, picking each specific position only via the strongest specific evidence and arguments. And in many mundane contexts that’s not a bad approximation. But in many other grander contexts we seek more to become and associate with distinctive intellectual artists. Such artists are impressive both via the wide range of topics on which they can be impressive, and via having a distinctive personal style that they can bring to bear on this range of topics.
+This all makes complete sense as an impressiveness contest, but far less sense as a way for the world to jointly estimate accurate Bayesian estimates on each topic. I’m sure you can make up reasons why distinctive intellectual styles that imply positions on wide ranges of topics are really great ways to produce accuracy. But they will mostly sound like excuses to me.
+Sophomoric thinkers often retain for a lifetime the random opinions they quickly generate without much thought. Yet they don’t want to just inherit their parents positions; they need to generate their own new opinions. I wonder which effect will dominate when young ems choose opinions; will they tend to adopt standard positions of prior clan members, or generate their own new individual opinions?
+
+
+title: Intellectuals as Artists
+
+date: June 28, 2017 8:12 am
+

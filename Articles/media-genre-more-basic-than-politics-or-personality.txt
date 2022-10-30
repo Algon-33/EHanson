@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+While our personalities are correlated with whether we are liberal or conservative, it seems that neither one of these causes the other. Instead, their correlation is caused by something else that causes both, and that is caused in part by genetics:
+The primary assumption within the recent personality and political orientations literature is that personality traits cause people to develop political attitudes. In contrast, … the covariance between personality and political preferences is not causal, but due to a common, latent genetic factor that mutually influences both. … Change in personality over a ten-year period does not predict change in political attitudes. .. Rather, political attitudes are often more stable than the key personality traits assumed to be predicting them. (more)
+Amazingly, we know of another variable B that fits this bill, of being correlated with both personality A and political orientation C, and mediating their relation. In technical language, A and C are conditionally independent given B, so that P(C|AB) = P(C|B). This B is preferences for media genres!
+Research has consistently demonstrated that political liberalism is predicted by the personality trait Openness to Experience and conservatism by trait Conscientiousness. … Increased preferences for Dark/Alternative and Aesthetic/Musical media genres, as well as decreased preferences for Communal/Popular media genres, mediated the association between Openness to Experience and liberalism. In contrast, greater preferences for Communal/Popular and Thrilling/Action genres, as well as lower preferences for Dark/Alternative and Aesthetic/Musical genres mediated the link between Conscientiousness and conservatism. (more)
+So media genre preference is actually a plausible candidate for something closer to whatever causes personality and political orientation, and is caused in part by genes. This makes intuitive sense to me, because I personally feel more aware of, confident in, and comfortable with my media genre preferences than in my personality types or my political orientation.
+These authors (Xiaowen Xu & Jordan Peterson) took a survey of 543 US people, and did a factor analysis on their media preferences. They found five factors. The strongest media factor is:
+
+Cerebral/Nonfiction: e.g., educational, arts & humanities TV; nonfiction, academic, reference, current events, biography, science, medical books.
+
+This factor doesn’t correlate with political orientation, but it does correlate with the openness personality factor, which has a subfactor of intellect, so this all makes sense.
+The other four media factors split nicely into a 2×2 matrix along two dimensions. One dimension is “highbrow” vs. “lowbrow.” (Cerebral/Nonfiction is also “highbrow”.) The other dimension is personality/politics: two factors correlate with both liberals and those with open personalities, and two factors correlate with both conservatives and those with conscientious personalities. Here are these four media factors:
+Highbrow:
+
+Open/Liberal: Aesthetic/Musical: e.g., world, jazz, opera, folk, classical, funk, gospel, blues, new age music; foreign film, poetry book.
+Consc/Conser: Communal/Popular: e.g., daytime talk, reality, game, soaps, kids TV; made for TV movies; music TV; family films; pop music.
+
+Lowbrow:
+
+Open/Liberal: Dark/Alternative: e.g., horror, science fiction, fantasy, cult, erotic, animation, & independent film; punk, alt, & metal music; sketch comedy.
+Consc/Conser: Thrilling/Action: e.g., action, sports & spy TV; war, western, action film; computer & adventure book.
+
+(My personal tastes favor Cerebral/Nonfiction first, then Dark/Alternative weak second.)
+While personality and political variables come from factor analyses of survey answers to relatively abstract attitude and opinion question, media genre variables seem more closely related to concrete real-life choices that people make. And it makes sense to me that our genes (and culture) more directly cause our inclinations to take concrete actions, and that abstract attitudes and opinions result more indirectly, from our trying to rationalize those actions. So it makes sense to me that media genre preferences are closer to more direct genetic (and cultural) causality.
+A few more results from the paper: Older people prefer Dark/Alternative less and Cerebral/Nonfiction more, while women prefer Communal/Popular more and Thrilling/Action less. These can explain the personality correlates of age and gender. Agreeableness is higher for those who like highbrow genres (except Aesthetic/Musical has no effect), and less for those who like lowbrow genres. Extraversion is higher for those who like conservative genres, though it doesn’t correlate directly politics directly because personality factors are highly correlated in this dataset. Neuroticism is less for those who like Cerebral/Nonfiction and Thrilling/Action.
+
+
+title: Media Genre More Basic Than Politics Or Personality?
+
+date: October 16, 2015 1:40 pm
+

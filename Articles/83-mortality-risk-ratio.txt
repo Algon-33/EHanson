@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Julian Cristia in the Journal of Health Economics:
+Using a unique data set matching administrative and survey data, this study explores trends in [U.S. mortality] differentials by lifetime earnings for the 1983 to 2003 period. … There are large differentials … in different quintiles … Controlling for race, Hispanic origin, marital status, and education only slightly reduces these differentials. … Differentials decrease markedly with age. … In the period 1983 to 1997, men ages 35 to 49 in the bottom lifetime earnings quintile had mortality 5.9 (1.8 for women) times higher than those in the top quintile; in the period 1998 to 2003 this ratio increased to 8.3 (4.8 for women).
+8.3!! For a mortality risk ratio, 8.3 is HUGE. For ages 50-64, that number drops to 4.8, which is still huge.  Wow.  Income, or something correlated, sure is important for health.
+
+
+title: 8.3 Mortality Risk Ratio!
+
+date: June 26, 2009 6:00 am
+

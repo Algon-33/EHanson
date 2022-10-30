@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+A striking example of how powerful signaling can be in forming language:
+Not so long ago—just a few hundred years—thou and its cousins thee and thy were the words to use when addressing one person, while you and ye and your were reserved for more than one. … But later in the Middle Ages, … it became the custom, not only in English but in most European languages, to show respect by addressing someone as you, even if the person was singular. Perhaps it was the inverse of the royal we, used by a ruler in public utterances as if to speak on behalf of God or of all his or her subjects. The subjects would show respect by responding to the plural we with the plural you. … Because you was a sign of respect, thou by contrast became a sign of disrespect, at least in public. … Gradually politeness spread so widely among speakers of English that you entirely displaced thou. … Even with you usurping the whole of second-person pronouns, the impulse to distinguish between singular and plural remains. That’s why we have plural locutions that prompt purists to gnashing of teeth: you all, y’all, yous, you’ns, and of course that all-time favorite … you guys. (more; HT Virginia Postrel)
+
+
+title: Pronoun Inflation
+
+date: September 8, 2011 10:00 am
+

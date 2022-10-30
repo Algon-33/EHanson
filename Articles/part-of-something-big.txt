@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+A hero is someone who has given his or her life to something bigger than oneself. Joseph Campbell
+Most Twitter talk reminds me of the movie Ridicule, wherein courtiers compete to show cruel wit and cynicism. This makes me crave a simple direct conversation on something that matters.
+So I pick this: being part of something larger than yourself. This is a commonly expressed wish. But what does it mean?
+Here are some clues: Judging from Google-found quotes, common satisfactory “things” include religions, militaries, political parties, and charities. For most people “the universe” seems too big and “my immediate family” seems too small. And neither seem idealistic enough. “All utilitarians” is idealistic enough, but seems insufficiently coherent as a group. The words “part” and “thing” here are suspiciously vague, suggesting that there are several elements here, some of which people are more willing to admit than others.
+Here’s my interpretation: We want to be part of a strong group that has our back, and we want to support and promote ideals. But these preferences aren’t independent, to be satisfied separately. We especially want to combine them, and be a valued part of a group that supports good ideals.
+So we simultaneously want all these things:
+
+We are associated with an actual group of people.
+These people concretely relate to each other.
+This group is credibly seen as really supporting some ideals.
+We embrace those ideals, and find them worth our sacrifice.
+Our help to this group’s ideals would be noticed, appreciated.
+If outsiders resist our help, the group will have our back.
+The group is strong enough to have substantial help to give.
+The group does’t do wrongs that outweigh their ideals support.
+Both the group and its ideals are big in the scheme of things.
+
+Since this is a lot of constraints, the actual groups that exist are unlikely to satisfy them all. So we compromise. Some people see most all big coherent groups as easily corrupted, and so only accept small groups. For some, group bonding is so important they’ll compromise on the ideals, or accept weak evidence that the group actually supports its ideals. If group strength is important enough to them, they may not require any ideals. For others, the ideal is everything, and they’ll accept a weak group defined abstractly as “everyone who truly supports this ideal.” Finally, for some being appreciated is so important that they’ll take the thing the world seems to most appreciate about them and accept a group and ideal defined around that.
+If this is right then just talking about what are the best ideals and how to achieve them somewhat misses the point. Also somewhat missing the point is talk about how to make strong well-bonded groups. If people typically want the two of these things together, then the actual design problem is how to achieve good ideals via a strong well-bonded group.
+Which isn’t a design problem I hear people talk about much. Some presume that if they can design a good enough ideal, a good group will naturally collect around it. Others presume that if they can design a good enough way for groups to coordinate, groups will naturally coordinate to achieve good ideals. But how reasonable are these assumptions?
+If we focus on explaining this preference instead of satisfying it, a homo hypocritus framework fits reasonably well. Coalition politics is central to what we really want, but if cheap we’d rather appear to focus on supporting ideals, and only incidentally pick groups to help us in that quest.
+
+
+title: Part Of Something Big
+
+date: August 9, 2014 8:30 am
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Eric Falkenstein has posted here at Overcoming Bias five times; he now has a thoughtful blog and a new book:
+Is the equity premium really zero? I think for the average investor, yes it is, and it’s a central issue in my book, Finding Alpha.
+This paper gives his main idea, which is that there is no risk premium, i.e., an extra return for taking on more risky investments, because investors mainly care about relative wealth; if anything the highest risk investments get lower returns.  Eric complains he gets no respect:
+I haven’t gotten a lot of public feedback on my book, but the private feedback is rather circular.  On one hand, there are those saying my findings are wrong. I’m ‘saying the earth is flat’, in one irate economist’s view. My empirical findings are not rigorous, in that I’m using incorrect statistical tests. … On the other side, I get comments like ‘this is obvious’, it’s ‘too simple’, or ‘everyone knows that’.
+My asking around a bit confirms Eric; academic finance folks’ reaction is that everyone is sure there is a positive risk premium even though they admit the data isn’t very clear and everyone also knows relative wealth preferences exist and if strong enough could eliminate the risk premium.  My quick search didn’t find anyone else taking Eric’s strong position, and he says he can’t find anything either.
+My best guess is that Eric is basically right.  In fact, I’d guess lower returns for the highest risk investments come from enough investors being risk-loving in relative wealth; they are willing to lose out on average for a chance to gain the very most.  However, even if Eric is eventually proven very clearly right, I’m not optimistic that he will get much credit or gain from it.
+The folks more likely to be celebrated for this new discovery are prestigious academics with impressive related models or data analyses, even folks who would now say he is all wrong.  Eric knows his models and data analyses are rather simple, and he correctly notes they are good enough to make his main intellectual points.  But they are probably not difficult enough to make academics eager to affiliate with him, and so unless Eric can somehow get enough attention to shame academics into citing him, they won’t bother.
+This sort of situation is exactly why I wanted to design better institutions like idea futures, where folks could be rewarded for backing a widely disbelieved view that is eventually vindicated.  But I admit it is not clear who really cares enough about truth to push for such change; backing the status quo is a better way to affiliate with credentialed as impressive folks.
+
+
+title: No Risk Premium?
+
+date: August 2, 2009 9:30 pm
+

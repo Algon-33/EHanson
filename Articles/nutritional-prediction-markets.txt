@@ -1,0 +1,16 @@
+author: James Miller
+
+text: 
+The chemical resveratrol might slowdown aging.  Taking large doses of vitamin D supplements might drastically reduce your chances of contracting cancer.  It’s possible, however, that taking either supplement could worsen your health.
+Some would argue that the prudent thing to do is wait for more research to be published.  But, for example, if resveratrol really does slowdown aging then if I wait five years to take it I might lose two years of life.  Similarly, if taking large quantities of vitamin D really does drastically cut the risk of cancer then waiting five years to start taking it in supplement form might cost me my life.
+In ten years we will know far more about the health effects of taking these and many other supplements.  What should we do in the meantime?  What most of us are forced to do is rely on the advice of experts as presented in the popular press.  Instead someone should create prediction markets in the benefits and costs of health supplements.
+If resveratrol fulfills its promise then in ten years tens of millions of Americans will be taking it.  We could therefore create a prediction market that predicts how many Americans will be taking resveratrol in ten years.
+We should also create a prediction market in whether taking resveratrol proves harmful.  Many people are currently taking the drug.  A prediction market could estimate, for example, how many deaths or serious health problems will be linked to resveratrol over the next decade.
+These two prediction markets would prove enormously useful to rational consumers.  For example, imagine that the first market estimated that there was a 40% chance that in ten years most Americans would regularly take resveratrol, and the second market estimated with high probability that no one would be harmed by taking resveratrol.  This would mean that with high probability taking resveratrol today would either help you or do you no harm (other than to your pocketbook.)  Based on these results many people, I suspect, would start taking the supplement.
+Nutritional prediction markets would also create incentives for scientists to study the health benefits of resveratrol.  A scientist could conduct research and then play the prediction market before publishing his results.
+
+
+title: Nutritional Prediction Markets
+
+date: June 3, 2007 7:21 pm
+

@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Congressional Quarterly Researcher has a new issue focused on artificial intelligence. They invited me to write short a op-ed on the question “Will artificial intelligence lead to massive unemployment?” Alas they didn’t tell me the idea was for me to say “No” opposite Martin Ford saying “Yes” – we both said “Yes.” They’d have done better to have Ford and I dispute something we disagreed on, such as how best to deal with such unemployment.  Anyway, here’s mine oped:
+Artificial intelligence could indeed lead to high unemployment if, in contrast to today’s situation, most world income was paid not for human wages, but instead for income from land and capital, including machines. After all, why work if working full time doesn’t increase your income much? And this could happen if the value of human labor fell greatly, relative to machines.
+Is this possible? In the near term, it is unlikely. Right now, computers and other forms of machine intelligence aren’t nearly sophisticated enough to emulate the human brain or replace human labor on a global scale. But in the long term — say, a century or two in the future, as artificial intelligence becomes far more sophisticated than it is today — the picture could be far different. For now, it would be insufficient to merely have more powerful machines, if they continued to mainly complement human labor, as machines have for centuries. When machines complement humans, better machines lead to more, not less, demand for humans.
+Even if machines have so far tended to complement humans, might machines someday become actual substitutes for human workers? The key thing to understand here is that while a machine might substitute for a human on any particular task, when the division of tasks between humans and machines is stable, then cheaper and better machines raise the demand for humans.
+But if machines could effectively replace humans for most tasks now performed by humans, that would be a very different story. Full-time human wages would then become small compared to humans’ income from owning machines that do the work. This isn’t the current trend, so don’t worry about it happening soon. But not only is this possible, it is likely, within a century or two, through the use of “whole brain emulations.”
+Imagine that we could 1) scan some real human brains in enough detail, 2) model all standard brain cell types with enough accuracy and 3) have cheap enough computers to emulate entire human brains, using these cell models and the scan details. Such emulations would then talk and act much like the scanned humans they emulate, and so could replace humans on most tasks.
+An unregulated market in cheap brain emulations would lead to a vast explosion of wealth and emulations, and to human wages falling to match machine rental costs, soon well below human subsistence levels. Humans would then have to own enough other forms of capital, or starve. Emulations, in contrast, would be fully employed.
+
+
+title: My CQ Researcher OpEd
+
+date: April 24, 2011 11:00 pm
+

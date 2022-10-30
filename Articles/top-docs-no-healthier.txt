@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+My two years a RWJF Health Policy Scholar exposed me to enough data to make me a skeptic on the marginal aggregate health value of medicine.  But where data is silent I try to give medicine the benefit of the doubt, such as in assuming average values are higher than marginal values, and that top med school docs give more value than others.   So I am shocked to report that in a randomized trial of 72,000 hospital stays by 30,000 patients, patients of top med school docs were no healthier: 
+
+The school affiliated with Program A is the top school in the nation when ranked by the incoming students’ MCAT scores, and it is always near the top. In comparison, the lower-ranked program [B] that serves this VA hospital is near the median of medical schools. … [Added: other ways A beats B here.] Patients treated by the two teams have identical observable characteristics and have access to a single set of facilities and ancillary staff. … 
+ Health outcomes are not related to the physician team assignment. … Program B is associated with … a 0.3 percentage-point reduction in 5-year mortality (or 0.6% of the mean).  … The confidence interval is [-0.0162, 0.0106]. … 
+
+  
+
+ Those treated by physicians from [A] … have 10-25% shorter and less expensive stays than patients assigned to the lower-ranked institution. .. For example, patients assigned to physicians from Program B are more likely to undergo diagnostic tests compared to patients treated by Program A (73% vs. 68%). 
+ Procedure differences across the teams are consistent with the ability of physicians in the lower-ranked institution to substitute time and diagnostic tests for the faster judgments of physicians from the top-ranked institution. … This is consistent with a group that is either more careful or a group that requires more time and information to understand the nature of the condition.
+
+This ignores the possibility that lower rank docs order more tests because they rightly fear more malpractice suits.  After all, the paper notes:
+
+Hartz et al. (1999) show that surgeons are more likely to be regarded as a "best doctor" in these community surveys if they trained at a prestigious residency or fellowship program. They note that treatment by physicians trained at prestigious programs is not related to mortality, however.
+
+ And a malpractice suit study says:  
+
+The Medical Malpractice Project attempted to review every malpractice suit filed in North Carolina between July 1, 1984, and June 30, 1987 – 895 cases.  … The central issue in many of the trials … did not involve technical issues, despite a lot of testimony on these subjects, but rather the credibility of the doctor or other health care providers compared with the credibility of the plaintiff.   
+
+ This all suggests that while med schools may feel competitive pressure to achieve prestige, there isn’t much pressure to teach students how to make patients healthier.  HT to Michael Cannon on the main study, retired urologist on the malpractice study.
+
+
+title: Top Docs No Healthier
+
+date: August 26, 2008 6:00 am
+

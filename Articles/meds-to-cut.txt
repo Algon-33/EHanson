@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+The most respected standard source on the effectiveness of medical treatments is the British Medical Journal‘s Clinical Evidence.  This summarizes 2500 treatments studied:
+
+(Here is a summary of older reviews. Hat tip to Harold Lehmann.)
+I’ve said we should cut medicine in half, and have so far proposed two methods:
+
+Raise the price of medicine, first by reducing subsidizes then by increasing patient cost-sharing or by adding taxes.
+Bring in docs from places where spending is low to impose their style of practice on places where spending is high.
+
+Let me add a third proposal:
+
+Cut insurance coverage for treatments using BMJ ratings: first cut those likely to harm and unlikely to benefit, then cut those with benefit harm tradeoffs and those of unknown effectiveness.
+
+Since randomized experiments and cross regional regressions usually find zero correlation between health and medical spending, we should presume that treatments of unknown effectiveness are on average ineffective.
+
+
+title: Meds To Cut
+
+date: July 31, 2009 6:00 am
+

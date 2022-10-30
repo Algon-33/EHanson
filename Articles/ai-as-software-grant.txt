@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+While I’ve been part of grants before, and had research support, I’ve never had support for my futurist work, including the years I spent writing Age of Em. That now changes:
+The Open Philanthropy Project awarded a grant of $264,525 over three years to Robin Hanson (Associate Professor of Economics, George Mason University) to analyze potential scenarios in the future development of artificial intelligence (AI). Professor Hanson plans to focus on scenarios in which AI is developed through the steady accumulation of individual pieces of software and leads to a “multipolar” outcome. .. This grant falls within our work on potential risks from advanced artificial intelligence, one of our focus areas within global catastrophic risks. (more)
+Who is Open Philanthropy? From their summary:
+Good Ventures is a philanthropic foundation whose mission is to help humanity thrive. Good Ventures was created by Dustin Moskovitz (co-founder of Facebook and Asana) and Cari Tuna, who have pledged to give the majority of their wealth to charity. .. GiveWell is a nonprofit that finds outstanding giving opportunities and publishes the full details of its analysis to help donors decide where to give. .. The Open Philanthropy Project is a collaboration between Good Ventures and GiveWell in which we identify outstanding giving opportunities, make grants, follow the results, and publish our findings.
+A key paragraph from my proposal:
+Robin Hanson proposes to take three years to conduct a broad positive analysis of the multipolar scenario wherein AI results from relatively steady accumulation of software tools. That is, he proposes to assume that human level AI will result mainly from the continued accumulation of software tools and packages, with distributions of cost and value correlations similar to those seen so far in software practice, in an environment where no one actor dominates the process of creating or fielding such software. He will attempt a mostly positive analysis of the social consequences of these assumptions, both during and after a transition to a world dominated by AI. While this is hardly the universe of all desired analyses, it does seem to cover a non-trivial fraction of interesting cases.
+I and they see value in such an analysis even if AI software ends up differing systematically from the software we’ve seen so far:
+While we do not believe that the class of scenarios that Professor Hanson will be analyzing is necessarily the most likely way for future AI development to play out, we expect his research to contribute a significant amount of useful data collection and analysis that might be valuable to our thinking about AI more generally, as well as provide a model for other people to follow when performing similar analyses of other AI scenarios of interest.
+My idea is to extract from our decades of experience with software a more detailed description of the basic economics of software production and use. To distinguish, as time allows, many different kinds of inputs to production, styles of production, parts of produced products, and types of uses. And then to sketch out different rough “production functions” appropriate to different cases. That is, to begin to translate basic software engineering insight into economics language.
+The simple assumption that software doesn’t fundamentally change in the future is the baseline scenario, to be fed into standard economic models to see what happens when such a more richly described software sector slowly grows to take over the economy. But a richer more detailed description of software economics can also give people a vocabulary for describing their alternative hypotheses about how software will change. And then this analysis framework can be adjusted to explore such alternative hypotheses.
+So right from the start I’d like to offer this challenge:
+Do you believe that the software that will let machines eventually do pretty much all jobs better than humans (or ems) will differ in foreseeable systematic ways from the software we have seen in the last seventy years of software practice? If so, please express your difference hypothesis as clearly as possible in terminology that would be understandable and familiar to software engineers and/or economists.
+I will try to stretch the economic descriptions of software that I develop in the direction of encompassing the most common such hypotheses I find.
+
+
+title: AI As Software Grant
+
+date: July 7, 2016 7:15 pm
+

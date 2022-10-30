@@ -1,0 +1,46 @@
+author: Robin Hanson
+
+text: 
+In my last post, I recommended these assumptions:
+
+It is worth knowing how far to grabby alien civs (GCs), even if that doesn’t tell about other alien types.
+Try-try parts of the great filter alone make it unlikely for any one small volume to birth an GC in 14 billion years.
+We can roughly estimate GC expansion speed, and the number of hard try-try steps in the great filter.
+Earth is not now within the sphere of control of an GC.
+Earth is at risk of birthing an GC soon, making today’s date a sample from GC time origin distribution.
+
+I tried to explain how these assumptions can allow us to estimate how far away are GC. And I promised to give more math details in my next post post. This is that next post.
+First, I promised to elaborate on how well tn works as the chance that a small volume will birth a GC at time t. The simplest model is that eternal oases like Earth are all born at some t=0, and last forever. Each oasis must pass through a great filter, i.e., a sequence of hard steps, from simple dead matter to simple life to complex life, etc., ending at a GC birth. For each hard step, there’s a (different) constant chance per unit time to make it to the next step, a chance so low that the expected time for each step is much less than t.
+In this case, the chance of GC birth per unit time in a small volume is tn, with n = h-1, where h is the number of hard steps. If there are many oases in a small volume with varying difficulty, their chances still add up to the same tn dependence as long as they all have the same number of hard steps between dead matter an a GC.
+If there are try-once steps in the great filter, steps where an oasis can fail but which don’t take much time, that just reduces the constant in front of tn, without changing the tn dependence. If there are also easy steps in this filter, steps that take expected time much less than t, these just add a constant delay, moving the t=0 point in time. We can accommodate other fixed delays in the same way.
+We have so far assumed that, one the prior steps have happened, the chance of each step happening is constant per unit time. But we can also generalize to the case where this step chance per time is a power law tm , with t the time since the last step was achieved, and with a different mi for each step i. In this case, h = Σi (1+mi). These step powers m can be negative, or fractional.
+Instead of having the oases all turn on at some t=0, oases like Earth with a chance tn can instead be born at a constant rate per unit time after some t=0. It turns out that the integrated chance across all such oases of birthing a GC at time t is again proportional to tn, with again n = h-1.
+A more elaborate model would consider the actually distribution of star masses, which have a CDF that goes as m-1.5, and the actual distribution of stellar lifetime L per mass m, which has a CDF that goes as m-3. Assuming that stars of all masses are created at the same constant rate, but that each star drops out of the distribution when it reaches its lifetime, we still get that the chance of GC birth per unit time goes as tn, except that now n = h-1.5.
+Thus the tn time dependence seems a decent approximation in more complex cases, even if the exact value of n varies with details. Okay, now lets get back to this diagram I showed in my last post:
+
+If the GC expansion speed is constant in conformal time (a reasonable approximation for small civ spatial separations), and if the civ origin time x that shapes the diagram has rank r in this civ origin time distribution, then x,r should satisfy:
+((1-r)/r) ∫0x tn dt = ∫x1 tn (1 – ((t-x)D/(1-x))) dt.Here D is the space dimension. D = 3 is appropriate on the largest and the small many-star scales, but D = 2 across galaxy disks, and D = 1 in filaments of galaxies. This equation can be solved numerically. The ratio of the time from an GC origin til that GC directly meets aliens, relative to universe age at civ origin, is (1-x)/x, and is shown in this table:
+
+The x-axis here is the power n in tn, and the y-axis is shown logarithmically. As you can see, aliens can be close in the sense that the time to reach aliens is much smaller than is the time it takes to birth the GC. This time til meet is also smaller for higher powers and for more spatial dimensions.
+Note that these meet-to-origin time ratios don’t depend on the GC expansion speed. As I discussed in my last post, this model suggests that spatial distances between GC origins double if either the median GC origin time doubles, or if the expansion speed doubles. The lower is the expansion speed relative to the speed of light, the better a chance a civ has of seeing an approaching GC before meeting them directly. (Note that we only need a GC expansion speed estimate to get distributions over how many GCs each can see at its origin, and how easy they are to see. We don’t need speeds to estimate how long til meet aliens.)
+To get more realistic estimates, I also made a quick Excel-based sim for a one dimensional universe. (And I am happy to get help making better sims, such as in higher dimensions.) I randomly picked 1000 candidate GC origins (x,t), with x drawn uniformly in [0,1], and t drawn proportional to tn in [0,1]. I then deleted any origin from this list if, before its slated origin time, it could be colonized from some other origin in the list at speed 1/4. What remained were the actual GC origin points.
+Here is a table with key stats for 4 different powers n:
+
+I also did a version with 4000 candidate GCs, speed 1/8, and power n = 10, in which there were 75 C origins. This diagram shows the resulting space-time history (time vertical, space horizontal):
+
+In the lower part, we see Vs where an GC starts and grows outward to the left and right. In the upper part, we see Λs where two adjacent GC meet. As you can see, for high powers GC origins have a relatively narrow range of times, but a pretty wide range of spatial separations from adjacent GC.
+Scaling these results to our 13.8 billion year origin date, we get a median time to meet aliens of  roughly 1.0 billion years, though the tenth percentile is about 250 million years. If the results of our prior math model are a guide, average times to meet aliens in D=3 would be about a factor two smaller. But the variance of these meet times should also be smaller, so I’m not sure which way the tenth percentile might change.
+A more general way to sim this model is to:
+
+A) set a power n in tn and estimate 1) a density in space-time of origins of oases which might birth GCs, 2) a distribution over oasis durations, and 3) a distribution over GC expansion speeds,
+B) randomly sample 1) oasis spacetime origins, 2) durations to produce a candidate GC origin after its oasis origin times, using tn , and 3) expansion speed for each candidate GC,
+C) delete candidate GCs if their birth happens after its oasis ends or after a colony from another GC colony could reach there before then at its expansion speed.
+D) The GC origins that remain give a distribution over space-time of such GC origins. Projecting the expansion speed forward in time gives the later spheres of control of each GC until they meet.
+
+I’ll put an added to this post if I ever make or find more elaborate sims of this model.
+
+
+title: How Far To Grabby Aliens? Part 2.
+
+date: December 21, 2020 10:15 pm
+

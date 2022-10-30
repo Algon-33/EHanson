@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+A recent survey shows that the US public incorrectly assumes scientists are like them politically:
+
+If the public knew the truth, I expect two effects:
+
+The public would consider scientists to be less authoritative as a neutral source on policy questions, and
+Since scientists are respected, the public would become less conservative and more liberal.
+
+Which of these effects would dominate?  Well since scientists tend to endorse liberal policies, the first effect should reduce support for liberal policies while the second should increase it.   So who seems more eager to inform the public about scientist liberality?  If liberals, that suggests the second effect is expected to dominate.  If conservatives, the first effect dominates.   My casual observation is that conservatives are more eager to speak up on this, suggesting the first effect dominates.   So over time I expect the truth will get out, science will lose authority, and scientist support will help liberals less.
+Some other results from the survey:
+The public has a far less positive view of the global standing of U.S. science than do scientists themselves. Just 17% of the public thinks that U.S. scientific achievements rate as the best in the world.  A survey of more than 2,500 scientists … finds that nearly half (49%) rate U.S. scientific achievements as the best in the world. … Fewer Americans volunteer scientific advances as one of the country’s most important achievements than did so a decade ago (27% today, 47% in May 1999). … Most scientists (55%) mention a biomedical or health finding when asked about the nation’s greatest scientific achievement of the last 20 years. …
+Scientists are far less critical than the general public of government performance. Just 40% of scientists agree that “when something is run by the government, it is usually inefficient and wasteful”; a majority of the public (57%) agrees with this statement.  Scientists are, however, more critical of business; they are roughly half as likely as the public to say that “business corporations generally strike a fair balance between making profits and serving the public interest” (20% of scientists vs. 37% of public).
+
+
+title: Exposing Scientist Liberality
+
+date: July 28, 2009 6:00 am
+

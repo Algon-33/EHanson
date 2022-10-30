@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+A recent working paper finds that we call the same decision immoral when it leads to a bad outcome, but moral when it leads to a good outcome:  
+
+Two studies investigated the influence of outcome information on ethical judgment. Participants read a series of vignettes describing ethically-questionable behaviors. We manipulated whether those behaviors were followed by a negative or positive consequence. As hypothesized, participants judged behavior as less ethical when it was followed by a negative consequence. In addition, they judged the behavior as more blameworthy and to be punished more harshly. Participants’ ethical judgments mediated their judgments of both blame and punishment. The results of the second experiment showed again that participants rated behavior as less ethical when it led to undesirable consequences, even if they saw that behavior as acceptable before they knew its consequences. Implications for both research and practice are discussed.   … 
+ We show that outcomes of decisions lead people to see the decisions themselves in a different light, and that this effect does not depend on misremembering their prior state of mind. In other words, people will see it as entirely appropriate to allow a decision’s outcome to determine their assessment of the decision’s quality. … The tendency demonstrated in our studies might lead people to blame others too harshly for making sensible decisions that have unlucky outcomes. … Too often, we let ethically-questionable decisions slide for a long time until they result in negative outcomes, even in cases in which such outcomes are easily predictable.  
+
+This makes morality look more like a social convention for who we can blame for what, rather than a direct guide to decision making.  
+
+
+title: Blaming The Unlucky
+
+date: April 25, 2008 6:00 am
+

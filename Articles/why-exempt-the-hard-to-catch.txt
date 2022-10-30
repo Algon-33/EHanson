@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+I often post on why we make some behaviors illegal, while leaving similar behaviors legal. For example, yesterday I posted on why low status jobs get work hour limits, and high status jobs don’t. When I post on such topics, many commenters suggest that the explanation is it is harder to enforce laws against the now-legal behaviors. So I thought it might be worth pointing out how little of our legal variance is explained by difficulty of enforcement.
+First, note that we now tolerate huge variations in the ease of catching law violators, without exempting hard-to-catch cases. For example, sales tax must be paid not only when using a credit cared at a chain store, but also for cash purchases at flea markets. Income tax must be paid not only for full-time employees of big firms, but also when paying cash to a transient to do some yard work. It is just as illegal to shoplift a dress from Macy’s as it is to nap a trinket from some’s house you visit. Putting trash in the wrong recycling bin is against the rules even when there’s almost no chance of catching you. Rape can be quite hard to prove, yet few are sympathetic to legalizing rape in the situations where rapists are hardest to catch.
+Second, note that it usually makes more sense to adapt to hard-to-catch cases by increasing punishments, rather than exempting them from punishment. They hung horse thieves in the old wild west not because horses were more valuable than other items whose theft didn’t induce a death penalty, but because it was much harder to catch horse thieves. Punishment is often reduced for criminals who turn themselves in, as that increase the chance of catching them.
+Third, note that we often require changes to common behaviors to make it easier to catch law violators. For example, we require visible license plates on cars, and require publicly traded firms to keep careful accounting records. We do this even when such rules may prevent many related behaviors. So the fact that changes might be required to make it easier to catch violators of some proposed law hardly makes it obvious that we wouldn’t adopt such a law, or those changes.
+For example, if we wanted we could limit the number of hours per week that students study for classes. Yes, that rule might be hard to enforce without other supporting changes. But we could require that studying only be done in approved study halls. Or we could increase the punishment  for violations. Or we could just accept that the law would be evaded often.  But it seems to me far more likely that we don’t actually want to limit student hours per week of study.
+
+
+title: Why Exempt The Hard To Catch?
+
+date: December 27, 2011 12:10 pm
+

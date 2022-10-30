@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Three years ago I reported on psych studies suggesting that we trust because we fear:
+High levels of support often observed for governmental and religious systems can be explained, in part, as a means of coping with the threat posed by chronically or situationally fluctuating levels of perceived personal control. (more)
+New studies lay out this process in more detail:
+In the domain of energy, … when individuals [were made to] feel unknowledgeable about an issue, participants increasingly trusted in the government to manage various environmental technologies, and increasingly supported the status quo in how the government makes decisions regarding the application of those technologies. … When people felt unknowledgeable with social issues, they felt more dependent on the government, which lead to increased trust.
+When they feel unknowledgeable about a threatening social issue, … [people] also appear motivated to avoid learning new information about it. … In the context of an imminent oil shortage—as opposed to a distant one—participants who felt that the issue was “above their heads” reported an increased desire to adopt an “ignorance is bliss” mentality toward that issue, relative to those who saw oil management as a relatively simple issue.
+This effect … is at least partly due to participants’ desire to protect their faith in the capable hands of the government. Among those who felt more affected by the recession, experimentally increasing domain complexity eliminated the tendency to seek out information. These individuals avoided not only negative information but also vague information, that is, the types of information that held the potential (according to pretesting) to challenge the idea that the government can manage the economy. Positive information was not avoided in the same way. (more)
+I (again) suspect we act similarly toward medicine, law, and other authorities: we trust them more when we feel vulnerable to them, and we then avoid info that might undermine such trust. It is extremely important that we understand how this works, so that we can find ways around it. This is my guess for humanity’s biggest failing.
+
+
+title: Fear Causes Trust, Blindness
+
+date: November 10, 2011 2:30 pm
+

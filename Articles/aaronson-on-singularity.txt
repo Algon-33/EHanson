@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Scott Aaronson says "The Singularity Is Far":
+
+Last week I read Ray Kurzweil’s The Singularity Is Near, which argues that by 2045, or somewhere around then, advances in AI, neuroscience, nanotechnology, and other fields will let us transcend biology, upload our brains to computers, and achieve the dreams of the ancient religions, including eternal life and whatever simulated sex partners we want. … While I share Kurzweil’s ethical sense, I don’t share his technological optimism.  Everywhere he looks, Kurzweil sees Moore’s-Law-type exponential trajectories … I [instead] see a few fragile and improbable victories against a backdrop of malice, stupidity, and greed … if the Singularity ever does arrive, I expect it to be plagued by frequent outages and terrible customer service. …
+ [Here is] why I haven’t chosen to spend my life worrying about the Singularity. … There are vastly easier prerequisite questions that we already don’t know how to answer.  … [We may] discover some completely unanticipated reason why … uploading our brains to computers was a harebrained idea from the start … Given our current ignorance, there seems to me to be relatively little worth saying about the Singularity – and what is worth saying is already being said well by others. … the Doomsday Argument … [gives] a certain check on futurian optimism.  …
+ Had it not been for quantum computing, I’d probably still be doing AI today. … I’d say that human-level AI seemed to me like a slog of many more centuries or millennia. … The one notion I have real trouble with is that the AI-beings of the future would be no more comprehensible to humans than humans are to dogs. …
+
+  
+
+ A point beyond which we could only understand history by playing it in extreme slow motion. … While … [this] kind of singularity is possible, I’m not at all convinced of Kurzweil’s thesis that it’s "near" (where "near" means before 2045, or even 2300).  I see a world that really did change dramatically over the last century, but where progress on many fronts (like transportation and energy) seems to have slowed down rather than sped up; a world quickly approaching its carrying capacity, exhausting its natural resources, ruining its oceans, and supercharging its climate; a world where … millions continue to die for trivial reasons, and democracy isn’t even clearly winning out over despotism; … before we transcend the human condition and upload our brains to computers, a reasonable first step might be to bring the 17th-century Enlightenment to the 98% of the world that still hasn’t gotten the message. … 
+
+ Scott, we agree on many things.  Yes, hand coded AI seems damn hard and far off, yes AIs would be comprehensible and their arrival need not fix despotism, death, poverty, or ecological collapse, yes you shouldn’t be building AIs, yes doomsday arguments warn of doom, and yes most economists see steady modest growth, not the rapid acceleration Kurzweil touts – he says every tech ever hyped will realize its promise and more in decade or two.  And yes we might prefer to complete the Enlightenment before new tech disruptions.  
+ But it is not a matter of choosing what we want to happen when; it is a matter of not being blind-sided by what does in fact happen.  My "singularity" concern is AI via whole brain emulation, which seems likely within a half century or so, when it should remain quite relevant.  The neglect isn’t so much too few folks working to make it happen as too little integration of this scenario into future policy visions, including visions of poverty, ecology, population, despotism, etc.  Given its likelihood and potency, this scenario deserves more attention than Medicare trust-fund depletion, Chinese military dominance, or even global warming.   
+ Yes we are ignorant, but (as I think I’ve personally shown) such ignorance can be substantially reduced by more study, and the main reason almost no good academics study this is that most  academics think the subject much too silly.  If you could help to turn this tide of silliness-perception, now that could be of great value. 
+
+
+title: Aaronson on Singularity
+
+date: September 7, 2008 12:30 pm
+

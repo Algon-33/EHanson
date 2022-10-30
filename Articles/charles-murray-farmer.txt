@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I finished Charles Murray’s book Coming Apart. He is quite convincing on his main empirical claim: the behavior of US high and low classes have indeed come apart in the last half century, mainly as low classes reject religion, marriage, and full-time work.
+This raises the obvious question of whether classes have been similarly coming apart in the rest of the world. But Murray seems uninterested in that question – he is fervently nationalist, and mainly laments the US losing its exceptional status of having fewer class differences, and becoming more like other rich nations. Since regression to the mean is what we should expect about most any nation with an exceptional feature, this shouldn’t be very surprising, and we shouldn’t expect a reversal.
+Curiously the US may have “regressed past the mean”, achieving classes that are even more distinct classes than in most rich nations. Perhaps the US allows more change and mobility overall.
+Near the end of the book Murray allows himself a rant on what he thinks was great about the US, and bad about Europe. This seems to me an unusually vivid presentation of a farmer-style intellectual point of view, a rare find in the modern world:
+There’s a lot to like about day-to-day live in the advanced welfare states of western Europe. They are great places to visit. But the view of life that has taken root in those same countries is problematic. It seems to go something like this: The purpose of life is to while away the time between birth and death as pleasantly as possible, and the purpose of government is to make it as easy as possible to while away the time as pleasantly as possible – The Europe Syndrome.
+Europe’s short workweeks and frequent vacations are one symptom of the syndrome. The idea of work as a means of self-actualization has faded. The view of work as a necessary evil, interfering with the higher good of leisure, dominates. … The precipitous decline of marriage, far greater in Europe than  in the United STates, is another symptom. What is the point of a life-time commitment when the state will act as surrogate spouse when it comes to paying the bills? The decline of fertility to far below replacement is another symptom. Children are seen as a burden that the state must help shoulder, and even then they’re a lot of trouble that distract from things that are more fun. The secularization of Europe is yet another symptom. Europeans have broadly come to believe that humans are a collection of activated chemicals that, after a period of time, deactivate. It that’s the case, saying that the purpose of life is to pass the time as pleasantly as possible is a reasonable position. Indeed, taking any other position is ultimately irrational.
+The alternative to the European Syndrome is to say that your life can have transcendent meaning if it is spent doing important things – raising a family, supporting yourself, being a good friend and good neighbor, learning what you can do well and then doing it as well as you possibly can. Providing the best framework for doing those things is what the American project is all about. (p.284)
+This sort of view may seem alien to many intellectuals, and even obviously wrong. But it isn’t obviously wrong, and it was pretty common in the farming era. Well aside from his saying that activated chemicals should only want to achieve pleasure – that’s just silly.
+
+
+title: Charles Murray, Farmer
+
+date: February 25, 2012 10:20 am
+

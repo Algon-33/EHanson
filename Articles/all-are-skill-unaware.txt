@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+The blogsphere adores Kruger and Dunning‘s ’99 paper "Unskilled and Unaware of It".  Google blog search lists ten blog mentions just in the last month.  For example:
+
+ Perhaps the single academic study most germane to the present election … In short, smart people tend to believe that everyone else "gets it." Incompetent people display both an increasing tendency to overestimate their cognitive abilities and a belief that they are smarter than the majority of those demonstrably sharper.  
+
+ This paper describes everyone’s favorite theory of those they disagree with, that they are hopelessly confused idiots unable to see they are idiots; no point in listening to or reasoning with such fools.  However, many psychologists have noted Kruger and Dunning’s main data is better explained by positing simply that we all have noisy estimates of our ability and of task difficulty.  For example, Burson, Larrick, and Klayman’s ’06 paper "Skilled or Unskilled, but Still Unaware of It":
+  
+
+We replicated, eliminated, or reversed the association between task performance and judgment accuracy reported by Kruger and Dunning (1999) depending on task difficulty. On easy tasks, where there is a positive bias, the best performers are also the most accurate in estimating their standing, but on difficult tasks, where there is a negative bias, the worst performers are the most accurate. This pattern is consistent with a combination of noisy estimates and overall bias, with no need to invoke differences in metacognitive abilities. In this regard, our findings support Krueger and Mueller’s (2002) reinterpretation of Kruger and Dunning’s (1999) findings.  An association between task-related skills and metacognitive insight may indeed exist, and later we offer some additional tests using the current data. However, our analyses indicate that the primary drivers of miscalibration in judging percentile are general inaccuracy due to noise and overall biases that arise from task difficulty.
+
+ So why does Google blog search finds zero mentions of this refutation?  My guess: because under this theory you should listen to those you disagree with instead of writing them off as idiots.  
+ Now Kruger and Dunning do have a 2008 followup paper, and in their first paper they were able to construct one situation where more able people had lower errors in estimating their ability. Also, Burson et al. saw some weak tendencies like this:  
+
+ We regressed perceived percentile on actual percentile among bottom-half performers and among top half performers. A Chow test confirmed at a marginal level of significance that bottom-half performers were less sensitive to their actual percentile … than were top-half performers.
+
+Oddly, none of the dozen papers on this I’ve read pursue the obvious way to settle this question: look at the variance of ability estimates as a function of ability.  But however that turns out it seems clear that mostly what is going on is that we all misjudge our ability and task difficulty.  
+
+
+title: All Are Skill Unaware
+
+date: November 17, 2008 6:00 am
+

@@ -1,0 +1,32 @@
+author: Robin Hanson
+
+text: 
+Recently I talked about checking on smoking skeptics.  I described three studies:
+
+A randomized trial of 1400 high risk smokers.  After 10 years one half had half the smoking rate of the other, and after 20 years it had an insignificant 7% lower mortality (13% less heart disease, 11% less lung cancer).
+ MRFIT randomized multifactor trial of 8000 smokers.  After 6 years one half quit 49% (vs. 29%), and after 16 years had an insignificant 6% lower mortality (11% less heart disease, and -15% less lung cancer).
+A randomized multifactor trial of 1200 high risk men.  After five years one half reduced smoking by 3/8 (vs 2/9), but had twice the mortality (10 vs. 5 count).
+
+I’ve now had time to look over seven more studies:
+
+A randomized trial of 6000 smokers with “asymptomatic airway obstruction”, i.e., weak lungs.  (HT Karl.)  After 5 years in two-thirds, 22% (vs 5%) stopped smoking, and after 14.5 years they died a (3% level significant) 15% less (20% less of heart disease, 15% less of lung cancer, and 50% less of “respiratory disease other than cancer.”)  (More details here, which I don’t have.)
+WHO collaborative multifactor randomized trial of 61,000 men.  After six years one half had 2% fewer smokers, 7% among highest risk men, giving an insignificant 5% lower mortality (7% in heart disease).
+Gotenborg multifactor randomized trial of 30,000 men.  After ten years one third had 9% fewer smokers (32.5 vs. 35.4%) than the other two thirds, and an insignificant 2% lower mortality (0% heart disease, 15% cancer).
+Norwegian multifactor randomized trial of 1200 men.  After five years one side had 1/8 less smoking, and after 28 years it had 46% more mortality (95 vs 65 count).
+Oslo mulitfactor randomized trial of 1200 men.  After 8.5 years one side had 45%(?) less smoking, and 40% less mortality (19 vs. 31 count).  (This just from abstract; anyone have the paper?)
+A non-randomized study of 1600 men over 26 years.  Initial lung quality was unrelated to mortality for non-smokers, but high smokers with initially bad lungs died 62% more than initially good lungs.
+A non-randomized AER ’06 study of WWII vetrans.  Its key “identifying assumption is that cohort and age effects in the smoking equation are the same for men and women” and that the entire increased mortality of WWII veterans is due to their smoking more.  (HT Alex T.)  It finds “a nonveteran average annual mortality rate of 13.1 per 1,000 men and a veteran … rate of 16.6” (1.2 vs. 2.2 for lung cancer), suggesting “36 to 79 percent of the excess veteran deaths due to heart disease and lung cancer are attributable to military-induced smoking”.  Since heart disease and lunch cancer were 38% of deaths, this suggests ~4-12% higher smoking mortality.
+
+OK, so how best to summarize this evidence?  Based on study #4, I tentatively estimate smoking raises mortality for folks with bad lungs, about 10 to 25% of folks, by 50-100%.  (This affect appears to not work mainly via lung cancer.)  This is supported by study #9 and could explain a 5-25% overall smoking mortality increase.
+In the rest of the studies, if we assume the entire effect seen was from smoking, we can collect smoking mortality affect estimates.  Setting aside #8, as I haven’t read the paper, #1 had the biggest change in smoking rates, and suggests a ~20% mortality.  The next biggest change was #2, and suggests ~30% mortality.  Study #6 had the next less change, and suggests ~22% mortality.  The rest were all across the map, as expected from their small count and change.
+So, we seem to see a 50-100% smoking mortality increase on bad lungs, which predicts a 5-25% overall smoking mortality increase.  If we attribute to smoking the full benefit seen in our three most relevant multifactor randomized trials, we get crude smoking harm estimates of 20,22,30%.  And if, from study #10, we attribute the entire higher mortality of WWII veterans to their smoking more we get ~4-12% mortality effect.
+Bottom line:  a randomized trial suggests a large smoking harm on bad lungs, which can explain the entire apparently average smoking harm seen elsewhere.  My best guess: smokers die ~10-30% more on average, living about 2-6 months less, but there’s much less net harm to strong lung folks. 
+Added 10a:  Wikipedia says
+Male and female smokers lose an average of 13.2 and 14.5 years of life, respectively. .. The risk of dying from lung cancer before age 85 is 22.1% for a male smoker and 11.9% for a female current smoker, in the absence of competing causes of death. The corresponding estimates for lifelong nonsmokers are a 1.1% probability [20 times less] of dying from lung cancer before age 85 for a man of European descent, and a 0.8% probability [15 times less] for a woman.
+Other sources mention risk factors of 15, 23 or 100.  Such figures are common and, it seems, rather misleading.  The above studies clearly suggest that the causal effect of smoking on mortality, even for lung cancer,  is much less than the factors of 15+ often thrown around.  
+
+
+title: Smoking Trials Again
+
+date: December 25, 2009 11:45 pm
+

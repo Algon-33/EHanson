@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Today’s New York Times talks about cases where Wikipedia showed a death before the police or newspapers knew.   I am quoted:
+
+ Robin Hanson … said … these examples are hardly evidence of predicting the future. Rather, he suggested, it was "a bit newspaper-centric to say that news has not broke ‘publicly’ if it is being discussed online in rumors but has not appeared in a newspaper." He added that "with more and more kinds of media, there are more and more intermediate levels of info availability." 
+
+ Unfortunately our laws are often based on simple-minded concepts of "public" versus "private" info.  For example, you lose your patent rights if your idea appeared anywhere on the web in any form for a year, but you can keep patent rights even if lots of other people said they already thought of your obvious idea.  Insider trading laws punished a man who traded on the "private" info of seeing a factory fire when looking out an airplane window, but as Malcom Gladwell explained, allowed a few hedge funds to escape Enron losses by carefully reading the right complex footnotes of Enron "public" reports: 
+  
+
+ The lessons of the Enron case aren’t nearly so straightforward. The public became aware of the nature of these S.P.E.s through the reporting of several of Weil’s colleagues at the Wall Street Journal – principally John Emshwiller and Rebecca – starting in the late summer of 2001. And how was Emshwiller tipped off to Enron’s problems? The same way Jonathan Weil and Jim Chanos were: he read what Enron had reported in its own public filings. 
+
+ As I note in a forthcoming JLEP paper on insider trading, we need not distinguish "public" from "private" info at all.  The problems that insider trading laws are supposed to address could be better dealt with by just classifying traders into various levels of how informed they are, and then "only allow trading between levels when the more informed trader has announced their trade ahead of time."  I quoted a previous paper: 
+
+A [2003] blue-ribbon commission convened to address recent financial scandals and subsequent decline in investor confidence recommended that insiders be required to preannounce sales of stock in their companies. The commission’s call for insiders to preannounce their sales echoes proposals made over a decade ago in the legal press, law reviews, and the U.S. Congress that would require preannouncement of all trades. (Huddart, Hughes, & Williams, 2004)
+
+(Of course the issue of the best insider trading law is distinct from who should choose that law.  This seems a good case for private law – if externalities are as weak as they seem then it makes sense to let each company choose its own insider trading rules upon incorporation.)
+
+
+title: What is “Public” Info?
+
+date: July 9, 2007 6:00 am
+

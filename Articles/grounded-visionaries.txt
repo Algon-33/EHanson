@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+I recently got to spend ten minutes explaining prediction markets to a (nice, smart) software billionaire. He had already been exposed to the basic idea, but from me he came to understand the larger potential for markets on decision consequences. He said they could be useful inside for-profit firms, like hedge funds. I suggested that software firms could also benefit from better estimates on user satisfaction, rates of bugs, and making deadlines. He quickly countered that software visionaries, in charge of implementing an unusual vision, shouldn’t be held to the conventional wisdom of a crowd.
+The conversation moved before I could reply that prediction markets aren’t about crowds or conventional wisdom, and that even unconventional concepts can gain from grounded estimates on their implementation details. Alas this seems another example of the usual excuse making; even those who see big gains from prediction markets elsewhere tend to find excuses for why such gains are not to be found in their organization.
+
+
+title: Grounded Visionaries
+
+date: December 18, 2012 10:40 pm
+

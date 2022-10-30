@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+When we talk, we say things that are explicit and direct, on the surface of the text, and we also say things that are in hidden and indirect, said in more deniable ways via subtext. Imagine that there was a “flattext” type of talk (or writing) in which subtext was much harder to reliably express and read. Furthermore, imagine that it was easy to tell that a speaker (or writer) was using this type of talk. So that by talking in this way you were verifiably not saying as much subtext.
+Yes, it seems very hard to go all the way to infinitely hard here, but flattext could have value without going to that extreme. Some have claimed that the artificial language Lojban is in some ways such a talk type.
+So who would use surface text? A Twitter poll finds that respondents expect that on average they’d use flattext about half of the time, so they must expect many reasons to want to deny that they use subtext. Another such poll finds that they on average expect official talk to be required to be flattext. Except they are sharply divided between a ~40% that thinks it would be required >80% of the time, and another ~40% who thinks it would be required <20% of the time.
+The obvious big application of flattext is people and organizations who are often accused of saying bad things via subtext. Such as people accusing of illicitly flirting, or sexual harrassing. Or people accused of “dogwhilsting” disliked allegiances. Or firms accused over-promising or under-warning to customers, employees, or investors.
+As people are quite willing to accuse for-profit firms of bad subtext, I expect they’d be the most eager users. As would people like myself who are surrounded by hostile observers eager to identify particular texts as showing evil subtext. You might think that judges and officials speaking to the public in their official voice would prefer flattext, as it better matches their usual tone and style which implicitly claims that they are just speaking clearly and simply. But that might be a hypocrisy, and they may reject flattext so that they can continue to say subtext.
+Personal servants, and slaves from centuries ago were required to speak in a very limited and stylized manner which greatly limited subtext. They could suffer big bad consequences for ever being accused of a tone of voice or manner that signaled anything less than full respect and deterrence to their masters.
+Putting this all together, it seems that the ability to regularly and openly use subtext is a sign of status and privilege. We “put down” for-profit firms in our society by discouraging their use of subtext, and mobs do similarly when they hound enemies using hair-trigger standards ready to accuse them of bad subtext. And once low status people and organizations are cowed into avoiding subtext, then others can complain that they lack humanity, as they don’t show a sense of humor, which is more clear evidence that they are evil.
+So I predict that if flattext were actually available, it would be mainly used to low status people and organizations to protect themselves from accusations of illicit subtext. As our enforcement of anti-subtext rules is very selective. Very risk averse government agencies might use it, but not high status politicians.
+
+
+title: Subtext Shows Status
+
+date: May 1, 2021 1:00 pm
+

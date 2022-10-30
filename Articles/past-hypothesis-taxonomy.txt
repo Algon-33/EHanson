@@ -1,0 +1,34 @@
+author: Robin Hanson
+
+text: 
+Let me try an experiment: using a blog post to develop a taxonomy.  Here I'll try to develop a list/taxonomy of (at least semi-coherent) answers to the question I posed yesterday: why is it harder to formally predict pasts, versus futures (from presents)? Mostly these are explanations of the "past hypothesis", but I'm trying to stay open-minded toward a wide range of explanations.
+I'll start with a list of answers, and then add more and group them as I read comments, think, etc.  I'll feel free to edit the post from here on:
+
+Extremely unlikely:
+
+Reality isn't different; we just ask different future vs. past questions. 
+An outside "God" intervened to make our past different.
+We live after a big local ebb (i.e., fluctuation) in matter.
+
+
+Rather unlikely:
+
+Quantum measurement has a local time asymmetry that makes big effects.
+A weak local time asymmetry in matter accumulates to big effects.
+A past ebb in spacetime shape (e.g., inflation) forced a big matter ebb.
+All spacetime boundaries satisfy a law-like "low entropy" condition.
+
+
+Unlikely:
+
+ Our expanding cosmos violates one-to-one state mappings across time.
+Past and future have different spacetime law-like boundary conditions.
+
+
+
+
+
+title: Past Hypothesis Taxonomy
+
+date: March 28, 2009 6:00 pm
+

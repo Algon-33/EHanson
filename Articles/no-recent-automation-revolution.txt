@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Unless you’ve been living under a rock, you know that for many years the media has been almost screaming that we entering a big automation revolution, with huge associated job losses, due to new AI tech, especially deep learning. The media has cited many “experts” making such claims, most every management consulting firm has felt compelled to issue a related report, and the subject came up in the Democratic US presidential debates.
+Last December, Keller Scholl and I posted a working paper suggesting that this whole narrative is bullshit, at least so far. An automation revolution driven by a new kind of automation tech should induce changes in the total amount and rate of automation, and in which kinds of jobs get more automated. But looking at all U.S. jobs 1999-2019, we find no change whatsoever in the kinds of jobs more likely to be automated. We don’t even see a net change in overall level of automation, though language habits may be masking such changes. And having a job get more automated is not correlated at all with changes in its pay or employment. (There may be effects in narrow categories, like jobs that use robots, but nothing visible at the overall level of all automation.)
+Two metrics created by groups trying to predict which jobs will get automated soon did predict past automaton, but not after we included 25 mundane job features like Pace Determined By Speed Of Equipment and Importance of Repeating Same Tasks, which together predict over half of the variance in job automation. The main change over the last two decades may be that job tasks have gradually become more suitable for automation, because nearby tasks have become automated.
+Our paper has so far received zero media attention, even though it contradicts a lot of quite high visibility media hype, which continues on at the same rate. It has now been officially published in a respected peer reviewed journal: Economics Letters. Will that induce more media coverage? Probably not, as most of those other papers got media attention before they were peer reviewed. The pattern seems to be that hype gets covered, contradictory deflations of hype do not. Unless of course the deflation comes from someone prestigious enough.
+For Economics Letters we had to greatly compress the paper. Here is the new 40 word abstract:
+Wages and employment predict automation in 832 U.S. jobs, 1999 to 2019, but add little to top 25 O*NET job features, whose best predictive model did not change over this period. Automation changes predict changes in neither wages nor employment.
+And Highlights:
+
+25 simple job features explain over half the variance in which jobs are how automated.
+The strongest job automation predictor is: Pace Determined By Speed Of Equipment.
+Which job features predict job automation how did not change from 1999 to 2019.
+Jobs that get more automated do not on average change in pay or employment.
+Labor markets change more often due to changes in demand, relative to supply.
+
+
+
+title: No Recent Automation Revolution
+
+date: June 9, 2020 5:15 pm
+

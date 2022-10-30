@@ -1,0 +1,18 @@
+author: Peter McCluskey
+
+text: 
+The book Detecting Lies and Deceit by Aldert Vrij mentions evidence of a truth bias, i.e. people are more likely to correctly judge that a truthful statement is true than that a lie is false.
+ This appears to be a fairly robust result that is not just a function of truth being the correct guess where the evidence is weak – it shows up in controlled experiments where subjects have good reason not to assume truth (for example, this paper).  Vrij proposes several explanations for this bias. 
+
+The higher frequency of truthful statements in daily life make cause the availability heuristic to bias our judgment.
+Politeness: there’s more social harm in daily life from mistakenly believing someone to be a liar or from asking someone to prove all claims than there is from mistakenly believing false claims.
+People rely on stereotypes which are less accurate for liars than for truth-tellers [it’s unclear why this is a separate explanation from the first].
+
+ Since it’s unclear whether these effects make it in your interest to be suspicious, let’s also look at how being suspicious affects others. Increased suspicion may do a little harm to your friends by making them a bit more uncomfortable. But if it spreads, it should also improve political systems by making it a bit harder for people to get away with lies. This suggests that altruists ought to be more comfortable with friend who question their honesty in order to encourage social norms under which political choices are based on more accurate beliefs.
+ One concern I don’t know how to analyze is how this would affect the kind of social capital that Fukuyama talks about in his book Trust.
+
+
+title: Truth Bias
+
+date: August 10, 2007 12:00 am
+

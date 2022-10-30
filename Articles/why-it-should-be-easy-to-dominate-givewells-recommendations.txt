@@ -1,0 +1,22 @@
+author: Robert Wiblin
+
+text: 
+GiveWell’s charity recommendations – currently Against Malaria Foundation, GiveDirectly and the Schistosomiasis Control Initiative – are generally regarded as the most reliable in their field. I imagine many readers here donate to these charities. This makes it all the more surprising that it should be pretty easy to start a charity more effective than any of them.
+All you would need to do is found an organisation that fundraises for whoever GiveWell recommends, and raises more than a dollar with each dollar it receives. Is this hard? Probably not. As a general rule, a dollar spent on fundraising seems to raise at least several dollars. It’s a pretty simple and fast multiplier that obviously beats putting your money in the stock market. An independent organisation raising money for GiveWell’s top charities should do even better than a typical fundraiser, thanks to:
+
+the strength of evidence, which is especially compelling to big donors
+the independent recommendation, which looks particularly credible and removes the perception of any ulterior motive
+a willingness to maximise (for example by targeting the wealthy, and focussing on regular or legacy donors)
+an intrinsic motivation to do good
+the freedom to choose which of the three organisations they promote, depending on who they are talking to.
+
+Putting your money into fundraising, rather than just giving it directly, does impose additional costs on the donors you inspire, and may ‘crowd out’ gifts to other charities. However, the logic of giving to GiveWell’s top rated charities is that they make (much) better use of money than most other individuals or organisations. So if you have a fundraising ratio significantly above 1:1, these downsides shouldn’t much matter.
+You might ask: if fundraising is the best thing to do, why wouldn’t AMF, SCI or GiveDirectly just spend the money you give them on fundraising? My guess is that it’s simply a bad look. If they spend too much on fundraising, it will irrationally scare off their existing and potential donors. Even if a charity should ideally spend most of its receipts on further fundraising in order to grow more quickly, the option simply isn’t available. The social norm against ‘optimising fundraising‘ is generally helpful, because intense competition between charities for donations would cause ‘rent dissipation’, and less total money would flow to charity recipients. But if your charity actually is much better than other charities, and so it’s good when you ‘take’ their money, this social norm does harm by preventing you from doing so.
+So, if you are unlike most donors and are willing to have your money spent on effective fundraising, you can easily increase your impact several times over. Just help GiveWell’s top charities take their fundraising efforts ‘off the books’ by founding or giving to a separate organisation that does it for them.
+This isn’t actually an impractical plan. Starting up a lean and effective fundraising organisation is difficult, but much easier than building a global team to distribute insecticide-treated bed nets. Any bright and energetic person in a rich country who went and received the necessary training would have a decent shot at getting such an organisation off the ground. If you would like to discuss the first steps required to make this happen, drop me an email (robertwiblin [at] gmail [dot] com) and I can put you in touch with a team already working on this approach, who could direct you towards legal and financial support.
+
+
+title: Why it should be easy to dominate GiveWell’s recommendations
+
+date: March 1, 2013 6:40 am
+

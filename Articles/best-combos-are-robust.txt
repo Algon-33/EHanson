@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+I’ve been thinking a lot lately about what a future world of ems would be like, and in doing so I’ve been naturally drawn to a simple common intuitive way to deal with complexity: form best estimates on each variable one at a time, and then adjust each best estimate to take into account the others, until one has a reasonably coherent baseline combination: a set of variable values that each seem reasonable given the others.
+I’ve gotten a lot of informal complaints that this approach is badly overconfident, unscientific, and just plain ignorant. Don’t I know that any particular forecasted combo is very unlikely to be realized? Well yes I do know this. But I don’t think critics realize how robust and widely used is this best combo approach.
+For example, this is the main approach historians use studying ancient societies. A historian estimating Roman Empire copper trade will typically rely on the best estimates by other experts on Roman population, mine locations, trade routes, travel time, crime rates, lifespans, climate, wages, copper use in jewelry, etc. While such estimates are sometimes based on relatively direct clues about those parameters, historians usually rely more on consistency with other parameter estimates. While they usually acknowledge their uncertainty, and sometimes identify coherent sets of alternative values for small sets of variables, historians mostly build best estimates on the other historians’ best estimates.
+As another example, the scheduling of very complex projects, as in construction, is usually done via reference to “baseline schedules,” which specify a best estimate start time, duration, and resource use for each part. While uncertainties are often given for each part, and sophisticated algorithms can take complex uncertainty dependencies into account in constructing this schedule (more here), most attention still focuses on that single best combination schedule.
+As a third example, even when people go to all the trouble to set up a full formal joint probability distribution over a complex space, as in a complex Bayesian network, and so would seem to have the least need to crudely avoid complexity by focusing on just one joint state, they still quite commonly want to compute the “most probable explanation”, i.e., that single most likely joint state.
+We also robustly use best tentative combinations when solving puzzles like Sudoku, crossword, or jigsaw. In fact, it is hard to think of realistic complex decision or inference problems full of interdependencies where we don’t rely heavily on a few current best guess baseline combinations. Since I’m not willing to believe that we are so badly mistaken in all these areas as to heavily rely on a terribly mistaken method, I have to believe it is a reasonable and robust method. I don’t see why I should hesitate to apply it to future forecasting.
+
+
+title: Best Combos Are Robust
+
+date: May 28, 2013 5:25 pm
+

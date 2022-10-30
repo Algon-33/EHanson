@@ -1,0 +1,14 @@
+author: Philip Goetz
+
+text: 
+Say your first car got 10 mpg, and you replaced it with a 20 mpg car.  Now you’re ready to get another car.  How many mpg will your new car need to get, to be as much of an improvement over your last car (gas-wise), as that car was over your first car?
+A recent Science article, summarized here, reports on this as an instance of a simple yet subtle bias: When given information, people assume that the effects relevant to them scale linearly with the measurement scale used.  In this instance, it’s miles per gallon.
+If this were wartime, and you were rationed 10 gallons per week, the measurement of interest to you in evaluating a car’s mileage might be the number of different places you could visit once a week with that car.  Then the relevant statistic would be (miles/gallon)2.  But since we aren’t rationing gas, a better measurement is gallons per mile, which can be translated into dollars and environmental impact per mile.
+When people are given figures in miles per gallon, they usually think that the answer to the above question is 30 mpg.  "Sixty percent of participants ordered the pairs according to linear improvement and 1% according to actual improvement. A third strategy, proportional improvement, was used by 10% of participants."  (The proportional strategy says that the answer is 40 mpg.)
+People get the right answer when you rephrase the question in units that scale linearly with the effect.  Try this:  Your first car could go 100 miles on 10 gallons of gas.  Your second car could go 100 miles on 5 gallons of gas.  Your third car needs to go 100 miles on… 0 gallons of gas.  So it needs to get infinite mpg, to match the improvement in going from 10 to 20 mpg.
+
+
+title: The linear-scaling error
+
+date: December 10, 2008 10:00 am
+

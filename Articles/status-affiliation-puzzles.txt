@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Recently I posted on otherwise puzzling behavior that can be easily explained via seeking status via affiliations.
+
+Students prefer distracted profs who grade and recommend corruptibly.
+Macro and foreign advisors have fancy affiliations, not forecast track records.
+Patients prefer docs with prestigious affiliations over health success rates.
+
+I see more examples:
+
+Voters far prefer representatives over direct democracy or random selection.
+Donors prefer to picking grantees, over giving prizes to whoever succeeds.
+Homeowners don't give good money incentives to real estate brokers.
+Investors prefer actively managed funds that lose on average.  
+Decision markets lose overwhelmingly to heroic "decider" managers.
+
+In all these cases standard economic accounts seem to seriously miss the mark by ignoring strong human desires to gain status via affiliation.  As most of my institution design efforts suffer this problem, understanding this better is, to me, of the highest priority. 
+Added 3Mar:  It is usually possible to make up many explanations for any puzzling behavior, and some of these may fit well with our own conscious explanations for our behavior.  But the details in most of these cases seems hard to fit with most of the other proposed explanations, and we know that status is very important to people yet they do not like to admit they do things for status.  
+The key to taking this idea further is to better understand just what sort of relations most confer status via affiliation.  It seems to me that arms-length formal relations where you each minimize your risk from the other's bad behavior do not show a mutually trusting relation, which as a closer connection confers more status via the relation.  So people are eager to trust high status affiliates, without evidence and even against the evidence.  
+
+
+title: Status Affiliation Puzzles
+
+date: March 2, 2009 6:00 am
+

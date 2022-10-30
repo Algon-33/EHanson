@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+A few days ago I asked for a theory of status, to help predict how status will change in a rather different future. Today let me offer such a theory.
+Here are our main clues about status:
+
+Status is a socially shared way to evaluate and rank people
+Status seems mostly relative; you can’t raise everyone’s status
+Human status has two main parts: dominance and prestige
+Most animals have dominance, which is who would win a pairwise conflict
+Prestige status seems to not exist in animals with simple social relations.
+Unlike other shared rankings, like sexiness or dominance, we seem unaware of what exactly prestige ranks.
+
+So what is prestige? That is, what sort of ranking would be useful for human-like primates to track about each other, but also be something illicit, so that foragers would be reluctant to admit its true function? One obvious candidate stands out to me: one’s value as an ally in coalition politics. That is, how much better off is a typical coalition with this person as an ally, relative to not having them as an ally. This is clearly an important concept, well worth tracking. It only makes sense in groups with complex coalition politics, and foragers have norms against overtly engaging in such politics.
+Since an ability to win pairwise contests is useful to coalitions, we expect dominance to add to prestige. But humans and similar primates can also add value to a coalition by having skills that make them useful associates, and by being on good terms with other good-ally-material folks. And both skills and associations also seem to make important contributions to human prestige. Note that this theory predicts that other primates with complex coalition politics, like chimps, will also have a prestige status distinct from dominance status.
+If prestige is about one’s value in coalition politics, what does that predict about em prestige?  Of the list I gave, items 2,5,7,12,16, should be substantially related to prestige.
+
+
+title: A Theory Of Status
+
+date: October 14, 2011 8:00 am
+

@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+In Age of Em, I tried to show how far one could get using standard econ analysis to predict the social consequences of a particular envisioned future tech. The answer: a lot further that futurists usually go. Thus we could do a lot more useful futurism.
+My approach to futurism should work more generally, and I’ve hoped to inspire others to emulate it. And space is an obvious application. We understand space tech pretty well, and people have been speculating about it for quite a long time. So I’m disappointed to not yet see better social analysis of space futures.
+In this post I will therefore try to outline the kind of work that I think should be done, and that seems quite feasible. Oh I’m not going to actually do most of that work here, just outline it. This is just one blog post, after all. (Though I’m open to teaming with others on such a project.)
+Here is the basic approach:
+
+Describe how a space society generally differs from others using economics-adjacent concepts. E.g., “Space econ is more X-like”.
+For each X, describe in general how X-like economies differ from others, using both historical patterns and basic econ theory.
+Merge the implications of X-analyses from the different X into a single composite picture of space.
+
+Here are some candidates Xs, i.e., ways that space econs tend to differ from other econs. Note that we don’t need these various X to be logically independent of one another. But the more dependencies, the more work we will have to do in step 3 to sort those out.
+First, space is further away than is most stuff. Which makes activity there less dense. So we first want to ask: how does economic and social activity tend to differ as it becomes further away from, and less dense than, the rest of the economy? E.g., in terms of distance, travel and communication cost and time, and having a different mix of resources, risks, and products? If lower density induces less local product and service variety, then how do less varied economies differ?
+Space also seems different in being a harsher environment. On Earth today, some places are more like the Edens where humans first evolved, and so are less harsh for humans, while other places are more harsh. Such as high in mountains, on or under the sea, or in extreme latitudes. How does econ activity tend to differ in harsher environments? Harsh environments tend to be correlated with less natural biological activity; how does econ activity vary with that?
+Space differs also in its basic attractions, relative to other places. One of those attractions is raw inputs, such as energy, atoms, and volume. Another attraction is that space contains more novelty, which attracts scientific and other adventurers. A third attraction is that space has often been a focal place to stage demonstrations of power and ability. Such as in the famous Cold War space race.
+A fourth attraction is that growth in space seems to open up more potential for further growth in similar directions. In contrast perhaps to, for example, colonizing tops of mountains when there are only a limited number of such mountains available. How does the potential for further growth of a similar sort influence activity in an area? A fifth attraction is that doing things in space seems a complement to our large legacy of fiction set in space. For each of these attractions, we can ask: in general how does activity driven by such attractions differ from other activity?
+Regarding “how does activity differ?”, here are some features Y that one might ask about. How capital intensive is activity? How automated? How long are supply chains? What disasters hit how hard with what frequency? What are typical mixes of genders, ages, and education levels? In what size firms, with how many layers of management, is commercial activity done? How fast do firms last, and how fast do they grow? How many different kinds of jobs are there, and how long are job tenures? How much commitment do firms demand from employees and how easy is it to move to a competing firm in a similar role? How easy is it to move where you live or shop?
+In these kinds of societies does growth tend to happen slowly, continuously, in an uncoordinated manner? Or are there instead big gains to actors coordinating to all grow together in a big lump at related places and times? If so, who usually coordinates such lumps, and how do they get paid for it?
+These are just a few examples of a long list of questions that economists and other social scientists often ask about different kinds of social activity. I’m not suggesting that one try hard to address how Y differs regarding X-like areas, for every possible combination of X and Y. I’m instead suggesting that one be opportunistic, searching in that big space for easy wins. For where we have empirical data, or simple theory, that gives tentative answers. As I did in Age of Em.
+While the above can help us guess how a space economy will differ, we might also want to guess how fast it will grow. So we’d like a past time series and perhaps supporting theory to help predict how fast travel and other costs will fall, and how fast activity expands with falling costs.
+
+
+title: Space Econ HowTo
+
+date: July 15, 2022 3:50 pm
+

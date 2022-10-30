@@ -1,0 +1,14 @@
+author: Nick Bostrom
+
+text: 
+It seems people are overconfident about their moral beliefs.  But how should one reason and act if one acknowledges that one is uncertain about morality – not just applied ethics but fundamental moral issues? if you don't know which moral theory is correct?
+It doesn't seem you can simply plug your uncertainty into expected utility decision theory and crank the wheel; because many moral theories state that you should not always maximize expected utility.
+Even if we limit consideration to consequentialist theories, it still is hard to see how to combine them in the standard decision theoretic framework.  For example, suppose you give X% probability to total utilitarianism and (100-X)% to average utilitarianism.  Now an action might add 5 utils to total happiness and decrease average happiness by 2 utils.  (This could happen, e.g. if you create a new happy person that is less happy than the people who already existed.)  Now what do you do, for different values of X?
+The problem gets even more complicated if we consider not only consequentialist theories but also deontological theories, contractarian theories, virtue ethics, etc.  We might even throw various meta-ethical theories into the stew: error theory, relativism, etc.
+I'm working on a paper on this together with my colleague Toby Ord.  We have some arguments against a few possible "solutions" that we think don't work.  On the positive side we have some tricks that work for a few special cases.  But beyond that, the best we have managed so far is a kind of metaphor, which we don't think is literally and exactly correct, and it is a bit under-determined, but it seems to get things roughly right and it might point in the right direction:
+
+
+title: Moral uncertainty – towards a solution?
+
+date: January 1, 2009 4:48 pm
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+When Ken Lee looked at 367,101 folks followed over 11 years, he found (in Table 12) that richer folks consistently died less.  But for education, the trend wasn’t as consistent:
+
+Folks who graduate from high school die less than those who only start high school, those who graduate from college die even less, and those who have some grad school live even more. But, folks with no school at all do as well as college graduates!  And compared with those who stop at three years of high school, those who get less school than three years of high school seem to suffer no health penalty – if anything they die less!  This fits with seeing higher mortality in states with more high school graduates, after controlling for college grads, but is odd. What gives?
+Could this be a status effect, where those who didn’t buy into school as an ideal don’t mind that they didn’t get so much school?
+
+
+title: School Death Puzzle
+
+date: May 25, 2011 10:20 pm
+

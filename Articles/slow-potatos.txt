@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+The Spanish transplanted the spud to Europe in the 16th century, by way of the Canary Islands. Growing underground — bulbous, white, and strange — potatoes had image problems on the Continent at first. … The subterranean bizarreness of tuberous growth compared unfavorably to the airy, sunlit, wholesomeness of the familiar cereal grains — barley, rye, oats and wheat — that had sustained Europe for centuries.
+The spud did not become a staple food in Europe until the 17th and 18th centuries, when warfare was widespread and frequent. Reader argues that this was no coincidence: Disruptions and upheavals inflicted by marauding armies changed the diet and tastes of the Continent, with massive demographic and economic consequences. When grain fields weren’t being torched or requisitioned, armies were camping on them or marching through them. It wasn’t a matter of choice but a lack of options that really dropped the potato onto Europe’s plate around 1700. While cereal grains were exposed to the ravages of war, potatoes were safely hidden in the ground and, when the tides of war receded, could be harvested and stored. This was when Europe discovered that the potato may be monotonous, but it is also extraordinarily nutritious, yielding four times more calories per acre than grain.
+That is from a Post review of the book Potato.  Now my historian colleague John Nye tells me that since the potato took a lot more labor, it wasn’t really four times more productive.  And he’s pretty skeptical of the above story.  But still, I find it interesting that in what was basically a farming economy, a free more productive farm tech took so long to catch on, and even then perhaps only because of something largely incidental to its productivity.   The fact that such a thing is so hard to imagine today shows just how dramatically the industrial revolution has changed how we innovate.
+
+
+title: Slow Potatos
+
+date: June 6, 2009 10:00 am
+

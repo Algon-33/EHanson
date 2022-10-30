@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Variable B "screens" variable A from variable C when learning the value of B makes A and C no longer dependent on one another; once you know B, A says nothing about C.   Screening is a useful concept, but we are often over eager to apply it.  For example:
+Mood Swings – Since your internal state must pass through time, you know that in the absence of outside influences, your state today can only depend on your state two days ago via the intermediary of your state yesterday.  So if something bad happened to you two days ago, but yesterday you felt fine, you might conclude you are over it; that bad event can't hurt your mood today unless it causes some new outside influence on you.  Alas, your mood only summarizes a small part of your internal state.  What happened two days ago can pop up and bother you today, even if yesterday you were fine.  
+Disagreement – When someone disagrees with you, you should wonder what they know that you do not. They might explain their reasons for their differing belief, i.e., their evidence and analysis, and you might hear and ponder those reasons and yet find that you still disagree.  In this case you might feel that the fact that they disagree no longer informs you on this topic; the reasons for their belief screen their belief from informing your belief.  And yes, if they could give you all their reasons, that would be enough.  But except in a few extremely formal contexts, this is not even remotely close to being true.  We are usually only aware of a small fraction of the relevant evidence and analysis that influences our beliefs.   Disagreement is problematic, even after you've exchanged reasons.
+Evolved Betrayal – We take actions that influence people around us, and we wonder how blameworthy we are regarding those actions.  We know evolution shaped our minds to promote our selfish genetic interests relative to others, but we'd like to feel we can ignore that fact when we are consciously aware of positive intentions toward them.  If our conscious intentions toward others were our only evolution-influenced mental factors which change our behavior toward others, this would be correct; intentions would screen evolved selfishness from our behavior.  Alas, this seems quite unlikely.  Our minds are very complex, and a great many processes influence each choice we make, processes about which we are mostly unaware.  
+For example, if we take an action that gives us selfish benefits, and if our minds saw clues with enough info to feasibly identify that selfish action, the fact that we had no conscious awareness of intending to achieve that selfish benefit should offer little reassurance.  It is a good bet that our mind was influenced by this selfish benefit, as well as by the impressions others might get from seeing such a selfish action.  You can hurt the ones you love, on "purpose." 
+
+
+title: Beware Ideal Screen Theories
+
+date: February 12, 2009 9:00 am
+

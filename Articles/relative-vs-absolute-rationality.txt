@@ -1,0 +1,13 @@
+author: Patri Friedman
+
+text: 
+I’m reading Tim Harford’s "The Logic of Life" – it’s the first book I bought on my Kindle.  He uses a definition of rationality which I hadn’t seen before, which is simply that people respond to incentives.  I think this model of people as relatively rational has much more support than the idea that they are absolutely rational – that they choose optimal strategies to reach their goals, that they behave in an unbiased fashion.
+And I think this is a good way of squaring the ideas that there is lots of evidence for human rationality and lots of evidence for human irrationality.  Before, I’d been thinking of the resolution as just that sometimes people are rational and sometimes they are irrational, depending on how complex the decisions and which heuristic modules are invoked.  But it feels much more correct to say that people rarely get the answer exactly right, but that they generally respond in the right direction when things change.
+This definition rescues the implications of rationality-assuming economic analysis from the "But people aren’t rational!" attack.  Sure, people aren’t (absolutely) rational, but since they are (relatively) rational, policy makers[1] can influence behavior by assuming that people will respond in the correct direction to changes in incentives.  And they had better be wary of creating incentives without considering the consequences on behavior.
+[1] Or anyone else engaged in mechanism design for humans.
+
+
+title: Relative vs. Absolute Rationality
+
+date: February 17, 2008 6:00 am
+

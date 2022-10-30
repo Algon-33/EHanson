@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+For many purposes, such as when choosing if to admit someone to a college, we care about both temporary features, who they are now, and permanent features, who they have the ultimate potential to become. One of those features is intelligence; we care about how smart they are now, and about how smart they have the potential to become.
+A standard result in intelligence research is that intelligence as measured late in life, such as at age fifty, is a much better indicator of ultimate potential than is intelligence measured at early ages. That is, environments have a stronger influence over measured intelligence of the young, relative to the old.
+So if you want a measure of an ultimate potential, such as to use in college admissions, then instead of using current tests like SAT scores, you’d do better to use a good prediction of future test scores, such as predictions of related tests at age fifty.
+Now of course colleges could try to do this prediction themselves. They could collect a dataset of people where they have late life test scores and also many possible early predictors of those future test scores, and then fit a statistical model to all that. But such data is hard to collect, this approach limits you to predictors available in your dataset, and the world changes, so that models that work on old data may not predict new data.
+Let me propose a prediction market solution: create prediction markets on late life test scores. To make sure people try hard enough later, collect a fund to pay out to the person later in proportion to their late life test score. Then open (and subsidize) a market today in that future test score, and post any associated info that this person will allow. Speculators could then use that info, and anything else they could figure out, to guess the future test score. Finally, use market prices as estimate of future test scores, and thus of ultimate potential, in college admissions.
+This approach could of course also be used by employers and other individuals or organizations that care about potential. A single market on a future test score could inform many audiences at once. And this approach could also be used for any other measures of potential where late life measures are more reliable than early life measures.
+
+
+title: Intelligence Futures
+
+date: September 23, 2015 3:25 pm
+

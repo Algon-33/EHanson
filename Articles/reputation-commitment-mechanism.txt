@@ -1,0 +1,18 @@
+author: James Miller
+
+text: 
+Consider a group of experts who are certain that fact X is true.  This fact could be something such as global warming is occurring and is caused by human activity.  They sign a statement saying X is true.  If the experts turn out to be wrong, however, they will probably pay at most only a small reputational cost.  This low error cost reduces the authority value of the expert’s statement.  I propose a reputation commitment mechanism that would increase the personal cost to the experts of being wrong and so increase the authority value of their statement.
+  
+
+The experts could sign a document which reads: “We are extremely certain that X is true.  In fact, we are so certain that X is true that if it turns out that X is not true it must mean that we who have signed this document have defective reasoning abilities and so are unfit to publicly comment on any issue of importance.  If X turns out to be false we pledge not to claim that we were wrong because we were deceived, misled, or unlucky but rather we will admit that we were wrong because we lacked the intelligence to understand the issue.”
+
+
+
+
+This reputation commitment mechanism would only work when experts were near 100% certain about something.  It couldn’t be used by experts making probabilistic predictions.
+
+
+title: Reputation Commitment Mechanism
+
+date: February 12, 2007 9:07 pm
+

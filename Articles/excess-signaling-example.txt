@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+To understand my argument against admirable activities, it helps to understand the concept of inefficient signaling.  Here is a simple example.  
+ Imagine there are two equal sized groups of employees: good and bad.   Good employees produce twenty units of value for an employer, while bad employees produce ten units of value.   The problem is, it is not easy to tell which employees are which.   With many competing employers, each employee will be paid what he appears to be worth on average.  A good employee will be paid twenty, a bad one will be paid ten, and an employee of random unknown type will be paid fifteen. 
+ Imagine that employees can go to school before they look for a job, but that they would learn nothing useful at school.   They might go to school anyway though, to signal their ability.   Imagine it costs good employees six units of value to complete school, while it costs bad employees twelve units.  In this scenario, we can have an equilibrium where good employees complete school, and bad employees do not.   Employers would pay twenty to graduates, and ten to non-graduates.   
+ Good employees get a net of fourteen from going to school, which is better than the ten they would get from skipping school.   Bad employees would only get a net of eight from going to school, and so they are better off skipping school.  Notice, however, that both types of employees would be better off if school were not possible, as they would each then get fifteen.  
+ This example illustrates the concept of inefficient signaling: the effort to make yourself look better than others comes in part at the expense of those others, which means that all else equal we do too much signaling.  
+
+
+title: Excess Signaling Example
+
+date: January 30, 2007 8:00 pm
+

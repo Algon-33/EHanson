@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Daniel Dennett has a review out in Artificial Intelligence of Douglas Hofstadter’s 2007 book I am a Strange Loop, and Marvin Minsky’s 2006 book The Emotion Machine.  Dennett admits that he is biased for these authors, that they mainly rehash their famous books of twenty years ago, and that they fail to meet the standards of all related academic disciplines, and so are rejected by those academics.  But, well, he just likes them anyway:  
+
+ I am much too close, personally and intellectually, to Doug Hofstadter and Marvin Minsky to write a proper academic review of these wonderful books … I travel in several quite different academic circles and I find that each gang has its particular way of not taking these thinkers seriously. The neuroscientists deplore the absence of rigorous experiments and the refusal of both Hofstadter and Minsky to canvass the relevant experimental literature thoroughly and explicitly. Where are the data? The philosophers of mind, at the other extreme, find few formal arguments and a frustratingly cavalier refusal by the authors to define their terms at the outset. Where are the proofs? 
+
+  
+
+The cognitive psychologists, in the middle, are offended by the fact that neither Hofstadter nor Minsky sees the need to adjudicate between all the competing models and theories that have been painstakingly developed and defended, and instead offer their own impressionistic and oversimplified sketches. Where are the models that make testable predictions? The artificial intelligence crowd wants to see a running demo program. Where is the code? It’s all just speculation! And then there is the style, too clever and playful, apparently written for bright high school students, not professors and graduate students. ….  
+People shouldn’t try to do what they are no good at doing, and it is also true that this genre of free-wheeling "informed speculation" can be an utter waste of time in the hands of somebody who isn’t well-informed and hasn’t got a disciplined imagination. Very few people are equipped to do this kind of work well, but both Hofstadter and Minsky have had years of practice using the best available thinking tools. They haven’t just marinated their minds in Lisp and other computer languages; they have built and dismantled computer models of a wide variety of phenomena, and sympathetically explored the efforts of others. …. 
+As Hofstadter says ruefully in his preface, in spite of all the attention and praise lavished on his masterpiece, Gödel, Escher, Bach (1979) , its "fundamental message . . . seemed to go largely unnoticed" (p xiii). Minsky’s 1986 book, The Society of Mind, was also lauded but underestimated and misunderstood. The books under review attempt to tell the tales again, with improvements and embellishments, and I think they both succeed, at least for me.  
+
+Surely Dennett should wonder: how strongly can he count his personal favorable impression, relative to academic rejection and his personal biases?  How much should the fact that Dennett, Minsky, and Hofstadter are relatively popular writers count?  
+
+
+title: Dennett’s Special Pleading
+
+date: October 25, 2007 6:00 am
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+A century ago Veblen argued (along with many before him) that we could explain our puzzling tendency to consume more than we need as a way to show off our wealth.   A week ago the Washington Post reported a similarly puzzling excess consumption of information:
+
+Students … were once divided into three groups. Students in one group were told they had just finished a difficult exam and had passed. In another group, all were told they had failed. Psychologists asked the students whether they wanted to go on a vacation. A little more than half the students in both groups said yes — for different reasons. … Psychologists then painted an identical scenario to a third group, except that these students were told the results of their exam were not known.  Fewer than one in three students said they were willing to buy the vacation tickets right away, even though a delay meant an increase in price and ultimately made no difference — equal numbers of students would go on the vacation whether they passed or failed.
+Another experiment asked highly trained nurses in Canada whether they would be willing to donate a kidney to a relative who needed a transplant. Fewer than half said yes.  Another group was … told that a relative needed a kidney but that doctors were not sure whether they were eligible donors. Would they be willing to take a test to find out? Nearly three-quarters of the nurses agreed to take the test — far more than the number willing to donate a kidney in the first place. 
+
+There are many more examples.  We can explain excess info consumption similarly to excess ordinary consumption; people subconsciously want to show off their wealth of info and analysis.  People don’t read the news because it is of much use; they read it to show how much they know and how well they can analyze it.  
+This is a serious problem for prediction markets marketed to decision makers.  Decision makers talk and act like they want more info, and prediction markets would provide such info.  But deep down I think decision makers know they really don’t need most of the info they collect; they collect it to show they are sharp and up on the latest.   
+While the choice to create a prediction market might show good things about a decision maker, from then on the info the market provided would not be credited to their personal insight and ability.   Managers should instead prefer info mechanisms that require more judgment calls on their part.  And I do see managers considering prediction markets looking for more knobs they could turn to be in charge.   
+
+
+title: Conspicuous Consumption of Info
+
+date: January 8, 2007 6:00 am
+

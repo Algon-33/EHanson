@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Today, public perceptions about which new movies will be how popular is formed in a complex jumble of explicit advertising, word of mouth rumor, independent media evaluation, and paid ads masquerading as independent media.  This process is little like neutral analysis; it is packed full of vigorous attempts to manipulate our perceptions.
+Two firms propose to augment this system with speculative markets forecasting movie sales.  And the movie industry is horrified; this might let someone purposely influence perceptions of movie popularity!:
+A growing coalition of entertainment industry workers, creators, independent producers and distributors, business organizations and theater owners today announced opposition to two proposals to establish online wagering services based on speculation over box office receipts for motion pictures. … The groups said that the proposal by MDEX and a separate plan by Cantor Futures Exchange, L.P. “are based on faulty understanding of the film industry and create a risk of rampant speculation and financial irresponsibility. … Now is not the time to open up new and highly speculative marketplaces that could end up costing jobs and harming legitimate businesses … We will address whether any exchange infrastructure is capable of surveying the box office marketplace to detect and address potential market manipulation.
+My research suggests that speculative markets are remarkably robust to manipulation attempts; the more folks try to manipulate, the more accurate market estimates get on average!  But with limited funding, I’ve only done a limited number of experiments; I can’t prove no one will ever use a speculative market to purposely influence movie perceptions.  And alas this mere possibility of manipulation may seem intolerable.
+An enormous double standard favors existing ads and mass media over proposed speculative markets.  No one has to run experiments showing that manipulation is impossible with existing institutions; in fact, we all know such manipulation is rampant.  But many will call it irresponsibly risky to let speculative markets permit further manipulation, even if the ratio of error to solid info is far lower there.
+Robust movie markets would in fact give the public more reliable estimates of movie popularity, estimates more resistant to movie industry manipulation.  Could it be that what the movie industry fears most is not more manipulation, but less?
+Hat tip Trey Kollmer.
+Added 1Apr: Some say that a model based on Twitter can predict movies better than the HSX prediction market.  Let’s set aside the level confusion here (HSX could do better if its traders had access to this model).  Does anyone doubt that, if this model’s predictions were taken seriously, Twitter could be used to manipulate movie perceptions?  Does anyone expect the movie industry to therefore request regulators to ban movie tweets?   Still can’t see the double standard?
+
+
+title: Movie Manipulation
+
+date: March 31, 2010 7:00 pm
+

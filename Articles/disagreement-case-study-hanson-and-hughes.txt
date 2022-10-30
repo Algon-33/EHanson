@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Fourteen months ago I learned that seventeen months earlier James Hughes published a book which critiqued a paper I published ten years before that, on the economics of whole brain simulations (sometimes called "uploads").  I immediately started a public email conversation with James, and this week a lightly edited version of that conversation appears in the Journal of Evolution and Technology, along with closing comments by myself, James, David Brin, and Guilio Prisco.
+James and I debated whether he was correct in attributing to me claims he read "between the lines" of my paper, such as that I gleefully envisioned
+
+a dismal, elitist utopia … the division of society into a mass of well-fed plebes and a superpowerful elite … the enormous population of uploads would be forced to work at very low subsistence wages – the cost of their electricity and disk space – ruled over by a very few of the most successful of the uploads. 
+
+James thought my true colors were revealed by my being a GMU economist describing a situation of rapidly falling wages, who did not explicitly call for more transfers from "rich" to "poor."  I responded that economists usually analyze low regulation scenarios first, as a baseline to compare with higher regulation scenarios, and that I don’t endorse vague slogans – it is hard to tell who are the deserving "poor" in the scenario I consider.  My explicit denials did not much move James. 
+ I have yet to meet anyone else who read me the way James did.  But in general, I feel sympathetic to James’ situation, since we humans do communicate a great deal of information, and often the most important bits, via "subtext" rather than text.  I do not think I intended what James reads me as saying, but I admit that I may well not be conscious of much of the subtext that my text communicates.  Surely many human disagreements arise from our tendency to communicate subtext of which we are not fully aware, and which others are eager to read.  
+
+
+title: Disagreement Case Study: Hanson and Hughes
+
+date: June 11, 2007 6:00 am
+

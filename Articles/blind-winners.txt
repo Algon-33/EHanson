@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+In the late 1980s, when I was a nobody working on my own on "hypertext publishing," our name then for what would become the web, I gave a talk on the subject to a computer research group at Xerox PARC.  I argued that academic progress was limited by our ability to find related research, and that the web might help.  The researchers responded that they had no problems whatsoever finding relevant research; they knew all the relevant people, who would personally tell them about any important work.  The chance that someone outside their social circle would write something worth reading was so small as to be negligible.  
+ This came to mind recently when Scott Aaronson commented:
+
+ At least in physics (the Nobel area I know best), I think that the Nobels already correlate pretty well with which discoveries future generations regard as important. (Partly just because the academy often waits for a future generation’s verdict!) If you wanted to find a domain where prediction markets would give a big marginal advantage over what people are doing currently, the science Nobels are not the first place I’d look. 
+
+ In general I suspect that winners in any social arena underestimate problems with that arena’s evaluation processes.  After all, the people winners think most worthy of winning, they and their social allies, have in fact won.   And that arena’s usual procedures are validated by the fact that they, the winners, use them.
+
+
+title: Blind Winners
+
+date: June 6, 2007 6:00 am
+

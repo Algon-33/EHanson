@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+The most prestigious Boston hospitals are paid 15-60% more per procedure, but are not especially healthier:
+
+Call it the best-kept secret in Massachusetts medicine: Health insurance companies pay a handful of hospitals far more for the same work even when there is no evidence that the higher-priced care produces healthier patients. …
+Brigham, Mass. General, Children's Hospital, and a few others are, on average, paid about 15 percent to 60 percent more than their rivals by insurance companies … The hospitals that are paid at the highest rates … have the bargaining clout to demand higher insurance payments. Often, that clout is based on a powerful brand name and elite reputation. … Insurers pay to keep Children's happy because they know parents won't buy insurance that doesn't include access to one of the world's most prominent pediatric hospitals. … One influential researcher found that Beth Israel's overall mortality rate was lower in 2005 than the mortality rates at both the Brigham and Mass. General, but the hospital and its doctors still earn 15 percent to 20 percent less for the same work. … 
+
+  
+
+Karen Dahl, 31, lives less than 2 miles from Mount Auburn Hospital in Cambridge, but when she became pregnant with her first baby last year, she decided to go to a Boston teaching hospital to deliver.  "I talked to women in the area who had babies in Boston," said Dahl, … "I also looked at the US News rankings for female care. The Brigham was rated very high." State health officials have tried to encourage women like Dahl to reconsider their flight to Boston, pointing out in a 2003 study that community hospitals are generally just as reliable as teaching hospitals for normal births. In fact, they had a slightly lower complication rate – and they're a lot cheaper. … But Dahl, who had a complicated pregnancy, has no regrets: "I felt this was the safest place to be if anything happens."  Massachusetts patients love brand name medicine, going to teaching hospitals 2.5 times more often than patients across the country, according to a 2005 report …
+A review of 42 individual mortality ratings produced by the state and federal governments for Massachusetts hospitals from 2002 to 2007 found that … the Brigham ranks high, though not among the very best; Mass. General was part of the broad middle, or average, tier.  Partners officials said … the statistical methods used to adjust for the sickness of the patients at different hospitals are not sophisticated enough to recognize how much more vulnerable their patients are.
+
+I doubt demand for these hospitals has decreased since this article appeared in November.  Nor do I think other cities' newspapers are eager to write similar articles; readers just don't seem much interested.  Why?
+
+I suspect patient demand for prestigious docs has little to do with evidence about their health effects, and I doubt most patients have better evidence than that discussed in this article.  Yes patients want prestigious docs and hospitals, and they may believe that high status docs are healthier, but I doubt that belief causes their demand; causation most likely goes the other way.  
+
+The simplest explanation seems to me sufficient: people just prefer to affiliate with high status others.  High status hospitals have docs from high status schools, publishing in high status journals, with high status equipment.  So patients gain in status by affiliating with them.  As long as high status docs aren't a lot less healthy, patients don't care much about how healthy they are.  
+
+Added: Perhaps only randomized experiments could really tell hospital quality differences.  Did this article inspire concerned citizens to organize to demand such experiments?  No, they'd probably object that randomly sending high status patients to low status hospitals violates their ethical rights to work the system to avoid the low status docs that ignorant low status patients accept.
+
+
+title: What is Medical Quality?
+
+date: February 22, 2009 6:30 pm
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+[We] surveyed several hundred philosophers and non-philosophers on their opinions about various moral issues; we also asked survey respondents to describe their own behavior on those same issues. … The biggest divergences in moral opinion concerned our question about “regularly eating the meat of mammals such as beef and pork”. 60% of ethics professor respondents rated mammal-meat consumption as morally bad, compared to 45% of non-ethicist philosophers and just 19% of non-philosophers. Opinion also divided by gender and age. … Fully 81% of female philosophers born in 1960 or later said it was morally bad to regularly eat the meat of mammals. To put this degree of consensus in perspective, … only 82% of philosophers endorsed non-skeptical realism about the existence of an external world. …
+38% of [young female philosophers] reported having eaten the meat of a mammal at their previous evening meal — a rate not statistically different from the 39% reported rate among respondents overall. … Similarly, despite the difference in normative view, there was no statistically detectable difference in the mean age of respondents who said they had eaten the meat of a mammal at their previous evening’s meal. … 78% of those who reported that they never eat mammal meat said eating mammal meat is bad, compared to 32% of those who reported sometimes eating meat. However, it seems that among non-vegetarians there is little if any relationship between normative ethical view and actual meat consumption. (more; HT Stefano Bertolo)
+So why, among all the moral issues on which one could be hypocritical, and people which could be hypocritical, is the observed worst case young female philosophers on eating meat?
+
+
+title: Meat Philosophy
+
+date: August 6, 2010 6:00 am
+

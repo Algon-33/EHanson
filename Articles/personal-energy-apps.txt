@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Long ago I noticed that the most successful people I had met also tended to have pretty high personal ‘energy.’ They talked fast, fidgetted, moved around a room more, needed less sleep, could drink more before they collapsed, etc. It seems to me that high energy people are quite visibly impressive to the people around them, and that personal energy is one of the visible features that impresses people most, especially re men.
+I’ve talked recently about publishing objective low-dimensional measures of individual health, wealth, and smarts. (And previously on status apps.) These three features seem quite feasible to measure reasonably well when people cooperate in their measurement. But with energy it seems plausible that we could often measure personal energy with high accuracy even without their cooperation.
+Sure if they’d let us film them 24/7, that’s probably plenty enough to measure energy well, but we can probably see a lot about energy from just short recordings. For example, student evaluations of  few-second-long videos of teachers without sound correlated substantially with student evaluations of those teachers.
+So we could have people evaluate a large dataset of long audio or video recordings, and then use machine learning to find and apply patterns in that to a much larger space of videos. I’d bet a lot of the variance will be explained by some pretty low level features. And then we might have another well-measured feature of people that we wouldn’t have to put quite so much effort into discerning or showing off.
+
+
+title: Personal Energy Apps
+
+date: October 20, 2020 2:10 pm
+

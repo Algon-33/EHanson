@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+When I visited Oxford a few weeks ago I brought up a subject which has been bugging me lately – we don’t understand what makes research topics “silly.”   For example:
+Apparently most people the world over think aliens exist, think searches might find them, think that would be a very important discovery, but think the subject is way too silly to justify government funding.
+Similarly, most people think futarchy (government by betting markets) is silly, even though most think it has a decent chance of performing well, and even though it isn’t obviously less likely to happen than a strong world government, which is not nearly as silly.  Or see this giggle–fest on future robot threats.
+At Oxford we listed possible obstacles to dealing better with global catastrophic risks, and we guessed the biggest obstacle is that the topic seems silly.  This puzzle of what makes topics silly seems to have stuck in the mind of Anders Sandberg:
+Regarding some things as silly does not seem to result from an estimation that the probability is extremely low, it seems to be a direct rejection of it as unthinkable and irrelevant – not the same thing, although the rejector will quickly argue that the chances of the things happening are minuscule. The rejection has many similarities to the yuck reaction we see in ethics, where certain possibilities are rapidly rejected as immoral with little reflection (c.f. the work of Haidt). So maybe the best explanation of what makes a paper silly is just that it goes against the social intuitions we have built up about thinkable, serious subjects. Space travel is science fiction and science fiction has low status, so hence papers about the economics of space travel must be silly. Life extension is silly, so papers looking at its consequences must be silly. Framing world government in terms of non-silly globalisation makes it non-silly. (more)
+This silliness-taboo has been a thorn in my side all my life, so I’m eager for any insight.
+
+
+title: Arbitrary Silliness
+
+date: April 2, 2008 6:00 am
+

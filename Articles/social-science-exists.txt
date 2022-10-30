@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+A student with a mathematical-physics background could easily convince himself that he has superior mathematics abilities than typical economists and superior statistical and computational skills than most economists. He might go on to conclude that, as a consequence of his superior mathematical and computational abilities, he should be able to enter economics and start contributing quickly and easily. He might also anticipate that he could easily adapt established models or techniques in physics to study economic phenomena and impress the profession.
+If you are one of these people, let me try to disabuse you of these notions. Your mathematical abilities are actually not that much better than most economists (if they are better at all). You will have to spend a lot of time acclimating to the subject and the path to actually making contributions will be long and difficult. In all likelihood, there are very few (perhaps zero) off-the-shelf models or techniques in physics (or engineering, or chemistry, …) that will produce meaningful economic results. (more; HT Justin Wolfers)
+Yup! I often meet scientist types who talk about some problem they are working on, which turns out to be a social problem related to ones that social scientists have explored. But they won’t believe this unless you show them work that uses methods and concepts with which they are familiar. They just can’t believe there are useful methods and concepts that they don’t already know.
+
+
+title: Social Science Exists
+
+date: March 25, 2014 10:00 am
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Wisdom from Eli Dourado:
+On small blogs, people typically comment when they have something to contribute or ask that is relevant to the post. These are frequently of high quality. … On more popular blogs, this positive commenting dynamic is confounded by the presence of eyeballs. Every post is read by many thousands of people. For the self-involved who could never attract such a large audience on their own, this is an irresistible forum for expounding pet hypotheses, axe-grinding, and generally shouting at or expressing meaningless agreement with the celebrity post-authors.
+The first step, therefore, to higher quality comments is “be more niche.” Discourage your marginal readers with technical language, obscure references, and lengthy posts. Your marginal readers are not of high value anyway, and driving them away is an excellent way to improve the average comment of your inframarginal readers.
+If you cannot bring yourself to do this, or you have delusions about being the next mainstream blog, then you must adopt some sort of rules to govern commenting. … The kinds of rules that might be adopted are not particularly interesting in and of themselves. …  Many sites are now using threaded comments, in which users can reply directly to another comment and the comments can be grouped together. While this may be fine for small sites, it is death to the comments section on bigger sites because it rewards the self-involved commenter with comments on his comments. It increases the payoff for piggybacking on the blog’s popularity.
+As a final observation, I will note that banning comments is pretty nearly weakly dominated by unmoderated commenting. The reason is simple: if the comments are a sewer, then readers won’t wade in the sewer.
+Yup, yup, yup, and yup.
+
+
+title: Wisdom on Comments
+
+date: September 4, 2010 4:18 pm
+

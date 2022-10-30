@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+We often have remarkably poor forecasts, relative to the information around.   An exciting new way to do better is prediction markets; have people bet on your topic.  But honestly, I’d guess you can get 80% of the improvement that predict markets offer by using a much simpler solution: collect track records.
+ Yup, it’s that simple.   When people make forecast-like-statements, write them down in a clear standardized form, and then check back later to see who was more accurate.   Along the way, create a consensus forecast by averaging recent forecasts, perhaps weighted by accuracy or expert credentials.   If you collect enough forecasts to evaluate accuracy, and reward accuracy well enough, people will try hard to be right, and you’ll learn what kinds of people to listen to.
+ Now don’t get me wrong; prediction markets offer real advantages over simple track records.   Prediction markets can directly pay people with short track records for adding information.   They don’t require you to decide who is more accurate when, and they are probably updated more quickly.    On the other hand, complex trading environments discourage many people from contributing their information.   So some vendors, such as Newsfutures and HP, are experimenting with skipping the trading and just getting people to make comparable forecasts.  
+ It is something of a puzzle that we don’t demand more track records from our advisers.   If you go to a cancer doctor, for example, he will not show you a record of his previous patients and how long they lived after his treatments.  In fact, he usually has no such records, as he has typically lost track of his old patients.   Similarly for the guy who repairs your car, or who treats your lawn, or who teaches your classes.    
+ Yes, it would be trouble to collect and evaluate track records.   But if customers cared enough, records would happen.   Consider that companies go through the bother of hiring auditors to check financial records because investors insist on it; why don’t we insist on track records?   Until we understand why people haven’t opted for the 80% solution of track records, I’m afraid we can’t be that optimistic about prediction markets either.
+P.S.  Today I’m presenting at a Yahoo prediction markets meeting.  
+
+
+title: The 80% Forecasting Solution
+
+date: December 13, 2006 6:00 am
+

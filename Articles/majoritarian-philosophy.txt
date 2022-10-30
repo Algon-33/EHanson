@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Bryan points us to this survey on thirty key philosophy questions.   The survey offers four indicators to estimate philosophical truth:
+
+Most popular opinion of anyone who responded to the survey.
+Most popular of responding profs at “99 leading departments of philosophy.”
+Most surprisingly popular in #2, which is a Bayesian Truth Serum indicator.
+Most popular among responding profs specializing in the question’s topic area.
+
+There’s lots of detail there I hope someone will analyze.  This seems a great chance to exercise majoritarian epistemic principles.
+As a first pass, I compared my opinions to indicator #2 and found I can comfortably accept the modal professional opinion on 25 of the 30 topics!  For three of them I was moderately temped to disagree, choosing mental content: internalism, knowledge claims: invariantism, and epistemic justification: internalism.  But on reflection I think I just tend to use the words “think”, “know” and “justify” differently; I’m not sure I substantively disagree.
+On only 2 of 30 topics was I strongly tempted to disagree with professionals.  Popular and specialist opinions agree with my choice aesthetic value: subjective, but professionals pick objective, and their opinion is surprisingly popular.  So while I might have an excuse to hold my ground, I guess I can live with the idea that there might be substantial elements in common among the concepts of beauty that would evolve among a wide variety of intelligent species and their descendants.  Could this be what objective beauty means?
+Meta-ethics:  moral anti-realism also tempted me strongly.  But here all four truth indicators point toward moral realism.  So I guess I should seriously consider changing my mind.  Is it plausible that there is something substantial in common among the moral intuitions that would evolve in a wide range of intelligent species and their descendants?  Am I agreeing if I accept that as moral reality, or does moral realism demand I believe something more?
+Yes I’m still a contrarian in many ways, but I really do largely accept professional opinion in fields where I know and largely respect the professionals.  These include physics, analytic philosophy, computer science, and micro-economics.
+
+
+title: Majoritarian Philosophy
+
+date: December 11, 2009 8:45 am
+

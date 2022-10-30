@@ -1,0 +1,31 @@
+author: Robin Hanson
+
+text: 
+My colleague Bryan Caplan has devoted many years to uncovering how the beliefs of ordinary people differ from the beliefs of economists, even after correcting for economists’ differing incomes and ideologies.  In 2004, Caplan summarized his findings as the public having four big biases:  an anti-foreign bias, a make-work bias, an anti-market bias, and a pessimistic bias.    Arnold Kling quotes Caplan as saying:
+  
+
+One of the first things that stands out is anti-foreign bias. When they contemplate economic interaction with foreigners, the general public gets unreasonably negative…  
+
+
+A second major pattern in the public’s economic illiteracy is make-work bias…In the long-run, blaming technology for unemployment is just silly. As the mechanization of agriculture beautifully illustrates, when machines replace people in one line of work, they switch to another…
+
+
+a blanket anti-market bias…In the minds of public, prices apparently go up when businesses suddenly start to feel greedier. Economists, in contrast, expect businesses to be greedy year-in, year-out; but depending on market conditions, greed may call for prices to go up, go down, or stay the same…
+
+
+A final catch-all category of economic illiteracy may be called pessimistic bias. Conventional wisdom has it that conditions are going from bad to worse. Most Americans think that real income has been falling for decades, most new jobs are low-paying, and doubt whether the next generation will have a higher standard of living. Economists think that this conventional wisdom is dead wrong.
+
+Caplan calls these biases, but I would rather call them correlated errors, if they were due mainly to people being ignorant about economics.  (To me, an error is an estimate differing from truth, a bias is a cheaply avoidable error.)  It is not clear, however, that ignorance is the main cause here.
+Consider how differently the public treats physics and economics.   Physicists can say that this week they think the universe has eleven dimensions, three of which are purple, and two of which are twisted clockwise, and reporters will quote them unskeptically, saying "Isn’t that cool!"   But if economists say, as they have for centuries, that a minimum wage raises unemployment, reporters treat them skeptically and feel they need to find a contrary quote to "balance" their story.   
+I see the same pattern with my students – they’ll easily believe physics claims, but are very reluctant to entertain standard economics claims.  They come to class with strong incorrect preconceptions about the social world.  As Caplan emphasizes, the publics’ problem with economics is not the things they don’t know, it is the things they know that ain’t so; they act not ignorant but cocksure of error.  
+The reasons for this resistance are not entirely clear, but one plausible theory is that people want to believe certain things about the social world, regardless of whether those things are true.   For example, we want to believe foreigners are out to get us, as this makes us seem more loyal to non-foreigners.   If this theory is correct, then these four big errors are four big biases.
+Addendum: Don Boudreaux at Cafe Hayek gives a relevant quote from Frank Knight, and Paul Krugman considers why non-economists "so consistently balk at the concept of comparative advantage."
+Further Addendum:  This post produced a lot of controversy, which I tried to respond the following Tuesday. 
+
+ 
+
+
+title: Are The Big Four Econ Errors Biases?
+
+date: November 28, 2006 6:00 am
+

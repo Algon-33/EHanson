@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+“The best predictor of belief in a conspiracy theory is belief in other conspiracy theories.” … Psychologists say that’s because a conspiracy theory isn’t so much a response to a single event as it is an expression of an overarching worldview. (more; HT Tyler)
+Some people just like to be odd. I’ve noticed that those who tend to accept unusual conclusions in one area tend to accept unusual conclusions in other areas too. In addition, they also tend to choose odd topics on which to have opinions, and base their odd conclusions on odd methods, assumptions, and sources. So opinions on odd topics tend to be unusually diverse, and tend to be defended with an unusually wide range of methods and assumptions.
+These correlations are mostly mistakes, for the purpose of estimating truth, if they are mainly due to differing personalities. Thus relative to the typical pattern of opinion, you should guess that the truth varies less on unusual topics, and more on usual topics. You should guess that odd methods, sources, and assumptions are neglected on ordinary topics, but overused on odd topics. And you should guess that while on ordinary topics odd conclusions are neglected, on odd topics it is ordinary conclusions that are neglected.
+For example, the way to establish a new method or source is to show that it usually gives the same conclusions as old methods and sources. Once established, one can take it seriously in the rare cases where they give different conclusions.
+A related point is that if you create a project or organization to pursue a risky unusual goal, as in a startup firm, you should try to be ordinary on most of your project design dimensions. By being conservative on all those other dimensions, you give your risky idea its best possible chance of success.
+My recent work has been on a very unusual topic: the social implications of brain emulations. To avoid the above mentioned biases, I thus try to make ordinary assumptions, and to use ordinary methods and sources.
+
+
+title: Best To Mix Odd, Ordinary
+
+date: May 22, 2013 12:45 pm
+

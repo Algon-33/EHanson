@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Yesterday I described UberTool, an imaginary company planning to push a set of tools through a mutual-improvement process; their team would improve those tools, and then use those improved versions to improve them further, and so on through a rapid burst until they were in a position to basically "take over the world."  I asked what it would take to convince you their plan was reasonable, and got lots of thoughtful answers.
+ Douglas Engelbart is the person I know who came closest to enacting such a UberTool plan.  His seminal 1962 paper, "Augmenting Human Intellect: A Conceptual Framework" proposed using computers to create such a rapidly improving tool set.  He understood not just that computer tools were especially open to mutual improvement, but also a lot about what those tools would look like.  Wikipedia: 
+
+[Engelbart] is best known for inventing the computer mouse; as a pioneer of human-computer interaction whose team developed hypertext, networked computers, and precursors to graphical user interfaces.
+
+ Doug led a team who developed a rich set of tools including a working hypertext publishing system.  His 1968 "Mother of all Demos" to 1000 computer professionals in San Francisco  
+
+ featured the first computer mouse the public had ever seen, as well as introducing interactive text, video conferencing, teleconferencing, email and hypertext [= the web]. 
+
+ Now to his credit, Doug never suggested that his team, even if better funded, might advance so far so fast as to "take over the world."  But he did think it could go far (his Bootstrap Institute still pursues his vision), and it is worth pondering just how far it was reasonable to expect Doug’s group could go.    
+ To review, soon after the most powerful invention of his century appeared, Doug Engelbart understood what few others did — not just that computers could enable fantastic especially-mutually-improving tools, but lots of detail about what those tools would look like.  Doug correctly saw that computer tools have many synergies, offering tighter than usual loops of self-improvement.  He envisioned a rapidly self-improving team focused on developing tools to help them develop better tools, and then actually oversaw a skilled team pursuing his vision for many years.  This team created working systems embodying dramatically-prescient features, and wowed the computer world with a dramatic demo.  
+Wasn’t this a perfect storm for a tool takeoff scenario?  What odds would have been reasonable to assign to Doug’s team "taking over the world"? 
+
+
+title: Engelbart As UberTool?
+
+date: November 13, 2008 6:00 am
+

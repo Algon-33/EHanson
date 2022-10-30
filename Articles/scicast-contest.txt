@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+SciCast is holding a new contest:
+We’ll be offering $16,000 in prizes for conditional forecasts only made from April 23 to May 22.
+
+
+title: SciCast Contest
+
+date: April 23, 2015 10:15 am
+

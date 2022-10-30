@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+In August I wrote:
+A few years ago PCW Davies persuasively argued that Earth life more likely started on Mars.  Last year, Napier and coauthors argued that comets are an even more likely source:
+A single comet of radius 10 km and 30% volume fraction of clay contains as much clay, to within a factor of around 10, as that of the early Earth. However, our Solar System is surrounded by about 1011 comets forming the Oort cloud …  Whereas the average persistence of shallow clay pools and hydrothermal vent concentrations of clay on the Earth can range from 1 to around 100 years, a cometary interior provides a stable, aqueous, organic-rich environment for around 106 years.
+The larger the region from which life could plausibly have started and then come to Earth, the more likely Earth life becomes in that scenario, and the more believable is whatever theory suggested that scenario.  The latest Scientific American suggests to me an even larger plausible region of orgin: life’s origin may go back to the tight warm mixing cluster of stars where the Sun formed.  Simon Zwart:
+[The Sun] was one of 1,000 or so siblings all born at nearly the same time. Had we been around at the dawn of the solar system, space would not have seemed nearly so empty. The night sky would have been filled with bright stars, several at least as bright as the full moon. …
+The cluster into which the sun was probably born is now long gone. I have pieced together the available data and made an educated guess as to what it might have looked like. From these inferred properties, I have calculated the possible trajectories of former cluster members through the galaxy to figure out where they might have ended up.
+
+Zwart estimates that a molecular cloud condensed in one spot to form a star 15-25 times the Sun’s mass.  After 6-12 million years, its radiation had compressed nearby clumps into about 1500-3500 stars within a region 3-10 light-years across, and then boiled off the loose gas, including much of the gas from the Sun’s outer planets.  Two million years after the Sun formed, the big star exploded .07-5 light years away, coating everything nearby with radioactive material.  At least in the next 100-200 million years before the cluster dispersed once another cluster star came close enough to stir up our comet orbits.  After dispersal the stars drifted apart they orbited the galactic center 27 times, stretching out to form the “galaxy garden” strip shown in the diagram above.
+If this cluster was tight, warm, and well mixed enough for life to spread around within it, then those other siblings of the Sun would be the best places to look for other life in our galaxy.  About 50 of them should still be within 300 light years of us.
+Added 1p 2Nov: Life can be cold:
+Natural microbial metabolism has been measured at temperatures of at least -17° C.
+Large distant objects can stay warm:
+Thermal Evolution of Kuiper Belt Objects, by Steve Desch
+We present models of the internal thermal evolution of Kuiper Belt Objects (KBOs) and small icy satellites. … The combined effects of these processes are favorable for the retention of subsurface liquid on KBOs. Assuming a KBO like Charon formed with an ammonia-to-water ratio near 5 percent, we find that due to the heating from long-lived radionuclides alone, about half of its mass differentiates. The body forms a rocky core, surrounded by an ammonia-water eutectic liquid layer, overlain by pure water ice, underneath an undifferentiated rock-ice crust. We calculate that on bodies roughly 500 km in radius or larger, an aquasphere with roughly 1022g of subsurface water-ammonia liquid could be maintained to the present day.
+The thin garden strip shown above lies within the 10% of our galaxy that is its Galactic Habitable Zone:
+We identified the Galactic habitable zone (GHZ) as an annular region between 7 and 9 kiloparsecs from the Galactic center that widens with time and is composed of stars that formed between 8 and 4 billion years ago. … 75% of the stars in the GHZ are older than the Sun.
+Added 5p 2Nov: Wow, we can likely trace life back even further, to the life on planets around stars that passed near the molecular cloud that formed our Sun.  Details:
+The Solar System passes within 5 pc of star-forming nebulae every 50–100 million years, a distance which can be bridged by protected micro-organisms ejected from the Earth by impacts. Such encounters disturb the Oort cloud, and induce episodes of bombardment of the Earth and the ejection of microbiota from its surface. Star-forming regions within the nebulae encountered may thus be seeded by signiﬁcant numbers of microorganisms. Propagation of life throughout the Galactic habitable zone ‘ goes critical ’ provided that, in a typical molecular cloud, there are at least 1.1 habitable planets with impact environments similar to that of the Earth. Dissemination of microbiota proceeds most rapidly through the molecular ring of the Galaxy.
+
+
+
+title: A Galactic Garden
+
+date: November 1, 2009 10:20 pm
+

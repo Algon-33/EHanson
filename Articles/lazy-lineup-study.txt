@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Thursday’s Nature suggests standard police line-ups may not be so bad: 
+
+The traditional US procedure is familiar to any fan of television cop shows. Witnesses are presented with a line-up that includes both the suspect and a number of innocent people, or foils’, and are asked to identify the perpetrator. In the early 1990s … then attorney-general, Janet Reno, invited experts to form a working group to address how this method could be improved. … The working group’s most important recommendation was that line-ups should be conducted in a double-blind fashion, so that neither the witness nor the official overseeing the procedure would know who the suspect was. The group also recommended that the suspect and foils be presented sequentially rather than simultaneously, and that the witness be asked to make a decision after each one rather than waiting until the end. …
+ In 2003, the Illinois State Police commissioned its own study to test line-ups under real-world, field conditions …, with the cooperation of two psychologists and three of the state’s police departments … [they] spent a year conducting some 700 eyewitness identifications. Some of the procedures were non-blind and simultaneous; the rest were double-blind and sequential. Both conditions were a mix of live line-ups and photo arrays. The team found that the double-blind, sequential technique produced higher rates of foil picks – that is, clear errors – and lower rates of suspect picks than the traditional, nonblind line-up. …
+
+  
+
+ Horrified, psychologists pointed to deep methodological flaws in the study, which was never submitted to peer review. According to the psychologists, the decision to change two variables at the same time blind/non-blind and simultaneous/sequential made it impossible … to draw any conclusions from their data. … Nobel laureate Daniel Kahneman [and others said] … the design flaw "has devastating consequences for assessing the real-world implications of this particular study". …
+ Criminal Defense Lawyers … sued the police departments that took part in the pilot programme to release their data so that they could have them reanalysed. So far the departments have refused, and Mecklenburg … says it has only alienated the police, making it less likely that they will cooperate with field studies in future. …
+ A study published last year … applied strict double-blind sequential rules to British-style video parades. This was a lab study, but with what psychologists call high ecological validity … most striking finding was that the number of correct identifications dropped from 65% under British rules, to 36% under the strict rules.  … The implication is that the proposed reforms might reduce the wrongful conviction rate … [but] more criminals might be let off the hook.
+
+Psychologists’ complaints here seem like overblown turf-protection to me.  Sure it might be nice to distinguish two effects, but with limited data there is nothing wrong with testing a package of two recommendations together.  We should be open to whatever the data show, and standard procedures may well win out.  But why oh why has it taken so long to actually study all this?    
+Added:  On reflection, I should consider it similarly likely that the reporter just messed up here, and that psychologists objected mostly to the outcome metric, and that changing two variables at a time was more a minor complaint.   
+
+
+title: Lazy Lineup Study
+
+date: May 27, 2008 6:00 am
+

@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+
+ anon points us to David Newman, M.D. at his NYT blog: 
+Studies show that the early administration of beta-blockers to heart attack victims does not save lives, and occasionally causes dangerous heart failure. While two studies support the use of beta-blockers after heart attack, there are 26 studies that found no survival benefit to administering beta-blockers early on. Moreover, in 2005, the largest, best study of the drugs showed that beta-blockers in the vulnerable, early hours of heart attacks did not save lives, but did cause a definite increase in heart failure. Remarkably, the medical community has continued to strongly recommend immediate beta-blocker treatment. Why? Because according to the theory of the straining heart, the treatment makes sense. It should work, even though it doesn’t. Ideology trumps evidence.
+The practice of medicine contains countless examples of elegant medical theories that belie the best available evidence. 
+
+  
+
+Recent press reports detailing the dangers of cough syrup for children have noted that cough syrup doesn’t work. True: No cough remedies have ever been proven better than a placebo, either for adults or children. Yet their use is common. 
+Patients with ear infections are more likely to be harmed by antibiotics than helped. While the pills may cause a small decrease in symptoms (for which ear drops work better), the infections typically recede within days regardless of treatment. The same is true for bronchitis, sinusitis, and sore throats. Unnecessary antibiotics are still given to more than one in seven Americans each year for these conditions alone, at a cost of more than $2 billion and tens of thousands of serious adverse medication effects requiring treatment.
+Back surgeries to relieve pain are, in the majority of cases, no better than nonsurgical treatment. Yet doctors perform 600,000 of these surgeries each year, at a cost of over $20 billion. 
+More than a half million Americans per year undergo arthroscopic surgery to correct osteoarthritis of the knee, at a cost of $3 billion. Despite this, studies show the surgery to be no better than sham knee surgery, in which surgeons “pretend” to do surgery while the patient is under light anesthesia. It is also no better than much cheaper, and much less invasive, physical therapy. …
+
+The critical question that looms for health care reform is whether patients, doctors and experts are prepared to set aside ideology in the face of data. … The administration’s plan for reform includes identifying health care measures that work, and those that don’t. To place evidence above ideology, researchers and analysts must be trained in critical analysis, have no conflicts of interest and be a diverse group. …
+During the first week of 2009, in what may be a hopeful sign, hospital administrators around the country received a short, unceremonious e-mail from the Centers for Medicare and Medicaid Services. The e-mail explained that, due to recent evidence, immediate beta-blocker treatment will be retired as a government indicator of quality care, beginning April 1, 2009. 
+Note that Medicare didn't say they wouldn't pay for beta-blockers, they just dropped it from their list of the few medical treatments deemed so obviously and enormously valuable as to be included in a measure of overall medical quality!
+I'd like to be as hopeful as Newman, but I just can't.  Perhaps if Obama had focused all his political capital on this one issue he might have had a chance, but by now he seems to have spent all his capital and then some on.  The great failed HMO revolution of the early '90s was based on a similar premise, that patients would defer to HMOs on which treatments were really needed.  But when patients heard that distant beuracrats kept them from getting what their local docs advised, all hell broke loose.  I don't see how a distracted and spent Obama can do much better.
+Added 5Apr: From a recent NYT political analysis:
+ Efforts to overhaul the health care system have moved ahead rapidly. … The White House and Democrats in Congress are operating on two optimistic assumptions. One is that if everyone had health insurance, it would be easier to control health costs.  The other premise is that the nation could sharply reduce the growth of health care spending if doctors made less use of aggressive treatments that raise costs but do not result in better outcomes. 
+This is basically fantasy.  They aren't yet considering options with any real prospect for reducing medical cost growth.
+
+
+title: Medical Ideology
+
+date: April 4, 2009 1:00 pm
+

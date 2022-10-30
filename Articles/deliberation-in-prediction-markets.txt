@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+Monday I wrote:
+
+Abramowicz has let his imagination run free searching for ways we could use prediction markets in governance. … The main problem with using Abramowicz’s book as a "technical manual", however, is that he’s never actually seen, much less touched, most of the blocks he describes.  His conclusions are not supported or tested by math models, computer simulations, lab experiments, field trials, nor a track record of successful past proposals – it is all based on his untested intuitions. … My intuitions about what will work how well differ in many ways.  
+
+Abramowicz countered:
+
+I previously offered a mathematical elaboration of "deliberative markets."
+
+ Today let me disagree about that.  Here’s Abramowicz in his book: 
+  
+
+When one prediction market is used to predict the outcome of another, participants who have private information in the first prediction market have an incentive to reveal that information to participants in the second. … In other prediction market structures, such as a probability estimation prediction market or a one-stage market scoring rule, such incentives will be much more attenuated. … To encourage a greater degree of information revelation, … create a multi-stage market scoring rule.  The profits of predictors in each stage would be determined by the prediction at the end of the next stage. 
+
+ In his supporting math paper, Abramowicz considers a sequence of people each making a single forecast after observing all previous forecasts, each rewarded for his forecast being near to the next one in the sequence, and each unable to interact with others in any other way.  (The last "forecast" is some observed truth.)  Abramowicz correctly notes that each person has a moderately strong incentive to reveal verifiable relevant private info just after he makes his forecast.  But this does not support his claim that his multi-stage system offers stronger incentives for revealing info than a simple market.
+ In most markets, those who trade on verifiable private info face a choice between soon revealing their info and then cashing out, or staying in the market in the hope of trading again later on their info.  An obvious way to encourage info revelation in most any market would be to force traders to cash out soon after their first trade, and never let them trade again.  But this only works if you know that each trader only ever gets one package of info, and if you can prevent traders from teaming and exchanging info privately.  These are usually quite unrealistic assumptions.   
+ In economic theory, we hold constant the environment while we vary the institution when we evaluate the effect of an institution. Abramowicz instead makes the rookie mistake of varying both the institution and the environment together.  He implicitly makes the unrealistic ideal assumptions above when he considers his multi-stage market, but not when he analyzes a simple market.  But if we make the same ideal assumptions for a simple market, we can easily get the same info revelation advantages.  
+ When I said "his conclusions are not supported or tested by math models", I meant standard economic math models – not just any math symbols. 
+Added:  Seems many saw my tone above as unnecessarily harsh, which was not my intention, so I hereby apologize.  As I tried to say before, I respect Abramowicz’s ambitious scope, which is far more useful than, for example, yet another long-shot bias analysis.  
+
+
+title: Deliberation in Prediction Markets
+
+date: January 30, 2008 6:00 am
+

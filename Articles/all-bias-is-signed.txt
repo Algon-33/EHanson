@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Often someone will estimate something, and then someone else will complain "That’s wrong; our best answer is that we do not know."   For example, Chris A  commented: 
+
+ There is no way anyone can rationally calculate the probability of death by old age being solved by a certain date, all we can say is that it is a possibility. There are too many variables, and the variables interact in ways we don’t and can’t understand, therefore a rational person would not bet any sum on the probability. 
+
+ Similarly, Odograph commented:  
+
+The only bias-free answer on "peak oil" or "the future of oil prices" is to say you don’t know. The only way to begin a definite answer is to layer assumptions – assumptions about the future strength of your nation’s economy, assumptions about future fossil fuel discoveries, assumptions about future technologies, assumptions about future patterns of consumption, assumptions about future international relations, assumptions about global warming and global warming responses, and on and on. 
+
+To someone facing a concrete choice to take (or not take) action, "I don’t know" says little.   Concrete estimates, such as event probabilities or point estimates for numbers, say a lot more.   So if you want to complain an estimate is biased, you must say where you think a better estimate can be found; at least tell us the sign of the bias or error you see.  
+  
+ Almost any estimate will of course have error.   The true probability of any event is either zero or one; any other probability is wrong.   And there is little chance that a point estimate of a real number will get it exactly right.   So we almost always "don’t know" in the sense that our estimates are surely wrong.   
+ If you think academic or financial market estimates on lifespans or peak oil are biased, fine.  But don’t complain these estimates make assumptions or require error-prone calculations; this is a given. Stick your neck out and tell us in which direction those estimates are wrong.   Tell us lifespans will be longer, oil prices  higher, or that the variance of these estimates is higher.  But saying "that’s wrong, because we just do not know" seems to me worse than useless.
+Added:  Let me try to be clearer.   You may claim you disagree with someone, but saying "you are wrong," "I disagree," or "we do not know" is just not enough to make this clear.   You could say such things even if in fact you had exactly the same probability estimates that they do.  
+I don’t see how you could make it clear you actually disagree without indicating at least one random variable for which you claim to disagree about its expected value.   And I don’t see how you could make it clear that you did in fact disagree about this expected value without indicating the direction in which your opinion differs from theirs.   
+
+
+title: All Bias is Signed
+
+date: January 3, 2007 6:00 am
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+When we give and seek advice, we think and talk as if we mainly just want to exchange useful information on the topic at hand. But seeking someone’s advice shows them respect, especially if that advice is followed. And in fact, a lot of our advice giving and taking behavior can be better understand in such status terms:
+When making decisions together, we tend to give everyone an equal chance to voice their opinion. To make the best decisions, however, each opinion must be scaled according to its reliability. Using behavioral experiments and computational modelling, we tested (in Denmark, Iran, and China) the extent to which people follow this latter, normative strategy. We found that people show a strong equality bias: they weight each other’s opinion equally regardless of differences in their reliability, even when this strategy was at odds with explicit feedback or monetary incentives. (more)
+Individuals in powerful positions are the worst offenders. According to one experimental study, they feel competitive when they receive advice from experts, which inflates their confidence and leads them to dismiss what the experts are telling them. High-power participants in the study ignored almost two-thirds of the advice they received. Other participants (the control and low-power groups) ignored advice about half as often. … Research shows that they value advice more if it comes from a confident source, even though confidence doesn’t signal validity. Conversely, seekers tend to assume that advice is off-base when it veers from the norm or comes from people with whom they’ve had frequent discord. (Experimental studies show that neither indicates poor quality.) Seekers also don’t embrace advice when advisers disagree among themselves. And they fail to compensate sufficiently for distorted advice that stems from conflicts of interest, even when their advisers have acknowledged the conflicts and the potential for self-serving motives. … Though many people give unsolicited advice, it’s usually considered intrusive and seldom followed. Another way advisers overstep is to chime in when they’re not qualified to do so. … many advisers take offense when their guidance isn’t accepted wholesale, curtailing further discussion. (more)
+
+
+title: Advice Shows Status
+
+date: March 30, 2015 8:15 am
+

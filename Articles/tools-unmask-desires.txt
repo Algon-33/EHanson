@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+How much do we really know about why we do what we do?  We are usually quite ready to explain the reasons for our actions in some detail, but on closer examination such explanations often seem to be rationalizations.  So how can we tell which of our explanations to believe?  If we are not willing to take people at their words, how can we learn what really drives their actions?
+Automation offers an important clue. When people are willing to consistently delegate their choices to an automatic process that makes choices on the basis of certain explicit criteria, we can have more confidence that those criteria are really central to their preferences.
+For example, many folks are willing to type an unknown address into an automated route-planning tool, and then actually follow the directions it provides.  If they were only deferential to a few tools, we might suspect they show allegiance to folks associated with such tools.  But in fact people seem willing to follow the routes of a great many tools.  Since these tools claim to seek the quickest path, and also seem to actually find quick paths, we have good clear evidence that many people in such situations actually do want quick paths, all else equal.  This offers a small but concrete advance toward figuring out what people actually want.
+On the other hand, when people seem unwilling to use simple available tools that would directly give them what they say they want, we can conclude they aren’t entirely honest about what they want.  For example, consider someone who says they really want to lose weight, and yet are not willing to use a tool like stickk.com, where they would arrange to suffer a self-chosen financial penalty for failing to lose weight.  While we might posit that they are unwilling to do something new or weird, the more comfortable they are with other new/weird things, and the less evidence that anyone would criticize them for this, the more confidently we can conclude they just don’t want to lose weight that much.
+What other similar evidence can we find, via what other ways we might automate our decisions?
+Added 9a: Time:
+According to a 2008 study published in the Journal of the American Medical Association, dieters who had a financial incentive to lose weight were nearly five times as likely to meet their goal when compared with dieters who had no potential for a financial reward.
+BBC:  In the US the [Stickk] scheme is said to be achieving success rates of up to 85%.
+
+
+title: Tools Unmask Desires
+
+date: May 16, 2010 8:00 pm
+

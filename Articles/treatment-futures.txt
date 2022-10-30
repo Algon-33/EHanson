@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+A key problem in medicine is: what general process or institution can ordinary sick patients and concerned loved ones rely on to choose the best treatments (or none)?  They could rely on a doctor’s advice, but then how do they pick him or her, or be assured he or she has sufficient incentives to find and choose the best?  
+ A month ago I described one solution: health plans that "feel your pain" via payments designed to match your health value.  Today I’ll outline another solution: "treatment futures," i.e., decision markets where speculators can bet on your health, conditional on treatment decisions.   
+ Imagine a surgeon had recommended heart surgery for you, but you had doubts.  You could post an anonymized health record to the web, and let people bet on how many more years you will live if you did the surgery as suggested, and how many years if you did nothing for now.  Market estimates of those year numbers would tell you which option speculators thought best.  
+ You could use quality-adjusted years to make sure speculators considered disability and pain, and you could compare many options, such as different kinds of surgery or drugs and switching to a different surgeon.  And you could let your doctors, their associates, and your friends bet on you, as long as you made sure they kept a positive interest in your doing well.  As with college choice futures, most bettors would probably bet on bundles of patients, such as all 40 year old men with certain symptoms.   
+ Now while a heart surgery might have a big effect on years to live, most treatments have too small an effect to see clearly over market noise.  But you could bundle lots of small decisions into a big decision with a larger effect.  For example, you could ask about the choice of a health plan or doctor for the next year(s).  Also, if we bundled up decisions about many different patients who were comparing two particular doctors, hospitals, or plans, that could give us a good evaluation of the relative quality of those doctors, hospitals, or plans.   
+ The main problem I see is people being unwilling to believe the likely market advice that they should get a lot less treatment than most people now do.  I expect decision market advice will have to prove itself well in other areas before people will consider its advice about medicine, and even then I’m not sure people will listen.  
+This post in response to a question by Alan Garber.  I first presented this concept at the RWJF Health Policy Scholar annual conference in 1999.   
+
+
+title: Treatment Futures
+
+date: November 14, 2007 6:00 am
+

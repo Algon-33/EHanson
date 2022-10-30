@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The following has long been a useful heuristic: if your usual theory says that something important looks like a big outlier, seek another theory where it isn’t. For example, when some physics calculations suggested that most brains like ours in the history of the universe would be random fluctuation “Boltzman brains” in the distant future, many took that as suggesting that those calculations were wrong. Which it seems that they in fact were. Many now feel similarly about eternal inflation calculations suggesting we are very late in our inflation bubble’s lifetime compared to the average space-time volume.
+This heuristic gives us doubts about theories which say that we today are weird compared to all the other “we”s that we could have been. For example, if the history of the universe so far is representative of its future, and if each of us could counterfactually have been any lump of matter in the universe, or even any small volume, then we should be very surprised to find ourselves among the very rare sentient creatures. And even if we think we could only have been sentient creatures, we should still be pretty surprised (even if less surprised) to find ourselves among the few most complex conscious creatures that have ever been on our planet.
+Yes, we have clear evidence that we are not dead lumps of matter, nor simpler creatures, but even so we can be surprised to see such evidence. Yes, only creatures as smart as we are with language could even ask such questions via language. But that needn’t stop our surprise. Is there alternate theory that makes these less surprising?
+What if we don’t take the past of the universe to be representative of its future? For example, our grabby aliens model predicts that the universe will fill up within a few billion years and then be densely and efficiently populated with artificial life, much of it intelligent and sentient. If we include all that among the creatures that we could have been, then we should be surprised to find ourselves so early in the history of the universe, out of all those future sentient creatures.
+Now there must be some average number of future descendants per alien civilization that would make us today more typical, sitting midway between all those sentient animals in our past, and all that future artificial life before our civilization ends. But there’s no particular good reason to expect civilizations to have anything near that average number of future descendants. And even then we’d be unusual in living in a rare short special dreamtime between those vast pasts and futures.
+I don’t really have any answer to offer here. This situation puts me on the lookout for a plausible theory that would make us less weird, but so far I don’t see one. Seems we are in fact weird. You might think this would make us more sympathetic to the more weird among us, but no.
+
+
+title: Why Are We Weird?
+
+date: July 18, 2021 2:47 pm
+

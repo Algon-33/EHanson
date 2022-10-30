@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Yesterday, James Annan pointed us to a literature (see here and here) suggesting seat belt (or air bag) use does not actually saves lives.   Yes, all else equal those wearing seat belts are more likely to survive accidents, but those who know they are better protected also compensate by driving less safely.  The net effect is theoretically ambiguous, and the empirical data was long not clear.   
+ Looking at Wikipedia seems to support skeptics, as skeptic arguments cited there are much stronger than the pro arguments, which are mainly government sources that don’t seem to address skeptical points.  And since I’m pretty skeptical about the effect of medicine on health, it seemed natural for me to embrace this skeptical argument.  
+ But I dug deeper and found this 2003 Review of Economic Studies article (ungated here):
+
+Using a unique panel data set on seat belt usage in all U.S. jurisdictions, we analyze how such laws, by influencing seat belt use, affect the incidence of traffic fatalities. … We find that such usage decreases overall traffic fatalities. The magnitude of this effect, however, is significantly smaller than the estimate used by the National Highway Traffic Safety Administration. In addition, we do not find significant support for the compensating-behavior theory, which suggests that seat belt use also has an indirect adverse effect on fatalities by encouraging careless driving.  …
+Our estimate of the potential savings in lives from increased seat belt usage are less than half of the estimate used by the National Highway Traffic Safety Administration (NHTSA). … Our estimates indicate that the national usage rate would increase from 68% to 77%, and 500-1200 lives would be saved annually, if all states now having secondary enforcement moved to primary enforcement. 
+
+ Of course I’m always worried about data mining and publication biases toward getting the results authors expect to see.  But I don’t see any obvious indications here, and the results seem robust to several variations.  So I’ll tentatively conclude seat belts do save lives.  Of course this is not to say this gain is worth the cost in terms of whatever it is that makes drivers reluctant to wear seat belts.   
+
+
+title: Seat Belts Work
+
+date: November 8, 2007 6:00 am
+

@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Caleb A. Scharf offers an interesting argument against interstellar panspermia:
+You and I, or fluffy bunnies and daffodils are all unlikely candidates for interplanetary or interstellar transferral. The sequence of events involved in panspermia will weed out all but the toughest or most serendipitously suited organisms. So, let’s suppose that galactic panspermia has really been going on for the past ten billion years or so – what do we end up with? …
+Life driven by cosmic dispersal will probably end up being completely dominated by the super-hardy, spore-forming, radiation resistant, chemical-eating, and long-lived but prolific type of critters. …
+The problem, and the potential paradox, is that if evolved galactic panspermia is real it’ll be capable of living just about everywhere. There should be stuff on the Moon, Mars, Europa, Ganymede, Titan, Enceladus, even minor planets and cometary nuclei. Every icy nook and cranny in our solar system should be a veritable paradise for these ultra-tough lifeforms, honed by natural selection to make the most of appalling conditions. So if galactic panspermia exists why haven’t we noticed it yet? (more)
+I see two rather different interstellar panspermia scenarios:
+
+Space-centered – As Scharf says, life might mainly drift from one harsh space environment to another. Yes sometimes life would fall onto and then prosper on someplace like Earth, but being poorly adapted to space such planet life would contribute less to future space life. Under this scenario life must on average grow in common space environments, and so we should see a lot of life out there in such environments.
+Planet-centered – Alternatively, space life might usually die away, and only grow greatly in special rare places like planets (or perhaps comets). In this scenario the progress of life would alternate between growth on planets (or comets) and then decay in space. A similar scenario plays out when seeds like coconuts drift between islands in the ocean – seeds die away during ocean journeys, and then multiply on islands. In this scenario life would be adapted both to grow well on planets, and to decay as slow as possible in space.
+
+Scharf’s argument weighs against a space-centered scenario, but not a planet-centered scenario. Of course there is actually a range of intermediate scenarios, depending on how wide a range of environments let life grow.
+
+
+title: Two Kinds of Panspermia
+
+date: October 25, 2012 8:45 am
+

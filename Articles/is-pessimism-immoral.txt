@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+John Horgan says pessimism is immoral:
+During adolescence, I was sometimes so gloomy that my mom called me Eeyore. …  I mocked … Peter Medawar for declaring, “To deride the hope of progress is the ultimate fatuity, the last word in poverty of spirit and meanness of mind.” Now, perhaps because I’m a father and teacher (and hence, dare I say it, a role model), I’ve come to agree with Sir Peter, at least about social (as opposed to scientific) progress. …
+Pundits … warn that humanity may descend into a nightmarish world of savage Malthusian wars over dwindling resources. I nonetheless now believe that pessimism about humanity’s future is wrong, both morally and empirically. Morally because pessimism can undermine our efforts to solve our social problems. Empirically because our history shows that these problems are far from insurmountable. …
+John F. Kennedy’s inauguration speech, in which he asked his fellow Americans to join him in the quest to end poverty, disease, tyranny, and war. I polled my students on whether they thought those four goals were reasonable, or merely utopian fantasies that politicians invoke in speeches but no one really does or should believe in. Everyone chose the utopian-fantasy option. So young, and so pessimistic! I spent the rest of the class trying to change their minds by presenting the following facts about our surging wealth, health, freedom, and peace. …
+Over the last two centuries, however, average standards of living have surged. … Jeffrey Sachs … argues that we can eradicate extreme poverty and the threat of starvation within a generation, if we have the will to do so. …  since the early 20th century, life spans have more than doubled, … Just as longevity and prosperity have surged in the past century, so has freedom. … Finally … our era is quite peaceful by historical standards. …  continued progress is by no means guaranteed. We may never eradicate poverty, disease, tyranny, and war, as JFK hoped. But given how far we’ve come toward creating a healthier, wealthier, freer, and more peaceful world, surely we can go much further. (more)
+Yes many trends have been positive for a century or so, and yes this suggests they will continue to rise for a century or so. But no this does not mean that students are empirically or morally wrong for thinking it “utopian fantasy” that one could “end poverty, disease, tyranny, and war” by joining a modern-day Kennedy’s political quest. Why? Because positive recent trends in these areas were not much caused by such political movements! They were mostly caused by our getting rich from the industrial revolution, an event that political movements tended, if anything, to try to hold back on average.
+Furthermore, while a century more of these nice trends is enough to greatly reduce these bad things, it is not enough to end them. And there are good reasons to think that our non-Malthusian era is a temporary exception to a robust historical regularity.
+
+
+title: Is Pessimism Immoral?
+
+date: February 27, 2012 11:50 am
+

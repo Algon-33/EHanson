@@ -1,0 +1,19 @@
+author: Stuart Buck
+
+text: 
+1.  Via The Situationist, here is a page exploring seven biases of human memory, including the ways in which eyewitness testimony can be biased, how false memories can be implanted in people, the way that consistency bias causes us to misremember our own past beliefs or actions, and more.   
+2.  Tyler Cowen has an article in The New Republic that is rather cynical about the value of most published research: 
+
+The sad truth is that "non-fiction" has been unreliable from the beginning, no matter how finely grained a section of human knowledge we wish to consider. For instance, in my own field, critics have tried to replicate the findings in academic journal articles by economists using the initial data sets. Usually, it is impossible to replicate the results of the article even half of the time. Note that the journals publishing these articles often use two or three referees–experts in the area–and typically they might accept only 10 percent of submitted papers. By the way, economics is often considered the most rigorous and the most demanding of the social sciences.
+
+3.  Seth Roberts points out that the value of data is not binary, i.e., either convincing or worthless: 
+
+A vast number of scientists have managed to convince themselves that skepticism means, or at least includes, the opposite of value data. They tell themselves that they are being “skeptical” — properly, of course — when they ignore data. They ignore it in all sorts of familiar ways. They claim “correlation does not equal causation” — and act as if the correlation is meaningless. They claim that "the plural of anecdote is not data" — apparently believing that observations not collected as part of a study are worthless. Those are the low-rent expressions of this attitude. The high-rent version is when a high-level commission delegated to decide some question ignores data that does not come from a placebo-controlled double-blind study, or something similar.
+
+So considering links 2 and 3, should we really downgrade the evidentiary value of published studies and upgrade the evidentiary value of anecdotes?  (That wouldn’t mean treating them both as equal, of course.)   
+
+
+title: A Few Quick Links
+
+date: March 15, 2008 6:00 am
+

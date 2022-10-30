@@ -1,0 +1,17 @@
+author: Nicholas Shackel
+
+text: 
+The new answers to the Edge 2007 Question ‘What are you optimistic about’ contain several discussions of bias. I’ve excerpted a few quotations below, about pessimism caused by the media’s bad news bias and bias in social science caused by political belief.
+  
+Media biases causes pessimism 
+CHRIS ANDERSON    
+“Over the years media owners have proven to their complete satisfaction that the stories that attract large audiences are the simple human dramas. Rottweiler Savages Baby is a bigger story than Poverty Percentage Falls even though the latter is a story about better lives for millions.…for example, the publication last year of a carefully researched Human Security Report received little attention. Despite the fact that it had concluded that the numbers of armed conflicts in the world had fallen 40% in little over a decade. And that the number of fatalities per conflict had also fallen. Think about that. The entire news agenda for a decade, received as endless tales of wars, massacres and bombings, actually missed the key point.”
+Bias in social science
+JONATHAN HAIDT 
+“Moralistic antinativism.  …I have noticed that social scientists older than me generally begin with a social learning explanation of everything (especially sex differences), and then act as though it is "conservative" (scientifically) or "liberal" (politically) to stick with social learning unless the evidence against it is overwhelming, p<.05, which it rarely is. But shouldn’t we use p<.5 here? Shouldn’t we always let nativist and empiricist explanations both have a go at each question and then pick the one that has the better fit, overall, with the evidence? I look forward to the day when most social scientists learned about the astonishing findings of twin studies in their twenties, and very few know who Stephen Jay Gould was.”“Moral Conformity Pressure. Imagine an industry in which 90% of the people are men, male values and maleness are extolled publicly while feminine values are ridiculed, and men routinely make jokes, publicly and privately, about how dumb women are, even when women are present. Sounds like a definition of hostile climate” run wild? Now replace the words male” and female” with liberal” and conservative,” and we have a pretty good description of my field —social psychology—and, I suspect, many other areas of the social sciences….” 
+
+
+title: Discussions of Bias in answers to  the Edge 2007 Question
+
+date: January 2, 2007 1:00 pm
+

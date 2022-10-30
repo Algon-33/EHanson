@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+On this blog I’ve long favored economic efficiency.
+Economic efficiency is our best wide general analysis tool for finding win-win deals that get people what they want.  That isn’t everything, but it is a lot. (more)
+On this efficiency basis, I’ve defended many controversial policies, such as blackmail or polygamy. But oddly, I seem to elicit the most opposition by defending the mere possibility of efficient intellectual property! A widely held position and one embodied in law today. If you recall, I argued:
+Before barbed wire, it make less sense to farm, or to enforce property rights in land against roaming animals. But after barbed wire, farming and land property rights made a lot more sense. … I’m happy to admit that today intellectual property (IP) is not obviously a good idea. Such property can create large “anti-commons” transaction and enforcement costs … Today, it is often better to rely on other social incentives to innovate. … [But] just as farmers developed barbed-wire, someday I expect IP advocates will develop better forms of intellectual property, and better technologies for marking, sharing, and enforcing such property. Using such innovations, I expect we will allow more and stronger intellectual property. … Which, like barbed-wire, will mostly be a good thing. (more)
+Brad Delong responded:
+Robin Hanson appears to think that people have the right to send killer robots off to hunt down people who use their ideas without paying. Me? I think this is an example of how thinking too much about property rights can madden the mind. (more)
+(Scott Sumner says this “mischaracterizes” me; I agree.)
+Matt Yglesias responded:
+Robin Hanson is apparently the kind of libertarian who believes in government-created monopolies over the use of ideas: … Are we sad that Isaac Newton was unable to patent a method for calculating instantaneous rates of change? Does Hanson think he should be paying royalties to Michael Spence every time he writes about signaling? … The idea that a person, having shared his ideas with the world, now has the right to call the cops and have people arrested for taking inspiration from the idea without paying for a license in advance seems odd. Which is exactly why historically government regulation of idea-copying has been the exception rather than the rule. (more)
+Yes IP’s high costs now make us use it sparingly. But as such costs fall, my guess is that efficient economic institutions will eventually include more ways for users to pay creators of innovations. I make no claims, however, about the exact forms such property and payments will take.
+To reduce transaction costs, property rights may expire after a time, and both “usage” and “authorship” may be evaluated at large crude granularities, rather than “every time he writes about [Spence-style] signaling.” There may be random auditing of innovation usage, and folks may buy access to large bundles owned together by those who worked on related innovations. I don’t know if paying for access will be done before or after usage. I also don’t know if such property will be enforced by government monopoly or private law – perhaps people will voluntarily opt into property rights regimes.
+What I do know is that enormous value is at stake in getting good innovation incentives and access, value that can probably be increased by better property rights. Economies show a weak a long-term tendency to adopt more efficient institutions, and that tendency is mostly a very good thing.
+
+
+title: Rah Efficient IP
+
+date: July 29, 2011 11:20 am
+

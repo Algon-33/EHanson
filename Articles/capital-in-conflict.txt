@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Until a few centuries ago economic growth rates were well below feasible population growth rates.  This gave a “Malthusian” state, as in most animal species, where population was near its max sustainable level.  To learn more about our distant future, which will probably be in such a state, let us learn more about our Malthusian past.  In particular, consider two important clues:
+
+Slack – As measured either by kids per mom or hours of work a day, most recent pre-industrial societies were ~30-70% below their simple Malthusian limit.
+Interest – Even after correcting for depreciation and failure-to-pay, for many thousands of years interest rates have been far above population growth rates.
+
+(Data on both clues in Greg Clark’s Farewell to Alms.)
+The slack clue can be explained via local cultural norms (i.e., signaling equilibria).  For example, pre-industrial English women married at ~26; those who married earlier had more kids, but at the cost of lower husband quality and threatened kid survival.  In societies with low work hour norms, harder workers faced ridicule and theft.  They attracted worse spouses and couldn’t use all their extra product to feed more kids.
+Since social norms varied greatly across societies, however, it is puzzling that competition between neighboring societies didn’t favor societies with norms that put them closer to the Malthusian limit.  When neighboring groups clashed, why didn’t those with norms favoring denser populations tend to win out?
+Interest rates appear in prices for renting land, borrowing silver, etc.  Social norm variety also makes high interest rates puzzling.  Local subgroups with a norm of saving capital and reinvesting as much as possible should in principle quickly outgrown groups who instead borrowed, rented, etc.  Soon even a small fraction of the interest on their wealth could paid for many more kids.
+We can explain each of these puzzles by assuming that labor and capital have a different value relative to labor in conflicts, relative to more directly making food etc.  However these two explanations are somewhat at odds.
+On the slack clue, cultures that limited their fertility and work hours should have had more capital per person.  In conflicts with neighboring cultures, perhaps low capital cultures were more often intimidated or seduced by folks from individually-richer high capital cultures.  Or perhaps such capital was especially useful in warfare.
+On the interest clue, subgroups in a society who accumulated more wealth, relative to other groups, would end up with more capital relative to labor than other subgroups.  Other groups would then be tempted to steal that capital.  Perhaps labor is just especially useful in stealing capital, while capital is especially easy to steal relative to labor, especially given very large capital to labor ratios.  Perhaps this Biblical rule was to limit harm from predictable periodic predation:
+The Jubilee year … required the compulsory return of all property to its original owners or their heirs, except the houses of laymen within walled cities, in addition to the manumission of all Israelite indentured servants.
+Problem is, these two explanations are somewhat at odds – the first assumes that capital is especially strong, relative to labor, in conflicts with neighboring societies, while the second assumes that capital is especially weak, relative to labor, in conflicts within a society.  Can both really be true?
+
+
+title: Capital In Conflict
+
+date: February 6, 2010 3:00 pm
+

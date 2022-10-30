@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+I just watched the movie The Road, and then skimmed the book.  The scenario is that a calamity covers the sky with ash, making things cold and dark, and basically wiping out most of the biosphere. The story is about a child born after this starts, now at least 7 (the actor who plays him was 12 when filmed).  He and his dad travel south seeking warmer climes, scavenging food along the way and avoiding “bad” folks who have resorted to cannibalism.
+Both the book and movie are widely celebrated for their “realism.” NYT:
+“What’s moving and shocking about McCarthy’s book is that it’s so believable,” Mr. Hillcoat said. “So what we wanted is a kind of heightened realism, as opposed to the ‘Mad Max’ thing, which is all about high concept and spectacle. We’re trying to avoid the clichés of apocalypse and make this more like a natural disaster.”
+In fact, regarding the author:
+You know that Cormac McCarthy won the Pulitzer Prize for literature, but you may not know that he also has an interest in mathematics and science, which he engages as a research fellow at the Santa Fe Institute.
+Which stupefies me.  Does anyone ever actually think about post-apocalytic scenarios?  Sure it has good emotional and physical detail, but that near-real is detached from its far-unreal premises. Consider:
+1. Within a year at most wild food and human food stores would be completely gone.  Locals have a far better abilities to find remainders; no way years later travelers would find much the locals hadn’t found.
+2. Cannibalism would be the main food source within a year, and travelers would be easy prey for locals who lie in wait.  You’d have to be very desperate to even consider traveling, and then you’d avoid lighting a campfire every night like these travelers.  And you wouldn’t last long.
+3. Cannibalism is war, where coordination is crucial.  Yet this pair don’t seem interested in joining a larger group for self-defense, and they see many other un-teamed individuals. Foragers understand that lone folks traveling in unfamiliar territories are goners.
+4. Even under ideal conditions, people living mainly on cannibalism just couldn’t last that many years.  Quoting Zac Gochenour:
+The typical human body has a muscle to fat ratio similar to a bear, which is about 770 calories per pound. If the average post-apocalyptic person weighs about 130 lbs and is a bit leaner than a bear (say 600 calories per pound), throw away say 20 lbs of bones and 20 lbs of inedible organs, leaves you with about 54000 calories. Assuming 1200 calories a day for survival, that’s 45 person days per human body. 1200 may be too high; I’ve read concentration camp prisoners survived for months on about 300-500 calories per day, engaged in some degree of hard labor.
+I figure the biggest problem facing such a population would be lack of essential nutrients. Vitamin C, for instance. The way the eskimos (who traditionally ate a diet consisting almost entirely on meat and fish) dealt with this is by eating their meat raw and keeping the vitamin C in tact. The cannibals would have to do the same.”
+Even at a rate of 100 person days per body, that would use up 1% of the population per day.  An initial population of 100 million, killed off at this rate, would have only one person left after five years.  In the novel there were many corpses around that clearly hadn’t been eaten; if only half the bodies were eaten, the population would last half as long.  No way a kid lives to be seven when born into a world where the main food is cannibalism.
+Given how lauded and celebrated is this book, didn’t anyone else has pointed these out before? (The novel Blindness dealt with similar sort of issues, but assumed a more realistic timescale.)
+Added 29 May: Henry Farrell did say in ’07:
+I agree on the campness of the broiled baby, and even more so of the amputees in the cellar. The latter annoyed me, in part because my sfnal instincts made me ask practical questions- how is this kind of cannibalism sustainable – presumably you’ve got to feed your victims something if you want to keep them alive, which sort of defeats the purpose of the thing (far smarter, if you adopt the logic of the cannibals to just butcher em and smoke em).
+
+
+title: Cannibals Die Fast
+
+date: May 26, 2010 11:00 am
+

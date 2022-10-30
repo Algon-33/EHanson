@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Since US med spending is now 18% of income, and is rising faster than other spending, then whether we get richer or poorer over the next half century or so mainly depends on whether we get much added value from increased med spending.  If, as I and many others have suggested, we gain relatively little from more med spending, we may actually get poorer.
+Chernew, Hirth and Cutler in Health Affairs:
+At approximately long-run average rates of excess health spending growth, 119 percent of the real increase in per capita income would be devoted to health spending over the 2007–2083 projection period. We argue that an alternative scenario, under which health spending grew just one percentage point faster than real per capita income, is “affordable,” although 53.6 percent of real income growth over the period would go to health care. … This analysis thus supports the argument that reforms that would dramatically slow the rate of health care spending growth are necessary.
+Robert Samuelson in the Post:
+Per capita GDP … from 2007 to 2030, it’s projected to rise from $43,900 to $60,600. That’s a 38 percent increase … Unless controlled, rising health spending would absorb much of that gain. The increase in per capita GDP from 2007 to 2030 is $16,700. If health spending continued to grow at past rates, it would go from $7,100 per person in 2007 to $15,300 in 2030. This rise of $8,200 is half the overall gain ($16,700) in per capita income. …
+One study … [said] continuation of present [med spending] trends would result in “falling wages at the bottom of the earnings spectrum and very slow wage growth on up the earnings distribution. These dismal wage outcomes would persist over at least the next couple of decades.”  To be sure … some care extends life and improves quality of life. But the connections between being healthy and more health spending are loose. … Most people … get few benefits from high spending.
+Of course this increased med spending, and reduced other wealth, would be an overall good deal if increased med spending dramatically improved our health.  But the median med policy wonk, who says we must hold down med cost growth, clearly has doubts about the value of added med spending.  Regardless of where your opinion sits here, let us agree: the net health value of added med spending is one of the most important research questions around; it largely determines if we will get richer or poorer over the next half century.
+Yet I’d guess the number of full time equivalent researchers working on this is less than a few dozen, perhaps less than a dozen.   Why so few working on such an obviously central question?
+
+
+title: Med Decides If We’ll Get Richer
+
+date: October 13, 2009 5:00 pm
+

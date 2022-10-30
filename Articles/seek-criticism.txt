@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Two weeks ago I read Penrose’s new book Cycles of Time. I enjoyed his review of the time’s arrow puzzle, and was intrigued by his proposal that distances fade away in vast infinite futures, allowing them to become tiny flat big bangs again. But not only did Penrose wave his arms pretty wildly on how there could be a metric along which metrics would disappear in approaching the vast-tiny border, he seems to make a very elementary mistake in positing that entropy could have a similar magnitude in our big bang post and our vast distant future, because info is lost in evaporating black holes. The entropy in black hole radiation is more than the holes themselves, which is far more than a tiny flat big bang before.
+Raphael Bousso (co-author of that Anthropic breakthrough I raved about in ’08) reviews the book in Science, and seems to agree:
+Penrose is at his best when he explains this deep and beautiful mystery, and the book may be worth reading for this chapter alone. However, he compounds the shortcomings of his cyclic universe model when he argues that it can solve the low-entropy problem. At this point, another idea is introduced: like vacuum cleaners, black holes appear to reduce disorder by swallowing matter. By the end of one aeon, Penrose argues, most matter has ended up in giant black holes. Very little entropy remains, and the next aeon can commence in perfect order.  The second law guarantees that a vacuum cleaner does not actually decrease the overall disorder; at best, it just shifts it around. In fact, the machine creates far more entropy than it destroys (for example, by heating up the air in the room). A black hole, it turns out, is not different. Penroses assertion that black holes destroy entropy is ﬂatly contradicted by the generalized second law of thermodynamics. (more)
+How could such a big-shot make such a simple mistake?  One should seriously consider the possibility that he isn’t saying what he appears to be saying, and in fact is saying something much more clever and insightful. But if so why wouldn’t he have devoted more effort to explaining, to avoid the misunderstanding.  His book reads as if he didn’t even consider that this criticism would be offered.  And that fact leads me to believe Penrose considers himself to be such a big shot that he didn’t even ask colleagues to read and criticize his book before publication.  And that sort of isolation makes me more willing to believe that he did in fact just make a simple mistake.
+The lesson: no matter how much better you think you are than the lowly incompetents that surround you, you’d still do well to ask for and listen to criticism.
+
+
+title: Seek Criticism
+
+date: March 17, 2011 12:00 pm
+

@@ -1,0 +1,31 @@
+author: Robin Hanson
+
+text: 
+My conversation with Andrew Gelman inspires me to elaborate my position on politics:
+Policy wonks talk about political ideologies as sets of value weights to use in policy tradeoffs … I’m suggesting instead that “Politics Isn’t About Policy.”  In large polities, the main function of our politics in our lives is how it influences the way others see us; its influence on us via policy is far weaker.   But it looks bad to admit we do politics to selfishly show off, instead of to help society make better policy.  So we are built to instead talk, and think, as if we do politics for its influence on policy; we are build to be self-deceived about how politics matters to us.
+Modern political science does a pretty good job understanding the behaviors of politicians and bureaucrats, given how the public behaves; we fail most in understanding how ordinary folks relate to political processes.  And our best hope for doing better there is, I think, the idea that we are executing strategies that evolved long ago among our distant ancestors.
+Our ancestors argued beliefs and negotiated actions in groups ranging from size two to a hundred.  No doubt they evolved to adapt their behavior to the size of the group, at least within this range.  And for the largest groups, the main payoffs from their arguing and negotiating behavior was not via influencing the resulting group beliefs and actions, but from how their words and deeds influenced how others thought of them.  This is all the more true for modern group sizes, and I suspect our strategies are adaptive enough to emphasize impression management even more for larger groups.
+So to develop a better theory of politics, we must answer this key question: what were the most important ways that our ancestors influenced how others thought of them via their words and deeds regarding large group beliefs and actions?  It is easy to list some possibilities, but much harder to judge their relative importance:
+
+ Staying within the the range of reasonable opinion shows a willingness and ability to conform to social norms.
+Showing that you are aware of the main issues that others are discussing now shows you are socially well-connected.
+ Showing that you know many related details of current issues shows you have the resources to devote to this.
+ Offering clever or novel observations on political issues shows one is smart.
+ Recommending group beliefs or actions that fit with how a given personality type thinks shows that you are of that type.
+Expressing opinions or taking actions in a style typical of some group shows you are of that group.
+ Recommending acts and beliefs that would raise the respect or resources of certain groups suggests affiliation with those groups and their other supporters.
+ Supporting the positions expressed by particular people shows status deference to those people.
+ Expressing novel positions before others can be a bid for dominance, realized if others then support those positions.
+Disinterest in politics shows an indifference to and willingness to defer to whomever wins.
+Praising particular politicians seems an attempt to affiliate with them.
+The principles you say we should follow suggest the principles you personally follow.
+Interest in the politics at some scale (e.g., city, nation) shows attachment to your group at that scale.
+Expressing political opinions to an audience shows you expect they respect you enough to listen.
+
+(I’ll add more here, and perhaps reorganize them all, in response to comments.)  We will answer this question the way we answer similar questions, by collecting stylized facts and then seeing which explanations most simply account for such facts.
+
+
+title: Political Signaling Theories
+
+date: May 28, 2009 4:45 pm
+

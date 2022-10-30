@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Katja is on a roll:
+SODIS is a cheap method of disinfecting water by putting it in the sun. Like many things, it works better in physics than society, where its effects were not significant, according to a study in PLoS medicine recently…. [In] Rural Bolivia, where the study was done … the children studied usually get diarrhoea four times a year, which causes about fifteen percent of deaths of children under five. For the poorest quintile in Bolivia the under five death rate is about one in ten of those born alive. … The leader of the study, Daniel Mausezahl, suspects a big reason for this is that lining up water bottles on your roof shows your neighbors that you aren’t rich enough to have more expensive methods of disinfecting water. …
+Fascinating as signaling explanations are, this seems incredible. … Perhaps adults are skeptical about effectiveness?  There is apparently good evidence it works though, and there were intensive promotional campaigns during the study. What’s more lack of evidence doesn’t usually stop humans investing in just about anything [medical] that isn’t obviously lethal. …. And parents are known for obsessive interest in their children’s safety. What’s going on?
+The study said:
+We powered the study to detect a 33% reduction in diarrhoea incidence after reviewing the evidence base for point-of-use water treatment.
+So the results are (barely) consistent with the bottles working for everyone who used them, which should reduce kids’s death rate by 1.5%.   Is Katja too accepting of parent propoganda?  When are parents ever willing to make themselves appear poor or low status to reduce their kid’s chance of dying by 1.5%?
+
+
+title: Pick One: Sick Kids or Look Poor
+
+date: August 25, 2009 10:00 am
+

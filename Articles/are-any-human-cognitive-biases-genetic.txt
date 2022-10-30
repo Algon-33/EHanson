@@ -1,0 +1,24 @@
+author: Bruce Britton
+
+text: 
+This is  important for Overcoming Bias, because overcoming genetic biases may be much more difficult than overcoming learned biases. But it is highly controversial.  
+Last week, economics Professor Paul Rubin proposed the hypothesis that humans have a genetic bias opposing Free Trade.
+But earlier, Matt Ridley (former US editor of the Economist) proposed a genetic bias favoring Free Trade. 
+In Foreign Policy (March 2007) Robin Hanson proposed that Overconfidence Bias and the Fundamental Attribution Error are genetic biases. But Daniel Kahneman objected. 
+Is there any evidence from genetics on these hypotheses? 
+The only direct evidence would be finding genes for a bias. Identifying specific genes for human traits has  recently become possible, and human genes currently evolving have been found for at least 45 traits (here, in Types of Genes Under Selection, paragraphs 4-11): But not for cognitive biases. 
+Two sources of indirect evidence: 
+If the genes are fixated, then the trait will be universal in the species ( though not all universal traits are genetic). But no one claims universality for  biases about free trade or immigration, nor does Hanson claim universality for  Overconfidence Bias or the Fundamental Attribution Error, so this doesn’t apply. 
+If the genes for the bias are not yet fixated but are evolving, then the bias should run in families: Biological relations should have similar biases on free trade, etc., more so the closer the genetic relations. But no such evidence has been found.
+So is there no scientific evidence from genetics for the hypothesis that any cognitive biases are genetic? 
+Robin Hanson says: 
+
+ … it is fine to spin hypotheses, and evaluate them on the basis of how well they fit with preconceptions and other hypotheses ( personal communication, 5/15/07)
+
+Let’s spin the hypothesis that human cognitive biases are genetic: how well does this fit with our preconceptions? And how well does it fit with what other hypotheses? If it fits well with them, then are we justified in concluding that human cognitive biases are genetic?
+
+
+title: Are Any Human Cognitive Biases Genetic?
+
+date: May 16, 2007 8:29 am
+

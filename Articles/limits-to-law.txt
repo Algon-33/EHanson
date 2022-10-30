@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+Teaching Law & Econ this semester reminds me of the puzzling ways law and culture work to prevent law from applying to “personal” arenas. Yes, many reasons are offered to explain why law is or should be so limited, but taken as a whole the pattern suggests a more primal reluctance to let law and related formal institutions apply to “personal” areas.  For example, consider these rough legal trends (most trends have exceptions):
+
+Law enforces matching promises, but not a single lone promise.
+Blackmail law prevents monetary penalties on illicit secrets.
+Lawsuits compensate mainly for money, not pain & desire, losses.
+Torts compensate for non-contracted harms, but not benefits.
+Pollution laws weaker for households than firms.
+Discrimination laws only apply to employers, not employees.
+Discrimination laws apply only to jobs, not romance.
+Limited enforcement of the terms of wills over long timescales.
+Norms against explicit contracts in personal relations.
+Norms against “snitching” on crimes.
+Dislike gambling lawsuits to let law apply to small cases.
+More?
+
+Did we inherit intuitions that different social mechanisms should apply at different social scales? For example, foragers had five social scales:
+
+Family – typically a man, woman, and kids
+Band – ten to forty folks who travel and sleep together
+Tribe – friendly nearby bands that meet & hear of often
+World – perhaps hostile strangers know little about
+
+Foragers had different rules and mechanisms for these different scales.  For example, dominance was more acceptable within families than between the families of a band.  Bands had to come to consensus on more topics than did tribes.  One did not need to be fair to the world.
+Farming introduced the village or town, akin to the tribe, the clan, an extended family that may include folks far away, nations as collections of tribe, and sometimes empires as collections of nations. Industry brought yet more units, such as cities, counties, states, etc.  So which forager social units do we see as most similar to our various modern units, and which ancient norms and methods do still think should apply to them?
+
+
+title: Limits To Law
+
+date: October 22, 2010 8:15 am
+

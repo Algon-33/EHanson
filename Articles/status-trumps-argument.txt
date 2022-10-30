@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Are elites nicer than other people? No, but they are better at being nice contingently, in the right situations where niceness is rewarded. And also better at being mean contingently, in the situations where that is rewarded. Other people aren’t as good on average at correlating their niceness with rewards for niceness. A similar pattern applies to elites and arguments.
+In a world with many strong prediction markets, social consensus would be set by the people willing and able to trade in those markets. Which could be most anyone. And those traders would in general be responsive to good arguments, as traders are on the hook to win or lose a lot of money if they fail to listen to good arguments. In this world, arguments would be a powerful force for producing better beliefs.
+But in our world today, the perceived social consensus is mostly set by elites. That is, by whatever seems to be elites’ shared opinion. And so the power of arguments depends on elites being willing and able to listen to them. Do they?
+Many elites are selected for their ability to generate and evaluate good arguments. So many are quite able to listen. But as with being nice, elites are especially good at contingent strategies: they generate and credit good arguments when they are rewarded for that, but not otherwise.
+The key parameter that determines if an elite is rewarded for using and crediting good arguments is the relative status of the parties involved. When elites argue with equal status elites, their arguments may need to be good. At least if their particular audience values arguments.
+But consider a case where two parties to a dispute are of very unequal status, and where the topic is one where there’s a perception that elite consensus agrees with the high status party. In this case, the higher status party only needs to offer the slim appearance of argument quality. Just blathering a few related words is often completely sufficient. Even if put together in context those words don’t really make much sense.
+I have seen this happen many times personally. For example, if I argue with a higher status person, who for some reason engages with me in this context, and if my position is one seen as reasonable by the usual elite consensus, then my partner is careful to offer quality arguments, and to credit such arguments if I offer them. But if I take a position seen as against the current elite consensus, that same high status partner instead feels quite comfortable offering very weak and incoherent arguments.
+(Yes, low status people follow this approach too, but high status people are better at executing this as a contingent strategy, and their choices matter more.)
+Or consider all the crazy weak arguments offered by Project Bluebook to dismiss hard-to-explain UFO encounters. As they were confident that audiences would see UFO advocates as much lower status, they could blithely blather things like “swamp gas” that just didn’t fit case details.
+Thus in our world today the quality of arguments only matters for positions “within the Overton window”. That is, positions that many elites are seen to take seriously. Which is why contrarians positions are so often unfairly dismissed. Even though, yes, most contrarian positions are wrong. And this is why we need to break out of our system of social consensus dominated so strongly by elites.
+Added 20May: Note that this sort of thing can fool people who listen to such contrarian debates into underestimating the usual intellectual standards for non-contrarian topics. They may then think that arguments only modestly better than the ones elites use to dismiss them are of sufficient quality. But that isn’t remotely good enough.
+
+
+title: Status Trumps Argument
+
+date: May 19, 2021 8:10 am
+

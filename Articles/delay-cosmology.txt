@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+We live in an age of unusually rapid fundamental discovery. This age cannot last long; it must soon slow down as we run out of basic things to discover. We may never run out of small things to discover, but there can be only so many big things.
+Such discovery brings status. Many are proud to live in the schools, disciplines, cities, or nations from which discovery is seen to originate. We are also proud to live in this age of discovery. While this discovery divides us to some extent, making us jealous of top discoverers, it unites us more I think, in pride as part of this age of discovery.
+This ability to unite via our discoveries is a scarce resource that we now greedily consume, at the cost of future generations to whom they will no longer be available. Some of these discoveries will give practical help, and aid our ability to grow our economy, and thereby help future generations. For those sorts of discoveries the future may on net benefit because we discover them now, rather than later.
+But many other sorts of discoveries are pretty unlikely to give practical help. By choosing to discover these today, we on average hurt future eras, depriving them of the joy and pride of discovery, and its ability to unite them around their shared status. This seems inefficient, because many kinds of discovery should get cheaper over time, because there are probably diminishing returns to the joy of more discoveries in the same generation, and because the future may have stronger needs for ways to unite them.
+This all suggests that we consider delaying some sorts of discovery. The best candidates are those that produce great pride, are pretty unlikely to lead to any practical help, and for which the costs of discovery seem to be falling. The best candidate to satisfy these criteria is, as far as I can tell, cosmology.
+While once upon a time advances in cosmology aided advances in basic physics, which lead to practical help, over time such connections have gotten much weaker. Today, the kinds of basic physics that cosmology is likely to help is very far from the sort that has much hope to give practical aid anytime soon. Such basic physics is thus also a sort of discovery we should consider delaying.
+I’m not saying we create strong international law to prohibit such discovery. Much could go wrong with that to turn net gains into net losses. But we might at least locally offer more social disapproval and less status to such discoveries, in recognition of their greedy grab from future generations. Why praise the discoverers of today, who help little else and take glory and unity away from the future?
+
+
+title: Delay Cosmology
+
+date: May 5, 2013 4:00 am
+

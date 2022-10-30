@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+The idea is to get people to “face their fears.” … “Exposure therapy… involves deliberate and planned exposure to a feared stimulus, or representation of the stimulus, until the intensity of the person’s distress recedes.” … The Handbook [of Exposure Therapies] also reviews clinical evidence on exposure therapy vs. other talk therapies vs. drugs vs. nothing vs. combinations of the above.  …  In almost every case, they conclude that exposure therapy plus X is no better than – and other worse than – exposure therapy alone.  The zero or negative marginal benefit of drugs is awfully Hansonian:
+With respect to short-run efficacy, a number of studies suggest that [some drugs] may enhance the effects of exposure-based CBT [cognitive-behavioral therapy].  However, an approximately equal number of clinical trials provide no support for this conclusion, and a meta-analysis of this literature indicates that combined treatment is no more effective than CBT alone. … On the other hand, clinical trials have consistently failed to support an advantage of combined treatment when long-term outcomes are considered.  In fact, the two largest and most well-designed trials of combined treatments provide unambiguous evidence that pharmacotherapy… interferes with the durability of exposure-based CBT.
+More here.  Yes, exposure therapy probably does make people feel less stressed about particular fears.  But you can’t know if this is a good thing until you know how stressed people should feel on particular fears.  For fears that are over-blown, exposure therapy seems good, but for under-blown fears, it seems bad.
+For example, exposing people to the real deaths of others may well make folks less stressed about, and accepting of, their own future death.  If you think people are not accepting enough of their death, you approve, but if you, like me, wish folks would more “rage against the dying of the light,” you disapprove.
+
+
+title: Caplan on Exposure Therapy
+
+date: November 11, 2009 11:10 am
+

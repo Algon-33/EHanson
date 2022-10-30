@@ -1,0 +1,18 @@
+author: Eliezer Yudkowsky
+
+text: 
+Today at lunch I was discussing interesting facets of second-order logic, such as the (known) fact that first-order logic cannot, in general, distinguish finite models from infinite models.  The conversation branched out, as such things do, to why you would want a cognitive agent to think about finite numbers that were unboundedly large, as opposed to boundedly large.
+So I observed that:
+
+Although the laws of physics as we know them don't allow any agent to survive for infinite subjective time (do an unboundedly long sequence of computations), it's possible that our model of physics is mistaken.  (I go into some detail on this possibility below the cutoff.)
+If it is possible for an agent – or, say, the human species – to have an infinite future, and you cut yourself off from that infinite future and end up stuck in a future that is merely very large, this one mistake outweighs all the finite mistakes you made over the course of your existence.
+
+And the one said, "Isn't that a form of Pascal's Wager?"
+I'm going to call this the Pascal's Wager Fallacy Fallacy.
+You see it all the time in discussion of cryonics.  The one says, "If cryonics works, then the payoff could be, say, at least a thousand additional years of life."  And the other one says, "Isn't that a form of Pascal's Wager?"
+
+
+title: The Pascal’s Wager Fallacy Fallacy
+
+date: March 17, 2009 8:30 pm
+

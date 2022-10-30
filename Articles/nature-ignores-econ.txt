@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+A recent Nature article got lots of press:
+We present an evolutionary model showing that, counterintuitively, overconfidence maximizes individual fitness and populations tend to become overconfident, as long as benefits from contested resources are sufficiently large compared with the cost of competition. In contrast, unbiased strategies are only stable under limited conditions. The fact that overconfident populations are evolutionarily stable in a wide range of environments may help to explain why overconfidence remains prevalent today.
+They model pairwise contests over a discrete prize, won by the most able side. Each agent chooses if to fight, after seeing the other agent’s ability with error. If both agents fight, they pay a conflict cost. Agents can win by committing to overestimate their own ability, as this makes them fight more, which induces opponents to fight less.
+I found that strategic commitment effect in ’06, in a paper that seemed too simple to publish in econ theory journals:
+In a simple model of conﬂict, two agents ﬁght over a ﬁxed prize, and how hard they ﬁght depends on what they believe about their abilities. To this model I add “preagents,” representing parents, leaders, or natural selection, who choose each agent’s conﬁdence in his ability. Depending on the reason for such conﬁdence, I ﬁnd ﬁve different patterns in how conﬁdence varies with ability. Agents who estimate their ability with error have under-conﬁdence when ability is high and over-conﬁdence when ability is low, while strategic commitment incentives induce the opposite pattern. Agents who misjudge their value for the prize, relative to their cost of eﬀort, induce an over or under-conﬁdence that is independent of ability, while cooperating pre-agents choose extreme under-conﬁdence. Agents who use conﬁdence to signal ability have a relatively uniform over-conﬁdence.
+I doubt Nature would have published my paper either.  My paper used a few lines of math of simple game theory, while the paper Nature published used lots of evolutionary simulations, which don’t seem to add much beyond simple game theory. Based on this and other cases I’ve seen, I conclude Nature doesn’t care what econ theorists think about the social science papers they publish.
+
+
+title: Nature Ignores Econ
+
+date: September 20, 2011 10:40 pm
+

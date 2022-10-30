@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+A recent burst of econo–blog posts on the subject of a future robot based economy mostly seem to treat the subject as if those few bloggers were the only people ever to consider the subject. But in fact, people have been considering the subject for centuries. I myself have written dozens of posts just here on this blog.
+So let me offer a quick robot econ primer, i.e. important points widely known among folks who have long discussed the subject, but often not quickly rediscovered by dilettantes new to the subject:
+
+AI takes software, not just hardware. It is tempting to project when artificial intelligence (AI) will arrive by projecting when a million dollars of computer hardware will have a computing power comparable to a human brain. But AI needs both hardware and software. It might be that when the software is available, AI will be possible with today’s computer hardware.
+AI software progress has been slow. My small informal survey of AI experts finds that they typically estimate that in the last 20 years their specific subfield of AI has gone ~5-10% of the way toward human level abilities, with no noticeable acceleration. At that rate it will take centuries to get human level AI.
+Emulations might bring AI software sooner. Human brains already have human level software. It should be possible to copy that software into computer hardware, and it seems likely that this will be possible within a century.
+Emulations would be sudden and human-like. Since having an almost emulation probably isn’t of much use, emulations can make for a sudden transition to a robot economy. Being copies of humans, early emulations are more understandable and predictable than robots more generically, and many humans would empathize deeply with them.
+Growth rates would be much faster. Our economic growth rates are limited by the rate at which we can grow labor. Whether based on emulations or other AI, a robot economy could grow its substitute for labor much faster, allowing it to grow much faster (as in an AK growth model). A robot economy isn’t just like our economy, but with robots substituted for humans. Things would soon change very fast.
+There probably won’t be a grand war, or grand deal. The past transitions from foraging to farming and farming to industry were similarly unprecedented, sudden, and disruptive. But there wasn’t a grand war between foragers and farmers, or between farmers and industry, though in particular wars the sides were somewhat correlated. There also wasn’t anything like a grand deal to allow farming or industry by paying off folks doing things the old ways. The change to a robot economy seems too big, broad, and fast to make grand overall wars or deals likely, though there may be local wars or deals.
+
+There’s lots more I could add, but this should be enough for now.
+
+
+title: Robot Econ Primer
+
+date: May 15, 2013 1:30 am
+

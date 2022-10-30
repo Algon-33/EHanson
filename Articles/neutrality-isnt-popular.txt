@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Wikipedia on Thucydides:
+Thucydides has been dubbed the father of “scientific history” due to his strict standards of evidence-gathering and analysis in terms of cause and effect without reference to intervention by the gods, … [and] the father of the school of political realism, which views the relations between nations as based on might rather than right.
+This famously objective historian was however actually rather partisan:
+If Herodotus retains his proper title as the “father of history,” Thucydides, his younger contemporary and author of the “History of the Peloponnesian War,” an elaborate account of that bloody 30-year internecine spat between Athens and Sparta in the 5th century, B.C., might be called the father of all those historians who aspire to comprehend the past coolly, objectively, dispassionately, scientifically and without a brief for any partisan cause. He was the first sociologist. Or so we have blithely tended to believe. …
+Contrary to prevailing notions that Thucydides penned his work from a distant, Olympian remove, he was actually a participant — an accomplice, really — in the war he so eloquently and painstakingly depicted; his was a partisan’s point of view. A general high in the Athenian command earlier in the war, he was forced into exile after he lost Amphipolis to the enemy in 422. Years later, he wrote his account to defend his actions and indeed those of his class. Democracy was, he believed, ever prone to dangle before citizens the deceptive promises and baubles of demagogues like Alcibiades, at whose door he placed blame for the Sicilian debacle. And so it was Athenian democracy itself that caused Athens’s eventual defeat, not her more enlightened generals like Nicias and himself. The “History,” according to Kagan, represented as much as anything else Thucydides’ apologia, not a detached rationalist’s tale of simple cause and effect.
+Real objectivity is much more a niche than a mass market.  So while one might expect the rare historian to try to be cool and objective, one should be surprised to find that such a historian is very popular.  So one should have been surprised by Thucydides’ popularity, given his supposed objectivity.  Learning that he was in fact quite partisan resolves that puzzle quite nicely.
+
+
+title: Neutrality Isn’t Popular
+
+date: December 30, 2009 9:00 pm
+

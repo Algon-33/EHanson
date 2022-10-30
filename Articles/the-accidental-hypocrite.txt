@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+I have recently been exploring a Homo Hypocritus (man the sly rule bender) view of human nature, that humans have hugemongous brains in order to conspire to evade social norms. I’ve also known and respected Robert Kurzban for far longer, and so was excited to see his new book, Why Everyone (Else) Is a Hypocrite: Evolution and the Modular Mind. Alas, while he has lots of thoughtful insight to offer along the way (the book is worth reading), Kurzban’s main thesis seems to be that humans are accidental hypocrites, since pretty much any evolved creatures with social norms would be hypocrites, because it is just too hard to be fully consistent:
+The key to understanding our behavioral inconsistencies lies in understanding the mind’s design. The human mind consists of many specialized units designed by the process of evolution by natural selection. While these modules sometimes work together seamlessly, they don’t always, resulting in impossibly contradictory beliefs, vacillations between patience and impulsiveness, violations of our supposed moral principles, and overinflated views of ourselves. (more)
+Since we have different modules to criticize the behavior of others and to choose our own actions, Kurzban says, we shouldn’t expect such modules to be coordinated, and so we just happen sometimes to be accidentally hypocritical.
+The modules that cause behavior are different from the ones that cause people to voice agreement with moral rules. Because condemnation and conscience are caused by different modules, it is no wonder that speech and action often conflict. Taken together, these ideas make it clear that the modular design of the human mind guarantees hypocrisy. (p.205)
+Nothing to see here, move along.
+But our mind parts do coordinate a great deal, to a remarkable degree. Yes we shouldn’t expect perfect coordination, but our minds seem evolved in great intricate detail to manage the coordination between the norms we espouse and the actions we perform.  In fact, I expect we have a great many mental modules devoted to exactly such functions.
+If selection pressures had favored it, we could have evolved to match our norms and actions to a high degree of precision. So I think that our actual lower degree of matching is because most of our norm-act mismatches are functional.  We are really quite (unconsciously) careful to monitor when our norm violations would be noticed and get us into trouble, versus when we have a good chance of getting away with them.   We even coordinate carefully with our associates to arrange circumstances to be conducive to such violation.  If this is true, most of our norm violations aren’t even remotely accidental.
+Now Kurzban does admit that some hypocrisy is designed and functional. But he doesn’t think this is due to coordination; he thinks it mainly comes from a few hypocrisy modules:
+The press secretary module might be designed to contain certain kinds of information that are useful for certain purposes, even if other modules have information that not only conflicts with this information, but is also more likely to be accurate. (p.86)
+Some parts of the mind – some modules – are designed for functions other than being right because of certain strategic advantages. These modules produce propaganda, and, like the more traditional political propaganda, the information isn’t always exactly right.  (p.130)
+In contrast, I think a large fraction of the human mind was designed together to facilitate the coordination of diverse behavior to achieve effective hypocrisy.
+As Kurzban wrote a whole book to defend his point of view, we might wonder what are his arguments against this opposing point of view.  But alas, he offers no arguments. He doesn’t even acknowledge that there is another view.  He simply takes the tone that anyone who disagrees with him must not understand that brains are made of modules, and so he should explain that point one more time, with yet another cute anecdote.
+I have been collecting and present evidence for my view here at this blog, and I’ll continue to do so. The more detailed and sophisticated seem our capacities for subtle self-benefiting hypocrisy, the less plausible becomes the view that hypocrisy is mostly accidental, or the result of a few small hypocrisy modules.
+
+
+title: The Accidental Hypocrite
+
+date: January 22, 2011 8:40 am
+

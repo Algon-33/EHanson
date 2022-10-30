@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+A half century ago, when people tried to imagine a future full of computers, I’m sure one of the most obvious predictions they made is that we today wouldn’t have to work so hard to fill out forms. Filling out forms seemed then to be a very mechanical task, based on explicit mechanical rules. So once computers had enough space to store the relevant data, and enough computing power to execute those rules, we should not longer need to fill out most tedious parts of forms.
+Oh sure, you might need to write an essay for a school application, or make a design for the shed when you ask your homeowner’s association permission to build a shed. But all that other usual tedious detail, no.
+Now this has in fact happened for businesses, at least for standard forms and for big business. In fact, this happened many decades ago. Most of them wrote or bought programs to fill out standard forms that they use to talk to customers, to suppliers, and to government. But for ordinary people, this mostly just hasn’t happened. Oh sure, maybe your web browser now fills in an address or a credit card number on a web form. (Though it mostly gets that wrong when I try it.) But not all the other detail. Why not?
+Many poor people have to fill out a lot of forms to apply for many kinds of assistance. Roughly once a year I’m told, at least. They see many of these forms as so hard to fill our that many of them just don’t bother unless they get help from someone like a social worker. So a lot of programs to help the poor don’t actually help many of those who are eligible, because they don’t fill out the forms.
+So why doesn’t some tech company offer a form app, where you give all your personal info to the form and it fills out most parts of most forms for you? You just have to do the unusual parts. And they could have a separate app to give to orgs that create forms, so they can help make it easier for their forms to get filled out. Yes, much of the effort to make this work is more in standardization than in abstract computer algorithms. But still, why doesn’t some big firm do it?
+I suggested all this to a social worker I know, who was aghast; she didn’t want this tech firm knowing all these details, like her social security number. But if you fill out all these forms by hand today, you are telling it all to one new org per year. Adding one firm to the list to make it all much easier doesn’t seem like such a high cost to me.
+But maybe this is all about the optics; tech firms fear looking like big brother if they know all this stuff about you. Or many legal liability would fall on these tech firms if the form had any mistakes. Or maybe privacy laws prevent them from even asking for the key info. And so we all suffer with forms, and poor folks don’t get the assistance offer to them. And we all lose, though those of us who are better at filling out forms lose less.
+
+
+title: Why Not Hi-Tech Forms?
+
+date: August 28, 2019 10:00 pm
+

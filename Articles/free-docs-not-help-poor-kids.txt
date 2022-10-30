@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+
+I don't find it surprising when studies of American/European health care consumption show little relationship between consumption and health outcomes. … But I confess I am shocked that studies show the same thing in the developing world:
+
+ That is Megan McArdle, on this Gates-funded randomized test of free medicine:
+
+ 2,194 households containing 2,592 Ghanaian children under 5 y old were randomised into a prepayment scheme allowing free primary care including drugs, or to a control group whose families paid user fees for health care (normal practice) … The primary outcome was moderate anaemia (haemoglobin [Hb] < 8 g/dl); major secondary outcomes were health care utilisation, severe anaemia, and mortality. At baseline the randomised groups were similar. Introducing free primary health care altered the health care seeking behaviour of households; those randomised to the intervention arm used formal health care [12%] more and nonformal care [10%] less than the control group. Introducing free primary health care did not lead to any measurable difference in any health outcome. … Anaemia was chosen as the primary outcome because it is the most commonly used objective outcome of community interventions on malaria morbidity, with malaria the most common life-threatening disease of children under 5 y of age in West Africa.
+
+I am, alas, not surprised.
+Added:  PLOS Medicine couldn't publish the above study without also publishing a criticism:
+Several biases have led the authors to judge its success on a very limited basis: (1) although the scheme benefits all members of participating households, the study only took into account a sub-population of beneficiaries (children); (2) in this sub-population, only health-related impacts were considered, and among all possible health benefits, only the potential gains in malaria-related outcomes were considered; and (3) among malaria-related outcomes, the analysis was restricted solely to one indicator: the prevalence of severe and moderate anaemia. … The study's authors conclude: "This lack of any effect, including on secondary outcomes such as Hb for which the study had good power, challenges the assumption that where introducing free health care leads to changes in utilisation, it can safely be assumed to translate into health benefits. Given the potential size of resources involved in providing free health care that could be diverted from other priorities on the basis of that assumption, this finding is potentially important for policymakers." But given the methodological limitations of the study, we believe that the trial provides no scientific evidence on the effectiveness of the pre-payment scheme.
+Geez.  Translated: as long as any possible studies have not yet been done, there can be no evidence that med $ doesn't help. 
+
+
+title: Free Docs Not Help Poor Kids
+
+date: January 6, 2009 11:00 pm
+

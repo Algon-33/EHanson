@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+A pilot tells me that we naturally tend to judge how far away things are by how much detail we can see on them. He says that this leads to a bias whereby pilots overestimate how far away is the ground at night, and when water is flat and calm.  Experienced pilots know to correct for this. More examples where this detail heuristic leads to bias:
+
+Women who see little detail in a man’s feelings often feel he is emotionally distant.  But often men’s feelings just don’t have that much detail.
+Liars add extra irrelevant detail to make their lies seem more believable.  Religions do the same.  Story tellers also add irrelevant (i.e., detached) vivid detail to make the overall features of plots and characters seem more realistic.
+
+What more examples of this bias can we find?
+
+
+title: Detail Is Near
+
+date: August 10, 2010 10:30 am
+

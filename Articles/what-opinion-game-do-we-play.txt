@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+In statistics it is relatively easy to reason about expected values.   And the statistics-based literature on the rationality of disagreement that I have worked on has interpreted typical human opinions (about matters of fact as opposed to value) as expected values (which include probabilities).  But I wonder: is this a big mistake?
+ Imagine an Easter egg hunt where there was only one egg.   Even if we all had the same abilities and all agreed on a probability distribution over where the egg might be, we should still search in different parts of the yard.   We should spread ourselves out, with the number of people in each region being roughly proportional to the chance of finding the egg in that region.   Could our opinion game be similar?
+ If we were penalized in proportion to something like the square of the "distance" of our opinion from the truth, we should choose an opinion which was an expected value of the truth (in terms of that distance).   And in this case we should not knowingly disagree.  But if the opinion game we play instead rewards opinions closer to the truth than other opinions, it can make much more sense to knowingly disagree.
+ So what are the rewards in typical opinion games we play?   What opinion games should we want people to play? 
+
+
+title: What Opinion Game Do We Play?
+
+date: February 11, 2007 6:00 am
+

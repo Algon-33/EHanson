@@ -1,0 +1,37 @@
+author: Robin Hanson
+
+text: 
+On Thursday I came across this article, which discusses the peer-reviewed journal article, “Fungi on Mars? Evidence of Growth and Behavior From Sequential Images”. As its pictures seemed to me to suggest fungal life active now on Mars, I tweeted “big news!” Over the next few days it got some quite negative news coverage, mainly complaining that the first author (out of 11 authors) had no prestigious affiliation and expressed other contrarian opinions, and also that the journal charged fees to authors.
+I took two small supportive bets and then several people offered me much larger bets, while no one at all offered to bet on my side. That is a big classic clue that you are likely wrong, and so I am for now backing down on my likelihood estimates on this. And thus not (yet) accepting more bets. But to promote social information aggregation, let me try to explain the situation as I now see it. I’ll then listen to your reactions before deciding how to revise my estimates.
+First, our priors are that early Mars and early Earth were nearly equally likely as places for life to arise, with Mars being habitable sooner. The rates at which life would have been transferred between the two places look high, though sixty times higher from Mars to Earth than from vice versa. Thus it seems nearly as likely that life started on Mars and then came to Earth, as that life started on Earth. And more likely than not, there was once some life on Mars.
+Furthermore, studies that put today’s Earth life in Martian conditions find many that would survive and grow on Mars. So the only question is whether that sort of life ever arose on Mars, or was ever transferred from Earth to Mars. Yes, most of the Martian surface looks quite dead now, including most everything we’ve seen up close due to landers and rovers. But then so does most of the surface of Antartica look dead, but we know is it not all dead. So the chance of life somewhere on Mars now is pretty high; the question is just how common might be the few special places in which Martian life survives.
+This new paper offers no single “smoking gun”, but instead offers a collection of pictures that are together suggestive. Some of the authors have been slowly collecting this evidence over many years, and have presented some of it before. The evidence they point to is at the edge of detectability, as you should expect from the fact that the usual view is that we haven’t yet seen life on Mars.
+Now if you search though enough images, you’ll find a few strange ones, like the famous “face on mars”, or this one from Mars:
+
+But when there’s just one weird image, with nothing else like it, we mostly should go with a random error theory, unless the image seems especially clear.
+In the rest of this post I’ll go over three kinds of non-unique images, and for each compare a conventional explanation to the exotic explanation suggested by this new paper. 
+1. Okay, first, to me, this is most striking image in this new paper (from Fig. 30):
+
+It shows several small round few-millimeter bulbs over different-colored pretty-straight longer-than-the-bulbs stalks, which have diameters less than half of the bulbs. While a few other images show similar scenes, this image is unique in having the sun and camera angles aligned well to put the shadows straight behind the stalks, so that we can more clearly see their relative sizes.
+“Blueberry” balls that look much like these bulbs are all over Mars, and widely thought to be made of relatively hard minerals with a lot of iron, thought there is still disagreement over how they are formed. The best conventional explanation for these stalks is that they are hoodoos, like in these Earth images:
+
+
+In hoodoos, water or wind erosion eats away at the material beneath a harder object that protects the softer material immediately below it. Note, however, that hoodoo sides usually aren’t very straight nor much more narrow than the object above, and nearby hoodoos should all be very parallel, as they all point straight up. Note also that the lack of strong winds and Earthquakes on Mars can allow more fragile structures to last longer there.
+The exotic alternate theory, that these are mushroom bulbs and stems, can better explain very narrow long and straight stems with differing orientations. It seems to me that this has a higher likelihood than hoodoos to predict this particular Mars image, though perhaps not enough higher to compensate for a lower prior.
+2. The second striking image is this (from Fig. 44):
+
+This shows the same scene three days apart, with individual spheres having apparently appeared, moved, and grown over that period. The conventional explanation is that the dirt (i.e., dust, sand, etc.) between the spheres has been eroded away over this period. But if so it seems to me puzzling that deviations from spherical shape (e.g., in upper and lower right) for these spheres would be preserved even as they became more uncovered.
+That fits better with expansion than with uncovering, though again perhaps not by a large enough margin to overcome prior differences.
+3. Third, there are images like this one (from Fig. 32):
+
+Here we see new tire tracks erase or hide all the spheres (on right), but then spheres come back (on older left track), but not in the crevices between treads where you’d expect blown stuff to go. The spheres come back much more on the edge than on the middle of the tire track, and spheres become even denser on those edges than they are next to the tire tracks, where tires never tread.
+A conventional explanation of these tire-tread sphere patterns would be that the tires pressed the spheres down into the dirt, and then wind later eroded away that dirt to reveal a layer of spheres that had been pushed down into the dirt. If there are more spheres later at the track edge, that would be because more erosion happens there.
+But this theory seems to require a non-linearity in spheres seen as a function of tire pressure; the most spheres are seen for the intermediate pressure at tire edges. And more erosion at the edge should lower the elevation of the edge relative to the middle, and also relative to the crevice between the treads. Yet that’s not how these images appear to me. The alternate exotic explanation is that these spheres are destroyed by the tires, and growing again over the tracks.
+Okay, I’ve just reviewed three kinds of images presented in the paper where a conventional explanation seems not entirely satisfactory. There are more types of images in the paper, but this seems is enough for now.
+So, am I missing key explanatory connections here, or is this mainly about strong priors overwhelming weak contrary evidence? Has anyone else tried to lay out how the theories confront the evidence in this kind of detail?
+
+
+title: Parsing Pictures of Mars Muck
+
+date: May 9, 2021 5:45 pm
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+New Scientist:
+Major Atmospheric Gamma-ray Imaging Cherenkov Telescope. …                        		 		  	     	                                                    What MAGIC saw on that balmy June night … Lower-energy photons from Markarian 501 had outpaced their higher-energy counterparts, arriving up to 4 minutes earlier (Physics Letters B, vol 668, p 253) …
+The MAGIC observations were showing just the sort of effect that quite a few models of quantum gravity predict. … A minimum size for space-time grains, as predicted by loop quantum gravity, could violate the cherished principle of special relativity known as Lorentz invariance, which states that the maximum speed of all particles, regardless of their energy, is the speed of light in a vacuum.
+Here is more on the empirical issues; here is a solid and robust argument that a min size in space time implies a Lorentz violation.   We seem to be starting to see a clear quantum gravity effect!
+
+
+title: Lorentz Invariance, Not
+
+date: August 12, 2009 11:00 pm
+

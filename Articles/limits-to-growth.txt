@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+Me:
+Current growth rates simply cannot continue at familiar levels for ten thousand more years.  We’ll eventually learn everything worth knowing about how to arrange atoms, and growth in available atoms will be limited by the speed of light.
+Bryan Caplan:
+I’m baffled.  You don’t have to be a sci-fi guy to think that in the next century we’ll get working virtual reality.  And once we have that, why couldn’t economic growth of 1% (or 10%) continue forever in simulations?  In the real world, we can’t all be emperor of an infinite universe.  But I don’t see why every one of us couldn’t preside over our own simulated utopias?
+As for all this talk of atoms: Economics is about value, not matter.  As long as people regard vivid virtual goods as acceptable substitutes for actual goods, how can the scarcity of atoms stop everyone from having everything he desires?  Robin might respond that computing power will be too scarce to simulate a big virtual world in great detail.  But who really cares if the simulation is accurate down to the microscopic level anyway?
+Let’s try some numbers.  Today we have about ten billion people with an average income about twenty times subsistence level, and the world economy doubles roughly every fifteen years. If that growth rate continued for ten thousand years the total growth factor would be 10200.
+There are roughly 1057 atoms in our solar system, and about 1070 atoms in our galaxy, which holds most of the mass within a million light years.  So even if we had access to all the matter within a million light years, to grow by a factor of 10200, each atom would on average have to support an economy equivalent to 10140 people at today’s standard of living, or one person with a standard of living 10140 times higher, or some mix of these.
+An economy that doubled every century for a million years would grow by a factor of 103010.  To support this using the 1070 atoms found within a million light years, each atom would have to support an average of 102950 people at our living standard, one person with a standard 102950 times higher, or some mix of those extremes.
+It seems just physically impossible to create 10140 or more lives we would value like ours per atom, even considering quantum computing and black hole negentropy.  But could individual living standards be that high?
+To say that someone had a standard of living 10140 times a subsistence level means that 10-140 of their income could buy a subsistence level standard of living.  Someone with a subsistence level living standard, and a square root type risk-aversion, would reject an offer to jump to today’s world average living standard, twenty times higher, if they could instead roll 69 ten-sided dice, and only get to jump to this 10140 higher standard if all the dice came up 1.  (Someone with a fourth root risk aversion would prefer to roll 35 dies.)  That is just how incredibly fantastic this 10140 higher living standard would be.  A living standard 102950 higher is far far more fantastic.
+While I’m sure virtual reality will have its appeals, I just can’t see it offering such lightyears-beyond-astronomical living standards to creatures like us. Sure it would be fun to be “emperor of an infinite universe”, but not that fun.  Perhaps one could design creatures with such values, but we humans just don’t seem capable of such heights of ecstasy.  There is simply no experience so enjoyable that we’d prefer such a tiny chance of it over a big improvement for sure.  Video games and movies today already offer much of the gains that virtual reality have to offer. Sure higher resolution and better crafted story lines will raise the bar, but not by a factor of 10^3000.
+Within the next million years, economic growth rates must fall below feasible population growth rates.
+Added 9:30a 22Sept: Bryan responded:
+Suppose the universe contains one person and one really good virtual reality machine.  In this virtual reality, the universe’s sole inhabitant is a god.  Whatever he thinks, happens.  Question for Robin: As long as this person regards virtual reality as a good substitute for actual reality, why shouldn’t we say that his standard of living is not just 10140 times greater than ours, but infinitely greater than ours?
+Is this one person’s willingness to pay for playing god in this sim infinitely greater than his willingness to pay for more familiar lifestyles?  Imagine he starts out with something closer to our standard of living and chooses if to gamble half his income for a tiny chance to play god in this sim, or chooses between having half his income for most of his life, and then spending some tiny fraction of his life in this god sim.  Would he really accept arbitrarily low chances or fractions in such choices?
+
+
+title: Limits To Growth
+
+date: September 21, 2009 10:30 pm
+

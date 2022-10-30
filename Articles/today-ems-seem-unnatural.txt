@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+The main objections to “test tube babies” weren’t about the consequences for mothers or babies, they were about doing something “unnatural”:
+Given the number of babies that have now been conceived through IVF — more than 4 million of them at last count — it’s easy to forget how controversial the procedure was during the time when, medically and culturally, it was new. … They weren’t entirely sure how IVF was different from cloning, or from the “ethereal conception” that was artificial insemination. They balked at the notion of “assembly-line fetuses grown in test tubes.” … For many, IVF smacked of a moral overstep — or at least of a potential one. … James Watson publicly decried the procedure, telling a Congressional committee in 1974 that … “All hell will break loose, politically and morally, all over the world.” (more)
+Similarly, for most ordinary people, the problem with ems isn’t that the scanning process might kill the original human, or that the em might be an unconscious zombie due to their new hardware not supporting consciousness. In fact, people more averse to death have fewer objections to ems, as they see ems as a way to avoid death. The main objections to ems are just that ems seem “unnatural”:
+In four studies (including pilot) with a total of 952 participants, it was shown that biological and cultural cognitive factors help to determine how strongly people condemn mind upload. … Participants read a story about a scientist who successfully transfers his consciousness (uploads his mind) onto a computer. … In the story, the scientist injects himself with nano-machines that enter his brain and substitute his neurons one-by-one. After a neuron has been substituted, the functioning of that neuron is copied (uploaded) on a computer; and after each neuron has been copied/uploaded the nano-machines shut down, and the scientist’s body falls on the ground completely limp. Finally, the scientist wakes up inside the computer.
+The following variations made NO difference:
+[In Study 1] we modified our original vignette by changing the target of mind upload to be either (1) a computer, (2) an android body, (3) a chimpanzee, or (4) an artificial brain. …
+[In Study 2] we changed the story in a manner that the scientist merely ingests the nano-machines in a capsule form. Furthermore, we used a 2 × 2 experimental set-up to investigate whether the body dying on a physical level [heart stops or the brain stops] impacts the condemnation of the scientist’s actions. We also investigated whether giving participants information on how the transformation feels for the scientist once he is in the new platform has an impact on the results.
+What did matter:
+People who value purity norms and have higher sexual disgust sensitivity are more inclined to condemn mind upload. Furthermore, people who are anxious about death and condemn suicidal acts were more accepting of mind upload. Finally, higher science fiction literacy and/or hobbyism strongly predicted approval of mind upload. Several possible confounding factors were ruled out, including personality, values, individual tendencies towards rationality, and theory of mind capacities. (paper; summary; HT Stefan Schubert)
+As with IVF, once ems are commonplace they will probably also come to seem less unnatural; strange never-before-seen possibilities evoke more fear and disgust than common things, unless those common things seem directly problematic.
+
+
+title: Today, Ems Seem Unnatural
+
+date: July 12, 2018 4:25 pm
+

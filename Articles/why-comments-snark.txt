@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Katja Grace asks:
+Commentary on blogs usually comes in two forms: comments there and posts on other blogs. In my experience, comments tend to disagree and to be negative or insulting much more than links from other blogs are. In a rough count of comments and posts taking a definite position on this blog, 25 of 35 comments disagreed, while 1 of 12 posts did, even if you don’t count another 11 posts which link without comment, a seemingly approving act. Why is this?
+She suggests:
+Commenters are visible only to others in that particular comments section. Nobody else there will be impressed or interested to observe that you read this blogger or story, as they all [do]. So the choice of whether to affiliate doesn’t matter, and all the fun is in showing superiority within that realm. Pointing out that the blogger is wrong shows you are smarter than they.
+I don’t see why comments can’t affiliate as easily as posts, but I agree comments often disagree to gain status at the expense of post authors. Constant comments:
+One’s correction of error tends typically to be much more throw-away than one’s original thoughts. If you want to correct an error, and if you do not think the correction particularly interesting, you might choose to do it in the comments of the blog that committed the error.
+My explanation is related, but darker: Comments disagree more than responding posts because post, but not comment, authors must attract readers.  Post authors expect that reader experiences of a post will influence whether those readers come back for future posts.  In contrast, comment authors less expect reader experience to influence future comment readership; folks read blog posts more because of the post author than who they expect to author comments there. 
+ This induces snarkier comments for two reasons:
+
+ Intelligent post authors can usually anticipate the main post “corrections.”  Posts written for readability simply cannot mention every related disclaimer, caveat, alternate interpretation, or follow-on question.  This leaves a huge opening for comments to seem smart by pointing out such things, even when they are boring.
+
+When you post a friendly response to someone else’s post, you can hope for reciprocal posts later, where they respond to one of your posts.  This is less likely when your post is critical, or if you just comment on their post; they may not even know you have a blog.
+
+
+A similar theory explains why large email lists and usenet groups were often so harsh; each contributor had relatively little influence over the subscriber experience.  This theory also suggests a fix: let blog readers mark comment authors they like, and read all blog post comments via an interface that emphasizes authors they personally like.  Comment authors would then face incentives similar to post authors to please readers.
+
+
+
+title: Why Comments Snark
+
+date: January 4, 2010 5:00 pm
+

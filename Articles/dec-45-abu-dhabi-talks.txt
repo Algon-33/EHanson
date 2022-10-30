@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+I’ll speak twice soon at New York University in Abu Dhabi, UAE. Here are locations & abstract:
+
+Dec. 4, 12:30-2pm in CSE 1802 to the Engineering Seminar Series (slides),
+Dec. 5, 6-7:30pm in S-037 (downtown) to the Economics Seminar Series (slides).
+
+The Age Of Em: Imagining A Future Of Emulated Minds
+The three most disruptive transitions in history were the introduction of humans, farming, and industry. If another transition lies ahead, a good guess for its source is artificial intelligence in the form of whole brain emulations, or “ems,” sometime in the next century. I attempt a broad synthesis of standard academic science, including in business and social science, in order to outline a baseline scenario set modestly far into a post-em-transition world. I consider computer architecture, energy conservation, cooling infrastructure, mind speeds, body sizes, security strategies, virtual reality conventions, labor market organization, management focus, job training, career paths, wage competition, identity, retirement, life cycles, reproduction, mating, conversation habits, wealth inequality, city sizes, growth rates, coalition politics, governance, law, and war.
+
+
+title: Dec 4,5 Abu Dhabi Talks
+
+date: November 24, 2013 10:15 am
+

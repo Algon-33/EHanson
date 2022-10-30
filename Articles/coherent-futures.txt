@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+There is very little careful thinking about the far future.  Yes, many people talk about the far future as if they cared, but typical interest rates suggest few care much, and most far future discussion seems to be symbolic talk about current issues.  Furthermore, when people do actually directly discuss the far future, they tend to engage in an extreme far-think, vs. a more practical near-think:
+
+[NEAR] All of these bring each other more to mind: here, now, me, us; trend-deviating likely real local events; concrete, context-dependent, unstructured, detailed, goal-irrelevant incidental features; feasible safe acts; secondary local concerns; socially close folks with unstable traits.
+
+[FAR] Conversely, all these bring each other more to mind: there, then, them; trend-following unlikely hypothetical global events; abstract, schematic, context-freer, core, coarse, goal-related features; desirable risk-taking acts, central global symbolic concerns, confident predictions, polarized evaluations, socially distant people with stable traits.
+
+While our future vision should fade into an increasingly vast and uncertain fog of possibilities, far future fans instead fragment into factions, each confident in a very different view of the important future issues.  Factions use such different assumptions that they rarely build on each others’ work, or even engage others in debate.  Only they really “get it” you see, and few others ever seriously consider their arguments.  Extreme far-thinking apparently produces extreme disagreement.
+Such fragmentation may be acceptable when searching a large space for rare combinations, but it is severely dysfunctional for advising common actions.  We instead need to find ways for the few people who actually care about the far future to work together via a division of labor.  But how can we do that?  Just tell each faction to reconsider that they might be mistaken?
+
+I’ve said that with a million to spend, I’d build fire-the-CEO decision markets, revolutionizing corporate accountability via a powerful demo that can inspire related projects.  But if my purpose was not to demo or develop the tech, or to generally improve society, but just to get the info that I personally and directly cared the most about, I’d instead make real-money combinatorial markets on the far future (say one to ten decades out).
+I’ve developed a combinatorial betting tech that lets a few or many users edit an always-coherent joint probability distribution over all value combinations of some set of base variables.  Far futures base variables might include the years of important tech milestones, population, wealth, or mortality values at particular future dates, etc.  Each user edit would be backed by a bet, a bet invested in assets paying competitive interest/returns.  This combo bet tech worked well in published lab tests, several firms have used it, and I’m now working with Consensus Point to deliver a robust commercial implementation.  More on the tech here, here, and here.
+Such markets could fend off fragmented far-thinking futurism in several ways
+
+Incentives Since bets change how much money your descendants (or maybe you) will have in the far future, betting puts you in a more practical frame of mind.  You would edit estimates with an eye more for realism, versus an inspiring story.  Yes incentives on far future bets can be much weaker than incentives on near term bets, but the relevant comparison is across mechanisms on the same topic, not across topics; it is just hard for any mechanism to give strong accuracy incentives on far future topics.
+
+title: Coherent Futures
+
+date: December 22, 2008 8:00 pm
+

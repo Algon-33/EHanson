@@ -1,0 +1,18 @@
+author: James Somers
+
+text: 
+Good teachers learn early on to tell stories wherever possible — it’s a lot easier to remember "that time Professor Jones got $300 off on a plane ticket" than "certain goods have high elasticity of demand in the short run." We’re hard-wired to think in terms of other conscious actors ("When Bill walked too close to the firepit…"), so it makes sense that anecdotes stick.
+ The problem is that in the process of anthropomorphizing, or anecdotalizing, or allegorizing, we can impute agency where it isn’t due. When we teach kids that "electrons follow the path of least resistance" or "genes want to survive," when we insist that there’s a Mother Nature or Father Christmas, we occlude understanding.
+ For instance, a friend of mine recently argued that future generations of humans will have no pinky toe because we have stopped using ours. Her faulty assumption was that Nature actually "selects" against what She perceives as unnecessary features, or even, that our bodies are trying to improve. She missed the fact that evolution, like every other blind, unconscious, and tasteless mechanism of the natural world, just is; whichever genes survive, survive. That’s what’s so impressive and important.
+  
+ Likewise, electrons don’t know where the resistors in a circuit will be, though thinking they do has obvious intuitive appeal. When I was in high school doing AP physics problems, I practically imagined myself at some fork in the road looking ahead to determine which path will have the least brush — 40 ohms v. 20 ohms worth — and I plodded along in the obvious direction. Again, I missed the important part: that an electron’s velocity and momentum is probabilistic and that resistors, in ways I still haven’t fully grasped, affect the distribution.
+ Of course, it’s possible to do the opposite: ignore living, breathing agents in favor of some cold "idea." Much of the history curriculum works like that. Instead of individuals arguing in salons there was "The Renaissance"; instead of little girls suffocating in overcrowded textile factories in a small town in Massachusetts there was a "Progressive Movement." Pamphlets and memoirs and speeches are abstracted into "isms", and kids look at history as a logical progression from one to the next.
+ I know I did. Until I got to college and saw professors struggling to get papers published and grad students politicking for funding, I thought the world of ideas was somehow stable and well-defined. At fault was my misguided conception of agency. I would say things like, "they’re working on a new way to…" or "scientists have figured out…" Now I know that "the latest study" is written by actual people, teams of finicky, farting humans working under all kinds of pressure and falling prey to trends and fads, just like me.
+ It’s not a long stretch to imagine that the American public would be reluctant to bestow so much power upon one man if they realized he was indeed a man. And a President would care more about his people if he saw them as such.
+So a measure of "agency awareness," either way, could be tremendously useful. We should all be wary when we see parents teaching their kids that some guy at the North Pole decides which presents they’re getting, rather than Mom and Dad’s paychecks and Wal-Mart’s prices. And equally disturbing should be our habit of erasing agency (like in history textbooks) in the name of testing standards. Though easy to ignore, the Who is as important as the What, the How, and the Why.
+
+
+title: The Agency Problem
+
+date: May 29, 2007 6:00 am
+

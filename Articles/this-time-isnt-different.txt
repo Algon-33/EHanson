@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+~1983 I read two articles that inspired me to change my career. One was by Ted Nelson on hypertext publishing, and the other by Doug Lenat on artificial intelligence. So I quit my U. of Chicago physics Ph.D. program and headed to Silicon Valley, for a job doing AI at Lockheed, and a hobby doing hypertext with Nelson’s Xanadu group.
+A few years later, ~1986, I penned the following parable on AI research:
+COMPLETE FICTION by Robin Hanson
+Once upon a time, in a kingdom nothing like our own, gold was very scarce, forcing jewelers to try and sell little tiny gold rings and bracelets. Then one day a PROSPECTOR came into the capitol sporting a large gold nugget he found in a hill to the west. As the word went out that there was “gold in them thar hills”, the king decided to take an active management role. He appointed a “gold task force” which one year later told the king “you must spend lots of money to find gold, lest your enemies get richer than you.”
+So a “gold center” was formed, staffed with many spiffy looking Ph.D types who had recently published papers on gold (remarkably similar to their earlier papers on silver). Experienced prospectors had been interviewed, but they smelled and did not have a good grasp of gold theory.
+The center bought a large number of state of the art bulldozers and took them to a large field they had found that was both easy to drive on and freeway accessible. After a week of sore rumps, getting dirty, and not finding anything, they decided they could best help the gold cause by researching better tools.
+So they set up some demo sand hills in clear view of the king’s castle and stuffed them with nicely polished gold bars. Then they split into various research projects, such as “bigger diggers”, for handling gold boulders if they found any, and “timber-gold alloys’, for making houses from the stuff when gold eventually became plentiful.
+After a while the town barons complained loud enough and also got some gold research money. The lion’s share was allocated to the most politically powerful barons, who assigned it to looking for gold in places where it would be very convenient to find it, such as in rich jewelers’ backyards. A few bulldozers, bought from smiling bulldozer salespeople wearing “Gold is the Future” buttons, were time shared across the land. Searchers who, in their alloted three days per month of bulldozer time, could just not find anything in the backyards of “gold committed” jewelers were admonished to search harder next month.
+The smart money understood that bulldozers were the best digging tool, even though they were expensive and hard to use. Some backward prospector types, however, persisted in panning for gold in secluded streams. Though they did have some success, gold theorists knew that this was due to dumb luck and the incorporation of advanced bulldozer research ideas in later pan designs.
+After many years of little success, the king got fed up and cut off all gold funding. The center people quickly unearthed their papers which had said so all along. The end.
+P.S. There really was gold in them thar hills. Still is.
+As you can see, I had become disillusioned on academic research, but still suffered youthful over-optimism on near-term A.I. prospects.
+I’ve since learned that we’ve seen “booms” like the one I was caught up in then every few decades for centuries. In each boom many loudly declare high expectations and concern regarding rapid near-term progress in automation. “The machines are finally going to soon put everyone out of work!” Which of course they don’t. We’ve instead seen a pretty slow & steady rate of humans displaced by machines on jobs.
+Today we are in another such boom. For example, David Brooks recently parroted Kevin Kelley saying this time is different because now we have cheaper hardware, better algorithms, and more data. But those facts were also true in most of the previous booms; nothing has fundamentally changed! In truth, we remain a very long way from being able to automate all jobs, and we should expect the slow steady rate of job displacement to long continue.
+One way to understand this is in terms of the distribution over human jobs of how good machines need to be to displace humans. If this parameter is distributed somewhat evenly over many orders of magnitude, then continued steady exponential progress in machine abilities should continue to translate into only slow incremental displacement of human jobs. Yes machines are vastly better than they were before, but they must get far more vastly better to displace most human workers.
+
+
+title: This Time Isn’t Different
+
+date: November 2, 2014 5:40 pm
+

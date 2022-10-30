@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+I’m a big fan of Nick Bostrom; he is way better than almost all other future analysts I’ve seen. He thinks carefully and writes well. A consistent theme of Bostrom’s over the years has been to point out future problems where more governance could help. His latest paper, The Vulnerable World Hypothesis, fits in this theme:
+Consider a counterfactual history in which Szilard invents nuclear fission and realizes that a nuclear bomb could be made with a piece of glass, a metal object, and a battery arranged in a particular configuration. What happens next? … Maybe … ban all research in nuclear physics … [Or] eliminate all glass, metal, or sources of electrical current. … Societies might split into factions waging a civil wars with nuclear weapons, … end only when … nobody is able any longer to put together a bomb … from stored materials or the scrap of city ruins. …
+The ​vulnerable world hypothesis​ [VWH] … is that there is some level of technology at which civilization almost certainly gets destroyed unless … civilization sufficiently exits the … world order characterized by … limited capacity for preventive policing​, … limited capacity for global governance.​ … [and] diverse motivations​. … It is ​not​ a primary purpose of this paper to argue VWH is true. …
+Four types of civilizational vulnerability. … in the “easy nukes” scenario, it becomes too easy for individuals or small groups to cause mass destruction. … a technology that strongly incentivizes powerful actors to use their powers to cause mass destruction. … counterfactual in which a preemptive counterforce [nuclear] strike is more feasible. … the problem of global warming [could] be far more dire … if the atmosphere had been susceptible to ignition by a nuclear detonation, and if this fact had been relatively easy to overlook …
+two possible ways of achieving stabilization: Create the capacity for extremely effective preventive policing.​ … and create the capacity for strong global governance. … While some possible vulnerabilities can be stabilized with preventive policing alone, and some other vulnerabilities can be stabilized with global governance alone, there are some that would require both. …
+It goes without saying there are great difficulties, and also very serious potential downsides, in seeking progress towards (a) and (b). In this paper, we will say little about the difficulties and almost nothing about the potential downsides—in part because these are already rather well known and widely appreciated.
+I take issue a bit with this last statement. The vast literature on governance shows both many potential advantages of and problems with having more relative to less governance. It is good to try to extend this literature into futuristic considerations, by taking a wider longer term view. But that should include looking for both novel upsides and downsides. It is fine for Bostrom to seek not-yet-appreciated upsides, but we should also seek not-yet-appreciated downsides, such as those I’ve mentioned in two recent posts.
+While Bostrom doesn’t in his paper claim that our world is in fact vulnerable, he released his paper at time when many folks in the tech world have been claiming that changing tech is causing our world to in fact become more vulnerable over time to analogies of his “easy nukes” scenario. Such people warn that it is becoming easier for smaller groups and individuals to do more damage to the world via guns, bombs, poison, germs, planes, computer hacking, and financial crashes. And Bostrom’s book Superintelligence can be seen as such a warning. But I’m skeptical, and have yet to see anyone show a data series displaying such a trend for any of these harms.
+More generally, I worry that “bad cases make bad law”. Legal experts say it is bad to focus on extreme cases when changing law, and similarly it may go badly to focus on very unlikely but extreme-outcome scenarios when reasoning about future-related policy. It may be very hard to weigh extreme but unlikely scenarios suggesting more governance against extreme but unlikely scenarios suggesting less governance. Perhaps the best lesson is that we should make it a priority to improve governance capacities, so we can better gain upsides without paying downsides. I’ve been working on this for decades.
+I also worry that existing governance mechanisms do especially badly with extreme scenarios. The history of how the policy world responded badly to extreme nanotech scenarios is a case worth considering.
+Added 8am:
+Kevin Kelly in 2012:
+The power of an individual to kill others has not increased over time. To restate that: An individual — a person working alone today — can’t kill more people than say someone living 200 or 2,000 years ago.
+Anders Sandberg in 2018:
+
+Plotting Dupuy’s Theoretical Lethality Index of weapons shows a nice (?) historical superexponential up to H-bombs… but the TLI per dollar makes AK47 and nukes on par, and the heavier weapons require big support teams. I have not found any strong trend in small actor damage.
+— Anders Sandberg (@anderssandberg) November 17, 2018
+
+Added 19Nov: Vox quotes from this article.
+
+
+title: Vulnerable World Hypothesis
+
+date: November 16, 2018 9:45 pm
+

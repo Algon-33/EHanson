@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+I’m often interested in subjects that fall between disciplines, or more accurately that intersect multiple disciplines. I’ve noticed that it tends to be harder to persuade people of claims in these areas, even when one is similarly conservative in basing arguments on standard accepted claims from relevant fields.
+One explanation is that people realize that they can’t gain as much prestige from thinking about claims outside their main discipline, so they just don’t bother to think much about such claims. Instead they default to rejecting claims if they see any reason whatsoever to doubt them.
+Another explanation is that people in field X more often accept the standard claims from field X than they accept the standard claims from any other field Y. And the further away in disciplinary space is Y, or the further down in the academic status hierarchy is Y, the less likely they are to accept a standard Y claim. So an argument based on claims from both X and Y is less likely to be accepted by X folks than a claim based only on claims from X.
+A third explanation is that people in field X tend to learn and believe a newspaper version of field Y that differs from the expert version of field Y. So X folks tend to reject claims that are based on expert versions of Y claims, since they instead believe the differing newspaper versions. Thus a claim based on expert versions of both X and Y claims will be rejected by both X and Y folks.
+These explanations all have a place. But a fourth explanation just occurred to me. Imagine that smart people who are interested in many topics tend to be contrarian. If they hear a standard claim of any sort, perhaps 1/8 to 1/3 of the time they will think of a reason why that claim might not be true, and decide to disagree with this standard claim.
+So far, this contrarianism is a barrier to getting people to accept any claims based on more than a handful of other claims. If you present an argument based on five claims, and your audience tends to randomly reject more than one fifth of claims, then most of your audience will reject your claim. But let’s add one more element: correlations within disciplines.
+Assume that the process of educating someone to become a member of discipline X tends to induce a correlation in contrarian tendencies. Instead of independently accepting or rejecting the claims that they hear, they see claims in their discipline X as coming in packages to be accepted or rejected together. Some of them reject those packages and leave X for other places. But the ones who haven’t rejected them accept them as packages, and so are open to arguments that depend on many parts of those packages.
+If people who learn area X accept X claims as packages, but evaluate Y claims individually, then they will be less willing to accept claims based on many Y claims. To a lesser extent, they also reject claims based on some Y claims and some X claims.
+Note that none of these explanations suggest that these claims are actually false more often; they are just rejected more.
+
+
+title: Disciplines As Contrarian Correlators
+
+date: April 1, 2015 8:25 am
+

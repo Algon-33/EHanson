@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Another important bias in academic consensus is overconfidence.  Even in the hardest of hard science, Henrion and Fischhoff showed in 1986 (ungated for now here) that published error estimates for fundamental constants of physics were seriously overconfident.   Looking at 306 estimates for particle properties, 7% were outside of a 98% confidence interval (where only 2% should be).   In seven other cases, each with 14 to 40 estimates, the fraction outside the 98% confidence interval ranged from 7% to 57%, with a median of 14%.  
+Last week’s New Scientist described a dramatic example with policy implications (ungated for now here):
+
+In July 1971, Stephen Schneider, a young American climate researcher at NASA’s Goddard Space Flight Center in New York, made headlines in The New York Times when he warned of a coming cooling that could "trigger an ice age". … The US National Academy of Sciences reported "a finite probability that a serious worldwide cooling could befall the Earth within the next 100 years". … It is often claimed today that the fad for cooling was a brief interlude propagated by a few renegade researchers or even that the story is a myth invented by today’s climate sceptics. It wasn’t. There was good science behind the fears of global cooling.  …  
+All this raises an alarming question. If climatologists were so wrong then, why should we believe them now? As those who played a part in the cooling scare now readily admit, those early studies were based on flimsy data collected by very few, often young, researchers. In 1971, when Schneider’s paper appeared, he was instantly regarded as a world expert. It was his first publication.  Today, vastly more research has been done into how and why climate changes. The consensus on warming is much bigger, much broader, much more sophisticated in its science and much longer-lasting than the spasm of concern about cooling.
+
+This is too pat an answer.  Yes, we have more data now, but the issue is our tendency to claim more than our data can support.  I’m not saying global warming is wrong, just that we should be less confident than academics suggest.   
+
+
+title: Academic Overconfidence
+
+date: December 26, 2006 6:00 am
+

@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+I made a list of 44 possibly important future areas, and just did 22 Twitter polls (with N from 379 to 1178), each time asking this question re 4 areas:
+Over next 30 years, changes in which are likely to matter most?
+I fit the answers to a simple model wherein respondents either pick randomly (~26% of time) or pick in proportion to each area’s (non-negative) “strength”. Here are the estimated area strengths, relative to the strongest set to 100:
+
+Some comments:
+
+The area with the largest modeling error is migration, so politics may be messing that up.
+Governance mechanisms looks surprisingly strong, especially relative to its media attention.
+The top 7 areas hold half the total strength, and there’s a big drop to #8. ~20% is in automation, AGI, and self-driving cars.
+19 areas have strengths lying within about the same factor of two. So many things seem important.
+Relative to these strength ratings, it seems to me that media focus is only roughly correlated. Media seems disproportionately focused on areas involving more direct social conflict.
+Areas add roughly linearly. For example, biotech arguably includes life extension, meat, and materials, and pandemics, and its strength is near their strength sum.
+
+
+
+title: What Future Areas Matter Most?
+
+date: August 1, 2020 2:40 pm
+

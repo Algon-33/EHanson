@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Tyler on Dan Carpenter’s new book Reputation and Power:
+This book … is the most comprehensive and most detailed study of a regulatory agency written — ever. … It will prove a model for future investigations.  … The starting point is the notion of reputational capital and the claim that the FDA seeks to preserve and extend its reputation, for a variety of political reasons. … The framework is then used to address numerous questions, including the following … The author makes a strong case that the FDA is one of the most powerful and most important regulatory agencies in the world. … This is not mainly a partisan book in one direction or the other, though on net I read the author as wishing to see a stronger FDA.
+I just skimmed the book for a few hours and attended a talk by and Q&A with Carpenter.  The book is indeed impressively detailed, but it goes out of its way to avoid the key policy questions: whether US drug regulation is overall too strong or weak, whether regulators have too much or little discretion, etc.  He mainly talked about what did happen, not about what should have happened.
+While Carpenter is not without criticisms of the FDA, he seems to overall approve, and even fawn at times.  Carpenter is especially impressed that the FDA become known and respected for introducing a “scientific” approach to regulation, that the FDA had the world’s best drug scientists for a while, that most other nations now mimic its approach, and that a few regulators acquired great discretion to control a big powerful industry.
+It seems to me that the FDA’s rare “reputation” that so impresses Carpenter was not for doing well at trading off social costs and benefits of regulation, but was instead a reputation for scientific prestige. Many folks care far more that the FDA exalted scientists, and that the US gained prestige via its prestigious scientists, than whether this regulatory regime was too strict or weak in terms of trading harm, health, and costs for US citizens.
+Similarly, Carpenter himself will now be the academic go-to guy on the FDA for the next generation.  Whenever folks want advice on FDA changes or on related regulation of other industries, he’ll be invited to speak.  It doesn’t matter that he went out of his way to avoid such issues in his book – he showed at his Q&A that he is quite willing to offer such advice anyway. Those who seek academic advisors mainly want to affiliate with the most impressive related academics available; they don’t care if such advisors haven’t demonstrated expertise specifically on their policy question.  Being the big FDA academic will be quite enough.
+
+
+title: Regulator Status
+
+date: June 9, 2010 10:30 pm
+

@@ -1,0 +1,83 @@
+author: Eliezer Yudkowsky
+
+text: 
+How can we obtain beliefs closer to reality?
+Over the last several decades, new research has changed science’s picture of how we succeed or fail to seek the truth.  The heuristics and biases program, in cognitive psychology, has exposed dozens of major flaws in human reasoning.  Microeconomics, through the power of statistics, has shown that many facets of society don’t work the way we thought.
+Overcoming Bias aims to bring the implications home.  We want to avoid, or at least minimize, the startling systematic mistakes that science is discovering.  If we know the common patterns of error or self-deception, maybe we can work around them ourselves, or build social structures for smarter groups.  We know we aren’t perfect, and can’t be perfect, but trying is better than not trying.
+We blog life through the lens of the cognitive sciences:  Cognitive psychology, evolutionary psychology, microeconomics, applied statistics, social psychology, probability and decision theory, even a bit of Artificial Intelligence now and then.
+Overcoming Bias is brought to you by the Future of Humanity Institute at Oxford University, neither of which necessarily endorse any views expressed here.  Copyright is retained by each author.
+Less Wrong:
+Our sister site Less Wrong has threaded comments and voting on posts and comments.  Anyone can post at Less Wrong after reaching 20 karma (20 net upvotes on their comments); selected posts are promoted by the editors.
+
+Comments:
+
+Anyone can comment at Overcoming Bias.  Spam and trollers may be removed or banned.  Comments should be polite, on topic, and short.  We have Open Threads, posted once a month, for general discussion; longer comments are acceptable there.
+Commenting frequency:  A good rule of thumb is that your name should not appear more than two times in the 10 most recent comments, as shown on the right sidebar.  Three times is acceptable on very rare occasions.  Four times, never.
+
+Contributions:
+
+To be considered as a poster on Overcoming Bias, send a link to a thoughtful essay on our topics (published elsewhere is fine) to rhanson@gmu.edu, and a quick description of what you would like to post on initially.  You don’t have to post with any particular frequency, but your posts must be approved to appear.  To avoid wasting your time, check your topic before writing.  Please bear in mind that we don’t always have time to explain why a topic is not appropriate.  Be ready to accept a simple “No.”
+Ideal posts are short, direct, have a clear thesis, and clear support such as a real-life example, a quote, an analysis, or a pointer to longer treatment.  Extra points for thoughtful conversation among the contributors.  We don’t shy from controversy, and we don’t want tangential flamebait.  At least half your posts should be accessible to a wide audience.
+The sidebar shows all Contributors who have made at least three posts on Overcoming Bias.
+
+Editors:
+
+Robin Hanson:  A tenured professor of economics at George Mason University.  A father of prediction and decision markets, his interests include: the rationality of paternalism and other kinds of disagreement; explaining medical puzzles, such as the generally low health value of medicine; and the social impacts of future technology.  Posts Mondays, Wednesdays, and Fridays.
+Eliezer Yudkowsky:  A research fellow of the Singularity Institute.  His mid-long-term research goal is a rigorous theory of reflection in self-modifying decision systems.  His long-long-term goal is to build an AI, and his short-term goal is to write a book about rationality.  Yudkowsky’s posts often have dependencies on his previous posts; see here for help navigating.  Currently posts daily.  [As of March 2009, Eliezer’s posts are appearing on Less Wrong.]
+
+Favorite posts:
+
+
+
+
+   Robin Hanson:
+   Eliezer Yudkowsky:
+
+
+Policy Tug-O-War
+Politics is the Mind-Killer 
+
+
+Against Free Thinkers
+Planning Fallacy
+
+
+Agree with Yesterday’s Duplicate
+Tsuyoku Naritai
+
+
+RAND Health Insurance Experiment
+Feeling Rational
+
+
+Conspicuous Consumption of Info
+Belief in Belief
+
+
+Follow Your Passion, From a Distance
+Universal Fire
+
+
+Even When Contrarians Win, They Lose
+Absence of Evidence Is Evidence of Absence
+
+
+Beware Heritable Beliefs
+Evolutions Are Stupid (But Work Anyway)
+
+
+Expert At Versus Expert On
+Lost Purposes
+
+
+Are the Self-Righteous Righteous?
+Semantic Stopsigns
+
+
+
+
+
+title: Welcome to Overcoming Bias!
+
+date: December 9, 2007 12:20 am
+

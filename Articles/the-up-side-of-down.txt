@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+In her new book, The Up Side of Down: Why Failing Well Is the Key to Success, Megan McArdle takes some time to discuss forager vs. farmer attitudes toward risk.
+Forager food sources tended to be more risky and variable, while farmer food sources are more reliable. So foragers emphasized food sharing more, and a tolerate attitude toward failure to find food. In contrast, farmers shared food less and held individuals responsible more for getting their food. We’ve even seen the same people switch from one attitude to the other as they switched from foraging to farming. Today some people and places tend more toward farmer values of strict personal responsibility, while other people and places tend more toward forager forgiveness.
+McArdle’s book is interesting throughout. For example, she talks about how felons on parole are dealt with much better via frequent reliable small punishments, relative to infrequent random big punishments. But when it comes to bankruptcy law, a situation where the law can’t help but wait a long time to respond to an accumulation of small failures, McArdle favors forager forgiveness. She points out that this tends to encourage folks who start new businesses, which encourages more innovation. And this does indeed seem to be a good thing.
+Folks who start new businesses are pretty rare, however, and it is less obvious to me that more leniency is good overall. It is not obvious that ordinary people today face more risk than did most farmers during the farming era. The US apparently has the most lenient bankruptcy law in the world, and that is indeed some evidence for its value. However, it seems to me more likely that US forager forgiveness was caused by US wealth than vice versa. McArdle says the US got lenient bankruptcy in the late 1800s via lobbying by senators representing western farmers in debt to eastern banks. And it is even harder to see how farming in the US west then was more risky than has been farming throughout the whole farming era.
+Most likely what changed was the wealth of US farmers, and their new uppity attitudes toward rich elites. This fits with debt-forgiveness being a common liberal theme, which fits with liberal attitudes being more forager-like, and becoming more common as rising wealth cut the fear that made farmers. If lenient bankrupts is actually better for growth in our world, this would be another example of Caplan’s idea trap, where rising wealth happens to create better attitudes toward good policy.
+Overall I found it very hard to disagree with anything that McArdle said in her book. If you know me, that is quite some praise. 🙂
+Added 2May: The fact that most farmer cultures were clannish may be part of an explanation here. The strict farmer morality is mostly about how to deal with outsiders, distant from your immediate family. The clan is punished severely, but it is usually more forgiving internally. If farmer clans had lower risk than do isolated families today, that could be a reason to have more forgiving bankruptcy law today.
+
+
+title: The Up Side Of Down
+
+date: April 19, 2014 9:50 am
+

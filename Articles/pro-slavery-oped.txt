@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Imagine my surprise to read a pro-“slavery” Post oped:
+Imagine a kid from rural Montana who, after scoring high on the SAT, has investors clamoring to finance his college education. … 17 percent … That’s the astronomical potential return on investment of educational intervention on young children, according to the Nobel laureate economist James Heckman. …
+Consider … A mother works two jobs, dropping her toddler off at a friend’s house early each morning and picking her up late at night. The mother can’t afford high-quality child care and, because of that, statistics show, years from now that child will be more likely to repeat grades, become pregnant while a teenager, commit crime, visit the emergency room and depend on welfare. …
+If [the toddler] could sell a percentage of her future income in exchange for a coupon to receive child care and if the government offered tax credits to investors to compensate them for the decreased social cost that they finance, investors might compete to pay for her education. …
+Of course, daunting logistical and moral questions would have to be answered. But before we rule out this proposal on logistical or moral grounds, let us also consider the millions of Americans who will suffer inequity and injustice as a result of our inaction.
+If we allowed this, observers would happily laud the initial influx of money to these kids and their families.  But a few decades later, many would complain loudly about the “exploitative” and even “racist” extra “tax” these kids must pay as adults.  Media coverage would focus on those who sold the largest fraction of their future income and made the worst educational investments, becoming a new “slave underclass” of “company town” parents who feel they can’t afford to raise kids without selling off most of those kids’ future.
+Even so, I’d accept this outcome as an improvement over the status quo.  I question the assumption that the net education externality is positive rather than negative, but types of “slavery” can indeed be efficient, and good, even a Pareto improvement.  But I’d be reluctant to be an long-term investor, fearing that later political pressure would be irresistible to “free” these “slaves” from their payment obligations.  In the meantime, however, liquid markets in income shares could be a great basis for many interesting prediction markets.
+Added: Parents now have great discretion to choose the city and nation where their kids reside, who schools their kids, the language, religion, and culture kids will learn, and kids habits of housekeeping, etc.   These choices greatly constrain and influence the future options available to those kids.  I don’t yet see a good clear principle (besides “the status quo is best”) that endorses these discretions, but forbids parents to choose kid debt levels or equity shares.
+Added 7June: I am especially interested in this issue because of its close relation to the whole brain emulation I have discussed before (here and here).  Note that the em case seems easier since em copies would be adults immediately, and should be very good at estimating each others’ preferences.
+
+
+title: Pro “Slavery” OpEd
+
+date: June 6, 2009 3:15 pm
+

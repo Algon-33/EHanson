@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+I should have reported on this Snowberg-Wolfers paper long ago:
+[A] longstanding empirical regularity is that betting odds provide biased estimates of the probability of a horse winning|longshots are overbet, while favorites are underbet. Neoclassical explanations focus on rational gamblers who overbet longshots due to risk-love. The competing behavioral explanations emphasize the role of misperceptions of probabilities. We provide novel empirical tests that can discriminate between these competing theories … Using a new, large-scale dataset ideally suited to implement these tests we find evidence in favor of the view that misperceptions of probability drive the favorite-longshot bias, as suggested by Prospect Theory. Along the way we provide more robust evidence on the favorite-longshot bias, falsifying the conventional wisdom that the bias is large enough to yield profit opportunities (it isn't) and that it becomes more severe in the last race (it doesn't).
+Of course we implicitly underestimate odds for events of which we aren't explicitly aware.  So it is not so much that we overestimate odds for low probability events, as that we overestimate odds for low probability events to which betting markets give unusual attention.  Combinatorial betting markets should greatly reduce this problem, as every high probability event is then composed of many low probability events, all of which are available for betting.
+
+
+title: The Longshot Bias
+
+date: December 24, 2008 6:00 am
+

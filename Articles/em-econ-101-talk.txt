@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Here are slides and audio from my Friday talk. The abstract again:
+Em Econ 101 – My best guess for the next revolution on the scale of the industrial, or farming, or human revolutions, is artificial intelligence in the form of whole brain emulations, or “ems.” Many have considered ems from technical and philosophical viewpoints, but I consider em economics. That is, I try to work out in as much social detail as possible a relatively-likely reference scenario set modestly far into a post-em world.
+Halycon had a very high quality audience – it was a special pleasure to speak there. The talk was also filmed – I’ll post that here if/when there is a link.
+
+
+title: Em Econ 101 Talk
+
+date: April 10, 2012 11:25 am
+

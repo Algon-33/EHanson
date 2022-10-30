@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Digital video recorders don’t reduce the (possibly zero) effect of ads.
+For years, digital video recorders like TiVo, which give viewers the option to skip commercials, have had  television advertisers worried.  But a study … rebuts the conventional wisdom that the recorders (DVRs) dampen sales. … Matching … each household’s shopping history one year before and two years after the TiVo’s arrival, the researchers found no effect on the purchase of advertised brands, even among those who used DVRs the most.  (UofC Magazine Jan’11p25; the study)
+Remember: the usual empirical result when people study “how does A influence B” is “no effect.”
+
+
+title: No DVR Ad Effect
+
+date: January 30, 2011 12:00 pm
+

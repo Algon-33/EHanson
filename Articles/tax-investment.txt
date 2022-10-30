@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Michael Blume recently reminded me of a point I made eleven years ago.  At the time it seemed too obvious to be original, but now I’m not so sure.  So let me point out an important negative investment externality:
+Raising the long term real interest rate results not only in dropping poor investment projects, whose rates of return are lower than the new rate, it also causally increases the long term rate of return of all better investments, those that would have been undertaken anyway.
+This is a huge market failure, due to a lack of property rights in long term investment prospects, as I explain below.  If it were the only investment externality, then free market interest rates would be too low.  This externality is countered, [edit: complicated] however, by a legal failure due to our choosing not to enforce all feasible long term contracts, especially with the dead:
+Large legal barriers now hinder us from making deals with the far future, and from saving today to benefit them.  We do not enforce many kinds of terms in wills, and charities are required to spend a certain fraction of their capital each year, to prevent their endowments from growing large.
+Given this overall situation, the obvious policy prescription is:
+
+Enforce all feasible long term contracts, and
+Artificially raise global interest rates, e.g., tax investment.
+
+The first policy can be implemented locally, but second seems to require global coordination – an extra local tax may on net hurt that locality.   So without a world government we may never implement this second policy.
+Regarding the source of the problem, here is my old argument:
+A lack of long-term property rights in most investment projects means that returns above the market rate are burned up an a race to be first.
+There are, in fact, very few long-term property rights regarding the right to undertake investment projects. Think of developing a new kind of car, colonizing the moon, developing specialized CAD software, or making a movie with a certain kind of gimmick. Each such project requires various forms of capital, such as machines or skilled labor. While in the short term only one investor may have the rights to tackle a given project, in the long term many competing investors could have positioned themselves to have this short-term opportunity.
+For example, Microsoft’s dominant position in PC operating systems now gives it the right to many very attractive investments. But there was once an open race to become the dominant operating system, and competitors then tried harder because of the prospect of later high returns. And when deciding whether to enter this earlier race and how hard to try, investors mainly wondered if they could get a competitive rate of return. Similarly, while one group now has the right to make the next Batman movie sequel, there have long been open contests to create popular movie series, and popular comic strips.
+Consider a typical as-yet-untried investment project, becoming more and more attractive with time as technology improves and the world market grows larger. If there wasn’t much point in attempting such a project very long after other teams tried, then a race to be first should make sure the project is attempted near when investors first expect such attempts to produce a competitive rate of return. This should happen even if the project returns would be much greater if everyone waited longer. The extra value the project would have if everyone waited is burned up in the race to do it first.
+Thus most of the return above the market return … should be burned up, leaving the average return at about the market return.
+Of course some of the wasted effort to invest too early will produce positive innovation externalities.  But it seems wishful thinking to expect this to completely negate the earliness waste.
+
+
+title: Tax Investment
+
+date: August 11, 2009 6:00 am
+

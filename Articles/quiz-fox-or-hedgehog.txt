@@ -1,0 +1,34 @@
+author: Hal Finney
+
+text: 
+I read a great book a few months ago that provides insight into the nature of bias and error.  It is Expert Political Judgement, by Philip E. Tetlock. One of Tetlock’s discoveries is that there is a significant correlation between expert prediction accuracy and a cognitive style measure introduced by Isaiah Berlin called "fox" vs "hedgehog". Below the fold I go into more detail on this distinction and present a quiz you can take to determine whether you are Fox or Hedgehog.
+  
+Tetlock is Professor of Leadership at UC Berkeley, with a background in psychology and political science.  He ran an experiment for many years from the 80s through the early 2000s in which he invited experts on foreign affairs and political science to make predictions about political and economic trends in countries around the world.  Tetlock tracked and evaluated those predictions, developing a large database of both accurate and inaccurate predictions.  He then analyzed it in various ways to find out how accurate the experts were overall, how they compared to other kinds of predictions, and what psychological and social factors influenced expert accuracy.  These results are what make up the book.
+There’s meat here for people coming to the book with a variety of interests and needs, but I will focus on the pragmatic question of what factors influence accuracy, with the hope that learning more about these influences can help us to improve the accuracy of our own predictions and analyses.
+One of the psychological measures or metrics which Tetlock found was well correlated with expert accuracy goes back to a distinction introduced by Isaiah Berlin in his book, The Hedgehog and the Fox. I haven’t read that book, but based on Tetlock’s presentation, Berlin distinguished between two cognitive styles to which he gave these colorful names.  The hedgehog is said to know one thing and know it well.  He sees events and trends in terms of his big idea, and aggressively extends it into new realms.  Hedgehogs tend to be confident in the applicability of their fundamental concepts and impatient with those who "do not get it".
+Foxes in contrast know many small things which they bring to bear in their analyses in a dynamical and flexible way.  They tend to be uncertain and flexible, "on the other hand" types who are skeptical about their own predictive ability and in fact about the whole enterprise of making predictions in such an intractable realm.
+To build suspense, I will not say, yet, which cognitive style was found to be more successful in Tetlock’s experiments.  Instead I will offer Tetlock’s test, from the appendix, along with his scoring methodology used to measure where people stand on the Fox-Hedgehog continuum.  You can take it yourself to decide whether you are Fox or Hedgehog.  In a day or two I will post some of Tetlock’s results as to how the two kinds of experts differed in the success of their predictions.
+Here are Tetlock’s questions, which I have converted to a point value, rescaling his weightings which came from factor analysis.  If you agree, give yourself that many points, and if you disagree, give yourself the negative of that many points.  Note that some of the questions have a negative point value, so for those you subtract from your score if you agree, and add to your score (make it more positive) if you disagree.
+
+(7 points) Isaiah Berlin classified intellectuals as hedgehogs or foxes.  The hedgehog knows one bit thing and tries to explain as much as possible within that conceptual framework, whereas the fox knows many small things and is content to improvise explanations on a case-by-case basis.  I place myself towards the hedgehog or fox end of this scale. [Note, I think Tetlock meant to give yourself the +7 points if you think you are a fox, and the -7 if you think you are a hedgehog.]
+(-3 points) Scholars are usually at greater risk of exaggerating how complex the world is than they are of underestimating how complex it is.
+(-5 points) We are closer than many think to achieving parsimonious explanations of politics
+(4 points) I think politics is more cloudlike than clocklike ("cloudlike" meaning inherently unpredictable; "clocklike" meaning perfectly predictable if we have adequate knowledge).
+(-5 points) The more common error in decision making is to abandon good ideas too quickly, not to stick with bad ideas too long.
+(-2 points) Having clear rules and order at work is essential for success.
+(5 points) Even after I have made up my mind about something, I am always eager to consider a different opinion.
+(-6 points) I dislike questions that can be answered in many different ways.
+(-4 points) I usually make important decisions quickly and confidently.
+(5 points) When considering most conflict situations, I can usually see how both sides could be right.
+(-3 points) It is annoying to listen to someone who cannot seem to make up his or her mind.
+(4 points) I prefer interacting with people whose opinions are very different from my own.
+(1 point) When trying to solve a problem I often see so many options that it is confusing.
+
+As noted above, compute your score by adding the point values for the questions where you agree, and subtracting the points (keeping in mind that subtracting a negative means adding) for the questions where you disagree.  Possible scores range from -54 to 54, with negative scores indicating that you are a hedgehog while positive scores mean you are a fox.  The farther the score from zero, the more clearly you fall into the category and the more applicable results based on this cognitive analysis are likely to be for you.
+Go ahead and take the test, see if you are a fox or a hedgehog, and I’ll post more shortly describing how these cognitive styles fared in Tetlock’s data.
+
+
+title: Quiz: Fox or Hedgehog?
+
+date: November 21, 2006 12:45 am
+

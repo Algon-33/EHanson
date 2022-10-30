@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Me in ’09:
+Physicists have long considered [thermodynamics] the physics area least likely to be overturned by future discoveries, in part because they understand it so well via “statistical mechanics.”  Alas, not only are we far from understanding thermodynamics, the situation is much worse than most everyone admits! (more; related posts)
+Many hope the theory of inflation can solve this, by predicting that a universe like ours would arise naturally out of “chaos.” But in the April Scientific American, Paul Steinhardt, a major contributor to inflationary theory, says:
+Something peculiar has happened to inflationary theory in the 30 years since Guth introduced it. As the case for inflation has grown stronger, so has the case against. … Not only is bad inflation more likely than good inflation, but no inflation is more likely than either. University of Oxford physicist Roger Penrose first made this point in the 1980s. … Obtaining a flat universe without inflation is much more likely than with inflation — by a factor of 10 to the googol (10100) power! …
+Many leading theorists argued that the problems with inflation are mere teething pains and should not shake our confidence in the basic idea. Others (including me) contended that the problems cut to the core of the theory, and it needs a major fix or must be replaced. (more)
+Sean Carrol’s latest post reaffirms the point:
+Imagine that you want to wait long enough to see something like the Big Bang fluctuate randomly out of empty space. How will it actually transpire? It will not be a sudden WHAM! in which nothingness turns into the Big Bang. Rather, it will be just like the observed history of our universe — just played backward. A collection of long-wavelength photons will gradually come together; radiation will focus on certain locations in space to create white holes; those white holes will spit out gas and dust that will form into stars and planets; radiation will focus on the stars, which will break down heavy elements into lighter ones; eventually all the matter will disperse as it contracts and smooths out to create a giant Big Crunch. Along the way people will un-die, grow younger, and be un-born; omelets will convert into eggs; artists will painstakingly remove paint from their canvases onto brushes. Now you might think: that’s really unlikely. And so it is! But that’s because fluctuating into the Big Bang is tremendously unlikely. (more)
+We are not remotely close to having a reasonable account for the incredibly low entropy we seem to see in our past.
+
+
+title: Still Scandalous Heat
+
+date: August 3, 2011 3:00 pm
+

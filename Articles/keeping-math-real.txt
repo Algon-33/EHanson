@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+John von Neumann:
+
+As a mathematical discipline travels far from its empirical source, or still more, if it is a second and third generation only indirectly inspired by ideas coming from "reality" it is beset with very grave dangers. It becomes more and more purely aestheticizing, more and more purely I’art pour I’art. This need not be bad, if the field is surrounded by correlated subjects, which still have closer empirical connections, or if the discipline is under the influence of men with an exceptionally well-developed taste. But there is a grave danger that the subject will develop along the line of least resistance, that the stream, so far from its source, will separate into a multitude of insignificant branches, and that the discipline will become a disorganized mass of details and complexities. In other words, at a great distance from its empirical source, or after much "abstract" inbreeding, a mathematical subject is in danger of degeneration. At the inception the style is usually classical; when it shows signs of becoming baroque, then the danger signal is up. (from "The Mathematician")
+
+ This warning is rather similar to Gordon Tullock’s.   HT to Jeff Helzner. 
+
+
+title: Keeping Math Real
+
+date: May 5, 2008 6:00 am
+

@@ -1,0 +1,31 @@
+author: Robin Hanson
+
+text: 
+When I showed Bryan Caplan an early draft of my book, his main concern was that I didn’t focus enough on humans, as he doesn’t think robots can be conscious. In his first critical post, he focused mainly on language and emphasis issues. But he summarized “the reasoning simply isn’t very rigorous”, and he gave 3 substantive objections:
+The idea that the global economy will start doubling on a monthly basis is .. a claim with a near-zero prior probability. ..
+Why wouldn’t ems’ creators use the threat of `physical hunger, exhaustion, pain, sickness, grime, hard labor, or sudden unexpected death’ to motivate the ems? .. `torturing’ ems, .. why not?” ..
+Why wouldn’t ems largely be copies of the most “robot-like” humans – humble workaholics with minimal personal life, content to selflessly and uncomplainingly serve their employers?
+He asked me direct questions on my moral evaluation of ems, so I asked him to estimate my overall book accuracy relative to the standard of academic consensus theories, given my assumptions. Caplan said:
+The entire analysis hinges on which people get emulated, and there is absolutely no simple standard academic theory of that. If, as I’ve argued, we would copy the most robot-like people and treat them as slaves, at least 90% of Robin’s details are wrong.
+Since I didn’t think how docile are ems matters that much for most of my book, I challenged him to check five random pages. Today, he reports back:
+Limiting myself to his chapters on Economics, Organization, and Sociology, [half of the book’s six sections] .. After performing this exercise, I’m more inclined to say Robin’s only 80% wrong. .. My main complaint is that his premises about em motivation are implausible and crucial.
+Caplan picked 23 quotes from those pages. (I don’t know how picked; I count ~35 claims.) In one of these (#22) he disputes the proper use of the word “participate”, and in one (#12) he says he can’t judge.
+In two more, he seems to just misread the quotes. In #21, I say taxes can’t discourage work by retired humans, and he says but ems work. In #8 I say if most ems are in the few biggest cities, they must also be in the few biggest nations (by population). He says there isn’t time for nations to merge.
+If I set aside all these, that leaves 19 evaluations, out of which I count 7 (#1,4,9,13,17,19,20) where he says agree or okay, making me only 63% wrong in his eyes. Now lets go through the 12 disagreements, which fall into five clumps.
+In #6, Caplan disagrees with my claim that “well-designed computers can be secure from theft, assault, and disease.” On page 62, I had explained:
+Ems may use technologies such as provably secure operating system kernels (Klein et al. 2014), and capability-based secure computing systems, which limit the powers of subsystems (Miller et al. 2003).
+In #5, I had cited sources showing that in the past most innovation has come from many small innovations, instead of a few big ones. So I said we should expect that for ems too. Caplan says that should reverse because ems are more homogenous than humans. I have no idea what he is thinking here.
+In #3,7, he disagrees with my applying very standard urban econ to ems:
+It’s not clear what even counts as urban concentration in the relevant sense. .. Telecommuting hasn’t done much .. why think ems will lead to “much larger” em cities? .. Doesn’t being a virtual being vitiate most of the social reasons to live near others? ..
+But em virtual reality makes “telecommuting” a nearly perfect substitute for in-person meetings, at least at close distances. And one page before, I had explained that “fast ems .. can suffer noticeable communication delays with city scale separations.” In addition, many ems (perhaps 20%) do physical tasks, and all are housed in hardware needing physical support.
+In #2,23, Caplan disagrees with my estimating that the human fraction of income controlled slowly falls, because he says all ems must always remain absolute slaves; “humans hold 100% of wealth regardless .. ems own nothing.”
+Finally, half of his disagreements (#10,11,14,15,16,18) stem from his seeing ems them as quite literally “robot-like”. If not for this, he’d score me as only 31% wrong. According to Caplan, ems are not disturbed by “life events”, only by disappointing their masters. They only group, identify, and organize as commanded, not as they prefer or choose. They have no personality “in a human sense.” They never disagree with each other, and never need to make excuses for anything.
+Remember, Caplan and I agree that the key driving factor here is that a competitive em world seeks the most productive (per subjective minute) combinations of humans to scan, mental tweaks and training methods to apply, and work habits and organization to use. So our best data should be the most productive people in the world today, or that we’ve seen in history. Yet the most productive people I know are not remotely “robot-like”, at least in the sense he describes above. Can Caplan name any specific workers, or groups, he knows that fit the bill?
+In writing the book I searched for literatures on work productivity, and used many dozens of articles on specific productivity correlates. But I never came across anything remotely claiming “robot-like” workers (or tortured slaves) to be the most productive in modern jobs. Remember that the scoring standard I set was not personal intuition but the consensus of the academic literature. I’ve cited many sources, but Caplan has yet to cite any.
+From Caplan, I humbly request some supporting citations. But I think he and I will make only limited progress in this discussion until some other professional economists weigh in. What incantations will summon the better spirits of the Econ blogosphere?
+
+
+title: Caplan Audits Age of Em
+
+date: June 24, 2016 3:45 pm
+

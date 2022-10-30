@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+We should realize that we gain far less info in an echo chamber than from being around folks with diverse views.  The latest Journal of Experimental Psychology says we just don't get this:  
+The experimental task involved estimating the number of calories in measured quantities of different foods (e.g., a cup of yogurt, a bowl of cooked rice). … Participants were asked to generate a calorie estimate for each food and then indicate their confidence in it. … [Then] they were provided with the opinions of three advisors, and were given the opportunity to revise their initial estimates. They were told that they would receive a bonus for making accurate judgments, … [and] were also asked to indicate their confidence in their final (revised) estimates and to bet on their accuracy.  …
+
+title: Echo Chamber Confidence
+
+date: March 25, 2009 6:00 am
+

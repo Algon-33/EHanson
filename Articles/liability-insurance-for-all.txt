@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The world’s first modern limited liability law was enacted by the state of New York in 1811. In England … investors in such companies carried unlimited liability until the Limited Liability Act of 1855. There was a degree of public and legislative distaste for a limitation of liability, with fears that it would cause a drop in standards of probity. … Limited liability has been justified as promoting investment and capital formation by reassuring risk averse investors. … Others argue that while some limited liability is beneficial, the privilege ought not to extend to liability in tort for environmental disasters or personal injury. (more)
+General Liability Insurance: Every business, even if home-based, needs to have liability insurance. The policy provides both defense and damages if you, your employees or your products or services cause or are alleged to have caused Bodily Injury or Property Damage to a third party. (more)
+If a court finds you guilty and demands that you pay, you are on the hook to pay everything you’ve got. Same for most small businesses. But investors in big firms instead get to play “heads I win, tails we flip again”. If the firm does well they can win cash, but if the firm behaves badly, the court can only take what they’ve put into the firm. That is, the court can extract money that is in the firm, but can’t push further to get more from investors. This usually doesn’t sit well those inclined toward suspicion of big firms; why subsidize big for-profit firms relative to other forms of social organization?
+The usual argument for limited liability is that without it investors would be reluctant to invest. Which makes sense and plausibly explains the initial introduction of limited liability. But that happened before the rise of the modern insurance industry. Now that insurance is easy, the obvious solution is liability insurance. Then in case of a court demanding a large payment, the insurance company pays, and the investors are insulated. Small businesses today typically buy such insurance as a matter of good practice, and many contracts with other businesses require them to have it.
+Today we require auto accident liability insurance for car drivers. And recently some have proposed requiring gun owners to have liability insurance regarding their gun use. Insurers would then discourage risky people from owning guns, and help others reduce their risk. But many gun owners see this as a back hand way to tax guns; why should guns be singled out relative to lots of other risky products?
+Yes, if we require liability insurance for some products and organizations but not others, we are implicitly subsidizing and taxing some relative to others. The obvious simple solution is to require everyone to get liability insurance for everything. The insurance could stand ready to pay the 99th percentile amount demanded of that sort of person or organization. Then we aren’t favoring any particular activity or organization type. And then some new interesting reforms become possible.
+
+
+title: Liability Insurance For All
+
+date: May 2, 2019 6:00 pm
+

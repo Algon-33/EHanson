@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Men are famously more overconfident in war, in investments, in choosing firm projects, in their performance as managers (but not auditors), as math and econ students, and about their IQ. But these are traditional male areas (i.e., abilities expected more of men in traditional societies). I suspect, however, that women tend to be more overconfident in traditional female areas, such as parenting, housework, shopping, nurturing, and maintaining family relationships. Alas, though I found dozens of papers on overconfidence in traditional male areas, I couldn’t find any on traditional females areas. The closest I found was:
+In both the lab and the field, female subjects tend to show greater confidence in their groups than in themselves, while male subjects show greater confidence in themselves than in their groups. (more)
+This seems a nice opening for enterprising psych or econ experimentalists.
+
+
+title: Female Overconfidence
+
+date: October 23, 2012 8:15 am
+

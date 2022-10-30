@@ -1,0 +1,26 @@
+author: Andrew
+
+text: 
+For years, Dave Krantz has been telling me about his goal-based model of decision analysis.  It’s always made much more sense to me than the usual framework of decision trees and utility theory (which, I agree with Dave, is not salvaged by bandaids such as nonlinear utilities and prospect theory).  But, much as I love Dave’s theory, or proto-theory, I always get confused when I try to explain it to others (or to myself):  "it’s, uh, something about defining decisions based on goals, rather than starting with the decision options, uh, …."  So I was thrilled to find that Dave and Howard Kunreuther just published an article describing the theory.  Here’s the abstract:  
+
+ We propose a constructed-choice model for general decision making. The model departs from utility theory and prospect theory in its treatment of multiple goals and it suggests several different ways in which context can affect choice. 
+ It is particularly instructive to apply this model to protective decisions, which are often puzzling. Among other anomalies, people insure against non-catastrophic events, underinsure against catastrophic risks, and allow extraneous factors to influence insurance purchases and other protective decisions. Neither expected-utility theory nor prospect theory can explain these anomalies satisfactorily. To apply this model to the above anomalies, we consider many different insurance-related goals, organized in a taxonomy, and we consider the effects of context on goals, resources, plans and decision rules. 
+ The paper concludes by suggesting some prescriptions for improving individual decision making with respect to protective measures. 
+
+  
+Going to their paper, Table 1 shows the classical decision-analysis framework, and Table 2 shows the new model, which I agree is better.  I want to try to apply it to our problem of digging low-arsenic wells for drinking water in Bangladesh. 
+Is vs. should 
+I have a couple of qualms about Dave’s approach, though, which involve distinguishing between descriptive and normative concerns.  This comes up in all models of decision making:  on one hand, you can’t tell people what to do (at best, you can point out inconsistencies in their decisions or preferences), but on the other hand these theories are supposed to provide guidance, not just descriptions of our flawed processes. 
+ Anyway, I’m not so thrilled with goals such as in Krantz and Kunreuther’s Table 5, of "avoid regretting a modest loss."  The whole business of including "regret" in a decision model has always seemed to me to be too clever by half.  Especially given all the recent research on the difficulties of anticipating future regret.  I’d rather focus on more stably-measurable outcomes. 
+ Also, Figure 4 is a bit scary to me.  All those words in different sizes!  It looks like one of those "outsider art" things:   
+In all seriousness, though, I think this paper is great.  The only model of decision making I’ve seen that has the potential to make sense.
+Need a better name
+But I wish they wouldn’t call their model "Aristotelian."  As a former physics student, I don’t have much respect for Aristotle, who seems to have gotten just about everything wrong.  Can’t they come up with a Galilean model?
+Relevance for "overcoming bias"
+Dave’s work relates to "overcoming bias" because I think the classical decisions/utilities/outcomes model of decision making has serious problems (well-known problems such as decision-makers limiting their search of actions to what was already considered in the model, and downweighting the probability of unforeseen outcomes), to the extent that this model is itself introducing bias into our decisions.
+
+
+title: Goals and plans in decision making
+
+date: July 15, 2007 6:00 am
+

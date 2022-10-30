@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+From a recent New York Times article:
+
+In a study published in 2005 in The Journal of Legal Studies, 147 subjects were asked to assume either the role of an adviser or of someone depending on advice. The researchers set up two experimental conditions. In both, there was a conflict of interest: the advisers stood to gain financially if the clients followed their biased advice. 
+ In the first condition, in which the advisers did not disclose their conflict of interest, they knowingly gave misleading advice. In the experiment, the clients lost money because they followed the advisers’ suggestions. 
+ In the second condition, the advisers disclosed their conflict of interest: they conceded they would benefit if the clients heeded the advice. But coming clean didn’t have the expected result. Although the clients, now aware that their advisers were biased, were more skeptical about taking the advice, "they didn’t discount it enough," said George Loewenstein, a professor of economics and psychology at Carnegie Mellon University and a co-author of the study, which was conducted at the university. 
+ And the advisers, still determined to make more money, exaggerated their claims. "The advisers ended up making even more money than in the first condition, which is exactly the opposite of what you would hope for or expect," he said.
+
+Excess trust in expert advisors seems to be a relatively robust finding, well worth further study.  My guess is that the explanation will be deep and important.  Hat tip to Tyler Cowen.  
+
+
+title: Exccess Trust in Experts
+
+date: August 24, 2007 6:00 am
+

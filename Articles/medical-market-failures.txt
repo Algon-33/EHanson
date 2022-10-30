@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+Academic economists often publish analyses of the consequences of possible policies; in fact, I’d say it is the bread and butter of what economists do.   Such analyses usually rate policies using economist’s standard evaluation criteria: economic efficiency.  When a policy of more government intervention is ranked higher that a policy of less government intervention, that is usually because of an identified “market failure”, i.e., a reason why a low regulation “market” situation would not achieve high economic efficiency.
+Some economists also act as pundits, arguing for or against current policy proposals to wider audiences.   Such arguments often draw on a wide variety of kinds of reasoning.  But since these people are economists, and not just pundits, I want to hold them to a higher standard: they should offer market failure arguments for their conclusions, and clearly distinguish these arguments from other reasons.  If a big part of the reason people listen to econo-pundits is that they are economists, having been certified by the economics community as having economic expertise, it would be nice to see signs that they continue to apply their economics expertise to their punditry topics, rather than just using their pulpit to preach policies they like for other reasons.
+Econo-pundits have largely met this standard on global warming and carbon regulation; the potential market failure is so obvious: local actions by carbon consumers and producers should ignore global climate effects.  They also meet this standard at least somewhat on the financial crisis, discussing external benefits and costs of spending and regulation.  On medical reform, however, econo-pundits seem to have completely dropped the ball.
+All I’ve found is a few posts quoting and responding to Krugman citing Arrow as showing:
+The standard competitive market model just doesn’t work for health care: adverse selection and moral hazard are so central to the enterprise that nobody, nobody expects free-market principles to be enough.
+But of course to meet the standard I suggest, it is far from sufficient to rattle off a market-failure buzz-phrase or two; one should offer arguments connecting the specific policies one favors or opposes to the market failures one sees as relevant. And so as not to constrain only pro-intervention econopundits, we should expect anti-intervention econopundits to at least say which plausible market failures come closest to justifying intervention.
+Let me now try to meet my own standard, by outlining the main possible medical market failures, and the sorts of policies that such failures might justify.
+
+Insurance moral hazard – Insurance is less attractive because it makes people take less care.  Governments can’t help with this, though via limits on what insurance prices can condition on, they can make it worse.
+Insurance adverse selection – If those who privately know their risks are lower buy less insurance, too little insurance gets bought.  In this case forcing everyone to buy insurance some can improve welfare.  However, it turns out we don’t see this problem when insurers can price based on everything they know; usually low risk folks buy more insurance.  We do see adverse selection, however, when insurers hands are tied, such as by law or in optional group insurance.
+General altruism – If we just generally cared about the welfare of others, such as the poor, we might give them cash; spending the cash to give them medicine instead would be worse.
+Health altruism – If we cared more about others’ health than their happiness, we might tax things that hurt health, like smoking, and subsidize things that help health, like exercise, clean air, etc.  We’d have to do a lot of this before we even considered subsidizing medicine, since the correlation between health and medicine is very low.
+Emergency room altruism – If we just can’t help but provide basic medical services to folks in crisis who show up empty handed to an emergency room, we might reasonably require folks to buy catastrophic insurance to cover such situations.  Since it would cover far less, this insurance would be far cheaper than most medical insurance today.
+Medicine altruism – If we just like knowing that other people can get the medicine they want, regardless of whether it makes them happy or healthy, we might subsidize such medicine for them.
+Under-appreciation of  medicine bias – If in fact most people are irrationally biased to underestimate the value of medicine, it might make sense to subsidize medicine.  Of course in this scenario voters would be unlikely to endorse such a subsidy.  And if anything the bias seems to go the other way, which would more justify taxing medicine.
+Leaky info – If private producers under-provide info on the quality of medical procedures, professionals, or providers, because they have insufficient property rights to the info they create, governments might subsidize such info products.  This includes research.
+Large scale economics – if the efficient scale of some medical production is very large, we might consider allowing very large organizations but regulating their price.
+Contracting and agency costs – organizations give their agents, e.g., employees and contractors, rules and incentives to ensure they will behave as intended.  Contracts between customers and producers must try to consider a wide variety of possible circumstances.   These contracts, rules, and incentives require monitoring and enforcement costs.  Unless government organizations have incentives or contracts available to them unavailable to the private sector, they should have no advantages on these issues.
+I’ll add more items here as needed.
+
+The item here that I take most seriously is leaky info, especially on new procedures, including drugs.  Something like medicine altruism is also a big factor, though I see it as signaling loyalty to locals, and so hurting foreigners.
+
+
+title: Medical Market Failures
+
+date: July 21, 2009 2:45 pm
+

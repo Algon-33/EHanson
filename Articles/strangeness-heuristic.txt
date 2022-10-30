@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Yesterday’s New York Times article on if we live in a computer simulation draws heavily from our Nick Bostrom, and at one point mentions me:
+
+ Maybe, as suggested by Robin Hanson, an economist at George Mason University, you should try to be as interesting as possible, on the theory that the designer is more likely to keep you around for the next simulation. 
+
+ Interestingly, many blog reactions seem to be mainly disappointed that God might be a nerd – I guess they were hoping for a jock God.  Also interesting, blog posters seem less skeptical than blog commentors (such as the 300+ at the related NYT blog).   Apparently, blog posters defer more to the authority of the NYT, while commentors rely more on a strangeness heuristic:
+
+ Make a vivid mental picture of your best guess of how the world is, and compare that to a similar picture of someone else’s claim of how the world is, was, or will be.  The larger the difference in impressions these pictures make on your mind, the less likely is the claim.
+
+ This heuristic, for example, penalizes scenarios where planes flap their wings, or where sidewalks are colored purple, or where many people walk down the street talking to small boxes.   This heuristic is relatively easy to apply and is valid on average.  So it offers a nice reference point to measure the other authorities you listen to:  For each authority, such as the NYT, the journal Nature, this blog, your own math analysis, etc., ask what is the strangest scenario that authority could convince you? 
+I suspect many authorities are reluctant to endorse even strongly supported strange claims, for fear of losing credibility with strangeness-heuristic-following audiences.  So bravo to the NYT here.  
+
+
+title: Strangeness Heuristic
+
+date: August 15, 2007 6:00 am
+

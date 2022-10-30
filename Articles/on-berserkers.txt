@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Adrian Kent is getting a little publicity for posting his ’05 paper on the berserker hypothesis, “that evolution has very significantly suppressed cosmic conspicuity”, i.e., that many aliens are out there, but hiding from each other. He advocates taking the hypothesis seriously, but doesn’t actually argue for the coherence of any particular imagined scenario. Kent’s excuse:
+It would be very difficult to produce a model that convincingly predicts the likelihoods and spatial distributions of the various strategies, since the answer surely depends on many unknowns.
+He instead just claims:
+The hypothesis is certainly not logically inconsistent and it seems to me not entirely implausible.
+So what then is Kent’s contribution?  Apparently it is a bunch of strategy fragments, i.e., strategy issues that aliens might consider in various related situations.  It is not clear that these are much of a contribution, at least relative to the many contained in related science fiction novels. But, well, here they are:
+Even granted an exemplarily stealthy attack and takeover, the mere fact that the previously conspicuous species B is no longer so gives a clue to observers elsewhere that some other species A, with its own potentially interesting resources, may now be in occupation — and hence that it may also perhaps be worth exploring the neighbourhood for other habitats that species A occupies. …
+A really cautious predator might perhaps try to take over species B’s habitat while giving the impression that species B had self-destructed. This might or might not be believed: however good the cover story, it would presumably lose credibility if a number of independent species on different habitats in a given region appeared to self-destruct within a statistically implausibly short time interval.  If B’s takeover is detected or inferred by species C, they might be tempted to jump in. But so might species D, E, and so on. …
+Species may be induced to predate on conspicuous near neighbours even if their general strategy is to remain inconspicuous and avoid predation. Noisy neighbours are liable to attract unwelcome attention to the neighbourhood. One could perhaps run as far away as possible, but this requires finding another unoccupied and inconspicuous habitat. … There is the added danger that one risks becoming conspicuous to predators during the search. …
+Assuming there is currently no dominant predator, any predators which attempted dominance in the past must have come to grief. (Perhaps this seems unlikely: if it was defeated by another predator, why would that predator not have come to dominate? And is it really plausible that a very powerful but reticent stay-at-home could, when threatened, have taken out a predator with galactic ambitions?
+Kent seems to neglect the value of constructing any remotely plausible self-consistent equilibrium.  We might gain great insight from such models, even if they are far from accurate on “likelihoods and spatial distributions of the various strategies.” Kent also seems to overestimate the resource value of inhabited places, relative to uninhabited places.  His key assumption:
+One imagines that an inhabited planet, together with the ecosystem it supports, constitutes a resource that would be valuable to (some significant subset of the) species originating on other planets.
+Inhabited places might be a bit more valuable, but mainly they’d be of interest as potential competitors for all the other resources around.
+I’d be interested in working with (math or sim) competent folks to more formally model berserker scenarios.
+
+
+title: On Berserkers
+
+date: April 13, 2011 9:50 am
+

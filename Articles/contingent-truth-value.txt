@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Does allowing prophets, whistle-blowers, and dissidents to tell people truths they don’t want to hear help those other people or hurt them?  Today I heard an excellent talk (see slides and paper) by Roland Benabou explaining how it can help or hurt, depending on the situation:
+
+ HURT: If your future is likely to be enjoyable, and if before then anticipating your great future gives you enough joy, then if you come across bad news suggesting otherwise you might enjoy your life more overall if you quickly look the other way and forget about it.  Even if later on you realize you are the sort of person who would forget such news, you’d still reasonably guess you had a good chance of an enjoyable future, and you’d enjoy savoring that prospect, at least for a while.  Someone who forced you to pay attention to the bad news could do you a real harm.
+ HELP: On the other hand, if a group of you worked together to build an enjoyable future, how hard you each worked might depend on the chances you each assigned to your efforts working out well.  Given that you expected other people to avoid looking at bad news, you might also find it in your interest to avoid looking at bad news, so that you were all in an equilibrium where you all avoided bad news.  But for certain parameter values you might all be better off in a different equilibrium where you all expect each other to look at bad news and change your behavior in response.  In this case someone who collected bad news, saved it, and later forced you all to pay attention to the bad news you had tried to forget could upgrade your equilibrium.  This could do you all a favor, a favor you were individually not willing to do for yourselves.  
+
+ The value of truth is contingent, and depends on the details of your world and values.  It is not guaranteed.   So honestly demands that my commitment to truth also be contingent.
+
+
+title: Contingent Truth Value
+
+date: January 30, 2008 8:00 pm
+

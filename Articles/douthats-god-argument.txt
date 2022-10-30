@@ -1,0 +1,36 @@
+author: Robin Hanson
+
+text: 
+Ross Douthat argues for God:
+idea that the universe was created with intent, intelligence and even love explained why the world in which you found yourself had the appearance of a created thing: not just orderly, law-bound and filled with complex systems necessary for human life, but also vivid and beautiful and awesome in a way that resembles and yet exceeds the human capacity for art. …
+idea that human beings are fashioned, in some way, in the image of the universe’s creator explained why [you are] … obviously part of nature, an embodied creature with an animal form, and yet your consciousness also seemed to stand outside it, with a peculiar sense of immaterial objectivity, an almost God’s-eye view — constantly analyzing, tinkering, appreciating, passing moral judgment. …
+assumption that humans are material creatures connected to a supernatural plane explained … incredible variety of experiences described as “mystical” or “numinous,” unsettling or terrifying, or just really, really weird — ranging from baseline feelings of oneness and universal love to strange happenings at the threshold of death to encounters with beings that human beings might label (gods and demons, ghosts and faeries) but never fully understand. …
+speculation about a multiverse in part because [we have] … repeatedly confirmed the strange fittedness of our universe to human life. … “hard problem” of consciousness: the difficulty of figuring out how physical processes alone could create the lived reality of conscious life, … our long track record of successful efforts to understand the material world — doubles as evidence that our minds have something in common with whatever mind designed the universe. (More)
+So the phenomena (P) to explain are:
+A) our part of the universe seems tuned to allow life, which exists here, and is ordered,
+B) humans now exist, are conscious, and have particular concepts of beauty and morals
+C) humans think big thoughts, and have made some progress understanding the universe
+D) humans also come across some weird stuff we don’t understand
+The usual “science” (S) theory says:
+A) a big enough dumb universe can have many differently-tuned parts; in one life arises
+B) lasting life eventually creates order and minds with abstract intelligence
+C) intelligence naturally creates concepts of consciousness, beauty, and morality
+D) intelligence will try to and can understand some but not all of its universe
+The alternative “God” (G) theory says:
+A) A “perfect” mind exists without a universe, or even time, needs no resources, has no mental limits
+B) Just by thinking, this mind can learn anything and create universes, life, creatures, and minds
+C) This mind has particular concepts of beauty and morals, and gave them to humans
+D) This mind makes some humans see strange things for various mostly-unknown reasons
+So which of theories S or G does better at explaining P?
+Theory S should be discounted to the extent that it seems a priori unlikely that a dumb universe would be that enormously big. Also discount S to the extent you doubt (much more than I) the usual theories suggesting why enough dumb matter might create life, and some creatures might gain abstract intelligence, seek to understand their universe, and develop concepts of feelings, beauty, and morality. Also discount S if you think the human level of understanding vs. not of its universe differs greatly from what you’d expect from the most intelligent creatures to evolve in the particular-sized societies we have seen. I don’t, and don’t see how humans understanding some things but not understanding others can both be taken as evidence for G over S.
+Theory G should be discounted to the extent that you (like me) see minds like ours as way too complex to be the primitives that one postulates for a scenario, and find the idea of unconstrained minds out-of-time that make things via their thoughts to be strange and borderline incoherent. After all, all the minds we have ever seen in detail have been in time, with a great many limitations (e.g., memory, speed, mistakes, sensor input) tied in detail to the limitations of particular complex localized physical objects (i.e., particular brains). If this perfect mind can make minds more like itself, why does it make these very limited minds tied in such detail to these limited brains?
+Yes, theory S may fail to predict many details of human beauty and morality concepts; according to S some details are arbitrary and random, based on contingent features of the species involved. And yes, theory G predicts that these features come from the perfect mind. But G also fails to predict those same details; it just assumes them as part of the perfect mind.
+Furthermore, I don’t at all see how strange stuff that some humans see but can’t explain is support for G over S. Under both theories, there would sometimes be strange stuff that humans find hard to understand. Some claim that particular variations of the perfect mind is the best explanation of particular strange stuff, but there are many conflicting such claims. As there are variations of both S and G that predict more strange stuff, and variations that predict less strange stuff, I don’t see how the existence of strange stuff supports one over the other.
+Me, I find it far easier to believe in an enormous dumb universe than in unlimited minds that can make anything by thinking, yet choose to make minds with limits tied in such detail to the limits of particular brains. Seems far simpler to me to just see the minds we see as the activity that results from the evolved brains we see, with no non-brain-based minds existing.
+Added 18Aug: I should note that perhaps the most common objection to G is the “problem of evil”. If the idea of this perfect mind sharing your moral ideals is a key part of the appeal, you can indeed be put off by their appearing not to act in the way this would suggest.
+
+
+title: Douthat’s God Argument
+
+date: August 15, 2021 9:30 pm
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+If the ship is sinking, do you save yourself or risk your life to save others? The answer, it seems, depends on how long the sinking takes. If there’s enough time, you can switch from adrenalin-driven self-preservation to conscience-driven self-sacrifice.
+The insights come from a new comparison of survival data from the sinking of the Titanic in 1912 with the loss of 1517 lives out of 2207, and the fateful torpedoing of the Lusitania three years later, which killed 1198 passengers out of 1949.
+The main difference between the two sinkings was time: it took 2 hours and 40 minutes for the Titanic to go down, while the Lusitania sank in just 18 minutes. The result: a huge difference in survivor profiles.
+On the Lusitania, survival favoured able-bodied men aged between 16 and 35, … On the Titanic, in contrast, the same group of men were … more likely to die. … Children were 30.9 per cent more likely to survive on the Titanic, compared with passengers over 35, while on the Lusitania children had no better survival chance. …
+Strikingly, women of all ages on the Titanic had a probability of survival 53 per cent higher than for men, compared with an 11 per cent higher chance of dying on the Lusitania. … First-class passengers on the Titanic had huge survival advantages non-existent on the Lusitania.
+More here.   Yet more support for the thesis that far mode is more for social image, near mode more for personal gain.
+Added 14Apr2012: These results don’t generalize to a larger dataset:
+A new … paper … looked at 18 peace-time shipwrecks. … Women had a lower chance of survival in 11 out of 18 instances. Only on two ships was it an advantage to be a woman: on the Birkenhead in 1852 and on the Titanic. The best odds of survival on average were, somewhat surprisingly, those of the crew, followed by none other than the captain. Children were worst off
+
+
+title: Near Is Selfish
+
+date: March 3, 2010 1:30 pm
+

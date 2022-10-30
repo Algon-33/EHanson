@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+There are (at least) two ways to implement a (Star Trek style) transporter:
+
+A space-time wormhole takes you “directly” from here to there, or
+We scan you, send the info, make a new copy at the other end, and destroy the original.
+
+Some people care greatly about transporter type; they’d pay to use type #1, but pay greatly to avoid using type #2.  But regardless of the morality of a type #2 transporter, I’m pretty confident that if cheap type #2 transporters were available, but not type #1, many people would use them often, and prefer to think of them as benign, i.e., as if they were type #1.  Humans are pretty flexible about their morality when large economics gains are on offer.
+A similar relation applies to two types of super-watches.  Super-watches have one button.  When you are wearing a super-watch, and push it’s button, you turn it on.  Soon after, a person appears next you who looks and thinks just like you and who shares all your memories.  This person is free to walk away, as are you.  The second time you push the super-watch button, it turns off.  And you dissapear.  The second button push is also triggered automatically a given duration after the first push, or if you are about to be harmed by something.  Super-watches with longer durations cost more.
+Here are the two ways to make super-watches:
+
+Time Machine + Memory Wipe: The second time you push the button you enter a time machine that brings you back to soon after the moment you first pushed the button,  displaced by a few feet.  It also erases all memories you might have acquired since the first time you pushed the button.  And no, you can’t bring anything else with you in the time machine.
+Limited Time Copier:  When you turn on the watch it makes an exact copy of you and puts that copy a few feet away.  When you turn the watch off, or it automatically turns off, you are destroyed.
+
+Now these two ways to implement super-watches produce pretty much the same set of experiences and observable features.  So either you do not care much about  how super-watches are made, or you care a lot about things no one experiences or sees.  As with transporters, I’m pretty confident that if type #2 super-watches were much cheaper than type #1, and offered great economic gains, many more people would use them, and find a way to frame them so they didn’t seem so bad.
+Most people don’t see cruelty or morality problems with using time machines, and most people are also pretty comfortable with taking a drug that erases their recent memories.  Many people even like the idea of getting so drunk at a party that they won’t remember what they did the next day.  Yet some people say that while you aren’t obligated to create people, if you do create people you are obligated to give them a good life.  So creating a copy who might only live for a day or a year, and then be destroyed, would be mean, cruel and immoral.  But holding all these views together requires that you care very much about how super-watches are implemented.  Do you?
+
+
+title: Super-Watch Dilemna
+
+date: May 2, 2011 12:50 pm
+

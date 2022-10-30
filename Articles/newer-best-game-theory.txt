@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Two of the four members of my PhD committee were McKelvey and Palfrey, originators of the “quantual response equilbrium” game theory concept, which for a while seemed to fit experimental data better than other game theories.  A year ago I wrote:
+The latest American Economic Review says lab experiments have crowned a new best game theory … impulse balance equilibrium … The king is dead – long live the king!
+Today I report a new tentative winner: equity-driven quantal response equilibrium. This is ordinary quantal response, but using modified payoffs: a player’s cash payment minus penalties for differences between player cash payments.  The new kind is dead – long live the new king.  The new results:
+Substantial evidence has accumulated in recent empirical works on the limited ability of the Nash equilibrium to rationalize observed behavior in many classes of games played by experimental subjects. This realization has led to several attempts aimed at finding tractable equilibrium concepts which perform better empirically; one such example is the impulse balance equilibrium (Selten, Chmura, 2008), which introduces a psychological reference point to which players compare the available payoff allocations. This paper is concerned with advancing two new, empirically sound, concepts: equity-driven impulse balance equilibrium (EIBE) and equity-driven quantal response equilibrium (EQRE): both introduce a distributive reference point to the corresponding established stationary concepts known as impulse balance equilibrium (IBE) and quantal response equilibrium (QRE). The explanatory power of the considered models leads to the! following ranking, starting with the most successful in terms of fit to the experimental data: EQRE, IBE, EIBE, QRE and Nash equilibrium.
+
+
+title: Newer Best Game Theory
+
+date: August 15, 2009 6:00 am
+

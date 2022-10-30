@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+All but one US state requires drivers to wear seat belts, and every airline flight must be delayed so all passengers can hear a safety lecture, but BASE jumping is widely allowed and terribly dangerous:
+
+Veterans of BASE jumping — an acronym that stands for parachute free falls from buildings, antennae, spans or earth — call their sport the most dangerous in the world, with only 1,200 experienced jumpers and at least 115 fatalities. … BASE jumping is illegal in parts of the world and across the East Coast … Right now, a BASE jumper dies somewhere in the world about once every three weeks. 
+
+ This Washington Post article mentions the danger but is not particularly disapproving, a vastly different tone I’m sure than if they were reporting on other nations without seat belt laws.  Why the vastly different treatment? 
+ My best explanation is social status: we are much more paternalistic toward the low in status.  We allow rich people to invest in most anything they like, but limit poor people to investments approved by regulators, and we are far more concerned about alcohol and illegal drug use by the poor than the rich, even though both groups use them at similar rates.  An inner city activity with a similar mortality rate to BASE jumping would be illegal so fast it would make your head spin. 
+Added:  To see what best explains paternalism, we should create a dataset of behaviors, where we code the degree of paternalism regarding those behaviors, and other possible explanatory features of those behaviors, so we can systematically check for patterns.  Any grad student interested in trying this? 
+
+
+title: Inconsistent Paternalism
+
+date: November 7, 2007 6:00 am
+

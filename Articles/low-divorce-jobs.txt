@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+A recent study … explores the correlation of various occupations and rates of separation and divorce. … Dancers and choreographers registered the highest divorce rates (43.1 percent), followed by bartenders (38.4 percent) and massage therapists (38.2 percent). Also in the top 10 were casino workers, telephone operators, nurses and home health aides.  Three types of engineers — agricultural, sales and nuclear engineers — were represented among the 10 occupations with the lowest divorce rates. Also reporting low marital breakup rates were optometrists (4 percent), clergy (5.6 percent) and podiatrists (6.8 percent). (more)
+The study takes a simple regression predicting the “divorced” rate (% of once-married folks now divorced or separated) from income, age, gender, and race, and then for 500 different jobs collects a table of its actual divorce rate, the rate predicted by this regression, and the ratio between these two rates. (Yes these stats ignore remarried folks, but they still seem informative.)
+Before you browse their divorce rate vs. job table to see what it says about your job, ask yourself: what do you infer about people who do a job associated with a low divorce rate?  Are you impressed and attracted by their reliability, or do you snicker that they are losers no one wants to tempt away from their marriage? How do you think most folks react?
+OK, here the ten jobs with the highest relative divorce rates: massage therapists, bartenders, dancers and choreographers, health diagnosing and treating practitioners (all other), physicians and surgeons, gaming services workers, mathematicians, fish and game wardens, pile-driver operators, and first-line supervisor of gaming workers.
+Here are the ten jobs with the lowest relative divorce rates: religious workers (all other), audiologists, first-line enlisted military supervisors/managers, shuttle car operators, optometrists, clergy, transit and railroad police, religious activities and education directors, agricultural engineers, and media and communication equipment workers (all other).
+For comparison, here’s jobs ranked by their 1900 divorce rate:
+
+My relative risk of divorce was 0.90 as a computer software engineers, and is now 0.92 as a postsecondary teacher, but is 1.27 as an economist.
+
+
+title: Low-Divorce Jobs
+
+date: September 24, 2010 9:00 am
+

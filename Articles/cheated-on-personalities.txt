@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Ron Guhname took a dataset of ~1500 people, and predicted which people said their spouse cheated on them from the victim’s five-factor personality, as well as his or her age, social class, religiosity, and body mass index. He found less cheating on religious people, on older and less agreeable men, and on conscientious and closed-to-experience women. These personality effects are much bigger than the religion effect!
+More on agreeableness:
+Agreeableness is a tendency to be pleasant and accommodating in social situations. … empathetic, considerate, friendly, generous, and helpful. … believe that most people are honest, decent, and trustworthy. People scoring low … may … be suspicious and unfriendly. … Agreeableness [has a] positive association with altruism and helping behavior. … In the United States, midwesterners and southerners tend to have higher average scores on agreeableness than people living in other regions.
+More on openness:
+Openness involves active imagination, aesthetic sensitivity, attentiveness to inner feelings, preference for variety, and intellectual curiosity. … Closed to experience … [people] tend to be conventional and traditional in their outlook and behavior. They prefer familiar routines … [and] have a narrower range of interests. … Openness to experience correlates with creativity … [and] crystallized intelligence, but not fluid intelligence. … People who are highly open to experience tend to be politically liberal and tolerant of diversity. As a consequence, they are generally more open to different cultures and lifestyles. They are lower in ethnocentrism. … People living in the eastern and western parts of the United States tend to score higher on openness to experience than those living in the midwest and the south.
+I am puzzled by many things here. It makes sense that older people are better able to detect cheating, but then why doesn’t this effect work for women? It makes sense that suspicious people are cheated on less, but then why no agreeable effect for women. It makes sense that conscientious people are cheated on less, as they should be more careful in watching for cheating. But why no such effect for men? Could all women be suspicious enough, and all men conscientious enough?
+And what is going on with openness, and why does it only influence women? Open vs. closed personality seems to correlate both with more of a forager than farmer mentality (art, travel, rich, liberal, intellectual, female promiscuity), and also with more of a far than a near mental mode (creative, larger social groupings). Makes me wonder how much forager mentality and far mode correlate.
+Added 3p: I read that chart way wrong! Sorry – have edited the above greatly to correct my error.
+
+
+title: Cheated-On Personalities
+
+date: June 27, 2011 1:25 pm
+

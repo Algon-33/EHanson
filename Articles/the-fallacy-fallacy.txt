@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+People love to collect lists of "fallacious" argument forms, with which to club opponents.  But beyond a few logical errors, specialists have found little support for the idea that one can tell an argument is bad just by looking at its form.  From a Synthese article last September:  
+
+Lists of so-called fallacies of argumentative discourse date back to Aristotle’s Sophistical Refutations and his Topics, and have received further additions throughout the ages. … the kinds of things intended is clear: petitio principii (or `question begging’), arguments from authority, ad hominem arguments, or Locke’s argumentum ad ignorantium (argument from ignorance). These fallacies have accumulated in logic textbooks and have been dubbed "informal" fallacies because it has not been possible to give "a general or synoptic account of the traditional fallacy material in formal terms" … Such analytical treatment has seemed elusive because some of the fallacies are logically valid, but seem to fail as arguments nevertheless. For example, begging the question is deductively valid …  it is increasingly a problem endemic to the field of logic that, in some cases, arguments that seem to be of the same general type as the fallacies are (in some sense) reasonably good arguments, that are, and ought to be, acceptable as legitimate ways of rationally persuading someone to accept a conclusion. 
+
+  
+
+Thus the field of informal logic is at a crisis point. … There seem to be two paths: (i) try to refine the formulation of the structural characteristics of the argument, such that the seeming counterexample is now no longer part of the fallacy, as now more exactly defined, or (ii) accept that fallacies are fallacies not because of their structure alone. A popular response to the problem has been that informal logic deals with arguments in context – and it is the context that is responsible for the differential acceptability of arguments with the same structure.
+
+ The authors, Ulrike Hahn and Mike Oaksford, try to offer Bayesian concepts which can make clear how context matters: 
+
+We examine in detail three classic reasoning fallacies, that is, supposedly "incorrect" forms of argument. These are the so-called argumentam ad ignorantiam, the circularpetitio principii, and the slippery slope argument. In each case, the argument type is shown to match structurally arguments which are widely accepted. This suggests that it is not the form of the arguments as such that is problematic but rather something about the content of those examples with which they are typically justified. This leads to a Bayesian reanalysis of these classic argument forms and a reformulation of the conditions under which they do or do not constitute legitimate forms of argumentation. 
+
+
+
+title: The Fallacy Fallacy
+
+date: April 27, 2007 6:00 am
+

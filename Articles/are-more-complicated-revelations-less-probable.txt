@@ -1,0 +1,18 @@
+author: Utilitarian
+
+text: 
+Consider two possible situations, A and B. In situation A, we come across a person–call him "A"–who makes the following claim: "I was abducted by aliens from the planet Alpha; they had green skin." In situation B, we come across a different person–call him "B"–who tells us, "I was abducted by aliens from the planet Beta; they had blue skin, they liked to play ping-pong, they rode around on unicycles, and their favorite number was 7." In either situation, we are likely to assign low subjective probability to the abduction claim that we hear. But should we assign higher subjective probability to the claim in one situation more than in the other?
+Mindful of Occam’s razor, and careful to avoid the type of reasoning that leads to the conjunction fallacy, we might agree that A’s claim is, in itself, more probable, because it is less specific. However, we have to condition our probability assessment on the evidence that A or B actually made his claim. While B’s claim is less intrinsically likely, the hypothesis that B’s claim is true has strong explanatory power to account for why B made the specific statements he did. Thus, in the end it may not be so obvious whether we should believe A’s claim more in situation A than we believe B’s claim in situation B.
+  
+To be concrete, let A be the event that A’s claim is true, B be the event that B’s claim is true, C be the fact that A made the claims he did, and D be the fact that B made the claim’s he did. We can agree that P(B) < P(A); for definiteness, say P(B) = 0.001*P(A). However, the relevant comparison is between P(A|C) and P(B|D). Bayes’ theorem says
+P(A|C) = P(A)*P(C|A) / [P(A)*P(C|A) + P(~A)*P(C|~A)]; P(B|D) = P(B)*P(D|B) / [P(B)*P(D|B) + P(~B)*P(D|~B)] = 0.001*P(A)*P(D|B) / [0.001*P(A)*P(D|B) + P(~B)*P(D|~B)].
+If either story is true, it’s fairly likely that the person would tell it to us the way it happened; for convenience, assume P(C|A) = P(D|B) = 1. Also assume that P(A) and P(B) are small enough that we can make the approximation P(~A) = P(~B) = 1 in our formulas. We then have
+P(A|C) = P(A) / [P(A) + P(C|~A)]; P(B|D) = 0.001*P(A) / [0.001*P(A) + P(D|~B)].
+Now, we can probably agree that P(D|~B) < P(C|~A). This is because, if the person wasn’t abducted, it’s less likely that he would give the exact details that B gave than the more general account that A gave. (I don’t mean to suggest that people who claim to be abducted are likely to give short accounts. I mean, rather, that the probability of giving any particular highly detailed account is less than the probability of giving any particular less detailed account.) If we decide that P(D|~B) < 0.001*P(C|~A), then P(B|D) > P(A|C).
+There are some cases in which it may be appropriate automatically to give lower probability to more specific claims, even in light of the above reasoning: e.g., in the case of futurists who predict elaborately detailed scenarios. In this case, unless we have reason to think they’ve come back in time from the future, the equivalent of what I called P(D|B) above is likely to be low. That is, even if the futurist’s claims were true, this would not make it very likely that the futurist would successfully predict all of them, since–unlike person A or B, who saw the aliens–the futurist hasn’t viewed firsthand exactly how things will turn out.
+
+
+title: Are More Complicated Revelations Less Probable?
+
+date: August 19, 2007 6:00 am
+

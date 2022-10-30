@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Years ago I was part of a research project with roughly a dozen people involved, most with Ph.D.s., and most specializing in computer science. A professional software developer was also part of the project, call him Sam. He officially got to own the software that he made for the project, but this wasn’t considered a problem as he just implemented algorithms that others designed.  If he left, we could just get someone else to implement the same algorithms. 
+The early version of our system was slow, and there were several obvious ways to make it run faster, such as by caching key results. But Sam insisted that the time wasn’t right for speed ups; our first priority was to get a system with the features we wanted, implemented correctly. 
+At the end of a period when the project was less active, I think it was a summer, Sam declared that he’d implemented a whole new algorithm for (his part of) our system, which as a result ran much faster. He hadn’t asked or gotten permission for this move, he just did it. Even though this new algorithm wasn’t fully specified or explained, it was accepted as an improvement. And that even though this meant that the rest of us could no longer help with improving the design of this part of the system. 
+So from this point on Sam owned the project, in the sense that we couldn’t do anything with any new grant or client without paying him what he demanded. After all, he owned a key part of the software, and was the only person who understood his algorithm.
+Sam never showed that his algorithm improved speed by any more than would the obvious ways already known to speed it up, and he was never asked to show this. He didn’t even show if he had also added those other changes. I’m quite sure that our project manager hadn’t been corrupted or paid off. I think it was more that going along with Sam’s claim seemed like the low conflict, low confrontation approach. The code was running faster; what was the problem?
+This seems to me a nice clear example of the sort of organizations games that are often played, and how easily they can distort incentives and cut efficiency Even in a very small group, with very smart people. If these things go this badly in a context like this, think of how badly they must go in larger groups, with less obvious tricks. 
+It is actually amazing that we do as well as we do with the organizations we have. We are still in the early stages of learning how to manage large organizations, and we are rich even though we suffer as many problems as we do. Think of how rich we can be when we learn a lot more about how to manage organizations. 
+
+
+title: An Org Games Example
+
+date: March 6, 2021 4:55 pm
+

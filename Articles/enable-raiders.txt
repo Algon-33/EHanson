@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+A robust, properly functioning market for corporate control is vital to the performance of a free-enterprise economy with public corporations. … Shareholders face an array of collective-action problems that prevent them from coalescing to deal with bad management. … The market for corporate control is the only known antidote for all of these collective-action problems.
+More here.  It is hard to exaggerate how very important this is – we’d be so much richer now if it it had long been easier for raiders to take over public firms.  We now put many inexcusable obstacles (listed below) before such raiders, including disclosure, super-majority, poison pill, and merging delay rules.  In fact,
+Gains to target shareholders average 40–50 percent above the prices at which target firms’ shares traded immediately prior to the takeover. … [But on] returns to bidders, … studies have shown negligible gains.
+So raiders have to wait until they can boost a firm’s profits by ~50% before it is worth trying a takeover!  Imagine our progress if raiders could instead win by improving a firm by only 5% (or 0.5%).  Raiders would replace overpaid and out-of-touch CEOs, the new guys would clean house in upper management, and that would induce better incentives and organization all the way down the line.  It seems to me a complete no-brainer to seek to eliminate all takeover obstacles, and to seek even more ways to encourage raiders.
+Amazingly, the main anti argument here is that takeovers might hurt other “stakeholders” such as employees, the environment, or civic pride.  Apparently we must protect over-paid CEOs because they are our heroic public-spirited defenders of the little guy against greedy shareholders.  Where oh where would little folks be if not for protection from CEOs?
+Oh, please!  CEOs?!  They are mainly protecting their own butts – other consequences are side effects.  You don’t want this protection racket any more than you want the mob “protecting” your small business.
+Really, few policies are clearer big wins than this.  Maybe open immigration is a bigger net win, but low wage locals may lose, and civic culture could be at risk.  With raiders the only “downside” is the usual disruptions from faster innovation.  (New owners must follow the same anti-trust etc. regulations as before.)  In general, innovation requires new or at least changed organizations to displace old ones.
+But disruption is the standard cost of growth; if growth is good, raiders are good.  If stronger unemployment insurance, or other ways to smooth disruption, is the price to removing raiding obstacles, I’m all in favor – the gains are so huge.
+Details on those unfair obstacles:
+A federal law enacted in 1968 requires firms and individuals that make public bids for the shares of publicly traded companies … to disclose information about themselves, their sources of financing, and their plans for other companies … Other share buyers bid up the price of the target company’s shares, giving a gain to the acquirer, who did all the costly research, only on his 5 percent of the shares. …  The statute requires any bidder to make the same disclosures within ten days of acquiring 5 percent of the shares of a public company, regardless of how those shares were acquired. …
+“Shark repellant amendments,”… require shareholders to vote to approve outside acquisitions by large “supermajorities” of, say, 75 percent in order to complete an acquisition … Poison pills are rights freely distributed to target-company shareholders that give the shareholders the “right” to purchase shares in the target firm (or the bidding firm in case of a merger) at significant discounts in price when … someone’s or some firm’s accumulation of voting shares in the target above a specified threshold, such as 15 or 25 percent.  …
+The biggest problem … is the state and federal laws that impede takeovers. … The Delaware statute prohibits a hostile acquirer from completing a takeover by merging with the target for at least three years after buying a controlling interest unless the bidder either obtains the approval of the target company’s board of directors or acquires more than 85 percent of the target’s stock.
+HT Alex T.
+
+
+title: Enable Raiders!
+
+date: January 28, 2010 12:25 am
+

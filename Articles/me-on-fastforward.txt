@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+I appear in this FastForward Radio interview with John Smart and Vanessa Miemis, supposedly on the distant future. It didn’t go that well. The interviewers asked the questions in the wrong order, first asking what we should do about “it” today in our personal lives, and then only at the end asking us what “it” is. And they didn’t really have us interact, but instead had us each answer the same questions in sequence.
+Vanessa mainly seem to care more about expressing hope, caring, and that things must change, than about actually forecasting a distant future. John Smart expressed his view that current growth rates could continue indefinitely because, hey maybe we’ll use black holes well. But even if black holes let us square the available negentropy, that should only roughly double the time over which we could support exponential growth.  As I’ve calculated:
+An economy that doubled every century for a million years would grow by a factor of 103010.  To support this using the 1070 atoms found within a million light years, each atom would have to support an average of 102950 people at our living standard, one person with a standard 102950 times higher, or some mix of those extremes.
+To expect such a growth rate to continue for a billion or a trillion years, is well, crazy. Almost surely within a million years, and even more surely within a billion years, growth must greatly slow.
+
+
+title: Me On FastForward
+
+date: August 31, 2011 10:00 pm
+

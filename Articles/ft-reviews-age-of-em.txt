@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+The first MSM review is in for Age of Em. It is by Sarah O’Connor (really!), in the Financial Times. She “gets” me:
+Plenty of futurists and science fiction writers have toyed with the idea that the brains of particular humans could one day be scanned and “uploaded” into artificial hardware but Prof Hanson’s take is different. His aim is to use standard theories from the physical, human and social sciences to make forecasts about how this technological breakthrough would really change our world. ..
+Some of the most profound questions .. are the questions on which Prof Hanson is most tentative and brief because he has set out deliberately to focus on the predictable and to avoid being “creative or contrarian”. This is reasonable enough and the book succeeds on its own terms. Still, it does leave a hole. Perhaps it will fall to the science fiction writers to fill it.
+Yes, mine are first steps, and I hope others will further develop this scenario. O’Connor does have a few words of mild criticism:
+The book is crammed full of such fascinating visions of an imagined future. Still, some readers will share criticisms the author says he has encountered. For any of this to seem plausible, one has to believe that we will invent the ability and be willing to scan and copy human brains. Not everyone will accept this.
+One also has to believe that current economic and social theories will hold in this strange new world; that the “unknown unknowns” are not so great as to make any predictions impossible. Certainly, some of the forecasts seem old-fashioned, like the notion that male ems will prefer females with “signs of nurturing inclinations and fertility, such as youthful good looks” while females will prefer males with “signs of wealth and status”.
+Yes, we can’t be at all certain of this scenario. But if it is worth having a hundred books on future scenarios, it is worth having books that analyze scenarios with only a 1% chance of happening.
+Yes, you have to think that social scientists, like physicists, engineers, and computer scientists, actually know some generalities not hopelessly tied to the details of our particular time and culture. Such as our standard results on robust “old-fashioned” sex differences in long-term mate preferences:
+Several standard sex differences replicated across cultures, including womens greater valuation of social status and mens greater valuation of physical attractiveness. (more; see also, also, also)
+Even if such differences were weaker in nations with greater gender parity, they’d still remain. (But in fact such differences actually seem stronger there.) Yes, such differences may be in part caused by culture. But whatever their cause, they seem pervasive and robust enough to make them likely to continue on in an em world.
+
+
+title: FT Reviews Age of Em
+
+date: May 11, 2016 8:38 am
+

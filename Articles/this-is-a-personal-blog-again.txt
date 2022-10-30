@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Last June I turned this into a group blog to help me overcome my addiction to blogging, and focus on writing a book. I think I’ve succeed in changing my work habits, and the book is coming along well, so I think it is time to switch this back to being a personal blog. After all, blogs work best when they have a very distinct coherent voice, and I’m weird enough that most anyone stands out in contrast.
+So I offer my deep thanks to Katja Grace, Rob Wiblin, and Carl Shulman, who have honored me with their thoughtful contributions over the last ten months. They are promising young folks for whom I have great expectations, and I suggest you continue to read them, as will I, at their blogs:
+
+Katja Grace:  meteuphoric.wordpress.com/
+Carl Shulman: reflectivedisequilibrium.blogspot.com/
+Robert Wiblin: www.robertwiblin.com, www.givingwhatwecan.org/blog/, www.80000hours.org/blog/
+
+
+
+title: This Is A Personal Blog Again
+
+date: April 7, 2013 1:35 pm
+

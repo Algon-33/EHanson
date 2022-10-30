@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+I've blogged before on theories of the functions of fiction in our lives, and celebrated this seminal analysis of the personality and motives of Victorian novel characters.  After browsing the TV Tropes website, it occurs to me that these tropes might be a great data source for studying fiction's functions.  
+A possible research plan:
+
+Identify tropes that describe common patterns of fiction which seem to deviate from patterns of reality.  Code these tropes by their degree of deviation, and by how confident we feel that this deviation is real.
+Code these tropes according to a wide range of other possibly relevant parameters.  
+Look for patterns among the tropes as so coded, and when possible check those patterns via formal statistical tests.
+Compare theories of fiction's functions to these trope patterns, seeing which theories best account for the set of observed patterns.
+
+Any student in search of a research project, take note! :)  HT to Doug.
+
+
+title: Tropes Are Treasures
+
+date: May 9, 2009 10:45 am
+

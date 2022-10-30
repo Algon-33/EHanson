@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+Tomorrow at 3:30 I’ll speak on “The Potential of Prediction Markets” at the Carnegie Mellon computer science department. More here and here.
+
+
+title: CMU Talk Tuesday
+
+date: February 14, 2011 10:15 pm
+

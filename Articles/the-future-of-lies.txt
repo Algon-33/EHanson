@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+The Economist says lie-detectors bring “disaster”:
+The truth of the matter—honestly—is that this would lead to disaster, for lying is at the heart of civilisation. … Homo sapiens has turned lying into an art. … The occasional untruth makes domestic life possible (“Of course your bum doesn’t look big in that”), is essential in the office (“Don’t worry, everybody’s behind you on this one”), and forms a crucial part of parenting (“It didn’t matter that you forgot your words and your costume fell off. You were wonderful”). … The truly scary prospect … speaking truth to power would no longer be brave: it would be unavoidable. (more)
+Me-thinks they exaggerate. Yes, humans were designed for an environment between the extremes of complete transparency and complete opacity. Our ancestors got away with some but not all lies. But in the last few centuries humans have adapted reasonably well to more opaque environments. New transparency techs may just bring back forager levels of social visibility, levels to which humans are already quite well adapted.
+In the modern world, people often interact with others about whom they know far less than their forager ancestors knew, and with far greater abilities to consciously manage appearances.  For example, when firms and nations now deal with each other, they can often spend days thinking about their next response, and have large teams studying what that response should be. And yet it mostly works out ok.
+Good lie detector tech might just bring us back to forager levels of social transparency. Clever gadgets which can read our micro expressions or subtle features of our tone of voice may just tell us the sorts of things that foragers could see because they studied the same few dozen folks their entire lives, and gossiped endlessly about their behavior and (poker-like) tells.  For those of us now used to farmer and industry levels of social opacity, this transparency might take some getting used to. But it is likely well within the range of human adaptability.
+The more interesting question to me is what happens when we have both kinds of tech, say face readers to show subtle micro expressions but also masks to block such reading. Voice readers to read subtle tones and voice modifiers to hide such tells. Which techs will we actually deploy?
+On the one hand, we might expect people who are socially close, such as families or teams, to encourage internal transparency and discourage opacity aids. This might be seen as a sign of trust and a basis for close coordination. If you want to keep hiding things from me, maybe I should worry about what you are trying to hide.
+On the other hand, we expect continued aggressive use of ways to manage appearances between distant less trusting organizations. I just don’t see big firms and nations agreeing to forego their many abilities to manage their appearances. And since the folks participating in such interactions would have high status, e.g., diplomats and CEOs, then being practiced and skilled in high opacity situations would be a sign of social status. This would encourage more opacity among lesser CEO etc. wannabes.
+It seems hard to tell if on the whole they’ll have more transparency or more opacity. The safest prediction, it seems to me, is more variation in social visibility. People will have to be somewhat skilled in dealing both with high transparency and high opacity. And which situations should be which may well be a matter of great dispute.
+
+
+title: The Future Of Lies
+
+date: November 7, 2011 6:30 pm
+

@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+New Scientist:
+Might “pain-free” be the next sticker slapped onto a rump roast? … Progress in neuroscience and genetics in recent years makes it a very real possibility. …  “If we can’t do away with factory farming, we should at least take steps to minimise the amount of suffering that is caused,” says Adam Shriver, a philosopher. … [who] contends that genetically engineered pain-free animals are the most acceptable alternative. …
+One objection to the idea of knocking out pain in livestock is that it could mean they put themselves in harm’s way. In 2006, researchers identified six children from three Pakistani families with mutations that inactivated one particular gene. None of the children had ever felt pain, though they appeared otherwise healthy. All the kids had bruises and cuts, and one, who was known to place knives through his hand and walk on coals, died after jumping off a roof.
+There could be a way around that problem. Recent research indicates that the sensation of pain is distinct from the unpleasantness, or “affective pain”, connected with it. This suggests it might be possible to eliminate the suffering caused by pain without tampering with the physical sensation. … They have engineered mice that lack two enzymes … When the team injected a noxious, painful chemical into their paws, the mice licked them only briefly. In contrast, normal mice continued to do so for hours afterwards (Neuron, vol 36, p 713). This suggests that livestock could be spared persistent, nagging pain. ….
+Alan Goldberg … contends that public attitudes may make pain-free livestock a non-starter. He and colleague Renee Gardner conducted an online survey on the use of pain-free animals in research and found little public support, even among researchers who experiment on animals (Alternatives to Animal Testing and Experimentation, vol 14, p 145).
+This last result is striking.  (I can’t find the article to learn more – the journal is here).  Why not save farm animals from pain?  My guess: for most folks to be interested in reducing farm animal pain, they would have to believe farms animal suffer lots more pain than wild animals suffer.  And they don’t so believe.
+But wild pain isn’t obviously the right standard.  If lives with farm pain are still better than not existing, it is still good to create farm animals even if they suffer more than wild animals.  But if reducing pain is cheap, it might well be good to reduce farm pain well below wild levels.
+I really don’t know how much pain we cause farm animals.  So far I have given farms the benefit of the doubt, but I’d be interested in visiting typical meat farms in my area, if that could be arranged.
+Added: Unnamed finds the survey article, which only considers pain-free animals in biological experiments, not farms:
+Participants were evenly divided between agreeing and disagreeing with the practice, and scientists followed this trend. Participants who classified themselves as a member of an animal advocacy group or as a vegetarian were much more likely to disagree with the practice.
+
+
+title: Painless Meat
+
+date: September 12, 2009 10:00 pm
+

@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Artificial Intelligence pioneer Roger Schank at the Edge:
+
+When reporters interviewed me in the 70’s and 80’s about the possibilities for Artificial Intelligence I would always say that we would have machines that are as smart as we are within my lifetime. It seemed a safe answer since no one could ever tell me I was wrong. But I no longer believe that will happen. One reason is that I am a lot older and we are barely closer to creating smart machines.  
+ I have not soured on AI. I still believe that we can create very intelligent machines. But I no longer believe that those machines will be like us…. 
+ What AI can and should build are intelligent special purpose entities. (We can call them Specialized Intelligences or SI’s.)  Smart computers will indeed be created. But they will arrive in the form of SI’s, ones that make lousy companions but know every shipping accident that ever happened and why (the shipping industry’s SI) or as an expert on sales (a business world SI.) … So AI in the traditional sense, will not happen in my lifetime nor in my grandson’s lifetime. Perhaps a new kind of machine intelligence will one day evolve and be smarter than us, but we are a really long way from that. 
+
+This was close to my view after nine years of A.I. research, at least regarding the non-upload A.I. path Schank has in mind.  I recently met Rodney Brooks and Peter Norvig at Google Foo Camp, and Rodney told me the two of them tried without much success to politely explain this standard "old-timers" view at a recent Singularity summit.  Greg Egan recently expressed himself more harshly:
+  
+
+The overwhelming majority [of Transhumanists] might as well belong to a religious cargo cult based on the notion that self-modifying AI will have magical powers. 
+
+The June IEEE Spectrum is a special issue on singularity, largely skeptical.
+My co-blogger Eliezer and I agree on many things, but here we seem to disagree. Eliezer focuses on AIs possibly changing their architecture more finely and easily than humans.  We humans can change our group organizations, can train new broad thought patterns, and could in principle take a knife to our brain cells.  But yes an AI with a well-chosen modular structure might do better.  
+Nevertheless, the idea that someone will soon write software allowing a single computer to use architecture-changing ease to improve itself so fast that within a few months the fate of humanity depends on it feeling friendly enough … well that seems on its face rather unlikely.  So many other huge barriers to such growth loom.  Yes it is possible and yes someone should think some about it, and sure why not Eliezer.  But I fear way too many consider this the default future scenario.
+Added:  To clarify, the standard A.I. old-timer view is roughly that A.I. mostly requires lots and lots of little innovations, and that we have a rough sense of how fast we can accumulate those innovations and of how many we need to get near human level general performance.  People who look for big innovations mostly just find all the same old ideas, which don’t add that much compared to lots of little innovations.
+More added:  I seem to be a lot more interested in the meta issues here than most (as usual).  Eliezer seems to think that when the when young disagree with the old, the young tend to be right, because "most of the Elders here are formidable old warriors with hopelessly obsolete arms and armor."  I’ll bet he doesn’t apply this to people younger than him; adding in other consideration he sees his current age as near best.  And I’ll bet in twenty years his estimate of the optimal age will be twenty years higher.   
+
+
+title: A.I. Old-Timers
+
+date: May 31, 2008 6:00 am
+

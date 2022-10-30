@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Last October I wrote: 
+
+ The US with 27% of world product has about 46% of world military spending.  …  Though of varying quality, there are a great many detailed and quantitative analyzes of the marginal value of aggregate medical spending.  In contrast, the lack of even remotely similar analyzes for military spending is really quite stunning. … I’d most like to see an itemized budget detailing the expected annual costs the US would suffer in a world that had adapted to the US only spending $300B/yr on defense.
+
+ Megan McArdle yesterday:
+
+ I view myself as feminist(ish) because I believe the following:
+
+ Society is set up in ways that limit women’s choices and opportunities–men’s too …, but women more. …
+Privilege exists, and is in many unfortunate ways invisible to those who possess it.
+We should try to change those things.
+
+
+My first reaction was, it is really clear male privilege is stronger overall that female privilege in our society?  It might be, but as with defense spending I’d like to see some sort of calculation.  A little web search finds a male privilege checklist and a female privilege checklist.  The next obvious step is to assign point values to such privileges, so we can add them up and compare totals.   
+ Of course there would be many ways to disagree about such point values, including how they should account for differing abilities and preferences.  You’d open yourself up more to ridicule by posting a calculation, as folks could trumpet your most vulnerable estimate as evidence of your insincerity.  And you wouldn’t show your impressiveness nearly as much as you could via a fancy math model, statistical data analysis, or semiotic text analysis.  
+ But the essence of analysis is to "break it down", to take apart vague wholes into clearer parts.  For the same reasons we make point lists to help us make tough job decisions, or ask people who sue for damages to name an amount and break it into components, we should try to break down these important social claims via simple calculations.  And the absense of attempts at this is a sad commentary on something.
+
+
+title: Break It Down
+
+date: July 2, 2008 11:00 am
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+The goals of monetary policy are to promote maximum employment, stable prices and moderate long-term interest rates. By implementing effective monetary policy, the Fed can maintain stable prices, thereby supporting conditions for long-term economic growth and maximum employment. (more)
+Caltech, where I got my PhD in social science, doesn’t have specialists in macroeconomics, and they don’t teach the subject to grad students. They just don’t respect the area enough, they told me. And I haven’t gone out of my way to make up this deficit in my background; other areas have seemed more interesting. So I mostly try not to have or express opinions on macroeconomics
+I periodically hear arguments for NGDP Targeting, such as from Scott Sumner, who at one point titles his argument “How Prediction Markets Can Improve Monetary Policy: A Case Study.” But as far as I can tell, while this proposal does use market prices in some ways, it depends more on specific macroeconomic beliefs than a prediction markets approach needs to. 
+These specific beliefs may be well supported beliefs, I don’t know. But, I think it is worth pointing out that if we are willing to consider radical changes, we could instead switch to an approach that depends less on particular macroeconomic beliefs: decision markets. Monetary policy seems an especially good case to apply decision markets because they clearly have two required features: 1) A clear set of discrete decision options, where it is clear afterward which option was taken, 2) A reasonably strong consensus on measurable outcomes that such decisions are trying to increase. 
+That is, monetary policy consists of clear public and discrete choices, such as on short term interest rates. Call each discrete choice option C. And it is widely agreed that the point of this policy is to promote long term growth, in part via moderating the business cycle. So some weighted average of real growth, inflation, unemployment, and perhaps a few more after-the-fact business cycle indicators, over the next decade or two seems a sufficient summary of the desired outcome. Let’s call this summary outcome O.  
+So monetary policy just needs to pick a standard metric O that will be known in a decade or two, estimate E[O|C] for each choice C under consideration, and compare these estimates. And this is exactly the sort of thing that decisions markets can do well. There are some subtitles about how exactly to do it best. But many variations should work pretty well. 
+For example, I doubt it matters that much how exactly we weight the contributions to O. And to cut off skepticism on causality, we could use a 1% chance of making each discrete choice randomly, and have decision market estimates be conditional on that random choice. Suffering a 1% randomness seems a pretty low cost to cut off skepticism.
+For more, see the section “Monetary Policy Example” in my paper Shall We Vote on Values, But Bet on Beliefs?
+
+
+title: Decision Markets for Monetary Policy
+
+date: June 12, 2019 11:00 am
+

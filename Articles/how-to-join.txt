@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+How can we better believe what is true?  While it is of course useful to seek and study relevant information, our minds are full of natural tendencies to bias our beliefs via overconfidence, wishful thinking, and so on.  Worse, our minds seem to have a natural tendency to convince us that we are aware of and have adequately corrected for such biases, when we have done no such thing.
+In this forum we discuss whether and how we might avoid this fate, by spending a bit less effort on each specific topic, and a bit more effort on the general topic of how to be less biased.  Here we discuss common patterns of bias and self-deception, statistical and other formal analysis tools, computational and data-gathering aids, and social institutions which may discourage bias and encourage its correction.  Other topics may be discussed to the extent they exemplify important biases and correction issues.
+ This forum is brought to you by the Future of Humanity Institute at Oxford University, and consists of posts and comments on posts.  We allow open comments on most posts, but are selective about who can post, and moderate the posts.  To be considered as a poster, please send a link to your thoughtful essay on this topic (published elsewhere is fine) to rhanson@gmu.edu.  Comments should be polite, on topic, and not very long. 
+Added: See also Contributors: Be Half Accessible.
+Disclaimer: The views and opinions expressed in this forum are those of individuals only; they are not endorsed by the FHI or Oxford University.  Copyright is retained by each author. 
+
+
+title: How To Join
+
+date: November 20, 2006 6:00 am
+

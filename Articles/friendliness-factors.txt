@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+Imagine several firms competing to make the next generation of some product, like a lawn mower or cell phone.  What factors influence variance in their product quality (relative to cost)?  That is, how much better will the best firm be relative to the average, second best, or worst?   Larger variance factors should make competitors worry more that this round of competition will be their last.  Here are a few factors:
+
+ Resource Variance – the more competitors vary in resources, the more performance varies.
+Cumulative Advantage – the more prior wins help one win again, the more resources vary. 
+Grab It First – If the cost to grab and defend a resource is much less than its value, the first to grab can gain a further advantage. 
+ Competitor Count – with more competitors, the best exceeds the second best less, but exceeds the average more.  
+ Competitor Effort – the longer competitors work before their performance is scored, or the more resources they spend, the more scores vary.
+Lumpy Design – the more quality depends on a few crucial choices, relative to many small choices, the more quality varies. 
+ Interdependence – When firms need inputs from each other, winner gains are also supplier gains, reducing variance.    
+Info Leaks – the more info competitors can gain about others’ efforts, the more the best will be copied, reducing variance.
+Shared Standards – competitors sharing more standards and design features, in info, process, or product, can better understand and use info leaks.  
+Legal Barriers – may prevent competitors from sharing standards, info, inputs.
+Anti-Trust –  Social coordination may prevent too much winning by a few.
+Sharing Deals – If firms own big shares in each other, or form a coop, or just share values, may mind less if others win.  Lets tolerate more variance, but also share more info.
+Niche Density – When each competitor can adapt to a different niche, they may all survive. 
+Quality Sensitivity – demand/success may be very sensitive, or not very sensitive, to quality. 
+Network Effects – Users may prefer to use the same product regardless of its quality. 
+ [What factors am I missing?  Tell me and I’ll extend the list.]
+
+Some key innovations in history were associated with very high variance in competitor success.  For example, our form of life seems to have eliminated all trace of any other forms on Earth.  On the other hand, farming and industry innovations were associated with much less variance.  I attribute this mainly to info becoming much leakier, in part due to more shared standards, which seems to bode well for our future.  
+If you worry that one competitor will severely dominate all others in the next really big innovation, forcing you to worry about its "friendliness," you should want to promote factors that reduce success variance.  (Though if you cared mainly about the winning performance level, you’d want more variance.)
+
+
+title: Friendliness Factors
+
+date: November 16, 2008 12:15 pm
+

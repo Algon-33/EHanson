@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+A few weeks back Tyler Cowen posted an appeal from Philip Tetlock:
+Starting in mid-2011, five teams will compete in a U.S.-government-sponsored forecasting tournament. Each team will develop its own tools for harnessing and improving collective intelligence and will be judged on how well its forecasters predict [government-chosen] major trends and events around the world over the next four years. … [We] will be one of the five teams competing – and we’d like you to consider joining our team as a forecaster.
+You may have seen other teams’ appeals as well. Today I can announce that GMU hosts one of the five teams, please join us! Active participants will earn $50 a month, for about two hours of forecasting work. You can sign up here, and start forecasting as soon as you are accepted.
+The government sponsor is IARPA (Intelligence Advanced Research Projects Activity), under the ACE (Aggregative Contingent Estimation) program, and our team is DAGGRE (Decomposition-Based Elicitation & Aggregation).
+Our approach has three distinctive features, all visible to participants:
+
+We use an edit-based interface — a current consensus on all questions is visible to all participants, and any user may change any part. Each edit is scored on whether it moves the consensus closer to or further from the truth.  (This is equivalent to a market-maker-based prediction market).
+For each question IARPA assigns, we “decompose” it by adding related questions, and letting participants forecast both related questions and how they relate to the assigned questions. For example, users can assume answers to some questions, and then forecast other questions conditional on their assumptions. (This is equivalent to a combinatorial prediction market.)
+We will sometimes walk users through a special elicitation process that has been shown in field and lab experiments to produce more accurate estimates.
+
+(Items #2,3 might not show for a week or two.) We are eager to see how our approach compares to the other approaches. Come get paid to help us find out!
+
+
+title: Join The DAGGRE Team
+
+date: August 31, 2011 11:55 pm
+

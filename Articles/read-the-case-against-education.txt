@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Yesterday was the Kindle publication date for my colleague Bryan Caplan’s new book The Case Against Education. The hardcover publication date is in nine days. It is an excellent book, on an important topic. Beyond such cheap talk, I offer the costly signal of having based an entire chapter of our new book on his book. That’s how good and important I think it is.
+The most important contribution of Caplan’s book is to make very clear how inadequate “learn the material, then do a job better” is as an explanation for school. Yes, the world is complex enough that it must apply sometimes. Which is why it can work as an excuse for what’s really going on. After all, “the dog ate my homework” only works because sometimes dogs do eat homework.
+So what is really going on? Caplan offers plausible evidence that school functions to let students show employers that they are smart, conscientious, and conformist. And surely this is in fact a big part of what is going on. I’ve blogged before one, and in our book we discuss, some other functions that schools may have served in history, including daycare, networking, consumption, state propaganda, domesticating students into modern workplace habits.
+But I should be clear that students today don’t need nearly as much school as they get to serve these other functions; showing off to employers is likely the main reason kids get so much school today. Our world would be better off with less school, such as would happen if we cut school subsidies.
+I see Caplan’s book as nicely complementing ours. As I said recently:
+The key problem is that, to experts in each area, no modest amount of evidence seems sufficient support for claims that sound to them so surprising and extraordinary. Our story isn’t the usual one that people tell, after all. It is only by seeing that substantial if not overwhelming evidence is available for similar claims covering a great many areas of life that each claim can become plausible enough that modest evidence can make these conclusions believable. That is, there’s an intellectual contribution to make by arguing together for a large set of related contrarian-to-experts claims.
+
+
+title: Read The Case Against Education
+
+date: January 18, 2018 12:00 pm
+

@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+After hearing a job talk yesterday by Paul Heaton on racial profiling in traffic stops, I wondered about gender profiling.  Everyone I’ve ever talked to has the impression that women, especially pretty young women, are more likely to be let off with a warning.  If racial bias gets people so upset, why is there little concern about this gender bias?
+ A quick google search finds that "gender profiling" returns 50 links, while "racial profiling" returns 4000 links.  A 2004 Massachusetts study looked for gender bias in addition to racial bias, for this reason:
+
+Similar questions about gender disparities in traffic stops have recently been given new attention.  Following a number of highly publicized incidents of officers sexually abusing women following  routine traffic stops, some have begun to question whether certain officers use their traffic enforcement powers disproportionately against female drivers
+
+You can hear the sigh of relief when they see their results:
+
+Overall males were more likely to be cited than their representation in either the residential or the driving population estimate.  Males were uniformly more likely to be subject to a search and to be cited than women.  These findings were consistent across virtually all communities in Massachusetts.  This report finds no indication that female drivers, in the aggregate, are more likely to be stopped, cited or subject to a search than their male counterparts.  In fact, quite the opposite appears to be the case. 
+
+The only concerns expressed about this result was that they might have missed rare cases of harassed women.  Apparently gender biases that hurt men are not a concern; this seems another example of less sympathy to male complaints.
+Added: "race profiling" gets 15,000 links while "sex profiling" gives 500.  
+
+
+title: Gender Profiling
+
+date: February 3, 2007 6:00 am
+

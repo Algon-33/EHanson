@@ -1,0 +1,31 @@
+author: Robin Hanson
+
+text: 
+To politically balance my previous suggestion to cut US medical spending in half, let me now suggest we cut US military spending in half.   I haven’t researched this subject anywhere near as much as medicine, so I can’t argue as strongly.  But the simple argument seems compelling: The US with 27% of world product has about 46% of world military spending (up from 40% in 2000).  Yet our "defense" needs are few, as we are rich, isolated, have friendly neighbors, and haven’t been invaded for centuries.  And it is hard to see how "offense" spending at this level could possibly be cost-effective.  
+ A bit of web search finds a 2005 William Nordhaus essay making similar points: 
+
+ The U.S. has approximately half of total national security spending for the entire world. The runners-up appear to be China, with about $50-200 billion of spending for 2004, and Russia, with about $15-50 billion in recent years.  In one sense, the $590 billion for national security is not a "large" number, because it constitutes only 4.8 percent of GDP, which is smaller than the U.S. spent in earlier hot or cold war periods. On the other hand, national security spending is "huge" by absolute standards. It constitutes about $5000 per family. …
+ The question I would like to contemplate is whether the country is earning a good return on its national-security "investment," for it is clearly an investment in peace and safety, as well perhaps in oil supply and exports. The bottom line is, probably not. …
+
+  
+
+Is it plausible that the United States faces a variety and severity of objective security threats that are equal to the rest of the world put together? I would think not. Unlike Israel, no serious country wishes to wipe the U.S. off the face of the earth. Unlike Russia, India, China, and much of Europe, no one has invaded the U.S. since the nineteenth century. We have common borders with two friendly democratic countries with which we have fought no wars for more than a century. Only one country has nuclear weapons that can seriously threaten our existence. One conclusion from this thought is that either the U.S. has a vastly exaggerated sense of threats to it; or that other countries, even the richest ones, are universally neglectful of the threats to their security.
+ Additionally, it might be that national security is a global public good that the U.S. is supplying for the rest of the world. This is a complicated issue. During the cold war, some countries probably felt that the U.S. was indeed protecting them. The U.S. did go to war to defend or liberate dozens of countries over the last century. However, more recently, many countries, even our traditional allies in Western Europe, and especially their populations, appear to believe that our supply of the public good of security is in fact harming their security rather than enhancing it. 
+
+ Here are two recent arguments on the other side from the Heritage Foundation.  One
+
+Not spending enough on defense also creates the reality and perception of American weakness, which will increase risk, hinder economic growth, and lower stability in the world. Indeed, robust defense spending saves money. President Ronald Reagan’s defense buildup and steady defense funding throughout the 1980s helped to win the Cold War and enabled the U.S. to quickly defeat Saddam Hussein in the Gulf War. 
+
+and two:
+
+The United States is engaged in a long war against Islamic terrorists that could extend for many years into the future and therefore is similar to the Cold War. The United States also needs to build the military capabilities necessary to respond to possible future threats from actively or potentially hostile states. … With the future of free peoples at stake, spending 4 percent of the national economy for defense is well worth the cost.
+
+These arguments seem paranoid and thin.  Are there better analyzes out there on the pro-high-spending side?
+Added:  Though of varying quality, there are a great many detailed and quantitative analyzes of the marginal value of aggregate medical spending.  In contrast, the lack of even remotely similar analyzes for military spending is really quite stunning.
+Added: I’d most like to see an itemized budget detailing the expected annual costs the US would suffer in a world that had adapted to the US only spending $300B/yr on defense.
+
+
+title: Cut US Military in Half
+
+date: October 18, 2007 6:00 am
+

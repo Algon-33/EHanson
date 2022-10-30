@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The latest Journal of the Royal Statistical Society has an article on soccer referee bias:
+
+The statistical evidence seems to point to a home team bias in the incidence of disciplinary sanction. This interpretation is consistent with evidence of home team bias in several other recent studies, which find that the home team is favoured in the calling of fouls, or in the addition of stoppage time at the end of matches. Finally, evidence is found of variation between referees in the degree of home team bias, and this variation contributes to the overall pattern of inconsistency in refereeing. 
+
+ Most people involved in sport know: home referees tend to be biased for the home team.  My colleague Alex Tabarrok similarly found that elected judges favor home plaintiffs against out-of-state defendants.
+Why do we allow such biases?  We could force referees and judges to travel further so they didn’t cover home teams.   In sports, we could publicly evaluate and rate referees, via reviewing secret videotapes of random games.  Would such evaluations be too hard, or is the bias on purpose, because fans enjoy home game wins more than they dislike away game losses?
+
+
+title: Why Allow Referee Bias?
+
+date: January 10, 2007 6:00 am
+

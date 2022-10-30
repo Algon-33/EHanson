@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+There is a huge disconnect between health factors that research suggests are most important, and health factors that get the most media and policy attention.  A new RWJF working paper suggests that the press overemphasizes obesity to satisfy reader demands:
+
+News reports on the "obesity epidemic" have exploded in recent years, eclipsing coverage of other health issues including smoking. … Anyone with a Body Mass Index (BMI, weight in kilos divided by height in meters squared) over 25 is deemed "overweight." … Almost 2/3 of the U.S. population today weighs "too much" today by these standards. Recently, several researchers have argued that, for the overwhelming majority of people, weight is a poor predictor of health and should be less of a public health focus. A recent study by scientists at the Center for Disease Control and Prevention (CDC) suggests that it is only after BMI reaches 35 that there is a meaningful increase in mortality, that people in the "overweight" category actually had the lowest rate of mortality. Still, such skeptical voices remain a minority perspective in public discussion of obesity. …
+This paper exploited a unique sample of: 1) scientific articles on weight and health; 2) press releases on those studies; and 3) and news reports on those same studies … We found that … the news media’s tendency to report more heavily on the most alarmist and individual-blaming scientific studies, and not simply how they frame individual stories, partly explains how the news dramatize and individualize science. … These findings support the contention that scientists work as "parajournalists" writing their stories  and especially the abstract  with journalists in mind. They then frame their research via press releases and interviews with journalists. A reward structure in which, all things being equal, alarmist studies are more likely to be covered in the media may make scientists even more prone to presenting their findings in the most dramatic light possible. 
+
+ The press/policy overemphasis of obesity is probably small compared to the overemphasis of medical care.  In general it is very hard for the press and academic system to tell the public anything much different from what the public expects and wants to hear.  
+
+
+title: Press Confirms Your Health Fears
+
+date: February 15, 2007 6:00 am
+

@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Katja Grace and I talked a bit recently about a possible “big scope status bias”, and she wrote a post on one of the ideas we discussed:
+I’m not convinced that more abstract things are more statusful in general, or that it would be surprising if such a trend were fairly imprecise. However supposing they are and it was, here is an explanation for why some especially abstract things seem silly. … Abstract rethinking of common concepts is easily mistaken for questioning basic assumptions. Abstract questioning of basic assumptions really is questioning basic assumptions. And questioning basic assumptions has a strong surface resemblance to not knowing about basic truths, or at least not having a strong gut feeling that they are true. (more)
+Yes, people who question basic assumptions can be framed as silly for not understanding basic things. But I think a similarly strong effect is that people often just don’t like reconsidering basic assumptions. Once you’ve used certain assumptions and matching concepts for a long time, your thinking comes to rely on them. Not only would you lose a lot of that investment if your assumption was wrong, but it becomes mentally hard to even consider the possibility. A third strong effect, I think, is one I mentioned in my previous post:
+It is harder to reason well about big scope choices, which is part of why it impresses to do that well. … Some topics will be so abstract that very few can deal well with them, or even evaluate the dealings of others. So those few people will tend more to be on their own, and not get much praise from others. (more)
+Reasoning abstractly in a way that seems to question basic assumptions is often seen as a bid for status. As with most such bids, observers have to decide if to accept or oppose that bid. Observers are tempted to reject it, not only because they don’t like others to rise in status, but also because they don’t like to have to reconsider basic assumptions, and because it is so tempting to reject by ridicule, via insinuating that the bidder is stupid and silly.
+But while these temptations can be strong, observers must also consider coalition politics – how many allies how strong can the bidder bring into play. If a high status field like physics brings broad unified support to the abstract reasoning, people will mostly back down and accept the abstract status bid. But if only a few supporters can be found with only modest status, the temptation to ridicule is likely to win out. Philosophers are often on the borderline here, with enough status to intimidate many, but not enough to intimidate high status folks like physicists, who are more tempted to ridicule them.
+Added 10a: This helps explain the puzzle I engaged in Too Much Consulting? When managers want to push changes that seem to question basic firm assumptions, they need especially strong high status support to resist the ridicule response. So they hire prestigious management consultants.
+
+
+title: Status Bid Coalitions
+
+date: June 25, 2014 7:05 pm
+

@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+On Aug. 15, Tyler Cowen didn’t think much of overcoming bias, at least in himself:
+
+How important is overcoming bias?  …. Biased estimators are one problem but not the only problem.  There is also insufficient data, lazy researchers, inefficient estimators, and so on.  Then I don’t see why we should be justified in holding a strong preference for overcoming bias, relative to other ends. 
+
+On Sept. 9 Tyler, thinks others should try hard to overcome bias in policy stories:  
+
+Wherever there are problems, people look for villains. The subprime mortgage crisis is a case in point. … And since every villain must be punished, the Federal Reserve is being attacked as "bailing out the speculators." … But financial markets rarely fit into simple moral narratives, and much as these stories may comfort many of us, they are not a good guide to understanding financial policy. …
+Fed watchers should resist the tendency to put all events into a simple or a morally plausible narrative. Monetary policy is a largely technical subject, and its ups and downs don’t usually fit into the kinds of emotion-laden stories that human beings apply to daily life. The "us versus them" tag registers in human memory, but monetary policy is not always or even usually about moral issues. As Freud famously noted, sometimes a cigar is just a cigar. 
+
+ Yup, other people sure need to overcome their biases 🙂   Seems Tyler did fall for the confident proposer bias, by assuming we place a huge priority on overcoming bias.  But he (and Arnold) never responded to my request for clarification, so I can’t really tell.   
+
+
+title: Tyler Finds Overcoming Bias Is important, For Others
+
+date: September 10, 2007 1:00 pm
+

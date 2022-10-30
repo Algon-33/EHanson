@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+What you hear is that [insider trading] rules are in place to protect investors from getting ripped off. But I don’t think this really stands up to scrutiny. That makes it sound as if the purpose of the stock market is to create an entertaining casino that people want to participate in, thus letting the house get a bigger rake. And of course it’s true that if that were the purpose of the stock market you would want rules against insider trading. But that’s not the purpose of the stock market—at least not the legitimate purpose. …
+I looked around on this and found that Fama & French believe in the insider trading ban. Frankly, when you find a regulation that business-friendly academics who never want to regulate anything like, I’m even more inclined to believe that this is a worse idea than it sounds. Basically it’s a government seal of approval on stock market speculation, when the government should not offer any such seal. (more)
+I used to give more benefit of the doubt to the argument that more insider trading would produce less net stock investment.  But that effect seems pretty weak to me, and firms which thought it especially an issue for them could ban insider trading via contract.
+
+
+title: Yglesias Gets It
+
+date: May 15, 2010 4:00 pm
+

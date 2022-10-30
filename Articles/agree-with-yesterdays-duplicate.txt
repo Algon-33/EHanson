@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+A week ago I tried to offer a clear example of justified disagreement.   Today, I try to offer a clear example where disagreement is not justified.   Imagine: 
+
+On Star Trek, a "transporter" moves people by scanning the location of all their atoms, and then constructing a new version in another location, with all the same sort of atoms in the same relative locations.   Yesterday you entered such a transporter, except that this version did not destroy the original copy as did the one on Star Trek.  So a minute after you entered the transporter there were two of you, with identical personality, memories, and cognitive styles.  
+You each spent the last day separately reviewing material supplied by supporters on opposite sides of some controversy, such as which side was most responsible for a particular war.  You have just sat down across a table from your duplicate, and you have just told each other that you found your material reasonably persuasive.  This surprised you; how could he think that?  Although you understand abstractly that he is your day-old duplicate, you have a hard time relating to him.  He does not sound or look or act the way you think you do.   Your initial intuition is to treat him like anyone else with views contrary to yours; he must be missing something you see.   How much should you follow this intuition, versus consciously forcing yourself to agree? 
+
+This seems to me a clear case where you should try as hard as possible to satisfy the rationality constraint "we can’t forsee to disagree."   While both of you have many biases, and are far from Bayesian, you have almost no good reason for thinking that his biases are worse than yours.   Yes it is possible that he acquired a mental problem in the last day, and his taking on a strange view may be some evidence for that.  But it is at best only very weak evidence; the odds are pretty overwhelming that he is no less rational than you. 
+ As before, it is interesting to think about which variations on this scenario would justify larger disagreements.
+Added: I had in mind the case where you and he have not had time to review exactly all the same material; you must react instead to his opinion.        
+
+
+title: Agree with Yesterday’s Duplicate
+
+date: January 21, 2007 6:00 am
+

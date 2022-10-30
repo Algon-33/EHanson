@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+I’ve posted many times on paternalism (e.g., here and here), so was hopeful when I saw that the latest Cato Unbound is on paternalism.  Alas it is mostly heat, not light.  Glen Whitman warns of slippery slopes, crude politicians, and biased question framing, and asks how behavioralists choose among inconsistent consumer preferences.  Richard Thaler responds that there is no slope and that paternalism is sometimes inevitable.  Bryan Caplan complains that Thaler and company only ever work to increase paternalism:
+Why do Sunstein and Thaler use their meme to make extra paternalism a little less objectionable, instead of making existing paternalism a lot less objectionable?
+Arnold Kling agrees, as does Scott Sumner:
+The real test of libertarian paternalism will come when we see how often it is advocated as a way of softening hard paternalism.
+As far as I’m concerned, all of these authors avoid the core hard problem.  Yes paternalism can be a matter of degree, but even so we need principles by which to choose what degree of paternalism is appropriate in what context.  Just repeating “More” and “Less” quickly gets tiresome.  Such principles need to explicitly take into account the fact that organizations can give folks advice instead of limiting their choices.  And any analysis based on the idea that folks can be irrationally deaf to advice is an intellectual sham if it doesn’t consider similar deafness by organization decision makers. (And vice versa.)
+Added 9Apr: David Henderson shows Thaler and company have argued for reduced paternalism.
+
+
+title: Paternalism Is Hard
+
+date: April 8, 2010 2:30 pm
+

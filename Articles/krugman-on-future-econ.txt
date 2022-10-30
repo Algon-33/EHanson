@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+While Paul Krugman and I disagree on some things, but those disagreements are small compared to our common ground, from being both economists. Especially on the future, where most folks rely way too much on their intuitive naive social science. So it was a pleasure to read Krugman being reasonable on the future:
+Maybe by the 24th century it’ll be different again, but I’m not so sure about that optimistic view of Captain Picard. One thing I think we see is that greed has a way of breaking through, no matter what we do on other fronts. … I think we’re probably going to have something like a market as far as the eye can see, although actually by the 24th century, since the artificial intelligences will probably be doing everything … I don’t know how they’ll do it, but we don’t need to know because they’ll do it. …
+You’d like to imagine that we could eventually get to a point where we really are post-scarcity. But it’s a hard road. John Maynard Keynes wrote an optimistic essay called “Economic Possibilities for our Grandchildren” [PDF] in the ’30s where he talked about once the world was four times or eight times as rich as it was when he was writing, at that point we would no longer be concerned about material things and we could get past all of this striving and greed. And actually we are about as much richer as we were supposed to be according to [Keynes] projection, and somehow the striving and greed is still with us. So it’s a further away goal than we’d like to imagine. …
+When I’m having a bad day, I try to think, “What are the possible routes by which we don’t turn into a dystopian society?” I mean, we’ve got the environmental threat, … [and] there’s real echoes of the 1930s in a lot of what’s going on politically, mostly in Europe, but there’s some of it here too. And information technology has been so far by and large a force for liberation, but it’s not too hard to see how it could turn into a force for the opposite. …
+It’s quite possible that the long run state, that the natural state, except for special episodes, is one of extreme inequality. … I was asked to write something … written as if looking backwards from the year 2096. … I wrote of a society where basically not just the middle class was gone but education was devalued and wealth came largely just from owning resources — back to the old days of a resource-based aristocracy. We still think of that “Ozzie and Harriet society,” … that we had for a generation after World War II as being somehow the natural end state of modern technology, modern development, and I guess the balance of the evidence says, no, that’s not how it works. …
+I’m not sure exactly how major media organizations are going to survive in the long run. … We thought for a while that it was going to be very democratizing, and it turns out not to be. … You end up with what is a very hierarchical system, in which a few people really do garner the great bulk of the attention in any particular area of discussion. (more; HT Tyler)
+It seems here that for Krugman a society with extreme inequality must be dystopian, no matter what its other features. With that view I heartily disagree. But that’s a political value judgment, not economics.
+
+
+title: Krugman On Future Econ
+
+date: June 5, 2012 10:05 am
+

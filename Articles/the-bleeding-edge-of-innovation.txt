@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+What type of hospital should you use if sick?  Well none if possible; you suffer about a 1 in 400 chance of dying from a medical error during each hospital stay.  But what if your problem is bad enough to be worth this risk? 
+ Studies of how often patients die during or after hospital stays, correcting for patient sickness, give many conflicting results.   There may be benefits from hospitals with more nurses per patient, and from private non-profit teaching hospitals.  But it seems there is no benefit from hospitals where more doctors are board-certified specialists.   The best advice I can offer comes from these conflicting observations:
+
+Big hospitals have about the same overall death rate as small ones.
+Big hospitals tend to do more and newer procedures, relative to small ones.
+For any given procedure, hospitals that do it more have lower death rates. 
+
+My resolution:  Big hospitals are better at any given procedure/treatment, but they do more new ones, which tend to be bad.  So avoid the bleeding edge of medical innovation: go to a big hospital, but only accept procedures small hospitals also do. 
+Added:  Most new ideas are discarded; you want the ones that last.   
+
+
+title: The Bleeding Edge of Innovation
+
+date: April 24, 2007 6:00 am
+

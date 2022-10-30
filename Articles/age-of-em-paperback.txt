@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Today is the official U.S. release date for the paperback version of my first book The Age of Em: Work, Love, and Life when Robots Rule the Earth. (U.K. version came out a month ago.) Here is the new preface:
+I picked this book topic so it could draw me in, and I would finish. And that worked: I developed an obsession that lasted for years. But once I delivered the “final” version to my publisher on its assigned date, I found that my obsession continued. So I collected a long file of notes on possible additions. And when the time came that a paperback edition was possible, I grabbed my chance. As with the hardback edition, I had many ideas for changes that might make my dense semi-encyclopedia easier for readers to enjoy. But my core obsession again won out: to show that detailed analysis of future scenarios is possible, by showing just how many reasonable conclusions one can draw about this scenario.
+Also, as this book did better than I had a right to expect, I wondered: will this be my best book ever? If so, why not make it the best it can be? The result is the book you now hold. It has over 42% more citations, and 18% more words, but it is only a bit easier to read. And now I must wonder: can my obsession stop now, pretty please?
+Many are disappointed that I do not more directly declare if I love or hate the em world. But I fear that such a declaration gives an excuse to dismiss all this; critics could say I bias my analysis in order to get my desired value conclusions. I’ve given over 100 talks on this book, and never once has my audience failed to engage value issues. I remain confident that such issues will not be neglected, even if I remain quiet.
+These are the only new sections in the paperback: Anthropomorphize, Motivation, Slavery, Foom, After Ems. (I previewed two of them here & here.)  I’ll make these two claims for my book:
+
+There’s at least a 5% chance that my analysis will usefully inform the real future, i.e., that something like brain emulations are actually the first kind of human-level machine intelligence, and my analysis is mostly right on what happens then. If it is worth having twenty books on the future, it is worth having a book with a good analysis of a 5% scenario.
+I know of no other analysis of a substantially-different-from-today future scenario that is remotely as thorough as Age of Em. I like to quip, “Age of Em is like science fiction, except there is no plot, no characters, and it all makes sense.” If you often enjoy science fiction but are frustrated that it rarely makes sense on closer examination, then you want more books like Age of Em. The success or not of Age of Em may influence how many future authors try to write such books.
+
+
+
+title: Age of Em Paperback
+
+date: June 5, 2018 6:00 am
+

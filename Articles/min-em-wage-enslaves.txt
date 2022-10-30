@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Paul Krugman in ’06:
+Serfdom in Russia wasn’t an institution that dated back to the Dark Ages. Instead, it was mainly a 16th-century creation, contemporaneous with the beginning of the great Russian expansion into the steppes. Why? … There’s no point in enslaving … a man unless the wage you would have to pay him if he was free is substantially above the cost of feeding, housing, and clothing him. … Indeed, by 1300 – with Europe very much a Malthusian society – serfdom had withered away from lack of interest.
+But now suppose that for some reason land becomes abundant, and labor scarce. Then competition among landowners will tend to push up wages of free workers, and the ruling class will try, if it can, to pin peasants down and prevent them from bargaining for a higher standard of living. In Russia, it was all about gunpowder: suddenly steppe nomads were no longer so formidable, and the rich lands of the Ukraine were open for settlement. (more; HT Mark Thoma via TGGP)
+Two aspects of a future em scenario especially bother people:
+
+The em robots might be enslaved.
+They might get near subsistence wages.
+
+Many propose regulations to address #2, such as minimum wages or limits on em reproduction. But the case of Russian serfdom contains a warning: above-cost em wages will increase the temptation to enslave ems. If ems can be created for $10 a year but market wages are $100 a year, many will be tempted to create hidden em slaves to do their work. Ordinary ems might be copied against their will into secret computers and then tortured to work.
+Short of continually inspecting every physical object that might house a computer, it might be very hard to detect such hidden slavery. A far more robust solution is to just let wages fall to near subsistence, where the temptation to enslave will be greatly reduced.
+
+
+title: Min Em Wage Enslaves?
+
+date: May 1, 2011 12:00 pm
+

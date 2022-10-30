@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+   
+Within us are powerful tendencies to distort our beliefs, tendencies which hinder us from solving many other problems.  My hope is that we can build a community as serious about this problem as these folks are about theirs (minus the blood):
+ But to be effective we need not only passion but also precision.  Therefore, let us try to define our goal as clearly as possible, while avoiding tangential haggling over detail or verbal gymnastics.  Nick just posted on this issue, and several comments have previously raised it.  So, here goes.  
+  
+We have many mental attitudes, and a “belief” is an attitude that estimates a truth.   These truths can include facts about the world around us and our place in it, moral truths, and truths about our or others’ values.  The error of a belief estimate is how much it deviates from its truth.   
+ If our minds had been built only as error-reduction machines, we would try as best we could to reduce a weighted average of our belief errors, given resource constraints like the information, time, and money available to us.   There would be little point in having a group like ours devoted to reducing error; that would be everyone’s task all the time.
+ Sometimes human minds do seem to function roughly as error-reduction machines.   Overall, however, our minds seem to have been built to create beliefs which also achieve other functions, such as having other people like or respect us.   And the mental and social tendencies we have that pursue these other functions, such as wishful thinking and overconfidence, often come at the cost of belief error.   We are built to not see these distortions in ourselves, though we often see them in others.  
+Most give lip service to reducing belief error, but we believe that we want more than most to adjust our mental and social machinery to reduce our error, even if this means we achieve other belief functions less.   Given such a willingness, it makes sense for us to expect that we can in fact reduce our error, and that we can help each other by gathering together.
+For example, we seem to have been built with a tendency toward overconfidence in our abilities, because by thinking better of ourselves we induce others to think better of us.   We can correct for this bias relatively cheaply, individually by remembering to be more modest, and socially by creating norms that encourage modesty, if we are willing to pay the price that others won’t think as well of us.  For us, this is a cheaper way to reduce error than studying our abilities in more detail. 
+ The question though is what to call this effort.   We could have called it “overcoming error,” but this would not well connote the reason we think that our effort makes sense.   By calling it “overcoming bias” we better connote the kinds of distortions we feel we have a chance to overcome.  After all, many literary definitions of “bias” use words like “partiality,” “unfair,” “prejudice,” “favoritism,” and “unreasoned,” indicating the kinds of distortions we have in mind.  
+ Unfortunately, other more technical definitions of “bias” refer instead to words like “distortion,” “systematic,” “error,” “tendency,” and “deviation,” which only indicate a pattern of error.   And so every time we use the word “bias” we seem to invite people to comment that bias is not obviously blameworthy or correctable.  
+ Words should be our servants, not our masters.  So I propose that in this forum we usually understand the word “bias” to refer roughly to “cheaply avoidable error,” since our topic is how to overcome error.  I say “usually” because of course we are free to clarify that we have another meaning in mind in a particular context.   
+In the rare situations where more precision is called for, I suggest that “bias” refer to the sort of belief errors that might be especially and easily avoidable by sacrificing other belief functions, such as having us other people like or respect us.  I say “especially” because everyone knows that they could reduce error on most any topic by just devoting more time and effort to that topic.  We have in mind a cheaper approach, at least for who place less value on other belief functions. 
+To summarize, I propose we let “bias” usually mean “cheaply avoidable error,” and more precisely “belief error especially avoidable by sacrificing other belief functions,” because our topic here is how to reduce our error if we are especially motivated to do so.  
+
+
+title: To the barricades!  Against … what exactly?
+
+date: November 26, 2006 6:00 am
+

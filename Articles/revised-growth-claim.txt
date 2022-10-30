@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Me in March:
+Non-democracies seem more our future than democracies, because while the two groups have the same average economic growth rates, non-democracy rates vary more, and high rates dominate. … Whenever you have a portfolio of items with different (log) growth rates, your portfolio’s long run average return is dominated by the portfolio items with the highest average rates.
+William Easterly in May (see also):
+The large literature on growth regressions has demonstrated that there is no easy answer to separating out  the partial correlation of one particular variable from a long list of other equally plausible variables. The scope for specification searching leads to results that are not credible. The same situation holds here. Indeed, it is not hard with the above variables to produce regressions either showing autocracy to be statistically significant with other controls or statistically insignificant.
+His point is valid. So let me revise my claim: Some nations appear to have more variance in general, which manifests itself in more variation in growth, leaders, and forms of governance. What exactly causes this higher variance is unclear, as is how much some kinds of variance encourage other kinds. It makes sense for democracy to reduce policy variance, but we can’t tell how important is that channel relative to other channels.
+But whatever causes this variance, the higher variance set of nations should eventually dominate wealth, because peak growth rates dominate wealth. And if having dictators more often continues to be part of that mix, then rich nations will eventually have a lot of dictators among them.
+
+
+title: Revised Growth Claim
+
+date: June 20, 2011 10:30 am
+

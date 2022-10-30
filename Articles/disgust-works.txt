@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+A feeling of disgust re contamination keeps people well:
+Both disgust and contamination sensitivity likely evolved to protect us from infectious disease. Paradoxically, disgust may be reduced by frequent exposure to disgust-inducing cues — cues most likely to occur in disease-rich environments. In this study, we examined whether more frequent or recent illness might act to reverse this process. To test this, we surveyed 616 adults, obtaining illness frequency and recency data, disgust and contamination sensitivity, and a variety of control measures. Heightened contamination sensitivity was associated with more frequent infectious illness, but not with recency of infection. We also found that participants who had heightened contamination sensitivity and who were also more disgust sensitive had significantly fewer recent infections. These findings suggest that frequent illness may up-regulate contamination sensitivity potentially counteracting the effects of exposure on disgust. More importantly, these data provide the first direct evidence of a protective effect of contamination and disgust, against infectious disease.
+People may over apply their disgust at times, but they probably also under apply it at other times.  Given what they know about what can infect them, they may well get their disgust level about right.
+
+
+title: Disgust Works
+
+date: September 1, 2009 6:00 am
+

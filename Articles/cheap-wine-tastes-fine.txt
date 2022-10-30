@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Cheap wines taste just as good as expensive ones: 
+
+Individuals who are unaware of the price do not derive more enjoyment from more expensive wine. In a sample of more than 6,000 blind tastings, we find that the correlation between price and overall rating is small and negative, suggesting that individuals on average enjoy more expensive wines slightly less. For individuals with wine training, however, we find indications of a positive relationship between price and enjoyment. Our results are robust to the inclusion of individual fixed effects, and are not driven by outliers: when omitting the top and bottom deciles of the price distribution, our qualitative results are strengthened, and the statistical significance is improved further. Our results indicate that both the prices of wines and wine recommendations by experts may be poor guides for non-expert wine consumers.
+
+So why do so many people have the opposite impression?  And how much more data would it take to convince them they have been wrong?  HT to Daniel Houser.
+Added: The key question: does wine taste training make you enjoy some wines more, or other wines less?   And is any added enjoyment just the pleasure of knowing you can distinguish something others cannot?  
+
+
+title: Cheap Wine Tastes Fine
+
+date: November 18, 2008 10:00 pm
+

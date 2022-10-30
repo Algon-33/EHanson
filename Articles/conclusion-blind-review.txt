@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+In 1977 Michael Mahoney found that journal reviewer evaluations depend on a paper’s conclusion, not just its methods:
+
+75 journal reviewers were asked to referee manuscripts which described identical experimental procedures but which reported positive, negative, mixed, or no results. In addition to showing poor interrater agreement, reviewers were strongly biased against manuscripts which reported results contrary to their theoretical perspective.
+
+ Alas we can’t repeat this experiment, as it supposedly violates human subject ethics (the reviewers were not told they were being studied).  But it seems clear that people quite often judge papers by their conclusions, and this creates  publication biases.  
+ As an undergraduate I helped Riley Newman measure the strength of gravity at short distances.  Such measurements are tricky, and one is tempted to keep looking for "mistakes" until one gets the standard number.  To keep himself honest, Riley would give a colleague the exact value of a key parameter, and himself use this value with noise added in.  Only when he had done all he could to reduce errors would he ask for the exact value, and then directly publish the resulting final estimate.   
+ In this spirit, consider conclusion-blind review.  Authors would write, post, and submit at least two versions of each paper, with opposite conclusions.  Only after a paper was accepted would they say which conclusion was real.   (To avoid funding bias, perhaps we could forbid them from telling even their funders early which conclusion was real.)   
+ Many journals have experimented with author-blind review, where the author’s name is hidden.  But conclusion bias seems a bigger problem than author bias, and internet posts do not spoil conclusion-blind review.  The main problem I can see is delay in distributing the information of the paper’s conclusion.  But creating an incentive for faster journal review wouldn’t be such a bad thing.  
+
+
+title: Conclusion-Blind Review
+
+date: January 16, 2007 6:00 am
+

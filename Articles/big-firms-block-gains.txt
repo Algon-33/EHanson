@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+To run an airline, you need not only pilots, airplanes, and fuel, you also need landing rights at airports matching your planned routes and times. Today airlines must buy these rights one at a time via trades, and so risk ending up with mismatched slots that they cannot use.
+Thirty years ago economists designed and tested package auctions to overcome this problem.  In such auctions people can bid for the package of landing slots desired, and be assured of getting either all or none of the items in their desired package. Lab experiments have documented their efficiency advantages.
+At a conference yesterday, someone said that the big airlines have consistently blocked attempts to field such auctions. The reason: because they buy more total slots, big airlines can more easily put together the packages they need. Big airlines oppose innovations that would make it easier for small airlines to compete with them.
+This seems similar to how last year big movie studios got Congress to change laws to block the introduction of movie futures. Such futures would make it easier for small movie studios to get funding and to convince viewers that they had a product worth seeing.
+Better economic institutions help people to better coordinate. But big firms suffer this problem less, because they can more easily coordinate in the absense of such institutions. Even in the US today, big firms (often with the assistance of law and government) block a great deal of institutional innovation, in order to retain this advantage.
+
+
+title: Big Firms Block Gains
+
+date: May 7, 2011 1:45 am
+

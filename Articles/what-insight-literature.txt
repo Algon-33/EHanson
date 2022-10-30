@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+I recently came across an April 2006 NYT essay on abstract versus literary reasoning: 
+
+The quarrel between philosophy and literature has been around so long that even Plato referred to it in ”The Republic” as ”ancient.” The rivalry … circles around one of the deepest questions of all: which gives the truest perspective on human life? Is philosophy’s sublimely abstract distance … the optimal place from which to glean essential truths? Or can they be yielded up only within the vivid intimacy of experience — if not the immediate experiences of our own lives, then the mediated experiences that narrative art affords?  Does the [abstract] view, … in leaving out all the good stories, miss those large truths that are wrested out of the unexpected twists and turns that make us susceptible to love’s abandonment and grief’s annihilation? It is a good question, and Plato’s highhanded way of trying to resolve it in favor of philosophy — going so far as to recommend banishing poets from utopia — has fortunately not laid it to rest.
+
+  
+
+[In] Robert Hellenga’s sweet and lovely new novel, ”Philosophy Made Simple,” … Hellenga is up to something serious beneath the charmingly picaresque tale of Rudy Harrington, a 60-year-old produce dealer from Chicago, circa 1967, who stumbles into a string of adventures just at the point when he had pretty much figured his life to be over. … His unlikely adventures are accompanied by his earnest reflections on the meaning of it all, understood in the largest terms possible and guided by his reading a book, also called ”Philosophy Made Simple.” Harrington’s determination to filter what he is experiencing through the ideas of Plato et al. are touchingly sincere and sometimes comically naïve. … But Hellenga does not intend us to think any less of him. Since this is a novel, it is not a surprise to learn where Hellenga stands on the ancient quarrel between philosophy and literature. He makes his case against Plato well, moving us with pathos and pleasure, startling us into wisdom. 
+
+ How are we to evaluate claims like this, that literature gives important insights that we cannot (or at least do not) express and understand abstractly? What evidence suggests that readers of such stories have gained such insight, instead of merely gaining an intuition telling them of such insights?  Has anyone tried to measure this supposed increased insight in literature readers, such as in their ability to choose better actions?
+OB reader April Harding pointed me to "The fiction of development", which argues that fiction often presents a more reliable picture of development issues than do official writings of development organizations.  For example:  
+
+In her recent study of non governmental organization (NGO) issues in the Philippines, Thea Hilhorst (2003) begins by making a strikingly unfavourable comparison between mainstream academic writing on NGOs and the portrayal of the world of NGOs in a recent work of popular fiction. … Helen Fielding’s novel Cause Celeb (1994), a mainly light-hearted chronicle of the adventures of Rosie, a disenchanted London public relations manager who becomes involved in international humanitarian efforts to address famine in an African country. … presents a relatively nuanced picture of international development work and organizational life: 
+
+In the novel, Rosie’s NGO does what organizations do: it has a mission and clear objectives, staff with differentiated responsibilities, and it works with a budget for planned activities. Yet the novel also brings out how this NGO is shaped by actors in the organization and their surrounding networks. These people carry out activities according to their understanding of the situation and follow the whims of their personalities, motivated by various combinations of sacrifice, self-interest, vanity and compassion. It also places the humanitarian activities in their political context, both in the local situation of a country at war and in the politics of development bureaucracies and fundraising. … Fielding’s novel is strikingly different from most of the scholarly literature on NGOs. Reading this literature, one is usually presented with a black-and-white picture in which managers play the lead roles, all other actors remain silent and the organizations unfold their objectives in a participatory way.
+
+
+I am happy to grant that fiction can often be a more reliable source than official organization documents, or even publications by academics that are especially beholden to such organizations.  But it is not clear that there is claim here of insights that cannot be expressed more academically, nor a claim that trying to write fiction is the best way to acquire such insights, instead of a good way to communicate such insights.   
+
+
+title: What Insight Literature?
+
+date: November 28, 2007 6:00 am
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Back in the 70s many folks thought they knew what the future of computing looked like: everyone sharing time-slices of a few huge computers.  After all, they saw that CPU cycles, the main computing cost, were cheaper on bigger machines.  This analysis, however, ignored large administrative overheads in dealing with shared machines.  People eagerly grabbed personal computers (PCs) to avoid those overheads, even though PC CPU cycles were more expensive.  
+ Similarly, people seem to make lots of assumptions when they refer to "full-scale nanotechnology."  This phrase seems to elicit images of fridge sized home appliances that, when plugged in and stocked with a few "toner cartridges", makes anything a CAD system can describe, and so quickly and cheaply that only the most price-sensitive folks would consider making stuff any other way.  It seems people learned too much from the PC case, thinking everything must become personal and local.  (Note computing is now getting less local.)  But there is no general law of increasingly local production.
+  
+The locality of manufacturing, and computing as well, have always come from tradeoffs between economies and dis-economies of scale. Things can often be made cheaper in big centralized plants, especially if located near key inputs.  When processing bulk materials, for example, there is a rough 2/3 cost power law:  throughput goes as volume, while the cost to make and manage machinery tends to go as surface area.  But it costs more to transport products from a few big plants.  Local plants can offer more varied products, explore more varied methods, and deliver cheaper and faster.  
+Innovation and adaption to changing conditions can be faster or slower at centralized plants, depending on other details. Politics sometimes pushes for local production to avoid dependence on foreigners, and at other times pushes for central production to make succession more difficult. Smaller plants can better avoid regulation, while larger ones can gain more government subsidies.  When formal intellectual property is weak (the usual case), producers can prefer to make and sell parts instead of selling recipes for making  parts.
+ Often producers don’t even really know how they achieve the quality they do.  Manufacturers today make great use of expensive intelligent labor; while they might prefer to automate all production, they just don’t know how.  It is not at all obvious how feasible is "full nanotech," if defined as fully automated manufacturing, in the absence of full A.I.  Nor is it obvious that even fully automated manufacturing would be very local production.  The optimal locality will depend on how all these factors change over the coming decades; don’t be fooled by confident conclusiosn based on only one or two of these factors.  More here.
+
+
+title: Whither Manufacturing?
+
+date: December 2, 2008 6:00 am
+

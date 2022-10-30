@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+I keep encountering people who are mad at me, indignant even, for studying the wrong scenario. While my book assumes that brain emulations are the first kind of broad human-level AI, they expect more familiar AI, based on explicitly-coded algorithms, to be first.
+Now the prospect of human-level ordinary AI is definitely what more people are talking about today – the topic is in fashion. There are AI companies, demos, conferences, media articles, and more serious intellectual discussion. In fact, I’d estimate that there is now at least one hundred times as much attention given to the scenario of human level AI based on explicit coding (including machine learning code) than to brain emulations.
+But I very much doubt that ordinary AI first is over one hundred times as probable as em-based AI first. In fact, I’ll happily take bets at a factor of ten. You pay me $1000 if em-AI comes first, and I pay you $100 if other AI comes first.
+In addition, due to diminishing returns, intellectual attention to future scenarios should probably be spread out more evenly than are probabilities. The first efforts to study each scenario can pick the low hanging fruit to make faster progress. In contrast, after many have worked on a scenario for a while there is less value to be gained from the next marginal effort on that scenario.
+Yes, sometimes there can be scale economies to work on a topic; enough people need to do enough work to pass a critical threshold of productivity. But I see little evidence of that here, and much evidence to the contrary. Even within the scope of working on my book I saw sharply diminishing returns to continued efforts. So even if em-based AI had only 1% the chance of the other scenario, we’d want much more than 1% of thinkers to study it. At least we would if our goal were better understanding.
+But of course that is not usually the main goal of individual thinkers. We are more eager to jump on bandwagons than to follow roads less traveled. All those fellow travelers validate us and our judgement. We prefer to join and defend a big tribe against outsiders, especially smaller weaker outsiders.
+So instead of praising my attention to a neglected if less-likely topic, those who think em-AI less likely mostly criticize me for studying the wrong scenario. And continue to define topics of articles, conferences, special journal issues, etc. to exclude em-AI scenarios.
+And this is how it tends to work in general in the world of ideas. Idea talkers tend to clump onto the topics that others have discussed lately, leaving topics outside the fashionable clumps with less attention relative to their importance. So if you are a thinker with the slack and independence to choose your own topics, an easy way to make disproportionate intellectual progress is to focus on neglected topics.
+Of course most intellectuals already know this, and choose otherwise.
+Added:  Never mind about effort less proportional than chances; Owen Cotton-Barratt reminded me that if value diminishes with log of effort, optimal scenario effort is proportional to probability.
+Added 11Oct: Anders Sandberg weighs in.
+
+
+title: Idea Talkers Clump
+
+date: October 6, 2016 8:05 am
+

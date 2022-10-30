@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Three recent papers from the Journal of Personality and Social Psychology combine to tell an interesting tale:  We fundamentally care about outcomes, but have rule morality to keep powerful folks from doing bad things to the rest of us.  This is of course not a new idea, but new data offers new support.
+From August:
+Thinking about and having power affects the way in which people resolve moral dilemmas. … In determining whether an act is right or wrong, the powerful focus on whether rules and principles are violated, whereas the powerless focus on the consequences. For this reason, the powerful are also more inclined to stick to the rules, irrespective of whether this has positive or negative effects, whereas the powerless are more inclined to make exceptions. … The power–moral link is reversed when rule-based decisions threaten [powerful] participants’ own self-interests.
+From March:
+A distinction is made between two forms of morality. … Prescriptive morality is sensitive to positive outcomes, activation-based, and focused on what we should do. Proscriptive morality is sensitive to negative outcomes, inhibition-based, and focused on what we should not do. Seven studies profile these two faces of morality. … Both are well-represented in individuals’ moral repertoire and equivalent in terms of moral weight, but proscriptive morality is condemnatory and strict, whereas prescriptive morality is commendatory and not strict. … proscriptive morality was perceived as concrete, mandatory, and duty-based, whereas prescriptive morality was perceived as more abstract, discretionary, and based in duty or desire; proscriptive immorality resulted in greater blame, whereas prescriptive morality resulted in greater moral credit.
+From June:
+Three studies tested the hypothesis that people would be particularly sensitive to the fairness of decision-making procedures when they experience deprivation of autonomy needs. Study 1 indicated that procedural justice judgments indeed were influenced more strongly by variations in decision-making procedures among participants who experienced little autonomy in their life.
+The basic idea here is that moral norms are enforced via social censure, which requires that observers be able to tell who has violated moral norms.   When there are norm ambiguities, powerful people will find it easier to falsely claim they have followed norms, implicitly threatening those who contradict them.  To avoid this, powerful folks are held to rule norms that are easier for observers to verify.
+Here is a somewhat-related result, from the July Psychological Science:
+Among people who are highly identified with a group, learning about the group’s injustice leads to short-term increases in group-serving behavior.
+
+
+title: Moral Rules Are To Check Power
+
+date: August 8, 2009 2:00 pm
+

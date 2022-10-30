@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Joshua Rothman, in The New Yorker, on Age of Em:
+It may be, too, that we should look with some trepidation toward the transitional period—that strange era in which our real-world ways will be disrupted by the introduction of new and bizarre simulated life forms. In “The Age of Em,” a nonfiction work of social-science speculation published earlier this year, the economist and futurist Robin Hanson describes a time in which researchers haven’t yet cracked artificial intelligence but have learned to copy themselves into their computers, creating “ems,” or emulated people, who quickly come to outnumber the real ones. Unlike Bostrom, who supposes that our descendants will create simulated worlds for curiosity’s sake, Hanson sees the business case for simulating people: instead of struggling to find a team of programmers, a company will be able to hire a single, brilliant em and then replicate her a million times. An enterprising em might gladly replicate herself to work many jobs at once; after she completes a job, a copied em might choose to delete herself, or “end.” (An em contemplating ending won’t ask “Do I want to die?,” Hanson writes, since other copies will live on; instead, she’ll ask, “Do I want to remember this?”) An em might be copied right after a vacation, so that whenever she is pasted into the simulated workplace, she is cheerful, rested, and ready to work. She might also be run on computer hardware that is more powerful than a human brain, and so think (and live) at a speed millions or even trillions of times faster than an ordinary human being.
+Hanson doesn’t think that ems must necessarily live unhappy lives. On the contrary, they may thrive, fall in love, and find fulfillment in their competitive, flexible, high-speed world. Non-simulated people, meanwhile, may retire on the proceeds from their investments in the accelerated and increasingly autonomous em economy—a pleasant vantage point from which to observe the twilight of non-emulated civilization. Many people have imagined that technology will free us from the burden of work; if Hanson is right, that freedom could come through the virtualization of the human race.
+This was in an article about the simulation argument. Two years ago I compared em and sim conversations, noting that in both cases many discuss using them as fiction settings, the chances that they are true, clues for inferring if they are true, and what they imply for identity, consciousness, physics, etc. But few discuss social consequences, such as how to live in a simulation or what a em world is like socially.
+Oddly to me, Rothman didn’t go that direction; he didn’t even mention my (or anyone’s) analysis of how to live in a simulation.
+Oh, and running trillions of times faster than humans is quite a bit faster than I’ve guessed; I’ve said maybe millions of times faster.
+
+
+title: New Yorker on Age of Em
+
+date: June 10, 2016 7:30 am
+

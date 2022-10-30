@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Grim view of human nature … is mistaken, a persistent and counterproductive myth. … the evidence for mass selfishness is extremely thin. … The surprising truth is that people tend to be­have decently in a crisis. To the British, the all-too-familiar example is the cheerful demeanour of Londoners during the Blitz. … New Orleans after Hurricane Katrina … rumours ran wild about the murder and rape of children inside the Louisiana Superdome; but when the national guard showed up, … met instead by a nurse asking for medical supplies. (more)
+Friday I asked the author of a pandemic novel what he thought went most wrong in his fictional world. He said selfishness: blaming others, and not sacrificing enough to protect others from infection. He also said he was surprised to see people acting less selfishly than he predicted in our real pandemic.
+As the above quote indicates, that’s a common mistake. In this pandemic I estimate that the bigger problem is people pushing for too much “helping”, rather than too little. That’s a common problem in health and medicine, and this poll says 2-1 that it is the more common problem:
+
+On average, which is the bigger problem: (A) Overly selfish choices not sufficiently discouraged by regulation, norms, & public shaming, (B) Overly eager, confident, & aggressive do-gooder efforts to rein in individual choices in name of preventing selfish act harms?
+— Robin Hanson (@robinhanson) June 6, 2020
+
+Of course my Twitter followers are probably unusual by this metric; I’d bet most think selfishness is the bigger problem. One reason is that it can look suspiciously selfish to say there’s too much do-gooding, as if you were trying to excuse your selfish behavior. Another reason is that the theory of selfishness is simpler. In economics, for example, we teach many quite simple game theory models of temptations to selfishness. In contrast, it seems harder to explain the core theory of why there might be too much do-gooding.
+This seems to suggest a good and feasible project: generate or identify some good simple game theory models that predict too much do-gooding. Not just personal signaling acts that do too much, but acts that push collective norms and decisions toward too much do-gooding. I’d be happy to help with such a project. Of course it would make only a small contribution to the problem, but still I’d guess one worth the trouble.
+
+
+title: Missing Model: Too Much Do-Gooding
+
+date: June 7, 2020 10:45 am
+

@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+I’m a little late to the party, as this was covered in the New York Times back in June, but the insight stuns me — we may well not have enough data in our corner of the universe to learn important physics: 
+
+Our successors, whoever and wherever they are, may have no way of finding out about the Big Bang and the expanding universe, according to one of the more depressing scientific papers I have ever read.  If things keep going the way they are … in 100 billion years the only galaxies left visible in the sky will be the half-dozen or so bound together gravitationally into what is known as the Local Group, which is not expanding and in fact will probably merge into one starry ball.  Unable to see any galaxies flying away, those astronomers will not know the universe is expanding and will think instead that they are back in the static island universe of Einstein. …
+It makes you wonder just how smug we should feel about our own knowledge.  "There may be fundamentally important things that determine the universe that we can’t see," Dr. Krauss said in an interview. "You can have right physics, but the evidence at hand could lead to the wrong conclusion. The same thing could be happening today."
+
+ I read about it in the latest Scientific American, and there is also a short article in a recent New Scientist.  Corey Tomsons blogs that this is not a new insight:
+  
+
+This is a ‘rediscovery’ of sorts. There are two other papers which cover this type of analysis, although Krauss and Scherrer provide the most comprehensive short treatment. 
+
+T. Rothman & G.F.R. Ellis. The epoch of observational cosmology. The Observatory, vol. 107, p. 24-29 (1987). 
+Abraham Loeb. Long-term future of extragalactic astronomy. Phys. Rev. D 65, 047301 (2002). 
+
+… Librarians: You might start thinking about how to store cosmological data for the next 100+ billion years. Acid free paper won’t cut it, so think big. … No matter the record, it would doubtless be received with skepticism. Think of the amount of trust future scientists would need to possess if they were to take seriously any surviving arXiv records about the Big Bang, and how empiricists of the time would heap scorn upon them. This is tremendously unsettling, but ‘m fascinated by the idea that in the distant future, the Big Bang theory would become akin to Intelligent Design – a theory contradicted by the best evidence.
+
+To turn it around, there may well be physics that we can only learn via records saved by ancient aliens – which gives us another good reason to seek such aliens.  Krauss was at first scheduled to speak at that recent SETI workshop – it would have been fun to talk to him about this.      
+
+
+title: Limits to Physics Insight
+
+date: March 11, 2008 6:00 am
+

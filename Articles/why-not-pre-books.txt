@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+I’m planning to write a book, a book I want to both be engaging to a wide audience, and to adequately defend some complex non-obvious intellectual claims. It feels quite daunting to write with both of these goals in mind at once. So I’m thinking of achieving these two goals in two steps. First I’d write a pre-book, which states my main claims and arguments directly and clearly, using expert language, for an expert audience. I’d then circulate that pre-book privately among experts and useful thinkers of various sorts, seeking criticism of my arguments. Then using their feedback, I’d revise my claims and arguments, and write an engaging accessible book that can be circulated widely.
+While this strategy seems to make sense, I rarely hear of anyone doing it. Why? Some possible explanations:
+
+Lots of writers do this; they just don’t let it be known, as that makes them seem unconfident.
+Most writers think they know what experts will think about each opinion they will express, and see little value in getting expert feedback on the package of opinions they will express.
+A pre-book nearly doubles a writer’s effort, and few writers of accessible books are willing to do this just to get a more intellectually defensible argument.
+Far fewer experts are willing to comment on a private pre-book than are willing to publicly criticize a published book. The main way to get feedback is to publish things.
+The readers of the pre-book will be offended that their feedback don’t much change the writer’s opinions.
+If the pre-book is circulated too widely, that will cut too far into the book sales.
+Critics with access to the pre-book might embarrass the author by pointing the many changes of opinion in the book.
+Good writers don’t find it very hard to simultaneously write both defensibly and accessibly.
+Writers choose a book concept based on what they think will sell. Getting expert feedback on a pre-book might change author opinions too much, making it harder to sincerely write the initial book concept.
+
+
+
+title: Why Not Pre-Books?
+
+date: November 12, 2012 9:15 am
+

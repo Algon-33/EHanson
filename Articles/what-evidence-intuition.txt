@@ -1,0 +1,36 @@
+author: Robin Hanson
+
+text: 
+Many complain that economists "over-simplify."  We do simplify of course; we are picky about what data "counts", and we prefer models with a few stark assumptions.  And other social analysts do offer more detailed social stories, relying on messier data like personal impressions.  But economists wonder: does their added detail get them closer to the truth?  
+A new "experimental philosophy" movement is pushing philosophers to be more like economists, by relying less directly on personal intuition.  (See this manifesto, and this blog; I predict this will go far.)   
+"Intuition" is when our subconscious mind suggests to us a conclusion (with a confidence level), but without as clearly explaining its reasoning.  Since we are intelligent creatures, with far more subconscious than conscious mental activity, these intuited conclusions do tend to correlate with truth, all else equal.  So the fact of an intuition for a conclusion can be evidence for that conclusion.   
+Philosophers invoke intuitions rather promisciously, however, seemingly as an all purpose glue available to plug any whole in any argument.  This encourages them to build elaborate and detailed theories.  But many complain philosophers weigh their personal intuitions too heavily, implicitly assuming them to be widely shared or superior to others’ intuitions.  (I think my colleague Bryan Caplan, for example, relies too heavily on his personal strong intuitions for dualism and morality.) 
+ Experimental philosophers say we should instead rely more on larger intuition datasets, and so they survey intuitions across wide multicultural pools. They have some surprising results.  For example, ordinary folks disagree with philosophers about what moral acts are "intentional":
+  
+
+Two thought-experiments … differed only in the moral significance of the action described:
+
+
+ (1) The vice-president of a company went to the chairman of the board and said, `We are thinking of starting a new program. It will help us increase profits, but it will also harm the environment.’  The chairman of the board answered. `I don’t care at all about harming the environment. I just want to make as much profit as I can. Let’s start the new program.’  They started the new program. Sure enough, the environment was harmed.
+ (2) The vice-president of a company went to the chairman of the board and said, `We are thinking of starting a new program. It will help us increase profits, but it will also help the environment.’  The chairman of the board answered. `I don’t care at all about helping the environment. I just want to make as much profit as I can. Let’s start the new program.’ They started the new program. Sure enough, the environment was helped.
+ … Most [ordinary] subjects (82%) considering the first thought-experiment (in which the action had negative moral qualities) indicated having the intuition that the action was intentional. By contrast, most subjects (77%) considering the second thought-experiment (in which the action had positive moral qualities) indicated having the intuition that the action was unintentional.
+
+There are now two factions in experimental philosophy: 
+
+ For proponents of the proper foundation view, the problem with standard philosophical practice is that proper care has not been given to determining just what are the intuitions that should be used as evidence for or against philosophical claims.  By contrast, for proponents of the restrictionist view, the problem with standard philosophical practice is that experimental evidence seems to point to the unsuitability of intuitions to serve as evidence at all. … 
+The restrictionist … advocates not the root and branch removal of all intuitions, but just the pruning away of some of the more poisoned philosophical branches. The peculiar and esoteric intuitions that are the philosopher’s stock-in-trade represent a fairly small portion of the entire human intuitive capacity, and it hardly impugns the latter if the former turn out to be untenable.  (Contending that squinting in dim light is a poor way to see the world accurately would, likewise, not be to cast doubt on perception on the whole.)
+So the epistemologists’ responses give us, at best, that intuitions are on average reliable, when to save the armchair practice from the restrictionists, what they need to offer is some reason to think that philosophers’ intuitions about typical philosophical hypothetical cases are reliable.  Importantly, the restrictionists’ experiments do not merely suggest that philosophers’ intuitions are fallible; they also reveal that fallibility in places that armchair philosophers were not at all expecting to find it. 
+
+My only philosophy publication so far similarly argued that philosophers naively rely too directly on error-prone health-care-specific intuitions.  From the analysis in my paper, I predict that once philosophers realize they intuition data is less reliable than they thought, they will adopt simpler theories, as economists do.  Some key questions to address:
+
+What does it say about a topic that our main evidence on it is intuitions, rather than more explicit data and arguments?
+How does intuition reliability vary with topic and person, and how reliable are intuitions on this meta-topic?
+How much does conformity, vs. info, make professional philosopher intuitions differ from amateur ones?
+
+  
+
+
+title: What Evidence Intuition?
+
+date: October 9, 2007 6:00 am
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines. Emerson
+O.M.G.:
+Experimental choice data from 881 subjects based on 40 time-tradeoff items and 32 risky choice items reveal that most subjects are time-inconsistent and most violate the axioms of expected utility theory. These inconsistencies cannot be explained by well-known theories of behavioral inconsistency, such as hyperbolic discounting and cumulative prospect theory. … Time-inconsistent subjects and those who violate expected utility theory both earn substantially higher expected payoffs, and these positive associations survive largely undiminished when included together in total payoff regressions. Consistent subjects earn lower than average payoffs because most of them are consistently impatient or consistently risk averse. … Controlling for the total risk of each subject’s risk choices as well as for socio-economic differences among subjects, time inconsistent subjects earn significantly more money, in statistical and economic terms. So do expected utility violators. Positive returns to inconsistency extend outside the domain in which inconsistencies occurs, with time-inconsistent subjects earning more on risky choice items, and expected utility violators earning more on time-tradeoff items. The results seem to call into question whether axioms of internal consistency—and violations of these axioms that behavioral economists frequently focus on—are economically relevant criteria for evaluating the quality of decision making in human populations. (more; HT Dan Houser)
+If your jaw isn’t in your lap yet, you aren’t paying attention:
+Ask a behavioral economist what we learn from behavioral economics in applied work aimed at educating the public or designing institutions, and you will likely hear calls to help error-prone, biased, or irrational humans overcome the systematic pathologies built into their brains.  And yet, very little evidence exists linking violations of axiomatic rationality to high-stakes differences in real people’s lives.  … Calls to use behavioral economics as a prescriptive basis for institutional design, such as … to tax potato chips and subsidize carrots, or … changing defaults in savings plans, organ donation rules, and the positioning of dessert on the buffet line, naturally raise controversy.  What seems clear, however, is the need for … investigating whether the normative measures we use are relevant to the economic problems we face.
+These results seriously question the relation between winning and easy-to-observe local measures of rationality.  In at least two important contexts, people whose actions seem more locally consistent, consistently lose.
+Such results also suggest we face a “dark decisions” problem, analogous to the dark matter and energy problems in physics, or the dark brain in neuroscience. Clearly the processes behind our inconsistencies aren’t just random errors, and aren’t very close to expected utility; simple-minded attempts to make them more consistent seem to make them worse.
+Added 27Nov: On reflection, I wasn’t thinking straight; this is just the sort of result one should expect from simple random error.  When “rationality” makes you avoid big risks and future payouts, random error can indeed get you paid more on average, in the future.
+
+
+title: Beware Consistency
+
+date: November 26, 2010 10:00 am
+

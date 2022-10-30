@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+The world has seen a lot of very big changes over the last few centuries. Many of these changes seem so large, in fact, that it is hard to see how changes over the next few centuries could be remotely as large. For example, many “big swing” parameters have moved from one extreme to the other, changing by more than half of the total range possible for that parameter. So the only way future changes could be as large in such a parameter is if it completely reversed direction to move back to the opposite extreme.
+For example, once only a small percentage of people lived in cities; now more than half do. Once only a few nations were democratic, now more than half are. Once many people were slaves, now there are very few slaves. Once people worked nearly as many hours a week as possible, now they work less than half of their waking hours. Once nations were frequently at war, now war is rare. Once lifespans were near 30 years, now they are near 80, and some say 120 is the max possible. Once few people could read, now most can. Once genders and races were treated quite unequally, now treatment is more equal than unequal. Once engines and solar cells had low efficiency, now efficiency is half or more of the theoretical maximum. And so on.
+If these big-swing parameters encompassed most of what we cared about in change, and if it is in fact implausible for such parameters to reverse back to their opposite extremes, then the conclusion seems inescapable: future change must be less than past change.
+But pause to ask: how sure can we be that these big swing parameters encompass a large fraction of what matters within what can change? And notice a big selection effect: even when rates of change are constant overall, the particular parameters that happened to change the most in the recent past will in general not be the ones that change the most in the near future. So for those big past changing params future change will be less, even though overall rates of change stay steady. Maybe we spend so much time focusing on the parameters that have recently changed most, that we forget how many other parameters remain which are available to change in the future.
+My book Age of Em might be taken as a demonstration that big future change remain possible. And we might also test this selection effect via a historical analysis. We might, for example, look at params that changed the most from the year 500 to the year 1000, at least as people in the year 1000 would have seen them, and then ask if those particular parameters changed more or less during the period from 1000 to 1500. Repeat for many different times and places.
+
+
+title: How Big Future Change?
+
+date: November 4, 2017 4:40 pm
+

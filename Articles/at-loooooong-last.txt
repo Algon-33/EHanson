@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+In 2001, DARPA started funding my Policy Analysis Market:
+We planned to cover eight nations. For each nation in each quarter of a year, we planned to have traders predict its military activity, political instability, economic growth, US military activity, and US financial involvement. In addition traders would predict US GDP, world trade, … and a few to-be-determined miscellaneous items. This would require a hundred or so base markets. Most important, we wanted to let our traders predict combinations of these, such has how moving US troops out of Saudi Arabia would affect political stability there, how that would affect stability in neighboring nations, and how all that might change oil prices. …
+[We] prepared for and ran lab experiments comparing two new combinatorial trading mechanisms with traditional mechanism. These experiments, where six traders set 255 independent prices in five minutes, found that a combinatorial market maker was the most accurate. Phase II was mostly being spent implementing a scaleable production version of this market maker.
+Alas, disaster hit a month before we were to start live testing, and five months before we were to start public trading:
+The media storm hit on July 28, 2003, when two senators (falsely) complained that we were planning to let people bet on individual terrorist attacks. The next morning the secretary of defense announced that FutureMAP was cancelled.
+While the press on that event did help jump-start today’s prediction market industry, I have always regretted that the storm didn’t wait until we had a demo to show, of combinatorial markets on Mideast geopolitical events. This is why if felt so satisfying to announce Friday:
+We are live! If you register at DAGGRE.org, you can join hundreds of others who browse and edit estimates on over 100 questions intended to be of interest to the US intelligence community. … You can also make assumptions, and then browse and edit as before.
+Over nine years later, you can finally see the demo I wanted everyone to see in ’03! Of course this is only a play money market, and it isn’t open to everyone. We don’t allow foreigners, you can’t lose any money in it, and we only pay for activity, not accuracy. So there’s less reason for you to believe these prices as event estimates. But still, you can see combinatorial prediction markets in action. At long looooong last!
+
+
+title: At Loooooong Last
+
+date: December 9, 2012 4:00 am
+

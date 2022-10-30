@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan finds that while more education (and being born later) predicts fewer kids, controlling for those factors (and age), more income predicts more kids. I don’t recall doing so, but Bryan says I predicted this result with some confidence years ago, but that he was skeptical at the time. Here are Bryan’s results predicting number of kids for men:
+
+and for women:
+
+Note the year effect is about the same for men and women, but the education effect is twice as big for women, while the income effect is twice as big for men. (All effects are highly significant.) Bryan concludes:
+If you’re prone to futurist speculation, trying re-imagining Idiocracy
+
+title: The Rich Have More Kids
+
+date: June 9, 2011 10:35 am
+

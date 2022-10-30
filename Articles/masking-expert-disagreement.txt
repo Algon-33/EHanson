@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+A recent paper by John Beatty, Masking Disagreement among Experts, asks why scientific committees do not report on internal disagreements:
+
+ Expert committee reports … often implicitly or explicitly agree to withhold information – for example when they "jointly accept" the position that they report. … What could possibly count in favor of simplifying or jointly accepting a position, and thereby masking the extent of disagreement? One might offer paternalistic reasons. … it is (supposedly) good for the public that they speak with one voice, just as it is (supposedly) good for children if their parents put aside differences in their views of child-rearing and issue univocal advice… 
+Another reason … is to protect their expert status. As long as they openly contest each other’s knowledge with regard to an issue of public concern, they may raise questions in the minds of the lay public as to whether they know what needs to be known, and even whether they have the competence to figure it out. … An alternative way in which putative experts might maintain their relevance in the face of persistent disagreement is to appeal to their track record on issues of public concern. … If, however, there is no track record to appeal to, or if the track record is unappealing, then downplaying their current disagreements might be crucial to gaining the public’s confidence.
+
+Can we reasonably infer that experts who do not reveal their disagreements have an unappealing track record, know less than they pretend, or treat the public like children?   I’ll bet someone will offer us an unseen bias to justify this seen bias. 
+
+
+title: Masking Expert Disagreement
+
+date: March 23, 2007 6:00 am
+

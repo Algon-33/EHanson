@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+The August Journal of Financial Economics reports that large traders tend to compensate for the fact that "security analysts tend to bias stock recommendations upward, particularly if [the analyst is] affiliated with the underwriter."   But "small traders, instead, follow recommendations literally.
+So to help you small investors, I’ve made a handy guide.  If the analyst is not affiliated with those pushing the stock: 
+
+When the analyst says "strong buy", you should buy.
+When the analyst says "buy", you should hold.
+When the analyst says "hold", you should sell. 
+
+If the analyst is affiliated with those pushing the stock:
+
+When the analyst says "strong buy", you should hold.
+When the analyst says "buy", you should sell.
+When the analyst says "hold", oh my God, sell!!! 
+
+
+
+title: Naive Small Investors
+
+date: September 16, 2007 6:00 am
+

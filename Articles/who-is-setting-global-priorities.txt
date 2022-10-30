@@ -1,0 +1,13 @@
+author: Robert Wiblin
+
+text: 
+In a situation where different activities have very different benefit to cost ratios, it is important to set priorities, and finish those with the highest values first.  Any individual who didn’t set priorities would achieve much less than they could; they might end up malnourished because they are busy reading their junk mail. While it is relatively easy to set priorities for a single human’s personal life – not that we always follow them – setting priorities for humanity as a whole is very difficult and requires in-depth study.
+The central limit theorem suggests that the cost effectiveness of different projects ought to have a ‘log normal’ distribution, if not an even fatter-tailed one. Furthermore, there is no reason to think that (e.g.) political reform, different environmental causes, R&D for various technologies, conflict resolution, poverty reduction and so on are ee in the same ball-park of cost effectiveness, so we should anticipate a large variance in the distribution. This would leave some causes orders of magnitude more important than others. What research on this topic has been done, by groups like J-PAL, GiveWell, the WHO, and so on, indeed finds that the value of different methods of improving the world varies dramatically, with some doing enormous amounts of good and others achieving next to nothing. Unfortunately, as far as I am aware – and I would love to be informed otherwise – there is no one who has taken on the role of picking out and promoting the most important tasks we face.
+The Copenhagen Consensus set out to fill this gap in 2003, and produced reports that were of mixed quality, though excellent value for money and a substantial improvement on what existed before. Sadly, it is not currently planning another round of research because it is out of funding (though still taking donations). In the absence of a comprehensive and broad comparison of different causes, resources naturally flow to the most powerful or vocal interest groups, or the approaches that people intuitively guess are best. Given our terrible instincts for risks and magnitudes we don’t have regular direct experience with, it would be an extraordinary coincidence if these actually were the most valuable projects to be embarking on.
+The natural home for a properly-funded and ongoing global prioritisation research project would be the World Bank or alternatively, the OECD, or a university. If anyone is reading this and has some influence: global prioritisation looks like a cost effective cause to hop on. Though given the lack of research on the topic, I’ll admit it is hard to be sure!
+
+
+title: Who is setting global priorities?
+
+date: February 28, 2013 10:15 am
+

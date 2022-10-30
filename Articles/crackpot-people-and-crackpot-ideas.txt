@@ -1,0 +1,15 @@
+author: Arnold Kling
+
+text: 
+I listened to Brian Doherty talk about his book on the history of libertarianism.  One point he makes is that in the forties and the fifties, libertarians were mostly crackpots.  He suggests that this is likely to be the case for any dissident idea.
+This suggests that different ideas are going to occupy different niches.  For example, suppose that there is a large niche for anti-capitalist ideas.  The actual ideas occupying that niche may be different in different time periods, but something always fills that niche.
+There may different niches for pessimistic ideas and optimistic ideas. 
+When there is a popular idea and a crackpot idea, which is more likely to be right?  Instead of thinking about this problem by thinking in terms of a probability distribution, it may be useful to think of an ecological model.   What sort of false ideas are likely to occupy particular niches, including the niche of popular opinion?  What sort of false ideas are likely to survive by finding crackpots to host them?
+Belief in anthropogenic global warming is becoming popular.  Skepticism is becoming crackpot.  What is the probability that the global warming partisans will turn out to be the crackpots?  How does that probability depend on the niche that the global warming idea occupies?
+I know that the ecological metaphor has been used in this context, with the term "meme," but I admit I have never read the literature, so I don’t know if the connection between bias and survival of memes has been addressed there.
+
+
+title: crackpot people and crackpot ideas
+
+date: February 15, 2007 8:24 am
+

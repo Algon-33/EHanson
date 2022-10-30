@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+All we are is dust in the wind. (Song lyrics)
+Alex:
+Contra Tyler, the lesson of history is that few things are as effective at launching a revolution as is moral argument. Without the firebrand Thomas “We have it in our power to begin the world over again“ Paine, the American Revolution would probably never have happened. (more)
+Imagine standing at the shore of a river. You scoop a handful of water, and throw it downstream. By how much do you expect that act to change the flow of the river into the ocean miles downstream? I expect the effect to be far less than a handful of water arriving a few seconds earlier. More like a few atoms arriving a few seconds earlier. The speed of a river is a balance between gravity and friction, and that balance is likely to be quickly restored after disturbances like throwing a handful of water.
+This seems a pretty typical example of influencing the physical world. The vast majority of such influences quickly disappear. So if you want your influence to last, you have to choose carefully. For example, since on Earth nature only rarely moves big stones, you might succeed in assembling a stone wall that lasts for thousands of years. At least if other people don’t want to knock it down.
+Now consider trying to have a long term social influence. As with physical influence, we should expect that most efforts to influence the social world also diminish quickly away from the point of influence. After all, many aspects of the social world also result from balances between opposing forces. For example, if US independence was largely inevitable in the long run, then Thomas Paine could have at most influenced when exactly when the US became independent.
+But what if there are tipping points? Imagine that a burst of floodwater came to the edge of overflowing a dam. An overflow might dig a channel leading in a new direction, changing the course of a river for a long time to come. So adding or subtracting just a little water near that overflow point might have a big long term effect. Can this metaphor give us more hope for long term social influence?
+Well first, such tipping points must be rare – the vast majority of points can’t tip very far. Second, when many people can influence a social event, not only are most people only a drop in a tide of influence, most people are also only a drop in a tide of information. For example, imagine that people were pushing for or against US independence based on their best info on if that is good for the world. In this case Paine could only be in a position to tip the outcome if many other people also could tip the outcome, and if they were pushing in many different directions, with their net effects nearly balancing out.
+In a case like this, Paine couldn’t be at all sure that a US revolution was a good idea. After all, an awful lot of people would have best info suggesting it was not a good idea. And in fact Bryan Caplan makes a good case that it wasn’t in fact a good idea.
+Of course many people might have been pushing based on private interests, instead of a common good. But this still wouldn’t give Paine much reason for confidence in his tipping the world to a better place. Either many others would try to help the world, or Paine couldn’t have good reason to think he is the only exception.
+So are there any good ways to have long term influence? One idea is to find a social situation like the stone wall, where you can add things that aren’t likely to get moved, and where your stones aren’t likely to be added anyway a bit later by someone else. Perhaps doing intellectual work on highly neglected topics is something like this.
+See also: Long Legacies
+
+
+title: Dust In The Wind
+
+date: February 15, 2014 9:10 pm
+

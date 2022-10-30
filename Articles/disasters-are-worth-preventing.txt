@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+In August I reported that economic disasters seem thin-tailed, and so are not existential risks.  Even so, it seems we should still devote more attention to them:
+What is the likelihood that the U.S. will experience a devastating catastrophic event over the next few decades — something that would substantially reduce the capital stock, GDP and wealth?  …  How much should society be willing to pay to reduce the probability or likely impact of such an event?  We address these questions using a general equilibrium model that describes production, capital accumulation, and household preferences, and includes as an integral part the possible arrival of catastrophic shocks. …
+We model catastrophes as Poisson events with some mean arrival rate, and an impact characterized by a one-parameter [thin-tailed] power probability distribution. … We calibrate our model so that it ﬁts the basic data for the consumption-investment ratio, the risk-free interest rate, the equity premium, Tobin’s q , and the average real growth rate.  We thereby calculate the implied characteristics of catastrophes, and also determine how those characteristics vary over a range of values for the preference parameters. …
+We found the annual probability of a catastrophe to between 0 and about .04. A reasonable estimate would be in the middle of our range, i.e., around .02. This is close to Barro’s (2006) estimate from historical data, but was obtained in a very different way. Our estimates of the impact distribution and expected loss should a catastrophe occur are tighter, but depend on the index of risk aversion (which we take to be between 2 and 4). However, the expected losses are large; about 26 to 32 percent …  We calculated … the permanent tax on consumption that society would accept to reduce the annual probability of a catastrophe by some percentage. Using the mid-range estimate of .02 for the annual probability, a permanent consumption tax of about 9 percent would be justiﬁed if it could cut this probability in half. Even if the probability is lower than .02, our results suggest that governments should devote greater resources to reducing the risk and potential impact of a global catastrophe.
+
+
+title: Disasters Are Worth Preventing
+
+date: October 4, 2009 6:00 am
+

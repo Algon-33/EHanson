@@ -1,0 +1,68 @@
+author: Robin Hanson
+
+text: 
+Artir Kel has posted a 21K word review of our book, over 1/6 as long as the book itself! He has a few nice things to say:
+What the book does is to offer deeper (ultimate) explanations for the reasons (proximate) behind behaviours that shine new light on everyday life. … It is a good book in that it offers a run through lots of theories and ways of looking at things, some of which I have noted down for further investigation. It is because of this thought-provokingness and summarisation of dozens of books into a single one that I ultimately recommend the book for purchase.
+And he claims to agree with this (his) book summary:
+There exist evolutionary explanations for many commonplace behaviours, and that most people are not aware of these reasons. … We suffer from all sorts self-serving biases. Some of these biases are behind large scale social problems like the inflated costs of education and healthcare, and the inefficiencies of scientific research and charity.
+But Kel also says:
+Isn’t it true that education is – to a large degree – about signaling? Isn’t it true that politics is not just about making policy? Isn’t it true that charity is not just about helping others in the most efficient way? Yes, those things are true, but that’s not my point. The object-level claims of the book, the claims about how things are are largely correct. It is the interpretation I take issue with.
+If you recall, our book mainly considers behavior in ten big areas of life. In each area, people usually give a particular explanation for the main purposes they achieve there, especially went they talk very publicly. For each area, our book identifies several puzzles not well explained by this main purpose, and offers another main purpose that we suggest better explains these puzzles.
+In brief, Kel’s “interpretation” issues are:
+
+Other explanations can account for each of puzzling patterns we consider.
+We shouldn’t call hidden purposes “motives”, nor purposeful ignorance of them “self-deception”.
+
+
+On the first point, he has other explanations to offer on school:
+
+Students would get the degree for free rather than the actual education. … To me, this doesn’t ring true. …
+Students largely don’t get a world-leading education at Stanford for free. … They don’t even know this is a possibility. … People don’t like to be the ultimate conspicuous free rider. …
+Students are happy when classes are canceled because they think classes … can be compressed. …
+Much of what school teaches is useless. … States have made it compulsory for schools to teach a set of subjects.… Whoever makes those laws honestly believes that those things matter. …
+Students who study the “useless” subjects like liberal arts … get … consumption benefits …
+Students forget most of the stuff: But they, ex ante, underestimate the degree of this forgetting. …
+Schools use suboptimal teaching methods … sounds easier to impute to social inertia.
+
+And on medicine:
+The public is generally ignorant. In healthcare, knowing what works is specially difficult. The particular incentives of socialised healthcare. Self-interested healthcare professionals lobbying. A general desire to provide healthcare to the poor. Risk-aversion.
+
+All that extra money being pumped into healthcare is doing something, but not something measurable in the general population … Contrary to Hanson, a fixed amount of dollars doesn’t get you the same amount of care everywhere. …
+Nurses are as effective as doctors, but only doctors are allowed to treat patients. … explanation [is] … genuine concern with quality, plus lobbying.…
+A focus on helping during dramatic health crises. … You want to help people get back to their daily life of choice, not alter their lives.
+
+And on charity:
+Some sincere reasons that people give why people don’t donate to the world’s poor. …
+They feel the need to give back to their community. Or their nation. Or humanity in general.
+They had a bad experience … It feels good. … Suspicion that the money won’t reach the poor.
+Yes, of course, one can usually construct an ad hoc explanation for most any particular observed pattern. That’s the problem; its too easy. That’s why we held ourselves to the higher standard of trying in each area to suggest a single main purpose that could explain as many behavior puzzles as possible. Though we mention a few other plausible purposes.
+Consider the example of explaining over-consumption of medicine as due to ignorance on the optimal spending level. This is plausible, but if all we knew is that people are ignorant, we would predict under-consumption just as easily as over-consumption. So to explain over-consumption we have to add in an auxiliary assumption about the typical direction of mistake. We also need another auxiliary assumption to explain the strong correlation of this mistake across time and space.
+Each auxiliary assumption may be plausible, but it isn’t obvious. So the more of them you make, the more your theory loses on prior probability grounds. After all, you must multiply together the prior on each of assumptions to get the prior on a total model that explains the world. In contrast, while a single main explanation for all puzzles also typically need a few auxiliary assumptions, it needs fewer. Which is why a Bayesian analysis tends to favor a simpler explanation when that fits the data as well.
+On Kel’s second main issue, regarding the proper use of terms, he says many things:
+Social recognition, peer pressure, proximity. The two first would count perhaps as hidden motives, but are more aptly described as hidden causes. … The authors seem to see self-deception as pervasive. I … tend to see it as quite rare: the average human being is right about almost everything. …
+Yet core concepts like self-deception or selfishness are not defined in the book. … This confused use of concepts applies to many of these hidden motives: and it is the basic misunderstanding first year students of evolutionary psychology are taught to avoid: There are ultimate and proximate explanations for behaviours. …
+I am inclined to think that [self-deception] should feature representing the belief p and ~p at different levels: being aware of p, believing p, saying that p is true, but behaving in ways consistent with the fact that at some hidden level you really think ~p. Robert Trivers et al. (2017) don’t like this definition: he says it defines many cases of self-deception out of existence. Instead, when he talks about self-deception (And I guess, by extension [Simler and Hanson]), he refers to:
+Any information processing bias that favors preferred over non-preferred conclusions has the potential to facilitate self-deception. … What marks all of these processes as self-deceptive, rather than simply unintended or random error, is that people favor welcome over unwelcome information in a manner that reflects their goals or motivations …
+Through the chapters, I notice a maneouvre from the authors: Evidence for the components of adaptive self-deception is shown, but rarely for adaptive self-deception itself. … There can be modularity and biases without self-deception. …
+Triver’s last paper, the most solid proof so far [of self-deception] … But no “true and unbiased” representation is kept. … [They] are talking about ultimate causes, not the brain still keeping track of truth. [Simler and Hanson]’s wording seem to be equate self-deception with an evolutionary reason for a behaviour.
+One may argue: “But what if we include self-serving biases of different sorts and biased forms of cognitions in the category of self-deception?” And I may reply: Well, okay, but then it would still not be true that people are unaware of their selfish motives, it wouldn’t be true that people are hypocrites, and it wouldn’t be true that adaptive self-deception is the mechanism behind all the troubles. … As for large scale social patterns, we would have indeed gotten closer to explain them, but in doing so we would be offering a cognitive-bias explanation. … In any case, the evolutionary explanation for a behaviour doesn’t warrant claims about the motives of an individual.
+I’ve said this before, but let me repeat: Our focus in this book is on big puzzling patterns of behavior that don’t fit with the usual purposes people usually cite in the most public of forums. We point to other purposes that people better achieve via these behaviors. Our priority is to convince a wide audience of the plausibility of these alternate purposes, and we do this in part by considering many areas at once in the same book.
+We call these purposes “motives” and note that people seem suspiciously unaware that their behaviors achieve them, even though these are familiar purposes with simple connections to behavior. Such a lack of awareness, created on purpose, we call “self-deception.” We do not clarify the degree to which people lie or are unconscious of these motives, nor the degree to which behaviors are adaptive in particular circumstances. These things vary greatly by culture, person, and context, and it was hard to fit as much as we did into one book. We are focused on distal, not proximate, causes.
+Kel mentions that a well-known author we revere (Trivers) prefers a definition of “self-deception” compatible with our usage. But Kel still complains that our claims are doubtful given his preferred usage. And even if he accepted our usage there, he says, other claims would remain doubtful given his preferred usage of terms like “aware”, “motive”, and “selfish”. (Note that our book never uses “hypocrisy”.) His preferred usage of these terms, you see, relies on distinctions regarding lying, awareness, consciousness, and adaptiveness. As we don’t make those distinctions, our claims just can’t use those terms correctly. And thus we are wrong, just wrong, admit it wrong!
+Yes, fine, our claims may be wrong given his usage of those terms. We choose terms that seemed close to our intended meanings, and also familiar to a wide audience. But yes that usage may differ from some technical definitions. And of course we haven’t proven the centrality of the hidden motives we postulate, especially if you require that we first disprove all possible ad hoc explanations for each behavior pattern.
+But most ordinary readers seem to have understood that we meant to offer evidence for the plausibility of our key claims of purposes served by behaviors, via arguing for related claims about may life areas in the same book. We more often get the complaint that our claims seem too obvious, than that we didn’t give say enough on alternate ad hoc explanations of each pattern.
+Added 28Jan:  The above post has 1000 words by me, 700 words of quotes from Kel. Kel has written a 3500 word response. I’ll add 240 more words:
+With body language I argued that we are substantially more aware of its workings than the chapter says. … for charity the authors argued that people say charity is for maximising good done, but that if that were so, people would behave differently. I said, in contrast, that this is not what people aim for.
+I’m pretty sure that a) few are aware that even close friends use status motives to negotiate a non-equal relative status, and b) most will say that the point of their charity is to help others. (Few ever talk of “maximizing” anything.)
+The explanations I mentioned are not ad hoc, I see them as relying on general well established principles. … These claims may not be true with probability one, but they get close. Furthermore these claims are not new.
+Most ad hoc explanations everywhere are based on reasonable long-standing assumptions. But they still require topic-specific auxiliary assumptions. For example, Kel invokes “biases” to explain why we over- rather than under-consume medicine:
+Ask again why both groups overestimate on net we end up at a set of cognitive biases: illusion of control and confirmation bias, and these two are general phenomena that have been observed across many domains, not just healthcare.
+We can’t over-consume everything. If we over-consume medicine relative to other things we need a more specific reason than a general bias that applies equally to everything.
+My theory predicts a bunch of things: … I thus predict that all the waste we see will disappear as knowledge of healthcare improves … Healthcare spending as a % of GDP will go down in most developed countries. … Ideally we would want to bet on this: $200 that in 5(or 7? 10?) years time that the evidence will favour my explanation more strongly than a hidden motives based one. (Unless we want to call the biases mentioned above as hidden motives!)
+The claim “evidence will favor biases over hidden motives” seems harder to judge than whether the % of GDP to medicine goes down. I’d bet $10K at even odds that % of GDP to medicine goes up over the next ten years in the highest-income 1/4 of nations worldwide. Here are some relevant datasets.
+
+
+title: A LONG review of Elephant in the Brain
+
+date: January 22, 2018 12:20 pm
+

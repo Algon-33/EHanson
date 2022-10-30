@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Prediction markets let people bet on events of interest. This aggregates info on those events into market prices. So if you want to know the chance of an event, consider sponsoring a prediction market on it, and then watching the price. And if you want to persuade observers of a chance, consider betting in such a market, to change the price.
+Sadly, the CFTC is cracking down on Intrade, making it harder to sponsor or use such markets. I can’t do much about that. But I can help improve the tech. For example, combinatorial prediction markets can let users bet on the chances of many unforeseen combinations of events. This can aggregate a lot more info on those events, as it lets users spontaneously express their opinions on a lot more topics.
+Others have built combo markets. For example, WiseQ let people bet on certain combinations of events on the last election, such as whether the same party would win in two particular states. But those other markets allow inconsistencies, often big, between estimates on different questions. Our DAGGRE markets, in contrast, maintain exact globally consistency (up to machine precision) over a large combinatorial space of estimates, And they are live, today, for you to see and use at DAGGRE.org!
+Let me explain. As I said five months ago:
+Within a few months we will field an edit-based system where users can browse current answer estimates, and for each estimate can:
+
+Edit the value. After you change an estimate to a new value, estimates that users see on all questions are Bayes-rule updates from that new value.
+Assume a value. After you assume a value for this estimate, all estimates you see on all questions are conditional on this assumption. (more)
+
+I said that we need to compute current estimates, edit limits, and long vs. short relative positions, and that we can now do these exactly (well, up to machine precision) with globally consistent estimates, in the case of a low-treewidth Markov network. Other approaches to combo markets allow inconsistencies, often big, between estimates on different questions. Large inconsistencies can hinder information aggregation, and risk large financial losses to clever traders who find them.
+OK five months is not “few”, but today I can announce: we are live! If you register at DAGGRE.org, you can join hundreds of others who browse and edit estimates on over 100 questions intended to be of interest to the US intelligence community. We hand out $3000 a month to users in proportion to their activity (as 60 50$ Amazon gift cards; details here).
+Actually, you could have done all that a year ago. But today you can also make assumptions, and then browse and edit as before. For example, we ask if foreign armies will fight in Syria soon, and also if Syria will use chem or bio weapons soon. So if you think that Syria using chem weapons would increase the chance of a foreign fight, you can assume that chem weapon use, and then edit the foreign fighter chance accordingly.
+Actually you could have done that a month ago. But the system was slow and buggy; it is now much better. Which is why I’m announcing now. Yes, we still limit which estimates can be edited for any given set of assumptions; we have to do that to keep a low treewidth network of relations. But compared to ordinary prediction markets, this is a major advance in functionality. And we’ll keep working to relax these limitations.
+
+
+title: Combo Markets, Live!
+
+date: December 7, 2012 6:00 pm
+

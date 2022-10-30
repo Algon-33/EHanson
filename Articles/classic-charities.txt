@@ -1,0 +1,31 @@
+author: Robin Hanson
+
+text: 
+The 1806 Russia depicted in War and Peace had three big ways to “help others”: medicine, school, and alms (= food, shelter, etc. for the weak, e.g., old, crippled, poor, etc.). From this, I suggested:
+Modern liberal obsessions with such areas are not a local historical accident.
+Seeking more data, I found a book on what foreigners saw in 1700s England, which also lists these same three as the main forms of charity (quotes below).
+What about charity-related spending today?
+
+US direct donations of $291 billion by organization type is 35% religion, 14% school, 8% medicine, 5% arts, and 9% “human service”, containing most local alms, and 5% “international affairs”, containing most foreign poverty assistance.
+US non-profit revenue of $1800 billion breaks down to 51% medicine, 14% school, 2% arts, 1% religion, 7% “multi-purpose and other human services”
+US government spending of $3,800 billion (41% of US GDP) breaks down to 16% military, 18% medicine, 16% pensions, 15% school, and 11% “welfare.”
+
+As government spending is now 13 times direct donations, if voters treat any substantial fraction of that a substitute for private charity, then most “charity” today is channeled via government. Pensions plus welfare makes 27% of government spending apparently going to alms, or about 11% of GDP.  Total US education spending is $972 billion, about 10% of GDP.
+Bottom line: About 18% of US GDP goes to medicine, 11% to alms, and 10% for school.  So we now spend huge sums  (~40% of GDP) on areas related to what were once the three main charities.
+I’d guess that 1750 spending on alms, medicine, and school was far less than 40% of GDP.  This all raises two questions:
+
+Why such a consistent focus on the same three charity-related areas over such a long time? In general the simplest way to help folks is to give them cash. One needs other relevant factors to explain a desire to help in other ways. And to explain a consistent focus over many centuries, such factors must stay relevant over many centuries.
+Why did charity-like spending grow from a tiny to a huge fraction of GDP? Why are we today so much more eager for charity-like spending?
+
+Those promised book quotes:
+
+If the foreigner was often critical of our customs and way of life, he usually had nothing but praise for our charities and the methods by which the poor were provided for in England. … There were “more almshouses in and about London than in all the cities of Holland which prided itself on them”.
+“No rich person … dies without leaving large legacies. Most parishes in London and the country have hospitals for the sick, the poor and the aged, also charity schools, where poor children are fed, taught and clothed.” … [By] hospitals he is probably referring to some kind of almshouse, for … there were very few hospitals anywhere out of London. … As the century advanced more hospitals were built both in London and in the country towns.
+Sophie de la Roche tells us of a Maternity Hospital for the wives of the London poor … These lying-in hospitals were generally well managed. From them came the maternity nurses who attended the well-to-do, and a ladies’ committee superintended their organization. The Foundling Hospital was one of the sights to which foreigners were taken. … built … so that its inmates might enjoy pure country air, was one of the beautiful things of London. (more)
+Added 2p: I changed “charity” to “charity-related” in several places.
+
+
+title: Classic Charities
+
+date: July 5, 2011 11:00 am
+

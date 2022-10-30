@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Using data from a nationally representative survey of registered voters conducted around the 2008 U.S. presidential election … [we find that] people discussed politics as frequently as (or more frequently than) other topics such as family, work, sports, and entertainment with frequent discussion partners. … The frequency with which a topic is discussed is strongly and positively associated with reported agreement on that topic among these same discussion partners, … because people avoid discussing politics when they anticipate disagreement. (more)
+Political talk is quite different within vs. outside of families. Within families, politics talkers tend to be less conscientious, more emotionally stability, and more extraverted. Extraverted family members tend to talk politics more even when they disagree.
+Outside of families, people tend to talk politics more when they see each other a few times week, as opposed to daily or weekly. The only other predictor of non-family talk is having an open personality type, and then only when political agreement is especially strong. Controlling for the above features, gender, race, age, education, and other personality factors (like agreeableness) did not predict who talked politics, neither in nor out of families.
+So the main situation in which people somewhat talk through their political disagreements is extraverts within families, especially when extraverts are related (think Archie Bunker and meathead). At the other extreme, love fests of political agreement happen most when those with open personalities (who tend politically left) see each other outside of families a few times a week (think faculty lunches). Both of these extreme results fit my personal experience.
+
+
+title: Who Talks Politics?
+
+date: January 26, 2012 9:10 am
+

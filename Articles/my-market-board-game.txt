@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+From roughly 1989 to 1992, I explored the concept of prediction markets (which I then called “idea futures”) in part via building and testing a board game. I thought I’d posted details on my game before, but searching I couldn’t find anything. So here is my board game.
+The basic idea is simple: people bet on “who done it” while watching a murder mystery. So my game is an add-on to a murder mystery movie or play, or a game like How to Host a Murder. While watching the murder mystery, people stand around a board where they can reach in with their hands to directly and easily make bets on who done it. Players start with the same amount of money, and in the end whoever has the most money wins (or maybe wins in proportion to their winnings).
+Together with Ron Fischer (now deceased) I tested this game a half-dozen times with groups of about a dozen. People understood it quickly and easily, and had fun playing. I looked into marketing the game, but was told that game firms do not listen to proposals by strangers, as they fear being sued later if they came out with a similar game. So I set the game aside.
+All I really need to explain here is how mechanically to let people bet on who done it. First, you give all players 200 in cash, and from then on they have access to a “bank” where they can always make “change”:
+
+Poker chips of various colors can represent various amounts, like 1, 5, 10, 25, or 100. In addition, you make similar-sized cards that read things like “Pays 100 if Andy is guilty.” There are different cards for different suspects in the murder mystery, each suspect with a different color card. The “bank” allows exchanges like trading two 5 chips for one 10 chip, or trading 100 in chips for a set of all the cards, one for each suspect.
+Second, you make a “market board”, which is an array of slots, each of which can hold either chips or a card. If there were six suspects, an initial market board could look like this:
+
+For this board, each column is about one of the six suspects, and each row is about one of these ten prices: 5,10,15,20,25,30,40,50,60,80. Here is a blow-up of one slot in the array:
+
+Every slot holds either the kind of card for that column, or it holds the amount of chips for that row. The one rule of trading is: for any slot, anyone can swap the right card for the right amount of chips, or can make the opposite swap, depending on what is in the slot at the moment. The swap must be immediate; you can’t put your hand over a slot to reserve it while you get your act together.
+This could be the market board near the end of the game:
+
+Here the players have settled on Pam as most likely to have done it, and Fred as least likely. At the end, players compute their final score by combining their cash in chips with 100 for each winning card; losing cards are worth nothing. And that’s the game!
+For the initial board, fill a row with chips when the number of suspects times the price for that row is less than 100, and fill that row with cards otherwise. Any number of suspects can work for the columns, and any ordered set of prices between 0 and 100 can work for the rows. I made my boards by taping together clear-color M512 boxes from Tap Plastics, and taping printed white paper on tops around the edge.
+Added 30Aug: Here are a few observations about game play. 1) Many, perhaps most, players were so engaged by “day trading” in this market that they neglected to watch and think enough about the murder mystery. 2) You can allow players to trade directly with each other, but players show little interest in doing this. 3) Players found it more natural to buy than to sell. As a result, prices drifted upward, and often the sum of the buy prices for all the suspects was over 100. An electronic market maker could ensure that such arbitrage opportunities never arise, but in this mechanical version some players specialized in noticing and correcting this error.
+Added 31Aug: A twitter poll picked a name for this game: Murder, She Bet.
+Added 9Sep: Expert gamer Zvi Mowshowitz gives a detailed analysis of this game. He correctly notes that incentives for accuracy are lower in the endgame, though I didn’t notice substantial problems with endgame accuracy in the trials I ran.
+
+
+title: My Market Board Game
+
+date: August 29, 2018 3:30 pm
+

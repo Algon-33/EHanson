@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Apparently the relevant unit in the last singularity was Western Europe; Britain was too small to support the industrial revolution by itself.  From the May American Economic Review:  
+
+ This paper sets out to test, with a formal CGE model, the role of trade with the New World, and trade itself, in explaining the growth of productivity and income in Britain in the Industrial Revolution era.  We find, to our surprise, that the New World was only very modestly important, even by the 1850s. Had the Americas not existed, or not been discovered, the effects on productivity and income growth would have been perceptible, but the Industrial Revolution would have looked much as it does to us today. There were ready substitutes for the cotton, sugar, corn and timber of the New World in Eastern Europe, the Near East and South Asia. 
+ However, had all trade barriers been substantial – if, say, a victorious France cut off Britain’s access to European, African and Asian raw materials and markets – then the history of the Industrial Revolution Britain would have been very different. British incomes per person, instead of rising by 45% between the 1760s and 1850s would have risen by a mere 5%. The total factor productivity growth rate, already a modest 0.4% per year, would have fallen to 0.22% per year. 
+ The magnitude, scale and transforming power of the Industrial Revolution lay in its unification of technological advance with the military power that generated easy British access to the markets of Europe, the Americas, the Near East and the Far East.
+
+Added:  In sum, the unit of the industrial revolution seems to have been Western Europe, so Britain who started it did not gain much relative to the rest of Western Europe, but Western Europe gained more substantially relative to outsiders. 
+
+
+title: Britain Was Too Small
+
+date: June 19, 2008 12:00 am
+

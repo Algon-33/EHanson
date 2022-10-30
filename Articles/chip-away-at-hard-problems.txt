@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Catherine: And your own research.
+Harold: Such as it is.
+C: What’s wrong with it?
+H: The big ideas aren’t there.
+C: Well, it’s not about big ideas. It’s… It’s work. You got to chip away at a problem.
+H: That’s not what your dad did.
+C: I think it was, in a way. I mean, he’d attack a problem from the side, you know, from some weird angle. Sneak up on it, grind away at it.
+(Lines from movie Proof; Catherine is a famous mathematician’s daughter.)
+In math, plausibility arguments don’t count for much; proofs are required. So math folks have little choice but to chip away at hard problems, seeking weird angles where indirect progress may be possible.
+Outside of math, however, we usually have many possible methods of study and analysis. And a key tradeoff in our methods is between ease and directness on the one hand, and robustness and rigor on the other. At one extreme, you can just ask your intuition to quickly form a judgement that’s directly on topic. At the other extreme, you can try to prove math theorems. In between these extremes, informal conversation is more direct, while statistical inference is more rigorous.
+When you need to make an immediate decision fast, direct easy methods look great. But when many varied people want to share an analysis process over a longer time period, more robust rigorous methods start to look better. Easy direct easy methods tend to be more uncertain and context dependent, and so don’t aggregate as well. Distant others find it harder to understand your claims and reasoning, and to judge their reliability. So distant others tend more to redo such analysis themselves rather than building on your analysis.
+One of the most common ways that wannabe academics fail is by failing to sufficiently focus on a few topics of interest to academia. Many of them become amateur intellectuals, people who think and write more as a hobby, and less to gain professional rewards via institutions like academia, media, and business. Such amateurs are often just as smart and hard-working as professionals, and they can more directly address the topics that interest them. Professionals, in contrast, must specialize more, have less freedom to pick topics, and must try harder to impress others, which encourages the use of more difficult robust/rigorous methods.
+You might think their added freedom would result in amateurs contributing proportionally more to intellectual progress, but in fact they contribute less. Yes, amateurs can and do make more initial progress when new topics arise suddenly far from topics where established expert institutions have specialized. But then over time amateurs blow their lead by focusing less and relying on easier more direct methods. They rely more on informal conversation as analysis method, they prefer personal connections over open competitions in choosing people, and they rely more on a perceived consensus among a smaller group of fellow enthusiasts. As a result, their contributions just don’t appeal as widely or as long.
+I must admit that compared to most academics near me, I’ve leaned more toward amateur styles. That is, I’ve used my own judgement more on topics, and I’ve been willing to use less formal methods. I clearly see the optimum as somewhere between the typical amateur and academic styles. But even so, I’m very conscious of trying to avoid typical amateur errors.
+So instead of just trying to directly address what seem the most important topics, I instead look for weird angles to contribute less directly via more reliable/robust methods. I have great patience for revisiting the few biggest questions, not to see who agrees with me, but to search for new angles at which one might chip away.
+I want each thing I say to be relatively clear, and so understandable from a wide range of cultural and intellectual contexts, and to be either a pretty obvious no-brainer, or based on a transparent easy to explain argument. This is partly why I try to avoid arguing values. Even so, I expect that the most likely reason I will fail is that that I’ve allowed myself to move too far in the amateur direction.
+
+
+title: Chip Away At Hard Problems
+
+date: December 10, 2016 8:35 pm
+

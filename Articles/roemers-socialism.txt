@@ -1,0 +1,34 @@
+author: Robin Hanson
+
+text: 
+Several times before I have posted on trying to figure out what just people mean when they propose “socialism”, and which variations seem how attractive. I just tried this exercise again, this time reading respected Yale economist and political scientist John E. Roemer’s paper What is Socialism Today? Conceptions of a Cooperative Economy, published Dec. 2020 in International Economic Review.
+Roemer says “My intention in this article is to retrieve, from the history of the socialist idea, several alternatives to these two socialist varieties” of (1) central planning, which was “toxic” when combined with state ownership and one-party politics in the Soviet Union, and (2) “social democracy” that taxes and redistributes in a familiar world of private firms. He has two proposals for us to consider, explained via math models.
+In “Socialism 1”, there is one profit-maxing firm wherein each worker and owner of capital gets paid their marginal product. Capital owners get paid because we need “incentives for citizens to invest their wealth productively. The remainder of firm income goes to firm owners, whom he insists are not being paid for prior entrepreneurial or managerial efforts or investments, not unless the firm was “created by individuals” who did not sell any ownership to others. Yet Roemer is reluctant to expropriate such illegitimate owners because then
+We would … lose the monitoring advantages that might accrue to having firms be in part privately owned. And having the state own a large share of firms introduces the issue of political interference in firm decisions.
+A linear income tax is instead imposed on everyone, which would result in inefficient work and investment choices if people behaved according to standard game theory, but which they do not because everyone instead follows a cooperative “Kantian optimization” (except that they are price takers due to “bounded rationality.” )
+In “Socialism 2”, there are many profit-maxing firms, each of which is entirely owned by its workers and which pays a firm-specific tax set by the state, though he worries that this tax would “discourage innovation on the part of the firm’s workers and investors, who would have no incentive to cut costs to earn above-normal profits”.
+In both Socialism 1 & 2 that cooperative “Kantian optimization” behavior ensures the production of public goods and the suppression of public bads such as “employing child labor, polluting, or running assembly lines at a breakneck pace”.
+Roemer says that we know such cooperative behavior is possible because the U.S. once taxed the rich more:
+In the period 1930−1970, a more cooperative ethos existed in the United States than we experience today: the key evidence is the existence of very high, even confiscatory, taxes on the very rich.
+And he suggests we could enforce cooperation via labor unions:
+Each must trust that others will optimize in the Kantian manner if he/she does. … [To achieve this,] workers may entrust decisions (such as supplies of labor) to organizations that represent them—unions—which can carry out the Kantian optimization for them.
+But Roemer thinks this cooperation requires redistribution, as people won’t cooperate “with others whom they see have much higher incomes”. And it requires the right sort of politicians, as “ethnic, linguistic, and religious heterogeneity frustrate” it, and “power-hungry leaders seek to divide their citizenries by emphasizing identity and difference”.
+So why don’t we see this cooperation today? We have the wrong “ethos”:
+The behavioral ethos of socialism is cooperation. … they are engaged in a cooperative enterprise to transform nature to improve the lives of all. … Capitalism’s behavioral ethos is individualistic: economic activity is characterized as the struggle of each person against all other persons and nature. The ethos may be summarized as one of “going it alone.”
+But Roemer is famous for studying, and approving of, political competition. So for some reason he doesn’t think that sort of competition hinders the right ethos. Unless maybe “power-hungry” leaders appear? Are labor unions to stop that somehow?
+Here are my reactions:
+1) I don’t see how Roemer’s proposal really does much to cut back on economic competition, or how it prevents the bad sort of politicians. Or how even it is “socialism”. Workers still compete within professions and firms, investors compete to pick the best firms, firms compete to max profits, and politicians compete in elections. What exactly is different?
+2) I don’t think all the math really adds much to his proposals.
+3) I’m not convinced that his “public bads” really fit the definition,
+4) I’m pretty convinced in the absence of war, theft, slavery, etc. firm ownership gains really are returns to entrepreneurial or managerial efforts or investments.
+5) I agree that humans do often vary in how “cooperative” they feel and act, and that it can be valuable to promote such cooperation, all else equal. But I don’t at all see high taxes on the rich as much evidence of or cause of useful cooperation. Nor do I see the existence of economic competition as reducing cooperation more than does political competition.
+6) Most fundamentally, I just don’t see what Roemer is proposing to do to increase our cooperative inclinations. In our competitive world nations, firms, political parties, and other orgs have long competed to promote cooperation internally and among alliances. The world we see is the result of those attempts.
+Merely declaring that we now have “socialism” won’t ensure more cooperation, nor will mass redistribution, nor will increased control by governments or labor unions. Those might induce some temporary cooperations, but they also seem to hinder the longer-term search by orgs to find better ways to induce cooperation.
+In the end I just don’t see much to Roemer’s proposals beyond “if you agree cooperation is good, then you should do everything I say and then maybe everyone will cooperate.” No thanks.
+ 
+
+
+title: Roemer’s Socialism
+
+date: May 27, 2021 8:12 pm
+

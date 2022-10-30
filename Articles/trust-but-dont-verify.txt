@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Aimone and Houser find we are willing to pay to avoid knowing that we have been betrayed:  
+
+Here we report data from one-shot two-person binary investment games in which investors can choose not to know the decision of their particular trustee, and instead receive payment according to a random draw from a separate pool of decisions identical to the pool of trustees’ decisions. Note that the probability of receiving the "cooperative" outcome is identical in the two cases, and participants understand this is the case. … Our main finding is that investors systematically prefer to remain ignorant of their specific trustee’s decision. Moreover, when avoiding this information is not possible investors are substantially less likely to make trusting decisions. These results are convergent evidence that outcome-based models cannot fully explain economic decision making in strategic environments.
+
+Added 25 Oct: Can this help explain why we rely so little on incentive contracts for docs, real estate agents, etc.?  
+
+
+title: Trust But Don’t Verify
+
+date: October 24, 2008 6:00 am
+

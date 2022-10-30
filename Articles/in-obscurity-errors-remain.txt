@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+The May 17 Nature suggests that papers in less prestigious journals are less likely to be checked by readers for errors:
+
+ Murat Cokol and his colleagues at … Columbia ..identified 596 retracted articles – flaggged as such by PubMed – and found … Journals with high impact factors retract more papers, and low-impact journals are more likely not to retract the, the study finds.  It also suggests that high and low-impact journals differ little in detecting flawed articles before they are published.  … Cokol argues that the larger number of retractions in high impact journals reflects the fact that they receive more scrutiny.  
+
+Not surprising, but pregnant with implications. 
+
+
+title: In Obscurity Errors Remain
+
+date: May 25, 2007 6:00 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+In the US, new drugs are not allowed until a randomized clinical trial suggests they are safe and effective. New surgical techniques, however, require no such tests. This isn’t the only bias favoring surgery over other treatments:
+In the JAMA study, … researchers found that some women with early stage breast cancer gained no survival benefit from removal of the lymph nodes even though cancer had been found in the lymphatic system. This finding sparked a wave of publicity, including an insightful Room for Debate feature in the New York Times that included 7 authors’ perspectives on whether American surgeons promote unnecessary surgery.
+I have no doubt that many of the issues raised by the New York Times commentators are important. Surgeons do have financial incentives, established practices, and natural responses to clinical uncertainty that lead them to suggest surgery in some cases where there is no clinical evidence to support such an action.
+Yet, I think we also need to acknowledge that we, the public, also contribute to overuse of surgical procedures. … A few years ago, my colleagues Angela Fagerlin, Peter Ubel, and I published a simple paper titled “Cure me even if it kills me: preferences for invasive cancer treatment.” In it, we showed that people who were presented with hypothetical cancer treatment scenarios tended to choose surgical interventions even when those interventions increased the total risk of death. The effect was much reduced for medication therapies versus surgeries. (more; HT Tony Barrett)
+
+
+title: Beware Knives
+
+date: February 13, 2011 4:00 pm
+

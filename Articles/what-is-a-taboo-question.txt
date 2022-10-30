@@ -1,0 +1,64 @@
+author: Andrew
+
+text: 
+ From Greg Mankiw I saw this newspaper article by Steven Pinker, "In defense of dangerous ideas:  In every age, taboo questions raise our blood pressure and threaten moral panic. But we cannot be afraid to answer them."
+I see two connections to "overcoming bias" here.  First, and most obviously, Pinker is suggesting that, by ignoring these "taboo questions," we as a society will suffer from the consequences of bias (not knowing whether certain policies will work well, etc.).  Below I claim the opposite, that Pinker’s very choice of topics to study is itself suffused with bias which he doesn’t seem to recognize. 
+The second connection is that I think that we, the "overcoming bias" crowd, tend to feel that many of our ideas are themselves taboo in some sense.  By pushing our own dangerous ideas, we may be more Pinker-like than we realize.
+Here is (some of) Pinker’s article, followed by a pretty long point-by-point discussion of many of his examples, along with (what I see as) his implicit assumptions).  Pinker writes: 
+
+ Do women, on average, have a different profile of aptitudes and emotions than men? 
+ Were the events in the Bible fictitious — not just the miracles, but those involving kings and empires? 
+ Has the state of the environment improved in the last 50 years? 
+
+  
+
+ Do most victims of sexual abuse suffer no lifelong damage? 
+ Did Native Americans engage in genocide and despoil the landscape? 
+ Do men have an innate tendency to rape? 
+ Did the crime rate go down in the 1990s because two decades earlier poor women aborted children who would have been prone to violence? 
+ Are suicide terrorists well-educated, mentally healthy and morally driven? 
+ Would the incidence of rape go down if prostitution were legalized? 
+ Do African-American men have higher levels of testosterone, on average, than white men? 
+ Is morality just a product of the evolution of our brains, with no inherent reality? 
+ Would society be better off if heroin and cocaine were legalized? 
+ Is homosexuality the symptom of an infectious disease? 
+ Would it be consistent with our moral principles to give parents the option of euthanizing newborns with birth defects that would consign them to a life of pain and disability? 
+ Do parents have any effect on the character or intelligence of their children? 
+ Have religions killed a greater proportion of people than Nazism? 
+ Would damage from terrorism be reduced if the police could torture suspects in special circumstances? 
+ Would Africa have a better chance of rising out of poverty if it hosted more polluting industries or accepted Europe’s nuclear waste? 
+ Is the average intelligence of Western nations declining because duller people are having more children than smarter people? 
+ Would unwanted children be better off if there were a market in adoption rights, with babies going to the highest bidder? 
+ Would lives be saved if we instituted a free market in organs for transplantation? 
+ Should people have the right to clone themselves, or enhance the genetic traits of their children? 
+ Perhaps you can feel your blood pressure rise as you read these questions. Perhaps you are appalled that people can so much as think such things. Perhaps you think less of me for bringing them up. These are dangerous ideas — ideas that are denounced not because they are self-evidently false, nor because they advocate harmful action, but because they are thought to corrode the prevailing moral order. 
+ Think about it 
+ By "dangerous ideas" I don’t have in mind harmful technologies, like those behind weapons of mass destruction, or evil ideologies, like those of racist, fascist or other fanatical cults. I have in mind statements of fact or policy that are defended with evidence and argument by serious scientists and thinkers but which are felt to challenge the collective decency of an age. The ideas listed above, and the moral panic that each one of them has incited during the past quarter century, are examples. Writers who have raised ideas like these have been vilified, censored, fired, threatened and in some cases physically assaulted. …
+ Consider only ideas about the truth of empirical claims or the effectiveness of policies that, if they turned out to be true, would require a significant rethinking of our moral sensibilities. 
+
+ I’m a little confused here, and maybe the way to focus my thoughts is to think of how this could be studied as a problem in political science or sociology:  what is a taboo question or a "dangerous idea"?  Recognizing that Pinker has thought more about these issues than I have, let me try to focus the question a bit: 
+ Mixin’ it up 
+ Pinker seems to be mixing a bunch of different sorts of ideas above.  This is ok–after all, it’s a newspaper column–but it may be helpful to separate the categories for further study.  In particular, the list contains: 
+ – Some statements that seem so obviously true as to not be "taboo" at all (for example, women having different aptitudes and emotions than men; or parents having "any effect" on the character or intelligence of their children) 
+ – Some statements that are so ill-defined as to be unanswerable (for example, has the state of the environment "improved" (it’s certainly improved in some ways and declined in others); or the question about Native Americans (how do you define "despoil"); or the question about suicide bombers (I assume that some are well-educated and some are not, etc)) 
+ – Some statements that are value judgments  ("would society be better off", "would it be consistent with our moral principles", "would unwanted children be better off", "should people have the right…") 
+ – A question whose premise is, as far as I know, false ("Is the average intelligence of Western nations declining because…" (I thought it was increasing–the Flynn effect–but I defer to Pinker’s expertise as a psychologist here)) 
+ – A couple of questions I just don’t understand ("Have religions killed…" (how do you count this sort of thing?); "Do men have an innate tendency to rape" (I just don’t know what is meant by "innate tendency"–maybe they’re talking about doing some sort of twin study, I dunno?–which men are they talking about here?) 
+ – Several questions that seem scientifically legitimate but are phrased in one-sided ways (for example, maybe torture would increase damage from terrorism, maybe unwanted children would be worse off if there were a market in adoption, and so forth). 
+ I’m also not clear why Pinker draws the line to exclude "harmful technologies . . . or evil ideologies, like those of racist, fascist or other fanatical cults."  For example, Pinker asks "Would damage from terrorism be reduced if the police could torture suspects in special circumstances?"  This was certainly not a taboo idea in Argentina in the 1970s or many other places (list your own favorite example).  There are are a lot of racist, fascist, etc. ideas that are far less lethal than torture:  why are these off limits?  For that matter, once we allow torture, why limit it to the police?  Maybe the army should be allowed to do it too?  Or private citizens, like in Pulp Fiction?  (Just to be clear:  I’m not trying to make a slippery-slope argument here, I’m just commenting that Pinker’s boundaries aren’t as sharply defines as he seems to be implying.) 
+ What ticks you off? 
+ I have no problem with people studying Pinker’s list of topics (although about half of them seem to me to be outside the scope of science, or even social science).  What interests me is the choice of what to include on the list.  It reminds me of the principle that people can be defined by what ticks them off.  I knew an economist who was going on and on about how horrible rent control is.  There’s almost no rent control in the U.S., but whatever remnant was there–well, that pissed him off.  I get pissed off by tables–I want them all to be graphs.  Most of my friends agree with me on the merits but are amused that it seems so important to me.  I know someone who is so pissed off by religion that he’s always giving me arguments why God doesn’t exist.  Other people get bugged by typos in the newspaper. 
+ Pinker appears to be ticked off that not enough work is going into studying his list of questions (or that, when they are studied, the results are ignored).  I’m a little ticked off by Pinker’s implicit assumption that these particular questions are so important.  I mean, as an academic researcher I’m used to thinking that particular topics are under-researched.  (Don’t get me started about predictive simulation.  I’m still frustrated at how the Bayesians at the 1991 conference didn’t even want to think about the possibility of checking their model fit.)
+ Goal-based decision making
+Another way to look at this–perhaps a more congenial approach to a cognitive psychologist such as Pinker–is in terms of Dave Krantz’s goal-based approach to decision making.  Instead of thinking about research questions, think about goals.  For example, if the goal is reducing damage from terrorism, consider various options.  Where does legalizing torture fit in the portfolio of remedies?  If the goal is increasing the supply of clean drinking water (for example), how helpful is it to ask a general question about "the state of the environment"?  I’m not saying it shouldn’t be done, just that it might be sort of a silly question. 
+ Or maybe it’s just something about the content that bothers me.  For example, I was also irritated by my friend Seth calling Holocaust denial "the new heresy."  In this day and age, calling something a "heresy" is a compliment, I think–sort of like saying that something is "edgy" or "delightfully irrelevant"–and thus something of an endorsement.
+ Remaining confusion
+I think there’s something here I’m missing.  For example, I’m still confused about what’s dangerous about saying that "women, on average, have a different profile of aptitudes and emotions than men?"  I’ve been to an NBA game and a WNBA game, and I can tell the difference (and, yes, I know that these are not averages, but still, …)
+ Final thought
+I’m still not quite sure what ticks me off so much about Pinker’s article.  I think it’s that it’s chock-full of big implicit assumptions (for example, that it’s taboo to say that women are different from men, or that torture would be expected to save lives)–I’m not offended by the idea of studying these things but I’m bothered by how the questions are framed.  At the same time, I’m sure Pinker has thought a lot more than I have about these issues–I’m just offering my perspective (as a political scientist, I suppose).  In any case, I’d like to be productive by channeling my ticked-offed-ness into scholarship, and suggesting that there should be some way of classifying topics as taboo.  Or perhaps Pinker has studied this from his perspective as a psychologist–that could be interesting.
+
+
+title: What is a taboo question?
+
+date: August 11, 2007 6:00 am
+

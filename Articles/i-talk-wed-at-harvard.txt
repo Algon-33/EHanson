@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Next Wednesday I’ll talk at Harvard business school on “Toward Information Accounting“:
+What gets measured, gets done. Today, organizations account in great detail for revenue and the costs of materials and time, but have only crude informal accounting of info contributed to key organizational decisions. Because info cost and value are poorly measured, info production is neglected.
+Can we use prediction markets to do better? Imagine speculative betting markets on many key organizational questions, and two key changes in business practice. First, let the division responsible for each decision declare lower-bound estimates of the value of more info on each related question. A division might, for example, declare that 1% lower error in estimating 3rd quarter sales of product X is worth at least $5000. There are standard ways to calculate such info value in specialized situations, such as inventory management.
+Second, let trader accounts be denominated in a new “color of money.” Instead of doing zerosum betting, the market for each question would be subsidized at a level matching its declared info value. As a result, the subsidy amounts lost to traders as prices become more accurate would on average correspond to that question’s declared info value. For example, on 3rd quarter sales of product X, its 0.7% lower error might have earned a $3500 subsidy, going to George who gained $2000, Sue who gained $1500, Sam who gained $1000, and Fred who lost $1000.
+Given these two new practices, trader account gains could be interpreted as noisy estimates of the info value those accounts transmitted via their trades. Losses could be interpreted as info destruction. Simple statistics applied to the pattern of changes in an account over time could estimate its consistent gains, amid its temporary fluctuations. The total consistent gains for the accounts of a division could be credited to that division in its ordinary cost accounting, while that same amount is debited from the divisions who declared info value on those questions.
+When one created an account with an initial cash deposit, and authorized an individual or team to trade that account on specific questions, one would in essence say: “Try to show us that you can consistently add info value here via your trades. We’ve started you out small, but if you can show consistent gains we may give you more to work with. At annual review time we’ll credit your account’s consistent gains (or losses) to you (and your division) as value you transmitted to this organization, to be compared with your time and other costs of participation.”
+
+
+title: I Talk Wed. At Harvard
+
+date: April 21, 2011 9:40 am
+

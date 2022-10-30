@@ -1,0 +1,45 @@
+author: Guy Kahane
+
+text: 
+The project of minimizing bias is in some ways structurally similar to consequentialist moral theories, and I suspect that enthusiasm for it positively correlates with sympathy for consequentialism (am I right?). There are certainly important differences between the two projects. Those who want to minimize bias rarely see this as an intrinsically valuable goal. And the goal of minimizing error is far more determinate than that of maximizing well-being or value. But some of the intuitive objections to such a project sound to me very similar to familiar objections to consequentialism. 
+
+
+
+
+  
+Consider the following remarks by Tyler Cowen:
+
+
+
+
+“I do not go as far as Robin in my desire to preach truth-seeking.  With all due respect to the truth, I find something Quixotic in such a quest.  I view Robin as believing in a kind of Archimedean point, from which we could be objective truth-seekers if only we had the will.  My view is closer to that of Pascal.  Yes we should seek self-improvement, but we are weak and in the dark no matter what.  An excessive attachment to "truth-seeking," might even divert us from the pragmatic, skeptical pluralism — laden with a healthy dose of ego to get the work done — most likely to lead society closer to truth.”
+http://www.marginalrevolution.com/marginalrevolution/2006/11/robin_hanson_is.html
+
+
+
+
+I spot two objections in this passage. The first objection I once called the Augustinian Argument, but it could also be called Pascalian. It goes like this
+
+
+‘Yes, our cognitive system is riddled with bias. But in seeking to overcome this bias we have no choice but to employ the very same defective cognitive system, the only one we have. There is no Archimedean alternative. So this project will itself suffer from pervasive bias, making it ultimately self-defeating. So we must learn to live with our fallen epistemic state.’
+
+
+
+
+This argument has some force, but it also faces many problems. The argument would itself be self-defeating if the pervasive bias it ascribes to us doesn’t exclude the claims that our cognition is riddled with bias, and that attempts to overcome this bias are themselves likely to be biased. So it must assume that although we can know that we are biased, and even know this bias is likely to lead to bias in our attempt to overcome bias, this knowledge is nevertheless not itself precise or specific enough for us to make intelligent use of it to overcome bias. But are there any good grounds for believing this peculiar combination of propositions? (And let’s not forget that Augustine and Pascal also believed that there is a way out. But can we really be expected to passively hope for the miracle of epistemic grace?)
+
+
+
+
+The second objection seems to be that if our effort to directly prevent bias is too excessive, it will be self-defeating, because in the long run it will lead us to form less rather than more true beliefs. That something like this is true of consequentialism is accepted by both its critics and defenders. But is it also true of the project of minimising bias? After all, this objection to consequentialism relies to a large extent precisely on the (empirical) claim that, in aiming to maximise good, we are likely to be influenced by various biases that would lead to the opposite result. So how can the attempt to overcome bias suffer from the same problem? Why should we believe that the overarching aim of overcoming bias would itself function as a bias? So it seems that for this argument to go through, it needs to appeal to the Augustinian Argument, and we just saw that there are plenty of problems with that objection. 
+
+
+
+
+(You might object that Cowen’s problem was only with being overzealous in the pursuit of truth. But if we adopt policies that we can know will harm our pursuit of truth, then such policies are no more a way of pursuing the truth than being sanctimonious is part of morality.)
+
+
+title: Pascalian Meditations
+
+date: November 28, 2006 10:41 am
+

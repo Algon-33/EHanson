@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+History contains a lot of data, but when it comes to the largest scale patterns, our data is very limited. Even so, I think we’d be crazy not to notice whatever patterns we can find at those largest scales, and ponder them. Yes we can’t be very sure of them, but we surely should not ignore them.
+I’ve said that history can be summarized as a sequence of roughly exponential growth modes. The three most recent modes were the growth of human foragers, then of farmers, then of industry. Roughly, foragers doubled every quarter million years, farmers every thousand years, and industry every fifteen years. (Before humans, animal brains doubled roughly every 35 million years.)
+I’ve previously noted that this sequence shows some striking patterns. Each transition between modes took much less than a previous doubling time. Modes have gone through a similar number of doublings before the next mode appeared, and the factors by which growth rates increased have also been similar.  In addition, the group size that typified each mode was roughly the square of that of the previous mode, from thirty for foragers to a thousand for farmers to a million for industry.
+In this post I report a new pattern, about cycles. Some cycles, such as days, months, and years, are common to most animals days, months, years. Other cycles, such as heartbeats lasting about a second and lifetimes taking threescore and ten, are common to humans. But there are other cycles that are distinctive of each growth mode, and are most often mentioned when discussing the history of that mode.
+For example, the 100K year cycle of ice ages seems the most discussed cycle regarding forager history. And the two to three century cycle of empires, such as documented by Turchin, seems most discussed regarding the history of farmers. And during our industry era, it seems we most discuss the roughly five year business cycle.
+The new pattern I recently noticed is that each of these cycles lasts roughly a quarter to a third of its mode’s doubling time. So a mode typically grows 20-30% during one period of its main cycle. I have no idea why, but it still seems a pattern worth noting, and pondering.
+If a new mode were to follow these patterns, it would appear in the next century, after a transition of ten years or less, and have a doubling time of about a month, a main cycle of about a week, and a typical group size of a trillion. Yes, these are only very rough guesses. But they still seem worth pondering.
+
+
+title: The Great Cycle Rule
+
+date: March 8, 2017 11:45 am
+

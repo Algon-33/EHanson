@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+   
+A fascinating map of academia has been constructed by co-citation analysis: 
+ 
+It makes a lot of sense of vague intuitions I have had about which sort of fields are related to what other fields.  Economics is off on the left corner, cosmology is the top corner, and computer science hangs out between the two.   And the stuff I find really boring is far away from that side.  
+ I’ve ordered a printed version.  I’d love to see where my papers sit in this space, and how the space has changed over the decades.  
+My main complaint: They arbitrarily included only “science” publications.  So not only can’t I see how economics relates to philosophy or literary criticism, they’ve foregone our best chance to define “science” in a practical way.  It is famously hard to offer a coherent definition for what are “scientific” fields.  But if we could see on a graph like this that “science” topics were clustered away from the rest, that would give us the best definition of “science” we are likely to get. 
+
+
+title: Mapping Academia
+
+date: April 3, 2007 8:00 am
+

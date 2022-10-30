@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+We are aware that do many things for show, and I often suggest that we do such “signaling” more often than we realize. But while I’m eager to see writings on signaling theories and their empirical support, I’ve come to suspect that most tend to be unrealistically asocial. Let me explain.
+In the iconic signaling story, one person has a hidden feature, which they choose to show to one other person, via some visible action. For example, on Valentine’s day a man traditionally buys a gift, writes a poem, etc. to show a women the strength of his feelings for her. The bigger the gift, the bigger his feelings, supposedly.
+In this iconic situation, only these two parties matters. And this allows for simple sharp predictions. For example, if the person watching can’t see the signal, or already knows about the feature, there is no point in signaling. And there is no point in taking an action A to show feature F if that feature is unrelated to willingness to do A.
+In realistic signaling, however, third parties typically matter a lot more. For example, the man might want to signal that other women want him, or that he knows that other men want her. The woman might care less about what she infers from his signal, and more about being able to let slip details to her friends, to show them the kind of man she has. This inclusion of a wider social circle makes it harder to find simple sharp tests.
+I’ve talked about how schooling could be such a more social signal, and how that could complicate empirical testing:
+Firms want to impress customers, suppliers, investors, etc. with the quality of their employees, and hiring graduates from prestigious schools helps them signal such quality. Hiring such graduates can also help a manager to impress his bosses, potential employees, and sister divisions about the quality of his employees. … The fact that attending school seem to cause changes in students that employers are willing to pay for does not show that school isn’t all about signaling. (more)
+Similarly, people often respond to my suggestion that medical care functions in large part to “show that you care” with the example of people buying medicine for themselves. “Surely that can’t be signaling,” they suggest.  But consider that unattached women often buy themselves flowers or chocolates on Valentines day. As signals become more social, and involve wider circles, it gets harder to isolate situations where no signaling should happen.
+By the way, one way to think about “status” is as the limit of very social signals. The more that an action or sign is generally seen as positive, without being very specific about what good features it indicates or who exactly cares about such features, the more that this action or sign looks like a signal of general social status.
+
+
+title: How Social Are Signals?
+
+date: February 19, 2012 9:55 pm
+

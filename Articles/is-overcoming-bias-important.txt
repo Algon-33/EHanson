@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Arnold Kling says he "does not buy this argument" of mine:
+
+ If you have a cause, then other people probably disagree with you …  When other people disagree with you, they are usually more right than you think they are. … Before you go and attach yourself to this cause, shouldn’t you try to reduce the chances that you are wrong? Ergo, shouldn’t you work on trying to overcome bias? 
+
+ Tyler Cowen riffs: 
+
+ [Such] views are tautologically true and they simply boil down to saying that any complaint can be expressed as a concern about error of some kind or another.  … draw an analogy with statistics.  Biased estimators are one problem but not the only problem.  There is also insufficient data, lazy researchers, inefficient estimators, and so on.  Then I don’t see why we should be justified in holding a strong preference for overcoming bias, relative to other ends.
+
+ We have never claimed bias is the only problem.  But to let Arnold and Tyler more clearly identify where they disagree, let me outline an argument for the importance of overcoming bias:
+
+ Our beliefs have many errors, i.e., deviations from truth. 
+ Reducing error is important goal, for which we are willing to pay substantial costs.
+ The causes of our errors can be seen as ranging from context specific to general trends.
+ We in fact have many identifiable stable general error trends, in addition to legion context specific causes. 
+ By reflecting on error causes, we can seek ways to adjust our pattens of thought and social institutions to reduce error.
+ For a substantial fraction of error causes, we can in fact find feasible adjustments.  
+It is often more cost-effective to seek and implement adjustments for general trends, than for context specific errors.
+
+Together these points suggest we should be willing to pay substantial costs to reflect on and seek adjustments for general error trends.  Our being here suggests we draw a similar conclusion.  It seems a confident proposer bias to suggest we claim more.
+Added: Bryan Caplan weighs in. 
+
+
+title: Is Overcoming Bias Important?
+
+date: August 27, 2007 6:00 am
+

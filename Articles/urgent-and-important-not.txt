@@ -1,0 +1,19 @@
+author: Nick Bostrom
+
+text: 
+Eliezer recently noted the general problem of lack of accountability for futuristic predictions. I wonder if there may not also be an additional problem specifically for claims of urgency or importance (e.g. ones referring to "a critical period" or "a crucial stage" or "very important task"…)
+I’ve noticed in some projects that I’ve been involved with that there were many steps each of which, at the time, were said to be and gave the appearance of being "the really crucial one, the one that would determine the success or failure of the project". Having passed one hurdle, there was another one — this time the really critical one. Then another, the really really critical one. Then one more…
+Maybe project managers produce inflation in the currency of urgency. In order to maximize the effort of their teams, they hype each stage as being more important and urgent than it really is. Once the team catches on, the manager must increase the hype even more, just to achieve the same effect. In the end, every task must be a priority flag in order to get done at all.
+I’m trying avoid doing this, but I suspect that I am thereby making my communication less effective when I’m talking to audiences whose "importance-meter" has been calibrated to speakers who routinely use emphatic language to get attention and to underscore the importance of what they are saying.  
+  
+Some entertainment makes use of a similar device to milk the audience for as much affect as possible. The hero faces a life-threatening situation, like a big monster, but survives – phew. Then an even bigger monster appears – surely this is the make-or-break challenge! Yes, he made it! But look out, behind his back is an enormous monster about to attack! 
+Another illustration (which seemed good at first) is offered by my email program, which has a feature whereby emails can be flagged as more or less urgent. There are five levels, which we might render as ‘very urgent’, ‘urgent’, ‘normal’, ‘less urgent’, and ‘not urgent’. I’ve hardly ever received an email with a priority level below ‘normal’. The merely ‘urgent’ flag is also almost never used. Practically all emails in which the sender has changed the default level away from ‘normal’ arrive as ‘very urgent’. 
+But this might not be a good example, since emails that are not at least at the ‘normal’ level should not be sent at all, and people might simply not bother to adjust the priority level unless the email is ‘very urgent’.
+Nevertheless, I would speculate that there is a widespread "importance bias", which is in some ways analogous to, yet distinct from overconfidence bias, and also distinct from a general "entertainment" bias of futuristic prediction.
+We might even be subjecting outselves to a kind of importance bias in the form of the documented durability bias in affective forecasting — we tend to overestimate how long we will experience joy or sadness in reaction to favorable or unfavorable life events. (But the explanation for why we have this bias might well be different from the explanation for why there is a general importance bias in some of our communication.)
+
+
+title: URGENT AND IMPORTANT (not)
+
+date: April 10, 2007 12:43 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Natural regulatory endpoint: Anything not required is forbidden.
+Insurance companies take in premiums, and pay out claims and administrative expenses; the difference is profit.  If payouts were perfectly predictable, competition might drive this difference to zero. But since payouts are uncertain, premiums must be set higher, to prevent bankruptcy.  In fact, insurance regulators set minimum allowed levels of such “surpluses.”
+The new Obamacare rules create a lot more uncertainty – insurers aren’t sure what exactly how it will change their costs, and the rules make it harder for insurers to raise premiums. The natural response of responsible insurers should be: collect larger surpluses, to insure against these uncertainties.  And in fact non-profit insurers have been doing just that.  Some are not at all happy:
+The report released Thursday by the Consumers Union … found that seven of 10 Blue Cross Blue Shield affiliates examined had amassed surpluses that are more than three times the level regulators deemed necessary for them to remain solvent. Sondra Roberto … who co-wrote the report … said the prospect that nonprofit plans may be running unwarranted surpluses was even more troubling, given their mandate as charitable organizations.
+Geez.  Why even have private insurers, if you aren’t going to let them choose how to respond to changing conditions?
+
+
+title: Anything Not Required …
+
+date: July 26, 2010 11:20 am
+

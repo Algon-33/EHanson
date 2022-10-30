@@ -1,0 +1,37 @@
+author: Eliezer Yudkowsky
+
+text: 
+Less Wrong is emerging from beta as bugs continue to get fixed.  This is an open-source project, and if any Python-fluent programmers are willing to contribute a day or two of work, more would get done faster.
+The character of the new site is becoming clear.  The pace of commenting is higher; the threaded comments encourage short replies and continuing conversations.  The pace of posting exceeds my fondest hopes – apparently not being able to post automatically on OB was a much greater barrier to potential contributors than I realized.
+We've had 12,428 comments so far on 113 articles, 100 of them posted since contributing was enabled for all users over 20 karma on March 5th.
+Browsing to the Top Scoring articles on Less Wrong will give you an idea of how things are developing.  A quick view of all posts can be found here, with the current top scorer being "Cached Selves" by Salamon and Rayhawk, followed by "Rational Me or We?" by Hanson.  If this looks like a blog you like, go ahead and add it to your blog roll now, please!
+
+Yvain has emerged as a prolific and highly upvoted contributor with too many excellent posts to mention, but The Apologist and the Revolutionary (on brain damage and rationalization) and The Least Convenient Possible World (an exercise in not avoiding painful questions) are two places to start.
+Our most highly commented thread was And's Closet survey #1:  What do you believe that most people on this site don't? with 314 comments.
+Johnicholas brings us Information Cascades showing how taking other people's ratings into account in your own vote vastly decreases the information content…
+…which inspired Marcello to build the anti-kibitzer Firefox extension that hides comment authors and vote counts.  (We'd like to integrate these sorts of features into the site, but we need more Python programmers!)
+Alicorn observes that systems of rationality must have two tiers: an ideal tier, and a tier that can actually be implemented (analyzing consequentialism as an example). 
+Kaj_Sotala asks whether blind review slows down science by preventing old scientists from championing new ideas.
+MBlume asks what resources are available for raising young rationalists.
+Jimrandomh notes that support can sound like dissent, creating a false picture of the overall reaction, and suggests prefixing "I agree with your conclusion, but…"
+
+  
+
+Steven0461 on "The Wrath of Kahneman"
+Z_M_Davis on "It's the Same Five Dollars!"
+Vladimir_Nesov on "Counterfactual Mugging"
+Thomblake on "Is Santa Real?"
+Phil Goetz on "Soulless Morality"
+Carl Shulman warns us, "Don't Revere The Bearer of Good Info"
+Patri Friedman on "Individual Rationality is a Matter of Life and Death"
+…and the list goes on.  And any number of highly intelligent comments are being upvoted to the prominence they deserve.
+
+It might be just my imagination or my prior hopes, but it looks to me like the threaded, rated, and sorted comments create a completely different experience of reading a post – the first comment you encounter is going to be something highly intelligent, and then right away, you're going to see the most intelligent reply and a well-sorted discussion all in one place.  Much more of the action is in the comments.
+The karma system is giving me valuable (if not always pleasant) feedback about which of my posts and comments my readers actually like.  I shall try not to be too influenced by this.
+An on-site wiki is on the way, and meanwhile there's a temporary Wiki hosted at Wikia, currently with 163 articles.
+
+
+title: Less Wrong: Progress Report
+
+date: April 24, 2009 7:49 pm
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Data on claims of sexual harassment … are used to calculate the first measures of sexual harassment risks by industry, age group, and sex. Female workers face far higher sexual harassment risks. On balance, workers receive a compensating wage differential for exposure to the risk of sexual harassment. … The … wage difference between a job with zero sexual harassment risk and a job with the mean sexual harassment risk is … about 25 cents per hour for women, and … about 50 cents per hour for men. (more)
+So it seems people can roughly estimate how their chances of being harassed varies with their age and the industry they work in. This appears to influences their willingness to work in such industries, and thus the wages they command in those industries. This all suggests that we are seeing supply and demand at work — on average harassed people are paid for the harassment the expect to suffer, and in fact paid more than their cost. Much like prostitutes who voluntarily accept money for sex, on average workers may voluntarily accept a risk of harassment because they see the added wage as worth more than the added cost of suffering harassment.
+The above study didn’t look at the harassers, only at the harassed. That is, it looked at how female wages vary with the rate at which females are harassed, and at how male wages vary with the rate at which males are harassed. But if one did look at the harassers, instead of the harassed, I’d guess that the harassers accept a lower wage for the opportunity to harass, a wage cut that is larger for ages and jobs where harassment is more feasible. In fact, I’d guess this wage cut also varies with the desirability of the people available to harass, just as the wage premium to the harassed probably varies with the undesirability of the harassers.
+If these wage changes were the only effect of harassment, there would be no economic reason to oppose harassment – harassers would be paying the harassed an agreeable fee, and no one else would be effected. What if others were effected, but only the firm’s customers, suppliers, investors, or other employees? If firm managers had strong enough incentives to maximize profits, then in the absence of other relevant market failures the firm would internalize the problem. Thus it would make economic sense to let each firm’s management decide whether or not to allow harassment in their firm.
+If these conjectures are true, then laws prohibiting sexual harassment do not make the world a richer place. They likely exist instead as ways for voters and politicians to signal their anti-harassment and anti-employer values to each other. Note that we have no laws against sexual harassment in religion, clubs, music, parties, and other recreational activities. As with anti-discrimination laws, it is only employers who are constrained.
+More quotes from the study:
+Sexual harassment rates … [vary] by sex and major industry, as well as the percent female in the industry. … Women are at a greater risk of sexual harassment in male-dominated industries. … The male rate is not correlated with the female rate. …
+Additional variables included in the regressions are a constant, potential work experience, potential experience squared, years of education, and indicator variables for occupation, race, Hispanic ethnicity, married, government employer, union or employee association, full-time employment, metropolitan location, and region. (more)
+Added 10a: This paper reviews the state of the art in estimating compensating wage differentials.
+
+
+title: Paying To Harass?
+
+date: June 12, 2011 6:00 pm
+

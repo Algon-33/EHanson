@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Angle, a relaunched journal from Imperial College London, “focuses on the intersection of science, policy and politics in an evolving and complex world.” The current issue focuses on economies of scale, and includes a short paper of mine on ems:
+I focus on two key results related to economies of scale. … First, an em economy grows faster that ours by avoiding the diminishing returns to capital that we suffer because we can’t grow labour fast enough. Second, an economy has larger cities because it avoids the commuting congestion costs that limit our city sizes. (more)
+Of course an em economy has many other important scale economies; those where just the two I could explain in the two thousand words given me.
+
+
+title: Em Scale Economies
+
+date: June 23, 2015 12:00 pm
+

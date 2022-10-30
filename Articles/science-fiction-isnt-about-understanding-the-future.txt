@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Why do people read (or watch) science fiction? Yes, motives are mixed – they usually are. But what are the main motives?
+Perhaps science fiction readers are eager to understand the future. After all, the future is extremely far, in a near-far sense, and science fiction offers a near-experience that can complement abstract far descriptions.
+Consider, however, the extremely low demand for abstract analysis of the future. Not only are books devoted to future analysis in far less demand than science fiction books, it is possible to turn science fiction stories into abstract contributions, yet this is almost never done. Let me explain.
+The main contribution of a science fiction story to our abstract understanding of the future is its setting – the situation in which its characters enact its plot. What techs are used how, what jobs and liesure activities are common, etc. Yet one could take most any science fiction story, and summarize its setting in a far shorter space, and with far less effort, than the author took for the story.  I’d guess that setting summaries could be read in ~5% of the time it takes to read the story, and written with even less than 5% of the effort.
+Yet almost no such summaries are written, presumably because writers and publishers anticipate that almost no one wants to read them. So the fraction of folks who read science fiction primarily to better understand the future must be very small. Alas, because I would love to just read setting summaries, especially with compare and contrast commentary, and educated critiques of their plausibility.
+Added 2p: I should also mention that most science fiction settings seem clearly to have compromised realism for story benefits. The fraction that can be considered mostly good faith efforts to forecast a future is quite small.
+
+
+title: Science Fiction Isn’t About Understanding The Future
+
+date: October 11, 2011 9:00 am
+

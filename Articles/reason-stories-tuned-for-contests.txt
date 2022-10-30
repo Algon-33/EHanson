@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Humans have a capacity to reason, i.e., to find and weigh reasons for and against conclusions. While one might expect this capacity to be designed to work well for a wide variety of types of conclusions and situations, our actual capacity seems to be tuned for more specific cases. Mercier and Sperber:
+Reasoning is generally seen as a means to improve knowledge and make better decisions. However, much evidence shows that reasoning often leads to epistemic distortions and poor decisions. This suggests that the function of reasoning should be rethought. Our hypothesis is that the function of reasoning is argumentative. It is to devise and evaluate arguments intended to persuade. … Poor performance in standard reasoning tasks is explained by the lack of argumentative context. … People turn out to be skilled arguers (more)
+That is, our reasoning abilities are focused on contests where we already have conclusions that we want to support or oppose, and where particular rivals give conflicting reasons. I’d add that such abilities also seem tuned to win over contest audiences by impressing them, and by making them identify more with us than with our rivals. We also seem eager to visibly hear argument contests, in addition to participating in such contests, perhaps to gain exemplars to improve our own abilities, to signal our embrace of social norms, and to exert social influence as part of the audience who decides which arguments win.
+Humans also have a capacity to tell stories, i.e., to summarize sets of related events. Such events might be real and past, or possible and future. One might expect this capacity to be designed to well-summarize a wide variety of event sets. But, as with reasoning, we might similarly find that our actual story abilities are tuned for the more specific case of contests, where the stories are about ourselves or our rivals, especially where either we or they are suspected of violating social norms. We might also be good at winning over audiences by impressing them and making them identify more with us, and we may also be eager to listen to gain exemplars, signal norms, and exert influence.
+Consider some forager examples. You go out to find fire wood, and return two hours later, much later than your spouse expected. During a hunt someone shot an arrow that nearly killed you. You don’t want the band to move to new hunting grounds quite yet, as your mother is sick and hard to move. Someone says something that indirectly suggests that they are a better lover than you.
+In such examples, you might want to present an interpretation of related events that persuades others to adopt your favored views, including that you are able and virtuous, and that your rivals are unable and ill-motivated. You might try to do this via direct arguments, or more indirectly via telling a story that includes those events. You might even work more indirectly, by telling a fantasy story where the hero and his rival have suspicious similarities to you and your rival.
+This view may help explain some (though hardly all) puzzling features of fiction:
+
+Most of our real life events, even the most important ones like marriages, funerals, and choices of jobs or spouses, seem too boring to be told as stories.
+Compared to real events, even important ones, stories focus far more on direct conscious conflicts between people, and on violations of social norms.
+Compared to real people, character features are more extreme, and have stronger correlations between good features.
+Compared to real events, fictional events are far more easily predicted by character motivations, and by assuming a just world.
+
+
+
+title: Reason, Stories Tuned for Contests
+
+date: April 4, 2014 2:40 pm
+

@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+   
+This diagram was from from my talk last Thursday:
+
+The easy way to start a corporate prediction market is to grab some cheap software, fill in some easy topics, and then hope people will play in their free time for bragging rights.  You might get lucky; offering only weak incentives might still provide key valuable information, and put you in the sunny upper left box of this diagram. 
+But typically weak incentives and fun topics don’t give decision makers especially valuable info.  Managers allow morale markets (the lower left box) mainly to be in on a new fad, to track wider moods and which groups think what, and to let people feel their voice is heard.   I’d put the Hollywood Stock Exchange and Google prediction markets in this category.  
+Morale markets might get a foot in the door, but I fear that won’t last without a move to decision markets (upper right box), offering enough incentives to elicit info directly relevant to key corporate decisions.   Decision markets tend to be politically sensitive and less fun and easy for traders, so they need non-trivial management support and trader incentives, such as cash, job credit, or decision influence.  My hope rides on the handful of decision market trials now underway.
+(The lower right box is high cost and low value – why bother?) 
+
+
+title: Morale Markets vs Decision Markets
+
+date: January 23, 2007 6:00 am
+

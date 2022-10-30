@@ -1,0 +1,14 @@
+author: David J. Balan
+
+text: 
+With only a few signficant exceptions, health insurance plans in the U.S. have quite broad provider panels.  That is, there is almost no such thing as a plan that offers a full range of clinical services, but that restricts its members to a narrow panel of cheap providers.  This is quite a remarkable fact in a country with tens of millions of people with no insurance at all, and many millions more who are terrified that they might lose theirs.  Why wouldn’t employers that are on the bubble between continuing to offer broad insurance and cancelling insurance altogether offer some sort of narrow insurance plan instead?  Why wouldn’t employees take such an offer?
+The standard answer to this question is that people really dislike having to travel for health care, particularly for hospital care, because they want to be in their own community, treated by their own physician, and with their families and friends nearby and able to visit them easily.  This strikes me as an incomplete answer, because there is a lot of price variation between providers, so a narrow panel insurance plan could be much cheaper, and it’s hard to imagine that people value being near home so much that they would be willing to pay (in expectation) thousands of additional dollars for a hospital admission just to avoid traveling to a hospital that was, say, an hour away from home.
+It seems to me that a better answer is that when they actually get sick, a significant fraction of people adopt the attitude that care at their preferred provider is a fundamental right, and become genuinely indignant at the suggestion that they should have to travel just because their insurance company tells them to.  This indignation leads them to take some kind of costly action against either the insurance company or against their employer (through which the narrow insurance plan was offered).  That is, patients can’t credibly commit not to freak out and start kicking desks and peeing in water coolers when they are held to the terms of a narrow insurance plan.  This makes such plans more expensive to offer, which may explain, at lest in part, why they are so scarce.
+Whatever you think of this particular story, I find it odd that behavioral explanations for things are so common in finance, but so rare in health economics.  I would think that health care would be an area where biases and other behavioral tics would be particularly common.
+I have a paper about this, which you can find here.  The contents of the paper and of this blog in no way reflect the opinions of my employer.
+
+
+title: Bias and Health Care
+
+date: February 4, 2007 2:39 pm
+

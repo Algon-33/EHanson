@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Edward Glaeser says regulation doubles New York housing prices:
+The cheapest way to deliver new housing is in the form of mass-produced two-story homes, which typically cost only about $84 a square foot to erect. That low cost explains why Atlanta and Dallas and Houston are able to supply so much new housing at low prices. …
+Building up is more costly, especially when elevators start getting involved. And erecting a skyscraper in New York City involves additional costs (site preparation, legal fees, a fancy architect) that can push the price even higher. But many of these are fixed costs that don’t increase with the height of the building. …The actual marginal cost of adding an extra square foot of living space at the top of a skyscraper in New York is typically less than $400. Prices do rise substantially in ultra-tall buildings—say, over 50 stories—but for ordinary skyscrapers, it doesn’t cost more than $500,000 to put up a nice 1,200-square-foot apartment. … At those heights, the land costs become pretty small. If there were no restrictions on new construction, then prices would eventually come down to somewhere near construction costs, about $500,000 for a new apartment. That’s a lot more than the $210,000 that it costs to put up a 2,500-square-foot house in Houston—but a lot less than the $1 million or more that such an apartment often costs in Manhattan.
+Glaeser also tosses in this shocking stat:
+Driving the 15 miles from the [Mumbai] airport to the city’s old downtown, with its landmark Gateway of India arch, can easily take 90 minutes. There is a train that could speed your trip, but few Westerners have the courage to brave its crowds during rush hour. In 2008, more than three people each working day were pushed out of that train to their death.
+
+
+title: Skyscraper Scale Econ
+
+date: March 1, 2011 9:15 pm
+

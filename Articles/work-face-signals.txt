@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Imagine that a firm required its employees to be constantly monitored by the new rapidly-improving techs for reading face/body/voice tones. Employees must also wear body sensors to measure their heart rate, skin sweat, etc., to further read their mood and emotions. This firm argues that this will let them better measure who is working how hard, who is really engaged in their work, etc. Are you outraged? Will laws be passed to stop this?
+Now consider how much we now waste on commuting, so firms can monitor employees better via face-to-face interactions:
+Americans spend a ton of time commuting. According to happiness researchers, commuting is the low point of the typical day. If you look at the jobs that people actually do, though, it’s hard to understand why so many workers continue to commute. Given a computer and high-speed Internet, most desk jobs could now be done from home – or so it seems. Telecommuting wouldn’t just save workers time, frustration, and fuel; it would also let firms drastically reduce their overhead – and pass the savings along to their customers. … [Alas,] workers physically commute for signaling reasons. Employers can monitor your productivity better when you actually come to the office. Workers who telecommute put themselves on the slow track to success – if they can even get hired in the first place. (more)
+Not outraged by this? The added cost of the tone readers is far less than the added cost of commuting. So if you think the value of the signals found by seeing people face to face is worth the huge added cost of commuting, how can you object to getting even more info at a far lower added cost?
+This seems to me an obvious example of a status quo bias. Because face-to-face monitoring has long been the status quo, it seems ok. But adding tone monitors and body sensors would be new, so they are horrible intrusions on our natural privacy.
+
+
+title: Work Face Signals
+
+date: May 30, 2012 12:15 pm
+

@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+You may recall my guess is that within a century or so, human whole brain emulations (ems) will induce a change so huge as to be in the top four changes in the last hundred million years. So major advances toward such ems are big news:
+IBM’s Almaden Research Center … announced … they have created the largest brain simulation to date on a supercomputer. The number of neurons and synapses in the simulation exceed those in a cat’s brain; previous simulations have reached only the level of mouse and rat brains. … C2 … re-create[s] 1 billion neurons connected by 10 trillion individual synapses. C2 runs on “Dawn,” a BlueGene/P supercomputer. …  DARPA … is spending at least US $40 million to develop an electronic processor that mimics the mammalian brain’s function, size, and power consumption. The DARPA project … was launched late last year and will continue until 2015 with a goal of a prototype chip simulating 10 billion neurons connected via 1 trillion synapses. The device must use 1 kilowatt or less (about what a space heater uses) and take up less than 2 liters in volume. …
+“Each neuron in the network is a faithful reproduction of what we now know about neurons,” he says. This in itself is an enormous step forward for neuroscience, .. Dawn … takes 500 seconds for it to simulate 5 seconds of brain activity, and it consumes 1.4 MW.
+“Enormous step” seems a bit too much, but even so Randal Koene agrees this is big news:
+This recent demonstration of computing power in simulations of biologically inspired neuronal networks is a good measure to indicate how far we have come and when it will be possible to emulate the necessary operations of a complete human brain. Given the storage capacity that was used in the simulation, at least some relevant information could be stored for each updatable synapse in the experiment. That makes this markedly different than the storageless simulations carried out by Izhikevich.
+Even if big news, this is not good news.  You see, ems require three techs, and we have clear preferences over which tech is ready last:
+
+Computing power – As a steadily and gradually advancing tech, this makes the em transition more gradual and predictable.  Here first only expensive ems are available, and then they slowly take over jobs as their costs fall.  Since it is a large industry with many competing producers, we need worry less about disruptions from unequal tech access.
+Brain scanning – As this is also a relatively gradually advancing tech, it should also make for a more gradual predictable transition.  But since it is now a rather small industry, surprise investments could make for more development surprise.  Also, since the use of this tech is very lumpy, we may get billions, even trillions, of copies of the first scanned human.  And the first team to make that successful scan might gain much power, if it hasn’t made cooperative deals with other teams. By the time a second, or hundredth, human is scanned most of the economic niches may be filled with copies of the first few ems.
+Cell modeling – This sort of progress may be more random and harder to predict – a sudden burst of insight is more likely to create an unexpected and sudden em transition.  This could induce large disruptive inequality in economic and military power, both among teams trying to succeed and among ordinary folks displaced by em labor.
+
+This new DARPA project seems focused more on advancing special computing hardware than cell-modeling.  If so, it makes scenario #1 less likely, which is bad.  Can someone please tell these DARPA knuckle-heads that they are funding exactly the wrong research?
+
+
+title: Bad Emulation Advance
+
+date: November 26, 2009 10:55 pm
+

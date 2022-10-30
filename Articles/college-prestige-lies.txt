@@ -1,0 +1,40 @@
+author: Robin Hanson
+
+text: 
+Over the next two weeks my eldest son will be rejected by some colleges, accepted by others.  And then we’ll likely have to make a hard choice, between cheap state schools and expensive prestigious ones (or online colleges).  A colleague told me the best econ paper on this found it doesn’t matter.  From its 1999 abstract:
+We matched students who applied to, and were accepted by, similar colleges to try to eliminate this bias. Using the … High School Class of 1972, we find that students who attended more selective colleges earned about the same [20 years later] as students of seemingly comparable ability who attended less selective schools. Children from low-income families, however, earned more if they attended selective colleges.
+A 2006 NYT article confirms this:
+Higher education experts have this message … Pay less attention to prestige and more to “fit” — the marriage of interests and comfort level with factors like campus size, access to professors, instruction philosophy. … A 1999 study by Alan B. Krueger … and Stacy Dale … found that students who were admitted to both selective and moderately selective colleges earned the same no matter which they attended.
+as does a 2004 Atlantic Monthly article:
+
+Today almost everyone seems to assume that the critical moment in young people’s lives is finding out which colleges have accepted them. …  But what if … it turns out that going to the “highest ranked” school hardly matters at all? … Krueger and Dale studied what happened to students who were accepted at an Ivy or a similar institution, but chose instead to attend a less sexy, “moderately selective” school. It turned out that such students had, on average, the same income twenty years later as graduates of the elite colleges.
+Krueger also said something similar in the NYT in 2000:
+Our research found that earnings were unrelated to the selectivity of the college that students had attended among those who had comparable options. … One group of students, however, clearly benefited from attending a highly selective college: those from lower-income families.
+All pretty consistent right?  At this point you might think you needn’t dig deeper.  But in 2000 Krueger went on to say:
+Although the selectivity of a school does not appear to influence the typical student’s economic success, our analysis finds that the resources schools devote to instruction, which are related to tuition costs, do influence it.
+In fact his original 1998 working-paper abstract said:
+We find that students who attended colleges with higher average SAT scores do not earn more than other students who were accepted and rejected by comparable schools but attended a college with a lower average SAT score.  However the Barron’s rating of school selectivity and the tuition charged by the school are significantly related to the students’ subsequent earnings.
+Half Sigma screams from the rooftops:
+
+Based on the straightforward regression results in column 1, men who attend the most competitive colleges [according to Barron’s 1982 ratings] earn 23 percent more than men who attend very competitive colleges, other variables in the equation being equal.
+23 percent is quite a bit of money, it’s almost like getting two college degrees instead of one!  They also discovered that there was a benefit to attending a more expensive school. The more expensive tuition resulted in a lifetime internal rate of return of 20% for men and 25% for women.
+THE MOST MIS-CITED STUDY EVER?
+Whenever this study has been cited, it has always been for the exact opposite of its actual conclusion. … This demonstrates a persistent bias in which the media only reports what people want to hear instead of reporting the truth.
+
+Half Sigma notes Study Hacks agrees completely:
+I don’t know why reporters sometimes seem so desperate to discount the value of wanting to attend a top college. … I get the impression — from the haughty tone of these articles — that it has more to do with the reporters thumbing their noses at what they deem to be annoying behavior by parents who live in their elite Manhattan or D.C. neighborhoods.
+That 2006 Atlantic Monthly article did go on to say:
+A study by Caroline Hoxby … suggests that graduates of elite schools do earn more than those of comparable ability who attended other colleges. Hoxby studied male students who entered college in 1982, and … projected that among students of similar aptitude, those who attended the most selective colleges would earn an average of $2.9 million during their careers; those who attended the next most selective colleges would earn $2.8 million; and those who attended all other colleges would average $2.5 million.
+Ack!  I was almost conned by elite journal editors and media reporters into believing a comforting lie!  What saved me was becoming puzzled by actually reading the original paper, and then bloggers I found via web searches to resolve my confusion.  Thank you Half Sigma, who has more valuable results to convey:
+STUDENTS WITH HIGHER SAT SCORES EARN LESS MONEY
+The regression analysis in the Dale & Krueger study had a coefficient for the person’s SAT score and a second for the square of the SAT score. Based on these two coefficients, earnings peaks at an SAT score of 1100. People who have an SAT score higher than 1100 earn less money.
+I would find it hard to believe if I hadn’t discovered the same thing myself. …
+ATHLETES EARN MORE MONEY
+The Dale & Krueger regression analysis also included a variable indicating if the person was an athlete. Those who were athletes earned more money. This also confirms my own findings from the General Social Survey.
+Added 24Mar: Good discussions at Marginal Revolution, Hacker News, and Org Theory.
+
+
+title: College Prestige Lies
+
+date: March 22, 2009 9:30 pm
+

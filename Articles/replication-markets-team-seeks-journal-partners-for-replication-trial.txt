@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+An open letter, from myself and a few colleagues:
+Recent attempts to systematically replicate samples of published experiments in the social and behavioral sciences have revealed disappointingly low rates of replication. Many parties are discussing a wide range of options to address this problem.
+Surveys and prediction markets have been shown to predict, at rates substantially better than random, which experiments will replicate. This suggests a simple strategy by which academic journals could increase the rate at which their published articles replicate. For each relevant submitted article, create a prediction market estimating its chance of replication, and use that estimate as one factor in deciding whether to publish that article.
+We the Replication Markets Team seek academic journals to join us in a test of this strategy. We have been selected for an upcoming DARPA program to create prediction markets for several thousand scientific replication experiments, many of which could be based on articles submitted to your journal. Each market would predict the chance of an experiment replicating. Of the already-published experiments in the pool, approximately one in ten will be sampled randomly for replication. (Whether submitted papers could be included in the replication pool depends on other teams in the program.) Our past markets have averaged 70% accuracy, and the work is listed at the Science Prediction Market Project page, and has been published in Science, PNAS, and Royal Society Open Science.
+While details are open to negotiation, our initial concept is that your journal would tell potential authors that you are favorably inclined toward experiment article submissions that are posted at our public archive of submitted articles. By posting their article, authors declare that they have submitted their article to some participating journal, though they need not say which one. You tell us when you get a qualifying submission, we quickly tell you the estimated chance of replication, and later you tell us of your final publication decision.
+At this point in time we seek only an expression of substantial interest that we can take to DARPA and other teams. Details that may later be negotiated include what exactly counts as a replication, whether archived papers reveal author names, how fast we respond with our replication estimates, what fraction of your articles we actually attempt to replicate, and whether you privately give us any other quality indicators obtained in your reviews to assist in our statistical analysis.
+Please RSVP to: Angela Cochran, PM acochran@replicationmarkets.com 571 225 1450
+Sincerely, the Replication Markets Team
+Thomas Pfeiffer (Massey University)
+Yiling Chen, Yang Liu, and Haifeng Xu (Harvard University)
+Anna Dreber Almenberg & Magnus Johannesson (Stockholm School of Economics)
+Robin Hanson & Kathryn Laskey (George Mason University)
+Added 2p: We plan to forecast ~8,000 replications over 3 years, ~2,000 within the first 15 months.  Of these, ~5-10% will be selected for an actual replication attempt.
+
+
+title: Replication Markets Team Seeks Journal Partners for Replication Trial
+
+date: January 8, 2019 1:20 pm
+

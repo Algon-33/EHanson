@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Tyler points us to a new J Applied Psych meta-analysis of team info sharing:
+Meta-analytic results from 72 independent studies (total groups = 4,795; total N = 17,279) demonstrate the importance of information sharing to team performance, cohesion, decision satisfaction, and knowledge integration. Although moderators were identified, information sharing positively predicted team performance across all levels of moderators.
+BUT:
+Groups tend to spend most of their time discussing the information shared by members, which is therefore redundant, rather than discussing information known only to one or a minority of members. This is important because those groups that do share unique information tend to make better decisions.  … Ironically, … groups that talked more tended to share less unique information.
+Why?  My guess: people know they are respected and liked more by other team members when they say things others already agree with.  Saying something new may help the team, but it puts you at risk.
+
+
+title: Talk Is Not About Info
+
+date: April 9, 2009 11:30 am
+

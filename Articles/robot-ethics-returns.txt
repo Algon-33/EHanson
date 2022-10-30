@@ -1,0 +1,28 @@
+author: Katja Grace
+
+text: 
+People are often interested in robot ethics. I have argued before that this is strange. I offered two potential explanations:
+
+Ethics seems deep and human, so it’s engagingly eerie to combine it with heartless AI
+People vastly misjudge how much ethics contributes to the total value society creates
+
+A more obvious explanation now: people are just more interested in ethics when the subject is far away, for instance in the future. This is the prediction of construal level theory. It says thinking about something far away makes you think more abstractly, and in terms of goals and ideals rather than low level constraints. Ethics is all this.
+So a further prediction would be that when we come to use robots a lot, expertise from robot ethicists will be in as little demand as expertise from washing machine ethicists is now.
+Some other predictions, to help check this theory:
+
+Emerging or imagined technologies should arouse ethical feelings more than present technologies do in general
+International trade should prompt more ethical feelings than local trade
+Stories of old should be more moralizing than stories of now
+Historical figures should be seen in a more moral light than present-day celebrities
+Space travel should be discussed in terms of more moral goals than Earth travel.
+Ethical features of obscure cultures should be relatively salient compared to familiar cultures
+
+More? Which of these are actually true?
+There is definitely some conflicting evidence, for instance people feel more compelled to help people in front of them than those in Africa (there was an old OB post on this, but I can’t find it). There are also many other reasons the predictions above may be true. Emerging technologies might prompt more ethical concerns because they are potentially more dangerous for instance. The ethical dimension to killing everyone is naturally prominent. Overall construal level theory still seems to me a promising model for variations in ethical concern.
+Added: I’m not confident that there is disproportionate interest compared to other topic areas. I seem to have heard about it too much, but this could be a sampling bias.
+
+
+title: Robot ethics returns
+
+date: July 12, 2012 1:06 am
+

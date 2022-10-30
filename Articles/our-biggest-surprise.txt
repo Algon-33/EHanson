@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+We as a civilization know a lot more today than a random hunter-gatherer from fifty thousand years ago knew.  At a fun dinner with Cosmic Variances's thoughtful Sean Carroll last night, I asked:  What have we learned that is the most surprising?  Sean initially answered "quantum mechanics" but I complained that bundles together too many different things we've learned; I instead want to know what single feature of have we learned would most surprise our distant ancestors?  
+ Sean then suggested non-determinism, that quantum mechanics appears to suggest that the past does not determine the future.  I suggested what would most surprise our distant ancestors is how big is our universe.  It is big in time and space, in extent and detail, and in the range of things that can fill this extended detailed spacetime.  
+ So what would you say has been our biggest surprise, weighing not just raw info but also that info's relevance?  
+Added:  OK, I see two related surprises, one empirical and one logical. The empirical surprise is that the universe really is big.  The logical surprise is that a big enough universe with a small number of simple essenses can reproduce all of the complex local phenomena that one might otherwise explain via design or a large number of essences.  So per Eliezer and Julian, enough inanimate objects can produce animate object behavior, and per Jed enough incremental adjustments can produce bio and social order. 
+More added:  Sean remembers the conversation a bit differently; he's probably right. He also asks "the complementary question: what is the most surprising thing about the universe that we haven’t yet discovered, but plausibly could?"
+
+
+title: Our Biggest Surprise
+
+date: February 6, 2009 11:30 am
+

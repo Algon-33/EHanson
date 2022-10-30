@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Some hope to cut US med spending, and raise med quality, by paying more for higher quality outcomes. But this doesn’t work so well if the people you pay are also in charge of telling you the outcomes. Or if you must prove that their care caused bad outcomes, instead of being due to especially weak/sick patients. I have high hopes for a system that paid for med outcomes determined by independent third parties, where price competition for specific patients could deal with patient selection issues. But I’m pretty skeptical that the US govt will allow that:
+Medicare has begun publishing the rates of complications as a step toward using them to set payment rates for thousands of hospitals. But leaders of a number of the nation’s prestigious teaching hospitals are objecting …
+A central tenet of the 2010 federal health-care law will tie Medicare reimbursement to a variety of measures, including how patients rate their stays, readmission, mortality rates and how closely hospitals adhere to basic guidelines for care. … Officials at many of the hospitals listed as having high rates of complications say the measures are fundamentally skewed in ways that exaggerate problems at hospitals that treat many complicated cases or very sick patients. …
+Hospital officials examined the cases that led Medicare to rate her hospital as having a high rate of accidental cuts and lacerations. They found most of those cuts had been intended by the surgeon, but erroneously billed to Medicare under the code for an accidental cut. … “These patient safety indicators, they’re not real­ly well risk-adjusted.” …
+Medicare identified 190 of 3,330 hospitals as having very high levels. Of those, 82 were major teaching hospitals, … Cleveland Clinic, said the clinic’s high rates of accidental tears and lacerations and serious blood clots were because “people are careful at documenting, almost to a fault, things that are incidental to the case.” … Gregg Meyer … predicted that many hospitals will react to the publication of the patient safety data by instructing those who fill out the billing records to change what they include, or by lavishing staff attention on the areas flagged by Medicare even if they aren’t a real problem. (more)
+
+
+title: Paying For Med Quality
+
+date: February 13, 2012 5:10 pm
+

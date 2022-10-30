@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Today, across a wide range of contexts, we consistently have rules that say that if you have a thing out there in the world that can move around and do stuff, you need to give it a visible identifier so that folks near that thing can see that identifier, look it up in a registry, and find out who owns it. That identifier might be a visible tag or ID number, it might be an RFID that responds to radio signals with its ID, or it might be capable of more complex talk protocols. We have such rules for pets, cars, trucks, boats, planes, and most recently have added such rules for drones. Most phones and tablets and other devices that communicate electronically also have such identifiers. And few seem to object to more systematic collection of ID info, such as via tag readers.
+The reasoning is simple and robust. When a thing gets lost, identifiers help us get it back to its owner. If a thing might bother or hurt someone around it, we want the owner to know that we can hold them responsible for such effects. Yes, there are costs to creating and maintaining IDs and registries (RFID tags today cost ~$0.15). Also, such IDs can empower those who are hostile to you and your things (including governments) to find them and you, and to hurt you both. But we have consistently seen these costs as worth the benefits, especially as device costs have fallen dramatically over the decades.
+But when it comes to your personal body, public opinion seems to quite strongly opposed:
+
+Do you support maintaining the requirement that vehicles on public roads ID themselves via a visible license plate? Would you support requiring individuals walking in public spaces to identify themselves via cheap RFID tags that can be pinged via focused beam from 10 meters away?
+— Robin Hanson (@robinhanson) August 13, 2019
+
+My 14 law&econ undergrads all agreed when I assigned this topic on their final exam today. People oppose requiring identifiers, and as face readers are now on the verge of making a new ID system, many want to legally ensure a right to wear masks to thwart it.
+Yet the tradeoffs seem quite similar to me; it is just the scale of the stakes that rise. When we are talking about your body, as opposed to your car, pet, or drone, you can both do more to hurt others, and folks hostile to you might try to do more to you via knowing where you are. But if the ratio of these costs and benefits favor IDs in the other cases, I find it hard to see why that ratio would switch when we get to bodies.
+Added 5Mar2020: The number you get from an RFID tag need not directly tell you the public name or location of the person behind it. You might instead need a subpoena to get that from the number.
+
+
+title: Why Not RFID Tag Humans?
+
+date: December 12, 2019 2:40 pm
+

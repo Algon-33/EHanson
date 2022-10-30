@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Tali Sharot says we are optimistic because we under-respond to bad news, an effect weakest for the middle-aged, explaining why they are more pessimistic:
+People of all age groups changed their beliefs more in response to good news, and they discounted bad news. Even more surprising was the finding that kids and elderly people both showed more of a bias than college students. …
+From about the time we are teenagers, our sense of happiness starts to decline, hitting rock bottom in our mid-40s. (Middle-age crisis, anyone?) Then our sense of happiness miraculously starts to go up again rapidly as we grow older. …
+Andrew Oswald … controlled for people being born in better times, marital status, education, employment status, income: The age pattern persisted. Even more surprising, the pattern held strong even though Oswald did not control for physical health. … Oswald tested half a million people in 72 countries, in both developing and developed nations. He observed the same pattern across all parts of the globe and across sexes. …
+While women reach the bottom of the happiness barrel at 38.6 years on average, men reach it more than a decade later — at 52.9 years [but 44.5 in the U.S.] … Americans have been growing less happy since 1900. In Europe, however, happiness has been increasing steadily since 1950, after 50 years of decline. (more)
+OK, but that just pushes the question back: why do middle-aged folks respond the most to bad news? An obvious functional explanation comes to my mind: In the tradeoff between (near) beliefs that support good personal decisions and (far) beliefs that present a good image to others, personal decisions matter more for the middle-aged. In general, good personal decisions matter more for those who who are more dominant, more in the productive prime of their life, and more past the early ages where long term bonds are formed, and before elderly dependence on others.
+This explains the later male unhappiness peak, the US/Europe trends matching their rising/falling world dominance, and also why pretty people are more selfish and conformist. After all, happy is far, and conformity is near.
+
+
+title: Middle-Age Is Near
+
+date: January 1, 2013 12:40 pm
+

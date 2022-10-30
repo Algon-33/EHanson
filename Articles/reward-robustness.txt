@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Me in October:
+In August I reported that economic disasters seem thin-tailed, and so are not existential risks.  Even so, [a new study suggests] we should still devote more attention to them.
+What makes the global economy vulnerable to economic collapse, and what can we do about it?  Anders Sandberg explores one key issue:
+If we want to increase the resiliency of our society we should work on increasing substitutability.  Devices and software should be able to use alternative infrastructures.  Knowledge of what can be substituted for what should be disseminated (so no time is lost when disaster strikes in trying to figure it out). This is particularly true in areas where many different kinds of inputs are needed.
+Anders is right: our economy gets a bit more vulnerable to collapse each time a particular product or service uses a specialized input, available from only a few suppliers, rather than a general and widely available input.  For example, it is easier to replace a cell phone’s battery in a jam if that phone uses AA batteries, instead of a battery built especially for that phone.
+Of course as the phone example illustrates, we wouldn’t want to arbitrarily require more general inputs to everything; much of our wealth comes from a division of labor, enabled by specialized inputs.  Regulatory agencies with discretion to declare which inputs must be general sound like a disaster.  Let us instead think like economists, and ask when market (or legal or state) failures may induce overly-specialized inputs:
+
+Intellectual Property – many ideas for new products or services are not pursued because investors fear that if a first mover shows the product to be viable, it will be too easy for second movers to take over the market.  Investors prefer business plans centered on a specialized input that second movers cannot easily acquire, such as a key patent.  If we could create better incentives for innovating with general inputs, our economy would be less fragile.
+Empire Bias – Firms are reluctant to buy specialized inputs, or to sell specialized products, or fear of being subject to extortion once two firms have become dependent on one another.  This fear makes firms either avoid specialized inputs, or merge such matched activities into a single firm.  Since manager empire-building already seems to make firms too large, ways to discourage this, such as enabling raiders, would also make our economy less fragile.
+Crisis Metrics – Most contracts to buy inputs do not explicitly condition on collapse cues.  For example, the price we pay for electricity or phone service does not change when a collapse looms, even though we are willing to pay more to ensure continued service.  Such providers thus have insufficient incentives to ensure continued service in a crisis.  If we could publish independent metrics that flagged crisis situations, so that contracts could condition prices on such metrics, suppliers could have better incentives to avoid specialization that risked their reliability in a crisis.
+Missing Standards – Firms often prefer incompatible standards in order to increase customer lock-in and reduce competition.  Policies that discourage incompatible standards would also reduce economic fragility.
+
+While there are many ways to avoid specific disaster scenarios, the main general approaches I know are refuges, to directly protect against the worst case, and the robustness rewards above, which counter-act known problems that distort our world economy toward fragility.
+
+
+title: Reward Robustness
+
+date: January 30, 2010 5:25 pm
+

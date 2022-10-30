@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+An economist would rightly lambasted for writing a popular article where perpetual motion machines, or anti-gravity, were central elements. Especially if that economist didn’t even notice that these violate well-established scientific consensus.
+But famed Princeton neuroscientist, novelist, and composer Michael Graziano has a popular article that errs nearly as badly in its economics. And, alas, I doubt many will consider that worthy of lambasting, or that Graziano will feel embarrassed by it. Or even consider the issue worthy of comment.
+Graziano’s economics error is to focus entirely on demand-side effects, and completely ignore supply-side effects, when summarizing the social implications of brain emulations. That is, he apparently can only see using brain emulations as a way to make a “virtual afterlife” vacation-land. So he talks only about who gets in and what they do there. He can’t even seem to imagine that emulated brains might be useful workers, and so drastically change the world outside of virtual heavens. (A subject I’ve analyzed in depth.) Read for yourself:
+Endless fun  The question is not whether we can upload our brains onto a computer, but what will become of us when we do. …
+For nearly 30 years, I’ve studied how sensory information gets taken in and processed, how movements are controlled and, lately, how networks of neurons might compute the spooky property of awareness. I find myself asking, given what we know about the brain, whether we really could upload someone’s mind to a computer. And my best guess is: yes, almost certainly. That raises a host of further questions, not least: what will this technology do to us psychologically and culturally? Here, the answer seems just as emphatic, if necessarily murky in the details. …
+People … don’t like to die. … Some of them already pay enormous sums to freeze themselves. … These kinds of people will certainly pay for a spot in a virtual afterlife. … Think of the fun to be had as a simulated you in a simulated environment. You could go on a safari through Middle Earth. You could live in Hogwarts. … You could keep in touch with your living friends through all the usual social media. …
+We will tend to treat human life and death much more casually. People will be more willing to put themselves and others in danger. … Will simulated people, living in an artificial world, have the same human rights as the rest of us? … Who decides who gets in? … issues … will arise if people deliberately run multiple copies of themselves at the same time. … Do [married couples] stay together? …
+Two people will be able to join thoughts directly with each other. … Pretty soon everyone is linked mind-to-mind. The concept of separate identity is lost. The need for simulated bodies walking in a simulated world is lost. The need for simulated food and simulated landscapes and simulated voices disappears. Instead, a single platform of thought, knowledge, and constant realisation emerges. … Real life, our life, will shrink in importance until it becomes a kind of larval phase … I am not talking about utopia. To me, this prospect is three parts intriguing and seven parts horrifying. I am genuinely glad I won’t be around. (more)
+So why won’t Graziano won’t be embarrassed by this? Because his colleagues won’t see it as valid criticism, because most don’t think economics really exists as a source of reliable insight.
+Btw, I doubt that even in a virtual heaven most people would want to spend much time hooked up directly to share each other’s thoughts in depth. Our minds aren’t designed for that, and i doubt simple modifications can make that work well. And I’m even more skeptical that productive working ems would typically be hooked up this way.
+
+
+title: Who Care About Econ Errors?
+
+date: December 21, 2013 10:50 am
+

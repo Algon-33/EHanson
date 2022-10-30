@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+A case study and new micro-level data in Uganda, where the Lord’s Resistance Army (LRA) forcibly recruited thousands of youth and plied them with threats and violence in order to make them stay. The evidence suggests that child [soldier] recruits were less able than adult ones, so superior ability is not a driving force of child soldiering in this case. Rather, the Uganda data and interviews suggest that children were retained because they were more easily indoctrinated and misinformed than adults, and had more difficulty escaping—with ease of indoctrination being especially influential. … Initial data from a random sample of [African rebel] groups display two relationships consistent with our model. First, where we observe child recruitment we also tend to observe forcible recruitment (one of the most easily measured forms of coercion). Second, forced child recruitment is most common when punishment is cheap. … Child recruitment is inversely associated with military protection of refugee and displacement camps. (more)
+The US military also relies heavily on near age 18 soldiers, even though age 28 soldiers are probably more skilled at most tasks. The US also probably prefers younger soldiers because they are more easily indoctrinated, misinformed, and intimidated. Which reminds us that interest groups often fight over who gets to train kids, as the winners get to choose their favored indoctrination. Which reminds us that the winner of such a fight indoctrinated you when young.
+Once you are an adult who realizes that your younger self was unreasonably gullible, you should try to undo that bias, at least if you want to have accurate beliefs. If you can imagine how other powers would have instead tried to indoctrinate you, had they controlled your indoctrination, you might try to believe something in-between these various indoctrination extremes. Of course you should also add in whatever can be inferred from the fact that one particular power was in fact strong enough to win the contest to indoctrinate you. Though it is not clear why this would mean their indoctrination was more true.
+So what biases we expect from young school indoctrination? Perhaps excess respect for:
+
+Teachers and their allies
+Life value of formal education
+Being quiet and doing what you are told
+Governments like those that run schools
+The region or nation where you lived
+Having regular workday, like at school
+What else?
+
+Added 8a: The military is an especially capital intense industry, which makes it especially important to have skilled labor to complement all that expensive capital. All else equal, this would induce this industry to outcompete other industries for more skilled workers, such as 28 year olds. So there must be some other factor that pushes them to hire 18 year olds. It can’t be pure physical strength and stamina, as few military jobs today require that.
+
+
+title: Counter Indoctrination
+
+date: September 1, 2011 10:35 pm
+

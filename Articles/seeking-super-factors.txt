@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+In a factor analysis, one takes a large high-dimensional dataset and finds a low dimensional set of variables that can explain as much as possible of the total variation in that dataset. A big advantage of factor analysis is that it doesn’t require much theoretical knowledge about the nature of the variables in the data or their relations – factors are mostly determined directly by the data.
+Factor analysis has had some big successes in helping us to understand how humans differ. As many people know, intelligence is the main factor explaining variation in cognitive test performance, ideology is the main factor explaining variations in political positions, and personality types explain much of the variation in stable attitudes and temperament. These factors have allowed us to greatly advance our understanding of intelligence, ideology, and personality, even while remaining ignorant of their fundamental causes and natures.
+However, people vary in far more ways than intelligence, ideology, and personality, and factor analyses have been applied to many of these other human feature categories. For example, there have been factors analyses of jobs, brands, faces, body shape, gait, accent, diet, clothing, writing style, leisure behavior, friendship networks, sleep habits, physical health, mortality, demography, national cultures, and zip codes.
+As my last post on media genre factors showed, factors found in different feature categories are often substantially correlated with one another. This suggests that if we put together a huge super-dataset describing many individual people in as many ways as possible, a factor analysis of this dataset may find important new super-factors that span many of these features domains. Such super-factors would be promising candidates to use in a wide range of social research, and social policy.
+Now it remains logically possible that these super-factors will end up being simple linear combinations of the factors that we have already found in each of these feature categories. Maybe we already know most of what there is to know about how humans vary. But I’d bet strongly and heavily against this. The rate at which we have been learning new things about how humans vary doesn’t remotely suggest we’ve run out of new big things to learn. Yes, merely knowing the super-factors isn’t the same as understanding their origins. But just as we’ve seen with factor analysis in more specific areas, knowing the main factors can be a big help.
+So I’d guess that the super-factors found in a super dataset of human details will be revolutionary developments. We will afterward see uncovering them as a seminal milestone in our progress in understanding human variation. A Nobel prize worthy level of seminality. All it will take is lots of tedious work to collect a super dataset, and then do some straightforward number crunching. A quest awaits; who will rise to the challenge?
+
+
+title: Seeking Super Factors
+
+date: October 16, 2015 9:20 pm
+

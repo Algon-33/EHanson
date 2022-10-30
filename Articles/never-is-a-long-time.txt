@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Johan Bolhuis in a recent Science book review:
+
+Richardson … follows arguments by Stephen Jay Gould and Richard Lewontin that natural selection, although of crucial importance, is not the only factor in evolution. The main problem with evolutionary psychology is that it usually does not consider alternative explanations but takes the assumption of adaptation through natural selection as given. … Richardson concludes that we simply lack the historical evidence for a reconstruction of the evolution of human cognition. … Richardson rightly suggests that paleontologists are unlikely to unearth the evidence that can inform us about the social structure of our ancestral communities. 
+ I think one can go a step further. Even if we would be able to muster the evidence needed for an evolutionary psychological analysis of human cognition, it would not tell us anything about our cognitive mechanisms. The study of evolution is concerned with a historical reconstruction of traits. It does not, and cannot, address the mechanisms that are involved in the human brain. Those fall within the domains of neuroscience and cognitive psychology. In that sense, evolutionary psychology will never succeed, because it attempts to explain mechanisms by appealing to the history of these mechanisms.
+
+What is the implicit time scale for these claims?  We are "unlikely to unearth the evidence" in – a decade?  A century?  Never?  And what should we believe until then?  Bolhuis may seem to advocate the "rigorous" position of for now acting as if we knew nothing about the origins of our mental tendencies.  But in practice I think this reduces to the far-less-rigorous position of retaining our ordinary intuitive presumptions about this topic until we face overwhelming contrary evidence. 
+
+
+title: Never Is A Long Time
+
+date: June 10, 2008 6:00 am
+

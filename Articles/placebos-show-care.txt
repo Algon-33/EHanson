@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Something similar to the placebo effect occurs in many animals. … Siberian hamsters do little to fight an infection if the lights above their lab cage mimic the short days and long nights of winter. But changing the lighting pattern to give the impression of summer causes them to mount a full immune response.
+Likewise, those people who think they are taking a drug but are really receiving a placebo can have a response which is twice that of those who receive no pills. In Siberian hamsters and people, intervention creates a mental cue that kick-starts the immune response. …
+The Siberian hamster subconsciously acts on a cue that it is summer because food supplies to sustain an immune response are plentiful at that time of year. We subconsciously respond to treatment – even a sham one – because it comes with assurances that it will weaken the infection, allowing our immune response to succeed rapidly without straining the body’s resources. … Farming and other innovations in the past 10,000 years mean that many people have a stable food supply and can safely mount a full immune response at any time – but our subconscious switch has not yet adapted to this. (more)
+OK, but the key question is: why would getting a placebo pill ever have been a credible signal that you could safely turn on your immune system? If for our ancestors treatments like pills tended to be very effective at improving health, you might think that a pill would give you so much extra energy that you could afford to spend some of that extra on your immune system. But pills are rarely that effective, and your body would quickly notice that fact.
+My showing that you care theory, that the main function of medicine is to signal concern, fits well here. The idea is that we are reassured by the fact that people take the trouble to take care of us.
+The most severe part of our ancestors’ environment wasn’t the weather, it was other humans. When people were sick, they worried that their rivals and enemies would use that opportunity to hurt them. If such harms were coming, they had to be attentive, wary, and ready to act — they couldn’t afford to turn on their immune system, which would make them lethargic.
+But if someone had caretakers, who spent time and other resources to take care of them when they were sick, why then such caretakers would probably also protect them from rivals. So they could afford to turn on their immune system. If your associates spend resources to buy you pills, and then take time to make sure you take certain pills at certain times, they probably care enough to protect you from rivals.
+
+
+title: Placebos Show Care
+
+date: September 11, 2012 11:30 am
+

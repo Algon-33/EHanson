@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+
+“Between you and me, my friend, a handshake is enough.”
+
+A recent economics journal article says one might reasonably avoid complex formal contracts to show you trust your associates:
+
+This paper shows how the fear of signaling distrust can endogenously lead to incomplete contractual agreements. We consider a principal agent relationship where the agent may be trustworthy (dedicated to the project) or not. The principal may trust the agent (i.e. have a high belief of facing a trustworthy agent), or distrust him. The proposal of a complete contract, including fines and other explicit incentives, is shown to signal distrust. When trust is important in some non-contractible part of the relationship, a principal may prefer to leave the contract incomplete rather than to signal distrust by proposing a complete contract. Contractual incompleteness arises endogenously due to asymmetric information about how much one partner trusts the other side.
+
+There are literally hundreds of papers out there showing how signaling can or does explain various details of human behavior.  In fact, fifteen years ago my Ph.D. thesis advisor tole me not to write such papers, because there were already so many of them that they weren’t very interesting.
+Yet people keep complaining everytime I mention a signaling explanation of something, that I’m too free with such explanations.  So I’m stuck between an academic discipline that considers such explanations too obvious to be worth publishing, and an audience that finds them too implausible to believe, even when backed by such publications.
+
+
+title: Just A Handshake
+
+date: May 26, 2009 2:00 pm
+

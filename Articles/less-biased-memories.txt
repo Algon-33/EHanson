@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Similar to the way posterity review could help academic incentives, a simple way to reduce bias about how we see our own lives is to collect more data on our lives.   From Marginal Revolution: 
+
+
+MyLifeBits has also provided Bell with a new suite of tools for capturing his interactions with other people and machines.  The system records his telephone calls and the programs playing on radio and television.  … stores a copy of every Web page he visits and a transcript of every instant message he sends or receives.  It also records the files he opens, the songs he plays and the searches he performs.  … MyLifeBits continually uploads his location from a portable Global Positioning System device, wirelessly transmitting the information to his archive.  … SenseCam, … automatically takes pictures when its sensors indicate that the user might want a photograph.  
+
+
+
+How many of you would want this?  I wouldn’t.  I prefer the memories I choose to keep, and the ones I make up, over the ones I really had.  
+
+Those who prefer unbiased memories should want this.  With a full record of your life, you could settle disputes about who said what when, and how often you do what.   
+You don’t have to wait to record your full life in sound.  A $200 pocket voice recorder saves 150MB of high quality audio on a twelve hour battery charge, and a $200 hard disk will store three years of audio at that rate.   Of course it will be a few years until we can organize such data well. 
+
+
+title: Less Biased Memories
+
+date: February 24, 2007 6:00 am
+

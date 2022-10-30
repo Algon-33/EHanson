@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+In the world around us, innovation seems to increase with the size of an integrated region of activity. For example, human and computer languages with more users acquire more words and tools at a faster rate. Tech ecosystems, such as those collected around Microsoft, Apple, or Google operating systems, innovate faster when they have more participating suppliers and users. And there is more innovation per capita in larger cities, firms, and economies. (All else equal, of course.)
+We have decent theories to explain all this: larger communities try more things, and each trial has more previous things to combine and build on. The obvious implication is that innovation will increase as our world gets larger, more integrated, and adopts more wider-shared standards and tech ecosystems. More unification will induce more innovation.
+Simple theory also predicts that species evolve faster when they have larger populations. And this seems to have applied across human history. But if this were generally true across species, then we should expect most biological innovation to happen in the largest species, which would live in the largest most integrated environmental niches. Like big common ocean areas. And most other species to have descended from these big ones.
+But in fact, more biological innovation happens where the species are the smallest, which happens where mobility is higher and environments are more fragmented and changing. For example, over the last half billion years, we’ve seen a lot more innovation on land than in the sea, more on the coasts than on the interiors of land or sea, and more closer to rivers. All more mobile and fragmented places. How can that be?
+Maybe big things tend to be older, and old things rot. Maybe the simple theory mentioned above focuses on many small innovations, but doesn’t apply as well to the few biggest innovations, that require coordinating many supporting innovations. Or maybe phenomena like sexual selection, as illustrated by the peacock’s tail, show how conformity and related collective traps can bedevil species, as well as larger more unified tech ecosystems. It seems to require selection between species to overcome such traps; individual species can’t fix them on their own.
+If so, why hasn’t the human species fallen into such traps yet? Maybe the current fertility decline is evidence of such a trap, or maybe such problems just take a long time to arise. Humans fragmenting into competing cultures may have saved us for a while. Individual cultures do seem to have often fallen into such traps. Relatively isolated empires consistently rise and then fall. So maybe cultural competition is mostly what has saved us from cultures falling into traps.
+While one might guess that collective traps are a rare problem for species and cultures, the consistent collapse of human empires and our huge dataset on bio innovation suggest that such problems are in fact quite common. So common that we really need larger scale competition, such as between cultures or species, to weed it out. To innovate, the key to growth, we need to fragment, not unify.
+Which seems a big red loud warning sign about our current trend toward an integrated world culture, prey to integrated world collective traps, such as via world mobs. They might take some time to reveal themselves, but then be quite hard to eradicate. This seems to me the most likely future great filter step that we face.
+Added 10Jan: There are papers on how to design a population structure to maximize the rate of biological evolution.
+
+
+title: To Innovate, Unify or Fragment?
+
+date: January 1, 2022 10:30 am
+

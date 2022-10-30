@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Once upon a time planes were only a minor part of world transportation. No longer:
+A large and growing share of international trade is carried on airplanes.  Air cargo is many times more expensive than maritime transport but arrives in destination markets much faster. … We estimate that each day in transit is equivalent to [a tax] of 0.6 to 2.3 percent and that the most time-sensitive trade flows are those involving parts and components trade. …
+Ocean-borne cargo leaving European ports takes an average of 20 days to reach US ports and 30 days to reach Japan.  Air borne cargo requires only a day or less to most destinations. … In 2005, goods imported into the US faced per kilogram charges for air freight that were, on average, 6.5 times higher than ocean freight charges. … Excluding Canada and Mexico, 36 percent of US imports by value and 58 percent of US exports by value were airborne in 2000.  …  In 2004, air cargo as a share of export value was 29 percent for the UK, 42 percent for Ireland, and 51 percent for Singapore; 22 percent of Argentine and 32 percent of Brazilian imports were airborne. … From 1965-2004, worldwide use of air cargo grew 2.6 times faster than use of ocean cargo. (more)
+
+
+title: This Is the Plane Era
+
+date: February 8, 2012 4:30 pm
+

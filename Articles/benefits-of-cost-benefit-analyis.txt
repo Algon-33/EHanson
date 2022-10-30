@@ -1,0 +1,14 @@
+author: Bruce Britton
+
+text: 
+Cass Sunstein in ‘Cognition and Cost-Benefit Analysis‘ thinks at least six cognitive biases can be overcome by pushing your mind through a cost-benefit analysis.
+Loss Aversion, Endowment Effects, and Ignoring Trade-offs are obviously all about cost-benefit arithmetic — addition and subtraction, mainly. The Availability Heuristic — the tendency to base  decisions on whatever memories are most vivid or quickly available — is counteracted by cost-benefit analyses’ foregrounding of less vivid and more remote but clearly probative information. 
+This also addresses Informational and Reputational Cascades based on Availability bias — people would believe the sky is falling if Al Gore told them,  but if he doesn’t mention how much it would cost to prevent, just the hazards of not doing it ….. You really need to look at both the costs and the benefits. 
+Most generally, explicit cross-comparisons of cost-benefit ratios between alternative courses of action foregrounds the incoherence of our belief systems; coherence is often what we seek to maintain by mobilizing our biases, but often the world doesn’t come furnished with coherence.
+While teaching a course on Lomborg’s Copenhagen Consensus (‘ Global Crises, Global Solutions’ Cambridge University Press, 2004 — it’s all cost-benefit analyses) mere exposure to the analyses caused noticable shifts (even in elderly students) in deeply held views on topics including Climate Change, Migration and Free Trade. 
+
+
+title: Benefits of Cost-Benefit Analyis
+
+date: January 19, 2007 8:00 am
+

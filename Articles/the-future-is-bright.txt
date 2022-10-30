@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Three observations just came together in my mind.
+1. LED light is in IEEE Spectrum’s top 11 techs of the decade:
+With every decade since 1970, when the red LEDs hit their stride, they have gotten 20 times as bright and 90 percent cheaper per watt. … Even now, white LEDs are competitive wherever replacing a burned-out lamp is inconvenient, such as in the high ceilings and twisty staircases of Buckingham Palace, because LEDs last 25 times as long as Edison’s bulbs. They have a 150 percent edge in longevity over compact fluorescent lights, and unlike CFLs, LEDs contain no toxic mercury. (more)
+2. When something gets cheaper, we use more of it:
+The Jevons paradox … is the proposition that technological progress that increases the efficiency with which a resource is used tends to increase the rate of consumption of that resource. … [It] has been used to argue that energy conservation is futile, as increased efficiency may actually increase fuel use. (more; see also)
+3. More light makes most nice things look better:
+Yesterday, when filming an upcoming TV show in an ordinary home, I noticed how much extra light they added to the room, even in daytime in a room with lots of windows, and how much better that made it all look to me.  The host explained how common this was, and that to make actors look good in a scene that viewers are suppose to see as dim, they actually use use extra dark materials for everything else in the scene.
+I predict that over the next few decades, as lighting gets lots cheaper, we will make our indoor worlds a lot brighter.  This will start with “studio quality lighting” for high end homes, and then percolate to the rest of our spaces. You probably don’t notice just how much our indoor areas vary in their lighting:
+Full, unobstructed sunlight has an intensity of approximately 10,000 fc [footcandles]. An overcast day will produce an intensity of around 1,000 fc. The intensity of light near a window can range from 100 to 5,000 fc, depending on the orientation of the window, time of year and latitude. (more)
+The Illuminating Engineering Society … guidelines extend from lighting a public area using 2 fc to 5 fc level, to lighting special visual task areas of extremely low contrast and small size using 1,000 fc to 2,000 fc. The recommendations consider factors like occupant age, room surface reflectance, and background reflectance. (more)
+At 60 years old, we need two to three times the light we needed at age 20, and also more shielding and diffusers since older eyes are more sensitive to glare. (more)
+Added 11:30a: Eli points us to the August Economist:
+Assuming that, by 2030, solid-state lights will be about three times more efficient than fluorescent ones and that the price of electricity stays the same in real terms, the number of megalumen-hours consumed by the average person will, according to their model, rise tenfold. … When gas lights replaced candles and oil lamps in the 19th century, some newspapers reported that they were “glaring” and “dazzling white”. In fact, a gas jet of the time gave off about as much light as a 25 watt incandescent bulb does today. To modern eyes, that is well on the dim side. (more)
+Added 1:30p: More energy efficient windows also leads to more bigger windows and so more light.
+
+
+title: The Future Is Bright
+
+date: January 12, 2011 10:30 am
+

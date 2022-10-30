@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+This has been going on for three years, yet I just learned of it:
+In 2008, Japan’s Ministry of Health passed the ‘metabo’ law and declared war against obesity. …
+Japanese people are normally envied for their lean physiques. In fact, the OECD ranks them, with only 3% population obesity, one of the least obese developed countries. … Comparing the time periods 1976-1980 and 1996-2000, prevalence of obese boys and girls increased from 6.1% and 7.1% to 11.1% and 10.2%. …
+The law mandates that local governments and employers add a waist measurement test to the annual mandatory check up of 40-75 year olds. For men and women who fail the test and exceed the maximum allowed waist length of 33.5 and 35.4 inches, they are required to attend a combination of counseling sessions, monitoring through phone and email correspondence, and motivational support. …
+Employers or local government … are required to ensure a minimum of 65% participation, with an overall goal to cut the country’s obesity rates by 25% by year 2015. Failure to meet these goals results in fines of almost 10% of current health payments. (more)
+Even before Japanese lawmakers set the waistline limits last year, the International Diabetes Federation (IDF) amended its recommended guidelines for the Japanese. The new IDF standard is 90 centimeters (35.4 inches) for men and 80 centimeters (31.5 inches) for women. But the Japanese government has yet to modify its limits. (more; HT Melanie Meng Xue)
+Two interesting patterns:
+
+Japanese waist limits are stricter on men, yet since men are taller health-based rules would be stricter on women.
+The thinnest rich nation (Japan) passed a big law to make itself thinner just as the biggest medical spending nation (USA) debated a big law (Obamacare) ensuring it would spend more on medicine.
+
+My tentative explanations:
+
+Most societies find it easier to disrespect/mistreat/etc. low status men than low status women.
+National policy is more about reaffirming and supporting symbols of national pride than about addressing national needs. The USA is proud of its medicine and Japan is proud of its thinness.
+
+Note that that if you want to regulate health it makes far more sense to regulate weight than medicine, since weight is far more related to health than medicine.
+
+
+title: Japan’s Fat Tax
+
+date: November 26, 2011 8:00 am
+

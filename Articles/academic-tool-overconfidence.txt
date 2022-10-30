@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+In the November Scientific American, Stuart Kauffman offered a bias theory to explain why economists show little interest in his "complexity" economics:  
+
+Unexpected change bedevils the business community endlessly … Economists have so far not been able to offer much help to firms trying to be more adaptive. Although economists have been slow to realize it, the problem is that their attempts to model economic systems focus on those in market equilibrium or moving toward it. … The path to maximum prosperity will depend on finding ways to build economic systems in which new niches will generate spontaneously and abundantly. Such an approach to economics is indeed radical. It is based on the emergent behavior of systems rather than on the reductive study of them. It defies conventional mathematical treatments because it is not prestatable and is nonalgorithmic. Not surprisingly, most economists have so far resisted these ideas. Yet there can be little doubt that learning to apply these lessons from biology to technology will usher in a remarkable era of innovation and growth. 
+
+The claim seems to be one of academic tool overconfidence: academic communities are biased toward the conceptual tools they use the most, and against approaches that rely on other tools.  Now there are large coordination payoffs from academics using similar tools, since this lets them compare and build on each others’ results.  And this must put pressure on any given researcher to use tools similar to those used by others in his field.  But it is far from obvious to me that this constitutes a bias.  
+
+
+title: Academic Tool Overconfidence?
+
+date: February 1, 2007 6:00 am
+

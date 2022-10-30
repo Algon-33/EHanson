@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Yesterday I heard politicians talking sagely about how the gulf oil disaster shows we need stronger drilling regulations. I’ve recently heard similar musings about how the financial crisis shows we need stronger financial regulations. Makes sense, right?   But stop for a moment and ask:  Aren’t there lots of areas where we haven’t seen a big disaster in a long time?  (E.g., when was the last big hairdressing disaster?)  How strong would regulations have to be before you’d say that a prolonged period of no big disaster suggests we need weaker regulations?  When did you last hear someone using this reason to suggest we weaken a particular regulation?
+Look, in any area where we let humans do things, every once in a while there will be a big screwup; that is the sort of creatures humans are. And if you won’t decrease regulation without a screwup but will increase it with a screwup, then you have a regulation ratchet: it only moves one way.  So if you don’t think a long period without a big disaster calls for weaker regulations, but you do think a particular big disaster calls for stronger regulation, well then you might as well just strengthen regulations lots more right now, even without a disaster.  Because that is where your regulation ratchet is heading.
+What if you can’t imagine ever wanting to weaken a regulation, just because it was strong and you’d gone a long time without a big disaster?  Well then you apparently want the maximum possible regulation, which is probably to just basically outlaw that activity.  And if that doesn’t seem like the right level of regulation to you, well then maybe you should reconsider your ratchety regulation intuitions.
+Added 8p:  I’m not saying there there aren’t many other reasons/factors influencing regulatory changes, and I’m not saying regulation never gets weaker.  I’m saying that this particular factor, the existence or not of a recent disaster, is often a ratchet factor, since many folks seem unwilling to consider reducing regulation because of a lack of recent disasters, yet are willing to increase it because of a recent disaster.  This is a clear bias, though it might of course be countered by other opposite biases.
+
+
+title: Regulation Ratchets
+
+date: May 19, 2010 8:45 pm
+

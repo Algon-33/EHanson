@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+My post Monday on donating $5K to a Brain Preservation Prize testing fund has induced commentary (here, here, here, see also here). They’ve raised many issues on the choice between freezing brains or fixing them with chemicals.
+Some prefer the term “chemopreservation” over “plastination”, which some artists have used to describe approaches that don’t try to preserve fine spatial detail. But I don’t like to replace clearer short terms with long vague awkward ones, just to avoid a weak association. If needed, I’d clarify by saying “ultra plastination”.
+Some worry that we can’t prove plastic brains will last a long time. But brain researchers have looked at samples preserved many decades ago, and see almost no change. Tissues preserved in amber seem to have remain unchanged for forty million years. We have pretty good chemistry reasons to expect these plastics to last a long long time.
+Some worry that plastic forgoes the prospect of reviving brain tissue directly after thawing, and relies instead on transferring its info to a new substrate, as with emulation. But direct revival seems extremely difficult given freezing and anti-freeze damage, and I think brain emulation is the future anyway.
+Some worry that tests on fresh brains won’t show how well the techniques preserve less that fresh brains. But we could cheaply do tests now on not so fresh brains, after we test fresh ones.
+The big issue, I think, is that plastination probably merges and diffuses some relevant chemical densities. If we knew about the minimal sufficient sets of chemicals to track, we could probably design dyes to mark such a set before we sent in the plastic. But since we aren’t sure which chemicals to track, we’ll have to make educated guesses, guesses that could be wrong.
+Now many of us expect an awful lot of redundancy in brain cell spatial shape and various chemical densities, such that it will probably be enough to know the cell shapes, connection strengths, and the chemical densities that happen to be preserved in the first otherwise good plastination approach. If we go out of our way to tag a few more chemical densities, this can increase our odds. This is hardly a guaranteed approach though, so you might think freezing is safer, at least if anti-freeze can be shown to preserve more chemical densities.
+But the much bigger risk, however, is that cryonics organizations won’t last long enough to keep brains frozen long enough. Most cryonics customers signed up a while ago, and their age distribution is slowly aging. If they can’t restart exponential growth, they’ll have more and more old dying customers relative to young paying supporters, and then may have a declining customer base. In addition, a great many managerial, political, social, etc. surprises could result in patient thaws even in a growing healthy organization.
+Thus we unfortunately must choose between two unwanted risks – we must either suffer a plastination risk of not saving enough chemical densities, or suffer a cryonics risk of thaw by organizations with limited long term reliability. Since I judge the info saving risk to be mild, and the organization reliability risk to be severe, I’d choose the former.
+
+
+title: Frozen Or Plastic Brain?
+
+date: June 23, 2012 6:20 am
+

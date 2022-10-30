@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+In the three-year study, 151 patients with fast-growing lung cancer at Massachusetts General, one of the nation’s top hospitals, were randomly assigned to get either oncology [= anti-cancer] treatment alone or oncology treatment with palliative care — pain relief and other measures intended to improve a patient’s quality of life. They were followed until the end of 2009, by which time about 70 percent were dead. …
+Even though substantially fewer of them opted for aggressive chemotherapy as their illnesses worsened and many more left orders that they not be resuscitated in a crisis, they typically lived almost three months longer than the group getting standard care, who lived a median of nine months. …
+During the debate over President Obama’s 2009 health care bill, provisions to have Medicare and insurers pay for optional consultations with doctors on palliative and hospice care led to rumors … that the bill empowered “death panels” that would “euthanize” elderly Americans. Legislators eventually removed the provisions. …
+Palliative care experts now want to study patients with other cancers, heart disease, stroke, dementia and emphysema. But … the pharmaceutical industry, has little incentive to study palliative care. (more)
+From the paper itself:
+Despite receiving less aggressive end-of-life care, patients in the palliative care group had significantly longer survival than those in the standard care group (median survival, 11.6 vs. 8.9 months; P = 0.02). … Any chemotherapy within 30 days of death … [Standard Care N (%)] 21/50 (42.0%) [Early Palliative] 13/40 (32.5%).
+Note that by cleverly having their experiment combine patients informally getting less new hi-tech medicine with patients formally getting more “palliative” old lo-tech medicine, docs can frame this result as supporting giving people “more” medicine.  HT Carl Shulman.
+
+
+title: Death Panels Add Life
+
+date: August 31, 2010 7:00 pm
+

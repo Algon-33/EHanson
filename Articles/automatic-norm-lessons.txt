@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Pity the modern human who wants to be seen as a consistently good person who almost never breaks the rules. For our distant ancestors, this was a feasible goal. Today, not so much.To paraphrase my recent post:
+Our norm-inference process is noisy, and gossip-based convergence isn’t remotely up to the task given our huge diverse population and vast space of possible behaviors. Setting aside our closest associates and gossip partners, if we consider the details of most people’s behavior, we will find rule-breaking fault with a lot of it. As they would if they considered the details of our behavior. We seem to live in a Sodom and Gomorrah of sin, with most people getting away unscathed with most of it. At the same time, we also suffer so many overeager busybodies applying what they see as norms to what we see as our own private business where their social norms shouldn’t apply.
+Norm application isn’t remotely as obvious today as our evolved habit of automatic norms assumes. But we can’t simply take more time to think and discuss on the fly, as others will then see us as violating the meta-norm, and infer that we are unprincipled blow-with-the-wind types. The obvious solution: more systematic preparation.
+People tend to presume that the point of studying ethics and norms is to follow them more closely. Which is why most people are not interested for themselves, but think it is good for other people. But in fact such study doesn’t have that effect. Instead, there should be big gains to distinguishing which norms to follow more versus less closely. Whether for purely selfish purposes, or for grand purposes of helping the world, study and preparation can help one to better identify the norms that really matter, from the ones that don’t.
+In each area of life, you could try to list many possibly relevant norms. For each one, you can try to estimate how it expensive it is to follow, how much the world benefits from such following, and how likely others are to notice and punish violations. Studying norms together with others is especially useful for figuring out how many people are aware of each norm, or consider it important. All this can help you to prioritize norms, and make a plan for which ones to follow how eagerly. And then practice your plan until your new habits become automatic.
+As a result, instead of just obeying each random rule that pops into your head in each random situation that you encounter, you can actually only follow the norms that you’ve decided are worth the bother. And if variation in norm following is an big part of variation in success, you may succeed substantially more.
+
+
+title: Automatic Norm Lessons
+
+date: December 30, 2017 2:00 pm
+

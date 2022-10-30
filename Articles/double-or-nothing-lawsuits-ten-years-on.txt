@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Ten years ago today I posted a short essay on what I still think is a great idea:
+Let people risk their lawsuits, double or nothing. … You would write out a simple complaint, including who hurt you when and how, and then take this complaint to the official lawsuit randomizing office, who would then randomly declare it worthless (50% chance) or double it (50% chance). If your suit were doubled, and you took it to court and won, so that the court said your neighbor caused you $X in damages, they would really owe you twice $X. And if you gambled and lost your neighbor would get a record of this, to defend against your trying to sue again over the same complaint. More generally, you could keep doubling your suit … Double or nothing suits should create legal incentives for people to avoid hurting others by small amounts, as well as by large amounts. … Also, I’d let the person being sued also risk the suit, double or nothing, as long as they showed they were good for the maximum damage amount.
+Ten years later, the main change I’d make is to require a maximum damage declaration, with perhaps a fee proportional to that max damage, and let the accused party put money into a pot which also gets doubled if the suit is doubled. So if someone claimed you hurt them by up to $50, you could deposit $50 and then if the suit doubled you’d have $100 ready to pay if needed. And since you’d have proven your ability to pay, you could double the suit if you liked.
+I wouldn’t be surprised if someone else made a similar suggestion, but I haven’t seen any such, nor any interest in my suggestion. The few reactions I have heard have been surprisingly (to me) negative – people don’t seem to want law to discourage small harms. But if so, why do we want law to discourage large harms?
+
+
+title: Double Or Nothing Lawsuits, Ten Years On
+
+date: October 30, 2007 6:00 am
+

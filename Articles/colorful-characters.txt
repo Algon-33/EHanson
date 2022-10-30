@@ -1,0 +1,50 @@
+author: Robin Hanson
+
+text: 
+Novelists often use characters to voice controversial views they are reluctant to say publicly themselves.  In Tyler Cowen’s Discover Your Inner Economist, out this week, I seem to be similarly featured as a colorful character who can voice views Tyler is reluctant to embrace directly in a popular book:
+
+Nowhere is signaling more important that in the family.  Whereas direct cash incentives work only so well in families, signals are crucial in building family trust and cooperation.  …  If I do not want to buy a warranty, my wife considers it irresponsible.  … 
+My colleague, economist Robin Hanson, argues that many protective activities are really about "showing that you care."  What would we think of the parent who did not do "everything possible" to protect his or her children?  What kind of man would tell his wife that he weighted costs and benefits before spending on an additional biopsy for her cancer?  … 
+The more our families feel we are violating our commitments to care, the harder the reception that economic advice will receive.  … Think of "the economics of the family" as The Truth That Dare Not Speak Its Name.  If you are the economically informed member of your family, or perhaps even an economist, don’t flaunt it.  …
+And anyone who studies signaling behavior for long enough will be repulsed by social hypocrisy and will be tempted to become some kind of intellectual radical, maybe a revolutionary, maybe a more peaceful eccentric, and this has happened to Robin.  When it comes to showing that he cares, Robin wonders why it isn’t enough that he cares. 
+
+Actually, I’m pretty sure Tyler wonders all these things as well.  Now I’m a big Tyler fan, and I’ve been painted as a colorful character before, for example at Fortune and The Register, and it does beat obscurity.  
+But I will grump about a pattern I’ve noticed: people don’t seem very interested in getting the details right about colorful characters; they’d rather exaggerate.  People don’t mind saying Fred wore a purple suit to the meeting, even if it was really closer to a light pink violet, if the point was just that Fred’s suit was weird.   
+I don’t just have strange opinions just to be strange, however; the details matter to me.  So I feel the need to make more (long) corrections.  I doubt Tyler will consider these will be news; for his purposes these details weren’t worth walking down the hall to clarify. 
+Added:  See Tyler on Robin on Tyler on Robin.  
+  
+
+Robin has strange ideas.  He pays $200 a year for the privilege of having his head frozen when he dies, if indeed that turns out to be possible.  He looks forward to life in the very distant future and believes that he will be thawed out just for the heck of it, or perhaps because a future rich man just wants to have an interesting conversation about mankind’s past.
+
+ Freezing is very feasible; it is quality preservation and revival that is questionable.  I focus on a whole brain emulation revival scenario, not thawing.  I’m guessing there’s at least a 5% chance of this, but 5% is well below "believes that."  And I’m not very particular about why the future would thaw me.    
+
+ Robin believes that betting markets should be used to rule many human affairs, including government policy.  We should bet on which policies will maximize national income, and governments should institute the policies what the betting markets show as most likely to succeed. 
+
+ I have papers describing such concepts, and think they are well worth exploring, but "believes that … should be" is a bit strong.  Instead of national income, I’d prefer to maximize a legislature-chosen measure of national welfare.  
+
+Robin claims the money we spend on health care is a waste.  Since doctors kill as many people as they save, we would live just as long without them.  That sounds crazy, but the data show no correlation, either internationally or domestically, between health-care expenditures and life expectancy.  
+
+ I’ve claimed marginal medical spending doesn’t seem to buy much, and I’ve expressed doubts about non-marginal medical spending, but I don’t endorse cutting medical spending to zero, and I favor lots of non-medical "health care" such as exercise and clean air/water. 
+
+Robin believes that we are headed toward a "robot economy" with rates of exponential growth exceeding 300 percent a year.  Yet the wages of labor may fall below subsistence, leading to widespread poverty for those who do not own capital.
+
+Well "headed toward" sometime in the next century, but basically Tyler gets this one right.   
+
+Robin believes that signaling is virtually everywhere.  Indeed he comes close to a "single cause" theory for human behavior.  In his reductionist view  … The crude prediction is for only two kinds of activities: reproducing and trying to reproduce.  Of course humans spend only a few hours a month, on average, having sex.  So, in Robin’s view, the rest of our activities must be devoted to furthering our genetic fitness.  This usually means signaling, or in other words taking costly actions to show that we are fit mates.
+
+Animals and humans signal not only to potential mates, but also to potential allies, enemies, predators, and prey.  We signal not only our fitness as mates, but also our abilities and intentions to fight, evade, assist, and reciprocate. 
+
+If only feels like we love the arts for the arts’ sake; in fact the charade is part of the point.  If our love for the arts is to attract others – that is to fool them – we have to feel our passions as sincere.
+
+Self-deception is often but hardly always important to signaling.  Flattery, for example, seems to signal well even when it is transparently insincere.  I’m not sure how important sincerity is in arts signaling. 
+
+Technology has changed society more rapidly than our biology and our instincts can adapt.  …  Behind his scientific exterior lies the heart of a preacher, who wishes to thunder against social hypocrisy and dishonesty.  …  He even imagines a futures world where we are all "computer uploads" and no one has to signal any more.  Just read the other person’s program.  
+
+No more signaling is an exaggeration, but otherwise Tyler gets these basically right.  
+The other downside of being painted as a colorful character, besides inattention to detail, is the lack of contrary opinions or arguments. Other that the fact that Tyler labels my opinions "strange" overall, Tyler doesn’t tell readers which of my opinions he disagrees with or why.  As David Lewis famously said "I cannot refute an incredulous stare."  
+
+
+title: Colorful Characters
+
+date: July 30, 2007 6:00 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Some sorts of overconfidence benefit the world:
+This paper uses … [a] measure of overconfidence, based on CEO stock-option exercise, to study the relationship between a CEO’s “revealed beliefs” about future performance and standard measures of corporate innovation. … The model predicts that overconfident CEOs, who underestimate the probability of failure, are more likely to pursue innovation, and that this effect is larger in more competitive industries. We test these predictions on a panel of large publicly traded firms for the years 1980 to 1994. We ﬁnd a robust positive association between overconfidence and citation-weighted patent counts in both cross-sectional and fixed-effect models. This effect is larger in more competitive industries. Our results suggest that overconfident CEOs are more likely to take their firms in a new technological direction. (more)
+Added 8June: Postrel on John Nye:
+Professor Nye argued that the wins and the losses probably don’t cancel out. Even the biggest winners don’t make enough money personally to cover the losses of all the individuals who went into businesses that failed. … The lucky-fools theory suggests, then, that Victorian Britain’s economy was successful but stagnant not because investors were irrationally afraid of risks but because they were all too mature and calculating. They didn’t tolerate the foolish chances that a vital economy requires.
+
+
+title: Overconfident Innovation
+
+date: June 6, 2010 2:30 pm
+

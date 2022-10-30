@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+As I expect to cut back on blogging soon, I’m delighted to report that Eric Drexler now blogs, at Metamodern.com.  Of his first dozen posts, my favorite is on the promise of formal proof in math and digital systems:  
+
+If this doesn’t seem important, it may be because we’re so accustomed to living with systems that have built on foundations made of mud, and thinking about a future likewise based on mud. All of us have difficulty imagining what could be developed in a world where computers didn’t crash, were guaranteed to be immune from virus attack, and could safely download code written by the devil himself, and where crucial pieces of software could be guaranteed to not leak data.  In this area, as everywhere in the realm of fundamental technological progress, the possibilities we can imagine will become the basis for possibilities we can’t imagine, and these, as they become real, will make possible yet more.
+
+
+
+title: Drexler Blogs!
+
+date: December 4, 2008 8:40 pm
+

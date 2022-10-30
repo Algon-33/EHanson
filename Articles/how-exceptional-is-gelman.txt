@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+In response to my saying:
+Academia is primarily an institution for credentialling folks as intellectually impressive, so that others can affiliate with them.
+Andrew Gelman penned “Another reason I’m glad I’m not an economist“:
+That [Robin] would write such an extreme statement without even feeling the need to justify it (and, no, I don’t think it’s true, at least not in the “academia” that I know about) . . . that I see as a product of being in an economics department.
+I responded:
+I have posted many times here on [this]. … The standard idealistic [story] is that academics know useful and important things, things which students want to learn, media want to report, consulting clients want to apply, … These idealistic theories … have [these listed] detailed problems. … It seems far simpler to me to just postulate that people care primarily about affiliating with others who have been certified as prestigious.
+Andrew answered:
+College students prefer to be taught by profs who research, and hence ignore students more, yet students have little idea what their profs research. . . . There is relatively little relation between what profs teach, what profs research, and what students do after they graduate.
+To which I reply: No way, dude! Our students … send me emails asking when I’m going to teach multilevel models and Bayesian statistics. … There is a strong connection between what I teach and what I research. And it’s my impression that they do use this stuff after they graduate. …
+You might say: Fine, but Robin is talking about academia in general, not the Columbia statistics department in general. That I could buy … But . . . in his blog entry Robin appears to be skeptical of my claim that the customers who pay my salary “learn how to fit multilevel models.”
+On why he is funded:
+The state government of New York or the Heritage Foundation or whatever, … I assume they would like their conclusions to be research-based, to avoid negative unintended consequences and all the other things that we worry about when considering policies.
+My primary focus is academia in general, and grad students are not “college students.”  I have consistently told both college and grad students that stat classes are among the most useful later in a non-academic career.   So I am happy to grant that Andrew may be an unusual exception.  Nevertheless, consider:
+
+Since I’ve granted that my story is contrary to what people usually say and assume, saying “I assume” on funding just isn’t much of a contrary argument.  “My impression” on students isn’t much better.
+Your funding patrons may like to see studies using your methods not because they predict better but because they and you are more prestigious.  Could you tell the difference?
+I suspect most of your students never much use the methods they learn from you later.  Some no doubt do use them.
+Employers may want to hire your students to use your methods not because those methods predict better because they are more prestigious, and people who can master them are just better overall.
+Last week I mentioned that fancy stat forecasts are consistently beat by simple moving averages; have you done field tests to see how well your students actually do using your methods, compared with simpler methods?
+
+
+
+title: How Exceptional Is Gelman?
+
+date: July 16, 2009 12:00 pm
+

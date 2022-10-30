@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+My colleague Russ Roberts writes:  
+
+Over the years, I have become increasingly skeptical of the power of statistical techniques to measure causation in complex systems.  … I happen to believe that concealed handguns do deter crime and allowing concealed handguns is a good thing. And you can claim that the evidence that shows I’m right is "good" statistical analysis. The other side disagrees. They claim it’s "bad" statistical analysis. Who’s right? I have no idea. But what’s clear to me is that my belief in the virtues of allowing concealed hand guns has little to do with the empirical evidence. And I would argue that the opponents are really in the same boat. They just don’t like guns and they’ve dressed up their prejudices in fancy statistical analysis. …
+
+If Russ relies little on data to draw his conclusions, then on what does he rely?  Perhaps he relies on theoretical arguments.  But can’t we say the same thing about theory, that we mainly just search for theory arguments to support preconceived conclusions?  If so, what is left, if we rely on neither data nor theory?  
+ Try saying this out loud: "Neither the data nor theory I’ve come across much explain why I believe this conclusion, relative to my random whim, inherited personality, and early culture and indoctrination, and I have no good reasons to think these are much correlated with truth."  That does not seem a conclusion worth retaining.  If this is really your situation, you should move to a nearly intermediate position of uncertainty.   Either you should believe that truth-correlated data or theory has substantially influenced your belief, or you should retain only a very weak belief.  
+ HT to Arnold Kling. 
+
+
+title: If Not Data, What?
+
+date: October 26, 2007 6:00 am
+

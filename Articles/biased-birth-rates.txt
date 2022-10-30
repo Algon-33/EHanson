@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+In poor societies richer couples have more kids, but richer societies have fewer kids.  This may be because female kid desires are biased low, relative to genetic interests, and in rich societies women have more relative power.  Ted Bergstrom explains in the May American Economic Review:
+
+The demographic transition … presents a challenge to … evolutionary theories of reproductive behavior.  In Western Europe, starting in about 1870, real wages began to rise about 2 percent per year.  Net reproductive rates fell from an average of three children per woman in 1860 to fewer than two in the modern era. … Evolutionary biologists find it puzzling that a species reproduces less rapidly when individuals have access to more material resources. … Why was there a positive correlation between wealth and fertility before the demographic transition, but not after? …
+Because of a genetic conflict of interest between mates, evolution could have shaped preferences so that "human females would fail to bear the optimal number of children in the absence of pressure of mates and kin."  …  Thus men would desire more children and women fewer children than their own genetic interest dictates.  Differences in birth rates across time and between cultures would occur as one side or the other gains increased leverage in this tug-of-war.  In modern economics, women have increased influence in household decisions and, together with improved contraceptive technology, have gained greater control of their own fertility.  …
+Malaysian husbands want more children than their wives and, when measurable household bargaining power favors the wife, a couple tends to have fewer children.  In a survey of Brazilian households, … as the ratio of the wife’s nonlabor income increases, couples tend to have fewer children.  
+
+ I’ve long been puzzled by the demographic transition, and so am excited to hear of a plausible theory that roughly fits people I know.  If it is true, and if we now have too many or just enough kids, relative to a social or moral optimum, then empowering women has helped.  But if, as I suspect, we now have too few kids, then empowering women may be largely to blame. 
+Added: Bergstrom credits Barkow & Burley. Ethology and Sociobiology, 1980.  If you want to play "find a better theory," at least try to explain all the related data, including fertility of the rich in poor societies, and the robustness of the demographic transition to cultures and contraception technology.   
+
+
+title: Biased Birth Rates
+
+date: July 5, 2007 6:00 am
+

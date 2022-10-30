@@ -1,0 +1,58 @@
+author: Hal Finney
+
+text: 
+Some time back I thought of an example which shed light for me on some of the fail-to-disagree results. Imagine that two players, A and B, are going to play a coin-guessing game. A coin is flipped out of sight of the two of them and they have to guess what it is. Each is privately given a hint about what the coin is, either heads or tails; and they are also told the hint "quality", a number from 0 to 1. A hint of quality 1 is perfect, and always matches the real coin value. A hint of quality 0 is useless, and is completely random and uncorrelated with the coin value. Further, each knows that the hint qualities are drawn from a uniform distribution from 0 to 1 – on the average, the hint quality is 0.5.
+The goal of the two players is to communicate and come up with the best guess as to the coin value. Now, if they can communicate freely, clearly their best strategy is to exchange their hint qualities and just follow the hint with the higher quality. However we will constrain them so they can’t do that. Instead all they can do is to describe their best guess at what the coin is, either heads or tails. And further, we will divide their communication into rounds, where in each round the players simultaneously announce their guesses to each other. Upon hearing the other player’s guess, each updates his own guess for the next round.
+Read on below the break for some sample games to see how the players can resolve their disagreement even with such stringent constraints.
+  
+Here’s a straightforward example where we will suppose A gets a hint with quality 0.8 of Heads, and B gets a hint with quality 0.6 of Tails. Initially the two sides tell each other their best guess, which is the same as their hint:
+
+A:H  B:T
+
+Now they know they disagree. Their reasoning can be as follows:
+A: B’s hint quality is uniform in [0,1], averaging 0.5. My hint quality is higher than that at 0.8, so I will stay with Heads.B: A’s hint quality is uniform in [0,1], averaging 0.5. My hint quality is higher than that at 0.6, so I will stay with Tails.
+
+A:H  B:T
+
+So they remain unchanged. Now they reason:
+A: B did not change, so his hint quality must be higher than 0.5. That is all I know, so it must be uniform in [0.5,1], averaging 0.75. My hint quality is higher than that at 0.8, so I will stay with Heads.B: A did not change, so his hint quality must be higher than 0.5, so it must be uniform in [0.5,1], averaging 0.75. My hint quality is lower than that at 0.6, so I will switch to Heads.
+
+A:H  B:H
+
+And they have come to agreement. If both A and B had had higher hint qualities, they might have persisted in their disagreement for more rounds, but each refusal to switch tells the other party that their hint quality must be even higher, and eventually one side will give way.
+It’s improbable that both sides will have high but opposite hint qualities. What happens in the more likely case where they have low but opposite hint qualities? Let’s suppose that A gets a hint of Heads with quality 0.1, and B gets a hint of Tails with quality 0.15.
+
+A:H  B:T
+
+A: B’s hint quality is uniform in [0,1], averaging 0.5, which is higher than my 0.1, so I will switch to Tails.B: A’s hint quality is uniform in [0,1], averaging 0.5, which is higher than my 0.15, so I will switch to Heads.
+
+A:T  B:H
+
+A: B switched, so his hint quality was lower than 0.5, making it uniform in [0,0.5] and averaging 0.25, which is higher than my 0.1, so I will stay with Tails (B’s original guess).B: A switched, so his hint quality was lower than 0.5, making it uniform in [0,0.5] and averaging 0.25, which is higher than my 0.1, so I will stay with Heads (A’s original guess).
+
+A:T  B:H
+
+A: B stayed the same, so his hint quality was lower than 0.25, making it uniform in [0,0.25] and averaging 0.125, which is higher than my 0.1, so I will stay with Tails.B: A stayed the same, so his hint quality was lower than 0.25, making it uniform in [0,0.25] and averaging 0.125, which is lower than my 0.15, so my original hint quality was higher, and I will switch back to my original Tails.
+
+A:T  B:T
+
+Once again agreement is reached. Note that when both sides have a low hint quality, they initially switch to the other side’s original view, then they each stick with that new side. After enough rounds one of them decides that the other’s hint must have been so poor that his hint was better, and he switches back to reach agreement.
+An interesting case arises if the hint qualities are near 1/3 or 2/3. In that case we can get sequences like this (I will skip the reasoning, you can work it out if you like):
+
+A:H  B:T
+A:T  B:H
+A:H  B:T
+A:T  B:H
+A:H  B:H
+
+Here we can have both sides changing back and forth potentially several times, each side taking the other’s view, until they come to agreement.
+A few interesting points about this game. It’s a simple model that captures some of the flavor of the no-disagreement theorem. In the real world we have hints about reality in the form of our information; and there is something like a "hint quality" in terms of how good our information is. If we were Bayesians we could both report our hint qualities when we disagree, and go with the one that is higher. Even if we are limited merely to reporting our opinions as in this game, we should normally reach agreement pretty quickly.
+Another interesting aspect is that when you play the game, you can never anticipate your partner’s guess. On each round you have an idea of the range of possible hint qualities he might have, based on his play so far, and it always turns out that given that range, he is equally likely to guess Heads or Tails on the next round. This is related to Robin’s result that the course of opinions among Bayesians in resolving disagreement goes as a random walk.
+As I noted, in the real world it should be uncommon for two people to have high quality but opposing hints, because high quality hints are supposed to be accurate. Hence it should be rare for people to stubbornly disagree and stick to their original viewpoints. Much more common should be the case where people have low quality hints which disagree. In that case, as we saw, people should switch position at least once, and then (depending on how low the hint quality was) either stick to their reversed position or else possibly alternate some more. This should be a common course of disputation between Bayesians, but it is strikingly rare among humans.
+Another point this game illustrates is that the Aumannian notion of "common knowledge" may not be as easy to use as it seems. Note in this game that even after announcing their positions, players’ (current) views are not common knowledge. After each round, a player got new information that could have changed his view from when he stated it before. Once they reach agreement, then things seem to stabilize, but that may not be the case in general. I have constructed different games in which people can agree for two consecutive rounds and then disagree. It is an open question to me whether two people can agree for N rounds and then disagree, for arbitrary N.
+
+
+title: The Coin Guessing Game
+
+date: January 1, 2007 9:04 pm
+

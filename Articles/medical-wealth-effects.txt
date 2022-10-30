@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Imagine being a cash-poor college student who likes expensive sports cars.  While you intend to buy one someday, for now you focus on paying for tuition, books, etc. Then your rich uncle dies and, knowing your car passion, leaves you a sports car in his will. While you might sell it to pay off $30,000 in students loans, you might also keep it – you are now richer, and can perhaps afford this luxury.
+Does this mean that it is usually economically efficient for college students to buy expensive sports cars?   No – the fact that students would not ordinarily take out a loan to buy a sports car strongly suggests such cars are not worth the price. The fact that they might buy one later when they are richer does not change that conclusion.
+Oddly, some people think differently about medicine.  When people have more medical insurance, they consume more medicine.  And many attribute this to the fact that insured folks don’t pay the full price of their medicine. But John Nyman argues that if medical insurance were to pay out in cash like auto insurance does now, so that patients had the option to take cash instead of treatment, up to 70% of the extra medicine that insured folks consume, beyond what uninsured folks consume, would still be chosen by patients. Nyman thinks this implies that such treatment is economically efficient, and Austin Frakt and Mark Thoma agree.
+Arnold Kling is skeptical:
+If Nyman were to debate Robin Hanson on the empirical realism of this, my money would be on Hanson.
+My argument, however, is mostly theoretical. If uninsured patients and their families would not be willing to take out loans, or sell valued possessions, to pay for some expensive treatment, that strongly suggests they don’t see such treatment as worth its price. Yes, before a problem arises people might want to arrange to make themselves financially richer in the states of the world where problems arise.  And yes, market failures might prevent people from borrowing or selling quickly and efficiently. But these don’t seem to be the main effects here.
+It bugs me that even economists mostly consider alternate more efficient institutions as ways to argue for their favored versions of our inefficient institutions.  I say let’s try to actually give patients the choice to take cash instead of treatment. Even Nyman should agree that would reduce waste.  And if you think market failures in borrowing really prevent folks from buying good medicine, why not push for government loans to help the uninsured pay for medicine, instead of forcing everyone to be insured? If you worry that hospitals price discriminate against folks who show up without insurance at the last minute, why not help them pre-negotiate for lower prices?  Could it be that some folks don’t actually want more economically efficient medicine?
+
+
+title: Medical Wealth Effects
+
+date: May 8, 2011 10:45 am
+

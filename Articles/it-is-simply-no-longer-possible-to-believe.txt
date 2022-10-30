@@ -1,0 +1,14 @@
+author: David J. Balan
+
+text: 
+This piece by Marcia Angell in the New York Review of Books, while very good, mostly consists of stuff that would be familiar and unsurprising to OB readers.  But I was somewhat surprised that she went so far as to say this:
+
+The problems I've discussed are not limited to psychiatry, although they reach their most florid form there.  Similar conflicts of interest and biases exist in virtually every field of medicine, particularly those that rely heavily on drugs or devices.  It is simply no longer possible to believe much of the clinical research that is published, or to rely on the judgment of trusted physicians or authoritative medical guidelines.  I take no pleasure in this conclusion, which I reached slowly and reluctantly over my two decades as an editor of The New England Journal of Medicine.
+
+That's pretty strong stuff for someone who is enough of an establishment figure to become the editor of the NEJM.  It's worth pointing out, though, that most of the biases that she is talking about are the product of plain old financial corruption, not the subtle cognitive biases that we mostly worry about here (though those undoubtedly play a role in allowing physicians to delude themselves into believing that they are not being swayed by the money).  So these kinds of problems could probably be mostly eliminated by a conceptually simple (though of course politically very difficult) change in the rules of the game.  Getting rid of problems like physician overconfidence would be much harder.
+
+
+title: “It is Simply No Longer Possible to Believe”
+
+date: December 29, 2008 6:00 am
+

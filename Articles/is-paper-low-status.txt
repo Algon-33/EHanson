@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+“Virginia has a lot of electronic voting and in general has an election system where it’s very hard to get recounts,” says Dill. “So I might worry about Virginia, depending on how close it is.” … It’s a lot easier to modify electronic records than to modify paper records which is why banking and a lot of other critical activities like that still rely on paper when there’s an ultimate disaster and electronic records are lost or corrupted. (more)
+When I voted this morning in Virginia I noticed a line of 6-8 people waiting to use the electronic voting machines, but one could vote immediately on paper. Yet paper voting is less corruptible. I asked Alex Tabarrok and he said he puzzled over the same thing when he voted: why is paper voting so unpopular?
+A fb comment noted that it is mostly old folks voting on paper. And that was true at my place as well. Which leads me to suggest that this is a status effect – people stand in line to vote less securely in order to signal that they aren’t old folks scared by or incompetent at electronics. Yes, it seems surprising that people are willing to spend an extra few minutes just to look hip to strangers. But what other explanation is there?
+
+
+title: Is Paper Low Status?
+
+date: November 6, 2012 4:00 pm
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+When I posted before on not seeing why lies should be legal, many complained that laws against lies are impractical. But in fact, it has long been illegal to lie to government officials:
+Did you know that it is a crime to tell a lie to the federal government? Even if your lie is oral and not under oath? Even if you have received no warnings of any kind? Even if you are not trying to cheat the government out of money? Even if the government is not actually misled by your falsehood? Well it is.
+Title 18, United States Code, Section 1001 makes it a crime to: 1) knowingly and willfully; 2) make any materially false, fictitious or fraudulent statement or representation; 3) in any matter within the jurisdiction of the executive, legislative or judicial branch of the United States. Your lie does not even have to be made directly to an employee of the national government as long as it is “within the jurisdiction” of the ever expanding federal bureaucracy. Though the falsehood must be “material” this requirement is met if the statement has the “natural tendency to influence or [is] capable of influencing, the decision of the decisionmaking body to which it is addressed.” United States v. Gaudin , 515 U.S. 506, 510 (1995). (In other words, it is not necessary to show that your particular lie ever really influenced anyone.) Although you must know that your statement is false at the time you make it in order to be guilty of this crime, you do not have to know that lying to the government is a crime or even that the matter you are lying about is “within the jurisdiction” of a government agency. United States v. Yermian , 468 U.S. 63, 69 (1984). …
+Some [Assistant United States Attorneys] specifically send agents out to conduct interviews knowing that a witness will either tell the truth and help build a case against someone else or lie and subject himself to a Section 1001 charge . … You will probably not be shown any of the pertinent documents before the interview begins. You could easily make factual mistakes during your interview. … Your mistakes can easily be interpreted as intentional falsehoods under Section 1001. …
+Tell the agent that you have an attorney and that “my attorney will be in contact with you.” … If you are not in custody, your total silence, especially in the face of an accusation, can very possibly be used against you as an adoptive admission under the Federal Rules of Evidence. Your invocation of counsel, however, cannot be used against you at trial. (more)
+This law may or may not be a good idea, but surely it is feasible.
+
+
+title: We Ban Lies, To Officials
+
+date: September 23, 2011 10:00 pm
+

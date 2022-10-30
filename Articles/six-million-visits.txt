@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+According to Sitemeter.com, sometime in the next day or so we should have the six millionth visit to this blog.
+
+
+title: Six Million Visits
+
+date: May 11, 2012 2:00 pm
+

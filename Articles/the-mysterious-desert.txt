@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+How bright is our future? That depends greatly on how feasible is interstellar travel. And we don’t really know that, because we are still pretty ignorant about what lies between the stars. Oh it all looks pretty empty, but looks could be deceiving. If you look at a logarithmic map of the universe, the scales on which we seem the most ignorant (below 10Bly) are the three orders of magnitude between the furthest planets and the nearest stars. Now we see clues that unexpected and powerful things happen there:
+Between May 2009 and May 2010, IceCube detected 32 billion cosmic-ray muons, with a median energy of about 20 TeV. These muons revealed, with extremely high statistical significance, a southern sky with some regions of excess cosmic rays (“hotspots”) and others with a deficit of cosmic rays (“cold” spots).
+Over the past two years, a similar pattern has been seen over the northern skies by the Milagro observatory in Los Alamos, New Mexico, and the Tibet Air Shower array in Yangbajain. … It’s a mystery because the hotspots must be produced within about 0.03 light years of Earth. Further out, galactic magnetic fields should deflect the particles so much that the hotspots would be smeared out across the sky. But no such sources are known to exist.
+One of the hotspots seen by IceCube points in the direction of the Vela supernova remnant … almost 1000 light years away. Cosmic rays coming from such large distances should be constantly buffeted and deflected by galactic magnetic fields on route, and should thus have lost all directionality by the time they reach Earth. …
+There could be a “tube” of magnetic field lines extending between the source and our solar system, funnelling the cosmic rays towards us. … [This] theory is highly speculative. … Others have proposed that … solar magnetic field lines cross and rearrange, converting magnetic energy to kinetic energy – could be accelerating local cosmic rays … creating the observed hotspots. … “That’s also crazy, but it is at least less crazy than other explanations.” (more)
+
+
+title: The Mysterious Desert
+
+date: May 14, 2011 10:30 pm
+

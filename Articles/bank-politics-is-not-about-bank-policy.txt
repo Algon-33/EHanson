@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Pundits are falling all over themselves to advise us on the banking crisis.  Politics Is Not About Policy predicts that politics in this crisis is also not about policy.  It says that since we will mainly pick the policy recommended by the highest status coalition of advisors, each pundit will rise in status if the policy we choose is similar to the one he suggested.  So pundits are eager to offer reasonable seeming advice.  We listen because we want to see who will win this status battle, and maybe shift the coalition we support a bit to better position ourselves in such conflicts. 
+ You might say we are using status as a clue to policy, since higher status advisors on average suggest better policies.  But if we were serious about getting the most effective policy advice we’d be collecting pundit prediction track records.  Yet I doubt the few who actually did predict this crisis will be listened to more on what we should do about it.  And while pundits etc. are spending fortunes now to push their views, we still won’t spend the million it would take to create a good (e.g., prediction market) system to collect and track pundit banking predictions.
+
+
+title: Bank Politics Is Not About Bank Policy
+
+date: September 26, 2008 6:00 am
+

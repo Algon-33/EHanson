@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Epidemics, wars, and quakes are distributed with long tails, so that most of the expected harm from such events are in the largest possible events.  Most who are expected to die in epidemics die in events that kill much of the population.  These long tail disasters plausibly embody existential risk – a risk to the existence of civilization and humanity.
+A new paper on economic downturns suggests that such events do not have long tails, and so are not existential concerns:
+In the rare-disasters setting, a key determinant of the equity premium is the size distribution of macroeconomic disasters, gauged by proportionate declines in per capita consumption or GDP. The long-term national-accounts data for up to 36 countries provide a large sample of disaster events of magnitude 10% or more. For this sample, a power-law density provides a good fit to the distribution of the ratio of normal to disaster consumption or GDP. The key parameter of the size distribution is the upper-tail exponent, alpha, estimated to be near 5, with a 95% confidence interval between 3-1/2 and 7. …
+We work with the transformed disaster size z ≡ 1/(1-b), which is the ratio of normal to disaster consumption or GDP. … We start with a familiar (single) power law, which specifies the [probability] density function as f(z) = Az-α.
+For a long tail, alpha needs to be two or less.
+
+
+title: Downturns Are Not Existential Risks
+
+date: August 19, 2009 8:00 pm
+

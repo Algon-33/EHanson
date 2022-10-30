@@ -1,0 +1,35 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan likes our book:
+My blurb calls it, “Deeply important, wide-ranging, beautifully written, and fundamentally right” – and I mean every word.
+But he also has many complaints on our religion chapter. He summarizes:
+[They] could have done even better. They’re so excited about their own theory that they occasionally forget to be curious about the facts. And they’re so eager to show that strange behavior could be functional that they frequently forget to ask, “Functional when?” and “Functional for whom?”
+Alas his specific complaints seem to me more like attempts to misread us to find things to criticize. But you be the judge. Bryan starts (he’s indented once, our book twice):
+And yet, as we’ll see, there’s a self-serving logic to even the most humble and earnest of religious activities.
+The last sentence seems like a clear case of overstatement. What about hidden religiosity? Persecuted religiosity?
+If we had said “kitchen tools have practical household uses”, would Bryan say “But a burglar could stab you with a kitchen knife”? Is is really hard to find group-conflict functions of religious persecution, or of hiding your religiosity from likely persecutors?
+We don’t worship simply because we believe. Instead, we worship (and believe) because it helps us as social creatures.
+While this story is plausible, [they] don’t really grapple with the strongest counter-arguments. Most obviously, arcane doctrinal disputes seem to be the sparks behind several major historical events. Take the Protestant Reformation. Yes, there’s plenty of realpolitik under the surface. But it’s hard to deny that Luther, Calvin, and other key figures did put beliefs in the driver’s seat.
+“The dog ate my homework” only works as an excuse because sometimes dogs do eat homework. Similarly, we say while we give too much credit to a usual motive, and too little to a more hidden one, the usual motive is part of the mix. That’s why the usual motive can be an an excuse for the hidden one.
+We say religious beliefs are more the excuse, and often function as sacrifices and badges to identify groups. Assuming this, I don’t see how it is at all surprising that, when one religious group splits away from another, their leaders point to particular arcane doctrinal disagreements. How is this at all evidence against such beliefs serving in large part as group badges?
+[W]e engage in a wide variety of activities that have a religious or even cult-like feel to them, but which are entirely devoid of supernatural beliefs. … The fact that these behavioral patterns are so consistent, and thrive even in the absence of supernatural beliefs, strongly suggests that the beliefs are a secondary factor.
+I struggle to see the logic here. Yes, the world’s leading religions have much in common with secular movements. But how does that suggest that what distinguishes these religions from secular movements is “secondary”? Indeed, doesn’t it suggest precisely the opposite conclusion – that supernatural beliefs are what makes leading religions special?
+Common features suggest common structures and functions. We don’t say the differences are unimportant.
+We think people can generally intuit what’s good for them. …
+This seems like a rash overstatement. For starters, if the religious order is stable and powerful, doubts are dangerous. [Their] own model suggests that the oppressed would develop pronounced Stockholm Syndrome. Why? To avoid social sanctions. The best way to convince your oppressor that you love him is to love him sincerely.
+We mean “good for them” in an individual, not collective, sense. Acting religious can give a personal gain even when it is a social loss.
+To lock in the benefits of cooperation, then, a community also needs robust mechanisms to keep cheaters at bay.
+Strangely, though, many of the leading religions loudly proclaim that they welcome everyone. And they live up to this rather naive promise to an amazing degree. I was raised Catholic for my first sixteen years, and can’t recall any anti-cheating mechanism more “robust” than collective scolding.
+But the key question is: was that scolding enough? Religious groups vary in their strength of bonding, and thus in their severity of punishment. Instead of a young Caplan guessing that he could have cheated, it would have been more persuasive to hear an example of someone actually cheating and gaining without giving enough back. Yet even then we have to expect a few successful cheaters.
+People who believe they risk punishment for disobeying God are more likely to behave well, relative to nonbelievers. …
+I’ve often heard economists make claims like this. But when you look at the real world, it’s far from clear that disobedience and belief in divine punishment are even negatively correlated. Luther and Calvin, the fathers of modern Protestantism, preached … our salvation is absolutely beyond your control. Nevertheless, fundamentalist Protestants have long been known for strict adherence to the rules.
+As I used to be a fundamentalist Protestant myself, it seems clear to me that most practicing fundamentalist Protestants today see a connection between their behavior and divine punishment, no matter what doctrines Luther and Calvin once endorsed.
+There’s also a peculiar omission in this chapter. HS barely acknowledge the massive gap between how religious people say they are and how religious they actually are.
+Our chapter is short, and religion is vast. That topic is interesting, but not essential to our main point.
+
+
+title: Caplan Critiques Our Religion Chapter
+
+date: January 28, 2018 1:10 pm
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+I recently posted on a hypothetical “kilo-vote” scenario intended to help show that most of us don’t vote mainly to influence who wins the election. However, the ability of any given scenario to convince a reader of such a result depends on many details of the scenario, and of reader beliefs about behavior. So on reflection, I’ve come up with a new scenario I think can persuade more people, because in it fewer things change from the prototypical voting scenario.
+Imagine that polls stayed open for a month before the election deadline, and that a random one percent of voters were upgraded to “super-voters,” who can privately vote up to twenty times, as long as they wait at least an hour between votes. When a super-voter votes all twenty times, their votes are doubled, and counted as forty votes. “Privately” means no one else ever knows that this person was a super-voter. (Yes that could be hard to achieve, but just assume that it is achieved somehow.)
+To a voter who cares mainly about picking the election winner, and who casts only a tiny fraction of the votes, the value of voting is proportional to their number of votes. Twice the votes gives twice the value. If such a person votes when they are an ordinary voter, then they should be greatly tempted to vote twenty times as a super-voter; their costs aren’t much more than twenty times their costs from voting once, yet for that effort they get forty votes.
+I feel pretty sure that most of the people assigned to super-voter status would not in fact vote twenty times. Yes I haven’t tested this, but I’d be willing to bet on it. Most voters care a lot more about seeming to have done their duty than they do about maximizing any new opportunities that arise from being assigned super-voter status. So most super-voters would think they’d done their duty with their first vote. After all, if voting once is good enough for ordinary voters who are not assigned to super-voter status, why shouldn’t that be good enough for super-voters as well?
+
+
+title: Super-Voting Scenario
+
+date: March 31, 2016 3:00 pm
+

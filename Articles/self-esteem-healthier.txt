@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+We’ve long known that status is strong correlated with health.  But we’ve also long wondered: what matters more, how others see you, or how you see yourself?  Now we know:
+193 healthy men and women ages 21-55 years were assessed for subjective (perceived rank) and objective SES [Socio-Economic Status], cognitive, affective and social dispositions, and health practices. Subsequently, they were exposed by nasal drops to a rhinovirus or influenza virus and monitored in quarantine for objective signs of illness and self-reported symptoms. … Increased subjective SES was associated with decreased risk for developing a cold for both viruses. This association was independent of objective SES and of cognitive, affective and social disposition. … Poorer sleep among those with lesser subjective SES may partly mediate the association between subjective SES and colds. … Increased subjective [status] is associated with less susceptibility to upper respiratory infection, and this association is independent of objective [status], suggesting the importance of perceived relative rank to health. (more; HT Alex Tabarrok.)
+
+
+title: Self-Esteem Healthier
+
+date: May 10, 2010 4:00 am
+

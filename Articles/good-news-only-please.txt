@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Corporate prediction markets have received a lot of press over the last few years, as an exciting new trend.   But press coverage has a serious bias: it mostly only mentions success.  Hundreds of companies have considered and rejected prediction markets, and many others have started them and then stopped, at least for a while.  But news focuses on companies that are still trying them, and relatively happy.  
+ I used to be quoted often in those articles, until my comments became a bit more negative – that didn’t fit the desired tone.  I don’t blame reporters, I blame the readers; reporters understand that readers mainly want to hear breathless one-sided excitement about new technologies.  Until they don’t; when over-the-top forecasts aren’t verified quickly, readers may want post-fad shaking-the-head "how could they all be so gullible" articles.  After the dotcom bust, few wanted to hear about how the dotcom revolution really was continuing to remake society.  
+ The important lesson:  Biases that appear in the world we see via press coverage are often the biases readers expect to see, and insist on seeing.   
+
+
+title: Good News Only Please
+
+date: March 16, 2007 6:00 am
+

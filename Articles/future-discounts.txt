@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+In few billion years our descendants may spread across billions of galaxies. Even so, if they do not drastically change the structure of space-time, then within a trillion years they will fragment into billions of isolated galaxy-sized “universes”.  Standard physics, you see, says that in a trillion or two years all the galaxies near the Milky Way will merge into one big galaxy, and other galaxies will be too distant to see in any way.  For all practical purposes, that merged galaxy will be a separate universe.
+If we do nothing to change the situation, then within ten or so trillion years, all current stars will be dead (degenerate), and no more stars will form.  Over the next billion trillion years, stars will occasionally smash in a flash, or pass close enough to each other to throw one out of the galaxy; in the end 1-10% remain in a central black hole.
+What if we change the situation?  Most useful resources, such as hydrogen to turn into lead, or mass not yet dropped into the central black hole, will likely be identified and claimed within a few million years.  How fast will folks use up these resources?
+In principle, most everything might be burned quickly in a few million years of party-hardy gluttony, or most might be saved to use steadily over the billion trillion trillion years or more before protons decay.  How fast resources are actually used would be determined by the discount factors of the creatures who control resources.  But what would those be?
+If unused resources were completely stable and if property rights in resources were completely secure, then we’d mainly have a selection effect in discount rates.  Agents who discount fast would dominate early activity, while those who discount slowly would dominate late activity.  Even if initially only a tiny fraction of agents cared about activity in a billion trillion trillion years, those agents would dominate such late activity.
+Any natural rate at which resources decay would set an upper limit on discounting.  There is no point in planning to use resources long after you expect them to decay.  Similarly, insecure property rights would increase discount rates. If you expect a 1% chance that your property will be stolen every million years, you won’t expect to still have much after a billion years, so you might as well plan to use most of it before then.   The same holds if your property is never stolen, but you have to spend 1% of your resources every million years to ensure that fact.
+“Switzerlands,” from which theft is naturally harder, might be the last locations of activity in each galaxy.  These might be matter sent on very long secret orbits, to return back to galaxy central after a very long time.  Similarly, resources which simply could not be physically used until a long delay might ensure some late universe activity.
+The inhabitants of a galaxy-universe could have different degrees of central coordination; some might have a strong central government, while others lived in anarchy.  With a strong central government, long term activity seems strongly influenced by the discount rate of that government. If this government taxed 1% of resources every million years, and didn’t invest those resources for the long run, then there would be little point in planning to use your resources after a billion years.  No obvious selection effect ensures that galaxy governments take a long view.
+Physics may set the ultimate limits on how long resources, and life, can last, but governments and property rights will determine when they are actually used. Resources, and life, will likely die long before their physical expiration dates.
+
+
+title: Future Discounts
+
+date: March 19, 2010 6:00 am
+

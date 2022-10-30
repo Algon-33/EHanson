@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+I am quite impressed with Richard Hanania’s new book Public Choice Theory and the Illusion of Grand Strategy. It makes a simple but important point: U.S. foreign policy is less due to some persistent grand national strategy than to inconsistent lobbying pressures of various political groups. While at times causes millions to die for no good reason.
+For example econ sanctions almost never work, but they satisfy a public desire to “do something”. We support big rivals like the USSR or China with trade as we resist them militarily, because business wants trade while the military wants budget. Hanania explains: 
+The whole reason that International Relations is its own subfield in political science is because of the “unitary actor model,” or the assumption that you can talk about a nation like you talk about an individual, with motivations, goals, and strategies. No one believes this in a literal sense, but it’s considered “close enough” for the sake of trying to understand the world. … [But] the more I studied the specifics of American foreign policy the more it looked irrational on a system-wide level and unconnected to any reasonable goals, which further made me skeptical of the assumptions of the field.
+The book felt a bit belabored to me, as I’d have been persuaded by an article length analysis. But I get why he did it; academics demand sweat and impressive mastery of literatures.
+As a U.S. citizen, I am especially appalled at such waste being done in my name, even though I expect that similar problems bedevil other nations. This feeling is especially strong as I listen to major foreign policy issues being debated this week.
+Monetary policy seems to me an especially promising place for a similar analysis. People usually talk as if that were being done by a central actor according to some coherent long term strategy, but that seems a priori unlikely. Yes futarchy could solve this, if only there were some interest in doing some small scale tests to hone such mechanisms. 
+
+
+title: Foreign Policy Is Incoherent
+
+date: February 1, 2022 12:30 pm
+

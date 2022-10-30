@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Back in December Nancy Lebovitz commented here that the book Hard Facts, Dangerous Half-Truths And Total Nonsense: Profiting From Evidence-Based Management “may be may be of interest to any contrarian”  She is quite right.  So much so that I will do a series of posts quoting from it. Here is Hard Facts on mergers:
+Study after study shows that most mergers – some estimates are 70 percent or more – fail to deliver their intended benefits and destroy economic value in the process.  A recent analysis of 93 studies covering more than 200,000 mergers published in peer-reviewed journals showed that, on average, the negative effects of a merger on shareholder value become evident less than a month after a merger is announced and persist thereafter. …
+More thoughtful leaders might do what Cisco Systems has done – figure out the factors associated with successful and unsuccessful mergers and then actually use those insights to guide behavior.  … A Fortune article on bad mergers noted that “infrastructure giant Cisco has digested 57 companies without heartburn.” … Cisco figured out that mergers between similar sized companies rarely work, as there are frequently struggles about which team will control the combined entity.  … Cisco’s leaders also determined that mergers work best when companies are geographically proximate, making integration and collaboration much easier. … and they also uncovered the importance of organizational cultural compatibility for merger success.  …
+You might think that companies would learn from all this experience … you would be wrong.  Business decisions … are frequently based on hope or fear, what others seem to be doing, what senior leaders have done and believe has worked in the past, and their dearly held ideologies – in short on lots of things other than the facts. (pp. 4,5)
+
+
+title: Hard Facts: Mergers
+
+date: March 8, 2010 8:00 pm
+

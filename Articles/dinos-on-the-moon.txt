@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+At the SETI conference last week I was surprised to hear NASA’s Chris McKay suggest we look for dinosaur relics on the moon.  Dinos went suddenly extinct about 65M years ago, and the dino fossil record seems spotty enough that we could have missed a lineage that went from possum to human sized brains in the ~10M year period it took mammals.  We could also have missed relics of a stone-tool phase that lasted only .2M years.  But a dino lander left on the moon should stay visible a very long time.  
+ Humans have apparently already dug up a substantial fraction of the richest near-surface Earth metal deposits.  So a dino civilization that went much beyond our metal usage would have left a signature in reduced rich metal deposits.  And since the metal doesn’t actually disappear, they would also have left "strange" metal-junkyard deposits.  If modest efforts by geologists could exclude this possibility, that seems well worth the effort.  
+It would be very big and bad news to hear that metal-using dinos suddenly went extinct just when the other dinos did, and immediately after becoming big metal users.  If so, either dinos destroyed themselves with far more power than we humans can now muster, or powerful aliens exterminated them.
+From McKay’s 1996 paper "Time for intelligence on other planets":
+  
+
+It is now considered probable that the dinosaurs were not the lumbering clods of urban myth but that they were biochemically and behaviorally as sophisticated as present mammals.   Evidence continues to point to parentling and social behavior that is on a par wit small mammals and birds.   …  [Considero] the small carnivorous dinosaur Stenonychosaurus, which stood about 120cm, weighed about 40 kg, and had [a brain size ratio] about equal to that of a possum or an octopus, and lived over 12 million years before the end of the dinosaurs.  … 
+One might speculate that perhaps Stenonychosaurus or her progeny did build radio telescopes, but their civilization was destroyed by some internal or external catastrophe.  Perhaps the lifetime of their civilization was so short compared with the resolution of the geological record (typically millions of years) that it is simply lost without a trace in the depths of time.  It is difficult to say what evidence would survive of human civilization – if it was terminated now – after 65 million years of tectonic activity, erosion, and sea level change.  It is interesting to note that there is one place where the record of human technology will be preserved for times much longer than 100 million years.  … The Apollo landing sites on the Moon would bear mute testimony to technological humans.   
+
+
+
+title: Dinos on the Moon
+
+date: February 12, 2008 9:00 am
+

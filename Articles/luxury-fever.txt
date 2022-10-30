@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+I'll start discussing Geoffrey Miller's new book Spent soon.  But first let me review its main predecessor: Robert Frank's book Luxury Fever, from 2000. Miller on Frank:
+I owe Gad Saad and Robert Frank a great debt for their groundbreaking work. … Frank's reasoning, like mine, is that many purchases function as positional goods that display one's wealth, status, or personality traits rather than yielding true happiness benefits or fitness payoffs to the purchaser. … All my arguments are highly supportive of Robert Frank's proposal for a progressive consumption tax. (p27,312)
+Frank begins Luxury Fever complaining about $5000 barbecue grills, whose main purpose he presumes is to show off how much money its owners can spend.  Frank wants to discourage "conspicuous" rather than "inconspicuous" consumption:  
+If we all lived in smaller houses, or drove less expensive cars, we could all take more weeks of vacation each year. … Vacations offer the opportunity to see new places, visit with distant relatives and friends, take up a new sport, read books, lie on a beach, hike in the wilderness. ….
+
+title: Luxury Fever
+
+date: May 17, 2009 6:00 am
+

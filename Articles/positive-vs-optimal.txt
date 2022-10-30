@@ -1,0 +1,13 @@
+author: Patri Friedman
+
+text: 
+I’ve been thinking a little lately about the difference between doing something useful, and doing the most useful thing.  The latter is a lot harder, yet a lot more productive.  I wonder if this is a basic area of human irrationality.  I think you can classify a lot of the bad arguments that get made for things like the bailout of banks, or of car companies, as people saying “Here is why this money would help these companies”, and missing out on “But it would help the rest of the world (like, companies that are profitable) even more”.
+Normally I rail against zero-sum thinking, the belief that we’re just dividing up a fixed pie.  But in the short-term, the inputs to producing happiness are constrained.  I only have 24 hours in the day.  The GDP of the US is only so much.  We’re investing those resources to produce even more resources – but the inputs at this stage are fixed.  We can’t invest in every positive-sum project.  When you are figuring out what to do with these constrained inputs, you need to balance your use against *every other possible use* (or more specifically, the best alternative use).  (This is nerve-wracking and tortuous, but you don’t actually have to do it that well – if you just do a decent job, you’ll be doing way better than someone who just does whatever positive projects happen to catch their attention.)
+I think this connects to important topics at the micro and the macro level.  Personal productivity techniques like Eat That Frog or Big Rocks are based on fighting our inclination to do what seems urgent, and instead doing what is optimal.  I know I have a lot of trouble getting distracted by small urgent things, rather than doing the core, important work, and it seems to be a general problem.  Our intuition is a terrible task prioritizer.  And much of the erroneous analysis about the benefits of regulation has to do with ignoring the invisible (the best alternative use of the resources), as Henry Hazlitt so eloquently writes.  Our intuition seizes on the visible consequences, and has trouble seeing the subtle, distributed, unrealized, un-proposed alternatives.
+Which suggests a technique for overcoming this, at both the personal and professional levels.  Try to always present alternatives.  Reify the other options – or your mind will focus on whether your proposal does net good, rather than the most good with its limited resources.
+
+
+title: Positive vs. Optimal
+
+date: November 15, 2008 2:19 pm
+

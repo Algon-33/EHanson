@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Matt Yglasias complains Climate Change Futures Markets would be manipulated:
+This idea has some merit, but let’s not get carried away with ourselves. The underlying intuition here is that talk about climate change is cheap, but if we made people put their money where their mouth is we’d force them to speak honestly. The problem is that when coal and oil interests or the Koch family pays people money to mislead people about climate science or clean energy policies they are putting their money where their mouth is. Big money is at stake in this issue, and it could be easily worthwhile for polluters to lose money on a prediction market if that helped undercut support for clean energy legislation.  The problem is that just about any metric you might like becomes contaminated once people know there are large political economy stakes.
+No!  Some metrics are more corruptible than others, and prediction market prices are especially incorruptible.  In fact, big money manipulators with legislative agendas would be good for climate change futures markets!  If most anyone can play, we expect a real money prediction market to get more accurate as more big money powers are known to want to manipulate them.
+We have explained the mechanism in a 2009 Economica theory article, and confirmed its predictions in two lab experiment articles, one published in JEBO in 2006. Here is a summary:
+If policymakers look to decision market prices as a guide to policy, others may be tempted to manipulate those prices in order to manipulate policy. Fortunately, the addition of manipulators should increase price accuracy. Manipulators are in essence noise traders, because their trades are not correlated with asset value information, and markets with more noise traders generally have more accurate prices, because more informed traders are attracted to profit from the noise traders. This predicted inability of manipulators to hurt price accuracy has been confirmed by lab experiments and in the field.
+You might think this impossible if you confused ex ante and ex post manipulation effects.  Let me explain. Ex post, holding constant everyone else’s actions, the more a manipulator buys of something the higher its price, and the more he sells the lower its price.  So assuming others suspect you might have relevant info, and that they don’t know just how eager you are to manipulate, yes your actual trade can “manipulate” the price.
+Nevertheless, ex ante, averaging over all the possible desires you might have to manipulate the price, and all the possible info anyone could have, the fact that someone might want to manipulate the price makes that price more accurate.  Since other traders expect to win their bets against manipulators, the heightened possibility of that such manipulators being present induces other traders to trade more and to collect more relevant info.  The net effect is more accurate prices.
+Now this isn’t an absolute guarantee; the theory makes some assumptions and our lab and field data do not cover every possible contingency.  Even so, they surely create a reasonable presumption that big money manipulators are not the overwhelming disaster that Yglasias assumes.  Maybe we might, you know, actually try something before we conclude it doesn’t work.
+
+
+title: Rah Price Manipulators
+
+date: November 25, 2009 12:25 am
+

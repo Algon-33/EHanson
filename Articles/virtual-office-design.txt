@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Imagine that you have an office job (as most of you do). Full of meetings, memos, reports, proposals, phone and email ping pong, informal gossip in the hall or over lunch, etc.
+Now imagine that you work in a virtual office. That is, while you are actually lying at home in your VR pod (or being an em brain in a data center), you experience yourself as sharing a virtual office complex with your work colleagues. Sitting at your desk working at your computer, talking in a meeting, chatting with a neighbor in his doorway, or perhaps walking the cubicles to feel the buzz.
+OK, now ask yourself: how could we design more effective virtual offices, for the purpose of making an efficient workplace not needlessly taxing its workers? For example, what features of office spaces today would we jettison if we could, since they mainly deal with physical constraints that need not apply in virtual reality?
+Maybe each person would feel the temperature and humidity they like best. Maybe walls would glow, instead of all light coming from glaring overhead lights. Maybe you’d always feel like you were walking barefoot on soft grass. Maybe all surfaces could be of the most luxurious textures and styles. Your computer “screen” might fill up a wall, or be 3D in a vast warehouse-sized space. But what else?
+People might just appear in each other’s offices, instead of having to walk there, but that might feel disruptive. Perhaps hallways could be lots shorter, with each person having a huge personal corner office looking out on a spectacular view. But would it be ok if the shapes and views of offices and halls made no sense relative to each other?
+In meetings it might be possible to let each person see and hear others in great clear detail, even adding biometrics on if they felt scared, tired, etc. You might even be able hear their thoughts if you wished. Or at the other extreme, each person might instead be able to project a pleasant attentive appearance no matter how they actually felt. You might even appear to be in several meetings at once. Where along this spectrum would typically make for the most productive meetings?
+If each person could make the walls etc. look however they want to, then how will other people know what they are seeing in order to interact smoothly with them? Would you like the ability to look out at any time and see dozens of people as they work, if the cost were that dozens of people could you look at you at any time?
+I’ve read a lot about speculation about virtual reality over the years, but I’ve not seen much that took these sort of questions seriously.
+
+
+title: Virtual Office Design
+
+date: January 23, 2012 8:00 pm
+

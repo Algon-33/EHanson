@@ -1,0 +1,13 @@
+author: David J. Balan
+
+text: 
+In a previous post, I argued that it’s a mistake to use the same character-evaluating template for political candidates that you use for people you encounter in everyday life.  Here I’d like to make a related argument regarding the appropriate weight that should be accorded to character (as opposed to more conventional measures of qualification, such as relevant experience) in evaluating a political candidate as compared to evaluating a candidate for an ordinary job.
+  
+Suppose you believe that 1% of the population is of extravagantly bad character, in the sense that they would engage in mass bloodshed if they had something to gain from it and could get away with it.  For filling most ordinary jobs, this fact could be more-or-less safely ignored (i.e., nothing would be lost if the hiring criteria consisted almost exclusively of conventional qualifications), because most ordinary jobs offer no outlet for beneficial and consequence-free mass bloodshed anyway.  But political office, especially executive office at the national level, is fundamentally different.  Unlike almost everybody else, political leaders have the power to kill and imprison and torture, and can sometimes benefit, materially or psychicly, from doing so.  If you think that unjustified mass violence is a bad enough thing that it would be worth sacrificing a lot in the way of traditional competence to avoid it, then a key criterion for evaluating a political candidate should be whether or not the candidate is in that 1%.*  This means that, in contrast to the "competence-only" rule that is appropriate for most ordinary jobs, you should put a lot of weight on any information you have about political candidates that bears on their character, and relatively little weight on information that bears on their traditional qualifications.**
+  *Here I assume that the proportion of political candidates with extravagantly bad character is the same as the proportion in the population at large.  This is a conservative assumption, as the opportunity to wield power will disproportionately attract such people into politics.  **This argument is influenced by something I once heard Eric Alterman say, but I can’t remember where.
+
+
+title: Don’t Choose a President the Way You’d Choose an Assistant Regional Manager
+
+date: January 12, 2008 6:00 am
+

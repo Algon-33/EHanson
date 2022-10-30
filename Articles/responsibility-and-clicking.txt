@@ -1,0 +1,20 @@
+author: Katja Grace
+
+text: 
+Sometimes when people hear obvious arguments regarding emotive topics, they just tentatively accept the conclusion instead of defending against it until they find some half satisfactory reason to dismiss it. Eliezer Yudkowsky calls this ‘clicking’, and wants to know what causes it:
+My best guess is that clickiness has something to do with failure to compartmentalize – missing, or failing to use, the mental gear that lets human beings believe two contradictory things at the same time. Clicky people would tend to be people who take all of their beliefs at face value.
+The Hansonian explanation (not necessarily endorsed by Robin Hanson) would say something about clicky people tending to operate in Near mode.  (Why?)
+pjeby remarks (with 96 upvotes),
+One of the things that I’ve noticed about this is that most people do not expect to understand things. For most people, the universe is a mysterious place filled with random events beyond their ability to comprehend or control. Think “guessing the teacher’s password”, but not just in school or knowledge, but about everything.
+Such people have no problem with the idea of magic, because everything is magic to them, even science….
+Hypothesis: people expect reality to make sense roughly in proportion to how personally responsible for manipulating it they feel. If you think of yourself as in charge of strategically doing something, you are eager to understand how doing that thing works, and automatically expect understanding to be possible. If you are driving a car, you insist the streets fit intuitive geometry. If you are engaging in office politics, you feel there must be some reason Gina said that thing.
+If you feel like some vague ‘they’ is responsible for most things, and is meant to give you stuff that you have a right to, and that you are meant to be a good person in the mean time, you won’t automatically try to understand things or think of them as understandable. Modeling how things work isn’t something you are ‘meant’ to do, unless you are some kind of scientist. If you do dabble in that kind of thing, you enjoy the pretty ideas rather than feel any desperate urge for them to be sound or complete. Other people are meant to look after those things.
+A usual observation is that understanding things properly allows you to manipulate them. I posit that thinking of them as something you might manipulate automatically makes you understand them better. This isn’t particularly new either. It’s related to ‘learned blankness‘, and searching vs. chasing, and near mode vs. far mode. The followup point is that chasing the one correct model of reality, which has to make sense, straight-forwardly leads to ‘clicking’ when you hear a sensible argument.
+According to this hypothesis, the people who feel most personally responsible for everything a la Methods Harry Potter would also be the people who are most notice whether things make sense. The people who less trust doctors and churches to look after them on the way to their afterlives are the ones who notice that cryonics makes sense.
+To see something as manipulable is to see it in the same light that science does, rather than as wallpaper. This is expensive, not just because a detailed model is costly to entertain, but because it interferes with saying socially advantageous things about the wallpaper. So you quite sensibly only do it when you actually want to manipulate a thing and feel potentially empowered to do so, i.e. when you hold yourself responsible for it.
+
+
+title: Responsibility and Clicking
+
+date: July 5, 2012 3:37 pm
+

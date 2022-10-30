@@ -1,0 +1,31 @@
+author: Robin Hanson
+
+text: 
+Food isn’t about Nutrition
+Clothes aren’t about Comfort
+Bedrooms aren’t about Sleep
+Marriage isn’t about Romance
+Talk isn’t about Info
+Laughter isn’t about Jokes
+Charity isn’t about Helping
+Church isn’t about God
+Art isn’t about Insight
+Medicine isn’t about Health
+Consulting isn’t about Advice
+School isn’t about Learning
+Research isn’t about Progress
+Politics isn’t about Policy
+The above summarizes much of my contrarian world view.  (What else should go on this list?) When I say “X is not about Y,” I mean that while Y is the function commonly said to drive most X behavior, in fact some other function Z drives X behavior more.  I won’t support all these claims here; for today, let’s just talk politics.
+High school students are easily engaged to elect class presidents, even though they have little idea what if any policies a class president might influence.  Instead such elections are usually described as “popularity contests.”  That is, theses elections are about which school social factions are to have higher social status.  If a jock wins, jocks have higher status.  If your girlfriend’s brother wins, you have higher status, etc.  And the fact that you have a vote says that others should take you into account when forming coalitions – you are somebody.
+
+Civics teachers talk as if politics is about policy, that politics is our system for choosing policies to deal with common problems.  But as Tyler Cowen suggests, real politics seems to be more about who will be our leaders, and what coalitions will rise or fall in status as a result.  Election media coverage focuses on characterizing the candidates themselves – their personalities, styles, friends, beliefs, etc.  You might say this is because character is a cheap clue to the policies candidates would adopt, but I don’t buy it.
+The obvious interpretation seems more believable – as with high school class presidents, we care about policies mainly as clues to candidate character and affiliations.  And to the extent we consider policies not tied to particular candidates, we mainly care about how policies will effect which kinds of people will be respected how much.
+For example, we want nationalized medicine so poor sick folks will feel cared for, military actions so foreigners will treat us with respect, business deregulation as a sign of respect for hardworking businessfolk, official gay marriage as a sign we accept gays, and so on.
+This perspective explains why voters tend to prefer proportional representation, why many refuse to vote for any candidate when none have earned their respect, and why so few are interested in institutional reforms that would plausibly give more informed policies.  (I’m speaking on such reform at a Trinity College symposium Monday afternoon.)
+In each case where X is commonly said to be about Y, but is really X is more about Z, many are well aware of this but say we are better off pretending X is about Y.  You may be called a cynic to say so, but if honesty is important to you, join me in calling a spade a spade.
+
+
+title: Politics isn’t about Policy
+
+date: September 21, 2008 6:00 am
+

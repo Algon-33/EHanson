@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Back in ’98 I considered the “doomsday argument”:
+A creative argument [suggests] “doom” is more likely than we otherwise imagine. … [Consider] the case of finding yourself in an exponentially growing population that will suddenly end someday. Since most of the members will appear just before the end, you should infer that that end probably isn’t more than a few doubling times away from now.
+I didn’t buy it (nor did Tyler):
+Knowing that you are alive with amnesia tells you that you are in an unusual and informative situation. … The mere fact that you exist would seem to tell you a lot.
+I instead embraced “self-indication analysis”, which blocks the usual doomsday argument.  In ’08 I even suggested self-indication helps explain time-asymmetry:
+Even if we knew everything about what will happen where and when in the universe, we could still be uncertain about where/when we are in that universe. … [So] we need … a prior which says where/when we should expect to find ourselves, if we knew the least possible about that topic. …  Self-indication … says … you should … expect more to find yourself in universes that have many slots for creatures like you. …
+Given self-indication we should expect to be in a finite-probability universe with nearly the max possible number of observer-moment slots.  … [which] seem large enough to have at least one inflation origin, which then implies … large regions of time-asymmetry.
+Alas, Katja Grace had just shown that, given a great filter, self-indication implies doom!  This is the great filter:
+Humanity seems to have a bright future, i.e., a non-trivial chance of expanding to fill the universe with lasting life. But the fact that space near us seems dead now tells us that any given piece of dead matter faces an astronomically low chance of begating such a future. There thus exists a great filter between death and expanding lasting life, and humanity faces the ominous question: how far along this filter are we?
+And here is Katja’s simple argument, in one elegant diagram:
+
+ 
+Here are three possible worlds, and within each possible world three different planets are shown on the X axis, while three different times are shown on the Y axis.  The three worlds correspond to three different times when the great filter might occur:  1) before any life, 2) before intelligent life, or 3) before space colonization.
+After at first thinking you are in a random box, you update on the fact that your planet recently acquired intelligence, and conclude you are somewhere in the middle row.  Then you update on self-indication, i.e., that you exist, and so are in an orange box.  You conclude you likely live in world 3.  (It has 3/5 of the orange boxes.)  Doom awaits!
+The diagram just illustrates the general principle.  As Katja disclaims:
+The small number of planets and stages and the concentration of the filter is for simplicity; in reality the filter needn’t be only one unlikely step, and there are many planets and many phases of existence between dead matter and galaxy colonizing civilization.
+Alas I now drastically increase my estimate of our existential risk; I am, for example, now far more eager to improve our refuges.  And let’s avoid the common bias to punish the bearers of bad news; Katja deserves our deepest gratitude; fore-warned is fore-armed.
+
+
+title: Very Bad News
+
+date: March 22, 2010 6:00 pm
+

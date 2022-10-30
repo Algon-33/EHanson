@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+In addition to the Financial Times review I posted on, there are now four web reviews of Age of Em. (Kindle version now $14.39, delivers tomorrow.) In reverse chronological order:
+Peter McCluskey, The Age of Em, Bayesian Investor, May 24.
+This book analyzes a possible future era when software emulations of humans (ems) dominate the world economy. It is too conservative to tackle longer-term prospects for eras when more unusual intelligent beings may dominate the world. Hanson repeatedly tackles questions that scare away mainstream academics, and gives relatively ordinary answers. .. Even if we should expect a much less than 50% chance of Hanson’s scenario becoming real, it seems quite valuable to think about how comfortable we should be with it and how we could improve on it.
+Neerav Kingsland, Book Review: The Age of Em, relinquishment, May 24.
+It is worth reading for (at least) the following reasons: It is a survey of  us: To extrapolate what the em world might be like, Robin summarize the key findings of numerous academic fields. This vehicle makes the book a fascinating survey of what we know about humans – think David Brook’s The Social Animal, but through a more removed lens, and with a deeper blend of hard and soft sciences. It might not be too far away: .. It is a thoughtful framework: ..
+Peter St Onge, Review: Robin Hanson’s Age of Em, Profits of Chaos, May 22.
+If you know Hanson you won’t be surprised that he packs a lot of ideas into one book. The pacing is fast, chock-full of interesting ideas to play with. .. Hanson has done a fantastic job sketching technologically and economically plausible outcomes to the future of humans and near-humans. He’s achieved what he set out to do, to stimulate these discussions, bring more minds into the game. I’d thoroughly recommend a read if you’re even remotely interested in the future of technology and humanity.
+Gaspar, review, Goodreads, April 13.
+It seems he is just another victim of the conjunction fallacy. I still find hard to conceive how “today’s standard academic consensus science” (as the author writes) could analyze in an accurate and realistic way His very specific vision of future. .. I believe that some of the author’s statements (or maybe his way of expressing them) are very arrogant. .. All in all, it is a very interesting intellectual exercise to use today consensus theories from many fields to try to understand or imagine some possible future among many other possible futures.
+This last review doesn’t offer any specific rebuttals, and was so early it must have been based on a draft. But it expresses a reaction I’ve seen often at my talks: incredulity that anyone could think such an analysis possible. Kingsland asks similarly:
+While it seems clear that humans can make decent forecasts within their singularity (Robin gives some examples), it’s another to think that humans can make decent forecasts across singularities. Could a hunter and gatherer really have predicted the  industrial world? A farmer?
+But we can use today’s social, human, and physical sciences to understand past farming and foraging eras in some detail, suggesting that such sciences do apply beyond our era. However, as David Lewis famously quipped, “I cannot refute an incredulous stare.”
+St Onge disagrees with my estimate of near subsistence em wages; he estimates them to be a ten billion times larger than subsistence “because costs per life of building and maintaining their world will be so low.” I guess he just can’t imagine very low marginal productivity. Kingsland suggests culture might raise wages:
+Perhaps it would become taboo to replicate yourself, akin to teenage pregnancy?
+But if the fraction of ems willing to copy freely was anything like current, or even ancient, teen pregnancy rates, em wages must fall low.
+McCluskey wants me to make one estimate more precise:
+Wages in this scenario are somewhat close to subsistence levels. Ems have some ability to restrain wage competition, but less than they want. Does that mean wages are 50% above subsistence levels, or 1%? Hanson hints at the former. The difference feels important to me. I’m concerned that sound-bite versions of book will obscure the difference.
+I’ll admit that I didn’t estimate this because I didn’t feel like I had a strong enough basis. But on reflection I’d guess that the ratio of productivity between the 90th and 10th percentile moves from today’s factor of 2 in US, and factor of 5 in the developing world, to more like a factor of 1.1 or 1.2. That might give the typical em roughly two extra hours of time per day to spend as they like, most of which ems plausibly spend on vying for status, perhaps at work.
+
+
+title: 4 Age of Em Web Reviews
+
+date: May 25, 2016 8:45 am
+

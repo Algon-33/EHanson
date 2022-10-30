@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+In this post I’ll talk primarily to people who, like me, lean libertarian. The rest of you can take a break.
+Libertarians want to move more products and services from being provided directly by government, to being provided privately. And for those that are provided privately, libertarians want to weaken regulations. These changes would increase liberty.
+Libertarians tend to offer arguments that are relatively abstract and theory-based. That is, they focus more on why more liberty is more moral, or why it should in theory give better outcomes. They focus less on showing that liberty has in practice worked out better. When libertarians do focus on data, they tend to be very broad, or randomly specific. That is, they talk about how West Germany is better than East Germany, or South Korea better than North Korea. Or they pick on very specific examples, like regulations limiting eyeglass ads, and leave audiences wondering how cherry-picked are such examples.
+It seems to me that libertarians focus too much on trying to argue abstractly that liberty would be better, and not enough on just concretely describing how liberty would be different. Yes for you the abstract arguments seem best; they persuade you plenty, and they bring the most prestige in your circle. But typical libertarians today are a distinct personality type; most people are not like you. Most people just cannot be comfortable with a proposal for change if they cannot imagine it in some detail, and imagine that they’d like that detail. Such people don’t need more abstract arguments and examples; they instead credible concrete descriptions.
+True, people have sometimes written fiction set in libertarian settings. But such fiction doesn’t usually come with a careful analysis of why one should believe in its many details. Yes, part of the attraction of liberty is that it frees up people to innovate in ways that one can’t anticipate in advance. But that doesn’t mean that we can’t go a long way to better describe a world of more liberty.
+On reflection, I realize that when I try to imagine more liberty, I mostly draw on a limited set of iconic comparisons, such as comparing airlines, trucks, and phones before and after US deregulation, or comparing public to private schools and mail in the US. Alas, we and our audiences should worry that we cherry-pick such examples to support conclusions we like.
+We should be able to do much better than this. By now there are vast literatures discussing many industries in many places before and after regulation or deregulation, and describing specific times and places where certain products and services provided directly by governments, or provided privately. From this vast literature we should be able to identify many concrete patterns and “stylized facts” about how government-provision and heavy-regulation tends to change products and services.
+I recall these suggestions for typical features of industries with more liberty:
+
+Less “gold-plating” in materials and methods
+More product variety, including more low quality versions
+Faster innovation and product cycles
+Fewer guarantees to workers or customers
+Price, features vary more with customer features
+Workers have less school and seniority
+Less overhead spend on paperwork
+more?
+
+Some people should work to extract patterns like these from our vast related literatures – I’ve looked, and there just aren’t many such summaries today. With such patterns in hand, we would be in a much better position to credibly describe how familiar products and services would concretely change if we were to provide them privately, or to regulate them less. And such credible concrete descriptions might allow many more people to become comfortable with endorsing such expansions of liberty.
+This sort of project seems well within the abilities of the median grad student. It doesn’t require great creativity or technical skills. Instead, it just requires methodically surveying and summarizing related literatures. Perhaps some libertarian students should shy away from it in hopes of impressing via more difficult methods. But surely there must be other students for which this sort of project is a good match.
+
+
+title: Imagine Libertopia
+
+date: November 21, 2014 11:00 am
+

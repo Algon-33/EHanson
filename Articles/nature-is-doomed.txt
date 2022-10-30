@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Long ago humans pioneered some very powerful innovations, innovations that have allowed us to grow in capability much faster than the rest of nature.  As humans grew more capable, we learned to live in more kinds of places, and to use more of the plants and animals in each place.  We didn’t always destroy non-human living nature – sometimes we converted it to farms, pets, or parks.  But we only left nature alone when we couldn’t figure out how to make use of it, or of what it used.  Our expanded use of nature has left less for other species, often leading to their extinction.
+This trend has continued in recent times: as we learn more ways to use nature, we use nature more.  There has been, however, one notable exception: rising wages over the last few hundred years have made us abandon some old practices.  For example, during the depression my grandparents farmed marginal land in Kentucky that is now forest.  We still know how to farm the land, and with free immigration it would still be farmed, but as it is labor is too expensive for farming.
+This reprieve won’t last.  Wages have risen because economic growth rates have outpaced feasible rates of growing well-trained people.  But current growth rates simply cannot continue at familiar levels for ten thousand more years.  We’ll eventually learn everything worth knowing about how to arrange atoms, and growth in available atoms will be limited by the speed of light.  So over this timescale growth rates simply must fall below feasible population growth rates.  (I actually expect a new brain emulation tech to allow very fast population growth in a century or two, but this is tangential to my argument here.)
+With familiar competitive habits, this growth rate change implies falling wages for intelligent labor, canceling nature’s recent high-wage reprieve.  So if we continue to use all the nature our abilities allow, abilities growing much faster than nature’s abilities to resist us, within ten thousand years at most (and more likely a few centuries) we’ll use pretty much all of nature, with only farms, pets and (economically) small parks remaining.  If we keep growing competitively, nature is doomed.
+Of course we’ll still need some functioning ecosystems to support farming a while longer, until we learn how to make food without farms, or bodies using simpler fuels.  Hopefully we’ll assimilate most innovations worth digging out of nature, and deep underground single cell life will probably last the longest.  But these may be cold comfort to most nature lovers.
+Yes, nature would be saved if we destroy ourselves without destroying nature in the process, but hopefully we’ll avoid this scenario.  We might also somehow coordinate to prevent competitive growth.  For example, we might empower a world government to protect nature, prevent innovation, or prevent population growth.  But I honestly see little prospect of this.  We now live in a very competitive world, and even governments mainly just redirect competition, toward controlling those governments.
+We like nature, but aren’t really willing to pay the price it would take to save most of it.  Nature than cannot survive as farms, pets, or small parks, is doomed.
+
+
+title: Nature is Doomed
+
+date: September 16, 2009 11:15 pm
+

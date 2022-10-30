@@ -1,0 +1,39 @@
+author: Robin Hanson
+
+text: 
+Economists are often stereotyped as claiming that firms are very economically efficient, i.e., that they very effectively minimize costs and maximize profits. This is a common source of derision of economists by other social scientists. And it is true that efficiency is the standard assumption made in textbooks and in math models. But over time I’ve been persuaded that it is often far from an accurate assumption. (And I doubt that most older economists believe it.)
+I’ve been persuaded by a steady accumulation of plausible examples of widespread persistent inefficiencies. No one example is overwhelmingly obvious – all have stories for why they are only apparent inefficiencies. But added all together, they persuade me. Some examples:
+
+Threats Help Productivity – When firms face more competition, they often have big bursts of productivity. But if increases were possible, why not do them before?
+Long-Lasting Deadwood – Firms often keep employees who are widely known within the firm to not be pulling their weight relative to other employees. They tend to be fired during a downturn, or after a takeover.
+Not Invented Here – Firms are famously reluctant to adopt changes that appear to have been developed elsewhere, preferring instead changes for which someone internal can take credit.
+Shooting Messengers – Many firms greatly discourage passing bad news up to bosses. GM was just exposed as such a firm via a safety issue. Those who do pass bad news up are punished as if they were personally a big cause of the bad news.
+Yes Men – If bosses keep quiet about their opinion, they can evaluate subordinates via comparing employee opinions with boss opinion. But bosses consistently forgo this by telling subordinates lots of opinions and punishing those who question such opinions.
+Mergers & Acquisitions – Firms that buy and merge with other firms seem to consistently lose money.
+Poison Pills – Rules that discourage takeover attempts by financially penalizing such attempts prevent investors from getting more for their shares.
+Overpaid CEOs – It is far from clear that firms actually earn more when they hire more expensive CEOs.
+Too Many Meetings – It is widely believed that most firms hold too many meetings that go on too long with too many people.
+Too Many Interviews – It is hard to find much evidence that interviews add info on job performance. So why do candidates go through so many interviews?
+Biased Evaluations – Bosses consistently give lower evaluations to people they didn’t hire, relative to people they did hire. Yet official evaluations don’t correct for this.
+Excess Credentials – People consistently feel pressure to hire people whose credentials make them look good on paper, relative to people they believe would do a better job.
+Few Experiments – Firms tend to be reluctant to do experiments, such as to find preferred product variations. Experiments would force them to admit they don’t yet know.
+Few Track Records – Meetings are full of people making predictions on decision consequences, but firms almost never keep formal track records to rate accuracy.
+Reward Braggarts – Firms consistently neglect people who don’t toot their own horn, even when their superior features are widely known.
+Allow Info Silos – Groups and divisions with a firm are allowed to keep a lot of info secret within their group. Yet if the firm works together toward a common goal, what can be the benefit of keeping such secrets?
+Predictable Consultants – Management consultants are often hired at great expense to give advice that is quite predictable given the opinions of those who hired them.
+Little Telecommuting – Telecommuting seems to save big on costs, yet is not adopted much.
+Discrimination – Fat women are paid less, tall men paid more, in social jobs.
+Cubicles – They seem to reduce productivity more than they save in office space costs.
+Decision Theory – Firms find many excuses to avoid using decision theory to make top decisions.
+Too Many Mangers – Firms seem to have too many mangers.
+I’ll add more here in response to suggestions.
+
+My working hypothesis to explain these inefficiencies is that the people and supporting coalitions closest to them tend to gain from them, and that selection pressures on political coalitions are often much stronger than selection pressures on firms.
+If many of these inefficiencies are real, then yes government regulators can also see them, and yes it might not be that hard for smart sincere people to design regulations to increase welfare by correcting for them. However, government regulatory agencies are also “inefficient” in many ways, leading them to choose and enforce regulations which differ from those that would most increase welfare. To judge if we are better off giving regulators more powers over firms, we must judge the relative magnitudes of these two types of inefficiencies.
+Note that firm efficiency may still be a reasonable assumption to make in models, even if it is not an accurate assumption. Modeling is always a tradeoff between realism and understanding.
+
+
+title: Firm Inefficiency
+
+date: July 3, 2014 6:05 pm
+

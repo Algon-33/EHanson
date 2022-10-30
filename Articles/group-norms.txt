@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+I regularly bike on a five mile path encircling Burke Lake, near my home.  Since bikes share the narrow path with pedestrians, I ring a bell as I come behind pedestrians going in the same direction.  When there are several of them together, it is safest if they all move to the same side of the path; this gives the most distance between the bike and then nearest pedestrian.  Sometimes, however, a group splits, with some of them moving to one side and some moving to the other side.  Then I have to slow down more in order to safely move between them.
+We can interpret the desired behavior here as following a “group norm”, i.e., a social norm that specifies the behavior of groups, rather than the behavior of individuals.  An individual norm might be to move to the side of the path when you hear a bike bell, while a group norm might be to move your group together to one side of the path when you hear a bike bell.
+It seems to me that while asians are a minority of the pedestrian groups on my path, they are the majority of the groups who split, moving to both sides of the path.  This suggests that asians are less familiar with the concept of a group norm, at least for informal groups like “people walking together on a path.”  I asked an asian friend who confirmed this – they couldn’t think of an asian group norm.  This seems interesting given that asians are often said to be more “group oriented.”  Perhaps they attend more to behaving correctly toward groups, but less to making sure their group behaves correctly.
+
+
+title: Group Norms
+
+date: June 21, 2010 11:30 pm
+

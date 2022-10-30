@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+A great filter stands between simple dead matter and a visible expanding lasting civilization. Many hard steps (and also easy ones) must be passed to make it through this filter. But what kind of steps are these hard steps?
+The first kind of steps that most people imagine are try-try steps. The local system must keep trying random variations at a constant rate until a successful one is found. Here the chance per unit time is a constant, and the chance of success by a time is linear, at least for small times. When a system must go through many hard steps by time t, but that success is quite unlikely, then for n hard steps the chance of that unlikely success by time t goes as tn.
+I recently pointed out that there’s another kind of hard step: try-once. Here the local system has only one chance; if it fails then, it fails forever. For these sort of steps, the chance of success doesn’t increase with time trying.
+In this post, I want to point out that there are worse kinds of steps than try-try steps. Such as try-menu-combo steps.
+Imagine that to pass some important step, evolution needed to create a species with a particular combination of eyes, hands, feet, stomach, ears, etc. Except that the available menu for each of these parts increased linearly with time.
+For example, at first there is only one kind of stomach available. All species must use that kind of stomach. Then there are two kinds, and then three. Which kind of stomach is the next to be added to the stomach menu is pretty random. But there is zero chance of achieving his menu-combo next step until the right kind of stomach is added to the menu.
+In this scenario, having the right kind of stomach on the menu is far from enough. The system also needs to add the right kind of eyes to the eye menu, and so on. Once all of the right kinds of items are on the right menus, then the last thing needed is a try-try step, to create a specific species that includes all the right parts via randomly combining menu items.
+If there were just one kind of part needed, the chance of success by some date would increase linearly with time, making this an ordinary try-try step. But if there were two kinds of parts needed, chosen from two menus, then the chance would go as t2. With three menus, it is t3. And so on.
+So now we can see that the tn rule for the chance of many hard steps by time t can be generalized. Now instead of n being the number of hard steps, n becomes the sum of powers m for each of the hard steps. Step power m is zero for a try-once step, is near one for a try-try step, and is greater than one for try-menu-combo steps.
+In terms of its contribution to the tn power law for completing all the hard steps, a try-menu-combo step is the equivalent of several try-try steps all happening at the same time. That is, great filter hard steps can in some sense happen in parallel, as well as in sequence.
+With ordinary try-try steps, one only sees progress in the history record when steps are passed. So looking at the many forms of progress we’ve seen in the past half billion years through the lens of try-try steps, one concludes that these were many easy try-try steps, and so contained no hard steps.
+But what if some sort of combo step has been happening instead? During a menu-combo step, one should see the progress of increasingly long menus for each of the parts. And yet it could still be a very hard step, the equivalent of many hard try-try steps happening in parallel. Maybe something about humans was a hard step after all?
+Can anyone think of other plausible mechanisms by which hard steps could have a tm dependence, for m > 1?
+Added 10a: I expect that an m power step will be completed on average in m/(n+1) of the available window for life on Earth, where n is the total power of the steps done on Earth. So that’s still a problem for having a lot happen in the last half billion years.
+
+
+title: Try-Menu-Combo Filter Steps
+
+date: January 3, 2021 11:00 am
+

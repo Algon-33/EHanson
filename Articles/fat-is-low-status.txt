@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Adult obesity is a growing problem. … Should this widespread obesity epidemic be a cause for alarm? … A common starting point is the assertion that those who are obese impose higher health costs on the rest of the population—a statement which is then taken to justify public policy interventions. … The existing literature on these topics suggests that obese people on average do bear the costs and benefits of their eating and exercise habits. (more)
+Many are eager to push policies that “help” fat folk get less fat.  Many justify such policies as compensating for harms fat folk impose on others. But there doesn’t seem to be much net harm via health insurance, and fat folk help others via dying young and encouraging med research.  It is pretty hard to argue that fat folk aren’t aware of health harms of weight, or that others would rather they were thinner.  Some argue fat folk lack self-control, but very few of those who are aware of and have access to self-control mechanisms like stickk.com choose to use them.
+The health harm from being over weight is much less than from being underweight, and there seems to be little health harm from weight once one controls for exercise – exercise is the key. Why then does policy focus so much on fatness?
+I’d guess that since fat is low status, thinner folks enjoy asserting their higher status by belittling and controlling fat folk.  Places like the US with more fat folk are also embarrassed to have their status lowered in distant eyes, and want local fat folk to get thin to raise the place’s status.
+More quotes:
+Obesity is associated with both reduced life expectancy and increased healthcare expenditures. The former is a largely private cost borne by the obese individual. … The vast bulk of the total marginal costs (over 95 percent) are due to the reduction in life expectancy. ..
+Employee premium contributions are rarely risk-adjusted for obesity or any other observable risk factor except family size. This is partly because of the administrative burden involved and partly because of legal provisions. … Any subsidy the obese receive through pooled health insurance is offset by wage differentials. … obese workers earn less than thinner workers, but … this relationship holds only in jobs that provide health insurance! … There is no real pooling between the obese and thin in employer-provided health plans. … In public health insurance, there is an implicit transfer from thin people to obese people, but this transfer is progressive and seems unlikely to induce substantial social loss. …
+Obesity is a complex social problem, inter-linked with a variety of issues, including healthcare research and development, prices for food and exercise, agricultural price supports, Social Security, peer effects, and even the level of crowding in airplane seats….
+Biomedical researchers have responded to the increased prevalence of obesity by focusing their research efforts on the diseases associated with obesity. …Many nonobese individuals suffer from these diseases, and they will benefit when scientists make breakthroughs in treating those diseases. This induced innovation effect represents a positive externality from the obese to the thin. … Another way in which the obese “subsidize” the thin is, presumably, by dying earlier and not claiming as much in Social Security benefits. …
+Does the formation of a friendship between a thin person and an obese person induce a transfer from the thin person to the obese person? If the friendship is voluntary, then the answer is presumably “no,” … Another common suggestion is that obese individuals
+impose negative externalities on others in close quarters, such as in coach seats in
+commercial airplanes. A full accounting of this externality, … would consider the extent to which the social opprobrium of impinging on another person’s space is internalized by the obese person.
+
+
+title: Fat Is Low Status
+
+date: February 22, 2011 9:00 am
+

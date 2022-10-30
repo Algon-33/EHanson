@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Arnold Kling cites this interesting suggestion from Michael Strong's book Be The Solution:
+The very fact that we have moral impulses to support the public good is necessarily intertwined with the fact that we have moral impulses to punish those who do not (and to punish those who do not punish those who do not, and so on) … This instinct is especially harmful when used to punish those who are perceived not punishing free riders. This is the source of the bigotry against market economics among the do-gooders: It is believed that those who describe the positive outcomes of free enterprise are not doing their job to behave punitively toward free riders, and that therefore they, too, must be punished.
+So could economists compensate by going out of our way to punish murderers, rapists, and thieves, since we agree with ordinary folks that these are non-cooperators?  Or will we then be evil for punishing such folks too much? 
+Arnold goes on to trip over his positivism, leaving his head in the sand: 
+  
+Animals have many behaviors that are designed to deceive–think of animals that appear more fierce than they are, for example. But in all of nature, the most powerful tool for signaling and deception is the human brain. It is plausible that a great deal of the evolution of the brain has been to make us better players of the game of deception. Think about that.  A lot of mating behavior involves signaling and deception. A lot of political behavior involves signaling and deception. Perhaps a lot of economic behavior (think of marketing and sales) involves signaling and deception. As we become wealthier, perhaps signaling and deception increase. …
+
+title: Signaling in Economics
+
+date: March 21, 2009 6:00 pm
+

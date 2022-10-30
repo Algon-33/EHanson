@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+
+A foolish consistency is the hobgoblin of little minds. Emerson
+
+In the latest American Journal of Political Science, Margit Tavits shows that in "23 advanced democracies over a period of 40 years," voters rewarded political parties for changing economic positions, but punished parties for changing other social positions.  These categories are: 
+
+Economic:  free enterprise, incentives, market regulation, economic planning, corporatism, protectionism, controlled economy, economic orthodoxy.
+Social:  environmental protection, social justice, welfare state expansion, national way of life, traditional morality, law and order, social harmony.
+
+In fact, "even those parties that make [social] policy adjustments that correspond to the preference shifts of voters lose votes."  Tavits interprets "economic" versus "social" as
+
+ whether the shift occurs in the pragmatic or principled issue domain. On pragmatic issues, voters value "getting things done." Policy shifts in this domain signal responsiveness to the changing environment and are likely to be rewarded. Principled issues, however, concern core beliefs and values. Any policy shift in this domain is a sign of inconsistency and lack of credibility, which is likely to lead to voter withdrawal. 
+
+Given how stuck voters are on bad economic policies, it is surprising to see voters even more stuck on other social policies.  Alas, social science is built on the idea that better info can give better social policy; if voters interpret social policy changes as a lack of principles, rather than better info, it will be very hard for better info to induce better policy.  Makes me want to be against principles. 
+Added:  As a dramatic example, if US voters saw a party’s position on the Iraq war as a matter of principle, they would punish both Democrats and Republicans for deviating from their original position on the war, even if voters had since changed their minds.  This would reward parties for staying their course, even if they privately knew better.  
+
+
+title: Hobgoblins of Voter Minds
+
+date: January 9, 2007 6:00 am
+

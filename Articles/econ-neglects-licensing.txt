@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+   
+Labor economics is economists studying work and employment.  The latest Econ Journal Watch has an article suggesting distorted priorities in labor econ texts.  In the U.S. now, less than 3% of workers earn the minimum wage, about 12% are in unions, and about 29% are required to hold a state-issued license to do their work.  But here are the priorities of “five undergraduate labor economics textbooks currently in print. … All but one have been published in four or more editions”:
+ 
+Here is my relevant theory paper, here are some sample licensed jobs,
+  
+ 
+and here are more informative quotes from the EJW article:
+Kleiner and Krueger (2008) find that licensing is associated with a 15 percent wage premium. … Pfeffer (1974) who finds a negative relationship between the ease of licensing and income of accountants, attorneys, barbers, dentists, and pharmacists, though he finds no such correlation for real estate agents. Similarly, Kleiner and Kudrle (2000) find that tougher licensing requirements for dentists raise practitioners’ incomes. Timmons and Thornton (2008a) conclude that radiologic technologists in states with licensing earn as much as much as 6.9 percent more than those working in states without licensing; Timmons and Thornton (2008b, 141) find that “certain licensing provisions may have increased the earnings of barbers by as much as 26 percent.” …
+
+title: Econ Neglects Licensing
+
+date: May 13, 2009 6:00 am
+

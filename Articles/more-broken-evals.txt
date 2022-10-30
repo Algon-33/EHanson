@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Back in January I quoted:
+In 1980, economists … observed that salaries in companies were more strongly related to age and organizational tenure than they were to job performance. Ensuing research has confirmed and extended their findings, both in the United States and elsewhere. … One meta-analysis of chief executive compensation found that firm size accounted for more than 40 percent of the variation in pay while performance accounted for less than 5 percent. (more)
+Part of the reason may be that employee performance evaluations are often political. From an ’87 paper:
+Our research approach involved in-depth, semi-structured interviews with 60 executives. … from seven large organizations and represented 11 functional areas. As a group, they averaged more than 20 years of work experience and more than 13 years of managerial experience. ..
+Executives admitted that political considerations nearly always were part of the [employee] evaluation process. One vice-president summarized the view these executives shared regarding the politics of appraisal:
+As a manager, I will use the review process to do what is best for my people and the division. … I’ve got a lot of leeway – call it discretion – to use the process in that manner. … I’ve used it to get my people better raises in lean years, to kick a guy in the pants if he really needed it, to pick up a guy when he was down or even to tell him that he was no longer welcome here. It is a tool that the manager should use to help him do why it takes to get the job done. I believe most of us here at —- Operate this way regarding appraisals. … Accurately describing an employee’s performance is really not as important as generating ratings that keep things cooking.
+Executives suggested several reasons why politics were so pervasive and why accuracy was not their primary concern. First, executives realized that they must live with subordinates in a day-to-day relationship. Second, they were also very cognizant of the permanence of the written document. .. Perhaps the most widespread reason … was that the formal appraisal was linked to compensation, career, and advancement in the organization. …
+Executives generally believed the appraisal process became more political and subjective as one moved up the organizational ladder:
+The higher you rise in this organization the more weird things get with regard to how they evaluate you. … The process becomes more political and less objective and it seems like the rating process focuses on who you are as opposed to what you’ve actually accomplished … As the stakes get higher, things get more and more political. ..
+Although not frequently reported, a few executives admitted to giving a higher rating to a problem employee to the get employee promoted “up and out” of the department. …
+A deliberately deflated rating was sometimes used to teach a rebellious subordinate a lesson. … Deflated ratings were also used as part of a termination procedure. First, a strongly negative rating could be used to send and indirect message to a subordinate that he or she should consider quitting. …. Second, once the decision has bee made that the situation was unsalvageable, negative ratings could then be used to build a strongly documented case against the marginal or poor performer.
+
+
+title: More Broken Evals
+
+date: April 25, 2014 10:00 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Which academic articles get published in the more prestigious journals is a pretty random process.  When referees review an academic paper, less than 20% of the variability in referee ratings is explained by a tendency to agree:
+This paper presents the first meta-analysis for the inter-rater reliability (IRR) of journal peer reviews [using] … 70 reliability coefficients … from 48 studies. … [covering] 19,443 manuscripts; on average, each study had a sample size of 311 manuscripts (minimum: 28, maximum: 1983). … The more manuscripts that a study is based on, the smaller the reported IRR coefficients are. .. If the information of the rating system for reviewers was reported in a study, then this was associated with a smaller IRR coefficient. … An ICC of .23 indicates that only 23% of the variability in the reviewers’ rating of a manuscript could be explained by the agreement of reviewers. (more: HT Tyler)
+
+The above is from their key figure, showing reliability estimates and confidence intervals for studies ordered by estimated reliability. The most accurate studies found the lowest reliabilities, clear evidence of a bias toward publishing studies that find high reliability.  I recommend trusting only the most solid studies, which give the most pessimistic (<20%) estimates.
+Seems a model would be useful here. Model the optimal number of referees per paper, given referee reliability, the value of identifying the best papers, and the relative cost of writing vs. refereeing a paper. Such a model could estimate losses from having many journals with separate referees evaluate the each article, vs. an integrated system.
+
+
+title: Peer Review Is Random
+
+date: December 20, 2010 8:00 pm
+

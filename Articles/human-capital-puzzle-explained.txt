@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+Today is Capital Day again, a day to celebrate physical, social, and especially human capital, the added productivity from experience and training.  
+ Human capital offers an interesting case study in theory versus data.  Just as most people think it obvious that medicine deserves most of the credit for health gains, most people think it obvious that education deserves most of the credit for human capital gains.  Do-gooders the world over have for centuries "known" that what the poor really need is more medicine and education (and religion and art).  
+ We theorists will tell you that, yes productive people tend to be better educated, but there are many possible explanations for wealth-education correlations.  For example, schooling could be a credible signal of ability, or school could be consumption that the rich can better afford.  
+ Most who study education are data-crunchers with little patience with such abstract theorizing.  But until recently they were troubled by the fact that data on nations across time seemed to show a negative relation between wealth and education, even after controlling for measures of physical capital!  For example, see this 2001 Pritchett paper.
+ In the last year, however, education data-crunchers have declared with satisfaction that the problem is now solved, since new data now shows a positive correlation across nations between education and wealth.  See this recent Science paper, which controls (only) for fixed effects in years and nations:
+  
+
+Previous cross-country economic growth regressions tended to show that changes in educational attainment are largely unrelated to economic growth [for example, (5, 6)], which contradicts theory and microeconometric evidence. Most of the literature in this field attributes the existence of this puzzle to deficiencies in the series of education data (3, 4, 7). … Using our new educational attainment data by age groups, … The results show consistently positive, statistically significant education effects on economic growth for some age and education groups (9) and, hence, make the puzzle disappear. … 
+
+and this 2007 Journal of Economic Growth paper, which controls (only) for physical capital: 
+
+We present a new data set for years of schooling across countries for the 1960 – 2000 period. … In standard cross-country growth regressions we find that our series yield significant coefficients for schooling. … even when the regressions account for the accumulation of physical capital. … These results differ from the typical findings of the earlier literature and are a consequence of the reduction in measurement error in the series.  
+
+ However, this paper admits: 
+
+ It is important to highlight that these regressions can be criticized for a number of reasons. Namely, several variables that may affect growth are omitted from the regressions and so the estimates presented here may be biased in any direction.
+
+ Indeed – it seems way too early to conclude that the "puzzle" has been solved based on regressions with so few controls. (Health regressions usually have far more control variables.)   Health and education seem to me areas where intuitive theoretical presumptions are so strong that it takes a theorist to resist them – empiricists remain in firmly their thrall.  
+Added:  There is plenty of data available about other control variables across nations and time, and I’m very sure these researchers are well aware that adding many controls is a very standard practice in related fields.  So I must suspect that the reason for not including controls in this studies is that the desired effects go away when controls are added.  
+
+
+title: Human Capital “Puzzle” Explained?
+
+date: March 3, 2008 9:43 am
+

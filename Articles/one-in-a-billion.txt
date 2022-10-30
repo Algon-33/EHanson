@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+At CATO Unbound this month, David Brin’s lead essay makes two points:
+
+We probably shouldn’t send messages out to aliens now on purpose, and more surely we shouldn’t let each group decide for themselves if to send.
+The lack of visible aliens may be explained in part via a strong tendency of all societies to become “feudal”, with elites “suppressing merit competition and mobility, ensuring that status would be inherited” and resulting in “scientific stagnation.”
+
+In my official response at CATO Unbound, I focus on the first issue, agreeing with Brin, and responding to a common counter-argument, namely that we now yell to aliens far more by accident than on purpose. I ask if we should cut back on accidental yelling, which we now do most loudly via the Arecibo planetary radar. Using the amount we spend on Arecibo yelling to estimate the value we get there, I conclude:
+We should cut way back on accidental yelling to aliens, such as via Arecibo radar sending, if continuing at current rates would over the long run bring even a one in a billion chance of alerting aliens to come destroy us. And even if this chance is now below one in a billion, it will rise with time and eventually force us to cut back. So let’s start now to estimate such risks, and adapt our behavior accordingly. (more)
+As an aside, I also note:
+I’m disturbed to see that a consensus apparently arose among many in this area that aliens must be overwhelmingly friendly. Most conventional social scientists I know would find this view quite implausible; they see most conflict as deeply intractable. Why is this kind-aliens view then so common?
+My guess: non-social-scientists have believed modern cultural propaganda claims that our dominant cultures today have a vast moral superiority over most other cultures through history. Our media have long suggested that conflictual behaviors like greed, theft, aggression, revenge, violence, war, destruction of nature, and population growth pressures all result from “backward” mindsets from “backward” cultures.
+
+
+title: One In A Billion?
+
+date: December 3, 2014 10:30 am
+

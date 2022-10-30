@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Back in 2003 & 2007, Thomas Piketty & Emmanuel Saez [PS] published tax-record-based estimates of U.S. top income shares from 1917 until then. They found inequality rose until 1930, fell until WWII, stayed flat until 1980, and then rose again until today. They blamed WWII tax policy and the absence of similar taxes today.
+Since then, seven studies have used these same tax records to find much lower estimates of the size of this inequality and its rise since 1980. Now my colleague Vincent Geloso and three coauthors find, again using the same tax records, much lower estimates of these parameters for before 1960. Everyone agrees roughly that inequality rose til 1930, fell to WII, and then rose after 1980, but they disagree on the magnitudes and on the mix of causes. 
+
+Geloso et al. find that half of the fall happened during the Great Depression, and another sixth of it in the decade after WWII. Others find inequality to also fall a lot 1960-1980. 
+But overall, this all seems to confirm the main claim of Scheidel’s The Great Leveler,  that inequality mainly falls in bad times and rises in good times. You don’t want inequality to fall, as that mostly likely indicates bad times that you don’t want.
+This post is my Christmas present to Vincent.
+
+
+title: Why Inequality Fell Then Rose
+
+date: February 2, 2022 9:00 am
+

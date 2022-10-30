@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+An inside view focuses on internals of the case at hand, while an outside view compares this case to other similar cases.  The less you understand about something the harder it is to apply either an inside or an outside view.  So the simplest approach would be to just do the best you could with each view and then combine their results in some simple way.  
+ Can we do better?  Perhaps, if we know something about when inside views tend to do better or worse, compared to outside views.   For example, we should probably emphasize views that give more confident estimates, and de-emphasize views from those biased by self-interest.   But do we know anything about on what topics to prefer an inside or outside view?
+ It is not clear to me that we really do know much about this.  But whatever framework we use to make this judgment, it seems to me to count as a meta-view, a view about views.  Furthermore, while it is easy to imagine useful outside meta-views, which compare this view-choice situation to other related view-choice situations, it is much harder to imagine useful inside meta-views, where you go through some detailed calculation to decide which view to prefer.  
+This suggests to me that most useful meta views are outside meta views.  If you are going to reject an outside view in favor of an inside view on the basis of some insight on when inside views work better, you will be relying on an outside metaview.   So it seems you can’t escape embracing some outside view, though you might embrace a meta outside view instead of a basic outside view. 
+
+
+title: Are Meta Views Outside Views?
+
+date: June 22, 2008 3:30 pm
+

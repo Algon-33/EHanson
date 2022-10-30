@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+The medical treatments with the best empirical support are based on randomized clinical trials, but even those have reliability problems, in addition to publication selection biases and leaky placebo effects.  New Scientist:
+Oliver* is a professional guinea pig or “healthy volunteer”. When we speak, he’s in Austin, Texas, taking two different HIV drugs in combination over 20 days. At the end he’ll receive $5000. … In total last year, he earned $34,000 as a therapeutic guinea pig. … Most trials, for example, insist on a 30-day minimum drug-free period before the study begins, but since there is no system in place to check this, and plenty of financial reasons to ignore it, some volunteers may show up at the next trial before this 30-day “wash-out period” is up. …
+The pressure to maximise income may influence what volunteers admit to whilst on the trial. Some side effects, for instance, can get you kicked out of a study early, and since most of the payment is made upon completion of the trial, reporting side effects can be costly. Other times it might pay to fake side effects so you can drop out and sign up for another, more lucrative trial. …
+Last year, Shamoo published evidence that side effects in drug trials are indeed under-reported. Between 1990 and 2000, 386 adverse events and eight deaths were reported to the US Office of Human Research Protection, which governs human research using federal funds. Yet when he compared those numbers with annual data from the Food and Drug Administration on newly approved drugs, he found that each year nearly 17,200 adverse events were reported, with 800 serious problems including death – even though the FDA data applied to a sample population one-third of the size. …
+In the US, not only have clinical trials gone commercial, so too have the ethics boards set up to oversee them. … The US Government Accountability Office submitted a fake proposal for trialling a high-risk surgical procedure. It was rightly turned down by two IRBs but was accepted by Coast IRB in Colorado. Notably, that IRB had not turned down any of the 356 proposals it had received over the previous five years.
+
+
+title: Clinical Trial Sloppiness
+
+date: July 30, 2009 6:00 am
+

@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+To help me imagine how different future cultures might be, I’ve been trying to learn about typical lives of our distant ancestors. One excellent source is Montaillou: The Promised Land of Error by Emmanuel Le Roy Ladurie in 1978. Around 1300 Jacquest Fournier, who eventually became pope but was then a bishop, led an Inquisition against heretics in the small town of Montaillou in southern France, population 200. He transcribed several years worth of interviews of them, revealing great detail about ordinary life there. One tidbit:
+Instability was the hallmark of a shepard’s life, as of the lives of all rural workers in Occitania: ‘Every year’, says Oliveier de Serres in his book on agriculture, ‘change your farm hands, make a clean sweep. Those that come after will put all the more heart into their work.’ The people we are concerned with did not feel this instability as some kind of oppression or alienation. On the contrary, the migrant shepard changed his master more often than his shirt! (p.114)
+I’m told that even in the modern world one tends to hire new ranch hands every year.
+In the farming world, people like shepards, loggers, etc. who lived furthest from concentrations of people tended to have the lowest status and be the poorest. Such jobs were almost entirely done by men, and so such men rarely married until they switched careers. All of which makes some sense. But I’m puzzled that such people typically changed jobs every year, moving many miles away to work with very different people. It is hard to understand such behaviors as productivity maximizing ways forced on people living at the edge of subsistence. This seems instead to be one of the few luxuries such men purchased, so that they could feel less bored and enjoy variety.
+A related phenomena is the puzzling fact that people tend to get weary of exerting effort, and so need to take breaks and rest periodically. Not only do people need to rest and sleep at the end of a work day, but on the job mental fatigue reduces mental performance by about 0.1% per minute. Since by resting we can recover at a rate of 1% per minute, we need roughly one tenth of our workday to be break time, with the duration between breaks being not much more than an hour or two (Trougakos and Hideg 2009; Alvanchi et al. 2012). This doesn’t seem to be due to any obvious physical wear or depletion; it seems to be all in our mind.
+Both of these examples, a preference for variety in work locations and associates, and a preference for periodic work breaks during the day, seem plausible functional behaviors for our forager ancestors, and also for their more distant animal ancestors. But they make less sense today. Maybe our minds have embedded the assumption that these are functional behaviors at such a deep level that we are still better off following them today. Or maybe not.
+Added 25Aug: In many animal species, a single male controls a harem of females, and the other males wander between the harems, looking for a chance to tempt females for illicit trysts, or to challenge a weak harem ruler. Maybe young low status human males are expressing very ancient animal behavioral patterns.
+
+
+title: Excess Turbulence?
+
+date: August 24, 2015 12:05 pm
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+In 1990 I started publishing my "idea futures" concept of using betting markets to improve science incentives (see here, here, and here.)   It wasn’t until a few years later that I found that in 1986 the economist Edward Leamer‘s published this "half-baked scheme":
+
+ The interpretation of inferences reported in scientific journals is made difficult by the muddled incentives of the authors.  …  
+The publication of bid-ask spreads for lotteries contingent on interesting and decidable events … might have a remarkable effect on the quality of empirical work that gets published.   Authors would be expected to propose new lotteries or to offer new bid-ask spreads for existing lotteries.   Journals would make editorial decisions concerning the degree of interest in new lotteries and would commit journal space only if they anticipate sufficient interest.  Lower selling prices or higher buying prices would be automatically published.  If the analysis which led to these prices were sufficiently amusing and if the author were willing, an article describing the method could be published as well.  
+
+
+Subscribers would be allowed to contract with authors at the stated prices, though authors would be free to retract prices at any time, …  The great benefit of a scheme like this is it allows clear determination of professional progress as the probability intervals get narrower and move toward one or zero.  
+
+Leamer’s vision of the social benefits of clear betting offers and prices was very similar to mine.  But since he allows authors to immediately retract their prices, it is not clear to me what incentives Leamer had in mind to make it happen.   My vision was of patrons subsidizing betting markets to promote research, of advocates making offers to persuade audiences of their claims, and of researchers responding to the prospect of profiting from their bets.   But no matter; my hat is off to Leamer’s insight and foresight.  
+
+
+title: Leamer’s 1986 Idea Futures Proposal
+
+date: December 8, 2006 6:00 am
+

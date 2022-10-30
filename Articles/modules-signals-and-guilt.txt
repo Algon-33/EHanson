@@ -1,0 +1,21 @@
+author: Patri Friedman
+
+text: 
+While a first-order model might see the human brain as a general-purpose computer, coordinated, centralized, acting with a single voice, we now know that this isn’t so.  The brain consists both of hierarchical layers ("a man riding a dog riding a lizard", as John Brunner put it), and of many parallel modules.  To a large extent, our unified view is an after-the-fact interpretation.
+One way to deal with this is to think of each of these modules as a different voice, providing input that can be analyzed by the conscious mind as part of making a conscious decision.  For example, Rational Recovery, a method for dealing with drug and alcohol addiction, involves identifying the addictive voice (the one that says "I need a drink"), and then consciously labeling it as "other" (the "beast" in their terminology), rather than "self".  In geek terminology, one might look at this as finding a dysfunctional module and labeling all of its output as questionable, to be subjected to extra critical review in the synthesis phase of decision.
+In practice, identifying these voices is difficult, because often modules communicate, not clearly and distinctly, but in broad swaths of emotion that infuse every fiber of one’s being.  As an IPC system, it sucks.  But with practice, we can learn to identify these messages and their sources. 
+  
+A voice that I’ve found quite useful to identify is that of guilt. When I feel guilty about something I am currently doing, it usually means one of two things:
+
+I shouldn’t be doing it – it does not meet my goals, or my concept of my ideal self, or my chosen path.
+The guilt is erroneous – there are downsides to what I am doing, but it is the best option.
+
+In other words, guilt is a signal from a module in my brain devoted to watching for things I do which are "wrong", particularly in the view of my friends, family, or society.  There is enough overlap between those views and my own that often the feeling of guilt means to mine own self I am not being true.  In this case, I had best change my course (or, rarely, my values).  On the other hand, sometimes it is an external, critical voice, based on values which I do not share.  Once I have confirmed that this is true, I should reject it for, there is no point in feeling guilty about a conscious decision made in line with ones values.  There is an additional case, which is guilt over past actions.  While it is too late to correct the action, it is never too late to apologize, which is usually sufficient to address the feeling.
+It is tempting to repress guilt when one feels it, for it is an unpleasant emotion and it is our nature to avoid unpleasant things.  But doing so means denying the signal, missing out on a chance to correct what may be a wayward course, and leaving it to fester.  Tis far better to let the feeling wash through you, and consciously choose to either change it, or let it change you.  Counterintuitive though it may be, you will get rid of it faster by embracing it than by putting it aside.
+(those of you with some experience with Buddhism may find this latter theme familiar, and indeed I am finding Buddhism to be a rich source of material on overcoming bias).
+
+
+title: Modules, signals, and guilt
+
+date: December 8, 2007 6:00 am
+

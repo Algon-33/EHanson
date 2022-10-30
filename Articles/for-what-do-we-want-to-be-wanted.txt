@@ -1,0 +1,32 @@
+author: Robin Hanson
+
+text: 
+We often make ideal mate checklists, with features like “beautiful, bubbly, caring, charismatic, considerate, creative,” etc. Though famously the mates that we actually choose don’t tend to rate highly on our checklists. Suggesting that we don’t know very well what we actually want.
+A feature conspicuously absent from most such lists is: how much someone wants you. Obviously this isn’t the only thing we want, or we’d accept offers from anyone who wanted us lots. But its importance is shown in this poll:
+
+Imagine you are sexually attracted to someone. All else equal, would you rather that they (A) had sex with you, but were not into it, or (B) were really into having sex with you, but were somehow prevented from doing so?
+— Robin Hanson (@robinhanson) July 18, 2022
+
+Note that my poll respondents are mostly male, and most observers see this effect as likely even stronger for females. We can thus conclude “wanting to be wanted” is one of the biggest things we want from our mates, even more than sex itself.
+Now you can find many articles on this idea that we “want to be wanted”. (Even an academic article.) But most such articles seem to be critical of this practice, and suggest how to avoid it. And nothing I’ve found seems to notice just how ambiguous is this concept. That is, it isn’t at all clear what exactly we want to be wanted for.
+Note that we could in principle be wanted as a footstool, as a bottomless wallet, as an on-demand-chore-doer, or as an easy-butt-of-jokes. But few of us actually want to be wanted in these ways. Thus we are clearly picky about what we are wanted for; we don’t just want to be wanted. Which raises a key question: when can it work that each of us is actually wanted for what we want to be wanted for?
+For example, consider a couple A and B, where both A and B are pretty, and where what both A and B want is to be paired with someone who is pretty. This match works, at least as long as they both remain pretty. It would also work to have A want to be paired with someone caring, and B want to be paired with someone smart, if in fact A is smart and B is caring. So matches can also work with asymmetric wants.
+Now imagine that what A mainly wants is to be paired with a partner they see as pretty, as before, but what B mainly wants is to be paired with someone who mainly wants a pretty partner. This pairing also works, as they are each getting what they want. But note this is asymmetrical; A and B now want different things from each other.
+Note also that a symmetrical version of this wanting-to-be-wanted desire pairing does not work. Imagine we take what B wants in this previous case, and give that motive to both A and B in a new case. So now what both parties want is to be paired with someone who mainly wants a pretty partner, and who sees them as pretty. These wants are mismatched. In a pairing, neither of them get what they want from the other. So this match doesn’t work.
+This seems to be a pretty general problem actually. No two preferences of the same form “I want them to want me for my wanting them for their … for they (or my) having ground feature X” seem to work when paired with each other. Because in these cases, the other isn’t wanting you for what you wanted them to want you for. And this isn’t just a hypothetical problem; the following poll suggests that most couples actually suffer from it:
+
+What do you most want your lover to like about you? (A) Your body (B) Your mind, $, compassion, etc. (C) Fact that you are attracted to their body, mind, wealth, etc. (D) Fact that you are attracted to their wanting something about you.
+— Robin Hanson (@robinhanson) July 19, 2022
+
+Here ~82% of respondents say they want others to want them mainly for their ground features, like their body. But the prior poll showed that what most people actually want most from their partners is for the other to want them. So if these poll results are to be believed, then direct and simple desire, instead of wanting to be desired, is the element most often missing in the world, preventing good matches. And thus it seems that the most pro-social change you could make in yourself, to benefit others, is to make your desires more grounded and less meta. Just directly and simply want their body, their mind, etc.
+Perhaps more plausibly, what we really want is all of these levels at once. That is, both sides in a pair might put symmetric weights on wanting the others’ features, and wanting to be wanted for our features, and wanting them to want to be wanted, and so on up the infinite hierarchy of meta wants.
+Or more directly, each side wants to be together in a state of “mutual wanting” which implies the same mix of all of these wants at once. (I’m making an analogy here to how the concept of “common belief” summarizes a whole hierarchy of meta beliefs. I’ll bet meta wants can be similarly formalized.)
+Or maybe we usually want somewhat different things from each other, but still close enough wants that we are each still getting a lot of what we want from our mutual wanting. After all, we don’t usually seem to be very confused about or unhappy with the matchings of our meta-level wants. And it seems to me that our relation problems usually sit at much more basic levels.
+Added 10a: The random match doesn’t work, with each side mainly wanting to be wanted for some base features, like looks. The simplest fix seems to be for one side to switch, and at least pretend that they mainly want the other person for their base features. And the side most likely to switch is the side who seems naturally closer to that position, and who has a worse negotiating position in the match. Typically: men (when matched to women).
+Plausibly leading to stereotypes that male desires are simple and low, so men can be freely denigrated and suspected of foul play. Females can more admit to the common desire to be loved, which they frame as deep, giving, and spiritual. Male consumption of porn is denigrated, but female consumption of romance novels is not. Men who believe this lie too much can be surprised to find sex alone doesn’t satisfy, and women who believe it too much may withhold sex and demand too much for access to it, and be surprised when their man gives up on the whole pretense.
+
+
+title: For What Do We Want To Be Wanted?
+
+date: July 19, 2022 3:50 pm
+

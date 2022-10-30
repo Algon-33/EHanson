@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+The latest Journal of Prediction Markets has a lit review on overconfidence, with a to-me surprising result: financial overconfidence increases with age, experience, and success.  Here are three investment experiments:
+
+ Kirchler and Maciejovsky (2002) …. demonstrated that subjects were overconfident in late trading periods … [but] underconfident during other trading periods. … Dittrich et al (2005) … found that age was positively correlated to overconfidence for complex tasks.  … Glaser et al (2005) … [found that financial market] professionals’ degrees of overconfidence was higher than that of the student subjects in most tasks, and it appeared that was because the "professionals are biased in job related tasks, such as forecasting real world financial time series." 
+
+ Also:
+
+A survey of German stock market forecasters conducted by Deaves et al (2005) … demonstrated that the market forecasters were overconfident in their predictions and that greater market experience and success, measured by correct predictions, increased their overconfidence.  … Markets are likely to become more overconfident when market returns are high.  
+
+This is disturbing.  If overconfidence is positively correlated with ability, then observers can rationally take overconfidence as a signal of ability, and people can want to appear more overconfident to appear more able.  But to make this story work, somehow it should on average be easier to get away with being more overconfident when one is more experienced and successful.  How can this be? 
+This all seems to make it more reasonable than one might otherwise have thought to disagree about finance with older, more experienced, more successful folks. 
+
+
+title: Experience Increases Overconfidence
+
+date: June 30, 2008 6:00 am
+

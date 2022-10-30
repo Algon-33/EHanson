@@ -1,0 +1,32 @@
+author: Robert Wiblin
+
+text: 
+Usually people don’t agree with one another as much as they should. Aumann’s Agreement Theorem (AAT) finds:
+…two people acting rationally (in a certain precise sense) and with common knowledge of each other’s beliefs cannot agree to disagree. More specifically, if two people are genuine Bayesian rationalists with common priors, and if they each have common knowledge of their individual posteriors, then their posteriors must be equal.[1]
+The surprising part of the theorem isn’t that people should agree once they have heard the rationale for each of their positions and deliberated on who is right. The amazing thing is that their positions should converge, even if they don’t know how the other person reached their conclusion. Robin has reached a similar result using even weaker assumptions.
+If we sincerely applied this finding in real life, it would go a long way to correcting the confirmation biases which makes us unwilling to adjust our positions in response to new information. But having a whole community take this theorem out of the lab and into real life is problematic, because using it in an imperfect and human way will leave them vulnerable to ‘information cascades’ (HT to Geoff Anders for the observation):
+An information (or informational) cascade occurs when people observe the actions of others and then make the same choice that the others have made, independently of their own private information signals. A cascade develops, then, when people “abandon their own information in favor of inferences based on earlier people’s actions”.[1] Information cascades provide an explanation for how such situations can occur, how likely they are to cascade incorrect information or actions, how such behavior may arise and desist rapidly, and how effective attempts to originate a cascade tend to be under different conditions
+There are four key conditions in an information cascade model:
+
+Agents make decisions sequentially
+Agents make decisions rationally based on the information they have
+Agents do not have access to the private information of others
+A limited action space exists (e.g. an adopt/reject decision).[3]
+
+
+This is a fancy term for something we are all familiar with – ideas can build their own momentum as they move through a social group. If you observe your friends’ decisions or opinions and think they can help inform yours, but you aren’t motivated to double check up on their evidence, then you might simply free-ride by copying them. Unfortunately, if everyone copies in this way, we can all end up doing something foolish, so long as the first few people can be convinced to trigger the cascade. A silly or mischievous tail can end up wagging an entire dog. As a result, producing useful original research for social groups, for instance about which movies or restaurants are best, is a ‘public good’ which we reward with social status.
+Now, nobody lives by agreement theorems in real life. We are biased towards thinking that when other people disagree with us, they are probably wrong – in part because copying others makes us seem submissive or less informed. Despite this, information cascades still seem to occur all over the place.
+How much worse will this be for a group that seriously thinks that every rational person should automatically copy every other rational person, and  makes a virtue of not wasting the effort to confirm the data and reasoning the ultimately underlie their views? This is a bastardisation of any real agreement theorem, in which both sides should adjust their view a bit, which I expect will prevent a cascade from occurring. But mutual updating is hard and unnatural. Simply ‘copying’ the higher status members of the group is how humans are likely to end up agreeing in practice.
+Imagine: Person A – a significant member of the community – comes to the group and expresses a casual opinion based on only a little bit of information. Person B listens to this, has no information of their own, and so automatically adopts A belief, without probing their evidence or confidence level. Person C hears that both A and B believe something, respects them both as rational Bayesians, so adopts their position by default. A hears that C has expressed the same opinion, thinks this represents an independent confirmation of the view, and as a result of this ‘pseudo-replication’, becomes more confident. And so the cycle grows until everyone holds a baseless view.
+I can think of a few ways to try to arrest such a cascade.
+Firstly, you can try to apply agreement theorems more faithfully, by ensuring two people discussing their view update both up and down, rather than just copying. I am skeptical that this will happen.
+Secondly, you could stop the first few people from forming incorrect opinions, or sharing conclusions without being quite confident they are correct. That is difficult, stop prevents you aggregating tentative evidence, and also increases the credibility of any remaining views that are expressed.
+Thirdly, you could take theorems with a grain of salt, and make sure at least some people in a group refuse to update their beliefs without looking into the weight of evidence that backs them up, and sounding the alarm for everyone else if it is weak. In a community where most folks are automatically copying one another’s beliefs, doing this work – just in case someone has made a mistake or is not the ‘rational Bayesian’ you thought they were – has big positive externalities for everyone else.
+Fourthly, if you are part of a group of people trying to follow AAT, you could all unlearn the natural habit of being more confident about an idea just because many people express it. In such a situation, it’s entirely possible that they are all relying on the same evidence, which could be little more than hearsay.
+
+
+
+title: Arresting irrational information cascades
+
+date: October 18, 2012 10:50 am
+

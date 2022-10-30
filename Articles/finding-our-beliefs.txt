@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+If only you are interested in a topic, you’ll have to think it through for yourself, or pay someone else to think on it. But if many folks are interested in your topic, you might hope to share the thinking work with others.
+Some social institutions seem to serve this “our beliefs” function. Today you can see if your question is answered in wikipedia, you can search a library for answers in respected books or journals, and you can call up an expert credentialed in a related area to see if they know of an answer.
+Of course these institutions are imperfect. Calling experts is expensive, quick searches only find some of the many differing opinions out there, and encyclopedia answers, while unique, only address a limited range of questions. If you find an answer you know is wrong, it can take a lot of work to change it. You might have to devote a whole career to the attempt, and even then you might not be rewarded for the effort.
+Ideally, we’d want an “our answers” institution with easily-found accurate answers on as many questions as possible. Hopefully, anyone could ask any question, and answers would be consistent with each other and across time. If incentives to give accurate answers were strong enough, we might even let anyone correct any answer.
+Prediction markets might allow such a better answers institution. Ordinary financial prices offer consistent unique answers that anyone can fix, but for a typical ordinary question, it is very hard to figure out which price combinations might answer it. In contrast, prediction market questions can be expressed in simple ordinary language.
+If (money-based) prediction markets were legal, anyone could add a new question for a modest fee (<$100), and quickly get unique answers consistent with all other questions. Anyone could fix any answer, and would have incentives to do so accurately.  Or anyone could pay to make any answer more accurate. So far, tests have found prediction markets to be consistently as or more accurate than other prediction institutions with similar resources.
+Of course ordinary prediction markets do have one big limitation: they only directly answer questions that eventually become clear for other reasons. But this allows more than it might seem. For example, because we will later know which candidate is elected by what margin, and how big is the post-election unemployment rate, prices today can say which candidate is expected to most help unemployment if elected.
+This example suggests one way to expand the range of questions prediction markets can cheaply answer: start with a set of base questions, and then let users ask and answer questions from the vast space of combinations of those base questions. For example, starting with a base consisting of all the specific future readings of all weather stations, users could ask most any weather question of interest, such as whether this next winter will be colder where they are living now, or in the particular city where they are thinking of moving.
+In my next post I’ll talk about a big advance my research group has achieved in the implementation of such combinatorial prediction markets.
+
+
+title: Finding “Our” Beliefs
+
+date: July 1, 2012 9:45 pm
+

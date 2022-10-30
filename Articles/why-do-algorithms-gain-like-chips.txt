@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+Computer hardware has famously improved much faster than most other kinds of hardware, and most other useful things. Computer hardware is about a million times cheaper than four decades ago; what other widely useful thing comes has grown remotely as fast? Oddly, computer algorithms, the abstract strategies by which computer hardware solves real problems, seem to have typically improved at a roughly comparable rate. (Algorithm growth rates seem well within a factor of two of hardware rates; quotes below.) This coincidence cries out for explanation.
+On the surface the processes that produce faster hardware and faster algorithms seem quite different. Hardware is made by huge companies that achieve massive scale economies via high levels of coordination, relying largely on internal R&D. Algorithms instead seem to be made more by many small artisans who watch and copy each other, and mostly focus on their special problem area. How is it that these two very different processes, with very different outputs, both grow at roughly the same remarkably fast rate? The obvious hypothesis is that they share some important common cause. But what? Some possibilities:
+
+Digital – Both computer hardware and algorithms are digital technologies, which allow for an unusually high degree of formal reasoning to aid their development. So maybe digital techs just intrinsically grow faster. But aren’t there lots of digital techs that aren’t growing nearly as fast?
+Software – Maybe software development is really key to the rapid growth of both techs. After all, both hardware and algorithm experts use software to aid their work. But the usual descriptions of both fields don’t put a huge weight on gains from being able to use better productivity software.
+Algorithms – Maybe progress in hardware is really driven behind the scenes by progress in algorithms; new algorithms are what really enables each new generation of computer hardware. But that sure isn’t the story I’ve heard.
+Hardware – Maybe there are always lots of decent ideas for better algorithms, but most are hard to explore because of limited computer hardware. As hardware gets better, more new ideas can be explored, and some of them turn out to improve on the prior best algorithms. This story seems to at least roughly fit what I’ve heard about the process of algorithm design.
+
+This last story of hardware as key has some testable predictions. It suggests that since gains in serial hardware have slowed down lately, while gains in parallel hardware have not, parallel algorithms will continue to improve as fast as before, but serial algorithm gains will slow down. It also suggests that when even parallel hardware gains slow substantially in the future, because reversible computing is required to limit power use, algorithm gains will also slow down a comparable amount.
+If true, this hardware as key theory also has policy implications. It suggests that it is much better to subsidize hardware research, relative to algorithm research; even with less research funding algorithm gains will happen anyway, if just a bit later. This theory also suggests that there is less prospect for self-improving algorithms making huge gains.
+So what other explanations can we come up with, and what predictions might they make?
+Added 5June: There are actually several possible ways that software progress might be determined by hardware progress. In the post I mentioned better hardware letting one explore more possible ideas, but it could also be that people already knew of better algorithms that couldn’t work on smaller hardware. Algorithms vary both in their asymptotic efficiency and in their initial overhead, and we might slowly be switching to bigger overhead algorithms.
+Those promised quotes:
+The White House advisory report cited research, including a study of progress over a 15-year span on a benchmark production-planning task. Over that time, the speed of completing the calculations improved by a factor of 43 million. Of the total, a factor of roughly 1,000 was attributable to faster processor speeds. .. Yet a factor of 43,000 was due to improvements in the efficiency of software algorithms.
+Solve some test LPs … hardware seems to be currently winning the speed race. Even so, studies suggest that over time, say 20 years, the speed-ups have been quite evenly divided between mathematics/algorithms and hardware improvements.
+25 years progress solving sparse linear systems. Hardware alone: 4 orders of magnitude. Software alone: 6 orders of magnitude. The N-Body Problem: in 30 years 10^7 hardware, 10^10 software.
+Added 5June: roystgnr points us to a similar result in magnetohydrodynamics.
+These quotes are from a forthcoming MIRI tech report by Katja Grace currently titled “Assorted evidence on algorithmic progress.”
+Chess programs … over the last four decades. … Estimates for the significance of hardware improvements are very noisy, but are consistent with hardware improvements being responsible for approximately half of progress. … Go programs … for the last three decades. Hardware doublings produce diminishing Elo gains, on a scale consistent with accounting for around half of progress. … Improvements in a variety of physics simulations (selected after the fact to exhibit performance increases due to software) appear to be roughly half due to hardware progress.
+
+
+title: Why Do Algorithms Gain Like Chips?
+
+date: June 3, 2013 11:30 am
+

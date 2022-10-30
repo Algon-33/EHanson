@@ -1,0 +1,40 @@
+author: Robin Hanson
+
+text: 
+Yesterday I outlined how combinatorial auctions could help our cities better coordinate their land use and utility capacity, without granting great discretion to a central power. But I ended with:
+It would be very hard to get agreement to change to this system from today’s system of property rights and regulatory restrictions. I despair of it happening in our comfortable and change-averse cities. So we might have to wait until a big disruption creates lots of other change. (more)
+Two years ago I pointed to a big-enough future disruption:
+Rich stable nations … feel little inclination to consider big disruptive changes. … This frustrates rich-nation would-be-rebels like me who see our business, legal, political, etc. institutions as far from optimal. … If you long to say “come the revolution,” you might wait three to fifteen decades for the “em rev“, the whole brain emulation revolution. …
+Rapid [em] growth will require huge rapid changes in economic organization, and supporting changes to business, legal, and political institutions. …  Locations vying to be one of those [first em] centers may be open to big institutional change. … So if you have a favorite radical change you’d like the world to consider, you might give some thought to how your change could support a local em rev. (more)
+The first em cities may be especially open to change regarding how cities are run. How might combinatorial auctions help them?
+Here are my best guesses about (mid-em-era) em cities. City centers would mainly house computers, mostly running brains, and supporting infrastructure, e.g., power, cooling, structural support, part swapping paths, security, leakage containment, etc.
+City centers would mostly house ems in virtual bodies doing office work, meeting often with other city workers. In most meetings, brains would stay put and just send signals; physical movement would be much rarer. Em minds would be sped-up relative to human minds as far as possible, until doubling an em’s mental speed much more than doubled its computing costs.
+Outside of city centers there would be more ems in physical bodies, mostly small, helping with physical activities such as mining, harvesting, manufacturing, transportation, dumping, etc. Air cooling in the periphery would give way to water cooling closer in, and perhaps molten salt cooling very close.
+All this would put a huge premium on inner city computer speed, density, and bandwidth. Cities would be very 3D, and city center computers would likely have very small physical structures generating lots of heat, making cooling crucial. Also important would be power sources, and physical paths for the replacement of devices and parts.
+Today big computing centers are centrally planned, mostly with uniform parts and regular structures. But this level or coordination is may be infeasible for large cities, where diverse organizations make coordination expensive and change hodge-podge. In such a context, combinatorial auction might help improve coordination.
+In am em city combinatorial auction, bids for locations could specify:
+
+spatial volume, shape, and orientation
+part swapping portal locations and sizes
+line of sight to outside, or to specific parties
+surface temperature and chemical corrosively limits
+amount and form of power and cooling, with price limits
+specific chemicals piped in, fluid garbage piped out
+communication distance from other particular residents
+time delay and expense to move hardware out and in
+support force tensors (including weight) get, support can give
+max stress-strain to support during earthquake
+limits on incoming, outgoing vibration distributions
+chances of incoming, limits on outgoing, leakage
+chance of explosive destruction, correlation with distant backups
+legal rules covering disputes with neighbors
+time commitments on each of these, and penalties for violations
+
+As with cities today, winning allocations would say who gets what spaces with what supporting utilities, limits, etc. Competitive utility suppliers could also bid their prices to use particular spaces to supply particular utility amounts to particular locations. and futures markets about future winning bids might help estimate opportunity costs of commitment. Auction revenue could pay for utility fixed costs and repay city investors, and futarchy might choose the basic auction rules.
+Yes, there’s a lot we don’t know about the future, and I could get some things wrong here. Even so, it seems worth thinking about what the future might be like, and when big institutional changes might be feasible.
+
+
+title: Em City By Combo Auction
+
+date: December 1, 2011 3:00 pm
+

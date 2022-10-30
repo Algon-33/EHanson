@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+Few experts in our society could pull off saying: 
+
+Emergency!!!  We will suffer terribly if you don’t spend a trillion dollars right now overpaying for stuff from our friends!  No, you don’t have time to study the problem, nor will we present an analysis for your review.  No, other experts in our field cannot actually see this problem, and there will never be data showing the problem really existed.  You just have to trust us and give us the trillion right now!! 
+
+US military experts said something similar on Iraq weapons of mass destruction, but at least they admitted we’d eventually be able to see if they were wrong (as they were).  Medical experts implicitly say something similar about the health value of the second half of medical spending that costs a trillion dollars a year, even when our best data show little value, but this is a steady problem not a sudden new problem.  Global warming experts have been trying, so far without much success, to get us to spend similar amounts on their problem, even though other experts can supposedly verify it. 
+ Given how much less respect and deference economists get on most policy topics, relative to docs, physicists, or generals, I’m surprised to see some economists just got away with this sort of thing.  The US has given top government economists, such as Paulson and Bernanke, well over a trillion in mostly blank checks to spend saving their Wall Street friends from ruin, supposedly to prevent another great depression.  But it seems economists looking today at the data available then just can’t find clear evidence a massive buyout was needed.
+  
+ Alex Tabarrok has been reviewing the evidence here, here, and here.  Tyler responds, but as Bryan notes, not effectively.  Yes we are heading into a serious recession after housing over-investment, a recession exacerbated it seems by these dire warnings.  And yes many (but not all) New York investment banks were dying from terrible housing investments.  But the rest of banking and insurance industries seem to be doing all right, and economic theory certainly doesn’t clearly say the economy will die if we let some investment banks go bust.  
+ Now none of this proves Paulson and Bernanke don’t have secret info they’ll never be able to divulge, and deep wisdom they’ll never be able to explain, showing we must help their friends.  But is this feeding frenzy really what you’d expect that to look like?:
+
+The Treasury Department is dramatically expanding the scope of its bailout of the financial system with a plan to take ownership stakes in the nation’s insurance companies, …  Insurers … have pushed the Bush administration to include them in the plan. … Government officials worry that the collapse of a major insurer could further destabilize the financial system …  The new initiative underscores the growing range of problems that Treasury is scrambling to address with the $700 billion allocated by Congress this month. The shape of the plan has changed repeatedly since … Paulson Jr. introduced it last month as an effort to rescue banks by buying their troubled mortgage-related assets. That original mandate has now been pushed aside by a plan to take equity stakes in banks and insurance companies, and other businesses are lobbying to be included.  The government has been forced to expand the plan partly because the federal guarantees previously given some institutions, such as banks, have put other companies and financial sectors at a disadvantage, making them less attractive to uneasy investors. 
+
+
+Added 26Oct:  Tyler offers more data.   
+
+
+
+title: Trust Us!
+
+date: October 25, 2008 3:30 pm
+

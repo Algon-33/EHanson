@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Economic "risk" means something different than ordinary risk.  When a big strong creature swaggers around, ready to take on all comers, while a small meek creature cowers in a corner, avoiding attention or conflict, we might call the swaggering one risk-loving, and the cowering one risk-averse.  Economists are careful to note, however, that they mean "risk" to connote a tolerance for variance – and it could be that by swaggering the big one reduces his outcome variance.  It seems, however, that these different risk concepts are more related than we realized:  
+
+ In general, women are found to be more risk averse, and risk aversion is seen to decline with age and wealth. …  In addition, choices for others were related to the choices individuals made for themselves. … Both evolutionary and economic theories suggest that physically stronger decision makers should make riskier decisions, suggesting physical prowess as an underlying cause of gender differences. …
+ This study uses four different measures of physical prowess. First, we directly measure hand strength using a dynamometer. Second, we collect information related to organism quality, based on biologically based observations: height, weight, perceived strength, and attractiveness. Third, we collect survey-based measures of self-perceptions of athleticism and strength, and self-reported behavior such as participation in sports. Finally, we collect personality-based measures of strength. We find that perceptions about a person’s strength and organism quality are strongly related to predicted [risk] choices, and objective measures and self-perceptions of prowess are related to actual gamble choices. Advisors exhibit significant prediction biases when attempting to forecast individual gamble choices, and the biases take the form of exaggerations of the effect of observable characteristics.
+
+ So if we could get people to exercise more, would they become more risk-loving, want less insurance, make more aggressive investments, and induce faster economic growth?  Would this be a good thing?
+
+
+title: Risk is Physical
+
+date: September 2, 2008 6:00 am
+

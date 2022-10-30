@@ -1,0 +1,12 @@
+author: Patri Friedman
+
+text: 
+I like betting on elections, both because it is fun, and because the chance to profit from them helps distract me from the depressing farce of democracy (a mechanism with some decided disadvantages).  Last election I mostly sold Dem Sweep contracts (Dems win House, Senate, and Presidency), plus the tails of the electoral vote distribution.
+In both cases, I thought (without actually finding data to confirm it) that the parlay was fairly independent, and the prices were way out of line from that.  The tails of the vote distribution were much fatter than you’d expect if the states were independent, and DEM.SWEEP was priced around 4-8 when the independent probability was 1/2% based on the prices for House, Senate, and Presidency.  It worked well for me, but since I was selling longshots, that one data point means very little.
+But now it’s time to gamble some more, so I wired $20K to InTrade this morning.  Now I need to find something to bet on.  (Have I mentioned I’m a degenerate gambler? 🙂 ).  My current favorite bets are going long GOP (it’s way too early for the incumbents to be a 2:1 underdog, especially when we don’t even know the candidates!) and shorting Ron Paul (it’s a good bet and a hedge!).  I’d love to hear thoughts from y’all about what bets you like.
+
+
+title: Good InTrade bets?
+
+date: November 22, 2007 6:00 am
+

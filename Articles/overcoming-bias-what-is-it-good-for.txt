@@ -1,0 +1,18 @@
+author: Nick Bostrom
+
+text: 
+
+One sign that science is not all bogus is that it enables us to do things, like go the moon. What practical things does debiassing enable us to do, other than refraining from buying lottery tickets?
+In this context, it is not so helpful to adduce controversial philosophical or futuristic conclusions, such as that one should sign up for cryonics, reallocate all one’s charity to combat existential risk, or focus one’s work on creating Friendly AI. For presumably it would be as easy to delude oneself that these conclusions are correct as it is to delude oneself that one has been successful in overcoming bias and that one has thereby become an importantly better epistemic agent.
+Consistent long-term success in active stock market speculation would be an impressive proof. But to require that would be to set the standard too high. Presumably, markets already suffer much less from bias than many other contexts, so even if one cannot beat the market one might nevertheless have gained some important ability.
+But in what sphere of application does success at overcoming bias yield uncontroversial practical benefits?
+  
+Might it be that the only clear benefits of overcoming bias are "benefits" that most people don’t seek? Perhaps in contexts where people actually care about the outcome, and where bias significantly affects the outcome, they are already pretty unbiased? If so, it would seem that overcoming bias is more of a moral enterprise than anything else. Only if you happen to adopt a new and unusual goal will you benefit from putting work into overcoming biases (namely, those biases that previously were irrelevant but  now stand in the way of your effectively pursuing the new goal).
+So one reason for asking (non-rhetorically) what overcoming bias is good for is to find ways of testing how successful we have been in increasing our epistemic effectiveness. Another reason is that if we knew in what domains being more skilled in unbiased thinking provides the greatest performance enhancements, we could shift our work more into such domains. For example, are there some kinds of academic work where being savvy about biases yields unusually large advantages? Is there an easy way to make money from being less biased?
+If this new tool is really as great as we might like to think, then where are its profitable uses?
+
+
+title: Overcoming bias – what is it good for?
+
+date: April 7, 2007 2:37 pm
+

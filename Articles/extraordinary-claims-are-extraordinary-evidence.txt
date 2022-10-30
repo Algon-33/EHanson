@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+There is a common saying used to dismiss surprising claims: "extraordinary claims require extraordinary evidence."  This idea is used to justify holding controversial claims to a higher standard of evidence than uncontroversial claims.   
+ Now the saying is obviously true in a simple Bayesian sense:  the lower your pre-evidence probability for a claim, the stronger your evidence must be (in likelihood ratio terms) to raise your post-evidence probability above any given threshold.  But this saying can be a misleading way to think about testimonial evidence.  
+ Consider that in ordinary conversation we commonly believe claims with very low pre-evidence probabilities.  Imagine that I were to tell you that my children had just died in a horrible freak accident involving a cell phone, a plane and a gas truck, or that I would meet you next Tuesday at 8:47am at 11 feet NW of the smaller statue in a certain square.  You would probably just believe me, as you usually believe things I tell you, even though you would have assigned a very low probability to those claims before you heard my statement.   
+ Are we gullible to believe such unlikely claims without asking for extra evidence?  No; the fact that I make such an extraordinary claim is usually itself extraordinary evidence (with a very high likelihood ratio); I would be very unlikely to make such claims in situations where I did not have good reasons to think them true.  
+  
+The times to be more skeptical of unlikely claims are when there is a larger than usual chance that someone would make such a claim even if it were not true.  That is, if there is a kind of "wild" claim and "wild" person, such that this type of person tends to be more rewarded for making this kind of claim, relative to silence or other claims, even when they do not have good reasons to think them true, then we are justified in holding such claims to a higher standard of evidence.    
+ On the other hand, if there are kinds of claims and types of people such that these people are rewarded less for making such claims, relative to silence or other claims, then we should hold these claims to a lower standard of evidence.   So while we should be extra skeptical of hard to check claims that would bring media attention to media hogs, we should be extra trusting of embarrassing claims from shy people, or of claims that associates will interpret as betrayal or lunacy.  
+ Since the right standard of evidence depends on the claimer’s incentives, it is appropriate to consider these incentives.  But it is not true in general that extraordinary claims require extraordinary evidence, beyond the extraordinary evidence already embodied in the claims themselves.
+Summary:  Be skeptical about any claim people tend to make without enough evidence, but not otherwise skeptical of extraordinary claims. 
+
+
+title: Extraordinary Claims ARE Extraordinary Evidence
+
+date: January 18, 2007 6:00 am
+

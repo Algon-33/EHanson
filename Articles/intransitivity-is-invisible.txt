@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Because human perception is unreliable, it simply cannot give us much evidence about very rare events. If roughly one in a million people looking at clouds think they see an alien spaceship, then even if one in a billion people looking at clouds actually do see an alien spaceship, we’ll just never know that by listening to sky-watching testimony. (At least not without enough data to distinguish a 0.1% effect on reporting rates.)
+If there is such a thing as a human ability to perceive moral truth, independent of person, culture, moment, and mental context, it is a very noisy ability. Beliefs about moral truth vary greatly across cultures, who you ask, when you ask them, and how you ask the question. This high level of noise limits our ability to discern fine and unusual moral detail.
+Larry Temkin has a new book arguing that moral intuitions are commonly intransitive, forcing us to reject either transitivity or some strong intuitions. Tyler summarizes:
+Temkin is skeptical of transitivity. … The main contribution of this book is to show you that the transitivity postulate is far less intuitively appealing than it seems at first.
+Tyler’s position:
+I see the good is more holistic than additive-aggregative. … For many individualized normative comparisons there simply isn’t a right answer.  I view “ranking” as a luxury, occasionally available, rather than an axiomatic postulate which can be used to generate normative comparisons, and thus normative paradoxes, at will. I see that response as different than allowing or embracing intransitivity across multiple alternatives and in that regard my final position differs from Temkin’s.
+Whatever that means.
+It seems to me that even if we accept that moral truth could be intransitive, the fact that specific moral intuitions are typically transitive forces our best guess moral beliefs to also be almost always transitive. Let me explain.
+Even if moral truth is in fact transitive, the huge error rates in our moral intuitions would still produce a high rate of intransitivity in our moral intuitions. A rate similar in fact to the rate we see. So we basically have little evidence that moral truth is intransitive.
+Furthermore, the strong overall transitive tendency in our intuitions implies that there is at least a strong overall transitive tendency in moral truth. So in any specific case where moral intuitions seem intransitive, our best explanation for that intransitivity is moral error, even if in fact moral truth does have a lot of intransitivity. Our moral vision is just not clear enough to discern real moral intransitivity’s from among error-induced apparent ones. We should thus continue on as before with our transitivity-based policy analyses.
+Added 6a: Here’s what I mean by “the strong overall transitive tendency in our intuitions.” When we pick random options A,B,C, (e.g., charities, foods, movies) and ask random people to rank A v B, B v C, A v C, and in each case ask people for a probability of a mistaken ranking, the fraction of intransitivity cases would be overall well explained by a model of mostly transitive preferences plus error. The error probability would fit the probability of ranking errors people give, once we allow for error in the probability numbers and make a usual correction for overconfidence.
+
+
+title: Intransitivity Is Invisible
+
+date: January 5, 2012 8:30 pm
+

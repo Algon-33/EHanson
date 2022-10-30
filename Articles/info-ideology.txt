@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+What is a political “ideology”? You might think your ideology is your set of core pivotal beliefs, the few beliefs that most influence your many other political beliefs. For example:
+Political ideologies have two dimensions:
+Goals: how society should work
+Methods: the most appropriate ways to achieve the ideal arrangement.
+… Typically, each ideology contains certain ideas on what it considers to be the best form of government (e.g. democracy, theocracy, caliphate etc.), and the best economic system (e.g. capitalism, socialism, etc.). … Ideologies also identify themselves by their position on the political spectrum (such as the left, the center or the right), though this is very often controversial. (more)
+But in fact, political ideologies seem more to be the beliefs that most consistently divide us:
+For the most part, congressional voting is uni-dimensional, with most of the variation in voting patterns explained by placement along the liberal-conservative first dimension. … since the 1970s, party delegations in Congress have become ideologically homogeneous and [more] distant from one another (a phenomenon known as “polarization.”) … [These] scores are also used by popular media outlets … as a measure of the political ideology of political institutions and elected officials or candidates. … [These] procedures … have also been applied to a number of other legislative bodies besides the United States Congress. These include the United Nations General Assembly, the European Parliament, National Assemblies in Latin America, and the French Fourth Republic. … Most of these analyses produce the finding that roll call voting is organized by only few dimensions (usually two): “These findings suggest that the need to form parliamentary majorities limits dimensionality.” (more)
+It is a remarkable fact that a single dimension so well summarizes political opinions, especially given the range of topics relevant to politics. This, however, is not plausibly explained by saying that we mainly disagree about one core key belief, such as how much redistribution is fair. It instead seems to reflect how political coalitions form – groups tend to form alliances more with closer groups, against more distant groups, until two main alliances form, divided by their one strongest division, whatever that might be.
+To the extent that the main political dimensions are associated with policies, they are mostly associated with lots of particular policies, instead of a few key principles. And this makes sense given that most voters seem incapable of comprehending and reliably applying most proposed political principles.
+But if there really were sensible pivotal principles, and if the relevant political population could understand and apply them, then it would make sense to focus our political arguments on them. By aggregating info on a few key principles, we would more efficiently aggregate info on lots of specific policies.
+So do sensible and pivotal political principles exist? To me, principles like maximize liberty or minimize inequality seem pivotal, but not very sensible. I’m more fond of the principle of economic efficiency, but it is pretty hard for ordinary voters to see what more specific policies this principle implies.
+To me, the most sensible pivotal principles are at the meta level — they are about how exactly we should aggregate info on the efficiency, and other consequences, of policies. For example, I think decision markets can go a long way toward giving us better info on the effects of policies. I also think we should do a lot more randomized policy experiments. And I support more and better cost benefit analyses, though it is admittedly hard for ordinary voters to evaluate their objectivity.
+Now these positions might be wrong, but whatever are the right answers, the question of how to best aggregate info on policy effects seems a pivotal core issue, with strong implications for many specific policies. Amid audiences that can understand them, these are the core issues about which we should argue. Info ideologies would be the best ideologies.
+
+
+title: Info Ideology
+
+date: October 11, 2012 8:30 am
+

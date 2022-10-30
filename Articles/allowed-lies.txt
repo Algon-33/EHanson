@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The law should be our servant, not our master; we can and should use law to get what we jointly want.  We now empower the legal system to punish folks for “fraud” in misrepresenting themselves in contracts, and for certain other sorts of lies known as “slander” and “libel.”  Which makes sense because we think such lies hurt us overall. But beyond these cases the legal system isn’t much empowered to punish lies.  Why?
+Now I’m well aware there are many areas in which it is not very clear what exactly is a lie; for such topics legal costs and error rates would just be too high to tolerate.  And there are also many other areas, such as in flattery, where we are well aware that most folks lie most of the time; apparently we like it that way.  But there are other areas where people seem to insist quite firmly that they do not want to hear lies, where the consequences of believing lies are substantial, where the costs to reliably determine if a lie happened could be low, and yet where lies are legal.
+For example, consider the case where a married man lies about whether he is married when trying to attract a single woman into a relationship.  Single women typically insist they do not want such lies, and it would be easy to determine if the man is in fact married.  So why do we not use the legal system to discourage such lies?
+The puzzle goes even deeper than current law, since we could voluntarily choose to bond ourselves to a private agency that would keep some deposited cash if we were ever caught in a lie.  Folks who bonded themselves in this way should be more believable, but almost no one does this.
+Perhaps if just a few folks bonded themselves they’d seem too weird, and perhaps public law is just too slow and stupid to find this opportunity to help us.  But I can’t help but suspect that quite a few folks just don’t think it is that bad if married men lie to seduce single women.
+What other easy-to-punish consequential lies do we tolerate, and why?
+
+
+title: Allowed Lies
+
+date: September 30, 2009 8:15 pm
+

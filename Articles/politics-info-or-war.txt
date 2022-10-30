@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+When elections are far, politics seems far, based more on high ideals. When elections are near, politics seems near, driven more by base desires.
+Politics is about two things:
+
+Finding ways to coordinate for our mutual advantage.
+Fighting over who gets more of what politics controls.
+
+Most of the time when we discuss government policy, and how much government we should have, policy wonks tend to emphasize #1, that we are just struggling in good faith to figure out what is best overall.  Folks who suggest otherwise are being rude and divisive, and interferring with our struggle to aggregate info into useful policy.
+But just before an election, the story changes to emphasize #2.  Just before an election, the story is that everyone needs to get out and vote, especially those on our side. If you point out that the election outcome would be better informed if those who knew less abstained from voting, you are accused of trying to trick folks into losing the fight.  Just before an election, politics becomes not collecting info to create mutual advantage, but war, a raw struggle between us and them (over resources, status, etc.).
+Of course people try to have it both ways, by saying they fight for their side’s view on what policies are best overall, for most everyone.  But it simply cannot be that on average voters make policy better overall by fighting for their side to win.  Sure your side this time might be an exception, but can’t you see that humans assume this way too easily.  Are you sure that isn’t you as well?
+Perhaps you agree folks are overconfident, but see it as an honest mistake, not a ruse to get more for their side.  If so, you think this bias just accidentally happens to help their side; their net biases could just as easily have helped the other side. I think not.
+
+
+title: Politics: Info or War?
+
+date: November 1, 2010 10:40 am
+

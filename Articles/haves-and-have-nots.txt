@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+I often ask my students to predict the social effects of particular new products or technologies. And a common error is that they expect every new thing to increase inequality. Their argument is that any new thing costs money, which rich people can better afford. So the rich must more gain advantage from each new product. A similar argument is given for a new kind of job – those better suited to that kind of job will do that job, and gain an advantage over people with other jobs, increasing the job induced inequality.
+An obvious flaw in this argument is that it works way too well – it applies to pretty much anything new. Yet the net effect of all the new things that we’ve ever seen has been at most a modest increase in inequality. Thus the average inequality produced by each new thing must be pretty small. Also, there have been eras when inequality has decreased – but how could that happen if each new innovation increases inequality?
+Students are often tempted to imagine an extreme division of society into haves and have-nots, like the Eloi and Morlocks of H.G.Well’s novel The Time Machine. The imagined groups are entirely distinct and separate, with little variation within each group. And of course these groups are in a moral struggle, to the death. This seems an obvious consequences of thinking about the future in a far mental mode – which leans one toward fewer categories with more uniform members, more moralizing, and less moral compromise.
+
+
+title: Haves And Have-Nots
+
+date: March 20, 2012 11:20 pm
+

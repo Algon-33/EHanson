@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Tyler Cowen praises Bryan Caplan’s new book The Myth of the Rational Voter, but bothers to "outline residual points of disagreement":
+
+I’m amazed that the public is as rational and smart as it is.  Few people demand that our leaders resort, say, to the tools of superstition, even though many people believe in astrology.  Our political irrationality is highly selective and self-serving in a "feel good about ourselves" way, rather than indiscriminate.  I don’t understand what, in Bryan’s theory, prevents voters from satiating in irrationality, with truly dire social consequences.  He writes of "a demand for irrationality" in stripped down Beckerian fashion, but the model in the back of his mind has a great more structure in it than the book lets on.  The sheep on the cover, for instance, do not play a formal role in the model of the book, even though conformism both eggs on and constrains real world political irrationality. 
+
+What makes Tyler so sure he is so rational?  Tyler is puzzled to see a high correlation between his own views and the supposedly irrational views of the public.  But Bryan’s theory is perfectly consistent with high correlations across people in their irrational political views; Bryan doesn’t predict such views are independent and irrational, just irrational.  Conditional on Bryan’s theory, Tyler does not have a good reason to assume that his own political views are a good proxy for rational views.  
+ Maybe the political world we live in is a world of truly dire social consequences, relative to the world we would have with rational voters.  
+
+
+title: Myth of the Rational Academic
+
+date: May 1, 2007 6:00 am
+

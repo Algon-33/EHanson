@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Foragers lived close, in groups of a few dozen.  They slept close, and hunted and gathered in groups. They knew each other very well.  So when one had a complaint against another, “law” was basically the rumor mill. The group would discuss the problem, taking everything they knew about the parties into account, form an informal consensus on what to do, and then do it. Punishments ranged from warnings to cold shoulders to exile to death.
+Farmers developed stronger social norms, and then created formal law to standardize those norms on larger social scales. But since we seem to be returning to foraging ways in many ways as we’ve become rich, it is interesting to consider adopting a more foraging style law.
+Imagine that whenever anyone had a complaint about another, we convened a jury of a dozen to study the issue full time for an entire year. (Forget about the cost of this for a moment, and just consider the kinds of decisions that would result.)  This jury would have a budget to hire experts of various sorts, could interview all the people involved, and browse ubiquitous surveillance videos. They would have complete discretion to offer any punishments or rewards they thought appropriate; any precedents or written rules would only be suggestions.
+Yes, you might want to discourage jurors taking bribes, favoring folks like themselves, or deviating too arbitrarily from precedent, but such complaints would be dealt with through exactly the same system – yet another jury would be convened to deal with each complaint. Same goes for complaints on excessive complaining.
+Now let’s deal with the costs. Given a complaint, let’s convene such a jury rarely and randomly, perhaps as one in a thousand times.  Before we “roll the dice” to see if a jury will be convened, let us have an open betting market on the jury’s decision. If we happen to convene a jury in this case, the bets will pay off, and punishments will be enacted, according to that decision. If we don’t convene a jury, the bets are called off and we’ll randomly select a punishment using the probability distribution given by the betting market odds.
+OK, now that we have the outlines of a workable system, the most interesting question is: would you want a legal system like this?  Even setting aside the issue that this might work especially badly for very specialized or technical complaints, I think most folks are rather uncomfortable with the idea.  Which just shows how deeply we have internalized certain key farmer values.
+
+
+title: Renew Forager Law?
+
+date: December 6, 2010 11:00 am
+

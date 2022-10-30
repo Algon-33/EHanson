@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+If a doctor declares that the normal progression of your condition gives you less than six months to live, you can opt for hospice, where they don’t even try to cure your condition, but just try to make your remaining days as comfortable and meaningful as possible.   According to this paper (ungated here) from the March Journal of Pain and Symptom Management, choosing a hospice makes you live longer.  
+
+ We studied the difference of survival periods of terminally ill patients between those using hospices and not using hospices. … We analyzed the survival of 4493 patients from a sample of 5% of the entire Medicare beneficiary population for 1998-2002 associated with six narrowly defined indicative markers. For the six patient populations combined, the mean survival was 29 days longer for hospice patients than for nonhospice patients. The mean survival period was also significantly longer for the hospice patients with CHF, lung cancer, pancreatic cancer, and marginally significant for colon cancer (P = 0.08).  Mean survival was not significantly different (statistically) for hospice vs. nonhospice patients with breast or prostate cancer. 
+
+ I’m not entirely happy with they way they did their analysis, but it is certainly intruiging.  Hat tip to my wife, who works in a hospice.  
+
+
+title: Hospice Beats Hospital
+
+date: November 2, 2007 6:00 am
+

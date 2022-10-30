@@ -1,0 +1,13 @@
+author: Anders Sandberg
+
+text: 
+In addition to all their other effects, biases can also contribute to obesity. Architectures of Control cite the story of how David Wallerstein discovered how unit bias could help sell more fast food. He observed how people were unwilling to buy two packages, but quite willing to buy a double-sized package. Hence the supersizing of everything.
+Geier, Ronzin & Doros demonstrated that people tends to regard a unit of some entity is the appropriate and optimal amount by measuring how much people consumed free Tootsie Rolls or pretzels when provided in different sizes, or M&M’s provided with differently sized spoons. This likely explains why people tend to eat more when served larger portions. The authors suggest that the unit bias in food might be social: people don’t want to seem to be gluttons. Another possibility they suggest is that there is a culture-norm interaction: we package things in appropriate sizes, we learn the appropriate amount by being exposed to standard packages. 
+A third possibility is of course an aversion to wasting, whether instilled by mother or evolution. I have a fourth neurocognitive possibility: we run on hierarchical motor programs and tend to switch behavior when one of them has concluded. So consuming a unit would presumably be a single iteration of one such program. We can certainly learn more elaborate programs like "take unit; consume until full; leave the rest", but that requires ongoing monitoring that may be cumbersome or easily distracted. I would expect unit bias to generalise outside food too. The researchers point out that double features are rare but long movies are not, and that people take one ride on an amusement park ride regardless of whether it is 1 or 5 minutes long. I would also expect unit bias to tend to round our thinking towards the nearest integer number of convenient units.
+Some months ago when I moved to the UK I made the deliberate decision to only buy Coca Cola in sixpacks rather than 1.5 l bottles. The result is that I consume much less, since I now only take a can instead of more or less continually refilling my glass. So clearly unit bias can be used to downregulate food intake too. It is just that there is no incentive for the food sellers to do it. Maybe one solution to obesity would be easier ways of dividing bought food into convenient smaller units? 
+
+
+title: Biases are Fattening
+
+date: June 29, 2007 5:35 pm
+

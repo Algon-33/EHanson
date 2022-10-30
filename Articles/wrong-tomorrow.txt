@@ -1,0 +1,11 @@
+author: Eliezer Yudkowsky
+
+text: 
+Wrong Tomorrow by Maciej Cegłowski is a very simple site for listing pundit predictions and tracking them [FAQ].  It doesn't come with prices and active betting… but a simple registry of this kind can scale much faster than a market, and right now we're in a situation where no one is bothering to track pundit predictions or report on pundit track records.  Predictions are produced as simple entertainment or as simple political theater, without the slightest fear of accountability.
+This site is missing some features, but it looks to me like a starting attempt at what's needed – a Wikipedia-like, user-contributed, low-barrier-to-entry database of all pundit predictions, past and present.
+
+
+title: Wrong Tomorrow
+
+date: April 2, 2009 4:18 am
+

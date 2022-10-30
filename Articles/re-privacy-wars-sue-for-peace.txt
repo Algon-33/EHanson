@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Imagine: your relative is a celebrity, currently the focus of a media scandal. You and other relatives are talking together, strategizing. Reporters are asking for interviews, and digging into your world, probably via both legal and illegal means. What should you do?
+Some of you say to fight, fight, fight. Threaten legal action, hire a security team, and threaten any relative who doesn’t hold a hard line with expulsion from the family. This is about moral absolutes, after all, and “extremism in defense of liberty is no vice.” Give ’em an inch and they’ll take a mile. So never ever compromise.
+Others of you suggest compromise. Hold a press conference and directly tell reporters many of the things they want to know. Enough to make them likely sufficiently satisfied to let up on their digging. It wouldn’t be an explicit deal, but they have limited resources and plenty of other things to do. And if they dig more, they may find new issues to focus on.
+This second group is usually right. Peace is usually better than war. Maybe in some cases reporters couldn’t be placated, and would still push into all your private niches. But usually not. This is the idea behind the proposal of my last post. Biometrics is getting cheaper and more reliable, our imperfectly-secure smart-phones know a great deal about us, and the people and organizations around us have strong reasons to want to know a few key things about us.
+So let’s compromise, I say. Find a way to set up a system to give those people and orgs around us the few key bits that are they most want to know, and that we don’t so much mind them knowing. And then maybe they won’t work so hard to extract this key info out of all the cues that we naturally leak. Key info that they likely could get anyway if they worked hard enough and coordinated, and as a side effect they may obtain and use other info that we might rather keep private.
+When conflicts gain a moral color, it can look bad to advocate compromise. But in general, war is bad, peace is good, and compromise can bring peace.
+
+
+title: Re Privacy Wars, Sue For Peace
+
+date: December 16, 2020 1:35 pm
+

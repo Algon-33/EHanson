@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+On the last two Sundays I gave examples where disagreement is justified, and where it is unjustified.  Today let me try to give a harder example where disagreement is not justified:
+
+Again we have Star Trek style transporter modified to preserve the original while creating an atom-by-atom copy with identical personality, memories, and cognitive styles.  But this time the information to create this copy was stored for twenty years, and you find yourself standing outside the transporter as your duplicate emerges.  
+You explain to your younger self that over the last twenty years you have reconsidered and rejected some of your most precious beliefs.   Following common aging trends, you are now more politically conservative and believe less in true love, your future fame, and the nobility of your profession.  Your younger duplicate suspects you are biased by self-interest and a need to explain your career failure, while you suspect he suffers youthful overconfidence.   How hard should you try to agree with him?
+
+I say you should try hard to satisfy the rationality constraint "we can’t forsee to disagree."  You started out with exactly his biases, and you both know you may have overcome some, and some may be worse.  He should on average defer to you more than you to he, as he accepts that your belief changes come partly from more information and analysis.  But when he hesitates to fully adopt your views, you should accept that he may have good reasons to do so.   You should random walk your way to common estimates about your relative biases.  
+
+
+title: Agree With Young Duplicate
+
+date: January 28, 2007 6:00 am
+

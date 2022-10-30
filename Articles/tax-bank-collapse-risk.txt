@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+A week ago I said:
+The main general approaches I know [to avoid total collapse] are refuges, to directly protect against the worst case, and the robustness rewards above, which counter-act known problems that distort our world economy toward fragility.
+I suggested fixing current biases in intellectual property, empire bias, crisis metrics, and missing standards.  Here is a finance regulation proposal in the same spirit:
+The Obama proposal for bank taxation has simple flat rates on uninsured bank liabilities. This is a better target than total liabilities since deposits were already insured, and the intervention bailed out wholesale funding.  But is such a flat tax designed to control risk creation? John Kay (2010) argues against it. Meanwhile Viral Acharya and Mathew Richardson (2010) argue that the bailouts have generated more moral hazard and suggest a fee discouraging all activity that creates systemic risk – not just leverage – and moreover that banks should be paying more in the good times when risk taking is more attractive.
+In recent research, Javier Suarez and I (2009a, b) suggested a more subtle policy than President Obama’s – a Pigouvian tax based on banks’ individual contribution to systemic-risk creation, measured by their exposure to uninsured short-term funding. As in the Obama tax, this approach exempts insured deposits and targets the risk of sudden withdrawals of wholesale funding, which was the engine of the last crisis. Critically, our tax is sharper for shorter-term funding and decreases to zero for medium-term liabilities that do bear risk. In other words, it targets the externality caused by funding fragility and offers strong incentive effects in good times.
+I’m not a banking or macro expert, and there is clearly a danger of fighting the last war here, but at least this seems focused on the right sort of problem.  HT Rob Wiblin.
+
+
+title: Tax Bank Collapse Risk?
+
+date: February 8, 2010 8:50 am
+

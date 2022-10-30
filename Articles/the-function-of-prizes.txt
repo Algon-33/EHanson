@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+My aunt’s husband, Field Medal winner Atle Selberg, died a few weeks ago.  The Washington Post: 
+
+The Fields Medal was awarded to Dr. Selberg for his work on proving a challenging theory about the distribution of prime numbers. For years, mathematicians had believed that it could be proved only by the laborious application of ponderous techniques. In 1949, Dr. Selberg and another celebrated mathematician, Paul Erdos, achieved a proof through techniques of startling simplicity.  Each, it was reported, was to report on his own contribution in the same issue of the same mathematics journal. Because of what has been described as a misunderstanding that led to hurt feelings, Dr. Selberg published first.  His Fields Medal, recognizing him for a variety of accomplishments, followed. 
+
+The usual story about such independent discoveries is that they both deserve recognition.  And this makes sense if the point of such prizes is to identify and validate genius.  But if we awarded prizes instead to create incentives for discovery, we should reward neither discoverer.  After all, the marginal contribution to progress of each simultaneous independent discovery is near zero – without that discovery progress would have been nearly the same, since the other sources were available.   
+ Yes, independent replications can aid progress in experiments and data analysis.  But much less so for math, and few think later replications deserve anywhere near the same reward – so why should simultaneous replications get more?  Yes, rewarding both might reduce their risk in seeking the reward, but we already accept an awful lot of risk in such situations.  The slight additional risk from rewarding only substantial marginal contributions would create important incentives for researchers to coordinate on their research topics.  
+Independent simultaneous discovery is a waste, not a triumph.  The fact that we seem to feel otherwise is to me further evidence that academia’s main local function is to validate impressive people.  Relative to the main goals of most participants, research progress is only a side effect.  
+
+
+title: The Function of Prizes
+
+date: August 28, 2007 6:00 am
+

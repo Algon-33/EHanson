@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+I teach Health Economics starting today, and every year I start with data assuring students that learning data will not change their health policy opinions.  Regarding health economics: 
+
+In a survey of 50 leading health economists, Fuchs (1996) found considerable disagreement regarding major issues of health policy.  The extent of disagreement was particularly striking when compared with the high level of agreement among the same economists about the determinants of health and the determinants of health expenditures.   Furthermore, the small disagreement that did exist regarding the positive questions seemed to play no role in explaining policy differences.  ….
+
+ Regarding labor and public economics, Fuchs, Krueger, and Poterba (1997) found 
+
+Only one of the 13 [policy] proposals (a 25 cent per gallon increase in the gasoline tax) elicited a strong consensus either in favor or in opposition.  … Economists, like experts in many fields, reveal considerable "overconfidence" in their estimates of the economic parameters.  For most questions, a large portion [typically 30-40%] of the individual [95%] confidence intervals do not include the average best estimate, or even include the value that is covered by the largest number of confidence intervals. … respondents whose best estimates are farther from the median tend to give wider confidence intervals for those estimates.
+
+Fuchs et. al. estimated economists’ policy opinions from their opinions on factual economic parameters, their values, and their political party.  Political party was never (10%) significant.  For 65 labor economists, values were always (3%) significant, but parameters were (10%) significant only on eliminating affirmative action.   For 69 public economists’ opinions on five topics, values were always (2%) significant, and parameters were never (30%) significant.  On expanding IRAs both parameters and values were (3%) significant, on state education financing only parameters were (1%) significant, and on mandatory savings accounts neither were (10%) significant.   (The other topics were increase AFDC benefits, increase gasoline tax, adopt VAT, eliminate OASI Cap, increase minimum wage, eliminate job training, and increase unionization.) 
+While most economists think that the facts they spend years studying influence their policy positions, most policy opinions are apparently determined almost entirely by values.  Since it is obvious that facts are very relevant, this all makes me ashamed to be … human.  
+Added:  Bryan Caplan suggests that learning facts may change our values, thereby making our policy opinions fact-dependent.   This seems a slim hope to me, but I hope we can check it with data on how opinions change with time.  
+
+
+title: On Policy, Fact Experts Ignore Facts
+
+date: January 25, 2007 6:00 am
+

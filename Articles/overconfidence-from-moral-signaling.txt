@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Tyler Cowen in Stubborn Attachments:
+The real issue is that we don’t know whether our actions today will in fact give rise to a better future, even when it appears that they will. If you ponder these time travel conundrums enough, you’ll realize that the effects of our current actions are very hard to predict,
+While I think we often have good ways to guess which action is more likely to produce better outcomes, I agree with Tyler than we face great uncertainty. Once our actions get mixed up with a big complex world, it becomes quite likely that, no matter what we choose, in fact things would have turned out better had we made a different choice.
+But for actions that take on a moral flavor, most people are reluctant to admit this:
+
+What probability do you assign to this conditional claim: the US would have been better off overall if the South had won the US civil war?
+— Robin Hanson (@robinhanson) December 8, 2018
+
+If you knew enough history you’d see >10% as the only reasonable answer, for most any big historical counterfactual. But giving that answer to the above risks making you seem pro-South or pro-slavery. So most people express far more confidence. In fact, more than half give the max possible confidence!
+I initially asked a similar question on if the world would have been better off overall if Nazis had won WWII, and for the first day I got very similar answers to the above. But I made the above survey on the South for one day, while I gave two days for the Nazi survey. And in its second day my Nazi survey was retweeted ~100 times, apparently attracting many actual pro-Nazis:
+
+What probability do you assign to this conditional claim: the world would have been better off overall if Nazis had won WWII?
+— Robin Hanson (@robinhanson) December 8, 2018
+
+Yes, in principle the survey could have attracted wise historians, but the text replies to my tweet don’t support that theory. My tweet survey also attracted many people who denounced me in rude and crude ways as personally racist and pro-Nazi for even asking this question. And suggested I be fired. Sigh.
+Added 13Dec: Many call my question ambiguous. Let’s use x to denote how well the world turns out. There is x0, how well the world actually turned out, and x|A, how well the world have turned out given some counterfactual assumption A. Given this terminology, I’m asking for P(x>x0|A).  You may feel sure you know x0, but you should not feel sure about  x|A; for that you should have a probability distribution.
+
+
+title: Overconfidence From Moral Signaling
+
+date: December 9, 2018 4:25 pm
+

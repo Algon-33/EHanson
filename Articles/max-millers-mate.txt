@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Geoffrey Miller’s book The Mating Mind was very influential on me, and so I spent several posts on his book Spent. He has a new book out, coauthored with Tucker Max, called Mate: become the man women want. It is a how-to book, on how men can attract women.
+The book’s voice is less academic and more like a drill sergeant — stern older men giving harsh but needed instructions to younger men. They don’t mind using some crude language, and they don’t argue much for their claims, expecting readers to accept what they say on authority. Fortunately, most of what they say seems to be pretty well-grounded in the literature.
+The world view they present has mating quite thoroughly infused with signaling. Pretty much everything you do with actual or potential mates is used as a reliable signal of your hidden features. Makes me wonder in what other self-help books it would be okay to present as strong a signaling view. Perhaps there are career advice books that infuse signaling as throughly into their view of the work world. But I expect people wouldn’t tolerate advice books on school, religion, arts, and charity that are this signaling heavy. Even if the advice was solid.
+Though heavy on signaling, Max & Miller don’t consider self-deception. They talk simply about men just looking inside themselves to see what they want, and tell men to take what women seem to want at face value. But perhaps talking about self-deception to their target audience (young men who feel they are failing at mating) would just confuse more than help.
+At several points Max & Miller warn their readers that women never evolved general ways to see and appreciate things like wealth and intelligence; women instead evolved to appreciate more specific signals like nice clothes and wit. So don’t go trying to show off your IQ score or bank balance.
+They don’t advise women to fix this oversight, but instead advise men to fix how they show off. I suspect the idea is that humans are just more general and flexible on how to achieve their goals than on what exactly are their goals. And I suspect this is right. While one can imagine a creature that just wants “whatever helps me have many descendants”, humans are just not those creatures.
+Two suggestive implication follow from this fact. First, if descendants of humans are ever blocked in their growth or expansion into the universe due to their failing to be sufficiently flexible or general, that failing will more likely come from their preferences, rather than their engineering or science. Second, as human incomes fall toward subsistence, our primary preferences for survival trump others, inducing effectively more general and flexible preferences. So subsistence income descendants have a better chance of avoiding generality failures.
+
+
+title: Max & Miller’s Mate
+
+date: September 28, 2015 3:05 pm
+

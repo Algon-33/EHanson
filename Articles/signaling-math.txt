@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+It has been two years since I posted a summary of how signaling works; recent discussions suggest maybe I should try again.  Be warned; this time I'll use more math.
+ Consider authors who must choose a level of emotion e for their writing, given their propaganda factor p, which says how much they care about persuading readers, relative to informing readers.  Assume that authors prefer to be perceived by readers has having low propaganda p, and that everyone knows that m is the maximum possible value of p.   
+Assume authors maximize a utility,
+U(e;p) = -0.5(e-p)2 – E[p|e] ,
+where E[p|e] is the reader estimate of author propaganda p, after having observed author emotion e.  The first term says emotion is more useful for propaganda authors, but the second term says using more emotion may tip off readers to such author intentions.
+ If readers already knew author propaganda p, signaling would not be an issue, and authors would just choose e = p.   However, if readers do not fully know author propaganda factor p, then if readers always make exactly the rational inference from observing emotion levels e, and if authors always exactly maximize their utility given this reader behavior (and if we use standard game theory refinements), then the equilibrium satisfies
+ p = e + 1 – exp(e-m) .
+The worst possible author with p = m chooses e = p, just as if signaling were not an issue.  But all other authors choose e < p, asymptotically approaching e = p – 1.  The choice of emotion e fully reveals propaganda p, and everyone but the worst possible type p = m uses less emotion than they would if signaling were not an issue.
+So when I suggest that the reason engineers, lawyers, accountants, and academics try to avoid emotion is that they want to be believed by skeptical readers, it is not enough to argue that someone concerned only with imparting as much info as possible to trusting readers would use lots more emotion than such authors do.  The whole point is that reader trust cannot be assumed.
+(Note the equilibrium above applies for any info readers have about author propoganda p, as long as their posterior given that info has support up to m.)
+
+
+title: Signaling Math
+
+date: February 11, 2009 10:00 pm
+

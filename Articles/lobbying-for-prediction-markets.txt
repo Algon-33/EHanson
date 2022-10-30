@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Today I first appear in Science as an author (last time I was news), though I have eighteen coauthors.  It is a Prediction Markets "Policy Forum" (ungated here):  
+
+Prediction market prices can be used to increase the accuracy of poll-based forecasts of election outcomes, official corporate experts’ forecasts of printer sales, and statistical weather forecasts used by the National Weather Service. 
+ Several researchers emphasize the potential of prediction markets to improve decisions. The range of applications is virtually limitless – from helping businesses make better investment decisions to helping governments make better fiscal and monetary policy decisions. 
+ Prediction markets have been used by decision-makers in the U.S. Department of Defense, the health care industry, and multibillion-dollar corporations such as Eli Lilly, General Electric, Google, France Telecom, Hewlett-Packard, IBM, Intel, Microsoft, Siemens, and Yahoo. The prices in these markets reflect employees’ expectations about the likelihood of a homeland security threat, the nationwide extent of a flu outbreak, the success of a new drug treatment, the sales revenue from an existing product, the timing of a new product launch, and the quality of a recently introduced software program. 
+ These markets could assist private firms and public institutions in managing economic risks, such as declines in consumer demand, and social risks, such as flu outbreaks and environmental disasters, more efficiently.
+ Unfortunately, however, current federal and state laws limiting gambling create significant barriers to the establishment of vibrant, liquid prediction markets in the United States. We believe that regulators should lower these barriers by creating a legal safe harbor for specified types of small stakes markets, stimulating innovation in both their design and their use.
+
+Coincidentally, on May 1 the CFTC asked for public commentary on regulating prediction markets – comments due July 7. 
+Should-not-be-needed disclaimer:  Such an endorsement says only that I estimate this change to improve on the status quo.   
+
+
+title: Lobbying for Prediction Markets
+
+date: May 16, 2008 6:00 am
+

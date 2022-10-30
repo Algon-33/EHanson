@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+With car insurance, you typically first get a neutral expert diagnosis of the damage to your car.  Second, you get a check based the estimated cost of a recommended treatment to fix that damage.  Finally, you can spend that money as you like; you don’t have to do as much as suggested, or anything, if you feel so inclined.
+Medical insurance is usually different.  You still get an expert diagnosis, and a recommended treatment.  And in Medicare, the resulting cash paid depends only on the diagnosis.  But the expert who makes these choices is less neutral – if you the patient approve, it is he or she who is paid to do what they recommend.  And if you decline their treatment, or opt for something less expensive, you don’t get the difference in cash.  This greatly reduces your incentive to seek the most cost effective treatment, or to skip treatment if none are cost effective.
+Could we do medical insurance more like car insurance?  Well one obvious problem is that medical diagnoses are sometimes based primarily on a patient’s complaint, and it won’t do to give someone cash just because they complained.  But we don’t have to allow the cash option in all cases; we could limit it to cases were the diagnosis was based primarily on independent clinical evidence.  We could also disallow the cash option when an untreated patient would be contagious, or in emergency situations without enough time for a data, diagnosis, cash, choice cycle.
+There is also the issue that how you treat one condition may influence what other conditions appear later.  This is a reason to be careful in defining the scope of conditions, and also perhaps to only offer a discounted cash option (say 80% of the suggested treatment price).
+Even with these limits, it seems to me most folks dislike this idea.  I think this is why such med insurance isn’t offered.  Why?  Some possibilities:
+
+By explicitly distinguishing cases where no clinical evidence confirms patient complaints, we’d embarrass and insult such “asymptomatic” patients.
+We frame medical insurance as a gift, and it is rude to encourage people to exchange their gifts for cash.
+We think of medical insurance as a way to force people to get more medicine than they’d choose for themselves.
+Doctors are our authorities, and so we look bad if we disrespect them by not following their advice.
+Health is noble, money ignoble; it is immoral to make folks choose between them.
+
+
+
+title: Med Like Car Insure?
+
+date: April 23, 2010 5:00 am
+

@@ -1,0 +1,15 @@
+author: Andrew
+
+text: 
+I’m working on a project involving the evaluation of social service innovations, and the other day one of my colleagues remarked that in many cases, we really know what works, the issue is getting it done.  This reminded me of a fascinating article by Atul Gawande on the use of checklists for medical treatments, which in turn made me think about two different paradigms for improving a system, whether it be health, education, services, or whatever.
+The first paradigm–the one we’re taught in statistics classes–is of progress via “interventions” or “treatments.”  The story is that people come up with ideas (perhaps from fundamental science, as we non-biologists imagine is happening in medical research, or maybe from exploratory analysis of existing data, or maybe just from somebody’s brilliant insight), and then these get studied (possibly through randomized clinical trials, but that’s not really my point here; my real focus is on the concept of the discrete “intervention”), and then some ideas are revealed to be successful and some are not (with allowances taken for multiple testing or hierarchical structure in the studies), and the successful ideas get dispersed and used widely.  There’s then a secondary phase in which interventions can get tested and modified in the wild.
+The second paradigm, alluded to by my colleague above, is that of the checklist.  Here the story is that everyone knows what works, but for logistical or other reasons, not all these things always get done.  Improvement occurs when people are required (or encouraged or bribed or whatever) to do the 10 or 12 things that, together, are known to improve effectiveness.  This “checklist” paradigm seems much different than the “intervention” approach that is standard in statistics and econometrics.
+The two paradigms are not mutually exclusive.  For example, the items on a checklist might have had their effectiveness individually demonstrated via earlier clinical trials–in fact, maybe that’s what got them on the checklist in the first place.  Conversely, the procedure of “following a checklist” can itself be seen as an intervention and be evaluated as such.
+And there are other paradigms out there, such as the self-experimentation paradigm (in which the generation and testing of new ideas go together) and the “marketplace of ideas” paradigm (in which more efficient systems are believed to evolve and survive through competitive pressures).
+I just think it’s interesting that the intervention paradigm, which is so central to our thinking in statistics and econometrics (not to mention NIH funding), is not the only way to think about process improvement.  A point that is obvious to nonstatisticians, perhaps.
+
+
+title: The intervention and the checklist:  two paradigms for improvement
+
+date: February 19, 2009 2:45 pm
+

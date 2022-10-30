@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+We know truth-seekers should not knowingly disagree about facts.  Many are eager to justify their disagreements, however, by noting that values infuse most common disputed topics, such as politics, morality, music, and so on.  And yes, there may be nothing irrational about you preferring chocolate while another prefers strawberry.  But while it may not be problematic to have differing opinions on values, it is problematic to argue about opinions due to values.  
+ In arguments, people commonly offer reasons, such as evidence, analysis, and compelling examples, to support their opinions.  Furthermore, people think these reasons should have a good chance to be persuasive, to induce reasonable listeners to change their mind in the suggested direction.  We are often surprised and indignant to see others unpersuaded by what we consider strong arguments.  But if it were just a matter of each person having different values, why should arguments change our minds?  
+ If when you argue, you try to show people the bad consequences of the policies they endorse, then your dispute is on facts of those consequences.  If you try to show people that their values are at odds with other commonly accepted values, then your dispute is on facts of which values are at odds, or facts of whether these people embrace those other values.  More generally, if you think others are mistaken on their values, and that your reasons should help them see their true values, then your dispute is on facts of what are their actual values. 
+  
+ For the purposes of disagreement theory, a "fact" is any claim about which of many possibilities (even "impossible" possibilities) is the correct possibility.  And arguments provide info on possibilities, i.e., on facts.  For example, the info most directly embodied in any argument you make is the fact that you actually made that argument.  This fact may also convince listeners to believe the facts that are the "content" of your argument, such as that certain observations have been made, or that certain claims are inconsistent with certain other claims.  
+All standard results about the irrationality of disagreement on facts apply to disagreements on any of these value meta-facts mentioned so far.  We expect truth-seekers to be unable to foresee how they disagree about any fact, and so our ability to foresee disagreements on value meta-facts, and our frustration at others’ resistance to what we consider persuasive arguments, are clear signs that most if not all of us are not only truth-seekers.  
+ In sum, it can make sense to have differing opinions due on differing values, but not to have arguments on differing values similar to our arguments on ordinary facts.   Such arguments indicate disagreement about facts, not just values.  
+
+
+title: Why Argue Values?
+
+date: July 2, 2008 6:00 am
+

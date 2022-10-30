@@ -1,0 +1,38 @@
+author: Robin Hanson
+
+text: 
+Out today, Sean Carroll’s new book, From Eternity to Here, is excellent.  After reading a draft in March, I wrote:
+We are far from understanding thermodynamics. … The distributions we would usually use to successfully predict [physical system] futures are completely, totally, and almost maximally WRONG for predicting their pasts!  …  Worse, this “past hypothesis” is ambiguous in several ways … Only a tiny handful of physicists (and philosophers) are trying to explain this past hypothesis; … no one is even remotely close.
+Here is Carroll’s proposed solution scenario:
+
+Physics is always exactly locally time-reversible.
+Each small region of space has bounded entropy, yet an infinite state space.
+So entropy has no upper bound, so systems are never in full equilibrium.
+Our local universe is expanding with a weak dark energy.
+Our distant future is a forever expanding emptiness at 10-29K.
+Very rarely, local fluctuations there build brains like ours.
+Far more rarely, local fluctuations pop a tiny new universe.
+Tiny new universes are very curved and thus very dense.
+Dense regions generically expand to get less dense.
+In some dense expanding regions, a dark energy starts eternal inflation.
+Inflation makes flat uniform local universes with scale-less fluctuations.
+Local universes sit in different local minima with different local physics.
+In some, scale-less fluctuations make galaxies etc. and brains like ours.
+Those local universes also get empty, then rarely pop tiny new universes.
+On average each tiny new universe gives rise later to several more.
+So there are an infinite number of local universes.
+A region in our past pops tiny universes in both time directions.
+There are overall far more brains like ours than fluctuation brains.
+
+Many of these are far-from-proven conjectures, but still it does all hold together. Locally infinite state spaces (#2), might appear to conflict with the holographic principle:
+There is a maximum amount of entropy you can possibly fit into a region of some fixed size, which is achieved by a black hole of that size.
+But it doesn’t conflict; region size is neither constant nor bounded.  Even so, it is very hard to over-emphasize just how far one must project current physics beyond the accuracy with which we have verified it to talk about tiny new universes popping out of quantum fluctuations in empty space at 10-29K.  It will be truly incredible if we get that right.
+On style, I’m again struck by how different is the public’s preferred style for popular physics vs. economics books.  Popular physics books, like Carroll’s, act easy and friendly, but still lecture from on high, sprinkled with reverent stories on the “human side” of the physics Gods who walk among us.  They grasp for analogies to let mortals glimpse a shadow of the glory only physicists can see directly.
+The recent popular econ book Superfreakanomics is also excellent, but very different in tone.  Also easy and friendly, this is full of concrete stories about particular data patterns and what lessons you might draw from them, or you might not; hey it is always up to you the reader to judge.  Such books avoid asking readers to believe anything abstract or counter-intuitive based on the author’s authority.
+The main difference, I think, is that readers don’t fundamentally care about physics, so can’t get worked up disagreeing with physics authors.  They read to affiliate with great men, and to lord their greater knowledge over lessor associates.  In contrast, people actually care about many economics topics, and our democratic culture, where everyone’s political opinions are officially equally valued, simply can’t accept opaque expertise on such things.
+
+
+title: From Eternity To Here
+
+date: January 7, 2010 11:35 pm
+

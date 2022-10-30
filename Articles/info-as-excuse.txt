@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+When we try to justify our actions, we prefer to do so by citing a common general good that results from our actions. But of course we often have other stronger motives for our actions, motives that we are less eager to highlight.
+One big category of examples here are info justifications. When we endorse a policy, we often point out how it may tend to encourage info to be generated, spread, or aggregated. After all, who could be against more info? But the details of the policies we endorse often belie that appearance, as we pick details that reduce and discourage info. Because we have other agendas.
+For example:
+
+We say free speech is to elicit more better info, but for that it should instead be free hearing.
+We say meetings are to gain info, but they are more to show who controls, who allied with whom.
+We say we hire college grads because of all they’ve learned, but they don’t learn much there.
+We say court proceedings are to get info to decide guilt, but then rules of evidence cut out info.
+We say managers are to collect info to make key decisions, but they are more motivators and politicians.
+We say diverse groups are good as they get diverse info, but most kinds don’t, they just make distance.
+We say voting is to get info on better policies, but the better informed don’t get more votes.
+We say voting is to get info on better policies, but we don’t use random juries of voters, who would get more info.
+We say we travel to learn, but we can usually learn lots cheaper at home.
+We say we read news to gain useful info, but very little of it has much use to us.
+
+Have more good examples?
+
+
+title: Info As Excuse
+
+date: May 8, 2014 3:00 pm
+

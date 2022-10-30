@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Dan Klein harps on a too-rarely-asked question:
+
+ Counterparts to the FDA function in other countries. The FDA could adopt a standing policy that drugs permitted in Europe, Canada, Japan, Australia, etc. automatically become permitted in the US. Why doesn’t the FDA adopt such a policy? Is it because a drug that is safe and effective in Australia, Canada, or France may not be safe and effective in the United States? 
+
+ Alex Tabarrok, in the office next door, says he often harps on this and has never heard a reasonable counter-argument.  I’m especially fascinated by situations like this, where a devastating argument against a status quo policy is met by complete silence and disinterest.  Why don’t intellectuals feel any need to respond to such arguments?  How can we make such silences more audible to more people?
+ Kids often analogously complain  "But Billy’s parents let him do X."  And they should add, "What makes you think you know better than Billy’s parents?"  Are we similarly just overconfident in the judgment of "our" regulators?  
+ Alex also harps on another tough question: 
+
+What can we learn about the need for efficacy requirements from the pervasive experience of off-label medicine, which has no FDA efficacy certification? The thrust of Tabarrok’s argument is that off-label seems to work quite well and so why not drop efficacy requirements entirely? 
+
+ Alex tells me the two best counter arguments are that off-label uses are often similar to on-label uses, and that drug firms have low incentives to run tests near the end of a drug’s patent lifetime.  But then why not approve only similar on-label uses and approve all uses of unpatentable drugs (that have passed safety tests)?  
+
+
+title: Deafening Silence
+
+date: September 16, 2008 6:00 am
+

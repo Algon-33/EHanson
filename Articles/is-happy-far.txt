@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Yesterday I suggested that blue–is-far might explain the cross-cultural association of blue with these concepts: cold, rational, art, gods, freedom, loyalty.  However, blue is also associated with unhappy and trouble.  So I sought more data on near-far and happiness.  I found:
+Happier people tend to think about themselves with higher level of abstraction than less happy people, even after controlling for the overall valence and internality of their construals. … People randomly assigned to think about themselves in abstract rather than concrete terms reported greater pre- to post-manipulation increases in reports of life satisfaction. (more)
+Five experiments indicated that a positive (vs. negative) mood increases abstract (concrete) construal. … Participants in a positive (vs.negative) mood came up with more abstract descriptions of activities, indicated that abstract goals were more important, … The effect of mood on construal results in increased adoption of whatever abstract goal is accessible and … the effects are mediated by construal level. (more)
+Experiential purchases – those made with the primary intention of acquiring a life experience – made them happier than material purchases. In a follow-up laboratory experiment, participants experienced more positive feelings after pondering an experiential purchase than after pondering a material purchase. In another experiment, participants were more likely to anticipate that experiences would make them happier than material possessions after adopting a temporally distant, versus a temporally proximate, perspective. (more)
+So it seems being happy makes you think far, and thinking far makes you happy, and better able to see what makes you happy.  This conflicts with blue’s concept associations with unhappiness, and weakens support for blue-is-far.  Color me confused.
+
+
+title: Is Happy Far?
+
+date: May 3, 2010 8:00 pm
+

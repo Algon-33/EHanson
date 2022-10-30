@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+A few curious folks took 250 science fiction stories across thirteen decades and looked at whether the stories were set <50 , 50 to 500, or >500 years in the future. The long term trend is that fewer stories are set in the more distant future:
+
+(Given the small dataset, I wouldn’t take decade to decade fluctuations seriously.)
+Some of this effect is probably our expecting faster rates of change, and so any given amount of strangeness is expected to arrive sooner. But I’d guess most of this effect is that we are just less interested in the distant future.
+Early in the industrial revolution people were very aware of there being in a great transition, from farming to industry, and they were curious about where it all might lead. Now that we are well into the industrial era, we have a better sense for what industry is like, and are less concerned about there maybe being a new post-industrial era.
+Added 1p: I did a regression of their fraction of >500 year stories vs. time, and the relation is 2% significant for both linear and log versions of the fraction. There is enough data here to see this effect. Also, both the linear and log versions of the <50 year fraction are 5% significant.
+
+
+title: Closer Horizons
+
+date: May 19, 2012 12:15 am
+

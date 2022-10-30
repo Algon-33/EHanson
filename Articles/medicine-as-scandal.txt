@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+To me, the RAND Experiment seems clear evidence that medicine is a huge scandal.  Readers of the medical literature, as well as readers of medical media coverage and students in health and medicine, have all been given the strong impression that in the aggregate, more medicine produces more health.  This was the impression thirty years ago as much as today.
+ Yet our single clearest data point, the RAND experiment, confirms the typical result of aggregate correlation studies: we see no such relation.  Thus the medical research literature must suffer from severe biases, such as fraud, funding bias, treatment selection bias, publication selection bias, leaky placebo effects, misapplied statistics, and so on.  How else can we square the usual positive benefit found in medical publications with a net zero benefit?  Furthermore, what else but education and media biases can explain why this experiment, very expensive, well published, and the most important medical study ever, remains mostly unknown to medical students, professionals and the public?  
+ Further evidence of bias is found in the shameful way many try to claim the RAND experiment shows that medicine helps, via noting "significant" results, using statistical tests that do not correct for the data mining required to find those results.   For example, if you look at thirty outcomes, and are willing to break subjects down by both poor/rich and good/bad initial health, you should on average see six results "significant" at the 5% level, even if there were no effects.  
+ Tomorrow, I will post a petition to redo the RAND experiment today, and comments there will be devoted to letting people to sign that petition. 
+Added: The book Fiefdom Syndrome gives an example of a sales manager whose regular presentations to his manager usually focused on how sales were up for particular customers groups on particular products, and who didn’t want to talk about why total sales continued to fall.  This sales manager might complain "I keep telling you all this good news; why do you focus on that one piece of bad news?"  Similarly, studies of the aggregate effects of medicine are not just one more kind of medical study; they are a crucial check on biases in all the other studies.     
+
+
+title: Medicine As Scandal
+
+date: May 13, 2007 6:00 am
+

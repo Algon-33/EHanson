@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Sandberg and Bostrom of Oxford’s Future of Humanity Institute have just released a 130 technical report, "Whole Brain Emulation Roadmap":
+
+Whole brain emulation (WBE), the possible future one‐to‐one modelling of the function of the human brain, is academically interesting and important for several reasons: … The economic impact of copyable brains could be immense, and could have profound societal consequences. Even low probability events of such magnitude merit investigation. …   
+In order to develop ideas about the feasibility of WBE, ground technology foresight and stimulate interdisciplinary exchange, the Future of Humanity Institute hosted a workshop on May 26 and 27, 2007, in Oxford. Invited experts from areas such as computational neuroscience, brain‐scanning technology, computing, and neurobiology presented their findings and discussed the possibilities, problems and milestones that would have to be reached before WBE becomes feasible. … 
+This document combines an earlier whitepaper that was circulated among workshop participants, and additions suggested by those participants before, during and after the workshop. It aims at providing a preliminary roadmap for WBE, sketching out key technologies that would need to be developed or refined, and identifying key problems or uncertainties.
+
+This report is a major milestone, a detailed summary of the state of the art on what I think is the most likely route to artificial intelligence, and the most likely cause of the next singularity.  
+
+
+title: FHI Emulation Roadmap Out
+
+date: October 31, 2008 10:00 am
+

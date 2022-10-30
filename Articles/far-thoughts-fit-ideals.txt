@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+Back in January, a Journal of Personality and Social Psychology article found: 
+Values are more likely to be expressed through value-congruent judgments and behaviors when individuals think abstractly about their actions, and not when they think concretely.
+This wording sounds strange to an economist; to us someone's "values" are just whatever preferences explain his behavior.  The behavior of folks thinking in near (concrete) mode is just as explainable as for those thinking in far (abstract) mode – it is just explainable via different preferences.
+However, by "values" these psychologists actually mean what I'll call "ideals" – abstract, as opposed to concrete, goals that we verbally, and usually proudly, embrace.  They include: 
+individualistic goals (e.g., “For unique individuals like you”). … collectivistic goals (e.g., “For spending quality time with friends and family”) …  universalism (i.e., understanding, appreciation, tolerance, and protection for the welfare of all people and of nature) and self-direction values (i.e., independent thought and action choosing, creating, and exploring) 
+  
+For example, the study checked if folks primed to think abstractly would say they were more willing to go out of their way to recycle a cell phone battery.  In contrast, 
+Examples of the concrete goals are “Make the best deal” or “Buy something he knows about.”
+Also: checking that a product is affordable or available.   
+Now the experiments actually had three treatments:  abstract priming, concrete priming, and no priming.  The fact that no priming gave the same results as concrete priming shows that near/concrete thinking is our usual mode.  And I have suggested before that we tend to use near thinking to make decisions when personal consequences of those decisions matter more, while using far thinking when social images projected by those decisions matters more.  
+So the bottom line here is that we tend more to say we will act in accord with our verbally expressed and proudly embraced abstract ideals, e.g., individualism, collectivism, universalism, environmentalism, when we are put into the mental mode that was designed more for talking relative to doing – the far mode.  In contrast, when we are in our usual near mode, designed more for doing than for talking, we tend to ignore those abstract ideals, focusing more on practically achieving our usual ends.   Other studies have found similar results:
+Verplanken and Holland (2002) found that control participants who were not primed with environmental values neither made value-congruent product choices nor searched for value-congruent information. Darley and Batson (1973) also found a lack of correlation between values and helping behavior among theological seminary students who were on their way to give a talk. Sagiv and Schwartz (1995) found no support for the hypothesized correlation between the endorsement of collective values and the readiness of members of minority groups for contact with members of a majority group. Finally, in about one fourth of Feather’s (1995) scenarios involving hypothetical choices in a variety of common situations, values did not predict the corresponding behavioral intentions.
+The key question, I think, is the same as yesterday's:
+In what sense, if any, are folks who act this way mistaken about what they want?
+My next post will try to address this question.
+
+
+title: Far Thoughts Fit Ideals
+
+date: May 2, 2009 10:00 am
+

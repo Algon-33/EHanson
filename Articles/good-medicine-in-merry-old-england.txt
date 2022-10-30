@@ -1,0 +1,15 @@
+author: David J. Balan
+
+text: 
+Here’s the abstract of an article by Martin, Rice, & Smith in the current issue of the Journal of Health Economics (generally regarded as the top journal in the field):
+
+Empirical evidence has hitherto been inconclusive about the strength of the link between health care spending and health outcomes. This paper uses programme budgeting data prepared by 295 English Primary Care Trusts to model the link for two specific programmes of care: cancer and circulatory diseases. A theoretical model is developed in which decision-makers must allocate a fixed budget across programmes of care so as to maximize social welfare, in the light of a health production function for each programme. This yields an expenditure equation and a health outcomes equation for each programme. These are estimated for the two programmes of care using instrumental variables methods. All the equations prove to be well specified. They suggest that the cost of a life year saved in cancer is about £13,100, and in circulation about £8000. These results challenge the widely held view that health care has little marginal impact on health. From a policy perspective, they can help set priorities by informing resource allocation across programmes of care. They can also help health technology agencies decide whether their cost-effectiveness thresholds for accepting new technologies are set at the right level.
+
+One shouldn’t overstate the importance of this; it’s only one study and it only deals with two medical conditions.  And of course the study was done on English data, not U.S. data.  We all know that there is evidence that the marginal unit of U.S. medicine has little or no health benefit, so this would be a noteworthy result if the study were done on U.S. data.  I don’t know how noteworthy it is for English data.  Does anybody know if there is any RAND study type evidence about the effectiveness of the marginal unit of medicine in England or in other European countries?
+When I was a kid, a cousin who lived in England came to visit us and showed me how to crack open those little plastic cubes containing the four one-use camera flashbulbs we had back then and set them off with a battery.  That totally rocked my world.  So as far as I’m concerned those guys are all geniuses.
+
+
+title: Good Medicine in Merry Old England
+
+date: August 23, 2008 11:30 am
+

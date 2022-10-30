@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+In far mode we attend to more general abstract explicit goals.  These tend to be more idealistic goals:
+“Values are more likely to be expressed through value-congruent judgments and behaviors when individuals think abstractly about their actions, and not when they think concretely.” … By “values” these psychologists actually mean what I’ll call “ideals” – abstract, as opposed to concrete, goals that we verbally, and usually proudly, embrace.
+I’ve mentioned a few other patterns that fit with this, such as that sex is near while love is far, and that on a fast sinking ship it was every man for himself, but on a slow sinking ship social ideals more determined who survived.
+But I should also mention some patterns that don’t fit as neatly.  For now, I’ll just put these puzzles out there:
+1. We help others more when we envision a particular person in need,  not a big group in need. (more)
+2. Schools help induce far mode, creativity is far, yet schools reduce creativity.
+3. We are less likely to procrastinate on a task framed as near:
+Participants were asked to respond to a questionnaire via e-mail within 3 weeks. … Individuals were less likely to procrastinate performing the task when the questionnaire induced a more concrete construal. Furthermore, this effect did not depend on the attractiveness, importance, or perceived difficulty of the task. (more)
+4. We make more indulgent choices for others than we make for ourselves:
+Consumers typically manage these personal goals by combining indulgent and virtuous choices. When choosing for others, however, this is not the case. Consumers then focus on a pleasure‐seeking goal, which leads to indulgent choices for others. … Consumers tend to make more indulgent choices for others than for themselves, unless the concept of management is highly accessible or people are making choices for the distant future. (more)
+5.  Power is far, lower classes have less power, yet lower classes are more generous:
+Across 4 studies, lower class individuals proved to be more generous (Study 1), charitable (Study 2), trusting (Study 3), and helpful (Study 4) compared with their upper class counterparts. Mediator and moderator data showed that lower class individuals acted in a more prosocial fashion because of a greater commitment to egalitarian values and feelings of compassion. (more)
+6. We care less about things that are far.  We care less about hypothetical and low probability events, about outcomes further in the future, and about people who are more socially distant.
+Added 8p: It isn’t especially elegant, but a simple resolution of these puzzles is just to say that nearfar isn’t the only factor that influences idealism.
+
+
+title: Far Idealism Puzzles
+
+date: July 21, 2010 11:00 am
+

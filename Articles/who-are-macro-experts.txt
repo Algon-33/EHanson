@@ -1,0 +1,32 @@
+author: Robin Hanson
+
+text: 
+I never learned much macro-econ; they didn't respect it at Caltech where I got my Ph.D.  So while my econ colleagues blog 24/7 about the macro crisis, I've mostly kept quiet.  But I can speak on this issue: who are the real "experts"?
+
+During this crisis, politicians and reporters have been eager to cite "economists" in support of their causes.  For example, Obama:
+
+What I've said is what other economists have said across the political spectrum, which is that, if you delay acting on an economy of this severity, then you potentially create a negative spiral that becomes much more difficult for us to get out of. 
+
+The Post:
+
+While economists remain divided on the role of government generally, an overwhelming number from both parties are saying that a government stimulus package — even a flawed one — is urgently needed to help prevent a steeper slide in the economy. 
+
+So who are these "economists"?  While Bryan reports "almost none of the economic `experts' pontificating [in the media] on Obama's economic plan are actually [degreed] economists", Obama and the Post were probably talking about standard "prestigious" economists, i.e., those holding top positions in prestigious institutions.  But are these really the most accurate sources for macro policy advice?  What is the best way to identify "experts" on such topics anyway? 
+  
+It turns out that many macro economists frequently forecast future macro events. Furthermore, many places keep standardized track records of such forecasts, records that can be compared for accuracy; we can compare the accuracy of such folks!  Isn't that an ideal basis on which to decide who to believe?
+
+Alas, it turns out that there is almost no overlap between the macro-economists who are considered the most prestigious and those who even publish forecasts. Politicians and reporters show little interest in the policy advice of those with the most accurate published forecasts; interest is overwhelmingly in those with prestigious positions.  The forecasts themselves are not as extensive or detailed as they could be mainly because there is not that much interest in tracking them. Why?
+
+As with interest in docs, I suspect interest in macro-economists has little to do with their accuracy.  Yes people believe prestigious folks are more accurate, but the causation goes from prestige to a belief in accuracy, not the other way around. Again:
+
+The simplest explanation seems to me sufficient: people just prefer to affiliate with high status others.
+
+By touting the advise of prestigious macro-economists, we affiliate with them, and thereby gain in status ourselves.  This theory of course bodes poorly for getting people to listen to policy advice from decision markets.
+
+Note a similar situation holds in foreign policy.  Tetlock's '05 book tracked predictions of hundreds of foreign policy experts over decades.  Did this inspire this field to make such forecast tracking a regular practice?  Not even slightly.  And there's been no attempt to even identify Tetlock's best forecasters, much less focus on them for foreign policy advice.  We affiliate with prestigious foreign policy experts by touting their advice; touting the advice of more accurate but less prestigious experts would lower our status. 
+
+
+title: Who Are Macro Experts?
+
+date: February 23, 2009 6:00 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+When we choose to act on our own private clues, or to infer the clues of others from their actions, we too often neglect the wisdom of others:
+In situations where it is empirically optimal to follow others and contradict one’s own information, the players err in the majority of cases, forgoing substantial parts of earnings. The average player contradicts her own signal only if the empirical odds ratio of the own signal being wrong, conditional on all available information, is larger than 2:1, rather than 1:1 as would be implied by rational expectations. … In total, the meta dataset contains 29,923 decisions made by 2,813 participants in 13 studies. All participants observe a private signal and a (possibly empty) string of previous choices made by others in analogous situations. In all decision problems there are two actions and two possible payoffs, but the dataset nevertheless comprises a large variety in environments, instructions, players’ personal characteristics, and histories of other players’ choices. (more)
+Of course copying others’ acts sends a bad signal about our confidence in own own info and and analysis abilities. So it can make sense to focus more on one’s own clues to the extent is is important to send a positive signal to observers.  Just beware of assuming too easily that such gains are substantial.
+
+
+
+title: The Wisdom Of Others
+
+date: December 31, 2010 12:00 pm
+

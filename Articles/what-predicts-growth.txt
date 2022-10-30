@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I just heard a fascinating talk by Enrico Spolaore of this paper on what predicts local growth rates over the very long run. He considers three periods: before the farming revolution, from farming to 1500, and from 1500 to today. The results:
+
+The first regions to adopt farming tended to equatorial non-tropic coastal (but not island) regions with lots of domesticable animals (table 2, column 1).
+The regions that had the most people in 1500 were those that first adopted farming, and also tended to be tropical inland regions (table 2, column 4).
+The regions that were richest per person in 2005 had no overall relation to populous 1500 regions (table 3, column 1), yet were places of folks whose ancestors came from places where farming and big states first started. Rich places also tend to be cool (i.e., toward poles) coasts or islands (table 5) filled with people that are more related culturally and genetically to the industry-era leaders of US and Europe (tables 6,7).
+
+These results tend to support the idea that innovation sharing was central. The first farming innovations were shared along coasts in mild environments, i.e., not too cold or tropical. During the farming era, sharing happened more via inland invasions of peoples, which tropics aided. Industry first thrived in islands better insulated from invasion, industry travel and trade was more sea-based, and sharing of industry was more via people who could relate more to each other.
+Changing technologies of travel seem to have made a huge difference. When travel was very hard, it happened first along coasts in mild climates. As domesticated animals made long-distance land travel easier, inland invasions dominated. Then when sea travel made travel far easier, and invasions got harder, cultural barriers mattered most.
+
+
+title: What Predicts Growth?
+
+date: February 28, 2013 2:10 pm
+

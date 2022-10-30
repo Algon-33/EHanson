@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+From Arthur B. at The Distributed Republic:
+This paper  should be familiar. It was featured by Levitt in the New York Times and has been discussed at length in these circles. It describes what happened when a Swiss Canton allowed mailing ballots in an election. Participation fell dramatically. The article concludes that most people vote because showing up at the poll booth signals you are participating in the election.
+I was recently reminded of this paper by an article on Slashdot telling a similar story:
+Voting fell 83% in an all digital election
+Why should we care? … A low turn out indicates that people do not really care about the election. … Better, it attacks the myth that democracy is representative. … A democracy with a lot of eager participation is a recipe for collectivist arguments about the “will of the people”. Low turnout allows the state to be viewed as a separate parasite.
+That NYT article elaborated:
+The motivation could be hope for social esteem, benefits from being perceived as a cooperator or just the avoidance of informal sanctions. … The Swiss study suggests that we may be driven to vote less by a financial incentive than a social one. It may be that the most valuable payoff of voting is simply being seen at the polling place by your friends or co-workers.
+One is reminded of the Soviet Union bragging about its 100% voter participation rate with only one candidate for each office.   So why are folks so eager to increase voter participation, when it lowers the quality of decisions and doesn’t obviously mean people accept the government?
+I’d guess self-deception is key.  People enticed to the polls by signaling incentives would rather not admit such motives; they’d rather believe in their own power and altruism, and in the virtues of their polity.  So encouraging more signaling via votes encourages people to believe that the little guy has influence, and that voters really care about each other.  So induced voters end up believing more that their democracy works.  Even in the Soviet Union.
+Added: OK, uncle, the NYT did severely misrepresent the paper, as several comments have mentioned.  This does not offer much support for the signaling theory, though it doesn’t go much against it either.  Let me vow to never again blog an academic paper I haven’t perused.
+
+
+title: What Voting Signals
+
+date: June 5, 2009 6:00 am
+

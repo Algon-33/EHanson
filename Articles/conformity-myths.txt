@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Conformity gets a bad rap.  From NYT Mag:
+
+The psychologists Bert Hodges and Anne Geyer recently took a new look at a well-known experiment devised by Asch in the 1950s.  Asch’s subjects were asked to look at a line printed on a white card and then tell which of three similar lines was the same length. The answer was obvious, but the catch was that each volunteer was sitting in a small group whose other members were actually in on the experiment. Asch found that when those other people all agreed on the wrong answer, many of the subjects went along with the group, against the evidence of their own senses. 
+But the question (Which of these lines matches the one on the card?) was not posed just once. Each subject saw 18 sets of lines, and the group answer was wrong for 12 of them. Examining all the data, Hodges and Geyer found that many people were varying their answers, sometimes agreeing with the group, more often sticking up for their own view. (The average participant gave in to the group three times out of 12.) 
+This means that the subjects in the most famous "people are sheep" experiment were not sheep at all – they were human beings who largely stuck to their guns, but now and then went along with the group.
+
+Our culture gives lip service to celebrating independence and dengrating conformity, but not only do we not actually discourage conformity much, it is not obvious that conformity as typically practiced is such a bad thing.  
+
+
+title: Conformity Myths
+
+date: April 11, 2008 6:00 am
+

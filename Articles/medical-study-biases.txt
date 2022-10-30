@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+Medical studies are seriously biased by interested funders and by tolerance for sloppy methods.  Here are four examples.  
+1.  A recent PLoS Medicine looked at 111 studies of soft drinks, juice, and milk that cited funding sources.
+
+22% had all industry funding, 47% had no industry funding, and 32% had mixed funding. … the proportion with unfavorable [to industry] conclusions was 0% for all industry funding versus 37% for no industry funding . 
+
+  
+2.  Last February the Canadian Medical Association Journal reported that in 487 studies, those whose method left more room for fudging "found" higher accuracy of diagnostic tests: 
+
+The quality of reporting was poor in most of the studies.  We found significantly higher estimates of diagnostic accuracy in studies with nonconsecutive inclusion of patients … and retrospective data collection … Studies that selected patients based on whether they had been referred for the index test, rather than on clinical symptoms, produced significantly lower estimates
+
+3.  In 1995, the Journal of American Medical Association reported that of 250 studies of treatments, those with easier fudging similarly "found" stronger effects: 
+
+Compared with trials in which authors reported adequately concealed treatment allocation, … Odds ratios were exaggerated by 41% for inadequately concealed trials and by 30% for unclearly concealed trials … Trials that were not double-blind also yielded … odds ratios being exaggerated by 17%
+
+4.  In 2005, the Journal of American Medical Association found that of medical studies since 1990 cited 1000 times or more, 1/3 were contradicted by replications, and 1/4 had no replication attempts:  
+
+Of 49 highly cited original clinical research studies, 45 claimed that the intervention was effective. Of these, 7 (16%) were contradicted by subsequent studies, 7 others (16%) had found effects that were stronger than those of subsequent studies, 20 (44%) were replicated, and 11 (24%) remained largely unchallenged. Five of 6 highly-cited nonrandomized studies had been contradicted or had found stronger effects vs 9 of 39 randomized controlled trials (P = .008).
+
+ The obvious question is:  how can we produce medical estimates that correct for such biases?  And why don’t we?  
+
+
+title: Medical Study Biases
+
+date: February 28, 2007 6:00 am
+

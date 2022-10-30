@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+The majoritarian instinct arrives very early.  The latest Psychological Science says toddlers prefer advice from toddlers who agreed with a majority:  
+In two experiments, 3- and 4-year-olds were tested for their sensitivity to agreement and disagreement among informants. In pretest trials, they watched as three of four informants (Experiment 1) or two of three informants (Experiment 2) indicated the same referent for an unfamiliar label; the remaining informant was a lone dissenter who indicated a different referent. Asked for their own judgment, the preschoolers sided with the majority rather than the dissenter. In subsequent test trials, one member of the majority and the dissenter remained present and continued to provide conflicting information about the names of unfamiliar objects. Children remained mistrustful of the dissenter. They preferred to seek and endorse information from the informant who had belonged to the majority. The implications and scope of children's early sensitivity to group consensus are discussed.
+Of course this can be interpreted either as an info or conformity strategy.
+
+
+title: Toddlers Avoid Dissenters
+
+date: March 18, 2009 6:00 am
+

@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+Hard questions are often hard because different ways to think about them conflict.  When each way seems to have strong support, we are reluctant to choose.  But if we cannot avoid the conflict, choose we must.  For example, last October I wrote: 
+
+ Our standard ("Bayesian") formal theories of information and probability … are by far the main formal approaches to such issues in physics, economics, computer science, statistics, and philosophy.  … There are, however, a number of claimed exceptions, cases where many people think certain beliefs are justified even though they seem contrary to this standard framework. … I am … tempted to reject all claimed exceptions, but that wouldn’t be fair.  So I’m instead raising the issue and offering a quick survey of claimed exceptions. … The following do not seem to be exceptions:  Indexicals … Logical Implications … Here are possible exceptions:  Math and Concept Axioms … Basic Moral Claims … Consciousness … The Real World … Real Stuff … [I could have added religious beliefs to this list.]
+
+ Actually, in all these cases it seems it is standard info theory (i.e., info is whatever excludes possibilities) alone that seems to conflict with something else – probability theory is irrelevant.  And it seems to me that: Nothing that seems to conflict with standard info theory is remotely as well established as it is.  So when there is a conflict, info theory must just win.  (More are willing to challenge standard "Bayesian" probability theory – e.g., see Andrew Gelman, Scott Aaronson.)  
+  
+Of course we are not absolutely sure of standard info theory. Perhaps our strongest doubts arise from quantum info theory seeming different on its surface.  This is one reason it is so important to sort out the foundations of quantum mechanics.  
+ Yes, we have many specific intuitions, often very strong, supporting particular beliefs that conflict with info theory.  For example, regarding consciousness most feel we know we are more than just a physical system, having also non-physical "experience."  Regarding morality, most feel we know not just what we personally want, but also a lot about what is absolutely "right," and that this is a fundamentally different thing.  Many also feel they have direct "faith-based" knowledge of religious truths.  
+Many feel such intuitions so strongly that they say, "We just can’t reject these beliefs, so we’ll just have to work on revising our theories of info and knowledge to account for how it is we come to know these things."  I think they forget how well established is our info theory.  
+We must also admit that in end info theory is itself supported by many other particular intuitions.  We cannot escape relying on intuitions.  But a large set of well-integrated independently-well-supported intuitions should beat fewer more-conceptually-local intuitions, however strong.  Too many natural and strong human intuitions have been just plain wrong.  And info theory is far from local – it has become deeply and widely integrated into many of our best accounts in physics, economics, computer science, statistics, and philosophy.   
+We should thus provisionally accept the apparent implications of standard info theory, even when they conflict with other very strong intuitions.  Specifically, we should provisionally accept that:
+
+Math shows what axioms imply, but only unconditionally truths about non-math.
+We have no access to moral truth beyond knowing what we want and why. 
+We have no access to our own consciousness, beyond ordinary interactions.
+Other possible worlds are just as real as ours. 
+Analytic continuations of accepted theories should be presumed to exist. 
+We have no special access to truths about God or religion. 
+
+Info Theory Rules!  I suspect Eliezer agrees with most if not all of this.  
+Added 8July: On consciousness I have in mind Chalmers saying that he knows he is conscious, even though a Zombie’s brain would have exactly as the same info as his brain has.  On morals I have in mind people saying they know moral truth even though they see no interaction which could correlate beliefs and moral truth.  
+
+
+title: All Hail Info Theory
+
+date: July 7, 2008 6:00 am
+

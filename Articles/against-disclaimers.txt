@@ -1,0 +1,34 @@
+author: Robin Hanson
+
+text: 
+Blog posts are short and have a broad audience.  One of the worst things about writing them is having to make disclaimers.  Not just legal disclaimers mind you – those are only the tip of an iceberg.
+ Writing is hard in part because words have many associations that vary among readers.  Even when we use carefully choose our words to signal certain associations, we know some readers will instead hear other associations.  So in addition to saying what we do mean, we sometimes have to say explicitly what we do not mean.  
+ For example, most who say "Can I help you with that?" also mean to say "I am offering to help you with that."  So if you really just want to ask about your ability to help, but do not want to offer to help, you must explicitly disclaim the offer, as in "I’m not offering to help, but I was wondering, is it somehow possible for me to help?"  It seems reasonable to have to say more in this case, as this is the more unusual case.  
+ Less reasonably, in our current legal system anyone with an employer who writes anything is expected to explicitly declare that they are not speaking for their employer.  Apparently if they do not their employer can be sued for anything they say. This is unreasonable because the vast majority of writings by people with jobs are not intended to speak officially for their employer.  It would be far more reasonable to assume that we speak only for ourselves unless we explicitly say otherwise.  It is similarly unreasonable for fiction authors to have to always declare all their characters are fictional.
+ Unfortunately, the problem goes way beyond dumb legal rules.  Consider these common presumptions:
+  
+
+If you say anything about correlates of race you must hate a race.
+If you say anything about genetic correlates of success you are a social Darwinist.
+Any general claim about human behavior is an absolute law without exception unless it includes qualifiers like "tends" or "often."
+If you quote someone you agree with everything they’ve said.
+If you say you prefer option A to option B, you also prefer A to any option C.
+If you say anything nice (or critical) about anything associated with a group or person you are presumed to support (or oppose) them overall.
+If you say anything nice (or critical) about anything associated with an idea or claim you are presumed to support (or oppose) it and related ideas overall.
+If you worry that more A will cost too much of B, you don’t care about A at all.
+If you dislike a proposed solution to a certain problem, you don’t care about that problem.
+If you oppose one end of a continuum, you support the other end.
+If you approve of a decision you approve of the actual outcome, and vice versa.
+If you think A causes B, you think A is necessary for B.
+Any opinion you express is a strongly and confidently held opinion.
+If you criticize someone about something, you say you are immune to such criticism.
+[I’ll add more here as commentors mention them.]
+
+Most who say such things do not intend these further claims, and their conversation could be much easier if they did not need to constantly disclaim them.  But they are stuck in a signaling game; since most who say such things do add the required disclaimers, observers can infer something unusual about the few who do not.
+A friend once told me that in a Stanford artificial intelligence theory class, while the prof tried to present relatively precise claims, students constantly asked if he was really trying to say distantly related claims X, Y, or Z.  My exasperated friend cried "Why can’t they just treat it like math – assume nothing you are not told you can assume!"  Yes full math precision is rarely possible, but sharp people still distinguish themselves by not assuming more than needed to keep the conversation going.    
+
+
+title: Against Disclaimers
+
+date: June 3, 2008 6:00 am
+

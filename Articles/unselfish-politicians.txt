@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Economics students at George Mason University are mostly taught, and mostly accept, a free-market perspective, where political intervention in society is treated with suspicion.  I’m currently teaching Public Choice, or economics of politics, where you’d expect such student opinions to be especially visible.
+In a recent quiz, I asked students to give an advantage and a disadvantage of letting corporations run for political office, relative to the status quo. Most gave an advantage I had described in lecture, that firms could develop a consistent brand and reputation on which voters could rely.  I hadn’t mentioned any disadvantages in class, but 80+% spontaneously said that a disadvantage is elected firms would support self-serving policies.
+Wow.  Even GMU econ undergrads, not especially inclined to see the bright side of politicians, see corporations as more intrinsically selfish and corrupt than politicians.  The idea of firms as dark untrustworthy aliens is indeed buried deep in our psyche.  Xenophobia lives.
+Added: I guess I need to spell this out.  Humans evolved concern for others because this enabled individual humans to better survive and reproduce, especially by being better respected and liked by others.  Similarly, firms who hoped to succeed in the industry of running for office would seek to create and maintain a clear positive long-term brand, one that voters could respect, like, and embrace.  It is crazy to assume firms will always hurt their customers for any temporary gain just because some paper somewhere declares firms must seek profits.
+Added 1p: Consider an ordinary politician who hopes for 15 more years on the job, versus a firm now holding 100 offices that hopes to continue for another fifty years. Which one is more scared that news of a corrupt act would destroy their future political popularity?  Which will try harder to avoid such acts?
+
+
+title: Unselfish Politicians
+
+date: May 1, 2010 9:00 pm
+

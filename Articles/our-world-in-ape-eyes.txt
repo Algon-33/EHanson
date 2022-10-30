@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+While humans have adapted a bit to our modern world, we are mostly forest apes tossed into tech cities and told to deal or die.  So we deal.  But to understand how exactly we deal, it would help to see how our world looks to a forest ape, especially in terms of their cues for conditional behavior.  Let me explain.
+The environment of our ape ancestors varied from time to time and place to place.  So our ancestors evolved not just a typical behavior for a typical environment, but they also evolved ways to condition their behavior on environmental changes.  For common types of environments, flagged by cheap noticeable clues, our ancestors should have evolved to notice those cues and then switch to environment-behavior.
+So what does our world look like, in terms of the clues that our ancestors might have used to condition their behavior?  We are:
+
+Exposed to an unusually large number of unknown people, with varied customs, as if two tribes had just merged.
+Exposed to strange new things, as if just entereing a new region with new terrain, plants, animals, etc.
+In a time of great plenty, as if the weather had been favorable lately, or we had just entered a rich unpopulated region.
+
+So what should we have expected our ancestors do in such situations?
+
+When tribes merge, and new coalitions are not yet clear, you should start out being nice to most everyone; tit for tat begins as nice.  You should be interested to learn about many folks, seeking good allies, and be eager to make good first impressions on those you meet.
+In a new region with strange terrain, plants, animals, etc., you should be cautious in actions, and eager to hear of news about new things.  You’ll want to affiliate with folks who consistently have news first, and want others to think you are such a person.
+In good times, invest in assets that will last until the coming bad times.  Groups may clear a path, explore a cave, send a colony to a new place, or settle old scores.  Individuals may collect body fat, have kids, and collect allies.  To get and keep allies, signal your long-term abilities and loyalties, via feasts, medicine, building homes, and revenge killings.  Perhaps do something dramatic that folks will talk about for years.
+
+So, in summary, to our ancestor’s eyes, compared with their world our should look like a place to be: nicer, fatter, more fertile, more curious about new folks, things, and places, and more eager to signal our long-term abilities and loyalties. 
+This theoretical analysis gets many things right, though not our reduced fertility.
+
+
+title: Our World In Ape Eyes
+
+date: January 1, 2010 7:00 pm
+

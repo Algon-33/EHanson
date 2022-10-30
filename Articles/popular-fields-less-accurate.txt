@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+From a recent PLOS:
+It has been suggested that the reliability of findings published in the scientific literature decreases with the popularity of a research field. Here we provide empirical support for this prediction. We evaluate published statements on protein interactions with data from high-throughput experiments. We find evidence for two distinctive effects. First, with increasing popularity of the interaction partners, individual statements in the literature become more erroneous. Second, the overall evidence on an interaction becomes increasingly distorted by multiple independent testing.
+This is an important point: typical academic processes tend to produce more reliable results when no one cares or pays much attention; do not assume they give the same reliability to high profile topics.  I’ve seen this trend clearly in economics.
+This trend cuts both ways.  Just because you are part of a field that seems to produce reliable results off in your largely unnoticed corner, don’t assume the high profile bigshots in your field that get more outside attention are as reliable.  And just because the public bigshots in another field that you notice seem to you sloppy and sleezy, don’t assume that those laboring in the shadows of that field know nothing.
+This phenomena helps explain why we need prediction markets for academic topics, and why most academics may not preceive that need.
+
+
+title: Popular Fields Less Accurate
+
+date: July 25, 2009 6:00 am
+

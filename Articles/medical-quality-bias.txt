@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Here is an old but puzzling phenomena:  people seem remarkably intolerant of allowing people to act on noisy measures of medical quality.  If a measure of medical quality does not perfectly correlate with quality, that seems to many a sufficient reason to prevent people from seeing or acting on the measure.  
+Now any quality measure, even one that is very noisy, should allow you to increase the accuracy of your overall estimate, if you combine it with your other measures.  The only requirement is that you have some idea of the relative noisiness of your various measures.  When other quality measures are banned, the public must rely solely on noisy government quality measures, such as professional licensure and FDA approval.    
+Apparently, many feel that many others are biased to drastically underestimate the noisiness of medical quality signals.  For example, we prevent hospitals from publishing mortality statistics, because such stats may sometimes be "misinterpreted."   A recent Washington Post article gives another example:
+  
+
+In the quest to control spiraling costs, insurance companies and employers are looking more closely than ever at how physicians perform, using computers, mountains of health claims and billing data and sophisticated software. Such data-driven surveillance … raises questions about the line between responsible oversight and outright meddling in the relationship between caregivers and their patients. And it shows how people such as Berkenwald are at risk of losing control of their reputations as corporations and other organizations mine electronic data to draw conclusions about them and post them online. …
+ Physicians who have been profiled, including those with top ratings, say that the data often contain errors and that doctors often lack the ability to correct them. The effort is more about cutting costs than raising quality, some say, adding that doctors could begin to "cherry pick" healthier patients whose problems are less costly to treat. Such systems fail to capture the intangibles of quality, such as a doctor who visits a dying patient at home, critics say. …
+ Last fall, Schiesser joined five other doctors and the Washington State Medical Association in suing Regence BlueShield, claiming defamation and deceptive business practices after the health plan told participating members that they no longer had access to about 500 doctors because the doctors did not meet the insurer’s quality and efficiency standards.  Regence spokesman Charlie Fleet said that because of the lawsuit, the company could not comment on the data issue. He did say, however, that the data were "provided from the physicians themselves."  In December, Regence abandoned its plan.
+ Doctors critical of ratings systems say they are held accountable for whether patients exercise, take their medications or follow their prescribed regimens.
+
+I’m afraid this doesn’t bod well for Google and Microsoft health ambitions.  
+
+
+title: Medical Quality Bias
+
+date: September 4, 2007 6:00 am
+

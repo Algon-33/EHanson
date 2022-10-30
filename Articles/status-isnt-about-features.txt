@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Malcom Gladwell complains that US News rankings are arbitrary:
+Some years ago … a former chief justice of the Michigan supreme court … sent a questionnaire to a hundred or so of his fellow lawyers, asking them to rank a list of tend laws schools in order of quality. “They included a good sample of the big names. Harvard. Yale. University of Michigan. And some lesser-known schools. John Marshall Thomas Cooley. … They ranked Pen State’s law school right about in the middle of the pack.  Maybe fifth among the ten schools listed.  Of course, Penn State doesn’t have a law school.” … Reputational ratings are simply inferences from broad, readily observable features of an institution’s identity, such as its history, its prominence in the media, or the elegance of its architecture. …
+“Ratings drive reputation.” … When U.S. News asks a university president to perform the impossible task of assessing the relative merits of dozens of institutions he knows nothing about, he relies on the only sources of detailed information at his disposal … U.S. News. The U.S. News ratings are a self-fulfilling prophecy. …
+A Web site called the Ranking Game[‘s] …intention is to demonstrate just how subjective rankings are, to show how determinations of “quality” turn on relatively arbitrary judgments about how much different variables should be weighted. … If we don’t understand what thee right proxies for college quality are, let alone how to represent those proxies in a comprehensive heterogenous grading system, then our rankings are inherently arbitrary.
+Gladwell talks as if we each have different preferences over component variables, and are being fooled into putting too much weight on arbitrary common rankings that poorly reflect our individual preferences. He doesn’t even consider the possibility that what we really want is status itself, a common perception of quality, and don’t much care what status is made of.  We mainly want to know how to rate others’ status, and how to get more of it for ourselves.
+
+
+title: Status Isn’t About Features
+
+date: February 19, 2011 9:45 pm
+

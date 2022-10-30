@@ -1,0 +1,15 @@
+author: Stuart Buck
+
+text: 
+A recurring theme here is the difficulty in knowing whether some (much?) of modern healthcare is actually beneficial or not.  A couple of recent links that add support to that theme: 
+1. From JAMA, a new study analyzes more than two decades of heart care guidelines (that is, the guidelines that your doctor might follow in deciding how to treat you) from the American College of Cardiology and the American Heart Association. The study found that the overwhelming majority of recommendations are not supported by good evidence: 
+
+Level of evidence provides the link between recommendations and evidence base. Although there is significant variation among individual guidelines in available evidence supporting recommendations, the median of level of evidence A recommendations [i.e., those supported by more than one randomized trial] is only 11% across current guidelines, whereas the most common grade assigned is level of evidence C, indicating little to no objective empirical evidence for the recommended action. . . . Interestingly, our findings are reflective of a specialty — cardiology — that has a large pool of research to draw on for its care recommendations. Guidelines in other medical areas in which large clinical trials are performed less frequently may have an even weaker evidence-based foundation.
+
+   2. In this post, Dr. Eades criticizes (convincingly, I think) a recent study purporting to show that statins reduce mortality. 
+
+
+title: Question Medical Findings
+
+date: March 4, 2009 6:00 am
+

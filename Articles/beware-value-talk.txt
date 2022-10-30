@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Last week I wrote: 
+
+[For] lawyers supporting clients, engineers presenting designs, accountants presenting financial accounts, or academics presenting analyses, styles are more "no-nonsense."  They avoid colorful flashy emotional visual aids and music, use precise concise technical and unemotional language, make structured and standardized arguments, explicitly summarize and address opposing views, make methods and premises explicit, and warn early of conclusions and structures. … Authors who want to be seen as minimizing the propaganda element of their communications avoid using flashy styles. … [In contrast,] in such propaganda contexts, impressive charismatic leaders tend to speak in simple repetitive eloquent poetic vague emotional language, often with rambling structures, engaging stories, vivid colorful flashy emotional music and visual aids. 
+
+Communities of conversation "serious" about working together to make progress in understanding things tend not only to follow the above style conventions, they also tend to follow a key content rule:  avoid arguing basic values.  
+ Communities that mostly agree on how to evaluate claims can make a lot of progress, and such agreement comes naturally enough when discussion is restricted to "facts" connected to frequent observations and actions.  Such communities can also discuss how to achieve a few commonly accepted values.  
+ For example, athletes can talk about how to win games, lawyers about winning cases, salesmen about increasing sales, business managers about increasing profits, scientists about accelerating scientific progress, engineers about improving design efficiencies, medical experts about increasing health while decreasing costs, and economists about increasing policy "economic-efficiency."  
+ In all of these cases, explicit agreement on simply-expressed values allows group conversations to progress effectively toward achieving such values.  Members can specialize, develop and use specialized language and techniques, and evaluate others' contributions to the common cause.  In contrast, groups that freely argue about basic values tend to fragment into like-thinking-cliques focused more on clique loyalty than on fairly crediting informative contributions. 
+  
+ Yes, agreed-on group values are usually simplified relative to the diverse complex values of group members; one can often identify cases where most group members do not prefer the choices selected by their explicitly agreed values.  And no doubt more discussion of basic values more can sometimes improve important decisions relative to member values.  However, arguing basic values often imposes large costs; such discussions threaten social norms that preserve group cohesion and effective conversation.  Even professional ethicists usually avoid discussing political or religious issues.  
+ I created Overcoming Bias hoping to jump-start a community with the common purpose of overcoming biases that keep them from seeing clearly.  For the best chance at collecting the most people serious about this goal, I expect we should have followed these standard conventions, maintaining a serious style and avoiding arguing basic values, especially unstructured and difficult to resolve value questions.  Alas, we took another path.
+Added 17Feb: I am not saying that one should never mention basic values; I'm saying one should be aware of the large costs of arguing about them.  Show others in your community that you are aware of such dangers, and tell them why you expect each value discussion you initiate is worth such costs.  This contrasts to an attitude of eagerly seeking out basic value topics to argue, even when they have little connection to important decisions the community must make. 
+
+
+title: Beware Value Talk
+
+date: February 16, 2009 7:00 pm
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I often write about situations where we say something is about X, but it is actually more than we admit about Y. In some cases, this is mostly unconscious, and most people are surprised to hear what is going on. In other cases most people kind of know it, even if they don’t tend to talk about it. So if what I’m about to tell you seems obvious, well just stop reading.
+I spent the last few days touring monuments near Washington D.C. A great many of them come with the explicit message “Remember.” As if to say “Big things once happened, or nearly happened. If enough of us remember them, we can do better in the future to avoid bad things, and encourage good things.” When your choice is data vs. ignorance, you know what you are supposed to choose.
+Except, if that were the goal we might do better to have big pretty places organized around categories of events, each with statistics on that type of event. The monument for wars might show stats on what kinds of wars went better. The monument for floods might show stats relating efforts to prevent floods to later consequences.
+But what we actually have are monuments for particular events, and particular people. In reality, these events and people are very complex. Depending on your assumptions and perspectives, you can draw a great many contradictory lessons from them. And usually experts do in fact hold a wide range of conflicting views. Especially if we include experts from other nations, etc.
+But monuments usually show little of this wide range of interpretations. Instead, the basic context usually gives visitors a pretty good idea of preferred interpretations. So the monument itself doesn’t have to belabor the point – just a few choice quotes and items selected for presentation in particular contexts are enough. Treating the monument respectfully can then function as a way to signal one’s respect for these usual interpretations.
+If monuments gave explicit ideological sermons, visitors who disagreed might try to refute the arguments given. Out loud, on the spot. And many others would have a plausible reason to not want to go there. But if there are only a bunch of artifacts in a beautiful setting, a reminder that people died, and an exhortation to “remember”, what can anyone rebut, and what excuse is there not to go? Even though going there will be on average interpreted as support for the usual interpretation.
+For example, Arlington National Cemetery prominently displays the mast of The Maine, a ship sunk in 1898 in Havana harbor. The Spanish were blamed, “Remember the Maine” became a battle cry, and the U.S. had an excuse to start the Spanish-American war. Though today it seems more likely that the explosion was accidental.
+A world intent on not forgetting and learning from key data might have a monument to events that start wars, and present stats on the fraction of wars that were started on fake pretexts. And perhaps summarize key arguments on the causes of wars and ways to prevent wars. But in our world there are mainly monuments that, in a pretty, solemn, and patriotic context, remind visitors that people died, and that others uttered the phrase “Remember the Maine.” Damn Spaniards ..
+
+
+title: Forget The Maine
+
+date: June 26, 2017 5:15 pm
+

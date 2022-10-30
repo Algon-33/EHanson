@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Last week’s Time Magazine article on Evidence-Based Medicine seems to me to damn it with faint praise:
+
+Evidence-based medicine, which uses volumes of studies and show-me skepticism to answer such questions, is now being taught–with varying degrees of success–at every medical school in North America. … Advocates believe that evidence-based medicine can go much further, reducing the reliance on expert opinion and overturning the flawed assumptions and even financial incentives that underlie many decisions. … But is such certainty possible–or even desirable? Medicine, after all, is a personalized service, one built around the uniqueness of each patient and the skilled physician’s ability to design care accordingly. …
+Consider the case of Dr. Daniel Merenstein, a family-medicine physician trained in evidence-based practice. In 1999 Merenstein examined a healthy 53-year-old man who showed no signs of prostate cancer. As he had been taught, Merenstein explained … there is little evidence that early detection makes a difference in whether treatment could save your life. As a result, the patient did not get a PSA test. Unfortunately, several years later, the patient was found to have a very aggressive and incurable prostate cancer. He sued Merenstein for not ordering a PSA test, and a jury agreed–despite the lack of evidence that it would have made a difference. Most doctors in the plaintiff’s state, the lawyers showed, would have ignored the debate and simply ordered the test. Although Merenstein was found not liable, the residency program that trained him in evidence-based practice was–to the tune of $1 million. 
+
+  
+
+Even champions of evidence-based practice acknowledge that the approach has limits. … There have never been randomized trials to show that giving electrical shocks to a heart that has stopped beating saves more lives than doing nothing, for example. Similarly, giving antibiotics to treat pneumonia has never been rigorously tested from a scientific point of view. It’s clear to everyone, however, that if you want to survive a bout of bacterial pneumonia, antibiotics are your best bet, and nobody would want to go into cardiac arrest without a crash cart handy. … All patients would probably benefit if their doctors were abreast of the latest data, but none would benefit from being reduced to one of those statistical points." 
+
+How long will schools teach evidence-based medicine if they are fined for telling doctors to act differently from other doctors, and if media enthusiasm is this weak?  A similar depressing conclusion is suggested by Alan Gerber and Eric Patashnik’s "Sham Surgery: The Problem of Inadequate Medical Evidence" (in this book), which tells how surgeons recently successfully ignored randomized trials showing knee surgery to be useless. 
+I predict doctors will keep a vague "evidence-based" association to help their "scientific" image, but won’t allow it to much constrain their hunch-based practice.   I’d feel a lot better about this if we had clear evidence of the effectiveness of hunches.   
+
+
+title: Evidence-Based Medicine Backlash
+
+date: February 19, 2007 6:00 am
+

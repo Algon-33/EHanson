@@ -1,0 +1,12 @@
+author: Hal Finney
+
+text: 
+I’ve seen several news reports recently on a study by Jan K. Brueckner of UC Irvine finding some surprising results on neighborly friendliness as a function of population density. There’s a popular impression that people living in cities have good relationships with their neighbors, while those in suburbs live more isolated lives and have few neighborhood connections. In fact this is often argued as a reason why planners should encourage greater density communities and avoid suburban sprawl.
+Brueckner examined this relationship using data from the Social Capital Benchmark Survey, which includes measures of neighborhood contact and friendships. Surprisingly, he found that the relationship went in the inverse direction from what had long been assumed. Suburbanites were more likely to have friendships and good relationships with their neighbors than city dwellers. This factor should therefore argue in favor of suburban sprawl and against concentrated development (of course other considerations are relevant as well).
+While not a bias per se, assumptions which are widely held but which turn out to be wrong are an important source of error. We should be alert for news which gives us reason to reverse our opinions on factual matters. 
+
+
+title: Surprisingly Friendly Suburbs
+
+date: November 27, 2006 2:23 pm
+

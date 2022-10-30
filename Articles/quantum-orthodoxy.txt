@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+Regarding Eliezer’s parable last night, I commented:
+I am deeply honored to have my suggestion illustrated with such an eloquent parable. In fairness, I guess I should try to post some quotes from the now dominant opposing view on this.
+Last week I wrote:
+Physicists mostly punt to philosophers, who use flimsy excuses to declare meaningless the use of specific quantum models to calculate the number of worlds that see particular experimental results.  …  Two recent workshops here and here, my stuff here.
+Those workshops and most recent work has been dominated by Oxford’s Saunders and Wallace.  My promised quotes start with this their most recent published statement:
+A potential rival probability measure, which actually leads to severe problems with diachronic consistency – to take the worlds produced on branching to be equiprobable – is revealed as a will o’ the wisp, relying on numbers that aren’t even approximately defined by dynamical considerations (they are rather defined by the number of kinds of outcome, oblivious to the number of outcomes of each kind). This point has been made a number of times in the literature (see e.g. Saunders [1998], Wallace [2003]), although it is often ignored or forgotten. Thus Lewis [2004] …  and Putnam [2005] … made much of this supposed alternative to branch weights in quantifying probability. (See Saunders [2005], Wallace [2007] for recent and detailed criticisms on this putative probability measure.)
+The most detailed discussion I can find is Wallace 2005:
+
+The number of branches … there is no such thing.  Why? Because the models of splitting often considered in discussions of Everett — usually involving two or three discrete splitting events, each producing in turn a smallish number of branches — bear little or no resemblance to the true complexity of realistic, macroscopic quantum systems. In reality:
+
+Realistic models of macroscopic systems are invariably infinite-dimensional, ruling out any possibility of counting the number of discrete descendants.
+In such models the decoherence basis is usually a continuous, over-complete basis (such as a coherent-state basis rather than a discrete one, and the very idea of a discretely-branching tree may be inappropriate. …
+Similarly, the process of decoherence is ongoing: branching does not occur at discrete loci, rather it is a continual process of divergence.
+Even setting aside infinite-dimensional problems, the only available method of ‘counting’ descendants is to look at the time-evolved state vector’s overlap with the subspaces that make up the (decoherence-) preferred basis: when there is non-zero overlap with one of these subspaces, I have a descendant in the macrostate corresponding to that subspace. But the decoherence basis is far from being precisely determined, and in particular exactly how coarse-grained it is depends sensitively on exactly how much interference we are prepared to tolerate between ‘decohered’ branches. If I decide that an overlap of 10-1010 is too much and change my basis so as to get it down to 0.9 × 10-1010 , my decision will have dramatic effects on the “head-count” of my descendants
+Just as the coarse-graining of the decoherence basis is not precisely fixed, nor is its position in Hilbert space. Rotating it by an angle of 10 degrees will of course completely destroy decoherence, but rotating it by an angle of 10-1010 degrees assuredly will not. Yet the number of my descendants is a discontinuous function of that angle; a judiciously chosen rotation may have dramatic effects on it.
+Branching is not something confined to measurement processes. The interaction of decoherence with classical chaos guarantees that it is completely ubiquitous: even if I don’t bother to turn on the device, I will still undergo myriad branching while I sit in front of it. (See Wallace (2001, section 4) for a more detailed discussion of this point.)
+
+The point here is not that there is no precise way to define the number of descendants; the entire decoherence-based approach to the preferred-basis problem turns (as I argue in Wallace (2003a)) upon the assumption that exact precision is not required. Rather, the point is that there is not even an approximate way to make such a definition.
+A similar position is in Greaves 2004.  My position is:
+Some philosophers say world counts are meaningless because exact world counts can depend sensitively on one’s model and representation. But entropy, which is a state count, is similarly sensitive to the same sort of choices. The equal frequency prediction is robust to world count details, just as thermodynamic predictions are robust to entropy details.
+They keep saying counts are “sensitive” to this or that, but relevant world counts we are so huge that, as with entropy state counts, even a factor of a trillion can make little difference.  Though I visit Oxford regularly, I’ve only managed to get three minutes of Saunders’ time to discuss this, and none of Wallace’s.
+
+
+title: Quantum Orthodoxy
+
+date: April 26, 2008 1:00 pm
+

@@ -1,0 +1,14 @@
+author: Andrew
+
+text: 
+A few years ago I was checking an article that was about to be published in a statistics journal and I noticed that the copy editor had made a bunch of stupid changes that I then had to go back and fix. This has also happened for two of my books.
+This is a funny thing. A copy editor is a professional editor. All they do (or, at least, much of what they do) is edit, so how is it that they do such a bad job compared to a statistician, for whom writing is only a small part of the job description?
+The answer certainly isn’t that I’m so wonderful. Non-copy-editor colleagues can go through anything I write and find lots of typos, grammatical errors, confusing passages, and flat-out mistakes. (And check out the long list of errata for the first printing of our first book!)
+No, the problem comes with the copy editor, and I think it’s an example of the pinch-hitter syndrome. The pinch-hitter is the guy who sits on the bench and then comes up to bat, often in a key moment of a close game. When I was a kid, I always thought that pinch hitters must be the best sluggers in baseball, because all they do (well, almost all) is hit. But of course this isn’t the case–the best hitters play outfield, or first base, or third base, or whatever. If the pinch hitter were really good, he’d be a starter. So, Kirk Gibson in the 1988 World Series notwithstanding (I was watching that on TV–that gives me credit for being there, right?), pinch hitters are generally not the best hitters.
+There must be some general social-science principle here, about generalists and specialists, roles in an organization, etc?
+
+
+title: The pinch-hitter syndrome: a general principle?
+
+date: September 2, 2007 1:00 pm
+

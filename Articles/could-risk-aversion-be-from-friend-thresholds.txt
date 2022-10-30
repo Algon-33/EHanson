@@ -1,0 +1,25 @@
+author: Katja Grace
+
+text: 
+If you are going for a job that almost nobody is going to get, it’s worth trying to be unusual. Better that one in a hundred employers loves you and the rest hate you than all of them think you’re mediocre.
+On the other hand, if you are going for a job that almost everybody who applies is going to get, best to be as close to normal as possible.
+In general, if you expect to fall on the bad side of some important threshold, it’s good to increase your variance and maybe make it over. If you expect to fall on the good side, it’s good to decrease your variance and stay there. This is assuming you can change your variance without changing your mean too much.
+This suggests people should be risk seeking sometimes, and risk averse other times, depending on where the closest or most important thresholds are for them.
+Prospect theory and its collected evidence says that people are generally risk averse for gains, and risk seeking for losses. That is, if you offer them fifty dollars for sure or half a chance of a hundred, they’ll take the sure fifty. If you offer them minus fifty dollars for sure, or half a chance of minus one hundred, they’ll take the gamble. The proposed value function looks something like this:
+The zero point is a ‘reference point’, usually thought to be something like expectations or the status quo. This means people feel differently about gaining fifty dollars vs. a fifty percent of one hundred, and being given one hundred then later offered minus fifty or a fifty percent chance of minus one hundred, even though these things are equivalent in payoffs.
+Risk aversion in gains and risk seeking in losses is what you would expect if people were usually sitting right near an important threshold, regardless of how much they had gained or lost in the past. What important threshold might people always be sitting on top of, regardless of their movement?
+One that occurs to me is their friends’ and acquaintances’ willingness to associate with them. Which I will explain in a minute.
+Robin has suggested that people should have high variance when they are getting to know someone, to make it over the friend threshold. Then they should tone it down if they make it over, so they don’t fall back under again.
+This was in terms of how much information a person should reveal. But suppose people take into account how successful your life is in deciding whether they want to associate with you. For a given friend’s admiration, you don’t have that much to gain by getting a promotion say, because you are already good enough to be their friend. You have more to lose by being downgraded in your career, because there is some chance they will lose interest in associating with you.
+Depending on how good the friend is, the threshold will be some distance below you. But never above you, because I specified friends, not potential friends. This is relevant, because it is predominantly friends, not potential friends, who learn about details of your life. Because of this selection effect, most of the small chances you take run the risk of sending bad news to existing friends more than sending good news to potential friends.
+If you think something is going to turn out well, you should be risk averse because there isn’t much to gain sending better news to existing friends, but there is a lot to lose from maybe sending bad news. If you think something is going to go a tiny bit badly, you still want to be risk averse, as long as you are a bit above the thresholds of all your acquaintances. But if you think it’s going to go more badly, a small chance of it not going badly at all might be more valuable than avoiding it going more badly.
+This is less clear when things go badly, because the thresholds for each of your friends can be spread out in the space below you, so there might be quite a distance where losing twice as much loses you twice as many friends. But it is less clear that people are generally risk seeking in losses. They do buy insurance for instance. It’s also plausible that most of the thresholds are not far below you, if people try to associate with the best people who will have them.
+Another feature of the prospect theory value function is that the loss region is steeper than the gain region. That also fits with the present theory, where mostly you just have things to lose.
+In sum, people’s broad patterns of risk aversion according to prospect theory seem explicable in terms of  thresholds of association with a selection effect.
+Can you think of a good way to test that?
+
+
+title: Could risk aversion be from friend thresholds?
+
+date: November 13, 2012 7:00 am
+

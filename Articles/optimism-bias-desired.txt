@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+From April Psychological Science:
+
+We asked [383] participants to imagine one of four different settings … [of] decisions about a financial investment, an academic-award application, a surgical procedure, and a dinner party. For each setting, we created eight vignettes [varying] … commitment … agency … and control.  One third … were asked to provide prescriptions … whether it would be best to be overly pessimistic, accurate, or overly optimistic, … another third … to indicate what kind of prediction the protagonist in each vignette would make, and the final third to indicate what kind of prediction they themselves would make. …. Options ranged from -4 (extremely pessimistic) through 0 (accurate) to +4 (extremely optimistic). ….
+ Overall, the modal prescription was moderately optimistic (+2 on our scale), which was endorsed nearly twice as often as accurate (32.3% vs. 17.7%). .. Participants [said] … that [other] people tend to be optimistically biased … [and] also reported being optimistically biased [themselves]. The degrees of bias participants attributed to other people and to themselves did not differ. … Finally, and most strikingly, … [they said] people should be even more optimistic than they are. … 
+ Participants prescribed (and described) more optimism (a) after commitment to a course of action rather than before (b) when the decision to commit was the protagonist’s to make rather than not, and (c) when the protagonist’s control over the outcome was high rather than low. … The results were also largely robust across the settings we sampled … [and] across key measured variables. Interestingly, even participants who were self-identified as pessimists … prescribed optimism … Although Asian participants prescribed less optimism than any other ethnic group, they still prescribed optimism.
+
+Optimism bias is clearly not an unnoticed accident – people want to be so biased.  
+
+
+title: Optimism Bias Desired
+
+date: April 30, 2008 6:00 am
+

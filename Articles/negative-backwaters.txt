@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+
+[Researchers] obtained  data from the National Science Foundation on the number of researchers  per capita in each state, and then randomly selected research papers  that contained the phrase “test* the hypothes*”.   Those papers were  characterized as either confirming (positive result) or rejecting  (negative result) the hypothesis. …
+“Those based in US states  where researchers publish more papers per capita were significantly more  likely to report positive results, independently of their discipline.”   In other words, as local competition increases, the fraction of papers  that confirmed a hypothesis went up.  The authors looked at a number of factors that could confound the  effect—the total number of PhDs per capita, total publication output per  state, and R&D expenditure per state—and found no correlation. …
+It’s possible that the most competitive research environments produce  more perceptive scientists, who are better at choosing the correct  hypothesis to test. … An alternate hypothesis:  researchers in competitive environments are  better at presenting their results in a [positive] way that’s likely to get them  published.
+More here (study here). You might interpret “more papers per person” as either a higher personal ability, or as a higher investment per paper.  The post above gives the example:
+Knocking out a gene and finding a  severely altered mouse (and thereby  confirming the gene’s importance)  can net you a paper in a high-profile  journal; knocking it out and  seeing nothing can make it really difficult  to publish anything.
+If this searching-in-a-big-space is the typical case, then a natural interpretation is that more “able” researchers can either “see truth” better (less likely), or know better how to twist their data to look positive (more likely).
+On the other hand, if the typical hypothesis is a standard expected result, like “smoking causes cancer,” then a natural interpretation is that it takes more work to overturn a standard result than to confirm it.   Perhaps “mainstream” researchers tend to find expected standard results, while “backwater” researchers tend more often to overturn them.  This would be like how meeting talk is biased toward repeating  shared info that many have, instead of exposing unique info that only one person has.
+In either case this seems an endorsement of the social value of those supposedly “non-competitive” researchers.
+
+
+title: Negative Backwaters
+
+date: April 23, 2010 8:00 pm
+

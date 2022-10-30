@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Medical expenses now eat 16% of U.S. G.D.P.  That percentage has doubled every thirty years; it was 8% thirty years ago, and 4% thirty years before that.   It will probably double again, to 32%, in the next thirty years. We don’t have many good prospects for reducing that growth, but one of our best is to replace doctors with cheaper alternatives.   Primary care doctors eat a big chunk of our medical budget (median salary 155K$) , yet (confirming previous findings) a randomized trial published in JAMA in 2000 found docs no better than nurse practitioners (median salary 77K$):  
+
+1316 patients who had no regular source of care and kept their initial primary care appointment were enrolled and randomized with either a nurse practitioner (n = 806) or physician (n = 510). … No significant differences were found in patients’ health status … at 6 months … hypertension … was statistically significantly lower for nurse practitioner patients (82 vs 85 mm Hg; P = .04). No significant differences were found in health services utilization after either 6 months or 1 year. There were no differences in satisfaction ratings following the initial appointment (P = .88 for overall satisfaction). Satisfaction ratings at 6 months differed for 1 of 4 dimensions measured (provider attributes), with physicians rated higher (4.2 vs 4.1 on a scale where 5 = excellent; P = .05).
+
+But docs are taught more medicine than nurses; why are they no better at primary care?  Probably because docs are famously overconfident.  For example, one study found that on average when docs were 88% confident that their patient had pneumonia, in fact only 20% of such patients had pneumonia.   And overconfidence is fatal in primary care.
+ Imagine you are a parent with a sick child, wondering whether to take that child to the hospital.  The key to doing well at this task is to know when you don’t know.  If you see nothing unusual, you should stay home, but if you see something unusual or extreme that you do not understand, you should ask for professional advice.   
+ It is the same in primary care; most patients are simple and boring: sniffles, rashes, and so on.  Doctors, nurses, or paramedics can all do primary care well if they know when they do not know, i.e., if they can recognize signs that a patient is unusual, and should be referred to a specialist.   And this is where overconfidence is fatal.   Someone who knows less medicine, but admits when they do not know, can do as well as someone who knows more, but is overconfident.  
+
+
+title: Overconfidence Erases Doc Advantage
+
+date: April 25, 2007 6:00 am
+

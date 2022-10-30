@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Ken Lee’s result that high med spending states tend to have more cancer deaths inspired me to look up the med lit on cancer screening.  I turned to Cochrane Reviews, high quality med lit reviews.  Here are the reviews I found on cancer screening:
+Breast cancer:
+Eight eligible trials were identiﬁed. We excluded a biased trial and included 600,000 women in the analyses. Three trials with adequate randomisation [with 260,000 women] did not show a signiﬁcant reduction in breast cancer mortality at 13 years; four trials with suboptimal randomisation showed a signiﬁcant reduction in breast cancer mortality with an RR [risk ratio] of 0.75 (95% CI 0.67 to 0.83). … Signiﬁcantly more breast operations (mastectomies plus lumpectomies) were performed in the study groups than in the control groups: RR 1.31 (95% CI 1.22 to 1.42) for the two adequately randomised trials. … Breast cancer mortality was an unreliable outcome that was biased in favour of screening, mainly because of differential misclassiﬁcation of cause of death. The trials with adequate randomisation did not ﬁnd an effect of screening on cancer mortality, including breast cancer, after 10 years (RR 1.02, 95% CI 0.95 to 1.10) or on all-cause mortality after 13 years.
+Colorectal cancer:
+Four RCTs [randomized controlled trials] … involved 327,043 participants in Denmark, Sweden, the United States, and the United Kingdom. … Combining the four RCTs show that screening results in a statistically significant relative reduction in CRC mortality of 16% (fixed and random effects models: RR 0.84, 95% confidence interval [CI] 0.78–0.90) … Combining the four RCTs did not show any significant difference in all-cause mortality between the screening and control groups.
+Prostate cancer:
+Five RCTs with a total of 341,351 participants were included in this review. … The methodological quality of three of the studies was assessed as posing a high risk of bias. Our analysis of the five studies showed no statistically significant reduction in prostate cancer-specific or all-cause mortality among the whole population of men randomised to screening versus controls.
+Lung cancer:
+We included seven trials (six randomised controlled studies and one non-randomised controlled trial) with a total of 245,610 subjects. There were no studies with an unscreened control group. Frequent screening with chest x-rays was associated with an 11% relative increase in mortality from lung cancer compared with less frequent screening (RR 1.11, 95% CI 1.00 to 1.23).
+Wow.  While cancer screening does consistently lead to more cancer detection and more cancer treatment, it consistently doesn’t lead to lower mortality.
+
+
+title: Skip Cancer Screens
+
+date: May 23, 2011 4:30 pm
+

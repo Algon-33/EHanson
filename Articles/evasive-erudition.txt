@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Alex lent me the book Status Anxiety by Alain de Botton. Botton exudes erudition, overflowing with fancy words and prestigious literary examples.  But he also illustrates a common problem with such erudition: Botton hardly has any analysis.
+This at least makes Botton easy to summarize.  First, he says it can be very stressful to worry about status.  Second, he says the situation is worse today because before folks weren’t so overtly compared to people close to them, while today most folks work in large heavily-ranked organizations.  When anyone can grow up to be President, the fact that you didn’t can make you feel worse.
+Third and finally, Bottom takes great comfort from the fact we have several competing status hierarchies, some of which “question” others.  Instead of trying to be rich, you can instead try to be a great artist, comedian, saint, or bohemian:
+Standing witness to hidden lives, novels may act as conceptual counterweights to dominant hierarchical realities. They can reveal that the maid now busying herself with lunch is a creatures of rare sensitivity and moral greatness, while the baron who laughs raucously and owns a silver mind has a heart both withered and acrid. …
+A mature solution to status anxiety may be said to begin with the recognition that status is available from, and awarded by, a variety of different audiences – industrialists, bohemians, families, philosophers – and that our choice among them may be free and willed. However unpleasant anxiety over status must be, it is difficult to image a good life entirely free of them, for  the fear of failing and disgracing oneself in the eyes of others is an inevitable consequences of harboring ambitions. … Status anxiety may be defined as problematic only insofar as it is inspired by values that we uphold because we are terrified and preternaturally obedient, … because we have grown too imaginably timid to conceive of alternatives.
+Philosophy, art, politics, religion, and bohemia … institute new kinds of hierarchies based on sets of values unrecognized by, and critical of, those of the majority. … They have helped to lend legitimacy to those who, in every generation, may be unable to unwilling to comply dutifully with the dominant notions of high status.
+But what exactly is the advantage of being in the top 4% for one of five key rankings, instead of the top 20% for a single common ranking.  Botton doesn’t even consider this question.  Tyler suggests we prefer to fool ourselves by overemphasizing the importance of the rankings where we excel.  But why is this better than just fooling yourself about your common ranking, or how much ranking matters?
+I suspect what is really going on here is that Botton was anxious when he rated only moderately well on the “majority” ranking, but was then relieved to see he ranked fantastically high on certain “non-majority” rankings.  “Whew,” said Botton, “This makes my implicit overall ranking much better.”  Alas such comfort isn’t available to most folk.
+
+
+title: Evasive Erudition
+
+date: September 18, 2010 8:00 am
+

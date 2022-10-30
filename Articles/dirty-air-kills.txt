@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+I’ve long been struck by how consistently different methods find large health harms from air pollution. Most people seem to think we no longer have an air pollution problem, because we mostly don’t see much air pollution. But the particles that are too small to see continue to cause great harm.
+The US Federal EPA standard for air pollution in the form of particles of size 2.5 microns or smaller is an annual average of 15, and a 24 hour average of 35, micrograms per cubic centimeter. Many places are not in compliance with these standards (check your area here and here).
+A 2009 paper in the New England Journal of Medicine estimated that decreasing this pollution number by 10 units on average increases lifespan by 0.61±0.20 years. A 2006 paper in the American Journal of Respiratory and Critical Care Medicine estimated that such a change would decrease mortality by about 15%, adding about two years of lifespan. (Quotes below.)
+These are huge gains, which could be achieved at a modest expense, especially compared to the vast costs we pay for tiny health gains via medicine. More should be done.
+Those promised quotes:
+NEJM 2009:
+We compiled data on life expectancy, socioeconomic status, and demographic characteristics for 211 county units in the 51 U.S. metropolitan areas with matching data on fine-particulate air pollution for the late 1970s and early 1980s and the late 1990s and early 2000s. Regression models were used to estimate the association between reductions in pollution and changes in life expectancy, with adjustment for changes in socioeconomic and demographic variables and in proxy indicators for the prevalence of cigarette smoking.
+A decrease of 10 μg per cubic meter in the concentration of fine particulate matter was associated with an estimated increase in mean (±SE) life expectancy of 0.61±0.20 year (P=0.004). The estimated effect of reduced exposure to pollution on life expectancy was not highly sensitive to adjustment for changes in socioeconomic, demographic, or proxy variables for the prevalence of smoking or to the restriction of observations to relatively large counties. Reductions in air pollution accounted for as much as 15% of the overall increase in life expectancy in the study areas.
+AJRCCM 2006:
+A small number of studies have assessed the effect of reductions in air pollution on mortality. Mortality in Utah Valley decreased by 3% when average particulate air pollution (PM10) concentrations decreased by 15 microgram/m^3 as the result of a 13-mo strike at a local steel mill. Mortality in Dublin decreased by 8% after a 36-microgram/m^3 decrease in average particulate air pollution (black smoke) due to a ban on coal sales. Restrictions on the sulfur content of fuel oil in Hong Kong resulted in a 45% average reduction in SO2, and the average annual trend in deaths from all causes declined 2% and from respiratory causes declined 3.9%. In these studies, improvements in mortality were observed in the months after well-deﬁned improvements in ambient air quality.
+Earlier analysis of the Harvard Six Cities adult cohort study showed an association between long-term ambient PM2.5 and mortality between enrollment in the mid-1970s and follow-up until 1990. We extended mortality follow-up for 8 yr in a period of reduced air pollution concentrations. We found an increase in overall mortality associated with each 10 microgram/m^3 increase in PM2.5 modeled either as the overall mean (rate ratio [RR], 1.16; 95% confidence interval [CI], 1.07–1.26) or as exposure in the year of death (RR, 1.14; 95% CI, 1.06–1.22). PM2.5 exposure was associated with lung cancer (RR, 1.27; 95% CI, 0.96–1.69) and cardiovascular deaths (RR,1.28; 95% CI, 1.13–1.44).
+
+
+title: Dirty Air Kills
+
+date: August 15, 2012 11:30 pm
+

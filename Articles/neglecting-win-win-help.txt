@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+Consider three kinds of acts:
+
+S. Selfish – helps you, and no one else.
+A. Altruistic – helps others, at a cost to you.
+M. Mixed – helps others, and helps you.
+
+To someone who is honestly and simply selfish, acts of type A would be by far the least attractive. All else equal such people would do fewer acts of type A, relatives to other types. Because they don’t care about helping others.
+To someone who is honestly and simply altruistic, in contrast, acts of type M should be the most attractive. All else equal, such a person should more often do acts of type M, relative to the other types. A simply altruistic person is happy to help others while helping themself.
+Now consider someone who wants to show others that they are altruistic and not selfish. To such a person, type M acts have a serious problem: since both selfish and altruistic people often do type M acts, observers may plausibly attribute their behavior to selfishness. Compared to a simply altruistic person, a person of this type finds type A acts more attractive, and type M acts less attractive. They want everyone to see them suffering, to show they are not selfish.
+In fact, most people do seem to care just as much about seeming altruistic as about being altruistic. I thus predict a neglect of acts of type M, relative to acts of type A. For example:
+
+Having kids. Observers often don’t credit parents for being altruistic toward their kids. They instead describe parents as selfishly wanting to enjoy the kids attention and devotion.
+Having lovers. In a world of monogamous romantic pairs, someone who chooses not to pair up can force someone else to also go without a partner. So choosing to be part of a pair helps others. But observers often don’t credit romantic partners for altruism toward partners. They instead say lovers selfishly seek pleasure and flattery.
+Inventing. While people in some kinds of professions are credited with choosing them in part to help others, people in other professions are not so credited, even when they give a lot of help. For example, nurses are often credited with altruism, but inventors are usually not so credited. Even though inventors often give a lot more help to the world. Perhaps because inventing seems more fun than nursing.
+Marginal charity. Adjusting private optima a bit in the direction of social good helps others at almost no cost to yourself, but is hard for observers to distinguish from not doing so.
+
+In sum, the more eager we are to show others that we care, the less eager we are to do things that both help us and help others. We instead do more things that help others while hurting us, so that we can distinguish ourselves from selfish people. Because of this we neglect win-win acts like having kids, being in love, and inventing. Which seems a shame.
+Added 8a: Seems I’ve said something like this before, as did Katja Grace even earlier. Seems I’ve written more than I can keep track of.
+
+
+title: Neglecting Win-Win Help
+
+date: August 15, 2014 7:35 pm
+

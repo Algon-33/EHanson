@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+A randomized insurance experiment found that on average people who thought they had a higher health risk bought more insurance. But they didn’t actually have higher risk:
+[In] a large-scale randomized field experiment in Mexico … [in ’04 on] a voluntary health insurance option [=SP] … ‘high risk’ agents are, ceteris paribus, more likely to opt into SP—although the insured are not more  ‘risky’ on average. That is, despite the absence of a positive raw correlation between agents’ insurance status and proxies of risk, this paper presents evidence of the systematic selection predicted by theory. In particular, individuals who rated their health as “bad or very bad” before SP became available are 6.9 percentage points more likely to sign up for SP than those in “good or very good” health  (compared to an overall treatment effect of  29 percentage points).
+Curiously, however, agents in the experiment sort only on pre-period medical expenditures and subjective well-being. There appears to be no selection on  objective measures of health—possibly because individuals are less aware of the latter.  … [Regarding] preventive care decline with insurance coverage, the effect of SP on the utilization of these services is negative and non-trivial in size. Given the positive price effect, such a decline is likely due to  ex ante moral hazard. (more)
+This supports the idea that medicine is less about health than health-related feelings. If medicine were more about the reassurance that comes from being taken care of medically (because medicine is a standard way for others to show that they care about us), it makes sense that we want more insurance when we feel more vulnerable to illness, but that sense of vulnerability would  have a lot more to do with the social assurances we desire than our state of health.
+
+
+title: All In Their Heads
+
+date: January 7, 2012 9:30 am
+

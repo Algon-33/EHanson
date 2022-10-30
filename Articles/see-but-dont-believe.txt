@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Friday’s Science reported that one in four published journal articles has misleadingly manipulated images. 
+
+Some biologists become so excited by a weak signal suggesting the presence of a particular molecule that "they’ll take a picture of it, they’ll boost the contrast, and they’ll make it look positive" … scientific journals, concerned about a growing number of cases of image manipulation, are cracking down on such practices with varying degrees of aggressiveness.  At one end of the spectrum is the biweekly Journal of Cell Biology, which for the past 4 years has scrutinized images in every paper accepted for publication — and reports that a staggering 25% contain at least one image that violated the journal’s guidelines.   That number has held steady over time … 
+Most journals are reluctant to devote much staff time and money to hunting for images that have been inappropriately modified.  Vanishing few are emulating the Journal of Cell Biology. … and its two sister journals, which have a dedicated staffer who reviews the roughly 800 papers accepted by all three each year.   Science‘s screening is principally designed to pick up selective changes in contrast and images that are cut and pasted. … Since initiating image analysis earlier this year, Science has seen "some number less than 10," or a few percent at most.  … the difference might be due to … the fact that [the Journal of Cell Biology‘s] staffer … is now unusually experienced at hunting for modifications.
+
+The cost-effectiveness of this one staffer in disciplining an entire field of research seems enormous.  We could clearly increase research progress overall by replacing a few more researchers with such staffers.  The fact that no other journals do anything close suggests either that we have a serious coordination failure, or that research progress is not a high priority. 
+
+
+title: See, But Don’t Believe
+
+date: December 28, 2006 6:00 am
+

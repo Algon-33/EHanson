@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+In the latest American Journal of Economics and Sociology, Arthur Diamond presents a very disturbing result:
+Polywater, one of the most famous mistaken scientific research programs of the past half-century, is used as a case study to examine whether polywater researchers later experienced lower citation counts, or less favorable job mobility. The primary result is that simply writing on polywater, either pro or con, has a negative impact on future citations, in comparison with those who never wrote on polywater. The lifetime value of the lost citations is roughly in the range of $13,000 to $19,000. However writing on polywater did not affect the probability of a scientist leaving university employment.
+Once polywater was considered a failure, not only were those who had written in its favor punished, but those who had written against it were punished just as strongly!  If this is a typical outcome, we can conclude that academic incentives are to just ignore contrarian claims that you do not believe will become mainstream.  Try to refute a contrarian claim, and even if you succeed you will be treated just like its defenders.  Together with last week's debating result:
+If your side is currently favored, you don't want to debate the other side!
+we can see that intellectuals have little incentive to engage contrarian views.  One possible cause here may be like "You Can't Not Believe Everything You Read".  Diamond suggests another cause:
+Even if a scientist sets out to refute a theory and succeeds, the scientist might pay a penalty in that the refutation may become a forgotten dead end, not generating any further citations to the scientist who correctly authored the refutation. 
+
+title: Pox On Both Houses
+
+date: April 30, 2009 10:00 am
+

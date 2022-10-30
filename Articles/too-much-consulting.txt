@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Last night I discussed the popularity of law, finance, and management consulting with Tyler and many somewhat-libertarian-leaning others. I was surprised that most were skeptical that firms get their money’s worth from consulting, more skeptical than for law or finance. I was also surprised that most focused on explaining why kids from elite schools work at such firms, rather than on why firms pay so much for this consulting.
+To me, it is easy to understand why consulting firms attract so many elite students, given the wages, prestige, and job experience they offer. And it is also easy to see why firms might pay a ton for consulting, relative to law and finance – changing your basic business strategy can conceivably add enormous value, while minor changes to contract details and financing terms have limited value.
+The puzzle is why firms pay huge sums to big name consulting firms, when their advice comes from kids fresh out of college, who spend only a few months studying an industry they previous knew nothing about. How could such quick-made advice from ignorant recent grads be worth millions? Why don’t firms just ask their own internal recent college grads?
+Some say that consulting firms use their access to collect data on best practices, data that other firms are eager to pay for. But while this probably contributes, I find it hard to see as the main effect.
+My guess is that most intellectuals underestimate just how dysfunctional most firms are. Firms often have big obvious misallocations of resources, where lots of folks in the firm know about the problems and workable solutions. The main issue is that many highest status folks in the firm resist such changes, as they correctly see that their status will be lowered if they embrace such solutions.
+The CEO often understands what needs to be done, but does not have the resources to fight this blocking coalition. But if a prestigious outside consulting firm weighs in, that can turn the status tide. Coalitions can often successfully block a CEO initiative, and yet not resist the further support of a prestigious outside consultant.
+To serve this function, management consulting firms need to have the strongest prestige money can buy. They also need to be able to quickly walk around a firm, hear the different arguments, and judge where the weight of reason lies. And they need to be relatively immune to accusations of bias – that their advice follows from interests, affiliations, or commitments.
+All three of these functions seem to be achieved at a low cost by hiring good-looking kids from our most prestigious schools. These are the cheapest folks you can buy with our most prestigious affiliations, they are smart enough to judge where reason lies, and they have few prior affiliations to taint them with bias. They can not only “borrow your watch to tell you the time,” but can also cow you into submission in accepting that time.
+Yes the information contained in consulting advice can be obtained elsewhere at a lower cost.  Firms could hire most any smart independent folks, or set up a prediction market. But alas those sources don’t have the raw strength of status to cow opponents into submission, opponents who in practice can block changes no matter what a CEO declares.
+So mine is a signaling and status story (surprise surprise). The weight of status often decides outcomes, no matter what the CEOs commands, and so CEOs often need to bring out status ringers, to cow opponents into submission.
+
+
+title: Too Much Consulting?
+
+date: January 31, 2012 6:30 pm
+

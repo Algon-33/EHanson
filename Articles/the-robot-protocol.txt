@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Talking with a professor of robotics, I noticed a nice approachable question at the intersection of social science, computer science, and futurism.
+Someday robots will mix with humans in public, walking our streets, parks, hospitals, and stores, driving our streets, swimming our waterways, and perhaps flying our skies. Such public robots may vary enormously in their mental and physical capacities, but if they are to mix smoothly with humans in public they then we will probably expect them to maintain a minimal set of common social capacities. Such as responding sensibly to “Who are you?” and “Get out of my way.” And the rest of us would have a new modified set of social norms for dealing with public robots via these capacities.
+Together these common robot capacities and matching human social norms would become a “robot protocol.” Once ordinary people and robots makers have adapted to it, this protocol would be a standard persisting across space and time, and relatively hard to change. A standard that diverse robots could also use when interacting with each other in public.
+Because it would be a wide and persistent standard, the robot protocol can’t be matched in much detail to the specific local costs of implementing various robot capacities. Instead, it could at best be matched to broad overall trends in such costs. To allow robots to walk among us, we’d try to be forgiving and only expect robots to have capacities that we especially value, and that are relatively cheap to implement in a wide range of contexts.
+(Of course this general robot protocol isn’t the only thing that would coordinate robot and human interactions. There’d also be many other more context-dependent protocols.)
+One simple option would be to expect each public robot to be “tethered” via fast robust communication to a person on call who can rapidly respond to all queries that the robot can’t handle itself. But it isn’t clear how sufficient this approach will be for many possible queries.
+Robots would probably be expected to find and comply with any publicly posted rules for interacting in particular spaces, such as the rules we often post for humans on signs. Perhaps we will simplify such rules for robots. In addition, here are some things that people sometimes say to each other in public where we might perhaps want robots to have analogous capacities:
+Who are you? What are you doing here? Why are you following me? Please don’t record me. I’m serving you with this legal warrant. Stop, this is the police! You are not allowed to be here; leave. Non-authorized personnel must evacuate this area immediately. Get out of my way. You are hurting me. Why are you calling attention to me? Can you help me? Can you take our picture? Where is the nearest bathroom? Where is a nearby recharging station? (I may add more here.)
+It seems feasible to start now to think about the design of such a robot protocol. Of course in the end a robot protocol might be just a social convention without the force of law, and it may result more from decentralized evolution than centralized design. Even so, we may now know enough about human social preferences and the broad outlines of the costs of robot capacities to start to usefully think about this problem.
+
+
+title: The Robot Protocol
+
+date: March 13, 2017 10:00 am
+

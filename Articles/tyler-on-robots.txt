@@ -1,0 +1,41 @@
+author: Robin Hanson
+
+text: 
+Tyler Cowen recently was part of a recorded panel discussion on Will Robots Steal Your Job? I’ve included some quotes below. I think he basically gets things right, at least from the point of view of humans. Oh he says apparently silly things like:
+Smart machines will always be complements and not substitutes [for humans], but it will change who they’re complementing.
+But from the context you can see he just means that really rich humans, who own a lot of robot-relevant capital, will enjoy having physical human as servants. Tyler also insists change will be gradual, apparently dismissing the whole brain emulation scenario I focus on, in which some change is necessarily rather sudden. Perhaps he thinks that won’t be possible until very late in his scenario.
+My main complaint is that Tyler seems to completely ignore the experiences and welfare of the robots themselves (as do the other three panelists). Somewhat like Europeans in 1700 discussing the wisdom of their colonizing the world, but considering only on its effects on Europeans. I doubt this is because Tyler agrees with Bryan Caplan that robots can’t possibly be conscious. What then? Does Tyler simply not care about non-humans?
+Those quotes:
+[47:05-50:10]
+Farhad Manhjoo: Tyler what do you think if that, is it fundamentally a new kind of thing?
+Tyler Cowen: I do think its a new kind of thing, but let me outline a more optimistic case, and we can all decide what to make of it, since this is what you want. (laughter)
+When smart machines really take off, there will be much much more output. Things will be more efficient, there will be more stuff, it will be higher quality, medicine will be much better. So there’ll be a lot more wealth. That wealth means its possible to support many people, so even if wages are low in a lot of sectors, if you own a pretty small amount of capital, you’ll still be quite well off. An alternative scenario is that governments own capital to some extent, and have more redistribution; there’s a kind of guaranteed annual income in this scenario, because its easy enough to afford it. And maybe a lot of people don’t have jobs in the contemporary sense, but again they still do fine. So as long as total output is going up, which clearly it is in these scenarios, there’s always optimistic corners to these pictures.
+The other point I would make is I think smart machines will always be complements and not substitutes, but it will change who they’re complementing. So I was very struck by this woman who was a doctor sitting here a moment ago, and I fully believe that her role will not be replaced by machines. But her role didn’t sound to me like a doctor. It sounded to me like therapist, friend, persuader, motivational coach, placebo effect, all of which are great things. So the more you have these wealthy patients out there, the patients are in essense the people who work with the smart machines and augment their power, those people will be extremely wealthy. Those people will employ in many ways what you might call personal servants. And because those people are so wealthy, those personal servants will also earn a fair amount.
+So the gains from trade are always there, there’s still a law of comparative advantage. I think people who are very good at working with the machines will earn much much more. And the others of us will need to find different kinds of jobs. But again if total output goes up, there’s always an optimistic scenario.
+Manhjoo: Doesn’t your optimistic scenario require a long transition period? If this technology was going to come about over a period of a hundred years, maybe we could sort of adjust society to that model. But if its going to come about in the next twenty years, lets say, wouldn’t it be much harder to get there?
+Cowen: We’re going to have a long transition scenario.  You look at something like chess, which is highly manageable, highly regular, it took really quite a long time to get chess playing machines to be able to beat the best humans. Go, the best humans are still better. Shogi its close. You look at a lot of different areas. There medicine, there’s law, there’s economists, and there’s going to proceed at different paces, there’s be a kind of slow gradual turn over of the economy, where people gradually switch to smart machines, and people switch sectors, and I don’t see why its the singularity scenario where we wake up one morning and the terminator arrives and its like “Oh my God.” I think that’s pretty unlikely. …
+[55:15-55:40]
+Cowen: If I earned ten million dollars a year, I would hire a person just to take around my dry cleaning. I think basically we’ll end up hiring other people to cheer us up. The restaurant example is a very good one. To go to horn and harness is depressing. You go to a restaurant, someone smiles they say hello Mister Cowen, they bring you to the seat, the waiter or waitress comes by, they cheer you up. A lot of jobs will be about motivation. Just like the doctor here is motivating her patients. Motivation will be one of the biggest employment sectors in this future.
+[58:55-59:05] M: Tell me why we’d just haver to work for ten hours a week. We’d just have to work for a little bit, because everything would be so cheap?
+Cowen: Absolutely, you could work more if you wanted, but …
+[1:00:05-1:01:05]
+Cowen: Again, I’m putting on the optimists hat, which was the request.
+Manhjoo: Yes. But do you actually believe it then? Put on the other hat.
+Cowen: You’re going to get a lot of different results. It will depend a great deal on the country, and most of all how politics responds. One issue I also worry about, distinct from this issue, is that I think in some sense very good drugs will be quite a threat to jobs.
+Manhjoo: Explain that.
+Cowen: If drugs are really fun and totally safe, which may not be possible, we don’t know, but you could imagine that as a technological advance, its really going to cut into a lot of this spending on personal servants, and getting your hair done, and going to the spa; just stay at home and take your drugs, right?
+… So that’s a competing force against smart machines. In part the future will be determined by which set of forces are winning that race. …
+[1:11:55-1:13:00]
+Manhjoo: What about people who just don’t have the aptitude for that kind of work? What do those people do?
+Michael Lind: Drugs.
+Cowen: Drugs. (laughter) The new order you can already see this, will favor conscientious ness as a personality trait. And on average that will favor  female labor I think.  I think there will be some decent percentage of people who not quite for economic reasons, but for reasons of temperament, are simply going to do very badly in this order, and I think some of those people will end up  living in a kind of shanty town, getting a  eery low income, with other people like that. And today we call those prisons, or you have tent cites, or in developing countries, a place like Brazil, you just have people living in low rent areas and not getting public services. And I think that will be part of the new equilibrium. for some people. People basically who are not conscientious enough to simply take a job, there’s a rich person willing to pay them, what they’re supposed to do isn’t that hard, the wage isn’t bad, but they just can’t do it. Those people in my view will be the big losers.
+[1:17:55-1:18:30]
+Cowen: Don’t just focus on labor income, think about capital income. Anyone who inherits anything form their parents, who admittedly is not everyone, they can just live off of the capital their whole life. Labor is 69% of GDP. If you imagine all that labor, all those jobs, going away, and we have more output, then you just have these staggeringly high returns to capital.
+Lind: Unless you have eight kids.
+Cowen: Even then, divide by eight. People will still be doing pretty well. So having access to capital income I think is the main question, not what your job will be.
+
+
+title: Tyler On Robots
+
+date: October 5, 2011 10:10 am
+

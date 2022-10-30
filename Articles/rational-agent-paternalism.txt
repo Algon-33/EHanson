@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+While paternalism is about bias, it need not be about irrational bias.  In a 2003 Journal of Public Economics paper, I modeled product bans and warnings directed at completely-rational consumers, and chosen by a better-informed completely-rational regulator who only cares about economic welfare.   I found:
+
+Even ideal regulators want to lie about product quality, to correct for other market failures.
+Even a small temptation to lie makes consumers disbelieve most of what regulators say.
+Regulators who can ban sometimes do, as consumers won’t believe severe warnings.
+Consumers believe more severe warnings from regulators who can only warn.  
+When regulators prefer to talk up quality (e.g., in health, school, investing), both regulators and consumers are better off if regulators cannot ban.
+
+Yes, this model may be less relevant if irrational biases are central to paternalism.  But it at least gives us a concrete reference point.  Weather permitting, David Balan and I debate paternalism today.  
+
+
+title: Rational Agent Paternalism
+
+date: March 7, 2007 6:00 am
+

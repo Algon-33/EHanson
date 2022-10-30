@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+The most interesting thing I learned at the Symposium last weekend was this two year old paper on a survey about enhancement.  Its main result was that the more people considered a feature to be a key part of their identity, the less they wanted to improve it.   Few folks want to improve their empathy, self-confidence, or self-control, while more folks want to enhance their rote memory, math ability, and wakefulness.   I suspect something similar holds for beliefs: the more important a belief is to our identity, the less eager we are to improve that belief via evidence or analysis.  Beware identifying with beliefs!
+The paper’s main table:
+
+Hat tip to Anders Sandberg.
+
+
+title: Improved Cores Unwanted
+
+date: July 3, 2009 9:00 am
+

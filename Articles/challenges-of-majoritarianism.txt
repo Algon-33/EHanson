@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+Hal Finney does us a great service by articulating "Philosophical Majoritarianism":
+
+On most issues, the average opinion of humanity will be a better and less biased guide to the truth than my own judgment. … Given that we have  … biases pushing us towards overconfidence …, compensating for these biases requires that we give substantial preference to majoritarianism and only depart from it for very strong reasons. … If I were motivated by overconfidence bias then I would think this is the last position I would want to support.  So … to the extent that the crowd disagrees with philosophical majoritarianism, accepting the principle may nevertheless be justified. 
+
+Here are some challenges Majoritarianism must eventually face:
+  
+
+Do we take a linear or geometric average of probabilities?
+If the average seems inconsistent, do we correct for that?
+If the average seems overconfident, do we correct for that?
+If it has a trend, do we prefer a forecasted future average?
+What if it is self-serving, e.g., "majorities should enslave minorities"?
+Do we include only those alive now, or infer what past and future would think? 
+Do we include morons and babies with equal weight?
+Do we include people who don’t seem to understand the question?
+Do we weigh opinions by education or IQ or something else?
+Why not include animals or robots?
+What if the average differs from the obvious relevant experts?
+What if the average differs from a thick speculative market? 
+Do we average what people say or infer beliefs from what they do?
+Do we use what people do say, or what they would say if asked?
+If answers depend on question framing, which frame do we use?
+
+Added:  It is not clear to me that most people disagree with Hal’s position.  That is, even if most people think that they are personally better than average at estimating truth, they should grant that an average person is better off going with the average, instead of adding in error by choosing their own varied belief.   So if they assume Hal is average, they might not disagree that Hal reduces his error by choosing an average belief.  
+
+
+title: Challenges of Majoritarianism
+
+date: March 20, 2007 10:46 am
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Imagine that your heart will give out soon, and you can’t get a heart transplant. An artificial heart is available, but someone tells you:
+Artificial hearts are hell! The people who make them and the surgeons who put them in will want to be paid for their efforts. Artificial hearts use software, and software can have errors and require updates. And they may charge you for those updates. The artificial heart won’t be exactly like your old one, so the person who lives on with that heart after you won’t be exactly you. Furthermore, you can’t be absolutely sure that after the surgery they won’t secretly wisk you away to a foreign land where you will be enslaved with no rights, forced to clean toilets or fight wars, or tortured just for the fun of it. Why would anyone want an artificial heart?
+This seems a crazy weak argument to me, so weak that it seems obviously crazy to make it. Yet Annalee Newitz offers exactly this argument against ems (= uploads):
+The idea is that, one day, we will be able to convert all our memories and thoughts into hyper-advanced software programs. Once the human brain can run on a computer – or maybe even on a giant robot – we will evade death forever. Sounds cooler than a flying car, right? Wrong. If they ever exist, uploads will be hell. …
+Boris’s brain can live forever inside some kind of virtual world like Minecraft, which looks and feels to him like reality. That means his entire universe is dependent on people or companies who run or manage servers, such as Amazon Web Services, to survive. Boris is going to be subjected to software updates that could alter his perceptions, and he might not be able to remember his favourite movie unless he pays a licensing fee. …
+Somebody could duplicate Boris and make two armies of Borises fight each other for supremacy. Or, as Iain M. Banks suggested in his 2010 novel Surface Detail, a nasty political regime might create a virtual hell full of devils who torture Boris’s brain … He could be reprogrammed as a street cleaner, forced to mop Liverpool’s gutters for weeks without respite, …
+Is it really a continuation of Boris the person or a completely different entity that has some of Boris’s ideas and memories? And what kind of rights does Boris’s uploaded brain have? He might become the property of whoever owns the server that runs him. … Technology decays and dies, so immortality isn’t guaranteed. So why would anyone want to be uploaded? (more)
+Here this is published by what was once my favorite magazine. By an author who says she’s published in the NYT, which calls her new book “breathtakingly brilliant”. What is it about the future that makes people willing to say and accept such crazy things? This seems related to tech-related ingratitude, where people seem willing to call tech firms evil if there is ever any downside whatsoever to using their products. Which also seems pretty crazy.
+Added 9am: Some correctly note that we may naturally be more concerned about errors in artificial brains than in artificial hearts. But the large and popular product categories of education, media, and mind-altering drugs are similarly ones where one should be more concerned about errors, because errors change our minds. Just because errors are possible and a concern doesn’t mean there can’t be a huge eager demand, nor does it turn the resulting scenario into “hell”.
+
+
+title: Crazy Complaints
+
+date: January 21, 2020 8:00 pm
+

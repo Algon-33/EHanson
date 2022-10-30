@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Luke Muehlhauser quotes from Douglas Hubbard’s How to Measure Anything:
+By 1999, I had completed … analysis on about 20 major [IT] investments. … Each of these business cases had 40 to 80 variables, such as initial development costs, adoption rate, productivity improvement, revenue growth, and so on. For each of these business cases, I ran a macro in Excel that computed the information value for each variable. … [and] I began to see this pattern:
+
+The vast majority of variables had an information value of zero. …
+The variables that had high information values were routinely those that the client had never measured…
+The variables that clients [spent] the most time measuring were usually those with a very low (even zero) information value. …
+
+Since then, I’ve applied this same test to another 40 projects, and… [I’ve] noticed the same phenomena arise in projects relating to research and development, military logistics, the environment, venture capital, and facilities expansion. (more)
+In his book summary at Amazon, Hubbard seems to explain this sort of pattern in terms of misconceptions: read his book to fix the three key misconceptions that keep people from measuring stuff. But the above pattern seems hard to understand as mere random errors in guessing each variable’s info value or measurability.
+In my experience trying to sell prediction markets to firms, I’ve noticed that when we suggest they make markets on the specific topics that seem to be of the most info value, they usually express strong reluctance and even hostility. They choose instead to estimate safer safer things, less likely to disrupt the organization.
+For example, the most dramatic successes of prediction markets, i.e., where correct market forecasts most differ from official forecasts, are for project deadlines. Yet even hearing this few orgs are interested in starting such markets, and those that do and see dramatic success usually shut them down, and don’t do them again. One plausible explanation is that project managers want the option to say after a failed project “no one could have known about those problems.” Prediction markets instead create a clear record that people did in fact know.
+But that is just one reason for one kind of example. It isn’t a general explanation for what seems to be an important general and quite lamentable trend. So why exactly do we spend the most to measure the variables that matter the least, and refuse to even measure the variables that matter most?
+
+
+title: Missing Measurements
+
+date: August 3, 2013 9:40 am
+

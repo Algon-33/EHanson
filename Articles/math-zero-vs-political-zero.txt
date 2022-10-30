@@ -1,0 +1,44 @@
+author: Robin Hanson
+
+text: 
+It seems I hit a nerve last week when I said:
+
+ But if economists say, as they have for centuries, that a minimum wage raises unemployment, reporters treat them skeptically and feel they need to find a contrary quote to "balance" their story. 
+
+Turns out the new Democratic Congress is considering raising the minimum wage as its first big action, and political partisans are itching to argue about the subject.   For example, see the commentary at Business Week, Washington Monthly, and Cosmic Variance.
+ I intended my claim to be interpreted with the usual social science qualifiers.  It was about the sign of an average of economist judgment regarding a point estimate of an all-else-equal, causal long-run effect to be expected on overall employment from raising a minimum wage.   That sign has been consistently negative for over a century, as seen in most basic economics textbooks.   But people instead interpreted me as saying things like:
+  
+
+raising the minimum wage would be bad
+every economist dislikes a minimum wage
+employment has never risen after a min wage rise
+employment in every industry must fall
+the effect is always large, no matter how small the rise
+the effect is immediate, without delay
+no economics model allows the opposite sign
+every study’s estimate had a significant coefficient
+my favorite model says it, so it must be true
+
+ Quite a lesson in the power of misinterpretation (not always accidental).   To set the record straight, most all economists should agree that:
+
+A low enough minimum wage has no employment effect
+A high enough minimum wage induces a devastating fall
+The effect of a small rise is hard to see amid other effects
+Models (e.g., monopsony) sometimes allow positive effects
+Far more studies have found negative effects than positive
+Due to study errors, we always expect some contrary results
+
+We should also agree that regarding a small (e.g., 10%) rise in the min wage in the U.S. today, plausible models do not allow for a large positive effect, but they do allow for a large negative effect, or for a near zero effect.   
+Part of the problem is that ten years ago two respected Princeton economists used impressive statistical techniques to find estimates insignificantly different from zero for the effect of small rises on particular states and industries, contrary to most of dozens of previous studies.   But many others don’t think this changes our total evidence by that much.  
+Putting it all together, taking into account both theory and data I say:
+
+ Regarding our best estimate of the employment effect of a small min wage rise, while many have recently said this is near zero, more say it is substantially negative, and I have asked around and found *no* economist who says that it is substantially positive. Thus, I conclude, any reasonable average of these estimates must be negative, and has been so for a while.  
+
+ It seems to me that I am on safe grounds for any mathematical definition of "zero."   But apparently there is another concept of "zero" out there, because many complain that since some economists say their estimate of the employment effect of a small rise is near zero, I am wrong to say that the economic consensus has long been that a minimum wage lowers employment.   
+ I’m too close to this to be a good judge of what exactly all this says about bias, but it seems to me that it must say something.  
+
+
+title: Math Zero vs. Political Zero
+
+date: December 5, 2006 5:31 pm
+

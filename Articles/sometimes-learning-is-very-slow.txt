@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Our best finance theories predict riskier assets gain high returns.  From the July Journal of Financial Economics:
+
+Previous studies typically find a statistically insignificant relation between the market risk premium and its expected volatility. … {But] even 100 years of data constitute a small sample … Using the nearly two century history of U.S. equity market returns [1802-2003] … I estimate a positive and statistically significant risk return tradeoff. 
+
+Remember this whenever someone says that your theory doesn’t seem to give significant results on ten years of data – sometimes you just need a lot more data.
+Added:  I should have been more critical of this paper.  See good comments by Eric Falkenstein.   
+
+
+title: Sometimes Learning Is Very Slow
+
+date: August 17, 2007 6:00 am
+

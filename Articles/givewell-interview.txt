@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Alexander Berger from GiveWell interviewed me on prediction markets, and has posted his notes here. Alex and I seem to disagree about the importance of this topic:
+Organizational obstacles  The main barrier to wider-scale adoption of prediction markets is that most organizations are reluctant to use them. It is unclear why this is the case. Those currently in power within firms may resist prediction markets because the markets would spread previously privileged information across the company and change perceptions of what is knowable and who knows
+what
+I tried to emphasize this topic, but Alex devotes only 60 out of 1800 words to it.
+
+
+title: GiveWell Interview
+
+date: April 24, 2014 3:15 pm
+

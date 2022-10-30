@@ -1,0 +1,17 @@
+author: David J. Balan
+
+text: 
+Not too long ago, the well-known economist Robert Hall presented this paper (co-authored with Susan E. Woodward) at my place of work.  Here is the abstract:
+
+In the standard venture capital contract, entrepreneurs have a large fraction of equity ownership in the companies they found and are paid a sub-market salary by the investors who provide the money to develop the idea.  The big rewards come only to those whose companies go public or are acquired on favorable terms, forcing entrepreneurs to bear a substantial burden of idiosyncratic risk.  We study this burden in the case of high-tech companies funded by venture capital.  Over the past 20 years, the typical venture-backed entrepreneur earned an average of $4.4 million from companies that succeeded in attracting venture funding.  Entrepreneurs with a coefficient of relative risk aversion of two and with less than $0.7 million would be better off in a salaried position than in a startup, despite the prospect of an average personal payoff of $4.4 million and the possibility of payoffs over $1 billion.  We conclude that startups attract entrepreneurs with lower risk aversion, higher initial assets, preferences for entrepreneurship over employment, and optimistic beliefs about the payoffs from their products.
+
+During the seminar it occurred to me that these results, assuming they are correct, are evidence of an absence of overconfidence, at least among the kinds of people who leave good jobs to form high-tech startups.  The reason is that if potential entrepreneurs were massively overconfident, one would expect to see lots of entry of startups based on weak ideas, which would lead to an expected payoff so low that forming a startup would be a losing proposition for the potential entrepreneur unless he/she started out extremely wealthy and/or had very low risk-aversion.  But what the authors actually find is that forming a startup with an average-quality idea* is a break-even proposition for a potential entrepreneur with quite modest wealth and with a more-or-less standard degree of risk-aversion.
+After the talk, I asked Professor Hall if he agreed with this interpretation (he seemed to), and if he would object to my posting about it on OB (he didn't).  But I will make him aware of this post, and invite him to comment if he would like, and correct any mistakes that I might have made.
+
+*The authors have no way to distinguish the quality of an idea, so there is an implicit assumption that the marginal quality of the idea is equal to the average quality of all ideas that actually get implemented.
+
+
+title: Entrepreneurs Are Not Overconfident
+
+date: December 15, 2008 2:00 pm
+

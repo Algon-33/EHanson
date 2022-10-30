@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+I wrote a year ago:  
+
+ It is surely a bad sign about a claim that official institutions don’t consider it worth responding to. … On the other hand, officials do sometimes give detailed responses to popular "nonsense" … And if officials did not have strong critical arguments, they would surely be less likely to break their silence to criticize outsiders.  So in this sense the absence of criticism is favorable evidence.
+
+ The waters are further muddied by examples in Robert Shapiro’s Edge answer:  
+
+ New scientific ideas can be smothered with silence.  I was aware earlier of the case of Gregor Mendel.  His fundamental genetic experiments with peas were ignored for a third of a century. But he had published them in an obscure journal, in an age when meetings and libraries were fewer, and journals were circulated by land mail. When his ideas were rediscovered at the start of the twentieth century, Thomas Hunt Morgan set out to disprove them, and ended up performing experiments that greatly strengthened their case. A Nobel Prize was his reward. … Morgan’s attitude still has a place in science but I no longer believe that it is standard practice. Another strategy has emerged by which some scientists deal with ideas that they dislike. They act as if the discussion or data had never been published, and proceed about their business without mentioning it.
+
+  
+
+ One example involves the use of a technique called "prebiotic synthesis" to support the most prevalent idea about the origin of life.  This theory proposes that life began on this planet with the accidental formation of an elaborate self-copying molecule, RNA or a close relative.  The chemist Graham Cairns-Smith argued in a 1982 book that the technique was flawed and that life’s origin by such an event was extremely improbable. He proposed an imaginative alternative. His alternative was debated, but the practice of prebiotic synthesis was continued without discussion.
+ As I felt that his case was sound, I took up this cause and extended the arguments against prebiotic synthesis. I published a book, and a series of papers in refereed journals, including one devoted entirely to the origin of life. I expected rebuttals, and hoped that new control experiments would be run that would resolve the issue. The rebuttals did not appear, and citations of my work in the field were sparse. When citations were made, they were usually accompanied by a comment that the RNA-first theory had some problems that were not yet resolved. The resolution would take place by further applications of prebiotic synthesis. A blanket of silence has remained in place in the scientific literature concerning the validity of this technique. …
+Professor Kendric Smith of Stanford University has noted a similar pattern in the field of DNA repair, where the contribution of recombination to the repair of damage by ultraviolet radiation has been ignored in key papers. 
+
+I suspect Robert has an overly idealized view of the past – new ideas have always risked suffering in silence.  But of course just because they laughed at Galileo too doesn’t make your ignored idea as good as Galileo’s.
+
+
+title: What Wisdom Silence?
+
+date: February 6, 2008 6:00 am
+

@@ -1,0 +1,38 @@
+author: Robin Hanson
+
+text: 
+Here is a simple model of intellectuals. It is wrong, but insightful:
+
+Intellectuals discover insights, and better intellectuals find more and better insights.
+Insights can be ranked by net value of personal effort. This net value includes how much it would matter if the idea was taken more seriously, and a person’s marginal ability to achieve this.
+Insight value falls with the number of others well placed and motivated to pursue an idea, and by the effectiveness of effort to sustainably change opinions on the subject. Value tends to fall with costs to explain and explore a subject, and with the previous efforts already made.
+Insights vary greatly in value. Topics vary in how unequally distributed are their insight values, and with the potential for very large values.
+Usually, insight value is distributed so unequally that one’s best insight is a substantial fraction, even most, of the value of all one’s lifetime insights.
+When value is very unequal, intellectuals best help the world by following a career plan of first mostly searching for their one best insight, and then mostly promoting and developing that insight.
+Intellectuals following this search-then-promote career plan would do most preaching in the second half of their career. At least if a lot of promotion is possible.
+Greatly diminishing returns to promotion efforts might justify ending promotion of your best insight, and returning to a search for more, or promoting your second best insight.
+An intellectual uncertain about which insight is best might pursue several while studying them, but the world is better off if they soon focus on their one best guess.
+If “preaching” differs from “teaching” in focusing more on fewer bigger insights, then intellectuals promoting their one best insight are roughly “preaching” “sermons”.
+
+In reality, the tendency to preach as a function of status seems to have a roughly slanted-N shape: /\/. While non-intellectuals preach little, amateur intellectuals preach a lot, and even more early in their career. Among academics, high status folks often find a new angle very early in their career, and then publish variations on that for the rest of their career. In contrast, low status folks tend to produce a steady stream of publications, which don’t much build on each other.
+Getting the Nobel prize often triggers a burst of preaching, but mostly on the subject where the prize shows that their insight has long since won out, and doesn’t need promoting. The rest of their preaching is usually spread across many topics, rather than a single second best topic.
+A lot of intellectual preaching is about the “insight” that one political ideology is better than others. Given the number of others motivated to promote each such idea, the marginal value of these promotion efforts by any one person must be very low.
+Most of these deviations from the simple model can be seen as puzzles – we can ask what needs to be added to the simple model to explain them. Some possible missing elements:
+
+Status – The freedom to preach may be seen as high status, with low status academics punished when they presume to take on this high status mark. Amateurs can more freely ignore such pressures.
+Signaling – Common forms of preaching may be seen as too easy. If academics are mainly selected for being impressive, they need to do other things to show off.
+Power – Academics tied to powerful social institutions could make such institutions uncomfortable by endorsing disruptive ideas. Preaching by such academics needs to be channeled into institutionally approved directions.
+
+If you are an intellectual, occasionally ask yourself:
+
+Of all your insights so far, which is most worth devoting a life?
+If you are young and promoting, shouldn’t you keep looking instead?
+If you are old and not yet focused on promoting your best, isn’t it time?
+
+That is: What is your sermon?
+
+
+title: What Is Your Sermon?
+
+date: July 22, 2012 12:00 pm
+

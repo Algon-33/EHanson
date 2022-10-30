@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+I’ve said before that we have pretty good evidence for off-Earth bacteria life, suggesting that such life is common in the nearby universe. However, bacterial life might be common, yet complex multi-cellular life very rare. Here’s a plausible detailed theory about why:
+Under conditions typical of alkaline hydrothermal vents, the combining of H2 and CO2 to produce the molecules found in living cells – amino acids, lipids, sugars and nucleobases – actually releases energy. … Life … is an inevitable consequence of a planetary imbalance, in which electron-rich rocks are separated from electron-poor, acidic oceans by a thin crust, perforated by vent systems that focus this electrochemical driving force into cell-like systems. The planet can be seen as a giant battery; the cell is a tiny battery built on basically the same principles. … The origin of life needs a very short shopping list: rock, water and CO2. … The universe should be teeming with simple cells. …
+The problem that simple cells face is this. To grow larger and more complex, they have to generate more energy. The only way they can do this is to expand the area of the membrane they use to harvest energy. To maintain control of the membrane potential as the area of the membrane expands, though, they have to make extra copies of their entire genome – which means they don’t actually gain any energy per gene copy. …
+Eukaryotes get around this problem by acquiring mitochondria, … containing both the membrane needed to make ATP and the genome needed to control membrane potential. … They were stripped down to a bare minimum. … Mitochondria originally had a genome of perhaps 3000 genes; nowadays they have just 40 or so genes left. For the host cell, it was a different matter. As the mitochondrial genome shrank, the amount of energy available per host-gene copy increased and its genome could expand. …
+We know it happened just once on Earth because all eukaryotes descend from a common ancestor. The emergence of complex life, then, seems to hinge on a single fluke event – the acquisition of one simple cell by another. … The outcome was by no means certain: the two intimate partners went through a lot of difficult co-adaptation before their descendants could flourish. This does not bode well for the prospects of finding intelligent aliens. (more)
+
+
+title: Why Complex Life Is Rare
+
+date: July 9, 2012 8:15 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Ko and Huanga, in the May Journal of Financial Economics:
+
+In behavioral finance, overconfidence has been established as a prevalent psychological bias, which can make markets less efficient by creating mispricing in the form of excess volatility and return predictability. In this paper, we develop a model in which overconfidence causes investors to overinvest in information acquisition when this information could improve market efficiency by driving prices closer to true values. … Overconfidence generally improves market pricing provided the level of overconfidence is not too high.
+
+In principle, prediction markets would require subsidies to get people to take risks trading on topics where they do not need to hedge risks.   In practice, people are often willing to trade in zero-sum situations.  This improves price accuracy overall, but also suggests that people who run markets where folks can now legally speculate will oppose legalizing new markets, for fear of diverting their arrogant traders.  
+
+
+title: Arrogance as Virtue
+
+date: May 30, 2007 6:00 am
+

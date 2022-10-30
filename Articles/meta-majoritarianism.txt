@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Back in March, Hal Finney advocated "Majoritarianism":
+
+In general, on most issues, the average opinion of humanity will be a better and less biased guide to the truth than my own judgment. ….. Given that we have so many intellectual and emotional biases pushing us towards overconfidence in our opinions, compensating for these biases requires that we give substantial preference to majoritarianism and only depart from it for very strong reasons. 
+
+Some of the challenges I raised are addressed in the 1981 book Rational Consensus in Science and Society, where Keith Lehrer and Carl Wagner outlined a position one might call "Meta Majoritarianism":
+
+We shall present a theory of consensual probability … [as a] procedure for aggregating individual probability assignments.  … [that] involves … the computation of consensual weights assigned to each person on the basis of information people have about each other.  …  Our method for finding rational consensus rests on the fundamental assumption that members of a group have opinions about the dependability, reliability and rationality of other members of the group. … a member of the group is rationally committed to the consensual probability … once we agree that the method … is rational, we are rationally committed to the outcome.  
+
+  
+Lehrer and Wagner first describe a "very simple model" in which each person i assigns each other person j a (normalized non-negative) weight Wij.   Collecting these weights into matrix W, one gets a consensus weight wi for each person from the matrix equation W*w = w.   This consensus weight then gives a consensus probability from individual probabilities.   
+ This first approach implicitly assumes each person gives each other person the same weight at all meta levels of evaluation; that person is just as good at guessing rain, guessing how good John is at guessing rain, or guessing how good Mary is at guessing how good John is.  Lehrer and Wagner also describe an "extended model" where each person can assign each other person a different weight at each meta level.   Consensus weights then come from an infinite product of weight matrices, one for each meta level.  
+ This makes metaphorical, if not literal, sense.  Literally, one would want to also let weights vary by topic and time, and simple weighted averages of probabilities are just not the best way to combine the info in each person’s beliefs.  But metaphorically, it does make sense to ask not "What makes you think you are better than average?" but instead ask "What makes think you are better than respected others think you are?"
+
+
+title: Meta Majoritarianism
+
+date: April 21, 2007 11:06 pm
+

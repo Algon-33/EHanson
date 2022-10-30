@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Noted Yale economist William Nordhaus has a new paper “Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth”:
+Assume that labor is constant, that all technological change is capital-augmenting at 10% per year, and that the elasticity of substitution between labor and information capital is 1.25. Figure 3 shows a typical simulation of the share of capital and the growth rates of output and wages.
+In this model, capital slowly gets a larger share of total income and the economic growth accelerates, even though the rate of innovation never changes. Nordhaus lists six empirical predictions for the sign of observed parameters, and finds that four of the six are rejected by our best estimates having the opposite sign. And this doesn’t include the fact that our best estimates find the elasticity of substitution between labor and capital to be less than one. The two sign predictions that match the data suggest it would take a century or more before growth rates exceed 20% per year. Nordhaus says, “The conclusion is therefore that the growth Singularity is not near.”
+Of course this is far from the only possible economic model of a singularity. But it sets a good standard for future efforts. Can anyone find a concrete simple economic model of singularity that better fits the data?
+
+
+title: Failed Singularity Model
+
+date: September 11, 2015 7:50 am
+

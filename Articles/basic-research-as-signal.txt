@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+From a recent Fortune article, a clear example of why corporations do basic research:
+
+ For [Bill Gates] this is a triumphant visit to China, a victory lap of sorts, on which I’ve been invited to tag along. The country is his.  No other Fortune 500 CEO gets quite the same treatment in China. … It was not always so. Microsoft bumbled for years after entering China in 1992, and its business was a disaster there for a decade. … But it was a relatively small step in 1998 – the opening of a research center in Beijing – that proved a turning point. "We just started it here because we thought they’d do great research," says Gates, who raves about the quality of the country’s computer scientists. The lab was what Gates calls a "windfall" for Microsoft’s image. It began accumulating an impressive record of academic publications, helped lure back smart migr scientists, and contributed key components to globally released products like the Vista operating system. The lab soon became, according to polls, the most desirable place in the country for computer scientists to work. 
+
+ Basic research would go on even with no government or charity funding.  Its main function is not research progress, however, but signaling impressive abilities. 
+
+
+title: Basic Research As Signal
+
+date: September 3, 2007 6:00 am
+

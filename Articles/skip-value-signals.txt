@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Consider the following two polls I recently held on Twitter:
+
+Imagine argument for non-normative (= factual) claim on policy-relevant topic. For you to be willing to engage it, author must in essay explicitly affirm related values shared by most people in my:
+— Robin Hanson (@robinhanson) May 5, 2018
+
+
+Imagine you argue for non-normative (= factual) claim on policy-relevant topic. To get readers to engage, you need to show readers that you affirm related values shared by most people in that readers’:
+— Robin Hanson (@robinhanson) May 5, 2018
+
+As writers, these respondents think that readers won’t engage their arguments for factual claims on a policy relevant topics unless shown that the author shares the values of their particular political faction. But as readers they think they need no signal of shared values to convince them to engage such an argument. If these readers and writers are the same group, then they believe themselves to be hypocritical. They uphold an ideal that value signals should not be needed, but they do not live up to this ideal.
+This seems to me part of a larger ideal worth supporting. The ideal is of a community of conversation where everything is open for discussion, people write directly and literally, and people respond mostly analytically to the direct and literal meanings of what people say. People make direct claims and explicit arguments, and refer to dictionaries for disputes about words mean. There’s little need for or acceptance of discussion of what people really meant, and any such claims are backed up by direct explicit arguments based on what people actually and directly said. Even when you believe there is subtext, your text should respond to their text, not to their subtext. Autists may be especially at home in such a community, but many others can find a congenial home there.
+A simple way to promote these norms is to skip value signals. Just make your claims, but avoid adding extra signals of shared values. If people who respond leap to the conclusion that you must hold opposing values, calmly correct them, pointing out that you neither said nor implied such a thing. Have your future behavior remain consistent with that specific claim, and with the larger claim that you follow these norms. Within a context, the more who do this, and the more who support them, then the more reluctant others will become to publicly accuse people of saying things that they did not directly say. Especially due to missing value signals.
+Of course this is unlikely to become the norm in all human conversation. But it can be the norm within particular intellectual communities. Being a tenured professor who has and needs little in the way of grants or other institutional support, I am in an especially strong position to take such a stance, to promote these norms in my conversation contexts. To make it a bit easier for others to follow. And so I do. You are welcome.
+
+
+title: Skip Value Signals
+
+date: May 9, 2018 3:20 pm
+

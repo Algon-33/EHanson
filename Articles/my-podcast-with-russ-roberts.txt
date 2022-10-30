@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Russ Roberts has an interesting series of podcast interviews of economists, most of who are much more distinguished than I.  Today Russ Roberts posts his interview with me, mostly on medicine, but also on a few other topics.  
+The point I make more clearly there than I have before is the importance of not trying to immediately offer ad hoc explanations for every puzzling observation you see.  Instead, collect many puzzles, spread them out on the table before you, and look for a few simple assumptions than can explain many diverse puzzles at once.  This is the key discipline of armchair social science.  
+
+
+title: My Podcast with Russ Roberts
+
+date: May 28, 2007 9:00 am
+

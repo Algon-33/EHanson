@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Our income tax system gives each of us a stake in the work of others – the more money others make, the more we each get via taxes.  In principle we could use this fact to justify a great deal of intervention in everyone’s work lives.  For example, one might argue: why should we let folks choose fulfilling but poorly paid jobs like social worker, veterinarian, or forestry agent, if they are capable of becoming an lawyer, doctor, or engineer?  Or why should we let folks work part time to focus on a music or acting hobby, or choose to live anywhere but the city where their skills are worth the most?
+To most folks such regulations seem intolerably intrusive.  But when people are asked to justify our common and extensive regulations and subsidies of medicine and education, they often mention exactly this issue – that such interventions make sense because we all have a stake in the work of others via the income taxes those folks pay.  Why the asymmetry?  Why do folks think these arguments make sense regarding medicine and education, but not regarding choice of career or location?
+My guess: humans inherited intuitions that the community should have more say in and contribute more to medicine and education.  This is the way our distant ancestors did things in their small nomadic forager bands, and we intuit we should act similarly today.  The stuff about managing our cut of others’ income is just a rationalization.
+
+
+title: Managing Our Cut
+
+date: March 6, 2010 8:40 pm
+

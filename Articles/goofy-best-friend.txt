@@ -1,0 +1,22 @@
+author: Patri Friedman
+
+text: 
+Scott Adams has a suggestion for overcoming bias:
+
+When Dilbert launched in newspapers, the response was underwhelming. In the early years, it wasn’t a workplace strip. It was about Dilbert’s life in general. He just happened to have a job. I was surprised to learn, via my e-mail, that readers loved the relatively rare comics featuring Dilbert in the office. Personally, I didn’t think those were my best work. My ego told me to do it my way. My readers told me I was wrong.
+What the hell do readers know? After all, they aren’t syndicated cartoonists, and I was, albeit in only a few dozen newspapers. But this time, fortunately, I ignored my ego, changed the focus of the strip to workplace humor, and it took off. …
+I’ve come to call this ego-driven behavior the “loser decision.” I don’t mean it as an insult.  It’s an objective fact that life often presents us with choices where the comfortable decision leads nowhere and one that threatens your ego has all the potential in the world.
+You need a healthy ego to endure the abuse that comes with any sort of success. The trick is to think of your ego as your goofy best friend who lends moral support but doesn’t know shit.
+
+I don’t think it’s quite fair to be so down on comfortable decisions – discomfort is, after all, a cost.  But it is an upfront cost, and given our irrationally high discount rates, we are likely to understate the net present value of the decision.  Also, my experience is that people tend to consistently overestimate the amount of discomfort involved in doing something new, and once they start, it usually isn’t that bad.  (Which I have trouble seeing an evolutionary explanation for – any ideas?) 
+So I mostly agree with Adams, but my solution is a bit different:
+  
+Feeling good about yourself is useful because, well, it feels good. But tying that feeling to a specific role reduces flexibility by adding unhappiness to any option which changes that role.  So the broader the concept of what it is you feel good about, and the closer it is to "I feel good about being me", the better.  
+For example, I am about to change roles at work, from being a software engineer to doing leadership development.  If my work-related positive self-image was "I’m a smart programmer!", my ego would have challenged the change, but since it’s more like "I’m a smart guy with a wide range of abilities who finds low-effort high-reward things to work on", it wasn’t an issue.
+So nurture your ego, but keep it general.  And if you feel uncomfortable about a potentially rewarding change because it threatens your self-image, try to see if you can generalize the relevant aspect of your identity that includes the new choice.  Think of yourself as someone who helps improve the lives of others, not as a kindergarten teacher, or as someone who helps software work more efficiently rathr than a C++ optimization specialist, and you may find yourself going down rewarding paths you might otherwise have rejected.
+
+
+title: Goofy Best Friend
+
+date: July 24, 2007 1:00 pm
+

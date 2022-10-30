@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+A year ago I posted on Robert Frank’s status-externality policy arguments (here, here, here).  I accepted the basic idea, but feared selective application:
+Will folks like Frank consistently apply these results to recommend taxes or subsidies to reduce wasteful positional effort, wherever such waste may lie, or will they selectively cite only results favoring pre-existing political positions?
+I couldn’t get Frank to respond to me, but David Friedman just got him to engage in an extended discussion (in order: Frank, Friedman, Frank, Friedman, Frank, Friedman).  Oddly, Frank seems to throw away status externalities entirely as a justification for redistribution!
+In short, notwithstanding the fact that the most important interpersonal comparisons are local, the poor have experienced substantial costs because of the additional spending of the rich. Far more than difficult-to-document claims of psychological damage used by inequality, it is these concrete costs that constitute grounds for saying that in a world without transaction costs, high-ranked positions in the social hierarchy would not be available free of charge. The rich are not paying for the right to compare themselves directly to the poor. They are paying to maintain a social structure from which they benefit greatly.
+Everyone gains, for example, from greater opportunities for specialization and exchange. But as international experience amply demonstrates, social stability cannot be taken for granted when income and wealth inequality grow beyond a certain point. Diverse societies are efficient, but will not remain stable unless the terms of the social contract are perceived as fair. And as every country on the planet has decided—implicitly or explicitly—part of such a contract entails income transfers from rich to poor.
+Frank accepts that most status externalities are local, and so are internalized by firms, clubs, homeowners associations, etc., leaving little net market failure to be addressed by larger policy.  Instead Frank says the rich should give to the poor to keep things “stable,” which seems to refer to violent revolution. But the chance of a violent revolution in our society seems very low, and not obviously correlated with the level of redistribution.  The data Frank accepts suggesting little envy of the rich would seem to support this.  I wonder if Frank would endorse a futarchy giving a large negative weight to violent revolution?  I suspect not.
+
+
+title: Frank Folds
+
+date: May 15, 2010 12:15 pm
+

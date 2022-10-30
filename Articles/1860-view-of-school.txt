@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+The October 2010 Scientific American, p.102, quoting the October 1860 issue:
+A child who has been boxed up six hours in school might spend the next four hours in study, but it is impossible to develop the child’s intellect in this way. The laws of nature are inexorable. By dint of great and painful labor, the child may succeed in repeating a lot of words, like a parrot, but, with the power of its brain all exhausted, it is out of the question for it to really master and comprehend its lessons. The effect of the system is to enfeeble the intellect even more than the body. We never see a little girl staggering home under a load of books, or knitting her brow over them at eight o’clock in the evening, without wondering that our citizens do not arm themselves at once with carving knives, pokers, clubs, paving stones or any weapons at hand, and chase out the managers of our common schools, as they would wild beasts that were devouring their children.
+
+
+title: 1860 View Of School
+
+date: October 2, 2010 12:02 pm
+

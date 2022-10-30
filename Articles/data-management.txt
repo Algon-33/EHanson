@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+In January I said:
+
+Decision makers talk and act like they want more info, and prediction markets would provide such info.  But deep down I think decision makers know they really don’t need most of the info they collect; they collect it to show they are sharp and up on the latest.   
+
+In today’s Dilbert, Dogbert advises the pointy-haired boss:
+
+You need a dash-board application to track your key metrics.   That way you’ll have more data to ignore when you make your decisions based on company politics.
+
+
+
+title: Data Management
+
+date: May 16, 2007 9:38 am
+

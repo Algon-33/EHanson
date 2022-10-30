@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+One of the worst crimes we can imagine is genocide – erasing an entire lineage from the universe forevermore.  Sadly, nature is so cruel that the usual ups and downs in lineage success mean genocide is the natural long-term result for most every lineage!  Let me explain. 
+ Lineages fluctuate on all scales.  Og falls off a cliff, while Ok does not.  A surprise attack wipes out half of a tribe.  A virus kills off half of those in connected community.  A drought kills off half of those in a region.  Or one lineage finds a mutation useful in the current environment while another does not.  
+ These usual ups and downs can be modeled via a "lineage swap."  To swap a population, divide it into halves, pick one at random and delete a random half of it, replacing with copies of random selections from the other half.  When the total population size stays constant (and when the halves-lineage correlation has half the max effect) then after ten swaps the median outcome is for a lineage to contain about half as many individuals as before.  (The mean number is of course unchanged.)  So after one hundred swaps a lineage that started with one thousand individuals is probably extinct.  
+ For our hunter-gather ancestors (and our animal ancestors before that) this was clearly the usual outcome.  Even though the hunter-gatherer population doubled about every quarter million years, twenty five thousand years was plenty of time for the equivalent of several swaps.  Our farming ancestors had a better chance – for lineages whose swap rate was less than one per century, the overall population growth meant it could expect to survive indefinitely.   
+ Since the introduction of industry the situation looks even better.  But more changes are yet to come, which raises the key future genocide question:  Will less than ten swap equivalents continue to happen on average in the time it takes the population to double?  
+
+
+title: Natural Genocide
+
+date: June 18, 2008 6:00 am
+

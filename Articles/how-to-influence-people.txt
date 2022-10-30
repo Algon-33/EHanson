@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+I posted before on the how-to-win-friends part of Dale Carnegie’s classic How To Win Friends And Influence People. Today I’ll discuss influencing. Carnegie offers twelve principles, the first three of which are:
+
+The only way to get the best of an argument is to avoid it.
+Show respect for the other person’s opinions. Never say, “You’re wrong.”
+If you are wrong, admit it quickly and emphatically.
+
+He illustrates principle 1 with a story:
+During the dinner, … the [storyteller] mentioned that the quotation was from the Bible. He was wrong. I knew that, I knew it positively. … I appointed myself as an unsolicited and unwelcome committee of one to correct him. He stuck to his guns. … Frank Gammond, an old friend of mine, … had devoted years to the study of Shakespeare, So the storyteller and I agreed to submit the question to Mr. Gammond. Mr. Gammond listened, kicked me under the table, and then said: “Dale, you are wrong. The gentleman is right. It is from the Bible.” On our way home that night, I said to Mr. Gammond: “Frank, you knew that quotation was from Shakespeare,” “Yes, of course. … But we were guests at a festive occasion, my dear Dale. Why prove to a man he is wrong? Is that going to make him like you? Why not let him save his face? He didn’t ask for your opinion. He didn’t want it. Why argue with him?” … I not only had made the storyteller uncomfortable, but had put my friend in an embarrassing situation. How much better it would have been had I not become argumentative.
+Carnegie also tells of how Ben Franklin learned a similar lesson:
+“I made it a rule,” said Franklin, “to forbear all direct contradiction to the sentiment of others, and all positive assertion of my own.”
+This is a hard lesson for me. Humans have many conversation ideals, and usually act as if they uphold such ideals. For example, you aren’t supposed to lie. And if you talk about something as if you think it important, and someone else knows a good clear reason that something important about what you said is wrong, they are supposed to tell you, and you are supposed to listen, and then change your mind. So we commonly talk as if we assume people who said something must believe it, as if people who heard a claim and didn’t object must not have known a good clear reason it was wrong, and as if people who don’t publicly change their minds when others object must not think the reason offered was good and clear.
+But we are actually hypocritical about such ideals – we try to avoid visibly violating them, yet are not otherwise eager to follow them against our interests. We often object to unimportant claims by rivals, to gain status at their expense. We often pretend we don’t think reasons offered by others are good, to avoid visibly changing our mind. We often lie. And those of us who are best at arguing and lying are the most eager to uphold conversation ideals, as we can best evade detection of our ideal violations.
+So how committed should we be to such ideals? How should we think of Carnegie and Franklin’s violations, refusing to tell others they are wrong, and even lying on occasion to avoid conflict? Given that they will try to admit when they are wrong, I find it hard to find much fault overall in them. Yes, their refusing to disagree on something important could fail to inform others, but I doubt they took this habit to such extremes. I expect that in such situations they disagreed indirectly, but still got their key info across.
+
+
+title: How To Influence People
+
+date: March 13, 2012 12:00 pm
+

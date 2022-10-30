@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+I’ve complained that regulation usually slows innovation. For example, huge driverless cars gains seem needlessly delayed by excess regulation (Tyler agrees). The problem, however, is not government per se, but the citizens to whom government defers. Politics is not about policy; voters are far more interested in showing off symbolic stances than in giving citizens more of what they want.
+But to be fair, citizens hinder not only private innovation, but also government innovation. Long ago when people were imagining a future of cheap computing and communication, they imagined dramatic gains from government databases and citizen monitoring. But then some warned of how such data and monitoring could support tyranny, and ever since most voters have been so eager to signal their disapproval of such Big Brother domination that they are unwilling to consider the most promising government innovations in data and monitoring.
+For example, me a year ago:
+Overall my students oppose change, moderately favoring whatever is the status quo. So I was quite surprised to see …  85% of my students said yes to: Should all medical practice data be published, aside from data identifying patients?
+I assigned this paper topic again this year and, combining the two years, 76% of 76 students favored the change, which correlated 0.29 with student ability to identify relevant pro/con arguments. Again, I don’t grade students on their position, I don’t say what I support, and students usually oppose change. (For example, they overwhelmingly opposed stricter public-place policies on hand washing after sneezing or using restrooms.)
+Last year, commenters’ main complaint was that it is impossible guarantee privacy. And this is true. In principle, any piece of info you publish about someone could be the last little clue someone else needs to uncover a great secret about them. It all depends on what other info people reveal, and to whom.  The only safe policy is to never publish anything about anyone.  And since info supposedly only visible to government employees are often leaked via bribes, the only really safe policy is to never collect any info.
+But note that this same argument applies to every piece of info the government reveals about anyone, including date of birth, addresses, who/when they marry or divorce, professional licenses, lawsuits, bankruptcies, tax liens, criminal records, etc. The reason few complain about privacy leaks due to such revelations is that most folks have adapted their other info behavior to expecting this info to be made public.
+Similarly, if we gave sufficient advanced warning on a new regime of revealing all med info (minus directly identifying info), most people could adapt their other info behavior to preserve the privacy they want. Don’t let friends drive you to the doc if you don’t want them to know who is your doc. Of course some would mistakenly reveal themselves, and illegal bribery would reveal more. But that can be a price worth paying if there is much to be gained.
+Alas, while even my undergrads can see that revealing all med info could easily meet a cost benefit test, voter distaste for anything smacking of Big Brother will probably long block this innovation. This even though recent legal changes go a long way to actually enabling future dictators:
+Our Presidents can now, on their own: order assassinations, including American citizens; operate secret military tribunals; engage in torture; enforce indefinite imprisonment without due process; order searches and seizures without proper warrants. (more)
+Citizens don’t make a careful tradeoff between social value and preventing future dictators. Instead, thoughtless voters enable Big Brother while symbolically opposing him, and block useful government innovation in the process.
+
+
+title: Blocked State Innovation
+
+date: May 30, 2011 1:00 pm
+

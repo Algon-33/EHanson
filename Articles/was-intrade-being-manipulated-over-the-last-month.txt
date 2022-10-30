@@ -1,0 +1,31 @@
+author: Robert Wiblin
+
+text: 
+Intrade’s betting odds on the 2012 presidential election have differed significantly from those available elsewhere. For the 48 hours preceding the election, the difference in the implied probability of Obama winning on Intrade relative to other betting agencies like Betfair, was 8 to 15 percentage points. This persisted until a large share of Ohio votes had been counted and Colorado and New Mexico were starting to count, at which point the difference quickly evaporated. Over the previous 3 weeks or so, the difference had moved in the range of 5 to 10 percentage points.  The same distortion was observed in favour of McCain during the election in 2008, though to a lesser extent.
+This provided an opportunity to make substantial money by betting on Obama on Intrade and Romney elsewhere – a so called dutch book, or ‘arbitrage‘. I joined some colleagues at 80,000 Hours doing this yesterday to earn money for our favourite cost effective charities. We each walked away with about $500 after all of the associated fees. Eyeballing it, a dutch book is profitable, ignoring the cost to your time, if the probability gap is larger than 3 percentage points; below that, the fees involved will eat up your winnings.
+Why was this possible? I don’t have a good answer, but I can suggest one possibility. Some noteworthy aspects of the situation are:
+
+Americans can’t deposit money into Intrade using credit and debit cards – they have to use bank transfers.
+Bank transfers take at least two days to arrive and cost over $20.
+Everyone else can choose between cards and bank transfers.
+Cards are instantaneous and free (if denominated in US dollars anyway) but have a $2,000 deposit limit in the first month, and $5,000 thereafter.
+It takes at least a day, probably two, to open a new Intrade account and have it approved.
+There are other significant barriers to entry – knowing about the issue, learning about the fees, opening an account with another betting agency and finally having the time and confidence to correctly place the hedge.
+Intrade seems very widely covered by the US media.
+
+A single person with a huge amount in their account from a wire transfer could manipulate the market by selling Obama’s shares down, or buying Romney’s up. This appeared to be happening in the 67-72% likelihood range in which Obama was stuck for a long period of time, while other larger agencies were placing him around 82%. Several people on Intrade’s forum spotted what they thought were abnormally large bids for Romney’s stock.
+Once someone started doing this, it would take at least two days, probably three, for a wealthy or ambitious person to respond by wiring in enough money to bet against them. They would have to hope that the manipulation persisted long enough for them to profit from it. Until then, people outside the USA would be limited to putting at most $2000 or $5000 into their accounts, which is barely worth the effort for someone with the required skill. Someone could plan to do this over the last few days of the election without generating much resistance.
+The volume yesterday on Obama’s Intrade shares was about 600,000. If all of those trades involved one person, who was losing 10 percentage points on each share, they would have blown $600,000 to keep Obama’s odds down. The volume over the previous three weeks is hard to read from Intrade’s graphs, but looks to be about the same again. So a single cunning person willing to lose $1 million could have singlehandedly driven the price difference, if they wanted to influence perceptions of the race and encourage voter turnout. Out of the $6 billion spent on the election so far, that’s not a big investment. Intrade will face the risk of this until they make it easier for wolves to fund their accounts and go out hunting sheep.
+Weaknesses of this theory are:
+
+Why didn’t manipulation over the previous three weeks prompt someone to move a large sum onto Intrade in anticipation?
+Why haven’t wealthy Obama supporters attempted the same trick?
+
+Nonetheless, I think this is more likely than a broad pool of Intrade participants being enthusiastic about Romney against all the evidence, and unaware that they could get better odds elsewhere.
+If I were a Democrat supporter with a lot of money, I would plan to profit from similar situations in the future while simultaneously improving Intrade’s performance.
+
+
+title: Was Intrade being manipulated over the last month?
+
+date: November 7, 2012 12:06 pm
+

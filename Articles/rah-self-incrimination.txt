@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+The more I think about law, the more I see arbitrary historical accidents enshrined into unquestioned dogma. Consider: we require people to answer questions by police or courts investigating crimes, without privacy excuses and without compensation for lost time. We apparently estimate the value of investigating crime to outweigh such costs. Except, we exempt criminal suspects from answering questions! (We also exempt folks statusfully related to suspects.) Yet if anyone should give up time and privacy to help investigate a crime, it is the suspects.
+Here is one account of this history of this rule:
+The right was created in reaction to the excesses of the Courts of Star Chamber and High Commission … 1487-1641. These courts utilized the inquisitorial method of truth-seeking … sufficient “proof” came from browbeating confessions out of the accused. These courts required the accused to answer any question put to him, without advance notice of his accusers, the charges against him, or the evidence amassed. … By the 18th century, English law provided that neither confessions coerced during the trial nor pretrial confessions obtained through torture could be used. …. The U.S. Supreme Court has expanded the Fifth Amendment to apply … to “any other proceeding, civil or criminal, formal or informal, where his answers might incriminate him in future criminal proceedings.” (more)
+Somehow, many think this history shows that today a right not to self-incriminate keeps police from torturing confessions out of suspects. But to prevent torture, we should just have rules against torture. A further rule against self-incrimination can’t prevent torture for the simple reason that we let people waive their right not to self-incriminate. If police can force confessions via undetected torture, then police can also use undetected torture to force people to waive their right against self-incrimination!
+The following video argues that if suspects must answer police questions, then police can find enough mistakes in what most anyone says to make them seem guilty:
+
+The detective in this video also says that if he follows most anyone long enough he can catch them breaking a law. But if true these seem grounds for raising standards of proof at trial, and for disclosing at trial the amount of questioning or following done.
+We don’t want to protect people from being framed by the police merely by making police work generically harder. For example, requiring police to always hop on one foot, or to constantly sing the national anthem, would surely make it harder for police to frame folks, but simply by making it harder for them to do anything! The rule against self-incrimination seems yet another arbitrary handicap, making police work harder overall, without discouraging bad policing more than good policing.
+Rather than giving arbitrary handicaps, we’d do better to just reduce the size of the police force and budget, and to restrict police in ways that more directly distinguishes good from bad policing. Having suspects answer police questions does not so distinguish, being just as much a part of good as bad policing.
+For more academic critiques, see here, here and here.
+
+
+title: Rah Self-Incrimination
+
+date: August 30, 2011 12:00 pm
+

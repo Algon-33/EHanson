@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Imagine that we discovered a “hole in space”, through which we could see an alternate Earth, filled with people recognizably like us, though different in many ways.  Those people could also see us.
+While no objects could move from their side of the hole to ours, small items (but not humans) could move from our side to theirs.  Furthermore, the hole had the amazing property of multiplying everything we sent through by a factor F of a million!  That is, if you tossed a gold coin through the hole, a million identical coins would come out the hole on the other side.
+How tempted would you be to toss useful items, like food, through the hole?   Remember, the cost to you, relative to the benefit to them, is 1/F, only one part in a million.  When considering the following variations, and their various combinations, consider not only F = a million, but also ponder what fraction F would make you indifferent to tossing or not:
+
+Your gift goes to a random person on the other side.
+Your gift goes to a government on the other side, which controls the hole.
+You can specify to whom your gift will go, using some simple descriptors like “poor”, “smart” etc.
+We could also do other things to help them, such as by studying a problem of theirs and sending them a report with suggested solutions.  But these other actions don’t get multiplied by F; a million copies of the report doesn’t help more than one copy.
+The hole isn’t very reliable, and only one time in a thousand do items you toss through the hole actually get to the people on the other side.  But when the hole does work 1000*F items come out the other side.
+You have very good theoretical reasons to think that most likely there are people much like us on the other side of the hole, but you can’t actually see through the hole (though they can see us).
+
+The point of this parable is that interest rates would also greatly leverage any gift you gave the distant future folks.  For example, in 1785 a French author wrote a satire about Ben Franlkin, the most famous American to Europeans.  While Franlkin was famous for his Poor Richard’s Almanac, the satire mocked American optimism by having “Fortunate Richard” leave money in his will to be invested for 500 years before being given to charity.
+Franklin responded by leaving £1000 each to Philadelphia and Boston in his will to be invested for 200 years.   He died in 1790,  and by 1990 the funds had grown to 2.3, 5M$, giving factors of  35, 76 inflation-adjusted gains, for annual returns of 1.8, 2.2%.  Why has Franklin’s example inspired no copy-cats?  Does no one care to help distant future folks through the multiplier hole of compound interest?
+
+
+title: Parable of the Multiplier Hole
+
+date: March 12, 2010 11:00 am
+

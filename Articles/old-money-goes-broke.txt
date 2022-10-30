@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+My last post talked about inequality among sand grains, diamonds, firms, and cities. Specifically, that their sizes are distributed like lognormals, but with thicker power law tails. I noted that firms and cities are distributed quite unequally, with a (Zipf’s law) upper tail power near one.
+In this post I’ll focus on wealth. In the 1890s Pareto found that the (upper tail of) wealth and income are distributed as power laws. Recent studies of US and world rich folks
+estimate powers of 1.3 to 1.5, similar to Pareto’s original findings. This distributes individual wealth more equally than firm and city sizes.
+Consider a simple differential equation model:
+w‘ = s*w + c*(1-w)
+Here the time rate of change w’ of an individual’s wealth w is given by a zero-mean randomly-fluctuating proportional growth s, and a redistribution c. This equation gives a steady state distribution proportional to:
+exp((1-a)/w)*w^(-1-a)
+This approaches a power law for large wealth, with power a = 1 + c/s. This model illustrates two key points:
+1) While a (Zipf’s law) power of one implies no local net change, as with cities and firms, a power above one implies net local change. In particular, the wealth of individual rich (w>1) folk tends to fall on average, while the wealth of individual poor (w<1) folk tends to rise on average. The numbers of the slowly-getting-poorer rich are only held steady by a large influx of recently poorer folks. On average, old money goes broke, while the poorest bounce back.
+2) Risk-averse folks (i.e., most everyone) dislike fluctuations s, and would prefer to eliminate them. But when people are forced to suffer larger fluctuations s, the distribution of wealth will spread out, creating more very rich people. Thus policy changes that result in there being more very rich people do not necessarily favor rich people. Policies that induce larger fluctuations s create more very rich but hurt each one of them. In fact, very rich folks are often especially risk averse, investing primarily in bonds. While the US has more very rich folks than other nations, and more than in prior decades, this might be because of policies forcing the rich to suffer more challenges to their positions, and to hold larger stakes in their enterprises.
+
+
+title: Old Money Goes Broke
+
+date: January 12, 2012 7:30 pm
+

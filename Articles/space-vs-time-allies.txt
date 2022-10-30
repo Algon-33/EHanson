@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Consider two possible civilizations, stretched either across time or space:
+
+Time: A mere hundred thousand people live sustainably for a billion generations before finally going extinct.
+Space: A trillion people spread across a thousand planets live for only a hundred generations, then go extinct.
+
+Even though both civilizations support the same total number of lives, most observers probably find the time-stretched civilization more admirable and morally worthy. (more)
+Our distant ancestors struggled against nature and other species, but competed most directly for mates and resources with others in their species, especially others in the same generation. More distant generations, like grandparents or grandkids, tended more to be allies in their efforts to promote their genes and culture. Because of this, Katja and I suggested, humans evolved intuitions that see time-stretched civilizations as more full of comforting allies, and hence more worthy, than space-stretched civilizations.
+Modern economies, however, differ in many important ways from the forager bands where these intuitions evolved. So let us compare the relative promise of time-stretched versus space-stretched modern economies with similar total numbers of people.
+
+Scale Economies – Spatially large civilizations can specialize more in the production of goods and services, and take advantages of economies of scale, to get more of everything. Temporally large civilizations, in contrast, can only take advantage of scale economies for extremely durable goods like music. This issue favors spatial stretching.
+Dependence Fragility – The more that the parts of a civilization depend on one another, the more that damage to one part can put the whole at risk. In a time stretched civilization a very bad outcome for any one generation risks the destruction of all future generations. It is a long chain of dependence that is only as strong as its weakest link. In contrast, a space stretched civilization allows for more redundant and parallel dependence paths. It can be more like a net that holds even when many of its strands are broken. This issue favors spatial stretching.
+Innovation – A finite speed of light imposes delays on how fast innovations developed in one part of a spatially separated civilization can be used elsewhere.  [Added 8a: parallel innovation attempts also make info delays.] The more that a civilization is time-stretched, as opposed to space-stretched, the smaller are such delays.  Our civilization is now compact enough that such delays are only a minor issue. This will also cease to be an issue when innovation has ended, i.e., when we have basically discovered all that is worth knowing. This issue favors time-stretching, but only during a (perhaps short) innovation era and only for very spatially stretched civilizations.
+
+Overall, for similar numbers of total people, modestly spatially-stretched civilizations seem more promising. Thus in contrast to our evolved intuition that temporal associates are our allies while spatial associates are our rivals, spatial associates seem to actually be more useful, and hence are more naturally our allies. Beware relying on ancient evolved intuitions.
+
+
+title: Space vs. Time Allies
+
+date: June 7, 2011 11:30 pm
+

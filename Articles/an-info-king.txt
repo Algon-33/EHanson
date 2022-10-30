@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+I was recently told about a manager of a ~500 person bank division decades ago. Seems this manager created an interesting info equilibrium. In his equilibrium, this manager could call anyone in the division at any time and get frank answers about their work. The manager would not tell anyone about the call, and he would viciously punish both anyone who ever lied to him in such a call, and anyone who punished anyone for giving frank call answers. So when you went to present something to this manager, you knew he might have called any of your subordinates for frank answers about your presentation.
+It probably wouldn’t work to have an equilibrium where there are many people with this power to call anyone and get a frank answer. And it wouldn’t work if the organization was so big that the manager knew little about each person he might call. But at least within certain scale limitations, this is a way to cut through information barriers to get frank assessments on key issues into the hands of a pivotal decision-maker.
+So would it work to nest this structure two levels deep? That is, could 200,000 people be organized into 400 divisions each like this, where the head of the whole thing could always call any division head and get frank answers?
+Added 3Apr: My anonymous source elaborates:
+People gave frank answers because they were seeking credit approval to credit submissions.
+The submissions were the outcome of protracted and detailed documented process of sequential deliberation. They were also subject to annual audit and also specialist lending inspection.Verification was embedded into the process.
+These were complex high value transactions that justified a significant investment of time.
+The info king was the officer with the boards’ delegated discretion. The transactions were complex and/or high value and required elements of judgement.
+The info king knew that the issue, given the high stakes for the transaction sponsors, was not fraud (because the verification processes protected against this), the issue was bias and nuance, and that required a subtler verification process.
+
+
+title: An Info King
+
+date: April 2, 2012 9:00 am
+

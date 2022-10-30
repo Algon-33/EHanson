@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+A lab experiment induces common priors, tells each person of the actions of others, and yet still finds disagreement, in conflict with predictions from common knowledge of rationality:
+We look at choices in round 1, when individuals should still maintain common priors, being indifferent about the true state. Nonetheless, we see that about 20% of the sample erroneously disagrees and favors one point of view. Moreover, while other errors tend to diminish as the experiment progresses, the fraction making this type of error is nearly constant. One may interpret disagreement in this case as evidence of erroneous or nonrational choices.
+Next, we look at the final round where information about disagreement is made public and, under common knowledge of rationality, should be sufficient to eliminate disagreement. Here we find that individuals weigh their own information more than twice that of the five others in their group. When we look separately at those who err by disagreeing in round 1, we find that these people weigh their own information more than 10 times that of others, putting virtually no stock in public information. This indicates a different type of error, that is, a failure of some individuals to learn from each other. This error is quite large and for a nontrivial minority of the population.
+Setting aside the subjects who make systematic errors, we find that individuals still put 50% more weight on their own information than they do on the information revealed through the actions of others, although this difference is not statistically significant. (more)
+So in this experiment there is a bottom quintile of idiots, and everyone else seems roughly accurate in discounting the opinions of a pool of others containing such idiots. So in this experiment it seems the main reason people think they are better than others is that everyone, even idiots, don’t think they are idiots. I wonder how behavior would change if everyone was shown clearly that the idiots were no longer participating.
+
+
+title: Disagreement Experiment
+
+date: March 15, 2012 9:00 am
+

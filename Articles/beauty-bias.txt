@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+In a TV game show, pretty contestants were not better or more cooperative players, but other contestants seemed to act as if they were:
+
+ It’s an uncomfortable truth that beautiful people make more money. … Now a study of a TV game show supports the prejudice hypothesis. … V. Bhaskar … analysed 69 episodes of Shafted … At the end of a round, the highest-scoring player picks a contestant to eliminate. Although the least attractive players scored no worse in the show than others, they were twice as likely to be eliminated in the first round. The contestants did not seem to base their decision on other factors such as age or sex. … 
+ Contestants also confused attractiveness with cooperativeness. In the final round of Shafted, the last two players vie for an accumulated pot of money. Each player must opt to share the prize or attempt to grab it all for themselves. If one player opts to grab while one opts to share, the grabber takes the lot. If both try to grab, they both leave empty-handed, so game theory dictates that the leading contestant should pick a fellow finalist who is likely to cooperate.  
+ Even though attractiveness was found to have no bearing on cooperativeness, the leader often elected to play the final round with the most attractive of their remaining rivals. In 13 shows, these looks-based decisions even overrode a simple imperative to choose their highest-scoring rival, which would have led to an increases in the ultimate prize fund. In these cases, the prize was E350 lower than it could have been, on average.
+
+ It also seems we think everyone is prettier when we are tipsy:
+
+Researchers … randomly assigned 84 heterosexal students to consume either a non-alcoholic lime-flavoured drink or an alcoholic beverage with a similar flavour. … After 15 minutes, the students were shown pictures of people their own age, from both sexes.  Both men and women who had consumed alcohol rated the faces as being more attractive than did the controls … The effect was not limited to the opposite sex – volunteers who had drunk alcohol also rated people from their own sex as more attractive.
+
+So, do we think everyone is better and more cooperative when we are tipsy?
+
+
+title: Beauty Bias
+
+date: August 22, 2008 6:00 am
+

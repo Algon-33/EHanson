@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+Elite overproduction … describes the condition of a society which is producing too many potential elite-members relative to its ability to absorb them into the power structure. … a cause for social instability, as those left out of power feel aggrieved by their relatively low status. … explained social disturbances during the late Roman empire and the French Wars of Religion, and [Turchin] predicted that this situation would cause social unrest in the US during the 2020s. (More)
+Toynbee argues that the ultimate sign a civilization has broken down is when the dominant minority forms a Universal State, which stifles political creativity. He states:
+First the Dominant Minority attempts to hold by force – against all right and reason – a position of inherited privilege which it has ceased to merit; and then the Proletariat repays injustice with resentment, fear with hate, and violence with violence when it executes its acts of secession. (More)
+There’s a simple and plausible income interdependence scenario where inequality matters little for policy: when [welfare] outcomes depend on [income] rank. … This applies whether the relevant rank is global, comparing each person to the entire world, or local, comparing each person only to a local community. [A] 2010 paper … makes a strong case that in fact the outcome of life satisfaction depends on the incomes of others only via income rank. (More)
+I often hear about how many elite areas have become more competitive, and more stressful. People have to do and be more than they once did to succeed. There are ominously more hopefuls who will be disappointed, and becomes disgruntled. But people have always cared a lot about status, and tried hard to rise in status. And if status is mainly about one’s percentile rank in some overall ranking, what could have changed?
+Some ideas:
+
+The variance in money or popularity has changed; it is now more “winner-take-all”, so status gets you more.
+There is more, or less, mobility in status over time, perhaps to different degrees at different status levels.
+What were once many disconnected status hierarchies have merged into fewer more global rankings.
+The relative weight on prestige versus dominance has changed; the one that is now bigger is more stressful.
+As we get rich, we more satisfy our basic needs (and get more status drunk), and so care more about status.
+We have gotten better at measuring status (e.g., via social media), making it more visible, so we care more.
+
+Here is my related hypothesis: we now put more weight on many smaller lower-noise status markers, instead of fewer bigger noisier markers. In particular, we put more weight on markers of connections to statusful people and institutions.
+For example, early in ancient empires, many rose in status via winning military battles, or perhaps by building new trading regimes. But later in such empires, status was counted more in terms of your connections to other statusful people. Which led to neglect of military success, and thus empire collapse.
+So early on, ambitious soldiers tried to figure out how to win battles, and to get involved in promising battles. But it was hard to guess just how to do this, and outcomes were noisy functions of efforts. So no one could be very sure of their future status, or with whom to associate to gain status. But later on, ambitious soldiers would need to come from the right family, and make good new social connections. So they worked to make sure they wore the right clothes, went to the right events, flattered the right people, joined the right groups, and so on. In this world, they could more easily see who was higher status.
+As another example, back in my day physics classes gave lots of hard problems that most students couldn’t do. So there was a lot of noise in particular grades, and students cared as much or more about possibly doing unusually well as doing unusually badly. One stellar performance might make your reputation, and make up for lots of other mediocre work. But today, schools give lots of assignments where most get high percent scores, and even many where most get 100% scores. In this sort of world, students know it is mostly about not making mistakes, and avoiding black marks. There is otherwise little they can do to stand out.
+For a third example, it seems to me that in academia people now care more about the status of your journal articles and job institutions, and less about what exactly you said in those articles or did in those jobs. And theory, where a new entry might surprise everyone with its great power, has been displaced by lower variance empirics, where success depends more on access to funding and data, on mastering hard in-fashion stat techniques, and on having the right social connections.
+In all of these examples, the new focus is on the low, not the high, end of the distribution of outcomes for each event or activity. The new focus is more on social connection and less on the non-social world. And people can better see their current status, and estimate their future status. All of these changes seem to me to naturally feel more “competitive”, producing more “anxiety”.
+Added 22Aug: As status marker weights and groups sizes are always changing, there are always groups rising and falling overall in status. Yes, a high status group that is rising in size and falling in status might see that as a time of “elite overproduction”, but since that sort of thing is happening quite often why would we say it happens overall especially more at certain times?
+
+
+title: What is ‘Elite Overproduction’?
+
+date: August 19, 2021 2:35 pm
+

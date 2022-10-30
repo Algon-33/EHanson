@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+I’ve often tried to help [convince] companies do experiments, and usually I fail spectacularly. … Companies pay amazing amounts of money to get answers from consultants with overdeveloped confidence in their own intuition. Managers rely on focus groups — a dozen people riffing on something they know little about — to set strategies. And yet, companies won’t experiment to find evidence of the right way forward.  I think this irrational behavior stems from two sources. One, … experiments require short-term losses for long-term gains. … Second, there’s the false sense of security that heeding experts provides.
+More here (HT Tyler).   Wow – and I was puzzled by firms disinterest in prediction markets; experiments have a much better intellectual pedigree.  Hiring consultants allows one to affiliate with prestigious folks, while focus groups allow one to brag about “listening to the people” (which is in fact how prediction markets are usually sold).  Apparently actually improving decision quality is way way down in the manager priority list.
+
+
+title: Firms Won’t Experiment
+
+date: March 25, 2010 2:35 pm
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Writers must attend both to their topic, and to their audience. They must learn things both about the topics on which they write, and about the people who will evaluate their writings. But to which of these do they attend more? For some kinds of writers, idealists say that they mostly attend to their topics, and for other kinds of writers, cynics say that they mostly attend to their audience. Who is more right?
+To help answer this question, I suggest a simple test. When a writer solicits commentary on her drafts, does she mostly seek out people who know about the topics on which she writes, or does she mostly seek out people who are or are like or who can predict the audience she must please? Of course there is often a strong correlation between these features, as the audience one must please often knows a lot about the topic. And sometimes the audience is part of the topic. So attending to the audience can indirectly attend to the topic, and vice versa.
+Even so, since knowledge of the topic and representation of the audience are not perfectly correlated, if one sees enough writers solicit enough commentary on drafts, one should be able to make out a difference. And in my limited experience, the writers I’ve known seem to focus much more on audience than on topic. They are eager to get comments from folks who know little about the topic but could be influential in getting their writing accepted (or are like or can predict such evaluators), and pay less attention to folks who know a lot about their topic but have little influence (and aren’t much like influential folks).
+But what do the rest of you see? True, even if you confirm my observation, we might explain it by saying it is just much easier to learn by reading about a topic than about an audience – so direct feedback is better for learning about audiences. But first, let’s get this datum straight.
+
+
+title: Writers Focus On Topic Or Audience?
+
+date: October 17, 2013 11:40 am
+

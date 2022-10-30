@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+It is ten hour drive each way from my home in Virginia to the GENCON gaming convention I attended last week.  Those hours driving were more fun than the convention, because I spent them talking to the smart polymath Bill Dickens.  I’d love more long car trips like that.
+Here are two related things Bill told me:
+
+Bill learned to fly planes from the CEO of a well-known successful tech company, a man who was forced out by VCs when his company went public.  This wasn’t a tech person replaced by a management person; this CEO had been doing a fine job managing employees, suppliers, customers, etc.  The VCs told him he was pushed out to make room for someone “better known to Wall Street.”  It seems they wanted a CEO with more social connections to the investment bankers that the company needed to impress.  Such bankers would induce less investment in a company managed by someone who wasn’t in their social circle.
+For the last few decades academic macroeconomic journals have been dominated by models that do not support the actual US policies used to deal with this latest economic downturn.  Alex Tabarrok confirms this, citing John Cochrane:
+Modern economics gives very little reason to believe that fiscal stimulus will do much to raise output or lower unemployment. … The basic Keynesian analysis of this question is simply wrong. Professional economists abandoned it 30 years ago. …  It has not appeared in graduate programmes or professional journals since.
+Instead of following the dominant academic theories, however, both a Republican and a Democratic president, and Congress, have empowered folks well connected to the elite US banking social circle.  (Paulson, for example, was CEO of Goldman Sachs.  Neither he nor Geithner held any academic position, and both went to Dartmouth.)  And their main priority in spending trillions has been to save those banks from bankruptcy.
+
+Recall also that college students make more money by going to “elite” colleges, but not because students at those colleges have higher test scores:
+Students who attended colleges with higher average SAT scores do not earn more than other students who were accepted and rejected by comparable schools but attended a college with a lower average SAT score.  However the Barron’s rating of school selectivity and the tuition charged by the school are significantly related to the students’ subsequent earnings.
+So it seems the US has a finance and policy elite defined by college ties and related social connections, an elite with a strong sense that only people in their circle can really be trusted, and that their institutions must be saved at all cost at taxpayer expense if necessary.  These beliefs might be correct, but it is disturbing to realize they might well persist and be reinforced even if they were incorrect, especially if such elites thought that insiders who trust outsiders too much also could not be trusted.
+Added:  Bill comments:
+I think you (through Cochrane) use a bit of slight of hand. Keynesian theory is, overwhelmingly, what we teach undergraduates and IS-LM theory is still the way most people I know think about policy.  DSGE theory isn’t ready for prime time and most economists know it.  Central banks do use DSGE models, but they also use more traditional models as well and ultimately rely on the judgment of their monetary policy committees. Still, a neat post.
+More added:  TGGP points us to this:
+In his book, A History of Macroeconomic Policy in the United States, Wood argues that U.S. fiscal and monetary policy have been remarkably consistent over the decades and largely uninfluenced by macroeconomic theory. Economists have rationalized more than influenced policy.
+
+
+title: Who Are US Policy Elites?
+
+date: August 19, 2009 6:00 am
+

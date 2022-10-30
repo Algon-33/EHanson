@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Tyler Cowen:
+How recognizable will humans be in five hundred years?
+Alex reports:
+Tyler and I argued recently about whether or not humans will be recognizably human in 500 years.
+Let us assume that scientific progress continues.  My view is that parents don’t so much like “difference,” unless it is very directly in their favor.  Using technology, parents will select for children who are taller, smarter in the way that parents value, better looking, and perhaps also more loyal to their families.  The people in the wealthy parts of the world will look more like models and movie stars, but they will be quite recognizable. … People will in various ways be cyborgs, but more or less invisibly from the outside at least.
+Dogs look different than they did five thousand years ago, but that is because humans controlled their breeding and opted for some extremes.  How would they look today if the dogs themselves had been in charge of the process?
+At current rates of change, 500 years is a loooong time. For example, if familiar ~4%/yr economic growth rates continued for 500 years, the economy should get 300 million times bigger! When we look at the long-run evolution so far of creatures with preferences, e.g., primates or human organizations, we see that conscious preferences of initial versions have not historically been a huge influence on final results. Yet Tyler assumes that kid preferences of today’s parents are the main thing determining our descendants’ features in 500 years; today’s parents will get what they want then. But why would our wishes be so much more influential than our ancestors’ wishes?
+Tyler is far from alone – many assume humans have wrested control of their future from traditional evolutionary influences, so that our distant future will be whatever we choose it to be today. But while such control might eventually be possible given sufficient coordination and foresight, it surely is not true in any general sense today. It might be trivially true if there were very little selection or drift of preferences over 500 years, but this seems pretty unlikely. And it is almost certainly not true in my em (whole brain emulation) scenario.
+Yes with new techs change no longer need follow DNA mutation and crossover, and yes this allows for more rapid change.  But variation and selection should continue, no matter where designs are stored.
+
+
+title: Do We Rule Our Fate?
+
+date: October 9, 2010 9:30 pm
+

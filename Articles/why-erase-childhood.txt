@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+In our society, adults must live with their records. We collect records on sport, contests, web-forums, marriage, school, jobs, crimes, debt, taxes, etc. Such records help others who want to interact with those adults, by helping them guess the consequences of such choices. Such records also help those who have good-looking records.
+Of course, such records also hurt those with bad-looking records. Sometimes that hurt is unfair, as when a record looks bad due to a random event outside their control. But overall we judge it good to let people see records; we expect observers to usually take reasonable account of the possibility of noisy record signals.
+For many kinds of records, we give the person who is the subject of the records the option to not reveal them. But we also let others draw inferences from such a lack of visible records. If a job applicant doesn’t show you a record of having graduated from college, you are allowed to infer that they probably didn’t go to college.
+For children, however, we tend to go out of our way to prevent the collection and sharing of records. We often expunge childhood criminal records, and we make sure public schools don’t save or share records of grades and misconduct. Even though childhood behavior is often quite predictive of adult behavior. For example a larger literature (e.g., here, here) finds childhood misbehavior to be one of our best predictors of adult criminal behavior.
+I don’t see an obvious rationale for this. The usual rationale for restricting kid behaviors is that the kids are irrational. But here we have a restriction on adults reacting to this person as an adult. The sorts of irrationalities someone displays as a kid are quite plausibly predictive of the irrationalities they might display as an adult. And I see no reason why adults should be especially irrational in interpreting such signs. We were all kids once, after all.
+Yes kids who behave badly as kids will look worse as adults, and have worse life options and outcomes as a result. But we are mostly fine with this happening to adults due to their adult actions. What is so differently problematic about such things resulting from childhood actions?
+
+
+title: Why Erase Childhood?
+
+date: November 12, 2014 3:10 pm
+

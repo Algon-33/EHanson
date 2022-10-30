@@ -1,0 +1,34 @@
+author: Robin Hanson
+
+text: 
+Looking across the many different activities and sectors of society, how well can we predict where governments get more vs. less involved?
+Though this is an oft discussed topic, I can’t recall seeing an overall theory summary. So I thought I’d write one up. Here are some big relevant factors, and areas they may explain. Most are tentative; you may well convince me to move/change/add them.
+Control – Whomever runs the government prefers to control areas that can be used to prevent and resist opposition and rivals.
+Predicts more: religion, military, police, law, news, schools, disaster response, electricity, energy, banking.
+Scale – If supplying a product or service has strong economies of scale, network, or coordination, it can be cheaper to use one integrated organization, who if private may demand excessive prices and thereby threaten control.
+Predicts more: military, “roads” (including air, boat travel support), social media, money, language, electricity, telecom, water, sewer, trash, parks, fire, software, fashion, prestige
+Predicts less: housing, food, medicine, art, entertainment, news, police, jail.
+Innovation – As governments seem less able to encourage or accommodate effective innovation, governments tend to be less involved in rapidly evolving sectors.
+Predicts more: roads, water, sewer, track, parks.
+Predicts less: military hardware, vehicles, tech/computers, entertainment, social networks.
+Variety – Governments tend to encourage and be better at relatively standardized products and services, done with fewer versions, more the same for everyone everywhere at all times.
+Predicts more: war, medicine, schools, disaster response, roads.
+Predicts less: housing, food, entertainment, romance, parenting, friendship, humor.
+Norms – Norms are shared, and we like to enforce them together, officially.
+Predicts more: religion, law, war, romance, parenting, medicine, drugs, gambling, slavery, language, manners, sports.
+Show Unity – As we want to show that we are together, and care about each other, we like to do the things we to do to show such care together in a unified way.
+Predicts more: religion, poverty/unemployment/health insurance, school, medicine, fire, parks, housing, food, disaster response, trash/sewer, coverage expansion subsidies.
+Show Off – We want to impress outsiders with our tastes, abilities.
+Predicts more: research, schools, high art, high sport, roads, parks, shared space architecture, trash/sewer.
+Predicts less: low art/entertainment, low sport, gossip.
+Hypocrisy – When we profess some motives, but others are stronger, the opacity and slack of government agencies, and better ability to suppress critiques, makes them better able to hide such differences.
+Predicts more: medicine, drugs, gambling, schools, police, jail, courts, romance, zoning, building codes, war, banking.
+Predicts less: water, sewers, electricity.
+If we could collect even crude stats on how often or far govt is involved in each area, and crudely rate each area-factor combo for how strongly that factor applies to that area, we could do a more formal analysis of which of factors predict better where.
+Note that scale is the strongest factor suggesting that govt does more when more govt helps more. Innovation and variety suggest that also when those factors are the cause of govt involvement, but much less so if those features are the result. While norms are on average valuable, it is much less clear when govt support improves them. Most signaling likely helps each society that does it, but is done too much for the good of the world overall.
+
+
+title: Why Does Govt Do Stuff?
+
+date: April 23, 2020 9:20 am
+

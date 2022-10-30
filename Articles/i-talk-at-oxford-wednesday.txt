@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+I’ll speak at Oxford this Wednesday, 4:00pm, on:
+Em Econ 101
+The three most disruptive transitions in our history coincided with the introduction of humans, farming, and industry. If another such transition lies ahead, a good guess for its source is artificial intelligence in the form of whole brain emulations, or “ems.” Most who consider ems discuss their implications for the philosophy of identity, or their feasibility and development paths. Those who consider em social implications gravitate toward heaven or hell scenarios, or invent entirely new economics, etc. for this new era.
+In contrast, as a professor of economics I seek to straight-forwardly apply standard economic and other social science theory to these novel technical assumptions, to sketch rough outlines of a relatively-likely reference scenario set modestly far into a post-em-transition world. I consider how ems might change: reproduction, life plans, cycles of daily life, inequality, work training, property rights, families, firm management, industrial organization, urban agglomeration, security, and governance.
+Location: Oxford Martin School, 34 Broad Street, OX1 3BG
+Added 29June: Here are talk slides, audio.
+Added 2July: Here is Video.
+
+
+title: I Talk At Oxford Wednesday
+
+date: June 18, 2012 7:30 am
+

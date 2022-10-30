@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Over the last few days I’ve neglected my duties to obsessively browse the last seven years of three journals:  Astrobiology, International Journal of Astrobiology, and Origins of Life.  In the process I’ve become converted to a more expansive version panspermia – life here probably originated outside our solar system. I’ve also learned: panspermia is no longer a marginalized view.  It may not yet be the majority opinion, but it shows up often in journal articles and conference proceedings, if not in summaries intended for wider audiences.
+My interest in panspermia over the years was probably heightened by my sense that it seemed more believable than its apparent outcast status suggested – I may have hoped for the glory of being an early supporter of a crazy-seeming view that eventually became the consensus view.  But that hope neglected the prospect that many other young researchers shared my opinion – I’d have to distinguish myself among all those folks to gain much glory.
+Academia is often run by an old guard ensuring that its public face reflects their old views, while younger folk quietly bite their tongues waiting for their chance to shine.  But just because you can see well enough to understand what those new generations will later say doesn’t mean you have much of an advantage competing with them – many of them, perhaps most, can see as well as you.
+Long term prediction markets on academic questions could cut through this old guard deception.  But someone would have to be offended enough by this deception to fund such markets, and I see little evidence of this.  Most academic patrons just want to affiliate with the high status old guard, no matter what its views, and those who do care about particular views aren’t confident enough in them to risk supporting prediction markets that might not agree.
+Versions of panspermia can be distinguished by how far/long life had to travel:
+
+Orbit and Back – Early bombardments of Earth may have kicked some life up into orbit, to fall back down and re-seed Earth after big bombardments killed life on Earth.
+Outer Solar System – Since the outer system cooled first, life had more time to evolve there, before some bombardment kicked life off it to Earth.  Mars and Ceres are two possibilities.
+Comet Cloud – There is far far more water and clay a thousand AU out, it was all pretty warm long ago, and can long stay warm inside big comets.
+Sun’s Nursery – There was even more water and clay around the thousands of stars that mixed closely for 100My in the 1-3 parsec nebula where our Sun was born.
+Star Passing Cloud – In the galaxy’s main ring, every 50My each star comes within a few parsecs of a giant molecular cloud for a 3My period, and comet impacts kick life off planets in dust that takes ~100Ky to reach the giant cloud.  Within 10-100My such clouds become star nurseries.
+Star to Star – Life that could survive for many millions of years could directly reach planets around distant stars.
+
+This last version doesn’t look good, but the other ones seem feasible and likely.
+
+
+title: Pondering Panspermia
+
+date: November 3, 2009 11:15 am
+

@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+On the issue of whether to help now vs. later, many reasonable arguments have been collected on both sides. For example, positive interest rates argue for helping later, while declining need due to rising wealth argues for helping now. But I keep hearing one kind of argument I think is unreasonable, that doing stuff has good side effects:
+Donating to organizations (especially those that focus on influencing people) can help them reach more people and raise even more money. (more)
+Giving can send a social signal, which is useful for encouraging more giving, building communities, demonstrating our generosity, and coordinating with charities. (more)
+Influencing people to become effective altruists is a pretty high value strategy for improving the world. … You can do more good with time in the present than you can with time in the future. If you spend the next 2 years doing something at least as good as influencing people to become effective altruists, then these 2 years will plausibly be more valuable than all of the rest of your life. (more)
+Yes doing things now can have good side effects, but unless something changes in the side-effect processes, doing things later should have exactly the same sort of side effects. And because of positive interest rates, you can do more later, and thus induce more of those good side effects. (Also, almost everyone can trade time for money, and so convert money or time now into more money or time later.)
+For example, if you can earn 7% interest you can convert $1 now into $2 a decade from now. Yes, that $1 now might lend respectability now, induce others to copy your act soon, and induce learning by the charity and its observers. But that $2 in a decade should be able to induce twice as much of all those benefits, just delayed by a decade.
+In math terms, good side effects are multipliers, which multiply the gains from your good act. But multipliers are just not good reasons to prefer $1 over $2, if both of them will get the same multiplier. If the multiplier is M, you’d just be preferring $1M to $2M.
+Now it does seem that many people are arguing that these side-effect processes are in fact changing, and changing a lot. They suggest that that if you work with or donate to them or their friends, then these efforts today can produce huge gains in inducing others to copy you, or in learning better how to do things, gains that won’t be available in the future. Because they and you and now are special.
+I think one should in general be rather suspicious of investing or donating to groups on the basis that they, or you, or now, is special. Better to just do what would be good even if you aren’t special. Because usually, you aren’t.
+Now one very believable way in which you might be special now is that you might be at a particular age. But the objectively best age to help is probably when you have peak abilities and resources, around age 40 or 60. If you are near your peak age, then, yes, maybe you should help now. If you are younger though, you should probably wait.
+Added 14Apr: Every generation has new groups with seemingly newly urgent or valuable causes. So you need some concrete evidence to believe that your new cause is especially good relative to the others. I am not at all persuaded that today is very special just because some people throw around the phrase “effective altruism.”
+Added 19Apr: Since my point doesn’t seem to get through just using simple words, here is a more formal math explanation:
+Without loss of generality, we can define help x so that it is time-independent, i.e., so that x gives the same amount of direct help no matter the time t it is given. Also, assume that the process by which direct help x at time t results in indirect help at later times is stationary. That is, for every small x spent at time t, a distribution of gains are produced at later delays s according to the same function f(s). Thus the total help resulting from direct help x at time t is x*(1+Integral_t^Infty f(u-t)*du) = x*(1+Integral_0^Infty f(s)*ds. So if this integral is finite, then direct help x induces a constant indirect help multiplier M = 1+Integral_0^Infty f(s)*ds.
+One might define a rate of return r for this indirect help as the r that solves the equation 1 = Integral_0^+Infty exp(-r*s)*f(s)*ds. And this rate of return r might in fact be huge. But note that regardless of the return r one calculates from a formula like this, one always gives more total help by choosing a larger amount of direct help x. So if you can give more direct help by helping later, you should.
+
+
+title: Multiplier Isn’t Reason Not To Wait
+
+date: April 13, 2014 4:20 pm
+

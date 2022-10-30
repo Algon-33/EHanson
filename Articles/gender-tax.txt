@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Last week I noted that, in an hour of searching, I couldn’t find any defenders of the economic-theory-supported tall tax, even among economists.  Today I report it was easy to find supporters (1, 2, 3, 4, 5, 6, 7, 8) of Alesina, Ichino, and Karabarbounis’s proposed man tax, also well supported by economic theory: 
+
+ Gender Based Taxation … changes spouses’ implicit bargaining power and induces a more balanced allocation of house work and working opportunities between males and females. Because of decreasing returns to specialization in home and market work, social welfare improves by taxing conditional on gender. When income sharing within the family is substantial, both spouses may gain from [it].
+
+ So riddle me this: if careful economic analysis had instead favored taxing men less than women, how many supporters do you think that proposal would have found, even among economists?  And what does that say about how much economic theory influences economists’ policy conclusions?
+P.S.  The best "man tax" is not a fixed tax amount for being a man, nor is the best "height" tax a fixed amount per inch of height.  Instead, each gender or height has a different income tax schedule.  So there is no special reason to fear some "couldn’t pay the tax."
+Added 20Dec:  Here’s a paper on a more general tax on genetic features.   
+
+
+title: Gender Tax
+
+date: December 17, 2007 6:00 am
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+The first Overcoming Bias post was one year ago today.   Since then we have had a half million distinct reader visits, over twelve thousand comments, and a bit over two posts per day.  Technorati puts us at rank 7,946 among all blogs with 2,281 blog reactions.
+ I’ve been wondering for a while if I should be blogging.  Blogging is less of a conversation than I’d hoped, even among blog coauthors.  It feels great to quickly put an idea "out there" in an accessible form, but I’m not sure such ideas have much chance to be built on by others.  And it does take time.  
+ So I’ve decided to split the difference and switch from six to three posts per week.  Eliezer will still probably keep posting daily, at least for a while.  
+
+
+title: Overcoming Bias After One Year
+
+date: November 20, 2007 6:00 am
+

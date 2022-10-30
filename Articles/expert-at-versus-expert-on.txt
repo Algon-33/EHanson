@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+A prosperous and successful plumber is an expert at plumbing.   Someone who is a good source for accurate information on plumbing is an expert on plumbing.  More generally, an expert at a topic is someone who has gained the most attention, praise, income, and so on via their association with the topic.   But this may not be the best expert on that topic.  He may have succeeded by not giving the most accurate information, but by telling people what they want or expect to hear, or by entertaining them.
+ We often rely on the heuristic of looking to an expert at a topic, when what we want is an expert on a topic.  In fact, most of the people we see being labeled as "experts" are primarily experts at topics.  For example, TV talking heads discussing topic X are usually people who have made a successful career in X.  We may see a general talk about war, or a CEO talk about business.   
+ But it a rare field where the best way to succeed is to always be completely honest with everyone about everything.   We could greatly benefit from better ways to determine who is really an expert on a topic.  Prediction markets are one possibility. 
+
+
+title: Expert At Versus Expert On
+
+date: April 23, 2007 6:00 am
+

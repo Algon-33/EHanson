@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+On Friday I endorsed low-discretion subsidies of political investigative journalism, like the old postal subsidy.  This seems a good idea in general, but seems especially relevant given recent reduced demand for traditional journalists.
+Now one might argue that even if traditional media is shrinking, total journalism effort is no less than before; journalism is just moving away from traditional professionals and toward amateurs like bloggers.  And I might even grant this point.  Traditionalists might respond that experienced professionals are more efficient investigators than amateurs, and while this is probably true, I don’t think it is an especially strong argument.
+A much stronger argument, I think, centers on scale economies in media reputation.  Reader demand for small independent bloggers not doubt depends in part on their reputation for reliability, but the rate at which an individual blogger’s claims actually get checked is probably rather low.  Furthermore, an independent whistle-blower who claimed that a blogger was in error might itself have a questionable reliability.  These factors weaken the incentive for an independent blogger to avoid saying things that won’t check out.  Also if this blogger happened across something really big, where making a sloppy claim might bring him or her a huge bump in attention, that blogger might reasonably be tempted to lower his or her usual standards.
+A large media organization, in contrast, makes many checkable claims on a daily basis, leading to a high rate at which claims actually get checked.  Claims that are checked by other large media organizations bring a more credible threat of embarrassment.  Furthermore, a topic has to be much bigger before it will substantially tempt a large media organization to lower its standards in order to gain more attention via sloppy reporting. Large media organizations hold their journalists to higher standards, and frequently monitor compliance with those standards, because they have less to gain and more to lose by saying something that checks out wrong.
+In order for a free press to help discipline our political process we need more than a media able to investigate suspicious behavior, and allowed to tell the public when they make surprising discoveries.  We also need a media that the public can reasonably believe in such situations.  If the public only hears a cacophony of conflicting claims, they’ll tune it all out.
+In the absence of robust media prediction markets, I don’t see an alternative to large media orgs to serve this crucial consensus function.  Perhaps amateurs will displace professionals in doing investigations, and perhaps amateurs will report first on important stories, but it will take endorsements by big orgs with big reputations to protect to make us believe those reports.
+So we especially need whatever low-discretion journalism subsidies we adopt to encourage not just journalism in general, but large media brands in particular.  Reputation scale economies make them a crucial link in our political info chain.
+
+
+title: Media Scale Econ
+
+date: July 19, 2009 9:30 pm
+

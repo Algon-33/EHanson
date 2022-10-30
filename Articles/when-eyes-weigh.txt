@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+Even our "direct" perceptions, such as of how much a box weighs, are greatly influenced by our expectations.  From a recent New Scientist:
+Get hold of two cardboard boxes of different sizes and put a brick in each one. Check they weigh the same, then get somebody to lift them and tell you which is the heavier. The vast majority of people will say that the smaller box is heavier, even though it isn't, and will continue to maintain that it is even after looking inside both boxes and lifting them several times. … Curiously, experiments show that even though people initially use greater force to lift the larger box than the smaller one, on subsequent lifts they unconsciously equalise the amount of force they use to lift them. Despite their bodies apparently "knowing" that the boxes weigh the same, their minds still perceive the smaller box as being heavier. …
+
+title: When Eyes Weigh
+
+date: March 30, 2009 10:00 pm
+

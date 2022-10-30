@@ -1,0 +1,13 @@
+author: David J. Balan
+
+text: 
+In his new book (see here for a post about it by Robin Hanson), Bryan Caplan argues that economists weaken the impact of what they say by  surrounding their main messages with a bunch of caveats that are intended to make their answers more complete but that in fact serve only to ensure that they will be ignored.
+  
+Of course Bryan has a point here, no doubt effective communication is important, and some of that involves strategic simplification, but I don’t think the point is as strong as Bryan does.  The main thing that Bryan would like to see economists stress is the virtues of markets, which Bryan has convincingly argued people tend to systematically underestimate.  But would it be an improvement if everyone who took an introductory economics course just learned that markets are great?  This would have some good effects; support for things like free trade and Pigouvian pollution/congestion taxes would probably go up.  But it would also have the effect of convincing students (more than is already the case) that economic interventions of the kinds supported by lots and lots of mainstream economists, whether for correcting market failures, for redistribution, or for paternalism, must somehow necessarily be a bad idea.  Of course Bryan doesn’t favor most of those interventions anyway, so this is not much of a cost for him.  But would the total package be an improvement from the point of view of, say, the median economist?
+I can think of two other problems with Bryan’s suggestion, both of which apply to educators in any field, not just to economists.  First, educators should have a pretty big thumb on the scale in favor of the unvarnished truth, partly because truth is a value in itself, partly becuase even the most well-meaning strategic spin is bad habit for a thinker to get into, and partly because it will cause real thinkers to lose credibility when the spin is uncovered.  Second, there are a bunch of people out there with a personality type such that they love to think of themselves are bold iconoclasts who courageously buck the conventional wisdom that the establishment had tried to cram down their throats.  When such people stumble across an instance where what they had been taught is not quite right, they will congratulate themselves that they have made a big transgressive discovery that those ivory tower eggheads have got it all wrong, and they will trumpet that discovery to the heavens, which the media will help them do because stories like that are popular.
+
+
+title: The Perils of Being “Clearer than Truth”
+
+date: May 22, 2007 1:53 am
+

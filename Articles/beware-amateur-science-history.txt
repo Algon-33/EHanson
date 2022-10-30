@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+In 1980 I took a cosmology class with Virginia Trimble at UC Irvine, and every time she would come to an effect that was named after someone, she would say "The X effect, because it was discovered earlier by Y," where X and Y were two different names.   Usually X was male and Y was female.    
+When I studied history of science at the University of Chicago the following year I learned that Trimble was right; the usual histories of science by scientists, such as those found in the introduction of science articles, are usually only loosely tied to what historians find when they study things carefully.  They are like learning the history of cars from the Ford Motor Company, or the history of computers from Microsoft.    
+Before a famous "discovery," often many others had "discovered" and tried to publicize very similar things.   Who became famous for the discovery was decide mostly by academic power, i.e., by who could make more people tell the story their way.
+In July I came across a New Scientist opinion article (un-gated for now here) by Henry Nicholls where he gives more examples of persistent science myths, such as that Darwin thought of natural selection while visiting the Galapagos islands.   Oddly, Nicholls then concludes with this shoulder shrug:
+
+Inaccurate histories of science are all around us. This leaves me with what may sound like a surprising question: does it matter? They persist because people are so keen to believe them, and because they fill a need for narrative. I doubt whether Harriet and Darwin will ever be separated, since the alternative version is not half as exciting and would have no chance of living on in the popular consciousness. Indeed, such myths might actually be something to encourage. Communicating a version of history is better than communicating no history at all. 
+
+Apparently one of the reasons we have so much false science history is that even science historians think that accurate history should take a back seat to encouraging public interest in science. 
+Addendum:  When I ask my students for great innovators, they list Bill Gates, Henry Ford, and Thomas Jefferson instead of John McCarthy, Nicolaus Otto, and George Mason.  When I point out that these are mainly people with power associated with an innovation, they admit they are more interested in power than in the real innovators.   So here is another explanation. 
+More Addendum:  Apparently Stigler’s Conjecture is that credit goes to the second person to have discovered an idea.  
+
+
+title: Beware Amateur Science History
+
+date: November 27, 2006 6:00 am
+

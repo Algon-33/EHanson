@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+My best guess for the next big enormous thing, on the scale of the arrival of humans, farming, or industry, is the arrival of whole brain emulations, or “ems.” This raises the obvious question of whether we should try to hurry or delay the techs that would enable this change.
+I see seven relevant considerations:
+
+Some think subsistence-wage ems an abomination, and so prefer to delay or prevent them. Conversely, others think that vast em numbers times lives worth living makes the em world a good well worth hurrying.
+Some want to delay the em transition, to give more time for its serious consideration. Others want visible em efforts to start sooner, fearing that serious consideration won’t start before then, and expect an earlier start to give a better total discussion. Still others think that, as with nanotech, early public anticipation of such events tends to make them go worse.
+The richer and more capable our civilization gets, the lower seem its chance of being extinguished by most disasters. Ems would make us richer faster, and ems survive biological disaster especially well.
+During the em transition our civilization is especially vulnerable to collapse, or to a central power grab. This transition is less disruptive when the last tech to mature is computing power, and most disruptive when that last tech is cell-modeling. This argues for hurrying scan and cell-model tech, relative to computing tech.
+Many fear that a single self-improving AI will suddenly grow vastly in power and take over the world. Some want to delay this event until they see how to pre-provably control such an AI. So such folks want to delay most other AI tech advances, including ems.
+Assuming pre-provable control is infeasible, on-the-fly control seems better when the people controlling are many and fast relative to the controlled AI. Since ems can be much faster and numerous than humans, this argues for hurrying ems.
+Great filter and anthropic selection considerations greatly raise our estimates of existential risks that could leave the universe empty. These do not much raise AI risk estimates, however.
+
+On #1, I confidently estimate em lives to be numerous and worth living. On #2, I weakly estimate little benefit from delay or early publicity. Points #3,4 are the strongest I think, especially #4, and both argue for speedup. Since I think a single machine suddenly taking over the world is pretty unlikely, I give #5,6 less weight, especially when taking #7 into account. So on net I favor hurrying em cell-modeling tech most, em scan tech less, and weakly favor delaying em computing tech.
+Added 11a: More considerations from the comments:
+
+Future people may evolve to differ from us via competition and changed circumstances. Some hope Earth will soon collectively organize to regulate to prevent such change, and so want to minimize change and competition before then. Since ems give more faster change, they prefer to delay ems.
+It seems humans can live on as ems, and non-poor ems need never die. Not dying is good, suggesting we hurry ems. Conversely, if uploading really kills humans, perhaps we should delay ems.
+
+
+
+title: Hurry Or Delay Ems?
+
+date: December 17, 2011 9:10 pm
+

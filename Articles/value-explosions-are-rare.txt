@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan:
+I’m surprised that Robin is so willing to grant the plausibility of superintelligence in the first place. Yes, we can imagine someone so smart that he can make himself smarter, which in turn allows him to make himself smarter still, until he becomes so smart we lesser intelligences can’t even understand him anymore. But there are two obvious reasons to yawn. 1. … Even high-IQ people who specifically devote their lives to the study of intelligence don’t seem to get smarter over time. If they can’t do it, who can? 2. In the real-world, self-reinforcing processes eventually asymptote. (more)
+Bryan expresses a very standard economic intuition, one with which I largely agree. But since many of my readers aren’t economists, perhaps I should elaborate.
+Along most dimensions, having more of a good thing leads to less and less more of other good things. In economics we call this “diminishing returns,” and it is a very basic and important principle. Of course it isn’t always true. Sometimes having a bit more of one good thing makes it even easier to get a bit more of other good things. But not only is this rare, it almost always happens within a limited range.
+For example, you might hope that if you add one more feature to your product, more customers will buy it, which will give you more money and info to add another feature, and so on in an vast profit explosion. This could make the indirect value of that first new feature much bigger than it might seem. Or you might hope that that if achieve your next personal goal, e.g., to win a race, then you will have more confidence and attract more allies, which will make it easier for you to win more and better contests, which lead to an huge explosion of popularity and achievement. This might make it very important to win this next race.
+Yes, such things happen, but rarely, and they soon “run out of steam.” So the value of a small gain is only rarely much more than it seems. If someone ask you to pay extra for a product because it will start you one of these explosions, you should question them skeptically. Don’t let them do a Pascal’s wager on you, saying even if the chance is tiny, a big enough explosion would justify it. Ask instead for concrete indicators that this particular case is an exception to the usual rule. Don’t invest in a startup just because, hey, their hockey-stick revenue projections could happen.
+So what are some notable exceptions to this usual rule? One big class of exceptions is when you get value out of destroying the value of others. Explosions that destroy value are much more common that those that create value. If you break just one little part in a car, then the whole car might crash. Start one little part of a house burning and the whole house may burn down. Say just one bad thing about a person to the right audience and their whole career may be ruined. And so on. Which is why there are a lot of explosions, both literal and metaphorical, in war, both literal and metaphorical.
+Another key exception is at the largest scale of aggregation — the net effect of on average improving all the little things in the world is usually to make it easier for the world as a whole to improve all those little things. For humans this effect seems to have been remarkably robust. I wish I had a better model to understand these exceptions to the usual rule of rare value explosions.
+
+
+title: Value Explosions Are Rare
+
+date: September 6, 2013 1:50 pm
+

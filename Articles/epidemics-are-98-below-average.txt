@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+A 1997 Proc. Royal Society paper by Rhodes, Jensen, and Anderson found that the frequency of cases of measles and whooping cough on the Faroe Islands from 1866-1970 each varied according to a power law with an amazingly long tail.   (Watts et al. 2005 find similar results in Iceland from 1888-1990.)    Here is what Rhodes’ power law looks like (up to a rate constant) extended to a larger population.  
+ Imagine a disease that infects different numbers of people each year.   In 16% of years it infects only one or two people, in 15% of years it infects three or four, in 50% of years it infects 16 or less, in 25% of years it infects 256 or more, in 12.5% of years it infects 4096 or more, and so on according to the power law  P(>s infected) = s^-0.25.   
+ The average number of infections per year would be infinite were it not for the fact that no disease can infect more people than there are.  Given a world population of ten billion, average infections per year would be 42 million, even though epidemics this large or larger happen in only 1.25% of years.  Most of this average comes from the 0.3% of years when the entire world is infected; if you worry at all about this sort of epidemic, worry most about the very largest ones. 
+ Looking at recent track records of these sort of problems could easily bias us to pay too little attention to them.  I learned all this while researching a new paper on catastrophes, social collapse, and human extinction, and it turns out that many other types of disasters, like wars and earthquakes, are distributed with such long tails.  
+
+
+title: Epidemics are 98% Below Average
+
+date: January 11, 2007 6:00 am
+

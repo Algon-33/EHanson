@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+A year ago, I pushed private bounty-based law enforcement:
+For each type of crime, we’d set a bounty amount to be paid to anyone who successfully convinced a court that a particular in-custody person had committed that sort of crime. We’d have to decide what investigative powers to grant bounty hunters, what regulations to impose on them, and what plea-bargains to allow. We’d also have to set rules on when to detain suspects, and how to prevent double jeopardy. (Options below.) We might want especially solid anti-trust regulations.
+Since I’ve talked about blackmail lately, I should mention that legalizing blackmail would create an especially cheap and flexible system of private law enforcement. If an associate of a criminal discovered evidence of their crime, this associate could via blackmail extract close to the cash equivalent of the punishment to the criminal. While this might modestly lower the level of punishment of a caught criminal, it should greatly increase the probability of punishment, leading to more expected punishment of crime. And relative to public police, blackmailers should have much lower costs to investigate crime and implement punishment.
+The main academic complaints (e.g., here, here) against blackmail as private enforcement of law are complaints against the very idea of private enforcement of law. It would be just terrible, they say, if criminals got punished without everyone being officially informed. Law enforcers in general face temptations to obtain evidence illegally, and to treat the rich and poor differently, and they face possible violent retaliation from criminals – and we all just know, they say, that public police better deal with these problems. Some also fear that adding private enforcement onto an optimal public enforcement would create too much deterrence, not realizing that one could compensate by reducing public penalties and enforcement.
+One unmentioned possible cost of blackmail is a weakening of the bonds that tie people together. You’ll be less open to people who could blackmail you. This is a cost of all law enforcement – you will, for example, be less open with someone who could testify against you in court. For this reason (supposedly), the law today privileges certain relationships, such as spouses, doctors, clergy, reporters, and researchers, against having to testify in court. Reasoning similarly, one could prohibit blackmail within specific relationships.
+But as such privileges make it harder to protect the rest of us from their law breaking, it seems to me that they should have to pay us to gain this privilege, unless it is clear that their relation produces more than enough compensating benefits to us. One way to pay would be by sharing some responsibility for their crimes.
+The distortion that I’d worry about most is that blackmail as private law enforcement creates an added incentive to associate with potential criminals and ne’er-do-wells, in order to later blackmail them. The cost of this distortion probably doesn’t outweigh the benefits of much cheaper enforcement, however.
+
+
+title: Blackmail Enforces Law
+
+date: August 12, 2011 9:00 am
+

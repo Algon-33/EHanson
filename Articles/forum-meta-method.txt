@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+
+How to pick city policies, vs. how to pick the mayor.
+How to cook a meal, vs. how to pick a restaurant.
+How to win a game, vs. how to decide which team won.
+How to do a study, vs. how to pick a study to publish.
+
+These are four examples of methods vs. forums.  Methods are ways to do things; forums are ways to pick who decides what to do.  Yes, in a sense forums are methods, since choosing who decides indirectly picks what to do.  But that is what makes forums powerful; good forums induce people to find good methods.  Good  elections induces good city policies, good restaurant competition induces good cooking, good game rules induce good play, and good journal review induces good articles.
+To me, prediction markets are mostly interesting as forums, not methods.  Alas many seem to confuse the two.  E.g., Ian Ayres at Freakonomics:
+One of the great unresolved questions of predictive analytics is trying to figure out when prediction markets will produce better predictions than good old-fashion mining of historic data. … We are about to have a test of these two competing approaches … a cool Supreme Court fantasy league, where anybody can make predictions about how Supreme Court justices will vote on particular cases. …
+[Will aggregate] predictions of the league [be] more accurate than the predictions of a statistical algorithm developed by [five stat experts?] … The fantasy league predictions would probably be more accurate if market participants had to actually put their money behind their predictions. … Statistical predictions could probably be improved if they relied on more recent data and controlled for more variables.
+More meta-methodological comparisons like these … will also shed light on whether market participants will learn to efficiently incorporate the results of statistical prediction into their own assessments. At the moment, individual decision-makers tend to improve their prediction when given statistical aids; but they still tend to wave off the statistical prediction too often.
+James Surowiecki’s book seems responsible for so many folks equating “prediction markets” with “wisdom of crowd” averages of non-expert more-intuitive opinion, vs. formal expert analysis.  Averaging popular opinion may be an interesting method, as is statistical analysis, but comparing these does not evaluate prediction markets as forums.
+“Prediction markets” started from speculative markets, e.g. stocks, where accuracy comes much less from non-expert participation and much more from participants with incentives to self-select as experts.  Any team that considers itself expert enough can pay to prove itself, but in fact most teams stay away and prices tend to be dominated by real experts, who get paid and really know better than most.
+Prediction markets aren’t about emphasizing ordinary Joes over credentialed bigshots; they are about emphasizing whomever tends to be right.  Simple opinion averages maybe be reasonable indicators of crowd wisdom, but they have too little of the forum-ness of letting self-selected expert teams come to dominate.
+It seems to me that when academics like Aryes call for academic studies of prediction markets as methods, instead of as forums, they are implicitly suggesting that current academic institutions should be the forum in we choose forecasting methods.  If academic journals prefer a method, they suggest, that’s the method the world should use.
+In contrast, I suggest prediction markets may be a better forum than academic journals for choosing forecasting methods.  Maybe the world shouldn’t use a method just because academics say its great; maybe those impressed with a method should have to put their money where their mouth is and trade on that method’s forecasts in prediction markets.  Maybe the rest of us should just accept prediction market prices as our best estimates; if and when prediction market prices become dominated by traders using a method, that is when the rest of us will have implicitly accepted that method as best.
+
+
+title: Forum = Meta-Method
+
+date: January 3, 2010 2:00 am
+

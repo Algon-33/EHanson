@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Don Quixote’s lower class sidekick Sancho Panza quoted proverbs to excess. Among the intellectuals I know that class association continues – proverbs may help lesser minds, but we elites “think for ourselves.” Proverbs are also associated with older beliefs and attitudes, and so are seen as more politically conservative, and less relevant in our new changed world. Since the world today changes faster, has become less politically conservative, and has more educated folks who aspire to look more intellectual, you might think that we use proverbs less today than we did in 1800.
+On the other hand, you might think of proverbs as well-packaged nuggets of useful insight. As the world continues to grow by accumulating insight and innovation, not only do we collect more gadgets, formulas, and words, we should also be collecting more useful proverbs. From this perspective, we should expect people to use more proverbs today.
+To get some data on this, I found some lists of famous proverbs, and used Google books ngram viewer to plot their usage in books since 1800:
+
+Overall usage seems to have gone up, not down. But two considerations complicate this interpretation. One is that I started from lists of proverbs famous today, instead of proverbs famous in 1800. The other is that the typical book reader and author today may be more lower class than they were in 1800, with books catering more to their proverb-friendly tastes.
+I hope someone can get better data on this. Even so, maybe we should tentatively expect future folk to talk and write more like ole Sancho Panza, with many more proverbs.
+
+
+title: Proverbs As Insight
+
+date: June 4, 2014 2:00 pm
+

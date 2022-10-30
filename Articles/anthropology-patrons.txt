@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Academic anthropology is funded by many organizations, including the Wenner-Gren Foundation, the National Geographic Society, the Templeton Foundation, and much more.  A few like NSF may commit to strictly using peer review, but most use their own judgement to pursue their own agendas.  Apparently that is mostly fine with anthropologists, except if the patron is the US military:
+The Pentagon’s $50 million Minerva Research Initiative, named after the Roman goddess of wisdom and warriors, will fund social science research deemed crucial to national security. … the research would not be kept secret. … Gates said Minerva would solicit diverse views, regardless of whether they are critical of the military. … “This is the first significant effort in 30 or 40 years to engage social sciences on a large scale by the Department of Defense” …
+
+Minerva will fund research on five topics, including the development of China’s military and technological prowess and how religion, culture, economics and politics in the Islamic world “interact to foster political violence, terrorism or insurgent behavior.” The Pentagon also wants insights into Saddam Hussein’s rule and into terrorist groups.  …
+But the Network of Concerned Anthropologists … said dependence on Pentagon funding could make universities an “instrument rather than a critic of war-making.” … the American Anthropological Association … [is] “deeply concerned that funding such research through the Pentagon may pose a potential conflict of interest.” … David Price, an anthropologist … said, the Pentagon effort is flawed. “It will only look at problems Defense wants us to in a narrow way.”
+David Vine, an American University anthropologist, criticized the initiative, saying the research would be limited by the Pentagon’s worldview.  … Forte, an anthropologist … doing research in the Caribbean region, said debate over Minerva has made some of his subjects suspicious … “they are concerned I might be some kind of intelligence agent.”
+If anthropology only has trustworthy expertise when funded by patrons with the “right” worldview, I fear we are already lost.  I have no particular confidence in the worldviews of previous patrons, and by assumption anthropologists wouldn’t know if bad patron worldviews had compromised their current expert views.  Prediction markets seem especially hopeful here, as we can have more confidence that subsidized markets would reward real insight regardless of who paid for the subsidy.
+
+
+title: Anthropology Patrons
+
+date: August 5, 2008 6:00 am
+

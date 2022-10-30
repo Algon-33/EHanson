@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Almost every new technology comes at first in a dizzying variety of styles, and then converges to what later seems the "obvious" configuration.  It is actually quite an eye-opener to go back and see old might-have-beens, from steam-powered cars to pneumatic tube mail to Memex to Englebart’s computer tools.  Techs that are only imagined, not implemented, take on the widest range of variations.  When actual implementations appear, people slowly figure out what works better, while network and other scale effects lock-in popular approaches.  As standards congeal, competitors focus on smaller variations around accepted approaches.  Those who stick with odd standards tend to be marginalized.  
+Eliezer says standards barriers are why AIs would "foom" locally, with one AI quickly growing from so small no one notices, to so powerful it takes over the world: 
+
+ I also don’t think this [scenario] is allowed: … knowledge and even skills are widely traded in this economy of AI systems. In concert, these AIs, and their human owners, and the economy that surrounds them, undergo a collective FOOM of self-improvement.  No local agent is capable of doing all this work, only the collective system. …  [The reason is that] trading cognitive content around between diverse AIs is more difficult and less likely than it might sound.  Consider the field of AI as it works today.  Is there any standard database of cognitive content that you buy off the shelf and plug into your amazing new system, whether it be a chessplayer or a new data-mining algorithm? …
+
+  
+
+The diversity of cognitive architectures acts as a tremendous barrier to trading around cognitive content. … If two AIs both see an apple for the first time, and they both independently form concepts about that apple … their thoughts are effectively written in a different language. … The barrier this opposes to a true, cross-agent, literal "economy of mind", is so strong, that in the vast majority of AI applications you set out to write today, you will not bother to import any standardized preprocessed cognitive content.  It will be easier for your AI application to start with some standard examples – databases of that sort of thing do exist, in some fields anyway – and redo all the cognitive work of learning on its own. …  Looking over the diversity of architectures proposed at any AGI conference I’ve attended, it is very hard to imagine directly trading cognitive content between any two of them. 
+
+ But of course "visionaries" take a wide range of incompatible approaches. Commercial software tries much harder to match standards and share sources.  The whole point of CYC was that AI researchers neglect compatibility and sharing because they are more interested in writing papers than making real systems.  The idea that you could create human level intelligence by just feeding raw data into the right math-inspired architecture is pure fantasy.  You couldn’t build an effective cell or ecosystem or developed economy or most any complex system that way either – such things require not just good structure but also lots of good content.  Loners who start all over from scratch rarely beat established groups sharing enough standards to let them share improvements to slowly accumulate content.   
+ CYC content may or may not jump-start a sharing AI community, but AI just won’t happen without a whole lot of content.  If ems appear first, perhaps shareable em contents could form a different basis for shared improvements.
+
+
+title: Shared AI Wins
+
+date: December 6, 2008 3:05 pm
+

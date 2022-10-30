@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+I had a meeting this morning at a management consulting firm that does a lot of government business. Waiting in the lobby, I noticed that their employees are especially good looking. I remembered also noticing this about a similar firm a few years ago.
+This makes sense – if you were a government employee choosing among competing firms, you might well choose on the basis of the best eye candy for your regular meetings, since your other personal stakes in the outcomes are so weak.
+This suggests that studying how physical attractiveness varies with industry, occupation, and position could give us a window into agency failures at work.  That is, it could show us where some employees are especially free to choose for their personal benefit, rather than for a larger benefit. Even when they leave clear evidence of this self-dealing. Seems like a project for an enterprising data-gathering grad student.
+Now it could be that some people just place an especially large value on working with attractive others, or that in simple places having attractive associates is an important signal of status. But honestly, while those might be contributing factors, it is hard to believe those are usually the main effects.
+Added 11a: Eric Barker a while back:
+[Advertising] firms with better-looking executives have higher revenues and faster growth than do otherwise identical firms whose executives are not so good-looking.
+Yup – since it is so hard to tell which ads help, folks who hire ad firms probably have a lot of slack.
+
+
+title: Eye Candy Shows Slack?
+
+date: January 10, 2012 6:17 pm
+

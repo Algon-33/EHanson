@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+There are many complex issues to consider when choosing between public vs private provision of a good or service. But one issue seems to me to clearly favor the private option: rights. If you want to make rights-enforcing rules that are actually followed, you are better off having courts or regulators enforcing rules on a competitive private industry.
+Consider this excellent 2015 AJPS paper:
+Many regulatory policies—especially health, safety, and environmental regulations—apply to government agencies as well as private firms. … Unlike profit‐maximizing firms, government agencies face contested, ambiguous missions and are politically constrained from raising revenue to meet regulatory requirements. At the same time, agencies do not face direct competition from other firms, rarely face elimination, and may have sympathetic political allies. Consequently, the regulator’s usual array of enforcement instruments (e.g., fines, fees, and licensure) may be potent enough to alter behavior when the target is a private firm, but less effective when the regulated entity is a government agency. …
+The ultimate effect of regulatory policy turns not on the regulator’s carrots and sticks, but rather on the regulated agency’s political costs of compliance with or appeal against the regulator, and the regulator’s political costs of penalizing another government. One implication of this theory is that public agencies are less likely than similarly situated private firms to comply with regulations. Another implication is that regulators are likely to enforce regulations less vigorously against public agencies than against private firms because such enforcement is both less effective and more costly to the regulator. …
+We find that public agencies are more likely than private firms to violate the regulatory requirements of the [US] Clean Air Act and the Safe Drinking Water Act. Moreover, we find that regulators are less likely to impose severe punishment for noncompliance on public agencies than on private firms. (more)
+See also:
+There is evidence … that [public entities] are [better] able to delay or avoid paying fines when penalties are assessed. (more)
+Public sector employees experienced a higher incidence rate of work-related injuries and illnesses than their private industry counterparts. (more)
+I’ve tried but failed to find stats on public vs private relative rates of abuse, harassment, bribery, embezzlement, nepotism, and test cheating. (Can you find more?) But I’d bet they’d also show government agencies violating such rules at higher rates.
+This perspective seems very relevant to criminal justice reform. Our status quo criminal justice system embodies enormous inefficiencies and injustices, but when I propose changes that involve larger roles for private actors, I keep hearing “yes that might be more efficient, but won’t private actors create more rights violations?” But the above analysis suggests that this gets the comparison exactly wrong!
+Yes of course, if you compare a public org that has a rule with a private actor to whom no such rules applies, you may get more rule “violations” with the latter. And yes, enforcement of central rules can be expensive and limiting, so sometimes it makes sense to use private competition as a substitute for central rules, and so impose fewer rules on private actors. But once we allow ourselves to choose which rules to impose, private orgs seem just overall better for enforcing rules.
+Note that when a government agency directly contracts with a specific private organization, using complex flexible terms and monitoring, as in military procurement, the above theory predicts that this contractor will look much more like an extension of the government agency for the purpose of rule enforcement. Rule enforcement gains come instead from private orgs that compete to be chosen by the public, or that compete to win simple public prizes where public orgs do not have so much discretion over terms that they can pick winners, but get blamed for rights violations of losers.
+It is these independent private actors that I seek to recruit to reform criminal justice. We will get more, not less, enforcement of rules that protect rights, when the umpires who enforce rights are less affiliated with the teams who can violate them.
+
+
+title: Umpires Shouldn’t Be On Teams
+
+date: January 7, 2019 2:00 pm
+

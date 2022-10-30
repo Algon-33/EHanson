@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+I’m old enough to remember that within a society pushing more traditional gender roles, men often asked each other “what do women want?” It was widely believed, and I think then true, that it was much easier (for men) to predict what men wanted. Men would tell you what they wanted, and would in fact be relatively content, at least for a while, if they got what they had asked for. In contrast, while women would often express opinions on what they might like, it was harder to predict how content women might be with getting various things.
+As a negotiation strategy, I think this kinda made sense for women as response to their having less direct and overt control within traditional male-female relations. A man who could more make the official choices for the couple might be tempted to try to figure out the minimum he needed to spend to satisfy his woman, after which he could spend all the rest on himself. Her evasiveness and ambiguity re what it would take to satisfy her let her extract a larger fraction of their joint surplus. She could keep him in real doubt as to whether she might become very unhappy and tempted to take extreme actions.
+Our gender roles today do not have men being as strongly dominant. But such strong dominance does continue in employee-employer relations. Employees can quit, but if they don’t they mostly have to do what their employers say. In this situation, employees may also feel (perhaps mistakenly) that they benefit from evasiveness and ambiguity about what they want, and what it takes to satisfy them.
+I just did two sets of polls that seems to confirm this. I asked people in two different ways about the importance of eight different features of jobs/careers: money, control, respect, time, health, flow, happiness, and meaning. Here are the weights, relative to money, via asking to choose between four options (N = 376-432), and via (a median lognormal fit to) asking for a weight number (N= 170-218).
+
+Both methods found a lot of individual variation, but only weak and inconsistent differences in aggregate importance. And I just don’t believe the low priority put here on respect.
+This looks to me like people just don’t like to be pinned down on which of these factors are more important to them. So they do not know what they prefer, or don’t like what they prefer being clearly known to others. Worker lists or scoresheets of ideal job features seem no more realistic or useful than lists or scoresheets of ideal romantic partner features, and probably fail for similar reasons.
+What do workers want? I’m sure you’d love to know, wouldn’t you boss-man. Which is why I won’t tell. And may not know. I won’t give you the satisfaction of knowing just how much you could demand from me before I’d quit. On that, I want you to remain forever uncertain. Even if that comes at the cost of my not getting what I want, because I don’t really know what I want.
+Alas, this worker reluctance to say directly what they want is probably an obstacle to widespread adoption of career agents. And note that this is a different mechanism for producing hidden motives from those I’ve discussed before: trying to present good motives or evading norm enforcement.
+
+
+title: What Do Workers Want?
+
+date: October 11, 2020 6:40 am
+

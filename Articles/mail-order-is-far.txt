@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Remember the Netflix Prize? Turns out, Netflix didn’t make must use of the winning method, because the prize was based on dvd rental data, and their customers now stream movies more; dvds tend to be chosen more in far mode, while streaming movies are chosen more in near mode:
+Netflix launched an instant streaming service in 2007, one year after the Netflix Prize began. Streaming has not only changed the way our members interact with the service, but also the type of data available to use in our algorithms. For DVDs our goal is to help people fill their queue with titles to receive in the mail over the coming days and weeks; selection is distant in time from viewing, people select carefully because exchanging a DVD for another takes more than a day, and we get no feedback during viewing. For streaming members are looking for something great to watch right now; they can sample a few videos before settling on one, they can consume several in one session, and we can observe viewing statistics such as whether a video was watched fully or only partially. …
+when people rent a movie that won’t arrive for a few days, they’re making a bet on what they want at some future point. And, people tend to have a more… optimistic viewpoint of their future selves. That is, they may be willing to rent, say, an “artsy” movie that won’t show up for a few days, feeling that they’ll be in the mood to watch it a few days (weeks?) in the future, knowing they’re not in the mood immediately. But when the choice is immediate, they deal with their present selves, and that choice can be quite different. (more; HT Carl Shulman)
+
+
+title: Mail Order Is Far
+
+date: April 16, 2012 8:45 am
+

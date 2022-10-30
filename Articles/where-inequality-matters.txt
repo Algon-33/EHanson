@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+People do care about their income relative to others, especially coworkers:
+A randomly chosen subset of employees of the University of California was informed about a new website listing the pay of all University employees. … The vast majority of new users access[ed] data on the pay of colleagues in their own department. … Workers with salaries below the median for their pay unit and occupation report lower pay and job satisfaction, while those earning above the median report no higher satisfaction. Likewise, below-median earners report a significant increase in the likelihood of looking for a new job, while above-median earners are unaffected. (more)
+If, as seems likely, coworker envy is much stronger than envy of distant strangers, then it is good to let each firm choose its internal level of inequality.  They internalize most of the envy externality, and so have good incentives to trade that against other relevant considerations in choosing employee incomes.
+
+
+title: Where Inequality Matters
+
+date: November 7, 2010 10:00 am
+

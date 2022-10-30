@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+If the human mind is split to parts that manage overt appearances, and parts that manage covert strategies, which parts do you think more control our personalities? Yup, personalities are closer to overt appearances:
+By using composite images rendered from three dimensional (3D) scans of women scoring high and low on health and personality dimensions, we aimed to examine the separate contributions of facial shape, skin texture and viewing angle to the detection of these traits, while controlling for crucial posture variables. After controlling for such cues, participants were able to identify Agreeableness, Neuroticism, and Physical Health. … Information allowing accurate personality identification is largely lateralized to the right side of the face. (more)
+Chimpanzees, other primates, and humans produce asymmetrical facial expressions with greater [emotional] expression on the left side of the face (right hemisphere of the brain). (more)
+In most animals, left brains tend to manage and initiate actions within the current mode, while right brains watch in the background for patterns and reasons to veto current actions and switch modes. In humans, it seems the current-action-sequencer brain half was recruited to focus more on managing overt rule-following language, decisions, and actions, ready to explain away any apparent rule-violations. The less-introspectively-accessible pattern-recognizing background-watcher brain half, in contrast, was apparently recruited to focus on harder-to-testify-on-and-so-more-easily-covert meaning, opinion, and communication, including art and music. (more)
+
+
+title: Personality Is Overt
+
+date: February 9, 2012 5:20 pm
+

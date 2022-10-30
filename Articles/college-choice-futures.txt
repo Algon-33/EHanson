@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Students choosing a college consider many issues, but especially:  "Which college is best for my future?"  Someone asked me if we could make decision markets to advise this decision.  (A decision market estimates an outcome given a choice.)   
+ The choices are nicely distinct, as is the choice time.  We could bet conditional on whether you start in a certain season to attend a certain college (perhaps also in a certain school of that college).  We could also consider the choice of not attending college at all.  (Breaking this condition into parts might be trickier though.)
+Of course students would have to post info on themselves for bettors to consider, perhaps anonymized to protect their privacy.  And to make sure we could pay off bets, we would need students to report later on their success.  Perhaps as the price for advice on their college choice, students would pay a fee, which would later be refunded with generous interest, if the student reported as promised on their success.  (All bets could be conditional on this later report.)  
+ OK, but what outcome(s) would count as "success"?  Income is an obvious choice, but you might have to wait ten or twenty years, until well after college, grad school, and medical internships, to see clear income results.  One might find a way to rate immediate post-college outcomes in terms of future income potential, but this seems tricky.
+ If we waited long enough we might rate "fame" or "accomplishment", such as awards or media citations, but many judgment calls would be needed to make these comparable.  We could look at whether the student married and how many kids they had when, but it is not clear how important this consideration weighs on students choosing a college.
+P.S.  Most bettors would probably prefer to bet on bundles of students, such as all females from New England attending Stanford.  This is quite feasible.  Next week: helping colleges pick students. 
+
+
+title: College Choice Futures
+
+date: October 29, 2007 6:00 am
+

@@ -1,0 +1,16 @@
+author: Carl Shulman
+
+text: 
+One of the more colorful vignettes in philosophy is Gibbard and Harper’s “Death in Damascus” case:
+Consider the story of the man who met Death in Damascus. Death looked surprised, but then recovered his ghastly composure and said, ‘I am coming for you tomorrow’. The terrified man that night bought a camel and rode to Aleppo. The next day, Death knocked on the door of the room where he was hiding, and said I have come for you’.
+‘But I thought you would be looking for me in Damascus’, said the man.
+‘Not at all’, said Death ‘that is why I was surprised to see you yesterday. I knew that today I was to find you in Aleppo’.
+That is, Death’s foresight takes into account any reactions to Death’s activities.
+Now suppose you think that a large portion of the Great Filter lies ahead, so that almost all civilizations like ours fail to colonize the stars. This implies that civilizations almost never adopt strategies that effectively avert doom and allow colonization. Thus the mere fact that we adopt any purported Filter-avoiding strategy S is strong evidence that S won’t work, just as the fact that you adopt any particular plan to escape Death indicates that it will fail.
+To expect S to work we would have to be very confident that we were highly unusual in adopting S (or any strategy as good as S), in addition to thinking S very good on the merits. This burden might be met if it was only through some bizarre fluke that S became possible, and a strategy might improve our chances even though we would remain almost certain to fail, but common features, such as awareness of the Great Filter, would not suffice to avoid future filters.
+
+
+title: Future Filter Fatalism
+
+date: December 22, 2012 1:57 pm
+

@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+For students motivated by grades, ways to teach are limited by ways to test. No matter how insightful your lectures, grade-focused students will only attend to what it takes to pass your tests. So better ways to test give better ways to teach.
+Economics is usually taught as a series of abstract concepts, and such concepts are usually tested in the abstract as well. Alas, this encourages neglect of how to apply abstract concepts to concrete situations.
+Yes, one can instead ask concrete questions, about what would happen in the world if a specific social change were made. For example: what would happen if we discovered a huge new oil field? Problem is, there are many ways to guess at specific consequences without using abstract economic theory. People come to economics with lots of complex intuitions about how the social world works, or how it should work, so if you ask them specific questions they tend to use such intuitions instead of abstract concepts.
+For example, lots of questions about changes within the usual range of experience can be answered merely by projecting observed trends, or by making analogies to similar situations. Yes, these are reasonable ways to guess at social consequences, but they can get in the way of assimilating economic concepts. Yes, tests can reward using abstract concepts, but even so it can be hard to get students into that habit.
+A related problem is that small changes seem to have limited consequences. One might notice a few immediate consequences, but indirect consequences seem to quickly fade into “pretty much no effect” on more distant parts of society.
+So to teach (and test) students to really apply economic concepts, it helps to consider concrete changes well outside of their usual range of experience. For changes that are big and dramatic enough, students can see the inadequacy of analogy and trend projection, and so are willing to look to abstract theory. And big changes more obviously have distant indirect effects.
+My post yesterday on Tube Earth Econ was an example. If I ask you to estimate the social consequences of your planet having a very different shape, it is hard to make analogies to similar past events. That will push you more to go back to basic concepts and work from there.
+I apply this concept in my masters level microeconomics course. One quarter of the grade is for this assignment:
+Big Change Paper – Imagine a single big change to our economy, and then use microeconomics to describe the consequences of that change, including whether those changes are good or bad. You might, for example, imagine how things would be changed if people became immortal, if Star Trek style “transporters” were available, if very reliable lie detectors were available, or if no one needed sleep.
+We talk about the consequences of similar big changes in class, to give students examples to follow in their papers. Such discussions and assignments are especially fun for people like me who enjoy science fiction and the drama of thinking about big dramatic social changes.
+
+
+title: Big Changes Test Econ
+
+date: April 26, 2012 10:35 pm
+

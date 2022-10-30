@@ -1,0 +1,28 @@
+author: Katja Grace
+
+text: 
+Suppose nobody has ever told you that they like you. Suppose you are relatively uncertain about how often people like other people, and also about how often they will disclose it when they do. Suppose you are confident that these facts about your ignorance and social inexperience do not bear on whether other people like you. So as it stands you are fairly uncertain about your popularity. Suppose also that you have a deep and insatiable need for people to like you, and your pleasure is roughly linear in the number of people who like you.
+Suppose one day a person tells you that they like you. If you are given to expressing emotions or making inferences, one thing you might wonder is whether this should be cause for happiness.
+This is not as obvious as it first seems. A person telling you that they like you is more probable if:
+
+This specific person likes you.
+People like you in general
+People are given to expressing their liking for other people
+
+The first two are promising. The third makes the fact that nobody else has ever said they like you a bit more damning. Just how much more damning depends on your probability distribution over different possible states of affairs. For an extreme example, suppose you had even odds on two extreme cases – people always saying they like people who they like, and people never doing so – and that many people have had a chance by now to tell you if they like you. Then you should be extremely sad if anyone tells you that they like you. The apparent update in favor of people liking you in general will be completely overwhelmed by the reverse update from flatly ruling out the possibility that all those people you have already met like you.
+In general, seeing an instance of X can make X less likely, by indicating that X tends to be visible:
+
+Hearing your neighbors have loud sex might lower your estimate of how often they have sex.
+Finding a maggot in your dinner might reassure you that maggots in dinners are relatively visible (this is just a hypothetical example – in fact they are not, especially if your dinner is rice)
+
+Conversely, failing to see X can make X more likely, by increasing the probability that it is invisible:
+
+If you have never observed a person lying, it might be more likely that they are an excellent and prolific liar than it would be if you had seen them lie awkwardly once. Though not once all the excellent liars realize this and stumble sheepishly over a white lie once in a while.
+Failing to observe phone calls  from friends for too long will often cause you to suspect they have in fact been calling you, and there is rather something wrong with your phone.
+
+
+
+title: When seeing X suggests ‘generally ¬X’
+
+date: March 13, 2013 5:14 pm
+

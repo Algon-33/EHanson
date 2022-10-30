@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+These four emotions: scared, sad, angry, and bitter, all suggest that one has suffered or will suffer a loss. So all of them might inspire empathy and help from others. But they don’t do so equally. Consider the selfish costs of expressing empathy for these four emotions.
+While a scared person hasn’t actually suffered a loss yet, the other kinds of feelings indicate that an actual loss has been suffered. So the scared person is not yet a loser, while the others are losers. When there are costs with associating with losers, those costs are lowest for the scared. For example, if it takes real resources to help someone who has suffered a loss, the scared person is less likely to need such resources.
+People who are angry or bitter blame particular other people for their loss. So by expressing empathy with or helping such people, you risk getting involved in conflicts with those other people. In contrast, helping people who are just sad less risks getting you into conflicts.
+People who are angry tend to think they have a substantial chance of winning a conflict with those they blame for their loss. Anger is a more visible emotion that drives one more toward overt conflict. Angry people are visibly trying to recruit others to their fight.
+In contrast, bitter people tend to think they have little chance of winning a overt conflict, at least for now. So bitter people tend to fume in private, waiting for their chance to hit back unseen. If you help a bitter person, you may get blamed when their hidden attacks are uncovered, and your support may tempt them to become angry and start an overt fight. So by helping a bitter person, you are more likely to be on the losing end of a conflict.
+These considerations suggest that our cost of empathizing with and helping people with these emotions increases in this order: scared, sad, angry, and bitter. And this also seems to describe the order in which we actually feel less empathy; we feel less empathy when its costs are higher.
+Note that this same order also describes who has suffered a larger loss, on average. Scared people expect to suffer the smallest loss, while bitter people suffer the largest loss. (Ask yourself which emotion you’d rather feel.) So our willingness to express empathy with those who suffer a loss is inverse to the loss they suffer. We empathize the most with those who suffer the least. Because that is cheapest.
+Thanks to Carl Shulman for pointing out to me the social risks of helping bitter folk, relative to sad folk.
+Added 18Feb: Interestingly, many lists of emotions don’t include bitterness or an equivalent. It is as if we’d like to pretend it just doesn’t exist.
+
+
+title: Scared, Sad, Angry, Bitter
+
+date: February 17, 2016 9:00 am
+

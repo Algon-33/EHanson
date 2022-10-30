@@ -1,0 +1,26 @@
+author: Stuart Armstrong
+
+text: 
+Steven Levitt’s book Freakonomics has a section where he tries to gain insights into white-collar crime via the experiences of a bagel-seller called Paul F: 
+
+ early in the morning, [Paul] would deliver some bagels and a cash basket to a company’s snack room; he would return before lunch to pick up the money and the leftovers. It was an honor-system commerce scheme, and it worked. 
+
+ There was a lot of fascinating data coming out of his scheme, especially as to when and why people would cheat and not pay for their bagels; however, for those with an eye to bias, the most relevant observation was that: 
+
+ the same people who routinely steal more than 10 percent of his bagels almost never stoop to stealing his money box.
+
+  
+ Similarly, while stealing office supplies is very common for white collar workers, as are various types of fraud, theft and robbery in the usual sense – nicking a CD from HMV, breaking into a house one night – is nearly absent from higher income crime.
+ I myself always return extra change to a cashier, and would never steal money, but would be perfectly willing to use a fake student ID, for instance. There are many interesting moral, evolutionary and social biases at play here. We also seem to feel that causing someone pain is worst than spreading the pain out over many people (depending on what we think about utility functions, this may or may not be true). A lot of these biases are reflected in the Simpson’s quote: 
+
+ Myth: Cable piracy is wrong.
+ Fact: Cable companies are big faceless corporations, which makes it okay. 
+
+ But there is another way of seeing this. Typical white-collar crime involves a type of "moral free-loading". Stealing something from someone imposes a definite pain on them. But stealing from Microsoft – this won’t pain them in the slightest. My theft will be lost in the noise of the economy; by the time the result filters up to Microsoft, who knows what effect it will have? It is, literally, a victimless crime.
+ But if many people are doing it, then it imposes a definite cost on Microsoft, on their employees and on the whole economy. So I am committing an act that I can morally defend for myself, if I am the only one doing it, but which is morally wrong for a group to do. Many of our moral codes resemble this, designed to allow us to feel good about our own behaviour while not truly reflecting the costs of our types of behaviour.
+
+
+title: White-collar crime and moral freeloading
+
+date: March 5, 2007 8:31 am
+

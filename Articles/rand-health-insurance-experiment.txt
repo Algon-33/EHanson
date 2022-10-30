@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+[I finally begin to post on the "Hansonian" view of medicine, mentioned here, here, here, here.] 
+How useful is medicine, to the average person, wondering if he should go to the doctor or skip it?  We have perhaps a million medical studies, but how do we combine them into a total estimate of the value of medicine?  It is hard to see how to correct for many potential biases such as fraud, funding bias, treatment selection bias, publication selection bias, and so on.  
+ These biases can be partially overcome by focusing on studies of the aggregate effects of medicine on the general population, some of which compare millions of people over years.  Such studies usually find no health effect of more medicine, but most are correlation studies, so one may doubt if they controlled for enough relevant factors.  Fortunately, there has been one large randomized experiment on aggregate medicine.
+ If you remember only one medical study, it should be the RAND health insurance experiment, where from 1974 to 1982 the US government spent $50 million to randomly assign 7700 people in six US cities to three to five years each of either free or not free medicine, provided by the same set of doctors.   The plan was to compare five measures of general health, and also 23 physiologic health measures.  From their expanded 1983 New England Journal of Medicine article: 
+
+For the average person enrolled in the experiment, we observed two significant positive effects of free care relative to cost-sharing: corrected far vision … was better by 0.1 Snellen lines (p = 0.001) and diagnostic blood pressure was lower by 0.8mm HG (p = 0.03).   For the remaining measures … any true differences would be clinically and socially negligible.  For the five general health measures, we could detect no significant positive effect of free care for persons who differed by income .. and by initial health status.  … Among participants who were judged to be at elevated risk with respect to smoking habits, cholesterol levels, and weight, free care had no detectable effect.  … For persons who were in the upper quartile of the distribution of risk factors included in the risk of dying index, the risk of dying was 10 percent lower on the free than the cost-sharing plans (p = 0.02).  
+
+It has long been obvious that eyeglasses help people see better, and eyeglasses are basically physics, not "medicine," so that result should be set aside.  Since this experiment looked at thirty measures in total then just by chance one of them should seem significant at the three percent level, explaining the blood pressure result.  The "risk of dying index" effect is mainly just the blood pressure effect, and the index came from a 1976 paper on heart attack risk, which was chosen well after the RAND experiment started, so the statistical significances reported for that clearly did not correct for data mining.
+The bottom line is that thousands of people randomly given free medicine in the late 1970s consumed 30-40% more medical services, paid one more "restricted activity day" per year to deal with the medical system, but were not noticeably healthier!  So unless the marginal value of medicine has changed in the last thirty years, if you would not pay for medicine out of your own pocket, then don’t bother to go when others offer to pay; on average such medicine is as likely to hurt as to help.
+Why is this shocking news unknown to most readers of the weekly health section of the newspaper?  More tomorrow on the RAND experiment.   
+
+
+title: RAND Health Insurance Experiment
+
+date: May 8, 2007 6:00 am
+

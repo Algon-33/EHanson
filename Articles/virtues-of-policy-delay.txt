@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+I disagreed here with Will Wilkinson on which harms to consider in government policy: I said to use the usual economists’ efficiency criteria, while Will seemed willing to just embrace common opinions on which activities are praise or blameworthy:
+Robin complains that I share Miller’s and Frank’s reliance on intuitions about things we happen to dislike because I’m arguing with them from within what I see to be their prior liberal moral commitments, which I share. We’re all liberals, which means we dislike many of the same things.
+Recently Will told me in person that a key issue was that we shouldn’t count things as harms if others might plausibly persuade us to change our minds on what is really a harm.  For example, if we are still arguing about whether stay-at-home moms give working moms a bad image, or vice versa, we shouldn’t count either effect as a harm.
+Will and I just had an IM conversation to get to the bottom of this.  I think we agreed on the following:
+
+ There can be administrative costs to having government policy encourage or discourage anything; so if the harm or benefit is low, it can make sense to not bother to add a new process to deal with it.
+Opening up a new area as fair game for encouraging or discouraging may induce stronger efforts to lobby to get favorable treatment.  If the harms or benefits are mind, gains from better addressing them can be overwhelmed by lobbying losses, and so it can make sense to not open new areas up for taxes and subsidizes.
+If opinion is likely to change substantially soon, and if there are large fixed costs to change a policy, it can make sense to wait to see if opinions will change soon before paying the fixed costs of making or changing policy.
+If envisioned policies to encourage or discourage something would result in less experimentation than status quo policies, that gives an added reason for delay.  Continued experimentation, in private spheres or in relatively local governments, may be preferable.
+
+All of these considerations are understandable within the standard policy efficiency framework. It seems that Will and I don’t disagree as much as I’d feared.
+
+
+title: Virtues of Policy Delay
+
+date: July 11, 2009 6:00 am
+

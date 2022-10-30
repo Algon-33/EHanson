@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+
+Analyzing the neutrality of referees during 12 German premier league (1. Bundesliga) soccer seasons, this paper documents evidence that social forces influence agents’ decisions. Referees, who are appointed to be impartial, tend to favor the home team by systematically awarding more stoppage time in close matches in which the home team is behind. They also favor the home team in decisions to award goals and penalty kicks. Crowd composition affects the size and the direction of the bias, and the crowd’s proximity to the field is related to the quality of refereeing.
+
+That is from Economic Inquiry.  
+
+
+title: More Referee Bias
+
+date: February 25, 2008 6:00 am
+

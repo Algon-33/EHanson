@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+To a first approximation, the future will either be a singleton, a single integrated power choosing the future of everything, or it will be competitive, with conflicting powers each choosing how to perpetuate themselves.  Selection effects apply robustly to competition scenarios; some perpetuation strategies will tend to dominate the future.  To help us choose between a singleton and competition, and between competitive variations, we can analyze selection effects to understand competitive scenarios.  In particular, selection effects can tell us the key feature without which it is very hard to forecast: what creatures want.
+This seems to me a promising place for mathy folks to contribute to our understanding of the future.  Current formal modeling techniques are actually up to this task, and theorists have already learned lots about evolved preferences:
+
+Discount Rates: Sexually reproducing creatures discount reproduction-useful-resources given to their half-relations (e.g., kids, siblings) at a rate of one half relative to themselves. Since in a generation they get too old to reproduce, and then only half-relations are available to help, they discount time at a rate of one half per generation.  Asexual creatures do not discount this way, though both types discount in addition for overall population growth rates.  This suggests a substantial advantage for asexual creatures when discounting is important.
+Local Risk:  Creatures should care about their lineage success, i.e., the total number of their gene’s descendants, weighted perhaps by their quality and relatedness, but shouldn’t otherwise care which creatures sharing their genes now produce those descendants.  So they are quite tolerant of risks that are uncorrelated, or negatively correlated, within their lineage.  But they can care a lot more about risks that are correlated across such siblings.  So they can be terrified of global catastrophe, mildly concerned about car accidents, and completely indifferent to within-lineage tournaments.
+Global Risk:  The total number of descendants within a lineage, and the resources it controls to promote future reproduction, vary across time.  How risk averse should creatures be about short term fluctuations in these such totals?  If long term future success is directly linear in current success, so that having twice as much now gives twice as much in the distant future, all else equal, you might think creatures would be completely risk-neutral about their success now.  Not so.  Turns out selection effects robustly prefer creatures who have logarithmic preferences over success now.  On global risks, they are quite risk-averse.
+Carl Shulman disagrees, claiming risk-neutrality:
+For such entities utility will be close to linear with the fraction of the accessible resources in our region that are dedicated to their lineages. A lineage … destroying all other life in the Solar System before colonization probes could escape … would gain nearly the maximum physically realistic utility … A 1% chance of such victory would be 1% as desirable, but equal in desirability to an even, transaction-cost free division of the accessible resources with 99 other lineages.
+When I pointed Carl to the literature, he replied:
+The main proof about maximizing log growth factor in individual periods … involves noting that, if a lineage takes gambles involving a particular finite risk of extinction in exchange for an increased growth factor in that generation, the probability of extinction will go to 1 over infinitely many trials. … But I have been discussing a finite case, and with a finite maximum of possible reproductive success attainable within our Hubble Bubble, expected value will generally not climb to astronomical heights as the probability of extinction approaches 1.  So I stand by the claim that a utility function with utility linear in reproductive success over a world history will tend to win out from evolutionary competition.
+Imagine creatures that cared only about their lineage’s fraction of the Hubble volume in a trillion years.  If total success over this time is the product of success factors for many short time intervals, then induced preferences over each factor quickly approach log as the number of factors gets large. This happens for a wide range of risk attitudes toward final success, as long as the factors are not perfectly correlated. [Technically, if U(prodtN rt) = sumtN u(rt), most U(x) give u(x) near log(x) for N large.]
+A battle for the solar system is only one of many events where a lineage could go extinct in the next trillion years; why should evolved creatures treat it differently?  Even if you somehow knew that it was in fact that last extinction possibility forevermore, how could evolutionary selection have favored a different attitude toward such that event?  There cannot have been a history of previous last-extinction-events to select against creatures with preferences poorly adapted to such events.  Selection prefers log preferences over a wide range of timescales up to some point where selection gets quiet.  For an intelligence (artificial or otherwise) inferring very long term preferences by abstracting from its shorter time preferences, the obvious option is log preferences over all possible timescales.
+Added: To explain my formula U(prodtN rt) = sumtN u(rt), 
+
+U(x) is your final preferences over resources/copies of x at the “end,” 
+rt is the ratio by which your resources/copies increase in each timestep,
+u(rt) is your preferences over the next timestep, 
+
+The righthand side is expressed in a linear form so that if probabilities and choices are independent across timesteps, then to maximize U, you’d just pick rt to max the expected value of u(rt ).  For a wide range of U(x), u(x) goes to log(x) for N large.
+
+
+
+title: Evolved Desires
+
+date: December 5, 2008 11:00 am
+

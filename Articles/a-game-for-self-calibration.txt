@@ -1,0 +1,17 @@
+author: Nick Bostrom
+
+text: 
+It seems that people on average are overconfident in their own beliefs. But some people probably are unusually reliable. When there is a disagreement, these people are generally on the right side. If you are one of these people, then you would be better off (epistemically) following your own gut rather taking the advice of your friends. Of course, if you delude yourself in thinking your intuitions are more reliable even though they aren’t, then you’ll be worse off. 
+One response to this predicament is to take the advice of all your friends, on the argument that on average this makes people better off. One problem with this recommendation is that if only the best people follow it, then the net effect may be that average belief accuracy declines. "The problem with the world," wrote Bertrand Russell, "is that the stupid are cocksure and the intelligent are full of doubt." I’m not sure this is true with regard to intelligence, but if we substitue "wisdom", it may be more plausible. The modesty response could amplify the problem.
+Is there a better way?
+  
+It seems that what might be useful would be to have a test for wisdom; more specifically, some way that you could test whether your intuitions are unusually accurate.
+There are all sorts of indirect indicators that one might use – education, peer esteem, IQ scores, etc. But (1) it is not clear how valid these indicators are, and (2) there are so many of them that a person could easily get the result they want by picking the indicators that cast them in the most favorable light.
+It would be good to have a more direct measurement of belief accuracy. What we might be especially interested in is assessing general epistemic accuracy ("good judgment") as opposed to how much knowledge you have in some particular domain. If you could determine how good your judgment is in general, you could use this to calibrate yourself – i.e. to assign a weight to your own gut versus those of other people.
+Perhaps one could invent some kind of game that would provide such a test? Suppose one could easily generate a set of questions such that (a) the true answers can be easily discovered (perhaps at a later date), (b) the participants in the game have roughly the same relevant information, and (c) the questions are not confined to some particular narrow or artificial domain. The people playing the game could make guesses about these questions, and the winner would be the one with the most right answers. The challenge would be to design the game in such way that a suitable set of questions could be easily generated and scored. Preferably, it should also be fun to play. Participants should not collect more information about the questions, just to make their own best judgment based on information they all shared. 
+
+
+title: A game for self-Calibration?
+
+date: January 10, 2007 11:14 am
+

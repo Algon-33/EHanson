@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+
+Kevin Kelly’s new book What Technology Wants quotes the Unabomber at length:
+I have read almost every book on the philosophy and theory of technology and interviewed many of the wisest people pondering the nature of this force. So I was utterly dismayed to discover that one of the most astute analyses of the technium was written by a mentally ill mass murderer and terrorist. What to do? A few friends and colleagues counseled me not to even mention the Unabomber in this book. Some are deeply upset that I have.
+I quote at length from the Unabomber’s manifesto for three reasons. First, it succinctly states, often better than I can, the case for autonomy in the technium. Second, I have not found a better example of the view held by many skpetics of technology that the greatest problems in the world are due not to individual inventions but to the entire self-supporting system of technology itself. [p.199]
+While Kelly agrees a lot with the Unabomber, he disagrees here:
+The final problem with destroying civilization as we know it is that … the collapse of civilization would destroy billions [of lives]. … The paradise that Kaczynski is offering … is the tiny, smoky, dingy, smelly, wooden shack that aboslutely nobody else wants to dwell in. It is a “paradise” billions are fleeing from. …
+The Unabomber is right that the selfish nature of this system causes specific harms. Certain aspects of the technium are detrimental to the human self, because they defuse our identity. The technium also contains power to harm itself; because it is no longer regulated by either nature of humans, it could accelerate so fast as to extinguish itself. Finally, the technium can harm nature if not redirected.
+But despite the reality of technology’s faults, the Unabomber is wrong to want to exterminate it … [because] the machine of civilization offers use more actual freedoms than the alternative. A lot of people don’t believe this. … They point to the vices that I cannot deny. We seem to be less content, less wise, less happy the “more” we have. …
+That leaves one remaining theory: We willingly choose technology with its great defects and obvious detriments, becasuse we unconsciously calculate its virtues. … After we’ve weighted downsides and upsides in the balance of our experience, we find that technology offers a greater benefit, but not by much. [pp.211-15]
+I applaud Kelly’s honesty, but he fails to address two key objections. First, Kelly didn’t consider coordination failures, where actions we each take for personal benefit add up to a net harm. For example, if everyone in an auditorium stands up to better see the stage, they can all be worse off than if they all sat. Air pollution is an related example. But I expect Kelly knows about this and would just say that on the whole such harms have been overwhelmed by other gains. And I’d agree.
+A second issue that I’m less confident Kelly understands is that the net benefits of tech he sees result mainly from rising per-person wealth, and only indirectly from improving tech. Better tech has only consistently caused more per-person wealth in the last few hundred years, when wealth has grown faster than population comfortably could. This a local, not a global, feature of tech.
+For example, the new techs that enabled farming seem to have reduced per-person wealth and prosperity; farming populations easily grew fast enough to keep with with the thousand year time to double farming wealth. Starting within a million years in the future, and continuing on for trillions of years, it seems clear that economic growth rates must become far lower than feasible population growth rates. And with a century or so from today, a new tech enabling rapid population growth, whole brain emulations, may drastically reduce per-person wealth.
+For me, our tech-induced future will be good not so much because individuals will be better off, but because it will support a vastly larger population, big enough to balance any plausible reduction in per person wealth or happiness. And honestly, even if we wanted to, we have very little chance anytime soon of derailing the great tech locomotive we ride, short of killing us all.
+
+
+title: What Tech Wants
+
+date: November 3, 2010 4:00 pm
+

@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Martin Weller considers academic credit for blogs:
+The answer to … whether new approaches such as blogging constitute scholarly activity, is an emphatic yes. Which leads us to a more problematic question: How should we recognize it? …
+Tenure committees have increasingly come to rely upon journal-impact factors to act as a proxy for research quality. In short, we know what a good publication record looks like. But these criteria begin to creak and groan when we apply them to blogs and other online media. Simple metrics are subject to gaming, and because of the removal of the peer-review filter, may be meaningless anyway. I may have a YouTube clip of a skateboarding octopus with two million hits, but that doesn’t make it scholarly work.
+It’s a difficult problem, but one that many institutions are beginning to come to terms with. Combining the rich data available online that can reveal a scholar’s impact with forms of peer assessment gives an indication of reputation. Universities know this is a game they need to play—that having a good online reputation is more important in recruiting students than a glossy prospectus. And groups that sponsor research are after good online impact as well as presentations at conferences and journal papers.
+… I’ve found that since becoming a blogger, I publish fewer journal articles, so it has had a “negative” impact on that aspect of my academic life. However, it has led to so many other unpredictable benefits—such as the establishment of a global peer network that helps me stay up to date with my topic, increased research collaboration, and more invitations to give talks—that it’s been worth the trade-off. (more)
+Yes universities care about getting good and much “press”, but they are not willing to tenure professors merely for getting good press. The self-concept of professors only lets them give at most a minor weight to press, and sometimes the weight is negative.
+The key difference is between getting attention vs. making impressive original intellectual contributions. Being cited by major news media, or having so many blog readers, can credential you as getting attention. But so far only journal articles, Ph.D. theses, and certain books and conference papers are accepted as credentials for impressive original intellectual contributions. For these, high quality experts are seen to judge the intellectual contribution.
+Yes blog posts can contain impressive original intellectual contributions. Newspaper columns can contain them as well. So can speeches. Even spontaneous party conversations can contain them. The problem is, we don’t have systems set up for experts to evaluate these things in such terms. And if an intellectual contribution isn’t credentialed as such by academic experts, then it basically doesn’t exist as far as academia is concerned.
+So either blogs will be continue to be seen mainly as a way to get “press” attention, or some folks will develop a system of expert evaluation of the intellectual contribution of blog posts.  And as with academic journals, the main obstacle to doing that is: getting sufficiently prestigious academies to spend enough time doing their evaluations.
+Now it turns out that many prestigious academic already read a lot of blog posts. So one approach would be to create a special “review” section where only prestigious academics can enter quick reviews of blog posts they read. Perhaps these reviews would be anonymous to the blog author and readers, and a more centralized part of the system would weigh their prestige, and degree of topical expertise, to compute a post evaluation.
+But even with lots of new whizzy software support, it isn’t obvious you’d get enough reviews to make it work. People write reviews of journal articles in part because they hope doing so will favorably dispose editors toward their later submissions. People who write reviews of blog posts couldn’t have that motivation.
+
+
+title: Academic Blog Credit?
+
+date: May 1, 2012 6:30 pm
+

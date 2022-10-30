@@ -1,0 +1,33 @@
+author: Patri Friedman
+
+text: 
+Follow up to Robin’s Biting Evolution Bullets:
+Robin quotes Cirkovic as saying:
+
+Biological imperatives, like the survival until the reproduction age, … will become marginal, if not entirely extinct as valid motivations for individual and group actions.  Let us, for the sake of elaborated example, consider the society of uploaded minds
+
+I believe that this line of reasoning is deeply wrong, and for important reasons.  Robin touches on them briefly…
+
+But there can be genes without DNA, and selection pressure without violence or great expense.  And the fact that Egan did not talk about selection effects does not even remotely suggest they are absent in the situation he describes.
+
+…but I think that this is an important enough point that it bears repeating more loudly and directly[1].
+The flaw in the view that we may become "post-biological" is that evolution works even if you don’t believe in it (to borrow Eliezer’s phrase).  Sure, some members of some cultures in some species may become post-biological.  Much like those who commit suicide, such individuals eliminate themselves from the biological rat race without having the slightest effect on the viability of the race[2] as a whole.  All they’ve done is to select against themselves.
+  
+Evolution is not a game you can win by forfeiting.  Those who do so merely cede the race to those who don’t.  If 99% of a species becomes post-biological, it will not be many years before they are the 1% minority.  That is the inevitable, bullet-biting logic of evolution.
+The cliche of an old, wise culture (or species) trying to convince a young, expansionist culture (or species) to chill out is a cliche for a reason – it is an inevitable conflict.  Outside of fiction, it is also rather hard to win, because to beat an expansionist, you must either:
+
+Convince the expansionists to change their ways
+Kill them
+
+In the former case, you’re fighting biology, which is tough but doable.  In the latter, unless you have overwhelming technological superiority, you may need to expand to get the resources for your genocide.  Which rather defeats the purpose.
+Furthermore, the logic of exponential growth dictates that both of these require 100% success.  Leave a mere 1% of expansionists (people, cultures, races…) un-transcended and alive, and 6.64 doubling periods later they will be as numerous as before.
+Hence the only future populated entirely by the post-biological is a ruthless version of David Brin’s Uplift universe, in which the law for younger races is "Transcend – Or Die".  And this law must be enforced swiftly and thoroughly, because the enforcers have chosen to forfeit the upper ground.  Miss one upstart race for one doubling period, and they will have twice the resources with which to defend themselves.
+It’s not a pretty picture (bullet biting rarely is).  Neither is the war-torn universe of conflicting expansionists that appears to be the only alternative.  But the supposition that those who play to lose will beat those who play to win is just not plausible, heart-warming though it would be.
+[1] And I didn’t see it when I skimmed the comments – apologies if someone made it already.
+[2] In both meanings.
+
+
+title: Transcend Or Die
+
+date: May 20, 2008 3:00 pm
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan:
+The gold standard of modern social science is … a “random controlled trial.”  …  And yet… real-world policy-makers continue to neglect, evade, and actively oppose experimental tests of efficacy.  … Tim Harford explains why:
+Politicians resist pilot schemes with objective measures of success. … politically inconvenient is the fact that half of the pilot schemes will fail… so the pilot will simply produce stark evidence of that failure. …
+This is all a nice example of a theme I’ve been pushing for a while ….
+Political agency problems are often a byproduct of voter irrationality. The principals give their agents grossly suboptimal incentives, then complain that the agents fail to carry out their assignments. … Pay-for-performance is a good idea, but the public is too irrational to accept it.
+Note that private CEOs are also quite reluctant to run randomized trials of their business ideas. Yes some trials happens in marketing, but firms overall still display a puzzling neglect of randomized trials, and of prediction markets. Both mechanisms offer more accurate info, but at the cost of a high rate of clear public embarrassments – clear evidence showing that you endorsed crap.
+Yes firms do implement incentive pay more often, but firms still remain puzzlingly reluctant to correct such incentives for overall trends in the economy or the local industry.  Maybe voters are more reluctant than stockholders to discipline their agents, making the private sector more efficient at managing many forms of activity.  But in both cases there remains a puzzling reluctance to force leaders to prove their value.
+My hypothesis: leaders have status, with which voters and stockholders want to affiliate. While people talk about being offended by leader dominance, they are actually quite eager to submit, and reluctant to risk leader wrath by questioning leader quality.  The people’s romance with the state makes them even more reluctant to hold political leaders accountable, so this effect is even worse in politics.
+
+
+title: Letting Leaders Off
+
+date: May 30, 2011 8:00 pm
+

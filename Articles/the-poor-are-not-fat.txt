@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+
+In both the popular press and academic research, there is the argument that the growth of fast food and energy-dense food has been an important cause of the overweight epidemic in the U.S. and that this has disproportionately affected poor people. [Some] argue that limited economic resources may shift dietary choices toward a diet that provides maximum calories at the least cost. An implication of this line of research is that the poor cannot afford healthy diets. (more; ungated)
+In fact, however, the poor are on average not fatter than the rich:
+Contrary to conventional wisdom, … the poor have never had a statistically significant higher prevalence of overweight status at any time in the last 35 years. Despite this empirical evidence, the view that the poor are less healthy in terms of excess accumulation of fat persists.
+A new paper manages to find a relation between poverty and fat – both the very fattest and the very thinnest people tend to be poor:
+Distribution-sensitive measures of overweight … [show] that the severity of overweight has been higher for the poor than the nonpoor throughout the last 35 years. … The strongest relationship between income and BMI is observed at the tails of the distribution. … For those at the tails of the BMI distribution, increases in income are correlated with healthier BMI values.
+
+OK, but this hardly supports a general story that the poor can’t afford healthy diets. It fits much better with there being a small fraction of “broken” folks who tend both to have low abilities to earn money, and to have an unhealthy weight, both too high and too low.
+
+
+title: The Poor Are Not Fat
+
+date: August 4, 2011 8:15 am
+

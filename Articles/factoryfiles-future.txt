@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+The difficulty of practical interstellar travel is horrendously underestimated. … Known physics will never deposit living people on Earth-like planets around other stars. (more)
+That was Donald Brownlee, who said something similar in our film. It occurs to me that skepticism about cryonics and interstellar travel have similar roots, and that understanding this is useful. So let me explain.
+Imagine that one tried to take a rock, say this fossil:
+
+and put it somewhere on Earth so that it could be found in a million years. Or that one tried to throw this fossil rock so that it would pass close to a particular distant star in a million years. Few would claim that doing so is impossible. Most would accept that these are possible, even if we require that the rock (plus casing) remain largely unchanged, i.e., retain its shape and maybe even most of its embedded DNA snips.
+So skepticism about making people last a long time via cryonics, or about getting people to distant stars, is mainly about how people differ from rocks. People are fragile biological systems than slowly degrade with time, and that can be easily disrupted by environmental disturbances. Which justifies some doubt on if the human body can survive long difficult paths in space-time.
+So why am I more hopeful? Because there are (at least) two ways to ensure that a certain kind of object exists at certain destination in space-time. One way is to have an object of that kind exist at a prior point in space-time, and then move it from that prior point to the destination. The other way is to build the desired object at the destination. That is, have a spec file that describes the object, and have a factory at the destination follow that spec file to create the object. One factory can make many objects, factories and files can be lighter and hardier than other objects, and you might even be able to make all the particular factories you need from one smaller hardier general factory. Thus it can be much easier to get one factory+files to a distant destination than to get many desired objects there.
+Yes, today we don’t have factories that can make humans from a spec file. But if our society continues to grow in size and abilities, it should be able to do the next best thing: make an android emulation of a human from a spec file. And we should be able to make a spec file from a frozen brain plus a generic spec file.
+If so, a frozen brain will serve as a temporary spec file, and we will be able to send many people to distant stars by sending just one hardy factory there, and then transmitting lots of spec files. The ability to encode a person in a spec file will make it far easier to send a person to a wide range of places and times in the universe.
+See David Brin’s novel Existence for an elaboration on the throwing rocks with files theme.
+
+
+title: Factory+Files Future
+
+date: May 3, 2014 10:00 am
+

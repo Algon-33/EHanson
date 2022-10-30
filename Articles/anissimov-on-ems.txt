@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+In an article titled “What are the Benefits of Mind Uploading?” Michael Anissimov lists seven benefits:
+If the early adopters don’t go crazy and/or use their newfound abilities to turn the world into a totalitarian dictatorship, … others will then follow. … Suppose that millions of people choose to go for it. Widespread uploading would have huge effects. …
+
+Growth rates in human capital of 1,000% per year or far more. …
+Many of the details of human cognition would be elucidated and could be enhanced. …
+Reprogram their own brains to raise their happiness set points. …
+Consume far less space and use less energy and natural resources than we would in a conventional human body. … Avoid all the environmental destruction caused by clear-cutting land for farming. …
+A personal virtual sandbox could become one’s canvas for creating the fantasy world of their choice. …
+By offering partial readouts of our cognitive state to others, we could engage in a deeper exchange of ideas and emotions. …
+Last but not least, indefinite lifespans. …
+
+The number of new minds leading worthwhile lives that could be created using the technology would be astronomical.
+So why does Anissimov write an article only on uploading’s upsides? He doesn’t say he’ll soon post a companion article on downsides. So can he not think of downsides? Or does he see his readers as only interested in upsides? What kind of readers would want an article only on the upsides of something anyway?
+Sadly, this makes Anissimov seem like he’s selling something, to fans who want to be sold. And alas many do seem to have a core belief that the future will be great, and a zeal to read articles by like-minded folks.
+My approach, I hope it is clear, is not to sugar-coat the many downsides of em/uploads, or any other aspect of the future, even if I expect gains overall. So let’s list what many would see as em downsides, matched to Anissimov’s upsides:
+
+With faster growth, older generations overlap more with new generations. Humans can more quickly lose their importance and influence, and still be alive to see descendants reject things they hold dear.
+Em cognition might be changed to emphasize work over leisure capacities.
+Em cognition might also be changed to take more happiness from work, and to accept more inequality and workplace domination.
+An astronomical number of new minds may take more total resources than humans do now, and take less care to protect nature, as nature’s death won’t threaten their death as it does for us.
+Ems may spend less time in leisure than we, and less in fantasy VR than we do TV and video games.
+Employers and police may use direct access to cognitive states to test effort and loyalty, and to enforce rules.
+Only a small minority may be able to afford indefinite lifespans. Many em lives might be very short restarts from a standard trained start.
+
+
+
+title: Anissimov On Ems
+
+date: April 18, 2012 8:50 pm
+

@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Efficiency isn’t morality, and it is a serious confusion to think it should be. Let me try again to explain.  I said:
+Economic welfare cares not about giving people experiences but about satisfying their preferences. … If we do something a dead person would have wanted, that counts as a benefit.
+Adam Ozimek responded:
+But we care about satisfying people’s preferences because, unlike the dead, they can know that those preferences being satisfied. … If were going to count the preferences of the non-existent, then it would seem that the number one priority of all society would be to bring as many of them as possible from non-existence into existence. The easiest way to do this is to mandate pregnancy. … If we care about satisfying the preferences of the dead even though they won’t know their preferences are satisfied, does that mean we should not be concerned with whether or not living people know when their preferences are satisfied?
+Adam reminds us of Tyler’s position:
+Dead people don’t count in the social welfare function. (If they did, how many of them would prefer non-democratic or racist outcomes?  And would we count that?  We shouldn’t and we don’t.)
+When our distant ancestors sat around debating if to change locations, expel a troublemaker, or attack neighbors, they were often ambiguous about whether they were choosing what they wanted or what was moral; they preferred to pretend these were the same.  We similarly prefer ambiguity when we argue policy today.
+So it is important to clarify: As an analysis tool, economic efficiency is designed and well-suited to finding win-win deals that [added: tend to] get us all more of what we want. It is not well-suited to achieving moral outcomes, except when morality happens to coincide with getting people what they want.  Otherwise, win-win deals will predictably not achieve morality when many involved do not want to be moral.
+Many of us want things we will never experience directly; we want our children to prosper after we are gone, for example. This is especially true of our moral wants; we want our donations to Africa to actually help real Africans. So we are understandably wary of deal-making frameworks which explicitly suggest that they seek only to achieve the appearance, not the substance, of our wants.  So yes, a deal-finding analysis tool should definitely count unseen wants!  Furthermore, observers concerned that deals might neglect morals should be especially eager for our deals to achieve unseen wants.
+Frameworks for finding win-win deals should also try to include as many things as possible that can have wants and participate in deals.  This includes racists, pedophiles, slaves-owners, robots, animals, distant past and future folk, and future folk who may or may not end up existing.  Yes many may be morally offended if racists get what they want, but that offense counts in what other folks want, and therefore enough offense will ensure that win-win deals will not give racists much of what they want.
+Limits on contract may distort prices and interfere with the ability of efficiency analysis to help us find useful win-win deals.  But that is a good reason to enforce more kinds of deals, not to try to distort efficiency for a task to which it is poorly suited: choosing moral acts.
+Added: Bryan Caplan responds.
+
+
+title: Efficient Isn’t Moral
+
+date: March 15, 2010 12:00 pm
+

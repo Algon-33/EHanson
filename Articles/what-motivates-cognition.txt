@@ -1,0 +1,12 @@
+author: Katja Grace
+
+text: 
+When I was a teenager, I think I engaged in a lot of motivated cognition. At least in an absolute sense; I don’t know how much is common. Much was regarding trees. Before I thought about this in detail, I assumed that how motivated cognition mostly works is this: I wanted to believe X, and so believed X regardless of the evidence. I looked for reasons to justify my fixed beliefs, while turning a blind eye to this dubious behavior.
+On closer in(tro)spection, this is what I think really happened. I felt strongly that X was true because many good and smart adults had told me so. I also explicitly believed I should believe whatever my reasoning told me. I was inclined to change my beliefs when the information changed. However I knew that I did this, I feared that my reasoning was fallible, and I was terrified that I would come to believe not-X even though X was the truth. Then the truth would come out, or more evidence at least (and obviously the truth would be X), then all the good people who knew X would consider me evil, which was equivalent to being evil. They would also consider me stupid, for not seeing the proper counterarguments. So it was sickening to not be able to come up with a counterargument, because such a failure would immediately turn me into an evil and stupid person. Needless to say, I was quite an expert, especially on counterarguments.
+So unlike in my usual model of motivated cognition, my arguments were directed at persuading myself of things I feared doubting, rather than justifying fixed beliefs to others. How often is this really what’s going on?
+
+
+title: What motivates cognition?
+
+date: February 17, 2013 3:17 pm
+

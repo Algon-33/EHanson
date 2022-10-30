@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Popping into the office on a recent Saturday, I overheard Alex Tabarrok practicing a talk, with fascinating details on FDA history.   From FDAReview.org:
+Throughout the 1950s and 1960s, the FDA brought hundreds of court actions against nutrition manufacturers for making health-related claims for their products. Under threat of law, food manufacturers were even prevented from labeling the fat, cholesterol, or other nutritional content of their food! (Later such labeling was allowed, and with the Nutrition Labeling and Education Act of 1990 nutrition labeling became mandatory.)
+The FDA actively prosecuted vitamin retailers that sold vitamins and other supplements in conjunction with books or pamphlets that extolled their use. … The FDA justified such practices, which many considered to be a violation of the First Amendment, under the theory that literature that was sold near a product was thereby converted into a product label. …
+In 1973, the FDA published regulations … High-potency vitamins, by which the FDA meant vitamins sold in dosages as little as twice the federal recommended daily allowance (RDA) … were effectively made illegal by this ruling because they could not be sold without FDA approval, and the FDA would not approve supplements that it considered to be unnecessary. Vitamin manufacturers and consumers fought back, and in response Congress passed the Proxmire Vitamin Mineral Amendment of 1976. …
+It is worth pointing out explicitly, although it will come as no surprise to anyone who follows today’s health news, that numerous scientific studies have since validated many of the health claims for vitamins and minerals that the FDA had earlier suppressed. The FDA suppression of information concerning vitamin E and heart attacks, for example, may rank alongside its suppression of information concerning aspirin as one of the most deadly regulations of the post–World War II era. …
+In 1992, the federal Centers for Disease Control and Prevention (CDC) recommended that women of childbearing age take folic acid supplements. Studies showed that taking folic acid reduced risks of babies suffering neural-tube birth defects such as anencephaly and spina bifida. The FDA immediately announced, however, that it would prosecute any food or vitamin manufacturer that placed the CDC recommendation in its advertising or product labeling.  The public did not learn of the importance of folic acid until Congress passed the Dietary Supplement Health and Education Act of 1994, … Within only a few years of its ban on publicizing the CDC recommendation, the FDA made a complete turnabout. Since 1998, the agency has required manufacturers to fortify a variety of grain products with folic acid—that which is not prohibited is mandatory!
+You might think these examples show that the system works – if the FDA screws up, Congress will jump in to fix things.  But if Congress hadn’t made these changes, when would you have heard of these mistakes?
+
+
+title: FDA Blunders
+
+date: November 5, 2009 6:00 am
+

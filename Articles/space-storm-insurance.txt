@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Within 90 seconds, the entire eastern half of the US is without power.  … A year later and millions of Americans are dead and the nation’s infrastructure lies in tatters. …. An extraordinary report funded by NASA and issued by the US National Academy of Sciences (NAS) in January this year claims [the Sun] could do just that.  … A severe space weather event in the US could induce ground currents that would knock out 300 key transformers within about 90 seconds, cutting off the power for more than 130 million people. … this whole situation would not improve for months, maybe years: melted transformer hubs cannot be repaired, only replaced. …  Within a month, then, the handful of spare transformers would be used up. The rest will have to be built to order, something that can take up to 12 months. … According to the NAS report, the impact of what it terms a “severe geomagnetic storm scenario” could be as high as $2 trillion. And that’s just the first year after the storm. The NAS puts the recovery time at four to 10 years.
+That is from a recent New Scientist.  Here is that NAS report, and here is a 2000 article in IEEE Spectrum.  This sort of disaster could come from a solar storm about as strong as one we saw in 1859.   I just consulted for a prestigious government consulting firm, who told me they are trying but have yet to convince US government agencies to take this problem seriously.  Apparently it would just take about ten million dollars to protect the US power industry from a huge solar flare, and this would also help protect against a nuke EMP.  But apparently too many crazies support the idea for US bureaucrats to want to take the idea seriously.  Hat tip to Robert Koslover.
+
+
+title: Space Storm Insurance
+
+date: June 22, 2009 6:00 am
+

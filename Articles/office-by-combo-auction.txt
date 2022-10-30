@@ -1,0 +1,36 @@
+author: Robin Hanson
+
+text: 
+Twenty years ago when I worked at NASA Ames, our group moved to a new office building. We put up a map of the new offices, and invited folks to put their name on a office they liked. People were ranked by seniority, and a higher ranked person could bump a lower ranked one from an office. People changed their office assignments based on what office they liked and who they wanted to be near until changes slowed to a trickle. And that was our new office arrangement.
+Now imagine a much more elaborate system. Imagine that all the workers in your office are moving to a new building, requiring a new assignment of floor space to offices, conference rooms, copier/printer rooms, lunch rooms, hallways, etc. Now imagine that this assignment is done by combinatorial auction.
+That is, imagine each person in your office has a budget of cash or bidding points, and submits bids saying how much he or she would pay for various office scenarios. Such bids can express values for:
+
+Whether one sits in an open cubicle or closed room, and how many officemates.
+Office features like size, windows, carpet, lights, climate controls, elevation, etc.
+Distance of office from entrances, bathrooms, conference rooms, lunch rooms, etc.
+Distance of office (in time or space) from the offices of other particular associates.
+Utilities like wired internet, big power plugs, or paper mail delivery.
+Local policies like if allow loud conversations, or food eaten at desk.
+
+Given such bids, a computer could search for the office assignment that achieves the highest total bid value. Such an assignment might say:
+
+Who sits in which office.
+Which rooms are assigned as offices, conference rooms, lunch, printers, etc.
+If changes can be made, each office’s carpet, lights, windows, climate controls, etc.
+If changes can be made, what internet, power, etc. are supplied to each office.
+If partitions can be moved, the number and size of rooms.
+For each area, policies on loud conversations, food at desk, etc.
+
+When choices like differing carpets vary in cost, cost functions could let one seek the assignment that maximized the total bid value minus costs. Such cost functions could express scale economies, such as it being cheaper to give all rooms the same carpets. When management cares about office arrangements beyond satisfying office workers, management preferences could be expressed in management bids, or in constraints on the final arrangement.
+To save workers from having to express too many bid details, the process can be iterative, always showing a tentative assignment given the last round of bids, so bid elaboration efforts can focus on aspects that make a difference. (Bids themselves would stay secret.) Bidding assistant software might also infer preferences from user ratings of past or hypothetical offices.
+Now even with a perfect choice of who gets what bidding budget, this process isn’t at all guaranteed to give an optimal office arrangement. For example, workers would likely underbid for shared resources like conference rooms; they’d want them but rather that others pay for them. There is now a whole academic field of “mechanism design” that studies the general problem of choosing rules for how such “direct revelation” bids are expressed, how they are updated across rounds, who wins what in the end, and who pays how much.
+And yet, even the simple process described above would get a lot of things right, things that most offices get pretty wrong.  After all, workers would actually get offices that had a consistent relation to their office preferences. Which makes it a shame that we don’t do this sort of thing more.
+Yes, I realize that such computer-based solutions have not been feasible until recently, that there is work to be done to make them easy, and that innovation takes time. I also grant that bosses may see this as threatening their power, and that we may have social norms against using “money” in such a “personal” context (even in business!).
+I also don’t want to give the impression that combinatorial auctions are my idea. I worked on them during ’93-’95 as a grad student under John Ledyard and David Porter. There is now a whole academic field of combinatorial auctions. See this book, its intro, and also articles on applications to environmental offsets, spectrum, airport landing slots, land consolidation, purchasing, and procurement of trucking and school lunches. See also a sf story.
+And yes, assigning offices is far from the biggest problem we face in this world. This post mainly uses it as a vivid example to introduce the concept of combinatorial auctions. I’ll elaborate on a bigger application tomorrow.
+
+
+title: Office By Combo Auction
+
+date: November 30, 2011 10:20 am
+

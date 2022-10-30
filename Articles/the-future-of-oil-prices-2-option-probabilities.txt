@@ -1,0 +1,34 @@
+author: Hal Finney
+
+text: 
+   
+A few days ago I showed a plot of oil futures prices, and Robin made the point that it would be useful to see information about variance as well. For each futures contract there are a set of options which can be used to deduce information about how much uncertainty the market sees in future prices. For example, the commodities price yesterday for December 2010 oil was $67 per barrel. But for $2 you could buy a call option with a strike price of $100. This will have a value of P – $100 if at the end of 2010 the oil price P is higher than $100 (and will have no value if the oil price is lower than $100). Therefore if oil goes up to $105 you will more than double your money; if it hits $122 you will make ten times your investment. Clearly the market does not view these possibilities as very likely, or the option would not be as cheap as $2. Below the fold I will describe and illustrate a simple technique for deriving probability estimates for price targets merely by glancing at tables of option values. I find it useful and practical in terms of getting a quick overview of how likely the market judges various possibilities.
+  
+To get more precise information from option prices, there are different methods you can use. One is to apply the Black-Scholes option valuation formula to deduce the market’s expectation for the volatility of the underlying commodity. You can then use this estimated volatility to model the commodity price as a random walk. In this way you can deduce a confidence interval for the market’s expectation of future prices at each time period.
+I want to describe a lesser known but simpler approach that lets you read off the market’s confidence intervals almost at a glance. It works like this. Look at a table of option trading prices for a given commodity contract, for example December 2010 crude oil. Consider out-of-the-money options, such as call options for $80, $90 and on up. We want to get a picture of the market’s estimate that oil will exceed each of those prices on that December.
+Let x be the option strike price and c(x) be the price of the corresponding call option. Now let us imagine that prices exist for every x value. This is not true in practice; oil option strike prices are typically separated by $1, sometimes only $0.50, in the center of the distribution, but get more widely spaced as we move out. But let us imagine an ideal contract where this is so.
+Now consider setting up a trading position where we go long (i.e. we buy) an option contract at strike price x, and simultaneously go short (i.e. we sell) an option contract at price x+dx for some small dx. This will cost us c(x)-c(x+dx) which is a positive amount since c(x) is a decreasing function. The value of this option at expiration is, if the oil price P is greater than x+dx, (P-x) – (P-x-dx) = dx. If P is less than x, the value is zero. And for small dx we can neglect the case where P is between x and dx.
+If the market’s estimate of the probability that the price will exceed x is p, then the expected value of the contract is therefore p*dx. And the cost ofthe contract must equal its expected value: c(x)-c(x+dx) = p*dx; divide by dx and we get (c(x)-c(x+dx))/dx = p. For small dx the left side approximates the negative of the derivative of the call option price with respect to the strike price, which we will call c’ (c-prime), producing the final result: -c'(x) = p.
+In other words, you can determine the market’s estimate of the chance of exceeding a given price simply by evaluating the derivative of the call option. And since option prices are typically separated by simple values like 1, 5 or 10, this can be often be done by merely subtracting two values, sometimes with a simple shift of the decimal point or a small division. The same process and reasoning applies to put options, and again it is just a matter of subtracting two entries in the table and dividing if necessary by the difference in strike prices.
+To show an example, here are some strike prices and values for December 2010 call options as of the close of trading December 26:
+
+70   7.41
+75   5.73
+80   4.37
+85   3.40
+90   2.73
+100 1.96
+110 1.49
+
+To estimate the probability of oil closing above 75 on that date, take the entries for 70 and 80 and subtract: 7.41-4.37 = 3.04. Then divide by 10, the distance between 70 and 80, to get 30.4% as the estimate of this probability. For the probability of oil closing above 80, 5.73-3.40 = 2.43, divided by 10 is 24.3%. For oil closing above 85 it is similarly 16.4%. For oil closing above 100, the example considered at the top of this post, use 90 and 110: 2.73-1.49 = 1.24. And divide by 20 this time, the difference between 90 and 110, to get 6.2%. Those are the odds which market prices imply that traders perceive for oil being above $100 per barrel at the end of 2010.
+Here’s a chart where I applied this process to the call options for this December 2010 contract, plotting the approximate derivative (Note that this term usually means something else in finance! This is really the derivative of a “derivative”) against the strike price (taken as the midpoint of the interval in the table). It effectively shows the market’s opinion of the probability of exceeding each price level at that date:Relating this back to the controversy over Peak Oil, again we see that markets do not appear to foresee a significant chance that we will be experiencing severely high oil prices in the 2010 time frame, such as would be associated with a shortage. Even the chance of hitting 90 or above is only about 10%, and that would not even be an all time high, adjusting for inflation.
+For completeness, here is the corresponding chart for put options. This indicates the probability of closing below the specified price at the end of 2010:
+ 
+A couple of caveats in applying this technique: first, it works best with closing prices, because during the day there is too much variation as trading goes on, and taking the derivative magnifies the noise. And second, the most actively traded long term contracts are for December and, to a lesser extent, June, and those will generally have the most complete set of option prices. I hope you will find this, as I have, to be a practical and useful tool in getting a picture of market probability estimates, which I assume will generally be greatly superior to what I might come up with on my own.
+[Update: the probability figures above are about 22% too low. Please see the comments for the corrected formula. Thanks to Perry Metzger for pointing out my error.]
+
+
+title: The Future of Oil Prices 2: Option Probabilities
+
+date: December 27, 2006 1:19 pm
+

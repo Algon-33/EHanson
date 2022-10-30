@@ -1,0 +1,13 @@
+author: Stuart Armstrong
+
+text: 
+The acquitted often walk out court with a huge smile on their face, convinced that any stain on their character has been erased.
+But more guilty people get tried and acquitted than the average of the population. So barring a dramatic Perry-Mason-like revelation, the trial is evidence of guilt – noisy evidence, but evidence none the less. It isn’t legal or scientific evidence, but it is evidence that a Bayesian should use.
+But while employers can often access criminal records of convictions, they are generally barred from finding out about acquittals (especially if the accused take steps to have their arrest expunged); and the potential employee is often allowed to lie if asked directly. This noisy measure is deemed officially unavailable.
+Should it be available? And in what way is this noisy measure different from those used in education and in medicine?
+
+
+title: Noise in the Courtroom!
+
+date: September 15, 2007 1:00 pm
+

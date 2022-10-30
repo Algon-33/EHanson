@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Famous historical revolutions were not consistently caused by high or rising income inequality:
+[French income] inequality during the eighteenth century was large but decreased during the revolutionary period (1790-1815). … When industrialisation began about 1830, inequality increased until sometime in the 1860s. (more)
+In 1904, on the eve of military defeat and the 1905 Revolution, Russian income inequality was middling by the standards of that era, and less severe than inequality has become today in such countries as China, the United States, and Russia itself. (more)
+In 1774 the American colonies had average incomes exceeding those of the Mother Country, even when slave households are included in the aggregate. … American colonists had much more equal incomes than did households in England and Wales around 1774. Indeed, New England and the Middle Colonies appear to have been more egalitarian than anywhere else in the measureable world. Income inequality rose dramatically between 1774 and 1860, especially in the South. (more)
+So why do most people so confidently believe that revolutions were caused by high or rising inequality? I’d guess its because it feels like a nice way to affirm your support for the standard forager value of more equality.
+Added 24Sept: OK, I see that the French data isn’t so relevant to my point.
+
+
+title: Inequality /=> Revolt
+
+date: September 21, 2012 11:10 am
+

@@ -1,0 +1,12 @@
+author: David J. Balan
+
+text: 
+Suppose you are a great moral philosopher and you’ve figured out perfectly how to tell right from wrong.  You have some time on your hands, and you want to use it to do good in the world.  One good thing you might do would be to try to make people more moral by teaching them to be moral philosophers like you.  Another good thing would be to combat one of the specific moral evils you’ve identified in your philosophizing, say drunk driving.  You could achieve this by embarking on a campaign of persuasion in which you portray drunk driving as something that stupid losers do, as groups like SADD and MADD have done with what seems to be great success (it’s remarkable how fast drunk driving has gone from being cool to being powerfully uncool). 
+The socially optimal division of your time between moral education and manipulative persuasion will depend on a lot of things: how good you are at each activity, how many other people are doing each of them, how effective each of them are, and so on.  But you may have private incentives to engage in too little moral education.  The persuasion campaign is likely to have observable results, whereas you won’t easily be able to see the good effects of having more moral philosophers running around.  Also, the benefits of persuasion are likely to be more immediate, whereas a lot of the benefit of moral education may not be realized until you are gone from the scene.  
+What brought all this on is the observation that there seems to be almost none of what could be called moral education.  No one buys airtime on TV and uses it to encourage people to universalize their maxims; even philosophically sophisticated advocates of good causes almost invariably go with some version of the SADD/MADD persuasion approach.  It may be that the socially optimal amount of moral education is just very low, but I have a hard time believing that.  I am inclined to believe that under-investment is a serious problem.  If I’m right about this, then it may be a big source of bias: people have too little skill at purging bias from their moral judgments because they’ve gotten too little moral education in the first place; there aren’t that many philosophers out there, and even the ones there are don’t spend their time teaching philosophy.
+
+
+title: Morality or Manipulation?
+
+date: March 1, 2007 10:05 am
+

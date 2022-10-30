@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+If school’s purpose were to develop skills, we’d teach differently:
+Almost everywhere you look, you find examples of massed practice: colleges that offer concentration in a single subject with the promise of fast learning, continuing education seminars for professionals where training is condensed into a single weekend. Cramming for exams is a form of massed practice. It feels like a productive strategy, and it may get you through the next day’s midterm, but most of the material will be long forgotten by the time you sit down for the final. Spacing out your practice feels less productive for the very reason that some forgetting has set in and you’ve got to work harder to recall the concepts. … [But] the benefits of spacing out practice sessions are long established. …
+The learning from interleaved practice feels slower than learning from massed practice. Teachers and students sense the difference. They can see that their grasp of each element is coming more slowly, and the compensating long-term advantage is not apparent to them. As a result, interleaving is unpopular and seldom used. Teachers dislike it because it feels sluggish. Students find it confusing: they’re just starting to get a handle on new material and don’t feel on top of it yet when they are forced to switch. But the research shows unequivocally that mastery and long-term retention are much better if you interleave practice than if you mass it. …
+The basic idea is that varied practice—like tossing your beanbags into baskets at mixed distances—improves your ability to transfer learning from one situation and apply it successfully to another. (more)
+So, a good test of a theory of school is: how long do you predict it will take teachers to learn this lesson? The article above talks about how many coaches have learned this lesson, plausibly because they really do want to win games, and face strong competitive pressures.
+If you think the main function of schools is something other than learning, you might think it could take a very long time before schools adopt these practices. If you think the main function of schools is learning, but that public schools face much weaker pressures to be efficient that private schools, you might predict that private schools will adopt this much faster. If you think public schools are effective at adopting better approaches, you might predict that they adopt these quickly. So, what do you predict?
+
+
+title: When Will Schools Space, Interleave, and Vary Practice?
+
+date: April 21, 2014 9:55 am
+

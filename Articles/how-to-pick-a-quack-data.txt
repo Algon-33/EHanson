@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+How do we pick, or think we should pick, our experts? One clue comes from “How to pick an X” web guides. For 18 types of experts X, I searched for that phrase, and read the top 8 Google hits, noting all of the types of info clues mentioned in each guide. Here is the full table of results.
+Here are the 25 most common clue types, sorted by the % of these guides in which each is mentioned:
+
+Here are the 18 types of experts, sorted by the average number of clue types that their guides mention:
+
+Looking at these tables, I hypothesized that guides might prefer to mention types of clues that we’d more want to use in making our choices, and that guides might mention more clues for kinds of experts where we worry more about choosing them well. So I’ve done a set of 16 Twitter polls to estimate these things for 16 types of experts and 16 type of clues.
+Results to note:
+
+Guides for 18 different types of experts vary by a factor of 3 in how many types of clues they mention.
+The top 25 info clues vary by a factor of 12 in how often they are mentioned in guides.
+While different clues are favored in guides for different types of experts, the overall pattern looks pretty random.
+Only 7.8% of guides mention a top 25 clue directly sensitive to outcomes. (Ones marked in red above.)
+The correlation between how many clues guides to X mention and how worried poll respondents are re pick X is strong: +0.40.
+The correlation between how often guides mention a clue and how much poll respondents want to know it to pick is negative: -0.20. This is mainly because polls put the most weight on track records. My followers are probably less representative here, as that’s an issue I talk much about.
+
+Guides do not often mention outcome-related clues, presumably as few customers attend to them. In general, we can’t tell if a type of expert X is a “quack”, where “better” versions don’t help customers much more with outcomes, by the kind of clues people use to pick X. Maybe most people can’t tell the difference.
+So what explanations can you offer for any of the patterns you see?
+Added: Here are the poll-based priorities each expert type and info clue:
+
+
+
+
+title: How To Pick A Quack: Data
+
+date: August 29, 2020 11:15 am
+

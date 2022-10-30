@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Today is my 50th birthday.  I’m very glad to be part of a species that lives so long, and it appears that I should thank other lusty old men, and especially the fertile young women who find them attractive.  The details:
+Evolutionary theory predicts that senescence, a decline in survival rates with age, is the consequence of stronger selection on alleles that affect fertility or mortality earlier rather than later in life. Hamilton quantified this argument by showing that a rare mutation reducing survival is opposed by a selective force that declines with age over reproductive life. He used a female-only demographic model, predicting that female menopause at age ca. 50 yrs should be followed by a sharp increase in mortality, a ‘‘wall of death.’’ Human lives obviously do not display such a wall. Explanations of the evolution of lifespan beyond the age of female menopause have proven difficult to describe as explicit genetic models.
+Here we argue that the inclusion of males and mating patterns extends Hamilton’s theory and predicts the pattern of human senescence. We analyze a general two-sex model to show that selection favors survival for as long as men reproduce. Male fertility can only result from matings with fertile females, and we present a range of data showing that males much older than 50 yrs have substantial realized fertility through matings with younger females, a pattern that was likely typical among early humans. Thus old-age male fertility provides a selective force against autosomal deleterious mutations at ages far past female menopause with no sharp upper age limit, eliminating the wall of death.
+So from old men everywhere to young women everywhere: Thank you thank you! 
+
+
+title: Today I’m 50
+
+date: August 28, 2009 6:00 am
+

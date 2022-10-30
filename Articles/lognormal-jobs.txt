@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+I often meet people who think that because computer tech is improving exponentially, its social impact must also be exponential. So as soon as we see any substantial social impact, watch out, because a tsunami is about to hit. But it is quite plausible to have exponential tech gains translate into only linear social impact. All we need is a lognormal distribution, as in this diagram:
+
+Imagine that each kind of jobs that humans do requires a particular level of computing power in order for computers to replace humans on that job. And imagine that these job power levels are distributed lognormally.
+In this case an exponential growth in computing power will translate into a linear rate at which computers displace humans on jobs. Of course jobs may clump along this log-computing-power axis, giving rise to bursts and lulls in the rate at which computers displace jobs. But over the long run we could see a relatively steady rate of job displacement even with exponential tech gains. Which I’d say is roughly what we do see.
+Added 3am: Many things are distributed lognormally.
+
+
+title: Lognormal Jobs
+
+date: May 9, 2016 8:50 pm
+

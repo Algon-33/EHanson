@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+During my recent visit to Oxford I had occasion to talk to many philosophers who do applied ethics, and who do meta-ethics.  They confirmed for me these two facts:
+
+Applied ethicists pursue their work, trying to coordinate views on specific moral conclusions and general moral principles, as if there were no study of meta-ethics or moral psychology. 
+Meta-ethicists, and also I presume moral psychologists, see their work as quite relevant for the applied ethics.
+
+These two communities thus seem to disagree on the relevance of meta-ethics (and probably also moral psychology) to applied ethics.  This disagreement could be attributed to bias on either side – to increase their autonomy and importance, academic fields may well be biased to see other fields as less relevant to theirs, and to see theirs as more relevant for others.  But as usual in a dispute, at least one of these communities must be very wrong.   
+
+
+title: Ethics, Applied Vs. Meta
+
+date: June 21, 2007 6:00 am
+

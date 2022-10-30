@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+The fraction of a normal distribution that is six or more standard deviations above the mean is one in ten billion. But the world has almost eight billion people in it. So in principle we should be able to get six standard deviations in performance gain by selecting the world’s best person at something, compared to using an average person.
+I’m revising Age of Em for a paperback edition, expected in April. The rest of this post is from a draft of new text elaborating that point, and its implication for em leisure:
+Em workers also earn wage premiums when they are the very best in the world at what they do. Even under the most severe wage competition, a best em can earn an extra wage equal to the difference between their productivity and the productivity of the second best em. When clans coordinate internally on wage negotiations, this is the difference in productivity between clans. (Clans who can’t coordinate internally are selected out of the em world, as they don’t cover their fixed costs, such as for training and marketing.)
+Out of 10 billion independently and normally distributed (IID) samples, the maximum is on average about 6.4 standard deviations above the mean. Average spacings between the second, third, fourth highest samples are roughly 0.147, 0.075, and 0.05 standard deviations respectively (Branwen 2017). So when ems are selected out of 10 billion humans, the best em clan may be this much better than other em clans on normally distributed parameters. Using the log-normal wage distribution observed in our world (Provenzano 2015), this predicts that the best human in the world at any particular task is four to five times more productive than the median person, is over three percent more productive than the second most productive person, and is five percent more productive than the third most productive person.
+If em clan relative productivity is drawn from this same distribution, if maximum em productivity comes at a 70 hour workweek, and if the best and second best em clans do not coordinate on wages they accept, then even under the strongest wage competition between clans, the best clan could take an extra 20 minutes a day more leisure, or two minutes per work hour, in addition to the six minutes per hour and other work breaks they take to be maximally productive.
+This 20 minute figure is an underestimate for four reasons. First, the effective sample size of ems is smaller due to age limits on desirable ems. Second, most parameters are distributed so that the tails are thicker than in the normal distribution (Reed and Jorgensen 2004).
+Third, differing wealth effects may add to differing productivity effects. On average over the last 11 years, the five richest people on Earth have each been about 10 percent richer than the next richest person. If future em income ratios were like this current wealth ratio, then the best em worker could afford roughly an extra hour per day of leisure, or an additional six minutes per hour.
+Fourth, competition probably does not take the strongest possible form, and the best few ems can probably coordinate to some extent. For example, if the best two em clans coordinate completely on wages, but compete strongly with the third best clan, then instead of the best and second best taking 20 and zero minutes of extra leisure per day, they could take 30 and 10 extra minutes, respectively.
+Plausibly then, the best em workers can afford to take an additional two to six minutes of leisure per hour of work in a ten hour work day, in addition to the over six minutes per hour of break needed for maximum productivity.
+
+
+title: Boost For Being Best
+
+date: July 12, 2017 10:30 am
+

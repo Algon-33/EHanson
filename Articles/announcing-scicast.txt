@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+A year ago I announced that our IARPA-funded DAGGRE prediction market on world events had finally implemented my combinatorial prediction market tech (which I was prevented from showcasing nine years earlier), with a new-improved tech for efficient exact computation in near-tree-shaped networks.
+Now we announce: DAGGRE is dead, and SciCast is born. Still funded by IARPA, SciCast focuses on predicting science and technology, it has a cleaner interface developed by Inkling, and it has been reimplemented from scratch to support ten times as many users and questions. We also now have Bruce D’Ambrosio’s firm Tuuyi on board to develop and implement even more sophisticated algorithms.
+But wait, there’s more. We’ve got formal partnerships with AAAS and IEEE, have a thousand folks pre-registered to participate, and we hope to attract thousands of expert users, folks who really know their sci/tech. We’ve seeded SciCast with over a hundred questions, many contributed by top experts, and hope to soon have thousands of questions, mostly submitted by users.
+Alas, we aren’t allowed to pay our participants money or prizes. But if you have sci/tech issues you want forecasted, if you want to prove your insight into the future of sci/tech, or if you want to influence the perceived consensus on sci/tech, join us at SciCast.org!
+
+
+title: Announcing: SciCast
+
+date: January 3, 2014 11:10 am
+

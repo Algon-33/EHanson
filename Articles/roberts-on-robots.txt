@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Russ Roberts and I talked for over 90 minutes on the possibility of a future robot-induced “singularity”, i.e., a sudden drastic social change, including a much faster growth rate. As this was his longest podcast in over two years, Russ seems to have been quite engaged by the subject.
+Russ said “This may all sound crazy but Robin makes it actually sound plausible.”  His two main points of skepticism were:
+
+I say our brains are big piles of brain cells that send signals to each other.  We’ve know what parts the brain is made of, and they are the same familiar parts that everything else around us is made of.  We know well how these parts interact locally, though figuring out what this implies on large scales is usually beyond our calculation abilities.  So a good enough model of the parts and how they are connected must reproduce the same overall input-output behavior. Russ says “there is a reductionist element to this which says–and this is controversial–all there is to our brain is its physicality. Nothing else there. That’s not universally accepted, correct? … Being a religious person I’m capable of imagining something that is not observable.”
+I say prices usually fall when a very elastic supply curve rapidly gets cheaper. Russ would probably agree for something like computer memory, but is reluctant to agree for wages – he doesn’t think cheap plentiful immigrants lower wages. I say that if trillions of immigrants willing to work for a dollar an hour were waiting just offshore, letting in as many as wanted in would lower wages to that level. So I say cheap robots getting cheaper fast should rapidly lower wages for tasks they do. Russ objects “You can’t just say your wage will be driven down, because if there are complementary types of labor they’ll increase the wage rate of some people. … There’s all these complicated secondary effects.”  I say all things considered, the likely effect is falling wages.
+
+The first point reminds me of my disagreements with Tyler:
+The three items on which Tyler most clearly identifies a disagreement [with me] are all in hard science and technology … Tyler doesn’t know that much about hard science and technology. … And yet Tyler feels confident enough in his perception of expert consensus on such topics to base his disagreements with me on them, even though I’ve spend years in such area.
+The second point seems easier to settle, as it is just an application of standard econ theory.  Any other economists care to weigh in?
+Added 5Jan: Karl Smith, Nick Rowe , Steven Hsu weigh in.
+
+
+title: Roberts On Robots
+
+date: January 3, 2011 4:30 pm
+

@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Over lunch yesterday, Bryan Caplan explained to me some finer points of standard libertarian legal philosophy. Here is my current understanding (errors mine of course):
+Libertarians believe: Each human is endowed with property in his or her own body, and can obtain property in other physical objects, including land, via certain “making” processes. People can trade such property rights via explicit contracts. It is not morally permitted to violate property rights as determined by current contracts, except to defend or retaliate against other violations. Contract violations can happen via “fraud” (= lies) that create deviations between a contract’s words and deeds. (If a contract specifies damages for breach, it is not immoral to breach if you pay the specified damages.) There is more to morality, and within these constraints people should use their property to achieve such other morality.
+I’m an economist who appreciates the economic analysis of law. I know how very useful property and contract can be in achieving economic efficiency. But the most efficient forms of property and contract are not obviously only these libertarian ones. For example, many sorts of non-physical property are probably efficient, beyond those that can easily be created via local contracts. It is probably sometimes efficient to initially allocate property in other ways than via the usual “making.” It is probably efficient to endow parents with partial ownership of their children. And it is probably efficient to enforce non-explicit contracts, such as among very large groups.
+Yes most libertarians bite these bullets and say the libertarian choices are the moral ones, even if inefficient. But I just don’t find very compelling the morality of this urge to make most everyone worse off on average in order to follow certain traditional rules.
+I especially get stuck on the claim that law should limit its attention to “physical,” not info, property and harms. (That’s in quotes because info is completely physical; in fact, there may be nothing physical that isn’t info.)  That is, physical rights are said to be pre-existing, but any info rights must be explicitly constructed by contract. Yet people can hurt each other “non-physically” via info in so many ways.
+Many libertarians seem to feel they have discharged most of their info moral obligations if there is a reasonable interpretation of their words which has them telling no clear lies. As someone who spend most of my early economist years specializing in the economics of info, this seems spectacularly inadequate. I wonder if, as kids, libertarians tended to be witty weaklings – losing most fair physical fights, but winning most fair verbal sparring. Perhaps such kids prefer everyone to embrace the slogan “Sticks and stones may break my bones but words will never hurt me,” because then the people they hurt via words can’t complain, because they can’t even admit they were hurt.
+Now as a matter of practice, libertarians and I tend to agree in many policy disputes. Their support of property and contract often promotes economically efficient outcomes. And for that, I salute them. I even say sometimes that I “lean libertarian.” But I cannot embrace the above strict concept of libertarian morality.
+
+
+title: Why I’m Not Libertarian
+
+date: August 9, 2011 11:40 am
+

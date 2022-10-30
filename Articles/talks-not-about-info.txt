@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+You can often learn about your own world by first understanding some other world, and then asking if your world is more like that other world than you had realized. For example, I just attended WorldCon, the top annual science fiction convention, and patterns that I saw there more clearly also seem echoed in wider worlds.
+At WorldCon, most of the speakers are science fiction authors, and the modal emotional tone of the audience is one of reverence. Attendees love science fiction, revere its authors, and seek excuses to rub elbows with them. But instead of just having social mixers, authors give speeches and sit on panels where they opine on many topics. When they opine on how to write science fiction, they are of course experts, but in fact they mostly prefer to opine on other topics. By presenting themselves as experts on a great many future, technical, cultural, and social topics, they help preserve the illusion that readers aren’t just reading science fiction for fun; they are also part of important larger conversations.
+When science fiction books overlap with topics in space, physics, medicine, biology, or computer science, their authors often read up on those topics, and so can be substantially more informed than typical audience members. And on such topics actual experts will often be included on the agenda. Audiences may even be asked if any of them happen to have expertise on a such a topic.
+But the more that a topic leans social, and has moral or political associations, the less inclined authors are to read expert literatures on that topic, and the more they tend to just wing it and think for themselves, often on their feet. They less often add experts to the panel or seek experts in the audience. And relatively neutral analysis tends to be displaced by position taking – they find excuses to signal their social and political affiliations.
+The general pattern here is: an audience has big reasons to affiliate with speakers, but prefers to pretend those speakers are experts on something, and they are just listening to learn about that thing. This is especially true on social topics. The illusion is exposed by facts like speakers not being chosen for knowing the most about a subject discussed, and those speakers not doing much homework. But enough audience members are ignorant of these facts to provide a sufficient fig leaf of cover to the others.
+This same general pattern repeats all through the world of conferences and speeches. We tend to listen to talks and panels full of not just authors, but also generals, judges, politicians, CEOs, rich folks, athletes, and actors. Even when those are not the best informed, or even the most entertaining, speakers on a topic. And academic outlets tend to publish articles and books more for being impressive than for being informative. However, enough people are ignorant of these facts to let audiences pretend that they mainly listen to learn and get information, rather than to affiliate with the statusful.
+Added 22Aug: We feel more strongly connected to people when we together visibly affirm our shared norms/values/morals. Which explains why speakers look for excuses to take positions.
+
+
+title: Talks Not About Info
+
+date: August 21, 2016 4:45 pm
+

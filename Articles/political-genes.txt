@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Early in ’08 I posted on how our genes influence our political beliefs.  New data suggests gene influence is even stronger than it seemed then. Here is the fraction of opinion variance explained by genetics on various 1986 topics, for men and for women (all are 5% significant):
+
+As I said back in ’08:
+Unless you have a good reason to think your genes tend to produce more informed beliefs than other genes, you should reject the genetically-caused parts of how your beliefs differ from average beliefs. … Having an intuitive feeling that your belief causes are better is not a “good reason” if most everyone has a similar intuitive feeling.  The fact that you have specific reasons for your specific beliefs is also not good enough – most everyone has specific reasons.
+Look: how your opinion differs from average on strongly genetic questions was largely determined by a random gene lottery.  That can be a fact about who you are and what you want, at least if you don’t mind your wants being random, but it just can’t be info about how the universe is or what it wants.  You can think you just like or don’t like school prayer, but you can’t reasonably think that feeling is informative about what policy is best for the country, or morally right.  More about the new study:
+Variance components estimates of political and social attitudes suggest a substantial level of genetic influence, but the results have been challenged because they rely on data from twins only. … Moving beyond the twin-only design leads to the conclusion that for most political and social attitudes, genetic influences account for an even greater proportion of individual differences than reported by studies using more limited data and more elementary estimation techniques. …
+The data we utilize … known as the “Virginia 30,000” … were … approximately 30,000 adult subjects (aged 18–84 years) were twins (N = 14,781), spouses (N = 4,391), parents (N = 2,360), relatives (N = 195), offspring (N = 4,800), and non twin siblings of twins (N = 3,184). … The inclusion of nontwin relatives is especially helpful in identifying the multiple sources of biological and cultural inheritance. …
+The social and political attitude measures were included in a 28-item contemporary attitude battery gathered as part of a larger “Health and Life Styles” inventory conducted in 1986. … Data were collected by mail. … Two years later, the same attitude items were included in a follow-up questionnaire … providing measures of attitude stability for 1,019 men and 2,912 women.
+
+
+title: Political Genes
+
+date: July 20, 2010 9:00 am
+

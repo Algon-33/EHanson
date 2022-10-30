@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Even in societies in which markets were relatively free and developed, there was rarely any proportionality between the contribution of an innovator and the rewards he or she reaped.  At least in that sense, the situation was not different from what it is today: Nordhaus (2004) has estimated that in modern America only 2.2 percent of the surplus of an invention is captured by the inventor him/herself.  Things surely looked no better in the eighteenth century. … If ever there was a divergence between social and private net benefits, the Industrial Revolution was it.  The impact of the technological elite on the rest of the economy was thus vastly larger than proportional to their size.
+That is from Joel Mokyr’s The Enlightened Economy: An Economic History of Britain 1700-1850 (p.88).  Not sure I believe the fraction is as low as 2%, though I expect it is well below 1.  We need better ways to encourage innovation!
+Mokyr gave a talk at GMU yesterday, which I found disappointing.  His book convinces me that Britain’s exceptionally skilled workforce and high farm productivity were important enablers of the industrial revolution, but his claim that this was due to “enlightenment ideology” seems to me too vague to evaluate.
+
+
+title: Inventors’ Two Cents
+
+date: March 25, 2010 6:00 am
+

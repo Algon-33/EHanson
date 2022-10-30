@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Imagine that a restaurant wants to ask its associates (cooks, servers, etc.) what are the best two menu items to put on its menu as specials on a particular night. They have a large set of possible menu items to consider, the measure of success is menu item sales revenue, and they want a mechanism that is both fun and easy. (Which rules out conditional prediction markets, at least for now.)
+Here’s an idea. Start with a contest board like this, on a wall near associates:
+
+On this board are pictures of menu items that could be specials, and to the side a set of name pins, one for each associate. The pins are color-coded with the kind of associate (cook, server, etc.). At any time before a deadline, each associate can move their own pin to any of the menu items, or move it again to change their mind. This is what the board might look like partway through that process:
+
+At the deadline, the two menu items with the most pins become the menu specials for that night. Anticipating this, most associates will move their pins to converge on two items, as in this scenario:
+
+A few associates may be too distracted to move their pins.
+The menu special item that gains the most revenue that evening is declared the winner, as is everyone with a pin on that item. Maybe we just keep track of win records, and/or maybe every winner gets a special thing for each win.
+This contest is simple, fun, easy to repeat often, and creates incentives for associates to reveal the menu items most likely to be successful each night, which could be valuable info to inform restaurant decisions. Now consider some variations.
+Divide A Prize: Here those who picked the winning item divide up a prize among them. (For example, a t-shirt might be randomly given to one of them.) This creates an incentive for two items to be picked. If everyone agreed on the relative odds, they’d agree on the ratio of pins that should be on the two competing menu items. In contrast, when a prize is not divided, then if all agree on the odds then everyone piles onto the one best item. So this divide-a-prize approach can elicit more useful info from associates.
+Two Random Pins: Instead of picking the two menu items as the two with the most pins, they can be picked via two random pins, and drawing again if those happen to be on the same menu item. Especially if the prize is divided, associates can gain incentives to put pins on more than two items, which elicits more info from them. And this helps prevent problems, such as where the two items with the most pins are not the two that associates think best, but the two that they each think that the others think best.
+Winning Pins: In addition to winning a prize, winners might get more pins. Either all winners get them, or a fixed number of new pins is divided among winning pins. Credit for fractional pins can be collected until they can convert into a single new pin on the board. Over time, those who predict better will tend to get more pins, and thus have more influence over contest predictions and info elicited.
+More Options: If the restaurant is willing to have three specials each night, then they could pick the top three menu items, or pick three random pins. And of course there could be a lot more than six menu item candidates. Associates might even be allowed to add new suggestions on to the list of options.
+Yes, you might do all this on a phone app, but pins on a shared physical board makes more sense in a restaurant, and is a lot cheaper to make.
+Note how many other decision problems could fit into this framework. A workgroup could decide on job candidates to interview. A non-profit could decide which which grants to bid on. An engineering team could pick designs for more detailed testing.
+These ideas came from a discussion with Benjamin Nadelstein.
+
+
+title: Try-Two Contest Board
+
+date: April 22, 2021 2:15 pm
+

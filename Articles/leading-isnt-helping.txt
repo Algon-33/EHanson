@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+A lab experiment suggests groups reward leaders mainly for projecting high status, rather than for raising group payoffs. Perhaps having high status leaders raises the status of other group members, or members compete more with low status leaders in the hope of replacing them. If this pattern applies more generally to organization managers, it helps explain why they pay so little attention to improving the efficiency of their organizations, and so much to infighting and domination displays.  Read and weep:
+In a repeated public-goods game … players were more likely to mimic the actions of a leader they perceived as a high-status individual; they ignored leaders perceived as low-status and, when they had a chance, punished them for trying to lead. …
+In each round … [each of the 80] players … had to decide what portion to keep for themselves and how much to contribute to a group account. Whatever was put into the group account was doubled and then split equally by the group of four. … Each group had a leader whose contributions everyone could see. The leader was determined by scores on an arbitrary trivia quiz. In half the experiments, the leader was the player who had the highest score (high status); in the other half,… the lowest score (low status). …
+At the end of each of the 20 rounds, each follower observed his or her own earnings and the leader’s contributions. The leader observed the contributions of each of the followers. On average, players allocated between 40 and 50 percent of their [money] to the public pot, whether they had a high- or low-status leader. However, contributions from followers with low-status leaders dropped off in later rounds even though their leaders began giving more and more. … Groups with high-status leaders showed greater stability, and the followers were more likely to imitate their leaders — even though those leaders … [didn’t increase their] contributions. …
+In the 21st round of the game, followers were given the option to punish the leader by issuing points that decreased a player’s profits in the experiment, and vice versa. … Once punishment was introduced, contributions increased significantly for the groups with a low-status leader and only slightly for those with a high-status leader. However, low-status leaders punished others and, in turn, were punished more. They made significantly less money in the experiment than any other player. (more, more; HT Tyler)
+
+
+title: Leading Isn’t Helping
+
+date: December 2, 2010 6:35 pm
+

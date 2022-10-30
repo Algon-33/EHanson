@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+A recent Science review notes our worst bias is meta – being more aware of biases makes us more willing to assume that others’ biases, and not ours, are responsible for our disagreement: 
+
+Because people often do not recognize when personal biases and idiosyncratic interpretations have shaped their judgments and preferences, they often take for granted that others will share those judgments and preferences. When others do not, people’s faith in their own objectivity often prompts them to view those others as biased. Indeed, people show a broad and pervasive tendency to see (and even exaggerate) the impact of bias on others’ judgments while denying its influence on their own.
+For example, people think that others’ policy opinions are biased by self-interest, that others’ social judgments are biased by an inclination to rely on dispositional (rather than situational) explanations for behavior, and that others’ perceptions of interpersonal conflicts are biased by their personal allegiances. At the same time, people are blind to each of these biases in their own judgments. 
+
+  
+
+ Such divergent perceptions of bias are bolstered by the fact that people evaluate their own bias by introspecting about thoughts and motives but evaluate others’ bias by considering external behavior (e.g., "My motive was to be fair; his actions only helped himself."). People place less emphasis on others’ introspections even when those others proffer them – a finding that is perhaps unsurprising in light of people’s skepticism about the accuracy of others’ perceptions. 
+ In the face of disagreement, beliefs in one’s own objectivity and the other side’s bias can produce and exacerbate conflict. For example, American students favor bombing terrorists after being led to view them as biased and irrational, whereas they favor negotiating with terrorists after being led to view them as objective and rational. 
+ People also behave more conflictually toward those whom they suspect will be biased by self-interest.  Participants in one study were instructed to consider the perspective of their adversaries in a conflict over limited resources. That instruction had the ironic effect of leading them to expect that their adversaries would be biased by self-interest, which, in turn, led the participants themselves to act more competitively and selfishly. Acts of competitiveness and aggression are likely to engender a vicious cycle, as the recipients of those acts are likely to view them as unwarranted by the objective situation and, therefore, as signaling their perpetrators’ bias.
+
+Without a way to overcome this bias, our other efforts are largely wasted.  So everyone, please repeat after me:  The fact that I can identify a particular bias in those I disagree with is only very weak evidence that I am more right than they.  For example, if on average about twenty biases afflict each opinion, then identifying a bias in someone that afflicts half of opinions might move their expected bias count to 20.5 instead of 19.5, relative to my expected count of 20.  (Seeing they have at least one of three half-common independently-distributed biases puts their expected bias count at 20.1.)   
+
+
+title: In Bias, Meta is Max
+
+date: June 16, 2008 6:00 am
+

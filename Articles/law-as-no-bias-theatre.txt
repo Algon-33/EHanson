@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Why is there law?   Some say for social justice, others for economic efficiency.  I suspect that "law is theater"; i.e., law is there to make disputants shut up.  When one person is mad as hell at another, law wants an outcome where neither they nor their friends yell and complain, and make the law look bad.  To achieve this, hard to understand legal processes make it hard to know what exactly to complain about, a long expensive process saps the energy needed to complain, and the option of endless appeals makes it unclear when to complain. 
+ A complaining loser’s best argument is often "it wasn’t fair"; there was bias.  So law-as-theater predicts law-as-no-bias-theater; law will bend over backwards to avoid any possible appearance of bias.   How far does our law go in this direction?   Consider what law would be like with unbiased jurors.
+ If we expected jurors (or judges) to try their best to achieve social justice or economic efficiency, without substantial bias, we would have law, but not laws.  That is, there would lots of law, i.e., activity in a system for settling disputes, but few laws, i.e., rules about how to settle disputes.   The legal system would be simple:  you bring your complaint to a jury, you and your opponent each tell your side, and then the jury makes any decision they think appropriate.  Think King Solomon.   
+ Juries (or judges) would thus have complete control over the legal process.   They would talk to anyone about anything they liked, hardly limited by any rules of procedure or evidence.  Their final judgment would be any outcome they chose, based on any consideration they liked, hardly limited by any laws or precedent.  In fact, of course, law is nothing like this.  
+ Most of the legal biases that concern people are not due to juror interests.   After all, we can pretty much eliminate strong interest biases by just preventing jurors (or judges) from extorting disputants, or from sharing any substantial interests with disputants   Thus the structure of our legal system is driven in large part by fears of non-interest-based biases in juror beliefs.   
+ While we have built elaborate legal structures to deal with these supposed biases, legal scholars have spent almost no effort to document that such biases are real.  Legal rules constraining jurors are thus seen biases, justified as responding to unseen biases.   If the law were about social justice or economic efficiency, you’d think the legal system would study biases a lot more.   But if law is more about no-bias-theatre, needing only to make it hard for disputants to complain of bias, what would be the point?  
+
+
+title: Law as No-Bias Theatre
+
+date: December 11, 2006 6:00 am
+

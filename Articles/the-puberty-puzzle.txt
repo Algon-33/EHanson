@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Time magazine considers a big important puzzle:
+By the 1980s, the onset of puberty, if not actual menstruation, had gone into free fall–a change so sudden and pronounced that something more than normal evolution must have been at work. In a landmark 1997 study of 17,000 [US] girls … more than 10% of white girls and an astonishing 37.8% of black girls were showing early breast development by age 8. … Later studies, one in 1998 and another in 2010, included Hispanics and produced similar results. On average, 2 out of every 10 white girls, 3 out of 10 Latinas and 4 out of 10 black girls are showing breast development by age 8. (more)
+They consider some possible explanations:
+Obesity, a well-established puberty accelerant, is high on the list of suspects. … Data from China and India similarly indicate that race by itself isn’t a factor but general prosperity is. Onset of puberty is on a downward march in those countries too. … But even in Europe, where the standard of living has been high for decades and diets haven’t changed much, something strange is going on. A study of girls conducted in Denmark in 2008 found that the average age of breast development there is 8.86 years, which … is a full year earlier than it was for Danes as recently as 1993. …  Some investigators are focusing on environmental contaminants like PBBs and … bisphenol A … A number of studies have found that overweight boys may, if anything, suffer from delayed puberty.
+Oddly they don’t even mention divorce and out-of-wedlock birth, factors that some theory suggests are crucial:
+Father absence is indicative of the degree of polygyny (simultaneous and serial) in society. Polygyny of both kinds creates a shortage of women in reproductive age, and thus, early puberty will be advantageous. Available comparative data indicate that the degree of polygyny is associated with a decrease in the mean age of menarche across societies, as is the divorce rate a presumptive index of serial polygyny, in strictly monogamous societies. (more)
+This theory has some empirical support:
+As specified by evolutionary causal theories, younger sisters had earlier menarche than their older sisters in biologically disrupted families (n = 68) but not biologically intact families (n = 93). This effect was superseded, however, by a large moderating effect of paternal dysfunction. Younger sisters from disrupted families who were exposed to serious paternal dysfunction in early childhood attained menarche 11 months earlier than either their older sisters or other younger sisters from disrupted families who were not exposed to such dysfunction. (more)
+I heard of this theory a while ago, but until now I hadn’t realized its radical implication: humans may have evolved adaptations to make major body/life features conditional on our social environment! If girl brains can order hormones to induce early puberty after seeing lots of nearby polygyny, how else might our bodies be contingent what our brains see about our social world? Do young brains see the level of violence,  prosperity, or work complexity around, and adjust hormone-induced plans for body size, immune system strength, or brain resources? Could this adjustment explain recent trends in mortality, height, or intelligence?  So many possibilities to consider!
+Anthropologists often say that it is a mistake to look for “the” ancestral human environment or lifestyle, that what most defines humans is variety and adaptability. I’m going to take that view a lot more seriously from now on.
+Added 4p: Why are people so much more willing to use strange chemicals to explain earlier puberty that other trens like increasing IQ, lifespan, and height? Is it because chemicals are bad, and therefore can only explain bad things?
+
+
+title: The Puberty Puzzle
+
+date: October 25, 2011 9:10 pm
+

@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Broken symmetries offer powerful insights in social science.  When we treat differently two things that a theory says should be treated similarly, that is often a strong clue that theory is missing something important.  In particular, when a normative theory says we should treat two things similarly, that we actually treat differently, that suggests we do not actually follow this normative theory.
+Oddly, many folks feel they are excused for treating apparently similar things differently if they can point to any feature distinguishing those things:
+
+“You you do X in case A but do Y in case B, yet A and B do not differ in the features F,G,H that your theory T says are relevant for cases A and B.”
+“Ah, but cases A and B differ on feature R.”
+“But your feature R is not obviously relevant in your theory T.”
+
+Except person 2 rarely anticipates critique 3; they seem to think it sufficient if it is logically possible that feature R may somehow be connected to the theory’s features F,G,H.
+Here is an example from Bennett Haselton reviewing Steven Landsburg’s new book The Big Questions:
+Landsburg:  Bert wants to hire an office manager and Ernie wants to manage an office. The law allows Ernie to refuse any job for any reason. If he doesn’t like Albanians, he doesn’t have to work for one. Bert is held to a higher standard: If he lets it be known that no Albanians need apply, he’d better have a damned good lawyer.
+These asymmetries grate against the most fundamental requirement of fairness — that people should be treated equally, in the sense that their rights and responsibilities should not change because of irrelevant external circumstances.
+Haselton: But I think the laws do treat all people equally, because they apply equally whether Bert is discriminating in deciding whether to hire Ernie, or whether Ernie is discriminating in deciding whether to hire Bert.  The laws don’t apply equally to all roles that people play, which is the distinction that Landsburg is highlighting — but laws never apply equally to different roles, since roles are defined by what we do, and what is the point of laws, except to draw distinctions based on behaviors?
+It does not seem to occur to Haselton to ask why the different role of employee vs. employer is relevant in our standard theories suggesting we ban ethnic discrimination.  He feels he is done if he identifies any difference between the two cases.
+But everything is different somehow; if finding just one difference is enough to excuse treating any two things differently, one will always have excuses for any asymmetric treatment.
+
+
+title: Broken Symmetries
+
+date: November 17, 2009 10:45 pm
+

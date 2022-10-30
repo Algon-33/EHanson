@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+
+While it is sometimes claimed that political betting markets are a recent invention, they clearly are not.  Rather it is the absence of such markets during the mid- and late-20th century which is the exception.
+
+Rhode and Strumpf illustrate their point:
+
+Quotes of betting odds on papal succession appear as early as 1503 when such wagering was already considered "an old practice." … Aversion to such activities eventually led Pope Gregory XIV, in March 1591 to ban on pain of excommunication all betting on the outcome of papal elections, the length of the papal reign, or the creation of cardinals. … 
+
+  
+
+"As far back as the reign of William the Third [~1700], foreigners had observed that, on matters great and small, the only sure test of English opinions was the state of the odds." A common phrase was "Bet or be silent." Wagering was generally legal under British common law, so long as it did not to lead to immorality or impolity. Bets about the outcome of events in war, over the death of political leaders, over court cases, or between voters over election results were illegal on these grounds.  In the Victorian and Edwardian periods, the British government increasingly attempted to limit gambling, especially among the working classes. …
+ Regarding the political scene in New York in the 1790s, Taylor, "The Art of Hook & Snivey," p. 1386 writes "the newspaper office became a kind of brokerage house for wagers. There a gentleman could leave a note or bond indicating what he would bet on a candidate; there a rival gentleman could agree to take up that note or bond or leave one of their own. ….
+ In the aftermath of the 1844 contest, the [US] Whigs protested that a combination of gamblers favoring Polk had committed voting fraud using the winnings from election bets to defray their expenses. New York Governor Silas Wright complained vigorously in his 1845 message to the state legislature of "the extensive and rapidly increasing practice of betting upon elections, and the interested and selfish, and corrupting tendencies which it exerts upon the election itself." Wright urged the legislature to make election betting a criminal offense. The evangelical reform movements associated the "Second Great Awakening" also preached long and hard against election betting.
+
+This history seems discouraging.  Yes election betting has often been legal, but until election markets can move beyond mere horse-race forecasts to demonstrate larger social value (as with presidential decision markets), they will remain marginal and vulnerable to backlashes. 
+
+
+title: Election Gambling History
+
+date: October 14, 2008 6:00 am
+

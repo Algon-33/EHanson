@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Compared to academics, non-academics have a less idealistic view of academia.  For example, compared to academic economists, non-academic economists see less social value and progress in economics research, more researcher gender influence on that research, and more journal favoritism toward those at top schools or with inside connections.  From a new paper in the American Journal of Economics and Sociology, reporting on a survey of 323 members of the American Economic Association:  
+
+62 percent were academic economists, of which 31 percent had completed their doctoral degree … Among academic economists, nearly half were full professors; … Only those in departments offering graduate economics degrees generally believe that [economic] research entails spillover benefits [to society]. Further, academic economists actively publishing generally agree that economic research is improving in explaining economic behavior and events; academic economists inactive as publishers generally do not. Academic economists disagree that a person’s status as a reviewer for a nationally recognized journal influences whether his or her research will be published in that journal; nonacademic economists generally agreed, however.
+Academic rank is important in explaining differences of opinion related to gender influence in the discipline; professors of economics generally disagreed that the gender composition of the profession influences its research agenda. Academic economists with less than full professor rank generally did not. Full professors generally disagreed that reviewers at nationally recognized journals have a higher likelihood of their articles being published in that journal. Those of lesser rank generally agreed, however.
+
+  
+Self-interest bias seems an obvious explanation for this disagreement.  I seem to have avoided this bias, since I am an academic economist whose opinions better match non-economists.  Here are more results: 
+
+Respondents expressed a strong affirmative opinion … with much consensus … that a paper’s degree of mathematical exposition influences the probability it will be published in a nationally recognized journal; … Nearly 68 percent of the respondents agreed that author recognition among professional economists was important in determining article acceptance at a nationally recognized journal. … school or business affiliation influences the probability of article acceptance in nationally recognized journals; 56 percent agreed, … A majority of respondents (60 percent) also agreed that a "good-old-boy" network in the profession influences the probability of article acceptance, … 52 percent of the respondents agreed that a person’s status as a reviewer for a nationally recognized journal increases the probability that his or her article will be published in that journal; … However, 45 percent of the respondents agreed that most articles are published in nationally recognized journals solely on the basis of scientific contribution.
+
+I’m not sure this last view is consistent with the other views expressed. 
+
+
+title: Academic Self-Interest Bias
+
+date: May 3, 2007 6:00 am
+

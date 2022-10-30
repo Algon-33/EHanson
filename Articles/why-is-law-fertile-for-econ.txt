@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+I’m about to teach graduate law & econ for the first time, after teaching the undergrad version five times. Going over my new text (Shavell) I’m struck by a difference between law & econ and other areas of applied econ, like labor econ, enviro econ, defense econ, managerial econ, public choice, econ of the family, etc. Relative to these other areas, it seems to me law & econ has more non-obvious insights that can be explained with very little econ machinery, usually in just a paragraph or two of text. Yes most areas have some of these, but in law they just seems to go on and on. Why is law so fertile for economics this way?
+You might say that law & econ started recently, but in many other areas we learned most of what we know after law & econ work started. You might say that law & econ has participation by law specialists and it helps to have simple arguments to be able to explain insights to them. But most of these other areas also have specialists who appreciate simple arguments.
+You might say that law typically deals with interactions in pairs, which are intrinsically simpler than interactions between many parties. But when supply and demand applies it is also a pretty simple interaction, and many other areas like family econ also deal with pairs a lot.
+Another explanation is that for most of us the usual heavy moral coloring of law blocks our simple understanding of consequential arguments in law. In other areas of econ application that lack such mental blocks, most people would already understand the simple consequences of simple actions, and so economics couldn’t get credit for those as insights. But in law economics can get credit for explaining simple consequences that many folks would have already understood in other areas without such mental blocks.
+This last explanation is my tentative favorite, though I’m open to other suggestions. It says law is an area where most folks are especially reluctant to let themselves appreciate simple consequences, most likely because they prefer to hold onto standard far ideals about law, and try not to see consequences that might conflict with such ideals. For example, seeing contract breach as immoral promise breaking makes it hard to see how good breaches happen when damages for contract violation equal the value the other party places on non-breach.
+Of course this explanation also suggests it will be particularly hard to get the actual law to change much in response to good economic arguments about law. Which is roughly what we see.
+
+
+title: Why Is Law Fertile For Econ?
+
+date: August 20, 2013 11:05 am
+

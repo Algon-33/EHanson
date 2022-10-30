@@ -1,0 +1,40 @@
+author: Robin Hanson
+
+text: 
+Scott Aaronson and CS theory colleagues complain conceptual insights are slighted relative to technical results:
+
+ The trends that worry us are … Assignment of little weight to "conceptual" considerations, while assigning the dominant weight to technical considerations. … by "conceptual" we mean the aspects that can be communicated succinctly, with a minimum amount of technical notation, and yet their content reshapes our view/understanding. Conceptual contributions can be thought of as contents of the work that are most likely to be a part of a scientific hallway discussion. … Once understood, conceptual aspects tend to be viewed as obvious, which actually means that they have become fully incorporated in the worldview of the expert. … our community should be warned of dismissing such contributions by saying "yes, but that’s obvious"; when somebody says such a thing, one should ask "was it obvious to you before reading this article?"
+
+ Scott elaborates:
+
+People will often say, "sure, but as soon as you’ve asked the question / defined the model that way, the answer is obvious." They recognize, but don’t sufficiently appreciate, the fact that before the paper in question no one had asked the question or defined the model that way. 
+
+ Here are a few of the 76 comments.  Travis:
+  
+
+Unfortunately this problem is present in many fields – not just computer science. 
+
+ Piotr: 
+
+ Conceptual, notably new model papers, are high risk (and potentially high gain) at the time of evaluation. … Technical papers, notably those solving open problems, are low-risk, and their gain can be easily assessed at eval time. … In a situation involving shrinking resources, a natural (if not a rational) approach is to focus on low-risk entities 
+
+Greg Kuperberg: 
+
+ You can sometimes gain security through obscurity by writing long papers that make your results look hard. 
+
+Maleq Khan:  
+
+ We got some nice results using a very simple approach … we could not get these results [published]. The most annoying part was the reviewers’ comments, like "this is very simple". Throughout the long journey (i.e., several submissions) of our paper, only one reviewer found our simple approach as "an asset". …  Couple of years earlier … a paper, which achieved much worse bound using a complicated (and inefficient) algorithm and complex proof, got published.  
+
+Most agreed this was a problem, but a few dissented.  Gil Kalai: 
+
+ The best papers with conceptual breakthroughs were usually also very good in terms of the formalism and other technical aspects. 
+
+Yes, the pattern observed is clearly a "bias" relative to the goal of promoting intellectual progress.  But my working model of academia is that it functions mainly to allow folks to affiliate with people certified as impressive – intellectual progress is only a side effect. So reviewers try to to seem clearly impressive to less well-informed observers.  Approving hard solid technical work a reviewer clearly signals his technical abilities, but approving unclear-to-observers conceptual contributions risks both seeming an ignorant lightweight, and seeming a deep thinker.   In general, "certification" tends to be a risk-averse process – it much prefers a high confidence that quality is above a certain minimum, relative to equal chances of very high quality and very low quality.  
+I do think there are possible academic institutions that could better reward intellectual progress, but I’m skeptical that people actually want to adopt them, if they make it harder to certify people as impressive. 
+
+
+title: Neglecting Conceptual Research
+
+date: March 12, 2008 6:00 am
+

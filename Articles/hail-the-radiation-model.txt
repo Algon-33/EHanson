@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+We have a revolution in how to best predict transport and commuting rates:
+The gravity law is the prevailing framework with which to predict population movement, cargo shipping volume, and inter-city phone calls, as well as bilateral trade flows between nations. Despite its widespread use, it relies on adjustable parameters that vary from region to region and suffers from known analytic inconsistencies. Here we introduce a … radiation model [that] predicts mobility patterns in good agreement with mobility and transport patterns observed in a wide range of phenomena. (more)
+The gravity law assumes travel is proportional to the product of powers of the to and from populations, divided by some function of the distance between them:
+The gravity law assumes that the number of individuals Tij that move between locations i and j per unit time is proportional to some power of the population of the source (mi) and destination (nj) locations, and decays with the distance rij between them as
+Tij =  mia njb /  f(rij)
+where a and b are adjustable exponents and the … function f(rij) is chosen to fit the empirical data.
+The radiation model fits better by instead looking at how many people live closer than the destination location:
+Step one, an individual seeks job offers from all counties, including his/her home county. The number of employment opportunities in each county is proportional to the resident population. … We capture the benefits of [each] potential employment opportunity with a single number, z, [independently and] randomly chosen. … Step two, the individual chooses the closest job to his/her home, whose benefits z are higher than the best offer available in his/her home county. … We denote with sij the total population in the circle of radius rij centred at i (excluding the source and destination population).  … The radiation model is
+Tij = Ti mi nj / (mi + sij)(mi + nj + sij)
+… Ti … is the total number of commuters who start their journey from location i.
+Amazingly, this better fitting radiation model only depends on distance indirectly, via population density. It suggests that while distance matters, it is almost never an overwhelming consideration. In the modern world, while political barriers are often insurmountable, distance is detail.
+
+
+title: Hail The Radiation Model
+
+date: April 12, 2012 10:30 am
+

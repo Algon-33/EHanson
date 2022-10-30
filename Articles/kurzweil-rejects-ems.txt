@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+I posted recently on Allen & Greaves criticizing “the whole brain emulation argument that we can simulate a brain without understanding it.” Ray Kurzweil responds that while he is far more optimistic on AI progress, he doesn’t believe in emulation without understanding either:
+Allen mischaracterizes my proposal to learn about the brain from scanning the brain to understand its fine structure. It is not my proposal to simulate an entire brain “bottom up” without understanding the information processing functions. We do need to understand in detail how individual types of neurons work, and then gather information about how functional modules are connected. The functional methods that are derived from this type of analysis can then guide the development of intelligent systems. Basically, we are looking for biologically inspired methods that can accelerate work in AI.
+It makes sense that since Kurzweil is so optimistic about rapid progress in so many technologies, such as life extension, he’d be optimistic about rapid progress in modeling the higher level organization of brains. Ems seem more likely to pessimists like myself — although we think emulation should be possible with far less than quantum chemistry detail, since the brain is a robust signal processing system, we estimate that the rate of progress to date suggests a long slow road to understanding brain organization.
+
+
+title: Kurzweil Rejects Ems
+
+date: October 23, 2011 3:00 pm
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Last week I described how Robert Frank wants to discourage “conspicuous consumption” via big houses, cars, and barbecues, because he thinks they cause large positional (i.e., relative status) harms on others.  After describing our best data on positionality, I asked if Frank would endorse its implication that we tax should beauty aids, education, and sports.
+Both Robert Frank and Geoffrey Miller eagerly point out when data shows folks being less happy doing what Frank and Miller dislike, but this doesn’t obviously fit their big theories: it is not obvious why activities that produce positional side effects (Frank), or activities that are inefficient signals (Miller), should make us less happy.
+There is a very different argument one could offer however, even if neither Frank nor Miller offer it directly.  One could argue that we should in general tax the activities that make people less happy.  To justify this we’d have to assume that humans tend for some reason to do too little of what makes them happy, but it doesn’t require that we know exactly what that reason is.
+Below is Table 6.1, from a 2008 paper on the “net affect” of 45 ways we spent our time.  (Net affect combines six emotions felt during the activity: happy, tired, stress, sad, interested, and pain.)  A simple policy of taxing low affect activities and subsidizing the others would have us subsidize not just parties, doing and spectating sports, exercise, playing with kids, walking dogs, and music, but also subsidize religion, eating out, and shopping.  We would tax not just work, commuting, home maintenance, and most housework, but also tax school and homework, writing by hand, buying medical services, doing personal medical care, and caring for adults.
+If you don’t endorse these policies, you must have other policy criteria than just encouraging activities that directly make us happy.  That table:
+
+
+
+title: Tax Unhappiness?
+
+date: May 25, 2009 6:00 am
+

@@ -1,0 +1,22 @@
+author: Nicholas Shackel
+
+text: 
+In his recent post Robin suggests that Van Inwagen is biased in his philosophical beliefs about free will, possible worlds and the nature of persons, on the grounds that to disagree with as clever a philosopher as Lewis (rather than suspend judgement, for example) cannot be reasonable. In the paper referenced, Van Inwagen concedes that he is not arguing that any particular philosophical positions are justified, just asserting that he believes some are. Van Inwagen’s main point is in fact that the use made of Clifford’s dictum (in brief, it is always wrong to believe on insufficient evidence) is biased, since it is applied to religious belief but not to other beliefs. Nevertheless, I think we could construct on Van Inwagen’s behalf an argument for the reasonableness of his disagreement with Lewis.
+
+Philosophers have no consensus on many important philosophical questions.
+Their disagreement cannot be adequately explained on the basis of communicable beliefs (even allowing for the general underdetermination of answers to philosophical questions by the considerations available).
+Therefore we must allow of there being incommunicable beliefs (which, when true, are incommunicable insights).
+There is no reason to think that philosophers are irrational.
+Both Lewis’s and my philosophical positions are justified with respect to their evidential bases.
+We have both examined everything we know to be relevant to the question at issue. 
+Among the evidential base of justified philosophical belief are states that are either incommunicable insights or states we are unable to distinguish from such insights but whose content is erroneous.
+What can be communicated between us has not led either of us to realise that something we took to be an insight is an error.
+Therefore we can reasonably disagree.
+
+He might also have further defended this by arguing that unless we are prepared to be accept that none of our beliefs are justified (i.e. to be a certain kind of sceptic), a similar story has to be told for all of our beliefs: that their evidential base may not be entirely communicable and the justificational relations may not be entirely transparent to us. 
+
+
+title: Reasonable Disagreement
+
+date: December 6, 2006 6:00 am
+

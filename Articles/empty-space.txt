@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Yesterday I talked at an "International Space Development Conference" on interstellar colonization, alongside Air Force futurist Peter Garretson and polymath, L5 cofounder, and Scientology-thorn Keith Henson.  Both Keith and Peter described solar power satellites as our last hope against a peak-oil disaster, where world population would fall in proportion to oil production.  In the exhibit hall, a space elevator guy said they are feasible now and would cost only five billion dollars to let us put many tons a day into orbit for a few dollars a pound.   
+On Monday I was interviewed on BBC Radio about what if any economic value we get out of NASA.  I said the benefits were mostly like the pyramids – national prestige and being part of history.  I was not told I would be debating a NASA fan, who said gave the tang/teflon argument that all research is good, and also said we don’t want to be like the Chinese who pulled their advanced ships back just before the Europeans took over the world.  There was not time to respond.  
+Sigh.  The US government spends more on space research than on NIH and NSF combined, which most scientists consider far out of proportion to its science value.  Most any ambitious tech project, like floating cities, 3DTV, or robot mules, gives similar indirect tech spinoffs per dollar spent, and surely we can find other projects with larger direct payoffs.  Sure the Chinese might have colonized the Americas, but we can see now there are no similarly lush gardens accessible in space – we’ll colonize Antarctica and the Earth oceans long before, as these are far less harsh environments with plenty of the sunlight and materials which are mainly what space has to offer.  Yes someday we’ll run out of stuff here on Earth, but that day is far off.  We’ll probably use kite power before solar satellites, world population is not proportional to oil production, and hopes for more than a tiny space tourism market anytime soon are pure fantasy.   
+What we have is a strong and growing demand for satellites, especially by the military.  But that demand curve slopes down a lot, leading me to doubt if there is enough demand to cover the (large) fixed cost of a (militarily vulnerable) space elevator soon.  I could imagine the Chinese building one mainly to get the respect they crave, but like the US public they would probably not want to publicly admit that was their main motivation. 
+Added 31May:  The demand for protecting Earth from asteroids is much smaller than for satellites, and deep mine colonies would better protect humanity from extinction. 
+
+
+title: Empty Space
+
+date: May 30, 2008 9:00 pm
+

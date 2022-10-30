@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+From 1992 to 2008, nearly 2,000 New York Police Department officers were arrested, according to the department’s own annual reports of the Internal Affairs Bureau, an average of 119 a year.  The rarely seen internal reports were obtained last month by the New York Civil Liberties Union through the Freedom of Information Law. They show that the number of tips logged each year by Internal Affairs has tripled since 1992. … The number of investigations pursued over the same period has dropped by more than half. … “These reports depict a department that, in the mid-1990s, was candid about its anticorruption work,” said Mr. Dunn, of the civil liberties union. “The recent reports, by contrast, reveal almost nothing, signaling an N.Y.P.D. that seems unwilling to confront corruption.”
+More here.  An obvious enabler of police corruption is the fact that internal affairs units, tasked with exposing corruption, usually report to the same police chief that would be embarrassed by such exposure, and who may also be corrupt.  An obvious solution is to make internal affairs more independent, e.g., reporting directly to a city council or even a governor.  In the US the FBI sometimes serves in this role, though rarely at the request of local governments, and within the FBI its internal affairs still reports to FBI’s chief.  Why don’t more governments create independent agencies to investigate corruption, to assure citizens that corruption is not tolerated?
+This is an example of a more general puzzle: why do our rules allow so much rule-bending?
+Gains to rule bending could be greatly reduced via social norms with very clear simple rules. … [But] both complex broad incest rules and allowing sorcery complaints greatly increase the scope for gains to large rule-bending [forager] brains, and suggest that we tend to prefer to allow such scope.
+The degree of allowed rule bending may result from a balance of two opposing forces.  On the one hand, many folks benefit from bendable rules, e.g., the well connected, powerful, clever, and articulate.  If you publicly oppose such rules, e.g., by proposing independent corruption police, you signal that you are not as well-connected, clever, etc., as others, and you risk retaliation from those who now benefit.
+On the other hand, many lose from bendable rules, and might be roused into self-righteous indignation to show their support for changes that affirm traditional egalitarian norms.  Furthermore, more distant communities may well think less of this community if it becomes widely know as especially lax about standard norms.  Consider the reputation of especially corrupt nations, cities, or corporation.
+So rule bending is at risk if it becomes too obvious that distant outsiders can see it, and if losing insiders can coordinate enough to clearly identify and target its enablers, such as non-independent internal affairs.  But if rule bending insiders can muddy the waters, and raise credible doubts about whether any particular arrangement promotes rule bending, they may prevent such coordination.  The fact that police internal affairs units remain bendable shows just how easy it is to muddy such waters.
+
+
+title: Why Rules Bend
+
+date: April 13, 2010 2:45 pm
+

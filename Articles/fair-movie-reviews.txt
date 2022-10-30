@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+US news media are not biased to favorably review movies made by their owners:
+We find no evidence of bias in the reviews for 20th Century Fox movies in the News Corp. outlets, nor for the reviews of Warner Bros. movies in the Time Warner outlets. We can reject even small effects, such as biasing the review by one extra star (out of four) every 13 movies. We test for differential bias when the return to bias is plausibly higher, examine bias by media outlet and by journalist, as well as editorial bias. We also consider bias by omission: whether the media at conflict of interest are more likely to review highly-rated movies by affiliated studios. In none of these dimensions do we find systematic evidence of bias. Lastly, we document that conflict of interest within a movie aggregator does not lead to bias either. We conclude that media reputation in this competitive industry acts as a powerful disciplining force. (more)
+
+
+title: Fair Movie Reviews
+
+date: November 10, 2014 3:45 pm
+

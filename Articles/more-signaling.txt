@@ -1,0 +1,37 @@
+author: Katja Grace
+
+text: 
+Centurion: Where is Brian of Nazareth?
+Brian: You sanctimonious bastards!
+Centurion: I have an order for his release!
+Brian: You stupid bastards!
+Mr. Cheeky: Uh, I’m Brian of Nazareth.
+Brian: What?
+Mr. Cheeky: Yeah, I – I – I’m Brian of Nazareth.
+Centurion: Take him down!
+Brian: I’m Brian of Nazareth!
+Victim #1: Eh, I’m Brian!
+Mr. Big Nose: I’m Brian!
+Victim #2: Look, I’m Brian!
+Brian: I’m Brian!
+Victims: I’m Brian!
+Gregory: I’m Brian, and so’s my wife!
+– Monty Python’s Life of Brian
+It’s easy for everyone to claim to be Brian. What Brian (and those who wish to identify him) need is a costly signal: an action that’s only worth doing if you are Brian, given that anyone who does the act will be released. In Brian’s life-or-death situation it is pretty hard to arrange such a thing. But in many other situations, costly signals can be found. An unprotected posture can be a costly signal of confidence in your own fighting ability, if this handicap is small for a competent fighter but dangerous for a bad fighter. College can act as a costly signal of diligence, if lazy, disorganized people who don’t care for the future would find attending college too big a cost for the improved job prospects.
+A situation requires costly signaling when one party wishes to treat two types of people differently, but both types of people want to be treated in the better way. An analogous way to think of this as a game is that Nature decides between A or -A, then the sender looks at Nature’s choice, and gives a signal to the receiver, B or -B. Then the receiver takes an action, C or -C. The sender always wants the receiver to do C, but the receiver wants to do C if A and -C if -A. To stop the sender from lying, you can modify the costs to the sender of B and -B.
+Suppose instead that the sender and the receiver perfectly agreed: either both wanted C always, or both wanted C if A and -C if -A. Then the players can communicate perfectly well even if all of the signals are costless – the sender has every reason to tell the receiver the truth.
+If players can have these two kinds of preferences, and you have two players, these are the two kinds of signaling equilibria you can have (if the receiver always wants C, then he doesn’t listen to signals anyway).
+Most of the communication in society involves far more than two players. But you might suppose it can be basically decomposed into two player games. That is, if two players who talk to each other both want C iff A, you might suppose they can communicate costlessly, regardless of who the first got the message from and where the message goes to. If the first one always wants C, you might expect costly signaling. If the second does, you might expect the message to be unable to pass that part in the chain. This modularity is important, because we mostly want to model little bits of big communication networks using simple models.
+Surprisingly, this is not how signaling pairs fit together. To see this, consider the simplest more complicated case: a string of three players, playing Chinese Whispers. Nature chooses, the sender sees and tells an intermediary, who tells a receiver, who acts. Suppose the sender and the intermediary both always want C, while the receiver wants to act appropriately to Nature’s choice. By the above modular thesis, there will be a signaling equilibrium where the first two players talk honestly for free, and the second and third use costly signals between them.
+Suppose everyone is following this strategy: the sender tells the intermediary whatever she sees, and the intermediary also tells the receiver honestly, because when he would like to lie the signal to do so is too expensive. Suppose you are the sender, and looking at Nature you see -A. You know that the other players follow the above strategy. So if you tell the intermediary -A, he will transmit this to the receiver, though he would rather not modulo signal prices. And that’s too bad for you, because you want C.
+Suppose instead you lie and say A. Then the intermediary will pay the cost to send this message to the receiver, since he assumes you too are following the above set of strategies. Then the receiver will do what you want: C. So of course you lie to the intermediary, and send the message you want with all the signaling costs of doing so accruing to the intermediary. Your values were aligned with his before taking into account signaling costs, but now they are so out of line you can’t talk to each other at all. Given that you behave this way, he will quickly stop listening to you. There is no signaling equilibrium here.
+In fact to get the sender to communicate honestly with the intermediary, you need the signals between the sender and the intermediary to be costly too. Just as costly as the ones between the intermediary and the receiver, assuming the other payoffs involved are the same for each of them. So if you add an honest signaling game before a costly signaling game, you get something that looks like two costly signaling games.
+For example, take a simple model where scientists observe results, and tell journalists, who tell the public. The scientist and the journalist might want the public to be excited regardless of the results, whereas the public might want to keep their excitement for exciting results. In order for journalists who have exciting news to communicate it to the public, they need to find a way of sending signals that can’t be cheaply imitated by the unlucky journalists. However now that the journalists are effectively honest, scientists have reason to misrepresent results to them. So before information can pass through the whole chain, the scientists need to use costly signals too.
+If you have an arbitrarily long chain of people talking to each other in this way, with any combination of these two payoff functions among the intermediaries, everyone who starts off always wanting C must face costly signals, of the same size as if they were in an isolated two player signaling game. Everyone who wants C iff A can communicate for free. It doesn’t matter whether communicating pairs are cooperative or not, before signaling costs. So for instance a whole string of people who apparently agree with one another can end up using costly signals to communicate because the very last one talks to someone who will act according to the state of the world.
+So such things are not modular in the way you might first expect, though they are easily predicted by other simple rules. I’m not sure what happens in more complicated networks than strings. The aforementioned results might influence how networks form, since in practice it should be effectively cheaper overall to direct information through smaller numbers of people with the wrong type of payoffs. Anyway, this is something I’ve been working on lately. More here.
+
+
+title: More signaling
+
+date: December 30, 2012 4:31 am
+

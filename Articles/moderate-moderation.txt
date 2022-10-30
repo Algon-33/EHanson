@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+An editorial board, starting with myself, Nick Bostrom, and Eliezer Yudkowsky, will now moderate the posts here at Overcoming Bias.   Most contributors will not be able to post directly; they will instead write drafts, and it will take one member of the editorial board to approve a draft as a post.
+We will select for quality and relevance.  Ideal posts are short, direct, have a clear thesis, and some clear support such as real life example, a quote, an analysis, or a pointer to longer treatment.  Extra points for thoughtful conversation among the contributors.  We won’t shy from controversies, but we don’t want tangential "flamebait" either.  
+
+
+title: Moderate Moderation
+
+date: February 17, 2007 6:00 am
+

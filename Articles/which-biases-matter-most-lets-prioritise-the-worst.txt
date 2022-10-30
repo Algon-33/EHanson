@@ -1,0 +1,28 @@
+author: Robert Wiblin
+
+text: 
+As part of our self-improvement program at the Centre for Effective Altruism I decided to present a lecture on cognitive biases and how to overcome them. Trying to put this together reminded me of a problem I have long had with the self-improvement literature on biases, along with those for health, safety and nutrition: they don’t prioritise. Kahneman’s book Thinking Fast and Slow represents an excellent summary of the literature on biases and heuristics, but risks overwhelming or demoralising the reader with the number of errors they need to avoid. Other sources are even less helpful at highlighting which biases are most destructive.
+You might say ‘avoid them all’, but it turns out that clever and effort-consuming strategies are required to overcome most biases; mere awareness is rarely enough. As a result, it may not be worth the effort in many cases. Even if it were usually worth it, most folks will only ever put a limited effort into reducing their cognitive biases, so we should guide their attention towards the strategies which offer the biggest ‘benefit to cost ratio’ first.
+There is a bias underlying this scattershot approach to overcoming bias: we are inclined to allocate equal time or value to each category or instance of something we are presented with, even if they are arbitrary, or at least not a good signal of their importance. Expressions of this bias include:
+
+Allocating equal or similar migrant places or development aid funding to different countries out of ‘fairness’, even if they vary in size, need, etc.
+Making a decision by weighing the number, or length, of ‘pro’ and ‘con’ arguments on each side.
+Offering similar attention or research funding to different categories of cancer (breast, pancreas, lung), even though some kill ten times as many people as others.
+Providing equal funding for a given project to every geographic district, even if the boundaries of those districts were not drawn with reference to need for the project.
+
+Fortunately, I don’t think we need tackle most of the scores of cognitive biases out there to significantly improve our rationality. My guess is that some kind of Pareto or ’80-20′ principle applies, in which case a minority of our biases are doing most of the damage. We just have to work out which ones! Unfortunately, as far as I can tell this hasn’t yet been attempted by anyone, even the Centre for Applied Rationality, and there are a lot to sift through. So, I’d appreciate your help to produce a shortlist. You can have input through the comments below, or by voting on this Google form. I’ll gradually cut out options which don’t attract any votes.
+Ultimately, we are seeking biases that have a large and harmful impact on our decisions. Some correlated characteristics I would suggest are that it:
+
+potentially influences your thinking on many things
+is likely to change your beliefs a great deal
+doesn’t have many redeeming ‘heuristic’ features
+disproportionately influences major choices
+has a large effect substantiated by many studies, and so is less likely the result of publication bias.
+
+We face the problem that more expansive categories can make a bias look like it has a larger impact (e.g. ‘cancer’ would look really bad but none of ‘pancreatic cancer’, ‘breast cancer’, etc would stand out individually). For our purposes it would be ideal to group and rate categories of biases after breaking them down by ‘which intervention would neutralise this.’ I don’t know of such a categorisation and don’t have time to make one now. I don’t expect that this problem will be too severe for a first cut.
+
+
+title: Which biases matter most? Let’s prioritise the worst!
+
+date: February 18, 2013 7:19 pm
+

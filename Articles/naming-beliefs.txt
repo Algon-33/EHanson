@@ -1,0 +1,12 @@
+author: Hal Finney
+
+text: 
+Rolf Nelson points out that we don’t have good terminology to call “beliefs we would have had if we didn’t choose to be persuaded by the fact that everyone else believes differently”. It’s an important distinction because this kind of belief is arguably more helpful to know, for both majoritarians and others.
+In classic group-decision experiments like “guess how many beans in the jar”, you get less accurate answers if people call out their guesses one after the other, because they are revealing their adjusted beliefs, that take into account the social consensus (perhaps without realizing it). If people write their answers down, we get Rolf’s kind of beliefs, uninfluenced by the consensus view, and those have been shown to be more accurate on average.
+So Rolf’s point is very relevant about the lack of terminology. Devil’s Advocacy is about as close as I can come, but that doesn’t capture it. What do you suggest would be a good way to describe these kinds of beliefs? Once more people start making a conscious distinction between the two modes of believing, how should we talk about it?
+
+
+title: Naming Beliefs
+
+date: April 12, 2008 5:53 pm
+

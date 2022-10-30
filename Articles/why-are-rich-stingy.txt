@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+A month ago I suggested that left vs. right political attitudes roughly correspond to forager vs. farmer attitudes:
+We acted like farmers when farming required that, but when richer we feel we can afford to revert to more natural-feeling forager ways. The main exceptions, like school and workplace domination and ranking, are required to generate industry-level wealth.
+Today I should acknowledge some apparently conflicting data:
+Data are from 31 nations and 66,777 individual respondents … In poor countries, but not in rich, most believe that family needs legitimate higher pay. Within countries—particularly English-speaking ones—low SES groups endorse family needs, but high SES groups reject them. (more)
+Across 4 studies, lower class individuals proved to be more generous (Study 1), charitable (Study 2), trusting (Study 3), and helpful (Study 4) compared with their upper class counterparts. Mediator and moderator data showed that lower class individuals acted in a more prosocial fashion because of a greater commitment to egalitarian values and feelings of compassion. (more)
+Two kinds of processes should interact here, and may work at cross-purposes. While on the one hand humans may be programmed to develop different attitudes when rich, on the other hand some attitudes may be more effective than others at creating wealth. While my forager-farmer hypothesis suggests that humans naturally return to more-forager-like egalitarian attitudes when rich, observed correlations between wealth and egalitarian attitudes should also be influenced whether egalitarian attitudes assist or hinder the accumulation of wealth.
+So the above data showing that rich people and nations tend to be less egalitarian could still be consistent with my forager-farmer hypothesis if forager-style egalitarian attitudes tend on average to hinder the creation and accumulation of wealth, relative to farmer-style attitudes. And if this tendency is stronger than the other wealth causing attitudes tendency I postulate. For example, perhaps egalitarian envy discourages entrepreneurial risk, or prevents more efficient ventures from displacing less efficient ones.
+Added 10a: Another response is to just consider this to be part of the “main exceptions” clause of my claim – a way in which we do not move to forager ways when rich, because it is central to what makes us rich.
+
+
+title: Why Are Rich Stingy?
+
+date: November 8, 2010 1:00 am
+

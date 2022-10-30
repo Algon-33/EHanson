@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Consider the vast legal apparatus we maintain to reduce the US’s ~30,000 annual car crash deaths.  This includes a vast complex of traffic laws, such as re speeding and stop signs, auto safety rules and tests, and huge police forces and courts devoted to enforcing all this.
+Now consider that catheter-related infections at hospitals killl a similar number of folks, and can be almost completely stopped via a simple five step procedure, and yet we have almost no related legal apparatus.  No laws require hospitals to follow these procedures, or to pass tests showing they can reliably do so, no police checks to see that they actually do so, nor do courts adjudicate many disputes here. Instead we mainly hope for results from “federally funded programs” that pay hospitals who start programs where they say they will look into the problem.  Todays’ Post:
+An estimated 80,000 patients per year develop catheter-related bloodstream infections, or CRBSIs — which can occur when tubes that are inserted into a vein to monitor blood flow or deliver medication and nutrients are improperly prepared or left in longer than necessary. About 30,000 patients die as a result, according to the [CDC]. … Yet evidence suggests hospital workers could all but eliminate CRBSIs by following a five-step checklist that is stunningly basic: (1) Wash hands with soap; (2) clean patient’s skin with an effective antiseptic; (3) put sterile drapes over the entire patient; (4) wear a sterile mask, hat, gown and gloves; (5) put a sterile dressing over the catheter site. …
+A federally funded program implementing these measures in intensive-care units in Michigan hospitals reduced the incidence of CRBSIs by two-thirds, saving more than 1,500 lives and $200 million in the first 18 months. …  “The cost of implementing [such programs] is about $3,000 per infection, while an infection costs between $30,000 to $36,000.”
+From the numbers above, the cost to society of each infection is ~3/8 of a life, which is at least a million dollars.  So hosptials internalize ~3% of the social cost of such infections.  In contrast, car drivers typically internalize at least 30% of the social cost of car accidents they influence.   By this measure, it would make more sense to completely eliminate all traffic laws and trust personal incentives to moderate car accidents than it does to trust hospital financial incentives to cut catheter-related infections.   So why do we trust hospitals so much more than car drivers?
+Added: Apparently attempts to try these checklists were banned for a while as unethical medical experiments, because careful records were being kept.
+
+
+title: Catheter Infection Law
+
+date: July 13, 2010 10:45 am
+

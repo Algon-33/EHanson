@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+We see social norms as more relevant when predicting the average behavior of a group, relative to predicting an individual’s behavior:
+In judgments of morally relevant behaviors, forecasters estimated that a randomly selected individual (e.g., a student) would act more selflessly (e.g., give to charity) than would the population from which the individual was drawn (e.g., the student body). … When considering how an individual will behave, people give weight to an individual-level force on behavior: what an individual’s moral conscience would lead one to do. When considering a population, forecasters give more emphasis to a group-level force on behavior: social norms and pressures. … Individuals were [also] forecast as more likely than populations to perform behaviors that emerge primarily because of an individual-level force—a person’s will—but not behaviors that are encouraged by social norms. (more)
+
+
+title: Social Norms Are Far
+
+date: January 14, 2013 8:10 am
+

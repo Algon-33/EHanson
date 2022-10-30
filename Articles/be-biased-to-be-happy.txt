@@ -1,0 +1,21 @@
+author: Patri Friedman
+
+text: 
+Robin writes "Optimism bias is clearly not an unnoticed accident – people want to be so biased."
+In poker, there is a joke which goes "Have you ever noticed that when you win, it’s all skill, and when you lose, it was bad luck?"  It’s funny because this method of protecting one’s own ego is universal enough to strike a deep chord, yet any good player knows how wrong it is.  In the short-term, poker is mostly luck, and it takes a great deal of experience to even partially disentangle the effects of one’s own strategy from the vicissitudes of fortune.  (Hint: a crucial first step is to always think in terms of opponent hand distributions, not specific hands.)
+While in poker, this way of thinking will hold a player back from accurately evaluating and improving their game, the evidence from positive psychology is that it helps you be a winner in life.  From Half Full, a blog about the science of raising happy kids:
+
+According to Seligman and other researchers, how optimistic or pessimistic we are amounts to how we explain life’s events, be they good or bad. There are three basic dimensions to an explanation: permanence, pervasiveness, and personalization.   The OPTIMISTIC way of understanding why something GOOD happened would explain:
+The cause of what just happened as Permanent (so it will reoccur); And Pervasive (it will affect many other circumstances, too); And Personal (I made it happen).
+On the other hand, the PESSIMISTIC way of explaining why something GOOD just happened would illustrate that:
+The cause of what just happened is Temporary (something short-lived caused it – probably won’t happen again); And Specific (affecting only this situation); And Impersonal (I didn’t have anything to do with what happened, other people or the circumstances did).
+The reverse is also true when something bad happens. A kid trips on the sidewalk and skins her knee, dirtying her new dress. The pessimist thinks: “I’m so clumsy – I’m always tripping everywhere, and now I look stupid.” The cause of her fall is (1) permanent—she sees it as a personality trait, and therefore it is both (2) pervasive and (3) personal. On the other hand, the optimist thinks: “Dang!  Someone oughtta fix that crack in the sidewalk!” She’s thinking that a flaw in the sidewalk, not her own inherent clumsiness, caused her to trip. That crack is (1) temporary; (2) specific to that moment; and (3) impersonal—she had nothing to do with it.
+
+There is plenty of evidence that those with the optimistic mindset are happier, healthier, and more successful, but of course we have to be careful because the causality runs both ways.  (If life has been good to you, you will tend to expect more of the same).  But (while I don’t have cites on hand), I’ve seen some research on interventions to improve optimism, and on predicting later success based on earlier optimism (controlling for other obvious factors of success), which suggest that at least some of the causality runs from optimism to happiness.
+It seems a bit sad to me that our egos need such nurturing, and as a rationalist I worry that optimistic bias (like any false view of the world) will sometimes lead us to make worse decisions which will increase suffering.  But to the degree that we’re stuck with the biased minds we have, the evidence seems to be that it’s better to be optimistic than pessimistic.
+
+
+title: Be biased to be happy
+
+date: April 30, 2008 5:00 pm
+

@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan:
+1. Finish high school. 2. Get a full-time job once you finish school. 3. Get married before you have children. ….
+While hardly anyone explicitly uses [this] success sequence to argue that we underrate the blameworthiness of the poor for their own troubles, critics still hear this argument loud and clear – and vociferously object. … Everyone – even the original researchers – insists that the success sequence sheds little or no light on who to blame for poverty. … talking about the success sequence so agitates the critics.
+A scene from the excellent documentary Minding the Gap:
+Bing: Do you, do you feel, like, concerned that [your young son] Elliot’s going to grow up, like, messed up?
+Zack: Sigh. I’m 50/50 about it.
+Lately I have been concerned over my influence on him, and as he gets older, how he’s gonna look at the difference between the [middle class] way his family lives and the [lower class] way I live. And.
+A lot of people grow up and they are [starts a denigrating head wiggle and affected speaking style] nununu, fucking, I’m gonna play football, and I’m gonna go to college and I’m gonna get this nice office job and start a family and have 2.5 kids and a car and a garage and everything’s just gonna be nice. And I’ll buy a boat and a snow mobile. [end nodding and affected style]
+I’m like ‘Fuck you, you piece of shit.’ Like, just cause you’re too fucking weak to make your own decisions and decide what you want to do with your own life, doesn’t mean everyone else has got to be like you.
+Ha, ha, I don’t know, fuck, ha ha. I, ah, ask me another question. (1:10:52-1:12:00)
+Zack seems to have long been well aware that he flouted the usual life advice. He lashes out at those who do, and he seems quite sensitive about the issue. Much like all those sociologists sensitive about discussing or recommending the success sequence.
+Many people, including myself and Bryan, think it is a shame that so many seem worse off from making poor lifestyle choices, and so are inclined to recommend that good advice be spread more widely. However, what if most everyone who makes poor choices is actually well aware of the usual good advice when they make their poor choices? And what if they like having the option to later pretend that they were unaware, to gain sympathy and support for their resulting predicaments? Such people might then resent the wider spreading of the good advice, seeing it as an effort to take away their excuse, to blame them for their problems, and to reduce their sympathy and support.
+That’s my best guess interpretation of the crazy paranoid excuses I’ve heard to oppose my free agents for all proposal. (If you doubt me, follow those links.) It would cost nothing to give everyone an agent who gets ~15% of their income, and so has a strong incentive to advise and promote them. Yet I mainly hear complaints like that such agents would: force clients to work in oppressive company towns, censor media to cut any anti-work messages, lobby for higher taxes, or send out minions to undermine promising artistic careers. Even though becoming an agent gives you no added powers; you can only persuade.
+In a poll, most oppose even a test of the idea:
+
+Do you support taking 1/5 of newborns & auctioning off a transferable right to be paid what they pay in income tax, thereby creating (a test of) agents w/ interest in advising & promoting them? (Assume is illegal fraud to trash your income to help an ally buy this right cheap.)
+— Robin Hanson (@robinhanson) March 20, 2021
+
+My conclusion: most people are well aware of a lot of advice, widely interpreted as good advice, that they don’t intend to follow. So they don’t actually want agents to give them good advise, as others would hear about that and then later give them less sympathy for not following the good advice that they have no intention of following. Yes, their children and other people in the world might benefit from such advice, but for this issue they are too focused on themselves to care.
+Note this theory is similar to my standard theory of why firm managers don’t want prediction markets on their deadlines. Early market estimates take away their favorite excuse if they miss a deadline, that all was going well until something came out of left field and knocked them flat. Its so rare a problem that it couldn’t be foreseen, and will never happen again, so no need to hold anyone responsible.
+
+
+title: Who Wants Good Advice?
+
+date: March 20, 2021 11:00 am
+

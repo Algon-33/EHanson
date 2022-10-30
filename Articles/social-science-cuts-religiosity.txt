@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+If reducing interest in religion is a sign of rationality, then social sciences rule!
+A new NBER paper compares college majors for their effect on student religiosity.  Majoring in biological sciences, engineering, or vocational areas all increase religiosity about the same relative to not going to college.  Majoring in education encourages religion even more, while majoring in physical science has about the same effect as no college.  Majoring in humanities reduces religiosity relative to no college, and majoring in social science reduces it the most.
+Here is a part of the paper’s main table:
+
+Bold params are significant at 5%.  They control for year, region, gender, parent education, type of religion, and initial religiosity.
+Added:  Studying physics in college helped me become atheist because, taken as a complete account, physics seemed to leave no room for spirits to regularly intervene in human affairs.  Most students, however, do not take physics as such a complete account.  Social sciences and humanities do not usually suggest they offer complete accounts, but they do offer more direct stories of how human affairs become arranged, accounts that compete more directly with divine intervention stories.  I suspect that this competing explanation effect is the reason social sciences and humanities reduce religiosity, and that the social science effect is stronger because its accounts leave fewer holes for divine influence than do humanities’ accounts.
+
+
+title: Social Science Cuts Religiosity
+
+date: August 7, 2009 11:30 pm
+

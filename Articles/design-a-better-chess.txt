@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Friday the Wall Street Journal published my review of Garry Kasparov’s new book Deep Thinking. I end with:
+I’ve always been a bit skeptical of the high status of chess champions, whom many consider intellectuals (rather than, say, sports stars). But in “Deep Thinking,” Mr. Kasparov has changed my mind. He praises Mikhail Botvinnik, the founder of the Soviet chess school where he trained, for practicing an “intense regime of self-criticism.” Chess champions are rewarded for brutal honesty about their habits and strategies. If only most tenured professors and business executives were this conscious of their limitations and blind spots.
+“Few young stars in any discipline are aware of why they excel,” Mr. Kasparov writes. Like Mr. Kasparov, I don’t know why he was great. But I know now why I’m glad we have him. We need at least a few of our most celebrated minds to be this intellectually honest with themselves, and with us.
+While all sports reward honesty and self-criticism on your sports performance, in more intellectual sports that honesty can more influence your opinions on more important topics. Which raises the question: can we design a game that promotes even more useful honestly? As I spent some of my youth doing game design, and had a friend who shared that interest, I know that designing games is hard; there are many relevant constraints of which most players are unaware (see the usual literature). For this game design task, all those usual constraints apply, and we must attend to some added criteria:
+
+Relevant: We’d like the topics where this game rewards insight and understanding to be closer to the topics that matter, where brutal honesty would be more useful to the world.
+Fair: Even with relevant topics, the game can’t seem to greatly favor people who by class or culture get much more direct personal info and experience regarding those relevant topics. Anyone should be able to learn the game by playing it.
+Fragmented: Performance must be broken into many little games, where winning one game gives little or no direct advantage in future games. Thus consistent wins allow strong inferences on underlying ability.
+Isolated: Players can’t easily get help from hidden allies outside the game.
+Status: Chess is seen as very high status, because so many high status people have treated it as high status for so long. Somehow this new game needs to have a shot at achieving a status that high.
+
+If these criteria could be met, high capability people might try to achieve status by consistently winning at this game, the opinions they generate on relevant topics might be more honest and accurate, and the rest of us might then be more inclined to listen to those accurate and relevant opinions.
+
+
+title: Design A Better Chess
+
+date: May 22, 2017 9:00 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Arnold Kling:
+Robin Hanson asks why parking should be free, when there are thousands of other goods with low marginal cost that are not free. My basic answer is that there are thousands of other goods with low marginal cost that are free. I think of free parking as a form of bundling, where the supplier of a priced good (a house, or a store) throws in another for free. If you think bundling is exceptional, then you must be shocked every time you buy a car with cup holders, a cell phone with a camera, or a computer that comes with a USB port, a WI-FI antenna, and word processing software. …
+Yet another relevant margin is land use. How much land should be used for parking and how much should be used for other purposes? … Along which of these margins is there the proverbial $20 bill lying on the sidewalk for policy makers to pick up? The Shoup argument that Tyler Cowen is advancing seems to be that government forces the bundling of free parking. Take away the government distortion, and you would see a lot less free parking. Maybe, but I keep wondering how much more bundling government encourages beyond what would take place, anyway, and whether that additional bundling is such a bad thing.
+Take two random products or services A and B; what are the chances that those two are sold in a bundle that includes both A and B?  Pretty dang low.  So in this sense bundling is the exception, not the rule.  Yes in the absence of government rules many firms would in fact bundle parking with their product.  But what is at issue are government rules requiring a large number of parking spaces be bundled with many products.  Shoup goes to a lot of trouble to try to quantify the large distortions, especially along the land use margin, caused by forcing too much parking to be bundled with many products.  It is just not very responsive to say “you never know, maybe firms would have wanted to bundle that much parking with their products.”  Surely regulations should be supported by stronger arguments than this.
+
+
+title: Response to Kling
+
+date: August 17, 2010 10:00 am
+

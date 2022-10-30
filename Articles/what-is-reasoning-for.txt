@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+People and institutions usually prefer to explain their behaviors in self-serving and self-flattering ways. For example, we usually explain human abilities to create and evaluate chains of reasoning in terms of truth – by reasoning we can better see what is true (including truths about what we want to do).
+I’m a little late to the response party, but back in April Mercier and Sperber published their theory that reasoning is designed more to help people persuade others, than to infer truth:
+Reasoning is generally seen as a means to improve knowledge and make better decisions. … Our hypothesis is that the function of reasoning is argumentative. It is to devise and evaluate arguments intended to persuade. … A wide range of evidence in the psychology of reasoning and decision making can be reinterpreted and better explained in the light of this hypothesis. … Reasoning is not only for convincing but also for evaluating arguments, and that as such it has an epistemic function. (more; ungated)
+Many of their critics, however, noted that reasoning could serve even more functions. Mercier and Sperber responded that such other functions were of only minor importance:
+Several commentators, while agreeing that argumentation may be an important function of reasoning, suggest that it may serve other functions, as well. … Our claim is that argumentation is the main function of reasoning. …
+Dessalles and Frankish suggest that argumentation could have evolved as a means to display one’s intellectual skills. Indeed, argumentation can be put to such a use. However, … reasoning is more like a crow’s than a peacock’s tail: It may be a bit drab, but it serves its main function well. Its occasional use, for instance, in academic milieus, to display one’s intellectual skills is unlikely to contribute to fitness to the point of having become a biological function, let alone the main function of reasoning. …
+Pietraszewski … draws attention to a … class of cases … [where] who is arguing should be just as important as what they are saying when considering the ‘goodness’ of an argument” … The main relevance of a communicative act may be … in the very fact that it took place at all; it may have to do with … signaling agreement and disagreement. This can be done in particular by using arguments not so much to convince but to polarize. …
+Frankish points out that reasoning can be used to strengthen our resolve by buttressing our decisions with supporting arguments.
+Notice that, relative to the usual story of reasoning’s function, Mercier and Sperber offer a less flattering than usual explanation for argument speakers, but not for argument listeners. That is, Mercier and Sperber accept the self-flattering story of those who hear arguments, that they mainly just want to figure out what is true about the content of the topics argued.
+So what might listeners of arguments be up to instead? As the critics above suggest, listeners could be trying to gauge speaker impressiveness, or the social support the speaker can muster in his or her conflicts. Also, listeners could be trying to figure out what they will say in response, in argumentation contests with many possible criteria for who wins. And argument listeners might try to gauge what positions will become accepted by a wider community, to help them decide what positions to personally support.
+Once you give it a bit of thought, you can see many possible and even plausible explanations for human reasoning abilities, beyond the simple self-flattering story that we are trying to figure out what is true about the topic of our reasoning.
+
+
+title: What Is Reasoning For?
+
+date: August 18, 2011 6:00 pm
+

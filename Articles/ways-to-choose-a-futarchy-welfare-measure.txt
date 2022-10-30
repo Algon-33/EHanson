@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+In my futarchy proposal, I suggest a big change in how we aggregate info re our policy choices, but not in how we decide what outcomes we are trying to achieve. My reason: one can better evaluate proposals that do not change everything, but instead only change a bounded part of our world. So I described choosing a “national welfare function” the way we now choose most things, via a legislature that continually passes bills to edit and update a current version. And then I described a new way to estimate what policy actions might best increase that welfare. (I also outline an agenda mechanism for choosing which policy proposals to evaluate when.)
+In this post, I want to consider other ways to choose a welfare function. I’ll limit myself here to the task of how to choose a function that makes tradeoffs between available measured quantities. I won’t discuss here how to choose the set of available measured quantities (e.g, GDP, population, unemployment) to which such functions can refer. Options include:
+1) As I said above, the most conservative option is to have an elected legislature vote on edits to an existing explicit function. Because that’s the sort of thing we do now.
+2) A simple, if radical, option is to use a “market value” of the nation. Make all citizenships tradeable, and add up the market value of all such citizenships. Add that to the value of all the nation’s real estate, and any other national assets with market prices. With this measure, the nation would act like an apartment complex, maxing the net rents that it can charge, minus its expenses. (A related option is to use a simple 0 or 1 measure of whether the nation survives in some sufficient form over some very long timescale.)
+3) A somewhat more complex option would be to define a simple measure over possible packages of measured quantities, then repeatedly pick two random packages (via that measure) and ask a random citizen which package they prefer. Then fit a function that tries predict current choices. (Like they do in machine learning.) Maybe slant the random picks toward the subspaces where citizen choice tests will add the most info to improve the current best fit function.
+4) An option that requires a lot of complexity from each ciziten is to require each citizen to submit a welfare function over the measured quantities. Use some standard aggregation method to combine these into a single function. (For example, require each function to map to the [0,1] interval and just add them all together.) Of course many organizations would offer citizens help constructing their functions, so they wouldn’t have to do much work if they didn’t want to. Citizens who submit expensive-to-compute functions should pay for the extra computational that they induce.
+5) Ralph Merkle (of Merkle-tree fame) proposed  that “each citizen each year report a number in [0,1] saying how well their life has gone that year”, with the sum of those numbers being the welfare measure.
+I’m sure there must be other interesting options, and I’ll add them here if I hear of some. Whatcha got?
+A common issue with all these mechanisms is that, under futarchy, every time a bill is considered, those who trade on it acquire assets specified in terms of the then-current national welfare measure. So the more often that the official welfare measure changes, the more different kinds of assets are in circulation. These assets last until all the future measures that they refer to are measured. This is a reason to limit how often the official measure changes.
+Inspired by a conversation with Teddy Collins.
+Added 22Aug: Some polls on this choice:
+
+Only answer this if you answered poll above. Do you expect that your preferred option is better than having a legislature create & update it, like we do with most govt rules today?
+— Robin Hanson (@robinhanson) August 22, 2019
+
+The status quo approach is the most popular option, followed by market value and then fitting random picks.
+
+
+title: Ways to Choose A Futarchy Welfare Measure
+
+date: August 21, 2019 9:00 pm
+

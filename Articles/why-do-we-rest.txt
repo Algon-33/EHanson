@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+From Age of Em, paperback edition, p. 195-6:
+Today, mental fatigue reduces mental performance by about 0.1 percent per minute. As by resting we can recover at a rate of 1 percent per minute, we need roughly one-tenth of our workday to be break time, with the duration between breaks being not much more than an hour or two. We seem to prefer to take a break once an hour, relative to having breaks more often. Breaks help productivity more when they are short and frequent, when they happen in the morning relative to afternoon, and when the activities during breaks are preferred, social, work-related, and outside the office. There is also evidence suggesting productivity gains from napping for ten to thirty minutes one or a few times a day; a thirty-minute nap four times a day seems enough to stop performance deterioration.
+While we seem to “need” breaks from work, many of our break activities often look a lot like “work”, in being productive and taking energy, concentration, and self-control. So what exactly is “restful” about such “rest”? Yesterday, I realized that the continuing generosity of a few hundred my Twitter followers to answer many poll questions offers a way to dig a big deeper:
+
+A lunchtime/evening break from work is “restful” to the degree that you are more productive after the break. On a 0 to 100 scale, with 0 being continuing with usual work tasks, & 100 being most restful activity there is for you, rate these 20 activities on restfulness per hour.
+— Robin Hanson (@robinhanson) October 31, 2020
+
+Here are the results, sorted by mean restfulness:
+
+As this mean uses the midpoint of each range, it overestimates near 10, as then most responses are in the lowest range. I’ve marked in red and blue two clumps with close means.
+Note that even the blue clump is only half of maximum restfulness, and that one item in the red clump is to continue with work, but switch to rarer tasks. Clearly we can’t be doing this stuff only to regain productivity, or we’d either pick the max restfulness activity or do a “restful” work activity. Note also that there are clearly break activities that don’t give much rest at all. So this can’t be only about changing what you do periodically.
+So why do we “rest”?
+
+
+title: Why Do We ‘Rest’?
+
+date: November 1, 2020 10:15 am
+

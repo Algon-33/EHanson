@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Gladwell:
+The psychologist Ellen Langer once had subjects engage in a betting game against either a self-assured, well-dressed opponent or a shy and badly dressed opponent (in Langer’s delightful phrasing, the “dapper” or the “schnook” condition), and she found that her subjects bet far more aggressively when they played against the schnook. They looked at their awkward opponent and thought, I’m better than he is. Yet the game was pure chance: all the players did was draw cards at random from a deck, and see who had the high hand. This is called the “illusion of control”: confidence spills over from areas where it may be warranted (“I’m savvier than that schnook”) to areas where it isn’t warranted at all (“and that means I’m going to draw higher cards”).
+I was once a shy badly dressed person who didn’t understand why people kept underestimating him.  Now I know.
+
+
+title: Shy And Badly Dressed
+
+date: August 2, 2009 7:00 am
+

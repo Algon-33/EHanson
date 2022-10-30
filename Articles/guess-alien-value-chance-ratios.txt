@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Continuing the discussion about yelling to aliens at Cato Unbound, I ask:
+Regarding a choice to yell on purpose, there are two key relevant parameters: a value ratio, and a chance ratio.
+The value ratio divides the loss we would suffer if exterminated by aliens by the gain we would achieve if friendly aliens were to send us helpful info. I’d guess this ratio is at least one thousand. The probability ratio divides the chance that yelling induces an alien to send helpful info by the chance that yelling induces an alien to destroy us. I’d guess this ratio is less than one hundred.
+If we can neglect our cost or value regarding the yelling process, then we need only compare these ratios. If the value ratio is larger than the chance ratio, yelling is a bad idea. If the value ratio is smaller than the chance ratio, yelling is a good idea. Since I estimate the value ratio to be larger than the chance ratio, I estimate yelling to be a bad idea. If you disagree with me, I want to hear your best estimates for these ratios. (more)
+What are your estimates?
+
+
+title: Guess Alien Value, Chance Ratios
+
+date: December 10, 2014 3:50 pm
+

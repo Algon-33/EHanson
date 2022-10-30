@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Regarding signaling issues in relationships, couples often say “Yes that was tough, but thankfully we are past that now.”  They think that yes they had to do lots of signaling as they were getting to know each other, but now that they know each other well there is no need for such things.  In Spent, Geoffrey Miller also didn’t think it made sense to signal to your close friends and associates via what you wear or the music you like, etc.; your friends already know you well, after all.
+A man sometimes thinks that after all he has done for a woman surely she must know he loves her and he doesn’t need to keep showing it by saying so, giving gifts, holding doors, etc.  Usually such men are in for a rude awakening.  Signals are forever, because we can always change.  Yes, she might have been very sure that he loved her last year, but today there is a small nagging doubt about whether he still loves her.  So he must continue to signal to reassure her.
+He might think that since the chance is very small that his love has changed since yesterday, the signal needed to reassure her is also very small.  But in the simplest standard signaling models, the amount that each type must signal is independent of the distribution of types; it only depends on what types have a non-zero probability.  As long as there is any chance that your love has changed, if you don’t signal your continued love she may well conclude that your love has in fact changed.  And you have to work hard enough with your signal to distinguish yourself from someone who doesn’t care as much as you.
+Even if you’ve come to work in a suit and tie for twenty years, the day you come in a bathing suit, your coworkers may well suspect that your work ethic has changed.  So you have to wear that suit one more day.
+
+
+title: Signals Are Forever
+
+date: June 23, 2009 6:00 am
+

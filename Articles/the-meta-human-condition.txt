@@ -1,0 +1,44 @@
+author: Kip
+
+text: 
+Consider these points:
+
+Our entire life stories are fixed by our genetics and our childhood environment (nature and nurture, more broadly), both of which we did not choose;
+Our bodies are slowly growing more frail and debilitated until we die of something such as heart disease, cancer or stroke (or accident before then);
+Even if someone develops a cure for aging, most of the experts who have studied the issue estimate about a 50/50 chance that our species will survive this century;
+We live on a giant rotating planet, in an unimaginably large universe that is almost all empty space, and appears to be lifeless;
+The fact that we were designed by evolution to value or desire certain things doesn’t seem to justify actually valuing or desiring them;
+While most people believe in some sort of religion that provides cosmic context, the thousands of religions contradict each other, and all appear to be fictions created by men;
+While most people believe in an “afterlife,” people don’t believe that parts of a crazy person’s mind go to Heaven when he loses them; by extrapolation, all of a person’s mind doesn’t go to Heaven when you lose all of it. 
+
+
+
+
+
+
+
+My point is not to push these beliefs onto anyone who resists them.  I suspect, though, that most OB readers already think they are facts.  And I suspect that many otherwise religious people, in their heart of hearts, already believe the above too.
+My point, instead, is to make an observation about the above set of facts, which I’ll call “the human condition,” in the pessimistic sense.  My observation is this: while all of the above facts can be considered an insult or injury, there is one more that goes largely unnoticed.  The final insult is that we are not supposed to talk about the human condition.  Indeed, we are not even supposed to acknowledge its existence.  I call this last insult the “Meta-Human Condition”—the salt in the wound. 
+  
+Many would question whether the Meta-Human Condition is salt in the wound.  They regard the silence as good instead of bad.
+I think it’s bad.  My inclination is not based on a Kantian duty to tell the truth.  I’m a consequentialist.  I would gladly lie, or torture, if necessary, to bring about a greater good.  Putting aside Cypher’s betrayal of his friends in the Matrix, he seems right to say that “ignorance is bliss.”  If the human condition is really as dire as I say it is, is it a good idea to rub people’s noses in it?  You might say: let us at least enjoy the food, movies, sex, books, travel and people here, while we are briefly alive, without spoiling our fun.
+While the main reason for the Meta-Human Condition may be wishful thinking, another main reason is concern about law and order.  Some ask: if God does not exist, then is everything permitted?  Steven Pinker rightly notes that, contrary to liberal fantasies about noble savages, banks will be robbed hours after the police go on strike.
+Still, I think we should point out the human condition.
+Some of my motivation for doing so is selfish.  First, I think I’m better-than-average at identifying wishful thinking.  So whenever I see it, I point it out.  I’m just showing off.  People see me do it, and think (I hope) “wow, he’s right, those people just believe X because they want X to be true, and not because X is true.”  Of course, this only impresses the people who already agree with me.  Nobody likes the guy who bursts their bubble.
+Second, I want empathy, sympathy, solidarity, even pity.  The human condition is pitiful and deserves pity.  But, because of the Meta-Human Condition, I don’t get it.  I’m not alone in this regard.  Anyone brave or honest enough to acknowledge the terror of the Human Condition does not get pity, or empathy, or sympathy, or solidarity.  Instead, most everyone acts as if life is just peachy.  They wonder what is so weird, and wrong, about those of us who beg to differ.
+But there are also non-selfish reasons for pointing out the human condition.  I believe that we will be more likely to help the one in dire straits, if we acknowledge that we, ourselves, are in dire straits.  There will be less in-group versus out-group fighting, if we acknowledge that we are all in the same boat.  It is harder to lay a hand on someone who has already received such devastating blows.
+My last reason is partly selfish and partly unselfish: the Meta-Human Condition thwarts attempts to fix the Human Condition.  That’s the lesson of learned helplessness studies: dogs won’t press a button to stop electric shocks if they’ve previously come to believe the button is worthless.  Aubrey refers to a similar idea himself: the “catatonia” that afflicts modern biogerontologists, preventing them from recognizing the urgency of the situation.  As Eliezer wrote, in one of my favorite quotes, “if people got hit on the head by a baseball bat every week, pretty soon they would invent reasons why getting hit on the head with a baseball bat was a good thing.”
+Today, there are people trying to eliminate parts of the Human Condition.  Eliezer wants to build a Friendly AI, which could fix a surprisingly large chunk of the Human Condition.  Aubrey is working on the more modest, but still Herculean, task of curing aging.  Both of these guys don’t get enough funding because of the Meta-Human Condition.  Most people won’t pay for a solution if they don’t want to believe that there is a problem.
+I’ll end with an analogy for the Meta-Human Condition and the Human Condition: the Titanic.  If we are all in the same boat, it is sinking.  The story of the Titanic squeezes the entirety of a human life into a single night.
+That, perhaps, is part of the story’s appeal.  Everyone can relate to the poor souls trapped that boat.  Those people were alone in the ocean, destined to die, just as we appear alone in our universe, destined to die.
+Suppose you're on the Titanic.  Suppose you know that we’ve hit the iceberg.
+If you believe that there is any chance to save yourselves, you know what to do: hurry and find a life raft or emergency boat.  That’s what Eliezer and Aubrey are doing.  They’re the guys on the boat, reminding us that we’ve hit an iceberg.  If we think there’s a chance that we can save ourselves, then we should try.  That’s the easy question.
+Now consider the hard question.  Suppose you know that, in this alternative world, everyone dies.  There are no life rafts.  When you tell people about the iceberg, they don’t believe you.  “Hit an iceberg?  You have quite an imagination, young man.  Please.  Have a cigar and sip some cognac.  This ship has a fine captain.  He is in perfect control and will keep us safe.”
+Do you persist in trying to convince them of the horror of the situation?  Or do you take the cigar and cognac, dance with a beautiful woman, and sing a grand old song, at least for another hour or two?
+I would still want to tell them.  But maybe I’m just mean.
+
+
+title: The Meta-Human Condition
+
+date: December 29, 2008 10:00 am
+

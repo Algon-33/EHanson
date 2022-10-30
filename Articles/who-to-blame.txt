@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Since I’m an economist, people ask me who to blame for this finance mess.  I’m with Michael Lewis: 
+
+Christopher Cox … [is] chairman of the Securities and Exchange Commission, and so has the job of regulating these companies that helped make it possible for every poor American to get a mortgage and are now, as a result, falling apart. … He went as far out of his way as he could to enable the brokerage firms by harassing the small group of informed financial people who have been trying to tell the truth to the markets: the short sellers. They bet against the stock price of a company and so have always had a bad reputation with the public. But in this case, they are the closest thing we have to heroes.
+A man named David Einhorn is a case study. He runs a hedge fund called Greenlight Capital, which sells short some stocks and buys others. That is, he doesn’t just bet against companies but for them, too. Still, for some time now, he’s been standing up in front of large audiences, announcing that he was short Lehman Brothers stock, and then explaining in great detail its dubious accounting practices. The SEC responded by demanding to see his firm’s e- mail, hinting darkly that he was part of some conspiracy to drive Lehman Brothers out of business, and generally making him feel that he’d pay a price for telling the truth.
+
+ Hat tip to Hopefully Anonymous.
+Added: Far from being sorry, they are working hard to make things worse!
+
+ Federal regulators yesterday took measures aimed at reining in aggressive forms of short-selling that were blamed in part for the demise of Lehman Brothers and that some feared could be used against other vulnerable companies in a turbulent market. … In a further move, SEC Chairman Christopher Cox said he planned to ask his four fellow commissioners to consider on an emergency basis a new rule that would require hedge funds and other large-scale investors to disclose their short positions … Critics say the SEC action comes too late to stem a tide of short-selling attacks that have felled huge, venerable companies. They want a prohibition on all naked short-selling.
+
+Putting more restrcictions on short than on long trades is trying to shoot the bad-news messenger.  If we had instead been encouraging people to come forward with bad news, maybe we could have dealt with this problem earlier, when it was a smaller.  
+
+
+title: Who To Blame
+
+date: September 18, 2008 6:00 am
+

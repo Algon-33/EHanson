@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+It is usually bad for people to die, and so good for them to keep living. Overall in our society, people who weigh more for their age and gender tend to die more, and so many are concerned about an “obesity epidemic”, and seek ways to reduce people’s weight, such as by getting them to consume fewer calories. Such as from drinking sugary soda.
+TIME magazine says that evil soda firms, like evil tobacco firms before them, are lying about science to distract us from their evil:
+You may not have noticed it yet, but sodamakers are working hard to get you off your couch. On Aug. 9, a New York Times article revealed that Coca-Cola was quietly funding a group of scientists called Global Energy Balance Network that emphasizes the role of exercise, as opposed to diet, in fighting obesity. … This has some nutrition and obesity experts charging soda companies, whose sales of carbonated soft drinks have hit a 20-year low, with cherry-picking science to make its products more appealing. … Indeed, there isn’t strong evidence to show that exercise alone … can help people shed pounds and keep them off. … It’s not the first time science has been used to sway public perceptions about the health effects of certain behaviors; the tobacco industry famously promoted messaging passed on studies that claimed to prove that “light” or “low-tar” cigarettes were less harmful that regular ones. (more)
+Yes, it is true that the literature usually suggests that for most people exercise won’t do much to change their weight. However, another consistent result in the literature (e.g., here, here) is that when we predict health using both weight and exercise, it is mostly exercise that matters. It seems that the main reason that heavy people are less healthy is that they exercise less. Obesity is mainly unhealthy as a sign of a lack of exercise.
+So if we cared mainly about people’s health, we should cheer this effort by soda forms to push people to exercise. Even if that also causes people to cut down less on soda. A population that exercises more doesn’t weight much less, but it lives much longer. In fact, exercise seems to be one of the biggest ways we know of by which an individual can influence their health. (Much bigger than medicine, for example.)
+I suspect, however, that what bothers most people most about fat people isn’t that they’ll die younger, its instead that they look ugly and low status, and so make them also look low status by association. So we don’t want people near us to look fat. All else equal we might also want them to live longer, but that altruistic motive can’t compete much with our status motive.
+So boo soda firms if you want your associates to not seem low status. But yay soda firms if you want people to live and not die (sooner).
+Added 11a: The New York Times reports this as the main message:
+… Global Energy Balance Network, which promotes the argument that weight-conscious Americans are overly fixated on how much they eat and drink while not paying enough attention to exercise. Health experts say this message is misleading …
+Actually that message seems exactly right to me, and not at all misleading.
+
+
+title: Yay Soda Firms
+
+date: August 16, 2015 8:45 am
+

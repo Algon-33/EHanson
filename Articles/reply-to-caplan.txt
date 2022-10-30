@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Regarding Minimal Morality, Bryan Caplan complains:
+Robin Hanson has come up with the least plausible moral principle since “Might makes right”: “Usually it is fine to do what you want, to get what you want.”  Robin manages to make his principle seem less crazy by focusing on mundane self-regarding activities. … When is it not fine to do what you want, to get what you want?  When you’re preventing other people from doing what they want, to get what they want.  But what if you want to prevent other people from doing what they want, to get what they want?
+Let me clarify:
+
+ I was focused on moral intuitions about goodness of outcomes, not rightness of actions.  I set aside issues of when it is wrong to do good, or not wrong to not do good.
+Wanting to want, wanting others to want, and wanting others’ wants to be frustrated, all count as wants, and can be weighed just like ordinary wants when considering outcome goodness.
+ I was only trying to argue that most case-specific moral intuitions on goodness fit the pattern that it is usually good for someone to get more of what they want, if everyone else gets the same of what they want, and no other special considerations apply.  Elsewhere I told Bryan why economic efficiency is a good metric if goodness increases as each person gets more of what they want.
+
+
+
+title: Reply to Caplan
+
+date: May 30, 2009 12:00 pm
+

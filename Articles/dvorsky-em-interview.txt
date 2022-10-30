@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+The always thoughtful George Dvorsky just posted an interview with me on ems at io9. Dvorsky calls my scenario “Dystopian”:
+These days, people worry about robots stealing our jobs. But maybe we should be more concerned about massive populations of computerized human brains. … Disturbingly, Hanson predicts that human servants could become status symbols among the rich.
+“But to survive, most humans would need assets other than their ability to work,” Hanson told io9. “Like stocks, bonds, real estate, or patents. Humans without such assets may or may not get charity from other humans. Em charity to humans may focus on offering humans a chance to become ems.”
+Disturbing, no? Hanson made it clear to me that his analysis is designed to forecast likely outcomes, and not those outcomes we currently desire. …
+“In virtual reality, ems need never experience physical pain, hunger, disease, or grit,” says Hanson. …
+Given these near-Dystopian scenarios, I asked Hanson what would motivate ems and why they would choose to cooperate with traditional power structures. …
+As if a lot of this isn’t already grim enough, ems will have to deal with a host of other concerns. For example, a stolen copy of an em mind could be tortured to extract secrets, or enslaved to compete with the original. … Regardless, the future that Hanson describes is a far cry from what many of us are hoping for. Living as a stream of 1’s and 0’s may have its benefits — but a digital utopia has never seemed more elusive.
+I wish Dvorsky would made it clearer what parts of this scenario he most dislikes. Then we could talk more productively about how to make it better. Perhaps I should have emphasized that with investments doubling monthly, humans might quickly turn even a small initial investment into a king’s ransom.
+
+
+title: Dvorsky Em Interview
+
+date: February 24, 2014 2:45 pm
+

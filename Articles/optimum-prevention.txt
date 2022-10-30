@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Assume you use prevention efforts P to reduce a harm H, a harm which depends on those efforts via some function H(P). If you measure these in the same units, then at a prevention optimum you should minimize P+H(P) with respect to P, giving (for an interior optimum) dH/dP = -1.  And since in general dlnX = dX/X, this implies:
+-dlnH/dlnP = P/H.
+That is, the elasticity of harm with respect to prevention equals the ratio of losses from prevention to losses from harm. (I previously showed that this applies when H(P) is a power law, but here I’ve shown it more generally.)
+Yesterday I estimated that for Covid in the U.S., the ratio P/H seems to be around 5.3. So to be near an optimum of total prevention efforts, we’d need the elasticity -dlnH/dlnP to also be around 5.3. Yet when I’ve done polls asking for estimates of that elasticity, they have been far lower and falling. I got 0.23 on May 26, 0.18 on Aug. 1, and 0.10 on Oct. 22. That most recent estimate is a factor of 50 too small!
+So you need to argue that these poll estimates are far too low, or admit that in the aggregate we have spent far too much on prevention. Yes, we might have spent too much in some categories even as we spent too little in others. But overall, we are spending way too much.
+Note that if you define P to be a particular small sub-category of prevention efforts, instead of all prevention efforts, then you can put all the other prevention efforts into the H, and then you get a much smaller ratio P/H. And yes, this smaller ratio takes a smaller elasticity to justify. But beware of assuming a high enough elasticity out of mere wishful thinking.
+
+
+title: Optimum Prevention
+
+date: October 23, 2020 7:45 am
+

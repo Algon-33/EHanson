@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Many developing countries use food-price subsidies or price controls to improve the nutrition of the poor.  However, … consumers may then substitute towards foods with higher non-nutritional attributes (e.g., taste), but lower nutritional content per unit of currency. … We analyze data from a randomized program of large price subsidies for poor households in two provinces of China and find no evidence that the subsidies improved nutrition.  (more)
+This of course seems to be the median result for all randomized studies which try to improve people: no effect.
+In the recent Fast Food episode of Penn & Teller’s Bullshit!, Brian Wansink of the Cornell Food & Brand Lab was shown separately asking two different groups to estimate the calories in a western chicken salad they had just eaten. Those told correctly that it was from Taco Bell correctly estimated its 970 calories, while those who were told it came from “California Garden Cafe; Gourmet garden-fresh cuisine” guessed about half as many calories.  Since one of main anti-fast-food proposals is for clearly-marked calorie counts on menus, this lab result suggests such proposals would hurt non-fast-food places more.  Anyone know how robust is this lab result, or if the proposals apply equally to all food sales?
+
+
+title: Food Subsidy Fails
+
+date: July 22, 2010 10:00 am
+

@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Imagine that actors (and actresses) have two main features:
+
+ Looks – we like to watch pretty/handsome actors,
+ Acting ability – engaging body/face/voice motions for a role.
+
+Now on average comedic roles tend to be filled with less attractive actors.  Since there are more less attractive actors to choose from, a director can be more selective about acting ability when picking an actor for a comedic role.  If so, holding constant the resources devoted to a role, on average actors filling comedic roles should have higher acting abilities.  
+But acting awards famously slight comedic roles, preferring actors who fill "dramatic" roles.  Some possible explanations:
+
+Yes, acting awards don't go to the best actors.  What did you expect?
+More resources are devoted to dramatic roles, relative to comedic roles.
+This two feature model is too simplistic, and a richer model explains it all.
+
+What say ye?
+Added 14Apr: Even if one assumes that comedic acting abilities are different abilities from other acting abilities, the argument goes through if comedic abilities are just as widely available among humans as other acting abilities, relative to the number of comedic roles to fill relative to other roles.
+
+
+title: Comedic Actors Slighted?
+
+date: April 13, 2009 2:00 pm
+

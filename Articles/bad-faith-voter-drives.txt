@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Brian Weatherson wonders why profs may push voting in general but not particular candidates: 
+
+My university (Rutgers) is fairly actively encouraging students to register to vote. And I’ve occasionally done a bit to help, hosting students who do a spiel on voter registration and personally encouraging students to vote.  Now I think this is all a good thing. Voting is a good thing, and a healthy democracy requires a decent turnout of voters, so doing our little bit to help democracy is being on the side of the good. … 
+But it seems it would be seriously wrong for either Rutgers, or for me, to use our positions of authority to promote voting for Obama.  And I think this isn’t a particularly controversial position.  But it’s a little hard to say just exactly why it’s OK for Rutgers (and me) to do what we’re doing, and not do what we’re not doing. … 
+It’s worth noting that there’s a degree of bad faith in all of this. We don’t think that we should be advocating Obama’s election. But we all know that encouraging more college students to vote will, on net, boost Obama’s vote totals. …
+
+  
+
+ If the state of New Jersey spent millions of dollars advocating for Obama’s election, that would seem like a violation of some plausible democratic principles. …  Since Rutgers is a state university … and since I’m at the head of a class in virtue of my position in Rutgers, those rules should apply to me too. So that looks like a good reason that partisan advocacy in a classroom is out of bounds. It even suggests a reason why partisan advocacy is different to voter registration work. It is a legitimate state interest to have as many people as possible (legally) voting.
+
+ No, having as many people as possible voting is not a legitimate public interest.  To maximize the chance that we elect the better candidate, we do not want people to vote if they are so ill-informed that by voting they will decrease this chance.  And even if someone’s vote would increase this chance, if the increase is infinitesimal the fact that voting is costly can make us prefer he or she just stay home.  
+ If the act of voting tends to show an acceptance of the legitimacy of the political process, and if it is a good thing that citizens consider their political process legitimate, then more votes would be a sign of a good thing.  But that wouldn’t at all mean that just pushing people to vote is a good thing.  
+ Consider an analogy with grades.  Having students learn more is a legitimate interest of schools, and if students learn more they should get better grades.  But it is a fraud for schools to raise student grades when they have not actually learned more.  Similarly, it might be good things if citizens were better informed and considered their political process legitimate, and these good things might show themselves via more votes.  But just pushing more people to vote, without their actually becoming more informed or considering the process more legitimate, is also a fraud. 
+ Brian, as an agent of the public you could legitimately push your students to vote if you, together with a counterfactual Brian with opposite partisan leanings, could both agree (and convince the public you had so agreed) that your students are informed enough that by voting they would substantially increase the chance we elect better candidates.  Or perhaps you might agree that your students accept the political process more than their votes indicate.  But if not, your voting advocacy is just a bad faith attempt to hide a partisan effort to push particular candidates.
+
+
+title: Bad Faith Voter Drives
+
+date: October 9, 2008 6:00 am
+

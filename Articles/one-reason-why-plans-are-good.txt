@@ -1,0 +1,20 @@
+author: Andrew
+
+text: 
+One of the small puzzles of decision analysis is that:
+(a) Plans have lots of problems–things commonly don’t go according to plan, plans notoriously exclude key possibilities that the planner didn’t think of, plans can encourage tunnel vision, etc.  But . . .
+(b) Plans are helpful.  In fact, it’s hard to do much of anything useful without a plan.  (I’m sure people will come up with counterexamples here, but certainly in my own work and life, not much happens if I don’t plan it.  Serentipitous encounters are fine but don’t add up to much.
+Beyond this, one could add that economic activity seems to work well with minimal planning (just enough structure and rules to set up "the marketplace") but individual actors plan, and need to plan, all the time.
+This puzzle is particularly interesting to me as I do work in applied decision analysis.
+So what’s the solution to the puzzle?
+  
+I don’t really have a solution, but in talking with Dave Krantz yesterday I thought of one advantage of plans, even bad plans.  Suppose you have a particular goal and are setting up a plan, considering two decision options, A or B.  According to the plan, decision A will work by first implementing step 1, then step 2.  Decision B will work by first implementing step x, then step y.  Graphically:
+option A –> 1 –> 2 –> Goaloption B –> x –> y –> Goal
+This plan may have problems, but it clearly sets up the roles of 1,2,x,y.  Without the plan, it could be easy to hold both A and B in your mind simultaneously, blurring the distinction.  In particular, it could be easy to vaguely imagine that you could do step 1, then step y.
+To summarize:  one advantage of a plan is it enforces a certain logical consistency and can clarify the relations between intermediate steps.
+
+
+title: One reason why plans are good
+
+date: June 12, 2007 10:17 am
+

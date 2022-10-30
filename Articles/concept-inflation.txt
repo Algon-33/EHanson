@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Many places in the world claim to make the “world’s greatest hamburgers.”  So many places, in fact, that one is tempted to conclude that many folks have adopted some new meaning for the phrase “world’s greatest.” OK, the temptation is weak in this case, but I suspect that such meaning drifts are common, and that they make positive concepts less positive, and negative concepts less negative. Let me explain.
+Many words, like “excellent”, “genius”, “rude”, or “tyrant” have ambiguous borderlines, so that it isn’t clear to what cases the concepts do or don’t apply. In such borderline cases, we should expect people to choose their words strategically, to make they and their allies look good, and to make their rivals look bad. That is, we expect people to try be especially generous and loose in order to let them apply positive words to themselves or their allies, but to be especially strict and stingy in order to avoid applying such words to their rivals. For example, my modest insight seems “genius” to me, but your modest insight seems to me insufficient for such a lofty title. We also expect negative words to be applied reluctantly to allies, but generously to rivals. You were “rude,” but I was merely “thoughtless.”
+If the tendencies to apply a concept generously are not equally balanced by opposing tendencies to apply that concept strictly, then its meaning should drift in one direction or the other. For example, if people more often use a certain positive concept to describe themselves and their allies, and less often apply the concept to rivals, then we should expect its perceived meaning based on recent usage to drift to cover more cases. And since we expect the newly covered cases to be intrinsically less positive, we expect the concept to drift toward a less positive connotation. When more students get “A” grades, then “A” is less positive a distinction. Similarly, if we use negative concepts more often on rivals, we should expect those concepts to drive toward a less negative connotation.
+We do seem to use positive concepts to describe ourselves and our allies, more often than we use such concepts to describe rivals, mainly because we talk about ourselves and allies more than we talk about rivals. So we should expect such positive concepts to broaden and become less positive with time. Yet we still have many concepts with both ambiguous borderlines and substantially positive connotations. So there must be some opposing tendency that makes positive concepts get more positive. What is that tendency?
+Our tendency to talk more about ourselves and our allies than our rivals should make it more possible for negative concepts to retain a narrow application and strong negativity. Is this what we see – do negative concepts tend to be stronger and more restricted?
+
+
+title: Concept Inflation
+
+date: August 23, 2011 8:45 am
+

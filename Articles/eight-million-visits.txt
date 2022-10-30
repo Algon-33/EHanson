@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+If milestones mean something to you, here’s a new one. There is a lot it doesn’t catch, but the Sitemeter widget on this blog has been here from the very start, and it at least gives a consistent measure of traffic. And according to it, we’ve now had eight million visits here at OvercomingBias.com.
+
+
+title: Eight Million Visits
+
+date: February 25, 2015 8:00 am
+

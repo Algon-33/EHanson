@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Sports make sense as a way for individuals to develop and show off certain packages of physical and mental abilities. Team sports make sense as a way to show off such abilities in contexts of team production, which have long been especially relevant to human success. Of course we need not be consciously aware of this function; genetic and cultural evolution needed only make us inclined to do sports when that might make us get and look good.
+When two teams play each other, the final score is a good summary about the relative abilities of the two teams. Of course there’s more info to be gleaned from game details, but not that much more. And if you can’t study those game details well yourself, but must instead rely on the judgments of others, a final score is admirably resistant to bias and lobbying.
+Many sports have a regular season of games, following by a championship round designed to select a tree of “champions”, a tree whose root is the uber-champion of all. Often a “world champion”. This is somewhat puzzling, as individual championship games are not that much more diagnostic about team abilities than are regular season games, and there are far fewer championship games. Why count these games so much more than others?
+One could use an elo-rating type system to estimate the abilities of each team based on their pairwise scores. Or one could use even fancier statistical systems to estimate distributions over team abilities, using scores and other data. Within such systems, championship games would be just a few more games, and not be given extra weight. If we just want to know about team abilities, why put so much weight on championships?
+Arguably, through most of ancient history the main abilities that observers were interested in inferring and developing via sporting contests were war abilities. This is plausibly why most sports have long been team sports focused on war-like contests, relative to more common social contests. And in war, one mainly cares about abilities displayed in contexts where stakes are very high: hard battles where a large fraction of combatants die, as opposed to practice battles where at most a few are injured.
+So championships plausibly exist as a way to focus sporting displays on high stakes contexts. The closer a team gets to the root of the championship tree, the more is at stake in each game, and the better that game’s score becomes as a measure of player abilities in high stakes contexts.
+Yes, outside of sports the stakes do vary over contexts, and observers should want to see how individuals perform across a range of stake sizes. But as war is rare today, in our world success mostly comes from consistent quality over many low stakes contests, not from a few super-battles. Designing sporting contests to instead maximize an emphasis on the highest stakes possible seems better explained as a heritage of war. As are many other features of modern human attitudes and behaviors.
+
+
+title: Champions Show War Ability
+
+date: April 1, 2019 9:20 am
+

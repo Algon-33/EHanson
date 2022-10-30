@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Recently, 1539 people responded to this poll:
+
+~0.108T (trillion) humans have ever lived, & only 0.0078T are alive now. How many “humans” (however you mean that term) do you think will ever exist?
+— Robin Hanson (@robinhanson) April 16, 2020
+
+This pattern looks intriguingly bimodal. Are there in some sense two essentially different stories about the future? So I did a more detailed poll. Though only ~95 responded (thank you!), that is enough to reveal an apparently trimodal pattern:
+
+Respondents were asked to estimate the number of future creatures that most people today would call “human”, and also the number who would likely call themselves “human”, even if we today might disagree. The y-axis here is in terms of log10 units. In those units, world population today is 9.89 and ~11.03 humans have ever lived. So the highest number here, 20, is larger than the square of the number alive today.
+As you can see, respondents expect a lot more future creatures who call themselves “human”, relative to creatures we would call “human”. And substantial fractions seem to insist that these numbers are higher than any specific number you might mention (20 here). Among the rest, the most popular answer is the 11-12 range (i.e., 0.1-1 trillion “humans”). Note that this can’t be due to a belief that we face huge risks over the next few centuries; that belief suggests the answer <11.
+When I set aside the highest (>20) response, and fit a mixture of two lognormals to the rest of each response distribution, I find that regarding creatures we would call “human”, 50.1% of weight goes to a median estimate of 11.9, with (in log10 units) a sigma variation of only 0.22 around that median, 39% of weight to an estimate 13.4, with a much larger sigma of 2.5, and 11% weight to >20, i.e., very high. Regarding creatures who call themselves “human”,  a 45% weight is on estimate 12.0 with sigma 1.2, a 30% weight is on estimate 16.6 with sigma 2.0, and 25% weight on >20. (Such a lognormal mix fit to the first 4 option poll gives roughly consistent results: medians of 11.6, 15.4 with 61% weight on the low estimate, when both are forced to have the same sigma of 0.75.)
+Thus, responses seem to reflect either three discrete categories of future scenarios, or three styles of analysis:
+
+~1/2 say there will only ever be ~10x as many humans as there have been (~100x as many as living now), most all creatures who we’d call “human”. Then it all ends.
+~1/4 say our descendants go on to much larger but still limited populations. There are ~300x as many humans as have ever lived, and ~1000x that many weirder creatures, though estimates here range quite widely, over ~4 factors of 10 (i.e., “orders of magnitude”).
+~1/4 say our descendants grow much more, beyond squaring the number who have ever lived. Probably far far beyond. But ~1/2 of these expect that few of these creatures will be ones most of us would call “human”.
+
+The big question: does this trimodal distribution result from a real discreteness in our actual futures and the risks we will face there, or does it mostly reflect different psychological stances toward the future?
+
+
+title: Three Futures
+
+date: April 17, 2020 11:25 am
+

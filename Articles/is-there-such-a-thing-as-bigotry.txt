@@ -1,0 +1,12 @@
+author: David J. Balan
+
+text: 
+Statements of the form “members of Group X are, on average, less good along dimension A than are members of Group Y” are commonly regarded as bigoted.  The first instinct of someone committed to Overcoming Bias is to understand that statements like that are empirical statements that could be true or false, and if the evidence was that they were true, then saying so should not carry any moral taint.
+There is much to be said for this view, but to apply it in the broadest possible way would seem to require one to believe that there there is no such thing as bigotry at all; statements are either true or false, true ones are good and false ones are bad, and the intent with which they are offered is irrelevant.  I got to thinking about this in response to some comments that were left in response to this post about Israeli Jews and Arabs each thinking that members of the other group are “unclean.”  Some of the commenters seemed to think that the factual question of which group took more showers was the issue.  But this is a case where the facts are just about completely irrelevant.  It is perfectly possible that one group is objectively less clean  than the other.  It is clear, however, that charges of “uncleanliness” regarding a rival group, whether the uncleanliness is supposed to be physical or spiritual, whether it is real or imagined, is a way of arousing the emotion of disgust, which is often a necessary emotional precondition to hatred.  The actual facts about uncleanliness are beside the point, and the statements are a reflection of extremely worrisome bigotry.
+A working definition of a bigoted factual claim should be any claim, whether true or not, that is intended to have the effect of inducing disgust or hatred in members of another group.  As a practical matter it may be difficult to tease out when a particular true statement is offered with this intent (or whether members of the group in question might reasonbly suspect that it is offered with this intent, which is not necessarily the same thing) but I don’t see how one can avoid the conclusion that there is such a thing as a statement that is true but still bigoted.
+
+
+title: Is There Such a Thing as Bigotry?
+
+date: January 23, 2007 3:28 pm
+

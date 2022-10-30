@@ -1,0 +1,41 @@
+author: Robin Hanson
+
+text: 
+Food truck and fast food meals can be pretty skimpy. So wouldn’t it be great if we passed a diner’s bill of rights law, requiring all prepared food to come with free unlimited drinks, a fast human waiter, cloth napkins and tablecloths, and a seat by a window? Well no, that wouldn’t be great. All those food trucks and fast food places would go out of business, leaving diners only with the option to eat at expensive fancy restaurants.
+It might feel good to play Santa for free, handing out stuff that costs you little yet appears to benefit others lots. But something-for-nothings are usually illusions. Rights limit options, and that is generally bad.
+Yes, sometimes we can benefit strategically from having our options limited, but such situations are rare. Random limits on options are usually bad. So if you propose limiting options, you should be prepared to offer particular arguments for why your particular cases are in fact strategic exceptions.
+George Dvorsky says we should give lots of rights to ems:
+If we’re going to be making minds, we sure as hell need to do it responsibly. … This was the topic of Anders Sandberg’s talk … about the harm that could be inflicted on software capable of experiencing thoughts, emotions, and sensations. … Sandberg proposed that virtual [lab] mice be given virtual painkillers. Another issue is time-rate rights. Does a human emulation have the right to live in real-time, so that it can interact properly with non-digital society? …
+Back in 2010, … I proposed that the following rights be afforded to fully conscious human and human-like emulations:
+
+The right to not be shut down against one’s will
+The right to not be experimented upon
+The right to have full and unhindered access to one’s own source code
+The right to not have one’s source code manipulated against their will
+The right to copy (or not copy) oneself
+The right to privacy (namely the right to conceal one’s own internal mental states)
+The right of self-determination
+
+… I’d like to include Sandberg’s idea of time-rate rights.
+In the comments Dvorsky also likes a “right to have a body and senses.”
+But just as with a diner’s bill of rights, limiting options is in general bad. Ems would usually choose each new life, by negotiating with employers, landlords, etc. for a job, place, etc. for a new copy to live. So just as requiring free drinks with a meal can take away that meal as an option, requiring an em life to come with “a right to live in real time” may take away that life as an option. Since the cost to run an em is roughly linear in speed, prohibiting ems that can’t run faster than a thousand times slower than human speeds can in effect raise the cost of such ems by a factor of a thousand. That might greatly reduce the demand for such ems, and hence their number.
+Yes, there may be particular situations where limiting options helps ems, but we should expect to hear arguments for why particular cases are exceptions to the usual rule. Dvorsky offers no such arguments, and given how little we know about the em world it is hard to believe he’s worked out detailed arguments that he forgot to mention. Maybe Dvorsky just likes to play Santa for free?
+Btw, here’s a post where I criticize a similar effort by Greg Egan to give ems rights. See also Alex on harmful rights.
+Added: Just as we have good reasons to stop people from being forced to eat meals that they didn’t choose, we also have good reasons to stop ems from being forced to live lives they didn’t choose. We know lots about why property rights are often useful. More examples of bad random rights:
+
+The right to a bookstore that has certain random books.
+The right to a kitchen holding certain random spices and utensils.
+The right to a home with certain random furniture items.
+The right to a movie with certain random plot elements.
+The right to a laptop with certain random features and accessories.
+
+Added 10a: Anders’ talk is based on this paper; key quote:
+A divergent clockspeed would make communication with people troublesome or impossible. Participation in social activities and meaningful relationships depend on interaction and might be made impossible if they speed past faster than the emulation can handle. A very fast emulation would be isolated from the outside world by lightspeed lags and from biological humans by their glacial slowness. It hence seems that insofar emulated persons are to enjoy human rights (which typically hinge on interactions with other persons and institutions) they need to have access to real-time interaction. …
+By the same token, this may mean emulated humans have a right to contact with the world outside their simulation. …  At the very least emulated people would need some “I/O rights” for communication within their community. But since the virtual world is contingent upon the physical world and asymmetrically affected by it, restricting access only to the virtual is not enough if the emulated people are to be equal citizens of their wider society.
+Such reasoning would seem to support forbidding humans today from not learning a widely used language, from living in a geographically isolated area, or even from refusing get a smart phone or get on facebook. All these actions limit people’s ability to interact with wider worlds. Anders also offers no specific arguments for why people are strategically better off having these limits on their options. It appears to be based on the Santa-for-free idea that all else equal these are nice things to have, and it costs the rest of us little to require them.
+
+
+title: Random Rights Are Bad
+
+date: June 28, 2013 11:55 pm
+

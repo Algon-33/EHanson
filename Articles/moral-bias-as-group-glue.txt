@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Two papers out this month together tell a simple story:  we like us over them because we are biased to see our acts as more moral.   The August Psychological Science says we excuse unfair choices by ourselves or our group members, but not by those from other groups:  
+
+ In one condition, subjects were required to distribute a resource (i.e., time and energy) to themselves and another person, and could do so either fairly (i.e., through a random allocation procedure) or unfairly (i.e., selecting the better option for themselves). They were then asked to evaluate the morality, or fairness, of their actions. In another condition, subjects viewed a confederate acting in the unfair manner, and subsequently evaluated the morality of this act. …
+
+
+ Individuals perceived their own transgressions to be less objectionable than the same transgression enacted by another person. Moreover, this hypocritical view extended to judgments of others … subjects viewed transgressions committed by in-group members to be as acceptable as their own.
+
+ The August Journal of Personality and Social Psychology says that we like our group more than other groups mainly because we see our group as being more moral.   In contrast, thinking our group to be more competent or sociable didn’t much matter for our liking them:  
+
+Study 1 participants reported that their in-group’s morality was more important [to positive group evaluation] than its competence or sociability. An unobtrusive factor analytic method also showed morality to be a more important explanation of positive in-group evaluation than competence or sociability.  Experimental manipulations of morality and competence (Study 4) and morality and sociability (Study 5) showed that only in-group morality affected aspects of the group-level self-concept related to positive evaluation (i.e., pride in, or distancing from, the in-group). 
+
+
+
+title: Moral Bias as Group Glue
+
+date: August 22, 2007 6:00 am
+

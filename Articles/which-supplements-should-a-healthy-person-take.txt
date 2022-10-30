@@ -1,0 +1,40 @@
+author: Robert Wiblin
+
+text: 
+I have recently been looking into which, if any, nutritional supplements I should start taking. I am in good general health so am looking for supplements that are likely to maintain or improve that health, not cure any particular condition. I have been using three excellent sources for this project, which I can recommend checking out: [1]
+
+A summary of Cochrane Collaborations meta-analyses
+the Snake-Oil Supplements review from Information is Beautiful (based on Cochrane meta-analyses, among others)
+Gwern’s review of nootropics.
+
+For those who want to save time, I will outline my key conclusions here in the hope that doing so will help you. I have decided to start taking:
+
+Vitamin D3 (10µg or so a day)
+Creatine (5g a day)
+Zinc (30-160mg and Vitamin C (>1g)  each day for the duration of colds.
+
+Tyrosine and potassium are also both cheap and so I will trial them to see if they improve my concentration. I don’t consider them likely to work, but they are at least worth testing. Fluoride mouthwashes also seem a cheap way to reduce the risk of cavities.
+Vitamin D has a large evidence base suggesting it significantly lowers ‘all-cause mortality’ and improves both general and bone health. It is especially important now that I am living in the UK, where it is much harder to get Vitamin D from sun exposure.  It is also inexpensive. [2] Basically, it is a no-brainer. The 10µg is twice the daily recommended dietary dose in the UK. For some reason, Gwern is taking a very large 125µg each day. Personally I am tempted to err on the low side due to recent research suggesting too much Vitamin D can raise mortality.
+Creatine is best known as a supplement for body-builders, but I am taking it primarily because I hope it will improve my cognition. The evidence to back this is thin, and only finds a significant effect among subgroups like vegetarians, perhaps because they get less creatine from meat consumption. However, the effect size identified was very large, it is cheap and largely safe. I am an almost-vegetarian and lift weights so it is more likely to be worthwhile for me. I will also be able test whether it improves my energy and concentration and stop using it if it doesn’t. This review also finds a range of other worthwhile positive impacts on health.
+There is compelling evidence that zinc helps reduce the intensity and duration of colds. As summarised by Cochrane:
+Zinc inhibits rhinoviral replication and has been tested in trials for treatment of the common cold. This review identified 15 randomized controlled trials, enrolling 1360 participants of all age groups, comparing zinc with placebo (no zinc). We found that zinc (lozenges or syrup) is beneficial in reducing the duration and severity of the common cold in healthy people, when taken within 24 hours of onset of symptoms.
+There are some concerns about side effects, but they do not seem significant in the scheme of things. The tablets can also be obtained cheaply and easily. The appropriate dose is unclear, but studies included in the meta-analysis used between 30-160mg. I will probably choose a figure in the middle of that, and keep some tablets at work and home so I can always take them immediately at the onset of symptoms.
+Despite a large number of studies, evidence to back an effect of Vitamin C on colds in the general population is mixed, with positive effects only reliably found on those engaging in extreme exercise. I worry that positive results on such sub-populations could just be the result of data mining, publication bias or other chicanery. Nonetheless, there are no side effects and the tablets are cheap. I consider it worth taking at the onset of colds, even if the probability of any real effect is under a third. Furthermore, effervescent vitamin C tablets are tasty and comforting to drink, and being as conspicuous as they are, may produce a larger than usual placebo effect.
+Incidentally, most infection by common colds is caused by surface to surface contact. Using an ethanol handwash after touching shared surfaces, and reducing how often you touch your face with your hands, is likely to significantly reduce their occurrence. If you didn’t already have one, the desire not to get colds is a good selfish reason to wash your hands after using the bathroom. Poor general health is not the problem, as even healthy people who are exposed to the virus are highly likely to become infected.
+If I were particularly worried about my blood pressure or cardiovascular health I would start
+
+taking Omega-3
+limiting my salt intake, though this isn’t certain to work
+replacing saturated fat with unsaturated fat
+taking a lot of garlic.
+
+However, I am young, and consider heart disease to be a problem for the future.
+I am keen to hear if I am making mistakes in the above, or missing out on other valuable chances to improve my life. Thanks to Seb Farquhar and Will Crouch for help with this research.
+[1] Cochrane’s ‘house effect’ is to frequently find that there is insufficient evidence to draw any conclusion. Where they do make a recommendation, the evidence backing it is likely to be compelling. Gwern’s advice extends to unusual supplements about which there is little other information. Unfortunately, is in based in significant part on personal experiences. While he has tried to do blind and controlled trials  on himself with sufficient sample sizes, I don’t consider one individual’s experiences to be compelling evidence relative to large trials and meta-analyses. He often doesn’t have a statistically significant effect, in part due to small samples. Nonetheless, if the cost of a supplement is low, and it is safe, it can be worth taking even with a low probability of an effect. Snake-Oil Supplements falls somewhere in the middle.
+[2] Reasonably cheap sources of: creatine, Vitamin D, Vitamin C and Zinc, tyrosine and potassium. Mouthwashes with over >200ppm of fluoride are widely available, but you should check the label.
+
+
+title: Which supplements should a healthy person take?
+
+date: January 6, 2013 7:00 pm
+

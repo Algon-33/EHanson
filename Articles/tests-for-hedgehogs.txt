@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Philip Tetlock famously showed that hedgehogs, who focus on one main analytical tool, are less accurate than foxes, who used a wide assortment of analytical tools, on simple long-term forecasts in political economy.
+Over at Cato Unbound, two famous hedgehogs recently replied to Tetlock. John Cochrane argued that no one can do well at the unconditional forecasts that Tetlock studied, but that hedgehogs shine at conditional forecasts, such as GDP change given a big stimulus. Bruce Bueno De Mesquita noted that his hedgehoggy use of game theory is liked by the CIA and by peer review.
+Today at Cato Unbound, I note that since Tetlock’s data is hardly universal, that leaves room for counter-claims that he missed important ways in which hedgehogs are more accurate. But I find it disappointing, and also a bit suspicious, that neither Cochrane nor De Mesquita express interest in helping to design better studies, much less in participating in such studies. I note that “it is certainly possible to collect and score accuracy on conditional forecasts”, and conclude:
+Research patrons eager to fund hedgehoggy research by folks like Cochrane and De Mesquita show little interest in funding forecasting competitions at the scale required to get public participation by such prestigious folks. So hedgehogs like Cochrane and De Mesquita can continue to claim superior accuracy, with little fear of being proven wrong anytime soon. All of which brings us back to our puzzling disinterest in forecast accuracy, which was the subject of my response.
+
+
+title: Tests For Hedgehogs?
+
+date: July 20, 2011 10:25 am
+

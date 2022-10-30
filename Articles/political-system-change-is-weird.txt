@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Why do we have the political systems that we do? Back in the farming era, regimes competed militarily. Winners had more militarily effective total systems on average, and part their total system was their political system, which was therefore plausibly militarily effective.
+Over the last seventy years, however, the selection power of military competition has been very weak. And it was somewhat weak for a while before then. If we ignore external conquest, political systems might be explained as the conscious choice of rulers: the systems are those that rulers (including voters) choose. But political systems have changed only modestly, even when there has been a lot of change in who runs them or what policies they implement, and lots of change in the rest of society.
+You might say that our political systems are so stable because they are near perfect – rulers can’t imagine any better systems. But then why do systems vary so much around the world. And given the vast space of possible political systems, it isn’t plausible that we’ve explored more than a tiny corner of that space.
+You might say that each local system is perfectly adapted to its local circumstances. But situations don’t seem that different. You might say that change in political systems is very expensive, so expensive that change is almost never worth the cost. But then why did systems ever change in the past? It is hard to see change being less expensive then.
+It seems to me that the main reason political systems change so little these days is that it just seems weird to seriously suggest such changes. And not a good kind of weird. You can’t plausibly pose yoursel as a revolutionary martyr; people won’t actively stop you; they’ll just yawn and think you boring. And proposing to change the system isn’t a good way to show loyalty to existing political teams; even if your change clearly favors a team, it still seems needlessly round-about, relative to winning the usual way.
+It isn’t clear to me exactly what processes make proposing changes to the political system seems so weird and boring to most folks today. But what does seem clearer to me is that variations in such processes are probably the main cause of variations today in political system change.
+That is, while political systems vary in the outcomes they produce for people, and people vary in their opinions about such outcomes, such variations usually seem a pretty weak force today. A much stronger force seems to be whatever makes people look bad by even discussing the topic. It seems that political systems are stable more because they push folks to avoid discussing change than because they make people like the outcomes that such systems produce.
+Until we return to an era when there is strong military competition, or until some big cultural change somehow makes discussing political system change cool, the political systems that we will have will mostly be the ones that somehow make folks look or feel bad to discuss changes, instead of the systems that most make people happy via their outcomes. Today, we are mostly selecting for political systems that tend to make discussing them seem weird.
+Added 9p: What changes we have seen in political systems in the last seventy years have mainly been convergent – one place switching to the system of another place. There has been almost no exploring of the large space of possibilities.
+
+
+title: Political System Change Is Weird
+
+date: August 18, 2013 7:52 pm
+

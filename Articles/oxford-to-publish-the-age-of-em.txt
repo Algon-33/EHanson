@@ -1,0 +1,42 @@
+author: Robin Hanson
+
+text: 
+Eighteen months ago I asked here for readers to criticize my Em Econ book draft, then 62K words. (137 of you sent comments – thanks!) Today I announce that Oxford University Press will publish its descendant (now 212K words) in Spring 2016. Tentative title, summary, outline:
+The Age Of Em: Work, Love and Life When Robots Rule The Earth
+Author Robin Hanson takes an oft-mentioned disruptive future tech, brain emulations, and expertly analyzes its social consequences in unprecedented breadth and detail. His book is intended to prove: we can foresee our social future, not just by projecting trends, but also by analyzing the detailed social consequences of particular disruptive future technologies.
+I. Basics
+1. Start: Contents, Preface, Introduction, Summary
+2. Modes: Precedents, Factors, Dreamtime, Limits
+3. Mechanics: Emulations, Opacity, Hardware, Security
+II. Physics
+4. Scales: Time, Space, Reversing
+5. Infrastructure: Climate, Cooling, Buildings
+6. Existence: Virtuality, Views, Fakery, Copying, Darkness
+7. Farewells: Fragility, Retirement, Death
+III. Economics
+8. Labor: Wages, Selection, Enough
+9. Efficiency: Competition, Eliteness, Spurs, Power
+10. Business: Institutions, Growth, Finance, Manufacturing
+11. Lifecycle: Careers, Age, Preparation, Training
+IV. Organization
+12. Clumping: Cities, Speeds, Transport
+13. Extremes: Software, Inequality, War
+14. Groups: Clans, Nepotism, Firms, Teams
+15. Conflict: Governance, Law, Innovation
+V. Sociology
+16. Connection: Mating, Signaling, Identity, Ritual
+17. Collaboration: Conversation, Synchronization, Coalitions
+18. Society: Profanity, Divisions, Culture, Stories
+19. Minds: Humans, Unhumans, Intelligence, Psychology
+VI. Implications
+20. Variations: Trends, Alternatives, Transition, Aliens
+21. Choices: Evaluation, Policy, Charity, Success
+22. Finale: Critics, Conclusion, References, Thanks
+23. Appendix: Motivation, Method, Biases
+Added Sept2015: The book now has a website.
+
+
+title: Oxford To Publish The Age Of Em
+
+date: March 31, 2015 11:36 am
+

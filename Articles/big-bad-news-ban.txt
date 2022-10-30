@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+We’d love for things to go well.  So we’d love people to think that things are going well.  So we want folks to hear news about how things are going well.  But sometimes people hear bad news, about how things are going bad.  Gee – why don’t we fix this by banning bad news?  Then people will only hear good things, and so only good things will happen, right?
+This argument is transparently stupid to most everyone, at least when they think of “bad news” as appearing in newspapers or TV shows.  Sadly, that insight seems to disappear when it comes to financial bad news communicated via short sales.  Making for this bad news:
+The [US] Securities and Exchange Commission enacted new restrictions on short selling on Wednesday aimed at restoring investor confidence by preventing speculators from pouncing on stocks already in a tailspin.
+The rules, which were approved in a 3 to 2 party-line vote, come as the agency has faced intense pressure from lawmakers and investors to crack down on the practice, which some on Wall Street have blamed for crashing the stock values of major financial companies during the 2008 market crisis. …
+The new restrictions, which will take eight months to put into effect, only affect stocks that have declined at least 10 percent since the previous day. At that point, short sellers essentially will have to pay a small premium to bet against a stock.
+Anyone who believes that stocks which have fallen at least 10% in a day are an unappreciated good buy are free to grab that free money they think is lying on the sidewalk.  Clearly most folks don’t do this, and so don’t believe this, implying that short sales that push stock prices down on average give reliable bad news: this stock is worse than you thought.
+Taxing short sales is an attempt to ban this bad news, to trick people into thinking those companies are doing better than they are.  After all, we all know that the financial crisis was not caused by banks making bad loans, it was caused by short sellers telling people that banks had made bad loans — if only we’d killed the messenger, we wouldn’t be in this mess, right?
+Related posts.
+Added 9p: A “self-fulfilling bad news” argument can apply to restaurant or movie reviews as well.  In fact, they can apply to most bad news.  For example, if a review says a restaurant is bad, fewer people go there, so they replace their expensive good chef with a cheap bad one, etc.  So should we band negative restaurant reviews?  Should we ban all bad news?
+// <![CDATA[
+if ( show_doubleclick_ad &#038;&#038; ( adTemplate &#038; INLINE_ARTICLE_AD ) == INLINE_ARTICLE_AD &#038;&#038; inlineAdGraf )
+{
+document.write('</div>
+
+
+') ;
+}
+// ]]&gt;
+
+
+title: Big Bad News Ban
+
+date: February 27, 2010 8:40 am
+

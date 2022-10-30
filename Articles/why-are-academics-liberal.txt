@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+In the US at least, academics are more liberal and Democratic than ordinary people.   While among ordinary people the ratio of Democrats to Republicans is about 1:1, academia as a whole has a ratio of 5:1, and the humanities and social sciences have a ratio of 8:1.   These ratios have roughly doubled over the last forty years.  See this 2005 Critical Review paper by my colleague Dan Klein, but also this 2006  Public Opinion Quarterly reply, and this further response.   
+Does this difference between academia and the public produce or reflect a bias in the beliefs expressed in academic articles?   
+  
+ To judge this, we need to better understand the cause of this difference.  It might be due to academics being more intelligent and informed, or it might be due to social pressure and conformity.   This 2005 BE Press Forum paper suggests that discrimination against conservatives, women, and religious folks is at least part of the explanation, though see this reply and this response. 
+This issue is of particular interest to me, since economists have a 3:1 ratio, making us "right wing" relative to the rest of academia.   My department has about a 1:1 ratio, making us "right-wing nuts," even though we roughly mirror the public.  
+It is interesting to note that when you look at higher dimensional opinion spaces what you see is a tight liberal clump in one corner, and a broad spread of opinions across the rest of the opinion space; there is no conservative clump to speak of.   Of course this is consistent with both the information and the conformity theories mentioned above.     
+What we need are clever ideas for data that might better distinguish between these theories. 
+
+
+
+title: Why Are Academics Liberal?
+
+date: November 24, 2006 6:00 am
+

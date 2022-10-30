@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+We now spend a huge fraction of income on medicine. Today the US spends ~18% of GDP on medicine, while in 1940 we spent ~4%. Why the huge increase?
+A supply explanation is that doctors have invented lots of new useful treatments. A demand explanation, in contrast, is that we want more medicine as we get richer, either because we care more about health, or about showing that we care.
+One way to distinguish supply vs. demand explanations is to look at farm vs. pet animal medicine. Both kinds of animal medicine are treated similarly by most supply changes – new medical treatments help both kinds of animals. But most demand changes treat them differently – farm animals today aren’t that much more valuable than they were long ago, but we treat our pets as if they were far more valuable.
+While I can’t find good historical data, what I do find suggests we’ve seen a huge switch in animal medicine, from a focus on food animals to a focus on pets. On recent pet med spending increases:
+The average household in the U.S. spent $655 on routine doctor and surgical visits for dogs last year, up 47% from a decade ago, according to the American Pet Products Association. Expenditures for cats soared 73% over the same time frame—on pace with human health-care cost increases. Expenditures for people in the U.S. were up 76.7% between 1999 and 2009, according to the U. S. Centers for Medicare and Medicaid Services. (more)
+On vets long ago:
+Very early veterinarians were mainly concerned with the care of livestock and horses and mules. … Prior to World War II, very few people would consider paying more than a token amount for the medical care of their pets any more than the average person today would consider taking an injured chipmunk to the vet. (more)
+On the focus of US vets in 2011:
+Food animal exclusive 1.8%; Food animal predominant 6.0%; Mixed animal 6.8%; Companion animal predominant	 9.7%; Companion animal exclusive 67.2%; Equine 6.0%. (more)
+Thus much, perhaps most, of the rise in animal med spending is a demand effect. More careful data analysis might give a more precise estimate.
+Now pets probably live to be older than farm animals, so a supply shock mainly relevant for older animals might explain an increase of pet med relative to farm animal med. But that seems pretty unlikely to be the main thing going on here.
+
+
+title: Farm vs Pet Medicine
+
+date: February 16, 2012 9:10 am
+

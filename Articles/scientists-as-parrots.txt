@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+I just spent the last two days at a Whole Brain Emulation Workshop here at the Oxford Future of Humanity Institute.  Most of the dozen attendees were scientists who scan and model brains.  They were quite professional in their presentations and discussions, attending expertly to many subtle complications, but overall they were mostly excited and optimistic about the prospects for improving our abilities to scan, model, and emulate large brain areas, even entire brains, for many kinds of animals, including eventually humans. 
+ When asked if they would be interested in producing a consensus statement which made more precise their expectations about feasibility and rates of progress, however, these scientists expressed concern about their funding.  Their research is expensive, and they typically frame their work on larger scale brain emulation in other terms, which funding agencies prefer; these agencies would react poorly to hearing that these people did  research framed as "whole brain emulation." 
+ I’ve often seen such a pattern – scientists tell funding agencies, and all other public ears, just what they think the funding bodies want to hear.  I dearly wish we could have prediction markets on such topics, so we could find out whether the powers that be have good reasons for their negativity, reasons which would encourage them to bet, or whether they are expressing shallow unthinking prejudice, which betting markets might unmask. 
+
+
+title: Scientists as Parrots
+
+date: May 27, 2007 1:30 pm
+

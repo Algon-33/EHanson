@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan:
+One popular story about the decline in family size over the last two centuries goes like this:  Back in the old days, having kids paid.  Children started working when they were quite young, and provided for their parents in their old age. … Ted Bergstrom summarizes evidence showing that even in pre-modern societies, kids did not pay.  Kids did not pay in hunter-gatherer societies. … Kids did not pay in agricultural societies.
+Wikipedia lists five explanations for our having fewer kids than our ancestors:
+
+ Parents … need not require so many children to be born to ensure a comfortable old age.
+Urban living … raises the cost of dependent children to a family.
+The cost of children to parents is exacerbated by the introduction of compulsory education …
+Lower … acceptance of childbearing and motherhood as measures of the status of women. Working women have less time to raise children.
+Improvements in contraceptive technology are now a major factor.
+
+Bergstrom undercut #1, and fertility fell lots before contraception tech, saying #5 is minor.  #2 and #3 don’t obviously raise the cost of kids relative to income, or to kids’ value to parents.  That leaves #4, some unexplained feature of how kids give moms status.
+A quick lit review finds a few recent suggestions, such as this:
+Reproductive decision making might be driven by a human psychology designed by natural selection to maximize material wealth.
+this:
+Advice and comment on reproduction that passes among kin is more likely to encourage the creation of families than that which passes among nonkin and (b) this advice and comment influence the social norms.
+and this:
+Mortality reductions affect the incentives of individuals to invest in human capital and to have children.
+But the basic question remains open.  While we have some good clues to proximate causes, we just don’t understand how or why natural selection gave us preferences that, in our modern environment, produce such unadaptive behavior.
+
+
+title: Fertility Fall Still Puzzling
+
+date: October 17, 2009 4:00 pm
+

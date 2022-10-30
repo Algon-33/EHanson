@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Listening to older bigshot academics talking among themselves, I find they talk surprisingly often about the Nobel prize – who deserves it, who is being considered, who is lobbying how to win, who should have won but didn’t, and so on.  Their lust is obvious; the influence of the Nobel prize on elite academic incentives is far out of proportion to the money involved.   
+ It is surprising to see academia so influenced by one rich man from a century ago, rather than by rich men today.  Prizes once mattered much more than they do today, and I expect a comeback:  sometime in the next few decades I expect someone to pay a billion or two in an attempt to displace the Nobel prize.  Compared to the usual academic money-influence ratio, this would be quite a bargain.   To succeed, this new Post-Nobel prize should:
+
+ offer a prize amount ten or one hundred times the Nobel prize,
+create a correlation between who wins and who elite academics think should win that is not much worse than with the Nobel prize, and
+do this consistently for a decade or two, and appear able to continue indefinitely. 
+
+This task is not trivial, but quite feasible.   I hope, however, that this patron sets himself a higher goal: to increase the correlation between winners and their long-term intellectual contribution.  I suggest making heavy use of posterity review:
+
+create a perpetual process wherein historians evaluate the influence of academics from a century before,
+create long term betting markets that estimate today the influence evaluations of those future historians, and
+each year give N new prizes to the N living people who have not yet won, for whom the betting markets show the highest positive influence estimates.  
+
+Under this system people would stop lobbying the prize committee, and start to lobby market speculators and future historians.  
+
+
+title: Eclipsing Nobel
+
+date: May 10, 2007 6:00 am
+

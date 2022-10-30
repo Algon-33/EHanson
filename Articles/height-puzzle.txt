@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Among adults of industrial nations, growth stunting … is associated with worse indicators of adult well-being (e.g., income). … Here we … [consider] the Tsimane’, a foraging-farming society of native Amazonians in Bolivia. Subjects included 248 women and 255 men measured annually during five consecutive years (2002-2006). Nine outcomes (wealth, monetary income, illness, access to credit, mirth, schooling, math skills, plant knowledge, forest clearance) were regressed separately against a stunting dummy variable and a wide range of control variables. We found no significant association between any of the indicators of own well-being and adult stunting. …
+In South Africa, a comparison of short-for-age “Cape Coloured” children showed that those growing up under poorer socioeconomic conditions had lower body weight, height, and physical performance than the more advantaged children … Among adults of industrial nations, standing physical stature is positively associated with many indicators of own adult well-being, such as occupation, monetary income, wages, IQ, longevity, and good health.
+More here.
+
+
+title: Height Puzzle
+
+date: September 18, 2009 7:30 pm
+

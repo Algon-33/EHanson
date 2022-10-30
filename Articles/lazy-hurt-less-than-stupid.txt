@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan reports on a meta-analysis comparing intelligence, personality, and status in predicting life outcomes:
+The magnitude of the effects of personality traits on mortality, divorce, and occupational attainment was indistinguishable from the effects of [Socioeconomic status] and cognitive ability.
+Conscientiousness, i.e., not being lazy, matters about as much as intelligence, i.e., not being stupid.   And it is similarly heritable, i.e., genetic, it is more correlated with gender, and probably similarly correlated with race, class, and ethnicity.  Yet stupidity seems a far more sensitive topic.  Many deny intelligence exists as a meaningful concept, many others say we should not study intelligence-group correlations, and employers are discouraged from using intelligence tests in hiring.  Yet few seem to object to the meaningfulness of personality concepts, no one has even bothered to study personality-race correlations, and employers seem to face lower barriers to using personality tests in hiring.
+So why is “lazy” less insulting/sensitive than “stupid”?   Some possibilities:
+
+ Folks (incorrectly) think laziness is less permanent than stupidity.
+ Laziness is a desire, smarts an ability; bad desires are less insulting than bad abilities.
+ Good personality tests are recent; after a century of racist, sexist, etc. uses they’d be just as sensitive.
+ Intellectuals see school as filtering stupidity more than laziness; IQ tests compete more with their product.
+
+What say ye?
+
+
+title: “Lazy” Hurt Less Than “Stupid”?
+
+date: June 14, 2009 1:30 pm
+

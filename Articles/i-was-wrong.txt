@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+On Jan 7, 1991 Josh Storrs Hall made this offer to me on the Nanotech email list:
+I hereby offer Robin Hanson (only) 2-to-1 odds on the following statement:
+“There will, by 1 January 2010, exist a robotic system capable of the cleaning an ordinary house (by which I mean the same job my current cleaning service does, namely vacuum, dust, and scrub the bathroom fixtures). This system will not employ any direct copy of any individual human brain. Furthermore, the copying of a living human brain, neuron for neuron, synapse for synapse, into any synthetic computing medium, successfully operating afterwards and meeting objective criteria for the continuity of personality, consciousness, and memory, will not have been done by that date.”
+Since I am not a bookie, this is a private offer for Robin only, and is only good for $100 to his $50. –JoSH
+At the time I replied that my estimate for the chance of this was in the range 1/5 to 4/5, so we didn’t disagree. But looking back I think I was mistaken – I could and should have known better, and accepted this bet.
+I’ve posted on how AI researchers with twenty years of experience tend to see slow progress over that time, which suggests continued future slow progress. Back in ’91 I’d had only seven years of AI experience, and should have thought to ask more senior researchers for their opinions. But like most younger folks, I was more interested in hanging out and chatting with other young folks. While this might sometimes be a good strategy for finding friends, mates, and same-level career allies, it can be a poor strategy for learning the truth. Today I mostly hear rapid AI progress forecasts from young folks who haven’t bothered to ask older folks, or who don’t think those old folks know much relevant.
+I’d guess we are still at least two decades away from a situation where over half of US households use robots do to over half of the house cleaning (weighted by time saved) that people do today.
+
+
+title: I Was Wrong
+
+date: January 21, 2014 10:30 am
+

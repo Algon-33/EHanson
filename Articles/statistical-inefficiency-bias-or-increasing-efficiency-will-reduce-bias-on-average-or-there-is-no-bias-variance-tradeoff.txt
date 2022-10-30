@@ -1,0 +1,11 @@
+author: Andrew
+
+text: 
+Statisticians often talk about a bias-variance tradeoff, comparing a simple unbiased estimator (for example, a difference in differences) to something more efficient but possibly biased (for example, a regression).  There’s commonly the attitude that the unbiased estimate is a better or safer choice.  My only point here is that, by using a less efficient estimate, we are generally choosing to estimate fewer parameters (for example, estimating an average incumbency effect over a 40-year period rather than estimating a separate effect for each year or each decade).  Or estimating an overall effect of a treatment rather than separate estimates for men and women.  If we do this–make the seemingly conservative choice to not estimate interactions, we are implicitly estimating these interactions at zero, which is not unbiased at all!
+I’m not saying that there are any easy answers to this; for example, see here for one of my struggles with interactions in an applied problem—in this case (estimating the effect of incentives in sample surveys), we were particularly interested in certain interactions even thought they could not be estimated precisely from data.
+
+
+title: Statistical inefficiency = bias, or, Increasing efficiency will reduce bias (on average), or, There is no bias-variance tradeoff
+
+date: April 13, 2007 8:52 pm
+

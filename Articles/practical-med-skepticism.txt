@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+The Atlantic has a great med article:
+Much of what medical researchers conclude in their studies is misleading, exaggerated, or flat-out wrong. So why are doctors—to a striking extent—still drawing upon misinformation in their everyday practice? Dr. John Ioannidis has spent his career challenging his peers by exposing their bad science.
+I was glad they illustrated how this skepticism informs the practice of a clinician on Ioannidis’ team:
+I prod a bit, and she confesses she plans to do her own exam. She needs to be circumspect, though, so she won’t appear to be second-guessing the other doctors.  Tatsioni doesn’t so much fear that someone will carve out the man’s healthy appendix. Rather, she’s concerned that, like many patients, he’ll end up with prescriptions for multiple drugs that will do little to help him, and may well harm him. “Usually what happens is that the doctor will ask for a suite of biochemical tests—liver fat, pancreas function, and so on,” she tells me. “The tests could turn up something, but they’re probably irrelevant. Just having a good talk with the patient and getting a close history is much more likely to tell me what’s wrong.” Of course, the doctors have all been trained to order these tests, she notes, and doing so is a lot quicker than a long bedside chat. They’re also trained to ply the patient with whatever drugs might help whack any errant test numbers back into line. What they’re not trained to do is to go back and look at the research papers that helped make these drugs the standard of care. “When you look the papers up, you often find the drugs didn’t even work better than a placebo. And no one tested how they worked in combination with the other drugs,” she says. “Just taking the patient off everything can improve their health right away.” But not only is checking out the research another time-consuming task, patients often don’t even like it when they’re taken off their drugs, she explains; they find their prescriptions reassuring.
+Yes, get a second opinion, and set a higher standard for being convinced to apply any particular treatment in any particular context.  And your major obstacle will be resistance from those comforted by “doing something.”
+
+
+title: Practical Med Skepticism
+
+date: October 15, 2010 6:00 pm
+

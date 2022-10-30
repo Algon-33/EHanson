@@ -1,0 +1,12 @@
+author: Carl Shulman
+
+text: 
+Caesarean section rates differ dramatically in different regions of the United States, apparently a result of medical students and new doctors learning by imitation and adopting the customary practices of their workplaces. Given information about a doctor’s medical school and residency locations, one can predict her views on appropriate circumstances for C-sections, i.e. her actual opinion is less relevant in Bayesian calculations, since it reflects a known ‘meme lineage.’ 
+Attempting to aggregate expert opinion by polling and weighting each expert’s contributions equally in the presence of such belief inheritance would be less informative than comparing the meme lineages holding particular views, and their respective defection rates. If scientific evidence more strongly supports one position, members of other lineages should be disproportionately likely to switch to it, and new entrants exposed to both ideas should disproportionately select it. In general, we should increase the weight we place on the flow (and its rate of change) in expert opinion, rather than the stock. 
+A study might compare the beliefs of PhD applicants, admitted students, and graduates on controversial topics in their fields relative to national peer groups in those fields. If the average beliefs of faculty at a school, or of students’ dissertation advisors, can predict changes in relative beliefs (e.g. moving students with scores on a belief-index that put them in the 80th percentile, relative to their same-year peers, to the 90th percentile over the course of a degree) then we will need to adjust our analysis of ‘academic consensus’ accordingly.
+
+
+title: Meme Lineages and Expert Consensus
+
+date: December 15, 2006 3:00 pm
+

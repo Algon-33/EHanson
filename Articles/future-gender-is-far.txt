@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+What’s the worst systematic bias in thinking on the future? My guess: too much abstraction. The far vs. near mode distinction was first noticed in future thinking, because the effect is so big there.
+I posted a few weeks ago that the problem with the word “posthuman” is that it assumes our descendants will differ somehow in a way to make them “other,” without specifying any a particular change to do that. It abstracts from particular changes to just embody the abstract idea of othering-change. And I’ve previously noted there are taboos against assuming that something we see as a problem won’t be solved, and even against presenting such a problem without proposing a solution.
+In this post let me point out that a related problem plagues future gender relation thoughts. While many hope that future gender relations will be “better”, most aren’t at all clear on what specifically that entails. For some, all differing behaviors and expectations about genders should disappear, while for others only “legitimate” differences remain, with little agreement on which are legitimate. This makes it hard to describe any concrete future of gender relations without violating our taboo against failing to solve problems.
+For example, at The Good Men Project, Joseph Gelfer discusses the Age of Em. He seems to like or respect the book overall:
+Fascinating exploration of what the world may look like once large numbers of computer-based brain emulations are a reality.
+But he less likes what he reads on gender:
+Hanson sees a future where an em workforce mirrors the most useful and productive forms of workforce that we experience today. .. likely choose [to scan] workaholic competitive types. Because such types tend to be male, Hanson imagines an em workforce that is disproportionately male (these workers also tend to rise early, work alone and use stimulants).
+This disproportionately male workforce has implications for how sexuality manifests in em society. First, because the reproductive impetus of sex is erased in the world of ems, sexual desire will be seen as less compelling. In turn, this could lead to “mind tweaks” that have the effect of castration, .. [or] greater cultural acceptance of non-hetero forms of sexual orientation, or software that make ems of the same sex appear as the opposite sex. .. [or] paying professional em sex workers.
+It is important to note that Hanson does not argue that this is the way em society should look, rather how he imagines it will look by extrapolating what he identifies in society both today and through the arc of human history. So, if we can identify certain male traits that stretch back to the beginning of the agricultural era, we should also be able to locate those same traits in the em era. What might be missing in this methodology is a full application of exponential change. In other words, Hanson rightly notes how population, technology and so forth have evolved with increasing speed throughout history, yet does not apply that same speed of evolution to attitudes towards gender. Given how much perceptions around gender have changed in the past 50 years, if we accept a pattern of exponential development in such perceptions, the minds that are scanned for first generation ems will likely have a very different attitude toward gender than today, let alone thousands of years past. (more)
+Obviously Gelfer doesn’t like something about the scenario I describe, but he doesn’t identify anything particular he disagrees with, nor offer any particular arguments. His only contrary argument is a maximally abstract “exponential” trend, whereby everything gets better. Therefore gender relations must get better, therefore any future gender relations feature that he or anyone doesn’t like is doubtful.
+For the record, I didn’t say the em world selects for “competitive types”, that people would work alone, or that there’d be more men. Instead I have a whole section on a likely “Gender Imbalance”:
+Although it is hard to predict which gender will be more in demand in the em world, one gender might end up supplying proportionally more workers than the other.
+Though I doubt Gelfer is any happier with a future with may more women than men; any big imbalance probably sounds worse to most people, and thus can’t happen according to the better future gender relations principle.
+I suspect Gelfer’s errors about my book are consistently in the direction of incorrectly attributing features to the scenario that he likes less. People usually paint the future as a heaven or a hell, and so if my scenario isn’t Gelfer’s heaven, it must be his hell.
+
+
+title: Future Gender Is Far
+
+date: January 10, 2017 5:40 pm
+

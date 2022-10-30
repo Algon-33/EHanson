@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+At several recent conferences, I suggested to the organizers that I talk about social institution innovation, but they preferred I talk about my tech related work (or not talk at all). At those events they did have other people talk about social reforms and innovations, and all those speakers were relatively high status people with a background in “hard” sciences (e.g., physics or computers science). And to my eyes, their suggestions and analysis were amateurish.
+Curious about this pattern, I did these Twitter polls:
+
+From which source would you most like to hear an analysis of a social trend?
+— Robin Hanson (@robinhanson) November 3, 2019
+
+
+From which source would you most like to hear about a proposed social reform or innovation?
+— Robin Hanson (@robinhanson) November 3, 2019
+
+So while more of us would rather hear about social analysis from a social expert, more of us would rather hear about social reform proposals from prestigious hard scientists. This makes sense if we see reform as a social coordination game: if we only want to support reforms that we expect to be supported by many high status folks, we need a high status advocates to be our focal point to get the ball rolling.
+Alas, since hard scientists tend to know little social science and to think little of social scientists, the reforms they suggest tend to be low quality, at least by social scientist standards. Furthermore, since prestige-driven social systems have done well for them personally, and are said to do well in running their hard science world, they will tend to promote such systems as reforms. Alas, as I think replacing such systems should be one of our main social reform priorities.
+
+
+title: Prestige Blocks Reform
+
+date: November 13, 2019 11:15 am
+

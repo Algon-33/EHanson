@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+For most species, officially declaring them "endangered" makes them worse off:
+
+Ferraro, McIntosh, and Ospina (2007) find that … for a large majority of the species studied, listing under the [U.S. Endangered Species Act] has actually harmed the species’ chances of recovery.
+Ferraro et al examine two different elements of the ESA’s operation: the impact of listing a species as being endangered, and the effects of species-specific government recovery expenditures. … For the 25 percent of the listed species that garner about 95 percent of all government recovery funding, the ESA seems to have produced improvements in the chances of recovery. But for the other 75 percent of species, those that are largely ignored by the funding process, the ESA has sharply reduced species’ viability, compared to unlisted species that are otherwise similar except for listing status. …
+
+  
+
+Ferraro et al … [matched] each listed species with one or more unlisted species that are substantially identical to the listed one, … then compare the performance of the listed species with the performance of their matched but unlisted “twins.” Ferraro et al are limited by the available data for the study of native terrestrial and freshwater vertebrates that have full species status; even so, they are able to closely track over time the performance of 135 listed species and 295 unlisted but matching species.
+ The results are striking: For the overwhelming majority of listed species—those that receive little funding for recovery—listing under the ESA markedly reduces the species’ chances of recovery, compared to their unlisted twins. For the 35 or so well-funded species, recovery chances have been enhanced, but it is recovery expenditures, not listing per se, that is doing the work. …
+There are at least two mechanisms through which this may occur. First, there is the well-known “shoot, shovel, and shut up” response to the ESA: When species on private land are listed, property owners may attempt to rid themselves of the species to avoid government restrictions on the use of their land. … [Second,] “maintenance-dependent” species … may disappear precisely because of landowner inaction—inaction the owner may find attractive if a private recovery program undertaken by the owner would invite intrusion by the Fish and Wildlife Service.
+
+Added:  It seems there is no point in listing a species as endangered unless we are willing to spend lots more than we usually do on that species.  So why do we list but then not spend?  Is green not about nature?  
+
+
+title: Dangerous Species Warnings
+
+date: September 29, 2008 6:00 am
+

@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+
+When you are treated unjustly, so much that it bothers you a lot, on ave. what % of time would your complaining about it publicly be a net win for you, in terms of trouble, respect, & getting treated more justly?
+— Robin Hanson (@robinhanson) June 10, 2020
+
+I didn’t expect this result, and it seems so terribly sad. Perhaps the saddest thing I have ever heard.
+While other animals have feelings on fairness, and inclinations to retaliate against unfairness done directly to them, as far as I know only humans having norms requiring generic third parties help fix such complaints. So while other animals assume that they will only get as much justice as they (and their immediate allies) can force the world to give them, we humans are led to see our larger society as responsible for creating a justice world around us, and even led to expect that it will in fact typically provide such justice.
+It must then be a crushing blow to realize that this is just not so. Even for pretty big injustices, most all of us see ourselves as better off to just suffer them, instead of publicly complaining about them, the vast majority of the time. Our larger societies do not in fact provide much justice; the justice we get is in fact mostly whatever we (and our immediate allies) can force the world to give us. In terms of justice, human societies today only produce a minor correction to the basic animal situation. That is, we are on our own. Our friends and family may help, but the rest of the world will not.
+Oh, some of us probably do mostly get justice from the world. The rich, the pretty, the popular, the well-connected. When they complain, enough people care, and actually do something. For them, maybe it makes sense to complain about most big injustices. But not for the vast majority of us.
+Was it ever any different in human history? I suspect not, alas. Maybe, someday in the future, the human thirst for justice will lead us to create societies that actually do stop most injustice, so that people who are are treated unjustly will usually think it worth their bother to publicly complain. So that such injustices are stopped. That is, someday, we may find a way to slake our thirst for justice. But so far, we remain incurably thirsty. That is the human condition.
+Added 9a 12June: Some claimed that my poll wording was oft misinterpreted, and some claimed that restricting to “bothers you a lot” did not sufficiently distinguish minor from major injustices. So I did three more polls like the above, reworded a bit to avoid the misinterpretation, and distinguishing three levels of injustice: would have paid <$100, $100-10K, and >$10K to avoid them.
+Looking at median of lognormal fits to % of cases where complaining is a net win, I find 7.1% for “bothers you a lot”, 1.9% for <$100, 4.1% for $100-$10K, and 7.7% for >$10K injustices. Thus the threshold for “bothers you a lot” seems to be near $10K, and while we do find it in our interest to complain more often for larger injustices, cases where complaining wins remain rare exceptions even for large injustices. Even then, we are mostly on our own.
+
+
+title: On Our Own
+
+date: June 10, 2020 9:40 pm
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+The concept of bias seems to be central to the concept of morality.  Philosophers often say the moral action is simply the action you have the best reasons to do.  But we do not usually treat immorally-acting people as if they had made a random analysis error.  We instead treat them as if they were enemies, acting against us on purpose.  And our explanation is usually that they are biased.  
+What are these key moral biases?  A few years ago, when writing a Bioethics paper, I collected these quotes from six philosophers, John Rawls, Peter Singer, Norman Daniels, John Arras, Jan Crosthwaite, and Richard Brandt:  
+  
+
+John Rawls: We can discard those judgments made with hesitation, or in which we have little confidence. Similarly, those given when we are upset or frightened, or when we stand to gain or lose one way or the other can be left aside. All these judgments are likely to be erroneous or to be influenced by an excessive attention to our own interests.    
+Peter Singer: All the particular moral judgments we intuitively make are likely to derive from discarded religious systems, from warped views of sex and bodily functions, or from customs necessary for the survival of the group in social and economic circumstances that now lie in the distant past.  
+
+
+Norman Daniels: [Moral] opinions are often the result of self-interest, self-deception, historical and cultural accident, hidden class bias, and so on.  
+John Arras:
+
+title: Philosophers on Moral Bias
+
+date: December 16, 2006 1:10 pm
+

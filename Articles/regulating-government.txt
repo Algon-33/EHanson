@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Wall Street is apparently profiting from helping local governments use an accounting trick to underfund pensions:
+Pension bonds … current boom is … being driven … by a new accounting quirk that has largely escaped public notice while morphing into a major marketing tool for Wall Street banks. The quirk stems from a rule change that was meant to force governments to more clearly disclose the health of their pension funds. … If a pension plan is so poorly funded that it is projected to run out of cash, the new rules require it to make less optimistic projections about future returns. That increases the reported pension shortfall. But if governments infuse a big slug of borrowed money into the fund, they can resume using optimistic projections, and the shortfall shrinks. …
+A review by ProPublica and The Post of the 20 largest pension bonds issued since 1996 found that in three-fourths of the deals, governments did not make their full required contribution in the years after the bonds were sold. … Because of the underfunding, most of the pension funds now are worse off than before the bonds were issued. (more)
+I find it plausible that these pension bonds are often bad ideas, and that some general regulation might be useful to prevent their misapplication. But today I’m less interested in the particular issue of pensions, and more in the general issue of when democratic governments can be trusted to act in the interest of their voters.
+Consider also the examples of public employee unions, and of eminent domain. In all these cases we don’t trust democratic governments to make the best choices for their citizens, and so we may empower some other democratic government to regulate or constrain those distrusted governments. For example, it seems we don’t trust governments to choose good wages for their employees, since we empower unions to negotiate with them.
+It is not just that some citizens aren’t allowed to vote, or that governments representing different regions may have conflicts, or that the same government at different times can have conflicting time-inconsistent preferences. It seems to also be about a limited ability of citizens to pay attention to government activities. But how is it exactly that citizens can pay enough attention to the regulating government to help it choose a good regulation role, but can’t pay enough attention to the regulated government, tempting that government to make bad decisions? How is this supposed to work, even in theory?
+This seems an important issue, and I’m interested in reading more about it. I expect there is a literature out there on this, but I don’t recall ever coming across it. Anyone have some good cites?
+This topic is of course related to the possibility that governments may often be over-regulated.
+
+
+title: Regulating Government
+
+date: July 12, 2015 1:00 pm
+

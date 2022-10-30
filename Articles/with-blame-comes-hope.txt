@@ -1,0 +1,13 @@
+author: Patri Friedman
+
+text: 
+After the smoke clears, we begin to apportion blame.  We have a natural tendency to try to shift the blame onto others, avoiding guilt and responsibility for errors.  But there are some obvious problems with this strategy.
+Errors are valuable training instances, and our bias against accepting blame reduces the number available.  If we could externally shift blame while internally maintaining a rational apportionment, we would not be reducing our training data, but people don’t work like that.  To be believable, our efforts to shift blame must be sincere, and so our brain engages in self-deception rather than partitioning.  The result will then be to tend to underestimate the dangers of our action (and inaction) and underestimate the degree to which we can prevent bad outcomes by acting differently.
+It is this latter point which gives the connection between blame and hope.  For to avoid blame is to avoid responsibility, and to avoid responsibility is to disempower oneself.  To say "I was not to blame for what happened" is to say "I could not have prevented it", which is to say "In future situations like that, I will be helpless".
+So let us instead be honest about how we could have acted differently, even when things turn out craptacularly.  We can trick our minds into doing this by focusing on the positive, forward-looking nature of responsibility: thinking about how we might do better in the future, rather than the negative-sum fight to divide the anti-spoils of the past.  And reminding ourselves that some bitter blame is a small price to pay to hold onto hope. 
+
+
+title: With blame comes hope
+
+date: February 17, 2008 9:00 am
+

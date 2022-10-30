@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+A stunning hypothesis from the latest Journal of Personality and Social Psychology:
+
+High levels of support often observed for governmental and religious systems can be explained, in part, as a means of coping with the threat posed by chronically or situationally fluctuating levels of perceived personal control. Three experiments demonstrated a causal relation between lowered perceptions of personal control and … increased beliefs in the existence of a controlling God and defense of the overarching socio-political system.  A 4th experiment showed … a challenge to the usefulness of external systems of control led to increased illusory perceptions of personal control. … A cross-national data set demonstrated that lower levels of personal control are associated with higher support for governmental control.
+
+It seems we hope a stronger and more benevolent God or State will protect us when feel less able to protect ourselves.  I’d guess similar effects hold for medicine and media – we believe in doc effectiveness more when we fear out of control of our health, and we believe in media accuracy more when we rely more on their info to protect us.  Can we find data on which beliefs tend to be more biased: confidence in authorities when we feel out of control, or less confidence in authorities when we feel more in control?
+
+
+title: Fear, God, and State
+
+date: July 14, 2008 6:00 am
+

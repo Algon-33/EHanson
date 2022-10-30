@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Alex T. asks Should the Future Get a Vote? He dislikes suggestions to give more votes to “civic organizations” who claim to represent future folks, since prediction markets could be more trustworthy:
+Through a suitable choice of what is to be traded, prediction markets can be designed to be credibly motivated by a variety of goals including the interests of future generations. … If all we cared about was future GDP, a good rule would be to pass a policy if prediction markets estimate that future GDP will be higher with the policy than without the policy. Of course, we care about more than future GDP; perhaps we also care about environmental quality, risk, inequality, liberty and so forth. What Hanson’s futarchy proposes is to incorporate all these ideas into a weighted measure of welfare. … Note, however, that even this assumes that we know what people in the future will care about. Here then is the final meta-twist. We can also incorporate into our measure of welfare predictions of how future generations will define welfare. (more)
+For example, we could implement a 2% discount rate by having official welfare be 2% times welfare this next year plus 98% times welfare however it will be defined a year from now. Applied recursively, this can let future folks keep changing their minds about what they care about, even future discount rates.
+We could also give votes to people in the past. While one can’t change the experiences of past folks, one can still satisfy their preferences. If past folks expressed particular preferences regarding future outcomes, those preferences could also be given weight in an overall welfare definition.
+We could even give votes to animals. One way is to make some assumptions about what outcomes animals seem to care about, pick ways to measure such outcomes, and then include weights on those measures in the welfare definition. Another way is to assume that eventually we’ll “uplift” such animals so that they can talk to us, and put weights on what those uplifted animals will eventually say about the outcomes their ancestors cared about.
+We might even put weights on aliens, or on angels. We might just put a weight on what they say about what they want, if they ever show up to tell us. If they never show up, those weights stay set at zero.
+Of course just because we could give votes to future folks, past folks, animals, aliens, and angels doesn’t mean we will ever want to do so.
+
+
+title: Who/What Should Get Votes?
+
+date: May 13, 2014 4:00 pm
+

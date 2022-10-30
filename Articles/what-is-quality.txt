@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+It seems to me that what people usually mean by a product’s “quality” is the overall value someone might gain from it, ignoring its price.  Sometimes people talk about a product’s “value”, or it being a good “deal,” referring to its over all value including its price.  And sometimes people will talk about quality given certain constraints.  For example, folks might talk about a “great one bedroom apartment” suggesting that two bedroom place might be better, but that such comparisons are set aside for now. But the most common way to evaluate products is to just talk about value ignoring price. Yet why ignore price?
+A status theory is that we most want to know about how impressed other folks might be if we had a product, and so want “quality” to focus on visible features. When price is invisible, we don’t want it included. This theory predicts that other invisible features will also not be included in quality.
+Another theory is that we want “quality” to focus on features that we mostly agree are good.  The more we disagree on the value of a feature, the less we want it included in “quality.” So if people vary enough in their value for money relative to other features, we won’t want price included.  This theory predicts that other features where preferences also vary greatly will not be included in quality.
+A third theory is that we just mentally categorize what we pay for a product as not “part of” the product.”  This theory suggests we’d also not include how quickly we could get the product shipped to us, or how easily it could be serviced, in its quality.
+Any other theories to consider?
+
+
+title: What Is “Quality”?
+
+date: April 27, 2011 8:00 am
+

@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+I have said things like:
+We should expect brain emulation to be feasible because brains function to process signals, and the decoupling of signal dimensions from other system dimensions is central to achieving the function of a signal processor.
+Bryan Caplan says I make:
+the Metaphorical Fallacy. Its general form:
+1. X is metaphorically Y.
+2. Y is literally Z.
+3. Therefore, X is literally Z.
+…. To take a not-so-random example, … Robin says many crazy things … like:
+1. The human mind is a computer.
+2. Computers’ data can be uploaded to another computer.
+3. Therefore, the human mind can be uploaded to a computer.
+No, I’m pretty sure that I’m saying that your mind is literally a signal processing system. Not just metaphorically; literally. That is, while minds have a great many features, a powerful theory, in fact our standard theory, to explain the mix of features we see associated with minds, is that minds fundamentally function to process signals, and that brains are the physical devices that achieve that function. And our standard theories of how physical devices achieve signal processing functions predicts that we can replicate, or “emulate”, the same signal processing functions in quite different physical devices. In fact, such theories tell us how to replicate such functions in other devices.
+Of course you can, like Bryan, disagree with our standard theory that the main function of minds is to process signals. Or you could disagree with our standard theories of how that function is achieved by physical devices. Or you could note that since the brain is a signal processor of unparalleled complexity, we are a long way away from knowing how to replicate it in other physical hardware.
+But given how rich and well developed are our standard theories of minds as signal processors, signal processors in general, and the implementation of signal processors in physical hardware, it hardly seems fair to reject my conclusion based on a mere “metaphor.”
+
+
+title: Theories vs. Metaphors
+
+date: September 8, 2012 8:45 am
+

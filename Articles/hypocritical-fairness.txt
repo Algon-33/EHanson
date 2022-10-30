@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Arvind Narayanan puzzled over this fact:
+Online price discrimination is suspiciously absent in directly observable form, even though covert price discrimination is everywhere. … The differential treatment isn’t made explicit — e.g., by not basing it directly on a customer attribute — and thereby avoiding triggering the perception of unfairness or discrimination. (more)
+So he read up on fairness:
+I decided to dig deeper into the literature in psychology, marketing, and behavioral economics on the topic of price fairness and understand where this perception comes from. What I found surprised me.
+First, the fairness heuristic is quite elaborate and complex. … A particularly impressive and highly cited 2004 paper reviews the literature and proposes an elaborate framework with four different classes of inputs to explain how people decide if pricing is fair or unfair in various situations. …
+Sounds like we have a well-honed and sophisticated decision procedure, then? Quite the opposite, actually. The fairness heuristic seems to be rather fragile, even if complex. … More generally, every aspect of our mental price fairness assessment heuristic seems similarly vulnerable to hijacking by tweaking the presentation of the transaction without changing the essence of price discrimination. …
+The perception of fairness, then, can be more properly called the illusion of fairness. … Given that the prime impediment to pervasive online price discrimination is a moral principle that is fickle and easily circumventable, one can expect companies to do exactly that. (more)
+Of course all of our perceptions are subject to framing to some degree. But Narayanan seems to be saying that fairness perceptions are much more subject to framing than usual. And I agree. But then the key question is: why are fairness perceptions so much more fragile and subject to framing?
+A homo hypocritus perspective accounts for this nicely I think. If humans evolved the habit of pretending to follow social norms while covertly coordinating to evade them and use them to social advantage, we should expect the psychology of social norms to be flexibly able to come to whatever conclusions a winning covert coalition desires.
+What does 2+2 equal in fairness? The main question we privately ask is, what do we want it to equal?
+
+
+title: Hypocritical Fairness
+
+date: January 24, 2013 1:25 pm
+

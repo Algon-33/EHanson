@@ -1,0 +1,21 @@
+author: Stuart Armstrong
+
+text: 
+There is an old book by Thomas Shelling from 1978, entitled Micromotives and Macrobehavior. In it he describes a computer model to explain segregated neighbourhoods, but it also can describe self-sustaining biased communities.  In the model, every agent is grey or black. They prefer their own colour, but not strongly – they will move only if 45% of their neighbours are of a different colour. Very quickly, however (within "two moves" in the original computer model) the result is a completely segregated society. More intriguingly, he finds that 
+
+ increased tolerance does not necessarily make a stable mixed result more likely. 
+
+  Now ‘colour’ can stand in for many things – race, religion, politics, social class, and biases/opinions.  That last category is where it become relevant for us. Modeling ‘neighbours’ as the people you choose to interact with, this shows how a slight preference for avoiding disagreement ("I don’t want the majority of my friends to be of opposite political views") can result in the clumping together of groups with similar biases.
+And once the groups are formed, social factors then act to reinforce the biases of the agents – when all those you interact with have similar biases, it becomes very unlikely you will change your mind. Even if you decide to investigate something impartially, all those you know will be pulling in the same direction, meaning that you are unlikely to make a clean break. And stronger biases then feed into the clumping guaranteeing the stability of the segregation.
+But that’s just standard social biases. The new piece in this model is that simply reducing biases (or at least reducing public announcement of biases, since those cause the group clumping) may not reduce the clumping at all. They may need to nearly vanish before that happens. Another relevant new point in the model is that individuals did not want or seek out the biased ‘mono-culture’ they ended up with – it was just the sum of their interactions.
+  
+In summary:1) Segregated biased groups can arise from small individual biases2) Thus we shouldn’t conclude from the overall situation that the individual biases are strong3) Once segregated, the biases are reinforced4) The overall situation is not one that the individuals desired5) Just reducing individual biases may not help
+So how to deal with a situation where we suspect this is happening? The approach pioneered by this blog – trying to reduce individual biases through discussion and analysis – probably won’t work in this case. Weak market incentives won’t work either. It seems we need either institutionalised correction or strong market incentives to reduce the bias.
+Case studies or examples of situations like this would be interesting. Political views seem the most obvious biases to model as above, but there should be lots of more subtle examples.
+NB: There might be a different approach – change the definition of ‘neighbours’ so that microbiases are no longer amplified. If we no longer have ‘the neighbours of my neighbours are more likely to be neighbours of mine’, then the assumptions break down. The internet was helping to do this, but social networking sites are moving the other way. 
+
+
+title: Biases, by and large
+
+date: March 12, 2007 5:10 pm
+

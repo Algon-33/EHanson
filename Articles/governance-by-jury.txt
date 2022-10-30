@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Among the many proposed forms of governance, some are “direct democracy” wherein all citizens vote on key choices, and some are variations on “demarchy”, i.e., assigning key roles to, or filling legislatures with, random citizens. The following proposal is similar in some ways, but seems different enough to be worth treating separately. I’m not sure if “jurarchy” is a good idea, but it seems to me simple and elegant enough to be worth considering.
+Here is an especially simple version, though variations (some discussed below) may be better:
+There is always a status quo set of government policies, including who sits in each key role. At any time, anyone can propose a change to these policies, if they pay fee $A. A court case then ensues, overseen by a random judge and decided by a random jury of N citizens. A key government agency is charged with defending the status quo in these cases. The judge can declare the proposal unconstitutional, or say that recent changes have invalidated it. But if not, and if M jurors support the proposal, then it becomes official policy, and challenger is awarded bounty $B.
+And that’s it; everything is decided this way (aside perhaps from constitution changes). If the cost of pursing a case is $C, then we expect such challenges to be made from purely financial motives when the chance P of winning the case exceeds (A+C)/B.
+Of course we might want some jury rules, such as no bribes to buy juror votes. Jurors might or might not be allowed to consult outside advisors, and might or might not be told of jury decisions on recent similar cases. Jurors might be chosen new for each case, or they might learn via sitting on juries that work together on many cases over many months.
+One potential problem with the above system is that parties who stand to gain a great deal from a policy change may keep re-trying the same proposal until they happen to get a favorable jury. If they gain $G from the change itself (not via bounty), and if juries make bad decisions at error rate E, then this approach is profitable on ave when E*(B+G) exceeds A+C. Observers who believe a change was made in error would expect to profit by proposing a reversal. But is this solution enough?
+A futarchy-based variation might help here. After a jury has ruled in favor of a proposal, we could immediately open up a betting market on the chance that another random jury would also favor that proposal, in a new court case. This new case might use the same values of A,B,N,M, or it might scale these up in the hope of getting a more considered judgment. This new case might be created with chance F. The original jury decision might be said to be confirmed, and implemented, only if this betting market estimated at least a conditional chance Q of confirmation. Yes, markets can also make mistakes, so this in essence just lowers error rate E.
+Another potential problem is that this jury process might be too slow to make key changes. To deal with this, we might create a similar betting market as soon as a proposal is officially made, about that first jury process. A proposal might be immediately adopted if that market estimated at least a chance Q’ of the proposal winning.
+I’m sure we could think of more problems, and more potential fixes. But there’s a real risk of fixes making things worse, especially as the system gets more complex, and as the citizen audience who must oversee it gets bored with complex details. So I’m attracted to very simple proposals, and tempted to just accept modest problems, instead of adding many complex fixes.
+See also: Explainable Governance.
+
+
+title: Governance By Jury
+
+date: December 24, 2019 11:30 am
+

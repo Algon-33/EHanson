@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Our eyes tell us we see our whole field of view clearly.   But in fact we only see clearly near the direction our eyes are currently looking.  Similarly, we feel we are watching out for many kinds of biases.  But in fact we probably only correct for a few biases that we currently notice.   And even when we notice many biases, we may not have the will or desire to overcome them all.  How should we allocate such limited resources to overcome bias?  
+Presumably we should focus on the most important topics, and the topics most prone to bias.  But beyond that, a common economists’ intuition is to focus on institutions.  If with modest effort we could identify and implement an institution that from then on tended to better discourage and suppress bias, our efforts would have been greatly leveraged.
+ This intuition about the leverage of institutions has driven a lot of my research.  And the hope of gaining even more leverage, from better institutions for choosing institutions, is a big part of why I’m so interested in decision markets.  But I have to admit that even when professionals can clearly identify better institutions, it can be very hard to actually get them implemented.  
+ Since we have a limited supply of altruism, I am reluctant to consider institutions that rely very heavily on human altruism.  But I also don’t know how to push for better institutions without a large dose of something that looks a lot like altruism.  So I suspect the best use of our limited altruism is to push for better institutions. 
+
+
+title: Institutions as Levers
+
+date: February 8, 2007 6:00 am
+

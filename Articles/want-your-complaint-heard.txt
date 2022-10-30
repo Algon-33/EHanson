@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+People like to complain; social media is full of it. But such complaints seem less than fully satisfying, perhaps because we usually complain to third parties. Maybe what we really want is to know that the target of our complaint heard and understood it. If so, let’s make that possible.
+Imagine that you feel a complaint coming on. So you go to YouHurtMe.Com, and navigate down a hierarchy of possible complaint target groups, to reach specific options like “White people who think they aren’t racist”, “Women who think they are too good for a man like me”, or “Students who grade grub to improve a B+”. You could pick larger encompassing target groups, or define some even more specific targets.
+Once you find your target group, you next pick your specific complaint, such as “You actually are racist”, “You aren’t as good as you think”, or “Be grateful for your B+”. If you don’t see your complaint listed there, you can add one. Once you’ve declared yourself a complainer of this type, you can browse some essays expressing that complaint, and vote on which essay looks best.
+Or you might add your own new essay for consideration. But your essay must be civil, and include at least one multiple-choice comprehension test question at the end.
+Targets of complaints can also come to the website. They may sincerely want to hear complaints made against people like them, and want to show those who make such complaints that they’ve heard and understood them. The system asks each new visitor some questions designed to quickly identify complaints targeted at them. (They can refuse to answer some questions.)
+They then select a matching complaint, like “You actually are racist”, read the top voted essay, and take the ending comprehension test. Having passed the test, they are now publicly listed among targets who have heard and understood the complaint.
+We might want to allow those who’ve heard complaints about them to respond in some way, though perhaps that risks too much acrimony. Less problematically, we might allow compliments as well as complaints to be created and heard via this same structure.
+But, bottom line: it seems quite feasible to let complainers know that the targets of their complaints have heard and understood them. Which is what complainers often say is the main thing they want: to be heard.
+From a conversation with Agnes Callard.
+
+
+title: Want Your Complaint Heard?
+
+date: February 21, 2022 7:00 pm
+

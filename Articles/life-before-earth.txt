@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+This paper is two years old now, but still seems big news to me:
+
+Genetic complexity, roughly measured by the number of non-redundant functional nucleotides … Linear regression of genetic complexity (on a log scale) extrapolated back to just one base pair suggests the time of the origin of life = 9.7 ± 2.5 billion years ago. … There was no intelligent life in our universe at the time of the origin of Earth, because the universe was 8 billion years old at that time, whereas the development of intelligent life requires ca. 10 billion years of evolution. (source; discussion; HT Stuart LaForge)
+That seems remarkably close to the age of the universe, 13.8 billion years. Yes it might be a coincidence, but we have other reasons to suspect life began before Earth. So I take this as a substantial if hardly overwhelming confirmation.
+
+
+title: Life Before Earth
+
+date: March 13, 2015 11:45 am
+

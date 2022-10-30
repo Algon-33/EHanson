@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Regarding what areas of our life do we think advisors can usefully advise? Some combination of they actually know stuff, plus we can evaluate and incentivize their advice enough to get them to tell us what they know, plus how possible it is to change this feature.
+Yesterday I had an idea for how to find this out via polls. Ask people which feature of them they’d most like to get advice on how to improve it from a respected advisor, and also ask them on these same features which ones they’d most like to increase by 1%. The ratio of their priorities to get advice, relative to just increasing the feature, should say how effective they think advice is regarding each feature.
+So I picked these 16 features: attractiveness, confidence, empathy, excitement, general respect, grandchildren, happiness, improve world, income, intelligence, lifespan, pleasure, productive hrs/day, professional success, serenity, wit.
+Then on Twitter I did two sets of eight (four answer) polls, one asking “Which feature of you would you most like to increase by 1%?”, and the other asking “For which feature do you most want a respected advisor’s advice?” I fit the responses to estimate relative priorities for each feature on each kind of question. And here are the answers (max priority = 100):
+
+According to the interpretation I had in mind in creating these polls, advisors are very effective on income and professional success, pretty good at general respect and time productivity, terrible at grandchildren, and relatively bad at happiness, wit, pleasure, intelligence, and excitement.
+However, staring at the result I suspect people are being less honest on what they want to increase than on what they want advice. Getting advice is a more practical choice which puts them in more of a near mode, where they are less focused on what choice makes them look good.
+However, I don’t believe people really care zero about grandchildren either. So, alas, these results are a messy mix of these effects. But interesting, nonetheless.
+Added 11am: The advice results might be summarize by my grand narrative that industry moved us toward more forager like attitudes in general, but to hyper farmer attitudes regarding work, where we accept more domination and conformity pressures.
+Added 24Jan: I continued with more related questions until I had a set of 12 then did this deeper analysis of them all.
+
+
+title: On What Is Advice Useful?
+
+date: January 9, 2022 8:50 pm
+

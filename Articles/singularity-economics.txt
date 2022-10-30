@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+The June IEEE Spectrum singularity issue includes my "Economics of the Singularity", which they subtitled  "Stuffed into skyscrapers by the billion, brainy bugbots will be the knowledge workers of the future."  It starts boldly (emphasis added):  
+
+Our global economy would stupefy a Roman merchant as much as the Roman economy would have confounded a caveman.  But we would be similarly amazed to see the economy that awaits our grandchildren, for I expect it to follow a societal discontinuity more dramatic than those brought on by the agricultural and industrial revolutions. 
+
+A bit too boldly actually; the last draft I sent them was more modest (and shorter):  
+
+But we might be similarly amazed to see the economy that awaits our grandchildren, for it may follow a societal discontinuity just as dramatic as the agricultural and industrial revolutions.  
+
+About my article, Vernor Vinge says:  
+
+In his essay, Hanson focuses on the economics of the singularity. As a result, he produces spectacular insights while avoiding much of the distracting weirdness. And yet weirdness necessarily leaks into the latter part of his discussion.   
+
+The editor’s introduction says:   
+
+Robin Hanson, an economist, describes a future in which capitalist imperatives and technological capabilities drive each other toward a society that the word weird doesn’t even begin to describe.  
+
+Reading the entire issue saddens me.  Opponents rarely connect to clarify or dissect their disagreements – only Vinge directly responds to others.   Each side can tell itself others haven’t understood their main claims and arguments.  What do to?  I can offer to engage others more directly, but I fear I am too low status to be worth the bother.   
+Added 16Jun:  John Tierney blogs the paper here.
+
+
+title: Singularity Economics
+
+date: June 1, 2008 6:00 am
+

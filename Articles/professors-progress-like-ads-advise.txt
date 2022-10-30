@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+A system designed to advise a captive audience about the features and quality of available products would look a lot more like Consumer Reports than the world of advertising we see.  But this situation isn’t especially puzzling – we understand that neither those who make ads nor those who watch them have product information as their primary goal.   Ad makers want to sell, and ad watchers want to be entertained.   
+ Observers often have trouble, however, understanding how academia could consistently fail to achieve useful intellectual progress.  Since academia is such a decentralized competitive system, people figure that any failures to make progress must be the unavoidable error that appears in any system designed to explore the unknown.  Since we can’t know what we will discover until we discover it, complaints about progress are compared to second-guessing Monday-morning quarterbacks.   
+ But in fact, academia is no more about making useful intellectual progress than advertising is about informing consumers.  Professors seek prestigious careers, while funders and students seek prestige by association.  Academics talk and write primarily to signal their impressive mental abilities, such as their mastery of words, math, machines, or vast detail.  Yes, contributing to useful intellectual progress can sometimes appear impressive, but the correlation is weak, and it is often hard to see who really contributed how much.   Progress happens, but largely as a side effect.   
+  
+The astronomer Steinn Sigurosson observes:
+
+[Lee Smolin’s] points on groupthink, and the systematic bias which discourages innovation and risk taking by young researchers hits painfully home – it is all too true, and yet it self-perpetuates because the mechanisms which reinforce conservatism in science are there for reasons. The system is flawed, and possibly broken, but the fix is not as simple as Smolin suggests – funding agencies are terrified of funding bad science, since there is so much pretty good science it is safe to fund, and as a community scientists are very harsh when bad science is mistakenly given precious resources.
+It is the same market flaw that gives us beautiful flawless large red apples in supermarkets – with no taste.To get the old intense flavour varieties that everyone loves when they taste, we would have to choose small bruised discoloured apples when we shop, and leave the flawless big red apples with no taste in the bins. But collectively we do not, and the market responds. All for the fear of being the one department head comsumer to go home with an occasional rotten apple.The real shame is that the big red shiny tasteless apples are rotten just as often, they just look so good sitting there, waxed and sprayed, in the bin.
+We will muddle through, progress will be made again, hordes of string theorists will be proven wrong, and some few of them may well be right, but no one will remember which.Science is self-correcting, which is its great strength, as long as we don’t let the sociology do long term damage to the underlying scientific methodology. ‘Course if you only get to buy one apple every three years you learn to be very conservative in your choice; don’t want a rotten or even tart apple this decade.
+
+Consumers who choose pretty apples do not get especially tasty apples, and funders who choose impressive scientists do not especially promote progress.
+Hat tip to Not Even Wrong.     
+
+
+title: Professors Progress Like Ads Advise
+
+date: February 27, 2007 6:00 am
+

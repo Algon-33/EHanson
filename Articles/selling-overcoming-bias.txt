@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+I recently met a Brit who studies the psychology of environmentalism.  Quick summary:  To get people to act on environmental ideals, first make those beliefs salient, such as by making salient an in-group identity associated with the environment.  For example, you might remind a Brit that Americans (the out-group) are less environmental than Brits (the in-group).  Second, in such a moment of weakness, get people to declare their intention to take certain specific environmental actions, such as recycling each plastic bottle they use.  Third, remind them of this intention when that action is to be taken, such as by having recycle logos near trash cans.  
+Can we apply this to overcoming bias?  While at the most abstract level many people will point out general advantages of bias, once you get to particular topics it is rare to hear someone say approvingly that their beliefs on that particular topic are biased.  So our ideal of overcoming bias has very wide support at this middle level.  But once we get down to the level of the particular thoughts people have at particular moments, their devotion to overcoming bias tends to disappear; they can’t be bothered to actually overcome their biases.
+ Thus, like environmentalism, overcoming bias is an ideal for which people are more likely to declare moderately abstract support than to display moment-to-moment adherence.  So could mechanisms similar to those used by environmentalists be useful in trying to get people to live up to their anti-bias ideals?  What would be the relevant in-groups, action declarations, and local reminders? 
+  
+It might seem good that our ideal is almost universally given lip service, but unfortunately this makes it harder to find an out-group that people can identify as against overcoming bias.  Some people think of "science" or "scholars" as the in-group more committed to overcoming bias, but unfortunately this description can often be hard to square with actual academic practice.  What other candidate in or out groups do we have to work with?
+ What concrete visible action policies could we get people to endorse, where they could clearly see if they were failing to live up to their overcoming bias ideals?  One possible policy is to engage, by listening and responding "enough", to high "enough" status people who disagree with us on important "enough" topics.  Unfortunately, we can avoid the spirit of this policy via our judgments of what is "enough."   
+ Another possible policy is to always perform statistical tests on any concrete inference, and to drawn no conclusions that are statistically "insignificant."  Unfortunately, we usually have enough chances for data mining to make this a rather weak constraint.   Finally, we might follow the policy of accepting the consensus of a betting market, unless we are betting to move that consensus toward our opinion; we should "put up or shut up."  Unfortunately, we would need a lot more betting markets for this to be more than a very weak constraint.
+
+
+title: Selling Overcoming Bias
+
+date: June 18, 2007 6:00 am
+

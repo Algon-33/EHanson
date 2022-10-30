@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Back in ’08 I wrote:
+The blogsphere adores Kruger and Dunning’s ‘99 paper “Unskilled and Unaware of It“. … This paper describes everyone’s favorite theory of those they disagree with, that they are hopelessly confused idiots unable to see they are idiots; no point in listening to or reasoning with such fools.  However, many psychologists have noted Kruger and Dunning’s main data is better explained by positing simply that we all have noisy estimates of our ability and of task difficulty.
+Here is yet another needed correction:
+Relative to high-performing students, the poorer students showed a greater overconfidence effect (i.e., their predictions were greater than their performance), but they also reported lower confidence in these predictions. Together, these results suggest that poor students are indeed unskilled but that they may have some awareness of their lack of metacognitive knowledge. (more)
+
+
+title: The Unskilled Are Aware
+
+date: March 4, 2011 1:30 pm
+

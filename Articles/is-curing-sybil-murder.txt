@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Sybil supposedly had sixteen distinct personalities.  “Curing” such patients by eliminating or merging their personalities isn’t obviously good:
+The cognitive fragmentation that characterizes DID [Dissociative Identity Disorder] far outstrips … self-deception and akrasia.  Indeed, … it becomes difficult not to regard each alter as a distinct locus of experience, thought and agency.  As Wilkes points out with respect to the Beauchamp case,
+[Prince] firmly (for example) ticked Sally off for her tricks follies, and would lecture her sternly; he criticized or approved of B4’s plans for finding a job, or for taking a holiday; and he commended B1’s sweet and self-sacrificing nature. All the alternate personalities were thus treated as moral and prudential agents, with respect to other people, with respect to each other, and with respect to their own selves. Prince is by no means alone in taking such an attitude to the diverse personalities of a patient – it is practically impossible to avoid.
+There are two standard therapeutic approaches to DID. … [Restoration] involves the installation of a particular alter as the unique `owner’ of a body.  … An alternative … [is] integration of the various alters into one self,  a single agent with a (unified) stream of consciousness and a unified  psychological profile. …
+Assuming the strong model of DID and a psychological account of full moral status, restoration would seem to involve the involuntary elimination of an entity with a right to continued existence. (I assume that – as is in fact often the case – the alters in question do not want to be eliminated. …). Restoration may not amount to murder … but it would seem to involve an act of comparable moral gravity. …
+Enforced integration does not appear to be as wrong as restoration, but it does seem to be deeply problematic nonetheless. It is not clear that integration should be thought of as the `elimination’ of an alter, but it may well approach that (especially as the number of alters that are integrated increases).
+More here and here.  Our future will contain a much wider range of creatures, and we will have to decide when it is good or bad to create or destroy them.  We should at least prepare by coming to terms with the creatures we have today.
+Added 18Mar:  The fictional Borg merged humans into a larger more-integrated collective mind.  If merging alters is good, why isn’t a Borg better?
+
+
+title: Is Curing Sybil Murder?
+
+date: March 27, 2010 5:40 pm
+

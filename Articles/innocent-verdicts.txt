@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+From David Friedman’s Legal Systems Very Different from Ours:
+Athenian Law: The Work of a Mad Economist …
+Most law cases were either public or private. A public case corresponded roughly to our criminal cases; it was supposed to be for an offense that injured not merely a single person but the whole community. At one time such cases may have been prosecuted by magistrates but by our period that was possible only for minor charges. The ordinary procedure was for the case to be privately prosecuted by any male citizen who chose to do so. The prosecutor would, for many but not all sorts of cases, receive a substantial fraction of any resulting fine, sometimes as much as half, as his reward. If the case was based on the claim that the defendant was holding property that properly belonged to the state, a successful prosecution would result in half of the property forfeiting to the state, half to the prosecutor.
+Such a system raises the risk of suits against innocent defendants believed to be rich, unpopular, or both. One solution was a provision of the law under which, in many public cases, a prosecutor who failed to get at least a fifth of the jurors to vote for conviction was himself both fined and barred from any future suits of the same kind. The fine was 1000 drachmas, roughly two years’ wages for an ordinary craftsman. It was also possible to charge a prosecutor with the crime of sycophancy, abusive prosecution, although such charges were limited to at most three citizens and three metics each year. (pp. 262-263)
+On reflection this is a nice design feature, to discourage prosecuting the innocent. So I propose: every trial should have three possible verdicts: guilty, not guilty, and innocent. If the verdict is innocent, then not only does the accused go free, the other side is declared guilty of knowingly prosecuting the innocent. And punished somehow, perhaps including being fired and/or paying damages to the accused.
+
+
+title: Innocent Verdicts
+
+date: July 23, 2020 7:10 pm
+

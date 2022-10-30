@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+In my career as a researcher and professor, I’ve come across many decisions where my intuition told me that some actions are prohibited by norms. I’ve usually just obeyed these intuitions, and assumed that everyone agrees. However, I only rarely observe what others think regarding the same situations. In these rare cases, I’m often surprised to see that others don’t agree with me.
+I illustrate with the following set of questions on which I’ve noticed divergent opinions. Most academic institutions have no official rules to answer them, nor even an official person to which one can ask. Professors are just supposed to judge for themselves, which they usually do without consulting anyone. And yet many people treat these decisions if they are governed by norms.
+
+What excuses are acceptable for students missing an assignment or exam?
+If a teacher will be out of town on a class day, must a substitute teacher always be found or can classes sometimes be cancelled? How often can this be done?
+Is there any limit on how much extra help or extra credit assignments teachers can offer only to particular students?
+Should students be excused for misunderstanding questions due to poor understanding of English?
+Is it okay in college to teach students to just remember and then spit back relatively dogmatic statements, instead of trying to teach them how to think about more complex problems?
+Is it okay to assign a final exam, but then toss the exams and give out final grades based on all prior assignments?
+Is it okay to give all grad students A grades, and to praise all their papers as brilliant, as a way to compete to get students to pick you as their PhD advisor?
+Is it okay to lecture while stumbling drunk?
+Must you cite the work that actually influenced your work if it is lowbrow like blogs, wikipedia, or working papers, or if it is outside your discipline?
+Can you cite prestigious papers that look good in your references if they did not influence your work?
+Is it okay to write as if the first work of any consequence on a topic was the first to appear in a top prestige venue, in effect presuming that lower prestige prior work was inadequate?
+Should you cite papers requested by journal referees if you don’t think them relevant?
+How much searching is okay, searching in theory assumptions or in statistical model specifications, in order to find the kind of result you wanted? Must you disclose such searching?
+Is it okay to publish roughly the same idea in several places as long as you don’t use the exact same words?
+
+I expect the same holds in most areas of life. Most detailed decisions that people treat as norm-governed have no official rules or judges. Most people decide for themselves without much thought or discussion, assuming incorrectly that relevant norms are obvious enough that everyone else agrees.
+
+
+title: Automatic Norms in Academia
+
+date: December 29, 2017 10:00 am
+

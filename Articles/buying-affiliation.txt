@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+We care about the origins of art. Comparing two physically identical artworks, we pay more for an original than a duplicate, and not because we think originals have better quality, rarity, resources, or effort. Instead it seems we pay for a more direct physical connection to the artist:
+Duplicate artworks are judged to be less valuable than duplicate artifacts. We observed this effect even when both the original artwork and the original artifact were one of a kind and were equivalent in value. Experiment 2 helped to further rule out the potentially confounding inferences based on the relative quality of a duplicate artwork versus a duplicate artifact, as well as on the belief that duplicate artifacts are simply more common than duplicate artworks. Finally, the results of Experiment 3 address the alternative explanation that original artworks are valued because they are perceived as requiring more effort and resources to produce. …
+The [importance of] degree of physical contact with the original artist (contagion). … was supported in Experiment 1 and more directly in Experiment 5, where artworks made with a hands-on process were judged to be more valuable than those made with a hands-off process. In addition, contagion had a larger impact for artworks than for artifacts. Support for uniqueness of performance as an important dimension came primarily from Experiment 4, where the act of intentionally duplicating a painting (as opposed to accidentally making a similar looking painting) had a twofold impact on judgments of value in driving down the value of a duplicate, while driving up the value of the original. …
+[The idea] that people value original artworks solely because they observe that other people value originals more than duplicates—cannot be entirely correct. … Previous research has documented how … mere proximity between two items in a shopping cart or on a table may be sufficient to trigger inferences about contamination, which can raise or lower value. … Similarly, everyday artifacts can gain value through contact with certain special individuals, such as celebrities. Finally, assessments of a performance as effortful or unique may apply to wide array of objects and events, such as evaluations of sports or scholastic achievement. (more)
+This lends some support to the suggestion that customers of academia, such as students, funders, and readers, pay in part for a more direct affiliation with certified-as-impressive academics.
+
+
+title: Buying Affiliation
+
+date: November 17, 2011 11:00 am
+

@@ -1,0 +1,38 @@
+author: Robin Hanson
+
+text: 
+For good or evil, one of our greatest legacies will be global governance:
+Our institutions of global governance may grow, follow us as we expand, and entrench themselves forever.  On the downside, they might perpetuate themselves even if they hurt our descendants on net.  On the upside, we might use them to overcome key coordination failures.
+What will determine the breadth and strength of future global governance? Ideology and public opinion will play a part, but more important is probably organizational innovation; we’ll need better mechanisms to make it work.
+As I’ve mentioned before, our use today of larger scale government is limited by the fact that local governments are usually more efficient.  The recent failure to create a global climate treaty offers a vivid example; central coordination is typically slow, expensive, and error prone.  So I doubt we’ll use central government to coordinate much more than we do now, until we learn how to do that more effectively.
+While ancient empires sometimes covered wide areas, they didn’t get much involved in most activities, as long as tribute was paid.  Similarly, most ancient businesses were small scale.  But organizational innovations over the centuries have enabled both larger firms and larger governments.  Governments today get involved in more areas of life, and do so at larger scales; issues that were once private or municipal are now national or international.  This trend may or may not continue.
+To avoid ideological distractions, let’s focus on how this plays out in business.  In particular, consider organizational economies and diseconomies of scale. Economies of scale are ways in which a larger organization are more efficient that smaller ones.  For example, larger organizations can produce using larger plants, share coordinated distribution networks, or share broader reputations.
+Diseconomies of scale are ways in which larger organizations are less efficient that smaller ones.  Those not very familiar with large organizations often find it hard to imagine such diseconomies exist, and this failure of public imagination is arguably a big reason governments are often too large.  This review lists Williamson’s four factors hurting larger firms:
+
+Employees often have a hard time understanding the purpose of corporate activities, as well as the small contribution each of them makes to the whole. …
+Senior managers are less accountable to the lower ranks of the organization and to shareholders. …
+Incentives large firms offer employees is limited by … large bonus payments may threaten senior managers. … [and] performance-related bonuses may encourage less-than-optimal employee behaviour. …
+It is impossible to expand a firm without adding hierarchical layers. Information passed between layers inevitably becomes distorted.
+
+These have intuitive plausibility, but it is not clear exactly why they occur, nor why they are so hard to overcome.  Compare two scenarios:
+
+Firms – Each of a dozen separate public firms has its own CEO, board of directors, and investors.  Each firm regularly publishes accounting data to help investors monitor it, and its CEO has some incentive contract where pay is tied to measures of firm performance.
+Divisions – These units are now each a division of one large firm.  Folks who would have been CEOs are now division managers.  As far as possible, the same accounting data is collected on each division, and each manager gets the same incentives tied to division performance measures.  Tracking stocks are created to let investors focus on particular divisions.  The top CEO looks for rare chances to gain value by coordinating division activities, but usually leaves them be.
+
+Firm profitability data suggests our largest firms are usually too big, and would be better off split into smaller firms.  But the puzzle is: when firms get large, why can’t they switch more to the divisions scenario; why is the firms scenario required for efficient operation?
+After Arnold Kling and I discussed this, he suggested:
+
+CEO’s are biased to think that they can outperform decentralized decisions. …
+Large firms … [allow] globally high status positions. … People differ in their tastes for these games, as well as in their tastes for stability and security (large firms) vs. novelty, risk, and opportunity (small firms). …
+If a big company decentralizes, there is no effective way to control the risk that an individual unit creates. Look at what happened to AIG.
+
+Thoughtful, but not fully satisfying.  I’ll say possible answers fall into two categories: can’t and won’t. 
+Can’t answers say “as far as possible” isn’t far enough; divisions just can’t duplicate the accounting stats, investor monitoring, or manager incentives of firms. Maybe division managers can’t get the same respect from outsiders as CEOs, so you can’t attract the same folks to those roles.
+Won’t answers admit the division scenario is possible, but say few CEOs will choose it; most prefer less efficient firms over less centrally managed ones.  Most CEOs will just refuse to give division managers the stats, autonomy, investors, or incentives they’d have in separate firms.
+Won’t answers sound more plausible to me.  In the divisions scenario, the top CEO has less to do, and plausibly should be paid less than division managers.  But that conflicts with his or her higher status and choice of who should be division managers.  Since firms needing more active CEOs should pay them more, if there is uncertainty about how actively firms should be managed, CEOs have incentives to be more active than is good for the firm, in a bid for more pay.  While these don’t sound like insurmountable problems, they may well not yet have been surmounted.
+
+
+title: Whence Scale Diseconomies?
+
+date: December 27, 2009 12:45 am
+

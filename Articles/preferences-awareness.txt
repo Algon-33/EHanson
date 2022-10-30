@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+I recently asked:
+The vast majority of economic papers and books that offer explanations for human behaviors don’t bother to distinguish if their explanations are mediated by conscious intentions or not. (In fact, most papers on any topic don’t take a stance on most possible distinctions related to their topic.) …
+Yet I’ve had even economics colleagues tell me that I should take more care, when I point out possible signaling explanations, to say if I am claiming that such signaling effects are consciously intended. But why would it be more important to distinguish conscious intentions in this context, compared to the rest of economics and social science?
+Bryan Caplan answers:
+Standard signaling models assume that people dislike sending the signal. It is this assumption that implies that signaling equilibria are highly inefficient – or even full-blown Prisoners’ Dilemmas. If people enjoyed signaling, in contrast, signaling equilbria could easily be ideal. What superficially appears to be a vast zero-sum game turns out to be fine because the players like playing the game.
+So why don’t economists clearly acknowledge the centrality of conscious desire when they apply signaling models to the real world? Because we usually focus on cases where most people plainly don’t enjoy sending the signal. When I wrote The Case Against Education, I definitely double-checked this fact; but I probably wouldn’t have even launched the project if I’d spent a lifetime inside classrooms packed with jubilant learners.
+I agree that, when explaining human behavior, it can often be important to be clear about the preferences that one is postulating. The same behavior explained by different preferences can have different implications for if we should encourage or discourage that behavior.
+But when explaining behavior, postulated preferences and conscious intent are just separate and independent topics on which one can be clear. There is no obvious or necessary relation between them.
+For example, the real reason that people go to school could because they like school, or it could be because they want to show off smarts, conformity, etc. And for either real motive, people could be fully conscious of that motive, or they could be self-deceived and in denial about it. For example, people could think that they enjoy school, but really go to show off, or they could think that they are trying to show off, but really go because they enjoy school.
+While I’m pretty sure that Caplan claims that we go to school more to show off, I’m not actually sure if he has taken much of a stand on how conscious we are in choosing to go to school for this purpose. And that’s my point: I can love his new book (buy it) even without knowing this stance. Like most good economists, he doesn’t bother to distinguish how much his explanation of schooling is mediated by conscious intent.
+
+
+title: Preferences > Awareness
+
+date: November 27, 2017 2:25 pm
+

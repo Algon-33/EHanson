@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+Though we can now see over 1020 stars that are billions of years old, none has ever birthed a visible interstellar civilization. So there is a great filter at least that big preventing a simple dead star from giving rise to visible colonization within billions of years. (This filter is even bigger given panspermia.) We aren’t sure where this filter lies, but if even 10% (logarithmically) of it still lies in our star’s future, we have less than a 1% chance of birthing a wave. If so, either we are >99% likely to always forever more try to and succeed in stopping any capable colonists from leaving here to start a visible colonization wave, if given such a choice, or we face poor odds of surviving to have such a choice.
+Back in March I noted that Katja Grace had an important if depressing insight:
+Back in ‘98 I considered the “doomsday argument” … [but] instead embraced “self-indication analysis”, which blocks the usual doomsday argument.  In ‘08 I even suggested self-indication helps explain time-asymmetry. … Alas, Katja Grace had just shown that, given a great filter, self-indication implies doom!  This is the great filter … Alas I now drastically increase my estimate of our existential risk; I am, for example, now far more eager to improve our refuges.
+Katja has just finished her undergrad honors thesis at ANU, which reports that all three of the main ways to pick a prior re indexical uncertainty (on who am I in this universe) imply that future filters are bigger than we’d otherwise think.  And not just by small amounts – the bigger the filters, the bigger the boost to future filters.
+Now existential risk is important even if its odds are low – so much is at stake in whether our descendants die out or colonize a big chuck of the visible universe. But the bigger the odds, the more important it gets. Let’s review the main ways to estimate existential risk:
+
+Inside Model – using an internal model of how a particular risk process works, use your best guesses on likely model parameters to estimate the chance this process happens.
+Outside Scaling – Use prior rates of smaller events similar to a particular risk, and how such rates scale with size, to estimate the chance of events so big as to be a filter.
+Doomsday Argument – Assuming self-sampling and a reference class, estimate the chance of doom soon based on our time order in the reference class.
+Great Filter – Using estimates of total filter size and the chances of prior filters of various sizes, to estimate distributions over the total future filter size.
+Indexical Filter Boost – Redo the great filter analysis given all the main ways to get indexical priors, and weigh answers accordingly.
+
+Now while many folks use approach #1 to estimate big chances of particular dooms, most such “models” have little formal structure; they are mostly vague intuitions.  So this approach usually influences my opinions rather weakly. Approach #2 is pretty solid, but usually leads to pretty low estimates. Using this approach, war and pandemics seem most likely to destroy half of humanity, but not very likely, and the odds of destroying us all see much lower. Approach #3 gets some weight, but less for me as I find self-sampling pretty implausible relative to self-indication.
+This leaves #4, #5 as the main reasons I worry about existential risk. So having to take #5 seriously in addition to #4 is quite a blow. There is some tension between this and the results of #2, so I must wonder: what big things future could go wrong where analogous smaller past things can’t go wrong? Many of you will say “unfriendly AI” but as Katja points out a powerful unfriendly AI that would make a visible mark on the universe can’t be part a future filter; we’d see the paperclips out there.  Neither would the risk that our descendants’ values diverge from ours, nor  the risk of a rapidly expanding wave of (nanotech) grey goo – only slowly spreading grey goo could count in the future filter.
+Browsing Nick Bostrom’s survey, that leaves us with: weak grey goo, engineered pandemics, sudden extreme climate change, nuclear war, totalitarianism ends growth, and unfriendly aliens. While these all risks seem apriori unlikely, either the entire great filter is in our past, or one of these (or something not listed) is far worse than it seems. But which?
+Also, how likely is it really that such events would destroy all advanced life on Earth, to prevent other primates or mammals from recreating intelligence? After all the fact that human level intelligence arose so soon after human size brains appeared suggests that it was not a past filter of ours. The most likely resolution of all this still seems to me that almost all the filter is in our past, perhaps at the origin of life. But I’m not willing to bet our future on that.
+The good news is that refuges seem effective against most these risks.  While unfriendly aliens mights dig us out of any holes, and prevent other Earth life from re-evolving intelligence, the other risks aren’t intelligent enough for that.  So: let’s make more and better refuges, and for #$@&* sake please stop broadcasting to aliens!
+Added 10a: Refuges would also not protect much against totalitarian world culture and/or government that stops growth. So let’s also try extra hard to avoid that too.
+
+
+title: Beware Future Filters
+
+date: November 4, 2010 4:30 pm
+

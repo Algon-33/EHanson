@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+How much can Aumann style "we can’t agree to disagree" results say about real human disagreements?  One reason for doubt is that Aumann required agents to have common knowledge of their current opinions, i.e., of what their next honest statements would be.   But how often do our conversations reach an "end" where everyone is sure no one has changed their mind since last speaking?
+ A few years ago I published a more relevant variation: "we can’t foresee to disagree."  The setup is again two Bayesians with estimates on the same topic (i.e., the expected value of a random variable), but here they have estimates at two different times.  The first Bayesian could foresee a disagreement if he could estimate a non-zero direction in which the second Bayesian’s estimate will differ from his own estimate.   And he could visibly foresee this disagreement if he could announce this direction, so that it was clear (i.e., common knowledge) to them both that the second Bayesian heard it.   
+ For example, I would visibly foresee disagreeing with you if I said "I think will probably rain tomorrow, but I’m guessing that in an hour you will think it probably won’t rain."  It turns out that such visible foreseeing of a disagreement is impossible for Bayesians with the same prior.  Of course humans disagree this way all the time; if someone says it won’t rain, and then you say it will rain, you can be pretty sure they won’t next be even more sure than you were that it will rain.  (Lab data confirms this.)   
+ This result holds for arbitrary (finite) info distributions that may improve with time.  It is also easy to weaken the common knowledge requirement; they might make estimates conditional on the second Bayesian hearing, or if they were only pretty sure the second Bayesian heard they could only foresee a small disagreement.  It is also easy to allow cognitive errors; Bayesian wannabes could only foresee disagreements due to errors, and then only if they disagreed about topics where info is irrelevant.
+ Of course there still remain the issues of how relevant are honest Bayesians as a normative standard, and whether reasonable priors must be common.  
+
+
+title: We Can’t Foresee To Disagree
+
+date: January 6, 2007 4:15 pm
+

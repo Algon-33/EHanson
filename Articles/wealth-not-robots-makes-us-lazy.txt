@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Tyler Cowen adapts his forthcoming book, Average Is Over, into a NYT essay:
+Self-driving vehicles threaten to send truck drivers to the unemployment office. … There are even computers that can grade essay exams with reasonable accuracy. … Who will prosper and who won’t in this new kind of machine economy?
+Who will do well? THE CONSCIENTIOUS … PEOPLE WHO LISTEN TO COMPUTERS Your smartphone will record data on your life and, when asked, will tell you what to do. … PEOPLE WITH A MARKETING TOUCH … MOTIVATORS … Managers who are motivators of first-rate talent will see their earnings continue to rise.
+Who will be most likely to suffer from this technological revolution? PEOPLE WITH DELICATE FEELINGS Computing and software will make it easier to measure performance and productivity. It will be harder to gloss over our failings and maintain self-deception. … PEOPLE UNLUCKY IN HEALTH CARE … PEOPLE WHO DON’T NEED MONEY … people who are bright, culturally literate, Internet-savvy and far from committed to the idea of hard work directed toward earning a good middle-class living. … have the incomes of the lower middle class and the cultural habits of the wealthy or upper middle class. … POLITICAL RADICALS: … We’re … aging rapidly, and that tends to make society more peaceful, less violent and less extreme in all directions. (more)
+Tyler has the pundit style of trying to make everything seem as if it turns on today’s fashionable worries. Since one of today’s fashionable worry is automation, Tyler talks as if that caused all these trends. But in fact, while most of these trends are real, they have much more to do with increasing wealth than increasing automation.
+Because we are richer, we are healthier and live longer. Older folks are less inclined to political radicalism, and those unluckily in health look all the worse compared to the healthy. Rich folks are also more inclined to be lazy and arrogant, as the threat of starvation fades into non-existence. So among the rich there are bigger gains to retaining strong inclinations to work hard even when rich, and an ability to similarly motivate others. There are also bigger gains among the rich to listening to others, especially about the quality of your work, and resisting the lazy inclination toward arrogance.
+I disagree that it is getting easier to measure performance and productivity overall, or that smart phones will give useful life advice anytime soon. Yes smartphones and other machines may measure your heart rate and keystrokes more easily, but as we work in larger and more coordinated organizations, it gets harder not easier to measure individual performance. For example, when video games were made by small teams, individual contributions were much easier to discern than now when hundreds work together.
+Someday robots will make a huge difference. It is important to foresee and prepare for that eventuality. But it will only get harder to take that distant prospect seriously when pundits keep crying wolf and blaming automation for trends caused by other things.
+Added 3 Sept: I’d say most long-term trends can be understood reasonably well as due to increasing wealth and lifespans. These include less monogamy, religion, work ethic, and violence. See my forager vs. farmer story.
+Instapundit and Marginal Revolution linked here.
+Added 27 Sep: Maytt Yglesias agrees that tech isn’t the explanation:
+In Stagnation, Cowen reviewed the previous generation and concluded that despite substantial progress and catch-up in poor countries that the median household in rich countries had suffered stagnant living standards thanks to a slowdown in technological progress. In Average, Cowen looks ahead at the next generation and concludes that despite substantial progress and catch-up in poor countries, the median household in rich countries will suffer stagnant living standards thanks to a speedup in technological progress.
+Curious. Which is to say that while each book offers a brilliant exposition of income stagnation and how it intersects with the technological progress of its era, read in conjunction it’s clear that in neither period was the stagnation actually caused by the pace of technological change.
+
+
+title: Wealth, Not Robots, Makes Us Lazy
+
+date: September 1, 2013 11:15 am
+

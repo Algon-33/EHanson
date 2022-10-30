@@ -1,0 +1,15 @@
+author: Katja Grace
+
+text: 
+I experiment with many things, as do those around me. Some of this is randomization and explicit records, more is just trying different things, muttering ‘VOI‘ and repeating what felt good. I refer here to everything between a cautious banana-mustard-ham sandwich and polyamory.
+Robin has suggested that I over-invest in such exploration. That most new things should be bad, and so most experimentation a private loss for public gain. What’s more, there shouldn’t be lots of low hanging fruit in trying things out. Most of the things humans frequently want to do (eat, sleep, change moods, organize time, learn, interact with others) should have been well figured out in ancient times. And anything that does still need checking out should be divided between many people.
+Nonetheless, it looks to me like experimentation is worth it. Lots of the things we do seem barely satisfactory, there seem likely to be better alternatives, it seems hard to learn what has been tried for what ends, or what is good from listening to others or reading, and I and my friends seem to actually find good things by looking. e.g. Beeminder, explicit charity evaluation, unusual degrees of honesty, workflowy and explicit organization seem to often add value over the defaults, not to mention many tiny things, like banana-mustard-ham sandwiches.
+If it is true that a lot of experimentation is worth it, we have a slight puzzle: if there is valuable information I might glean by experimentation, why hasn’t it been worth it for others in the past to collect it and put it where I can see it?
+I will try to answer this over the next few posts. Before that, what do you think?
+ 
+
+
+title: Why personal experimentation?
+
+date: January 8, 2013 9:58 pm
+

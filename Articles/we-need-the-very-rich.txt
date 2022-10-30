@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Two years ago I posted:
+The number of new businesses we get seems limited by the number of folks personally wealthy enough to start new businesses.  So having more really rich folks benefits everyone via innovation.
+Now I learn that very rich folks are crucial not only for business starts, but also for most business investment that takes more than a year or so to payoff! Consider:
+As is common in factories, [public firm] Standard [Motor Products] invests only in machinery that will earn back its cost within two years. (The Atlantic, Jan 2012, p.66)
+Why look at years-to-payback instead of return on investment? A new NBER paper on private vs. public firms makes the answer clear. Unless project gains can be very clearly proven to analysts, or perhaps so small and numerous to allow averaging over them, public firms are basically incapable of taking a loss on earnings this quarter in order to make gains several years later, no matter how big those gains. CEOs are strongly tempted to instead please analysts by grabbing higher short-term quarterly earnings. So we need the very rich to make long-term investments. The details:
+In 2007, private U.S. firms accounted for 54.5% of aggregate non-residential fixed investment, 67.1% of private sector employment, 57.6% of sales, and 20.6% of aggregate pre-tax profits. Nearly all of the 6 million U.S. firms are private (only 0.08% are listed), and many are small, but even among the larger firms, private firms predominate: Among those with 500 or more employees, for example, private firms
+accounted for 85.6% in 2007. … 94.1% of the larger private firms in the survey have fewer than ten shareholders (most have fewer than three), and 83.2% are managed by the controlling shareholder.  …
+On average, private firms invest nearly 10% of total assets a year compared to only 4% among public firms. Second, private firms are 3.5 times more responsive to changes in investment opportunities than are public firms. … A plausibly exogenous tax shock … experiment reveals that private firms respond strongly to changes in investment opportunities whereas public firms barely respond at all. … IPO firms are significantly more sensitive to investment opportunities in the five years before they go public than after. …
+For industries in which share prices are unresponsive to earnings news (ERC = 0), we find no significant difference in investment sensitivities between public and private firms. As ERC increases, public firms’ investment sensitivity decreases significantly while that of private firms remains unchanged. … There are significantly fewer stock market listed firms in high-ERC industries. … Investment rates decrease significantly with size among public U.S. firms …
+Survey evidence …. find[s] that public-firm managers prefer investment projects with shorter time horizons in the belief that stock market investors fail to properly value longterm projects. … “The majority of managers would avoid initiating a positive NPV project if it meant falling short of the current quarter’s consensus earnings [forecast].”
+It seems that the public-private margin is what matters for the effects we observe: We see no differences in investment behavior, among private firms, across different organizational structures (such as sole proprietors, partnerships, or different forms of incorporation) … . Our results are most consistent with the view that public firms’ investment decisions are affected by managerial short-termism.
+Interesting that private firms have 67% of employees yet only 20% of profits. Is this mostly because owners take “profits” off the books to avoid taxes, or because owners attend more to growing firm value than to paying current earnings?
+
+
+title: We Need The Very Rich
+
+date: January 8, 2012 12:50 pm
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+I heard a talk recently by Jal Mehta on his new book Allure of Order, where he says how he’d reform US (pre-college) schools. He wants the US to do like Finland where schools are great: select smarter folks as teachers, train them more, and give them more respect, time to prepare, and freedom to structure classes. When I asked him directly how he would pay for all this, he said to cut administration.
+It seemed to me that Mehtra’s main complaint is that US teachers are over-regulated. And it occurs to me that this is a common complaint about US government. For example, we hear that US police are over-constrained by rules. And a similar problem would befall US single player health plans — while the UK National Health Service has lots of discretion that is mostly accepted by the UK public, US versions would instead be regulated in great detail.
+If you think that private actors in the US tend to be over-regulated, you should wonder why. Perhaps it is because government regulators just act spitefully toward non-government actors, but more plausible are over-confidence and do-something biases. When problems occur, people want something done, and more regulations are something to do. Voters and regulators both overestimate their ability to anticipate future problems and what would help them.
+But if this is why US private actors are over-regulated, then US government actors should be over-regulated too. For example, people should see things go wrong in schools, and so add more rules to “do something,” rules that assume too much about what rules can do, and that require too many administrators to implement.
+This view suggests that being pro- or anti-regulation isn’t the same as being pro- or anti-government, and it suggests a possible left-right deal: reduce regulation in both private and public sectors. Have more trust in private competition to deal with the problems we leave to the private sphere, and in smart well-trained civil servants to deal with the problems we leave to the public sphere. And have less trust in lawyers, judges and rule-specialists of all sorts to fix our problems with more rules.
+
+
+title: Is Govt Over-Regulated?
+
+date: June 25, 2013 10:25 am
+

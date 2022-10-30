@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I’m a big board game fan, and my favorite these days is Imperial.   Imperial looks superficially like the classic strategy-intense war game Diplomacy, but with a crucial difference:  instead of playing a nation trying to win WWI, you play a banker trying to make money from that situation.  If a nation you control (by having loaned it the most) is threatened by another nation, you might indeed fight a war, but you might instead just buy control of that nation.  This is a great way to mute conflicts in a modern economy: have conflicting groups buy shares in each other. 
+ For projects to create new creatures, such as ems or AIs, there are two distinct friendliness issues:  
+
+Project Friendliness  Will the race make winners and losers, and how will winners treat losers?  While any race might be treated as part of a total war on several sides, usually the inequality created by the race is moderate and tolerable.  For larger inequalities, projects can explicitly join together, agree to cooperate in weaker ways such as by sharing information, or they can buy shares in each other.  Naturally arising info leaks and shared standards may also reduce inequality even without intentional cooperation.  The main reason for failure here would seem to be the sorts of distrust that plague all human cooperation.
+Product Friendliness  Will the creatures cooperate with or rebel against their creators?  Folks running a project have reasonably strong incentives to avoid this problem.  Of course for the case of extremely destructive creatures the project might internalize more of the gains from cooperative creatures than they do the losses from rebellious creatures.  So there might be some grounds for wider regulation.  But the main reason for failure here would seem to be poor judgment, thinking you had your creatures more surely under control than in fact you did.  
+
+It hasn’t been that clear to me which of these is the main concern re "friendly AI."  
+Added:  Since Eliezer says product friendliness is his main concern, let me note that the main problem there is the tails of the distribution of bias among project leaders.  If all projects agreed the problem was very serious they would take near appropriate caution to isolate their creatures, test creature values, and slow creature development enough to track progress sufficiently.  Designing and advertising a solution is one approach to reducing this bias, but it need not need the best approach; perhaps institutions like prediction markets that aggregate info and congeal a believable consensus would be more effective.  
+
+
+title: Friendly Projects vs. Products
+
+date: December 5, 2008 6:30 pm
+

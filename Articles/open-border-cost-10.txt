@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+The simplest most reliable way to help the world’s poor a lot would be for rich nations to accept more poor immigrants. While doing so would lower the price of many goods and services that poor immigrants provide, it should also lower the wages of natives who compete for similar jobs.  If rich nations completely opened their borders, how big might this reduction be?  It seems that even if 90% of the workforce were immigrants, average native wages wouldn’t fall by more than ~10%.  From a new NBER immigration lit review:
+Their survey of the earlier literature found that a 10% increase in the immigrant share of the labor force reduced native wages by about 1%. Recent meta-surveys … found comparable, small effects across many studies. … The large majority of studies suggest that immigration does not exert significant effects on native labor market outcomes. Even large, sudden inflows of immigrants were not found to reduce native wages or employment significantly. Effects that do exist tend to be relatively small and concentrated among natives or past immigrants that are close substitutes. … Research on the role of immigrants in the labor market mostly yields consistent findings across countries and experiences: recent migrants have lower earnings than natives, there is partial convergence with duration of stay, displacement effects tend to be small, the most affected groups are close substitutes, etc. (more)
+That seems to me a reasonable price to pay for such huge assistance to the world’s poor.
+
+
+title: Open Border Cost <10%
+
+date: February 3, 2011 10:00 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+A new lab experiment confirms results reported a year ago:  people prefer to not know how their actions effect others, when such knowledge would induce them to sacrifice to benefit others.  
+ In the baseline version, each subject chose between five pairs of numbers (x,y), where x is how much money he gets and y is how much money some other subject gets.  In each pair (x,y,) each number was drawn randomly from the set {1,1,4,4,7}.  Here 40 of 63 subjects appeared to put heavy weight on benefits to the other person in making their choices. 
+ In the other treatment, each subject was shown only the x value for each of his five pairs, but could at no cost choose to see the y values.  Of the 40 subjects who in the baseline version heavily weighted benefits to others, only 10 of them chose to see the y values.  The others just picked the best option for them.  
+"If only people knew how bad things are here in Z-land, they’d do something."  Yes, and maybe that is why they do not know.  
+
+
+title: More Moral Wiggle Room
+
+date: February 22, 2008 6:00 am
+

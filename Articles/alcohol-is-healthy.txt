@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+My health econ students love to hear that our best data suggests moderate drinking is good for health.  New better data continues that trend:
+[We study] the association between alcohol consumption and all-cause mortality over 20 years among 1,824 older adults….  Controlling only for age and gender, compared to moderate drinkers, abstainers had a more than 2 times increased mortality risk, heavy drinkers had 70% increased risk, and light drinkers had 23% increased risk. A model controlling for former problem drinking status, existing health problems, and key sociodemographic and social-behavioral factors, as well as for age and gender, substantially reduced the mortality effect for abstainers compared to moderate drinkers. However, even after adjusting for all covariates, abstainers and heavy drinkers continued to show increased mortality risks of 51 and 45%, respectively, compared to moderate drinkers. (more; HT yahoo, J Storrs Hall)
+Controls included: Age, Gender, SES, Marital status, Gender x Marital status, Former Problem drinker, Health problems, Obesity, Smoking status, Physical activity, Physical activity x Time, Depressive symptoms, Avoidance coping, Gender x Avoidance coping,  # Close friends, Quality of support.
+Eric Crampton reviews the literature here, and comes to the same conclusion.
+The US FDA prohibits the alcohol industry from advertising these studies, showing the health benefits of alcohol, because the public might get the wrong impression. You do not have free speech hearing in the US regarding health.
+
+
+title: Alcohol Is Healthy
+
+date: September 2, 2010 1:00 pm
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+1/4 of sushi is mislabeled:
+
+Two high school students … took on a freelance science project in which they checked 60 samples of seafood using a simplified genetic fingerprinting technique to see whether the fish New Yorkers buy is what they think they are getting.  They found that one-fourth of the fish samples with identifiable DNA were mislabeled.  A piece of sushi sold as the luxury treat white tuna turned out to be Mozambique tilapia, a much cheaper fish that is often raised by farming.  Roe supposedly from flying fish was actually from smelt.  Seven of nine samples that were called red snapper were mislabeled, and they turned out to be anything from Atlantic cod to Acadian redfish, an endangered species.
+
+This is a huge fraud rate.  Will diners continue to tolerate it?  Probably, yes – I suspect diners care more about affiliating with impressive cooks and fellow diners than they do that fish is correctly labeled.  
+
+
+title: Fake Fish
+
+date: August 30, 2008 6:00 am
+

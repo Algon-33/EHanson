@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Alas, I have treated the Placebo effect too uncritically in my health econ class.  I’ll do better next year.  From Wikipedia:  
+
+The original 1955 article of Beecher "The Powerful Placebo" claimed a 35% placebo effect in 15 studies. The original article was in 1997 re-analysed and "no evidence was found of any placebo effect in any of the studies" used by Beecher. … The claimed "effects" were produced by spontaneous improvement, fluctuation of symptoms, regression to the mean, additional treatment, conditional switching of placebo treatment, scaling bias, irrelevant response variables, answers of politeness, experimental subordination, conditioned answers, neurotic or psychotic misjudgment, psychosomatic phenomena, misquotation, etc. …  
+Hróbjartsson and Gøtzsche published a study in 2001 and a follow-up study in 2004 questioning the nature of the placebo effect. … They performed two meta-analyses involving 156 clinical trials in which an experimental drug or treatment protocol was compared to a placebo group and an untreated group, and … found that in studies with a binary outcome, meaning patients were classified as improved or not improved, the placebo group had no statistically significant improvement over the no-treatment group. Similarly, there was no significant placebo effect in studies in which objective outcomes (such as blood pressure) were measured by an independent observer. The placebo effect could only be documented in studies in which the outcomes (improvement or failure to improve) were reported by the subjects themselves.   
+
+HT to Brandon Reinhart.
+
+
+title: Elusive Placebos
+
+date: May 9, 2008 6:00 am
+

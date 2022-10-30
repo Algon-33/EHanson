@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+People seem to find it easier to be idealistic about social institutions and practices in which they are not greatly involved. It seems easier for non-soldiers to be idealistic about the military, for those who do are not teachers or students to be idealistic about school, and for those who are not reporters or interviewees to be idealistic about journalism.  It also seems easier for the never-married to be idealistic about marriage.
+People also, however, tend to be less idealistic about social institutions very distant in time and space. They think that ancient doctors didn’t help health, that ancient police mostly took bribes, that ancient marriages were raw domination, and so on. They also tend to think institutions in distant nations are similarly dysfunctional.
+Many folks succumb to nostalgia, but they usually celebrate moderately old institutions and practices; few are nostalgic for an era thousands of years past.  Similarly, many folks are cynical about their family, the company they work for, or the city they live in, and presume things must be better in other nearby families, firms, or cities.
+In all this I see an interestingly intermediate near-far effect:  We seem the least idealistic, or the most cynical, about things the most near and the most far in time, space, and social distance. We seem the most idealistic about things at intermediate distances. What other intermediate near-far effects can we see?
+
+
+title: Cynicism Is Near And Far
+
+date: July 25, 2011 8:50 am
+

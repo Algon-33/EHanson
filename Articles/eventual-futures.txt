@@ -1,0 +1,34 @@
+author: Robin Hanson
+
+text: 
+I’ve noticed that recommendations for action based on a vision of the future are based on an idea that something must “eventually” occur.  For example, eventually:
+
+We will run out of coal, so we’d better find replacements soon.
+Earth will run out of stored energy of fossil fuels and radioactivity, so we’d better get ready to run only on sunlight.
+Earth will run out of place for trash, so we must stop making trash.
+The sun will die out, so we’d better get ready to move to another sun.
+There will be a race to colonize other planets and stars, so our group should get out there first so we don’t get lose this race.
+Chips will use X instead of silicon, so our chip firms must use X now, to not be left behind.
+There will be no privacy of any sort, so we might as well get used to it now.
+Some races will win, so we’d best fight for ours before its too late.
+Firms will be stronger than nations, unless we break their power soon.
+There will be a stronger world government, so let’s start one now.
+There will be conflict between China and West, or Islam and West, so we best strike first now.
+Artificial intelligences will rule the world, so let’s figure out now how to make a good one.
+We’ll invent all that is worth inventing, so let’s find a way now to live without innovation.
+We’ll know all the physics there is, so lets find something else interesting now.
+There will be a huge deadly world war, so let’s stock some bunkers to hide in.
+Nanobots will give everyone anything they want, so why work now?
+The first nano-assembler’s owner will rule the world, so we best study nanotech now.
+More fertile immigrants will out number us, so we best not let them in.
+The more fertile stupid will make the world dumb, unless we stop them now.
+
+The common pattern: project forward a current trend to an extreme, while assuming other things don’t change much, and then recommend an action which might make sense if this extreme change were to happen all at once soon.
+This is usually a mistake. The trend may not continue indefinitely. Or, by the time a projected extreme is reached, other changes may have changed the appropriate response. Or, the best response may be to do nothing for a long time, until closer to big consequences. Or, the best response may be to do nothing, ever – not all negative changes can be profitably resisted.
+It is just not enough to suspect that an extreme will be reached eventually – you usually need a good reason to think it will happen soon, and and that you know a robust way to address it. In far mode it often feels like the far future is clearly visible, and that few obstacles stand in the way of planning paths to achieve far ends. But in fact, the world is much messier than far mode is willing to admit.
+
+
+title: Eventual Futures
+
+date: May 15, 2012 11:20 pm
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+A comment on Tierney’s NYT blog post on Miller’s Spent:
+I recently applied to PhD programs. I had the good fortune to be accepted to a number of top-rate programs. … One stood out as the university with the most prestige and ‘brand recognition’. … I was not surprised that strangers, especially those outside of academia, reacted most positively to the name with the highest perceived prestige. What did surprise (and sadden) me is how it seemed to change the perceptions that my family and very close friends have of me. Even when family or friends … told me to make the decision based on what program I thought was best for me, it was clear that they were leaning towards and routing for the program with the most famous name. After I made the decision, it was clear that their perceptions of me changed, palpably. They can now say, ‘I have a friend/daughter/granddaughter who is going to this world famous Ivy League institution’. The whole story they can tell about me- and they way they think about me has shifted.
+Geoffrey Miller says we try too hard to collect shallow signals that don’t say much to those who know us well.  But a boss who has known you for years may not promote you unless you get a better degree, even if school teaches you nothing useful on your job.  He might not hire you without that degree, even if he knows and trusts folks who have known you for years.  Why do people who know us well care so much about shallow signals?
+Your boss doesn’t just want high quality subordinates; he wants his boss to think he has high quality subordinates.  Actually he wants his boss to be happy about it, which requires his boss’ boss be happy about it, etc.  We all want to affiliate with high status people, but since status is about common distant perceptions of quality, we often care more about what distant observers would think about our associates than about how we privately evaluate them.
+In academia, one often finds folks who are much more (or less) smart and insightful than their colleagues, where most who know them agree with this assessment.  Since academia is primarily an institution for credentialling folks as intellectually impressive, so that others can affiliate with them, one might wonder how such mis-rankings can persist.  But academics understand that folks primarily care about distant common signals of impressiveness, such as publications.  Getting a lousy paper into a top journal usually counts for more than a fantastic paper in a low rank journal.  Only in small tightly-connected academic communities can an informal perception that your low-journal paper was fantastic make it count for more than a crappy top-journal paper.
+I suppose it might be nice to live in an isolated small town where everyone knows everyone so well that superficial signals count for little.  But I’ve never lived in such a town, and am quite unlikely to ever live there.
+
+
+title: Why Signals Are Shallow
+
+date: June 18, 2009 6:00 am
+

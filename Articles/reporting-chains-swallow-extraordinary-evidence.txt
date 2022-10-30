@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+In January I claimed:
+
+An extraordinary claim is usually itself extraordinary evidence … I would be very unlikely to make such claims in situations where I did not have good reasons to think them true.  The times to be more skeptical of unlikely claims are when there is a larger than usual chance that someone would make such a claim even if it were not true.  
+
+Eliezer responded, and then I outlined a formal model.  I now have a working paper.  In it, I consider the effect of people being organized into a reporting chain, such as up the levels of an organization, or from researcher to referee to editor to reporter to editor and so on.  The new interesting result: 
+
+When people are organized into a reporting chain, noise levels grow exponentially with chain length; long chains seem incapable of communicating extraordinary evidence.   
+
+  
+For example, imagine disaster frequency was inverse in deaths, that we faced one big enough to kill us all, and that nature gave someone a signal about the casualties, a signal with a (lognormal) standard deviation of a factor of ten.  But imagine the news of this signal passed through a chain of seven noisy people, each of whom adds 10% to the signal standard deviation.  While nature’s signal itself is clear evidence of an unprecedented disaster, the signal that appears at the chain’s end gives a median estimate of about one death; our warning is lost. 
+This suggests we reduce the length of our reporting chains, such as in efforts to make organizations more innovative by reducing layers of management: 
+
+Perhaps we need only the first few levels of reporting the discretion to adapt a claim to context; reports at further levels could be something like “Fred said that our best estimate of disaster deaths is one million."  Another alternative might be to use prediction markets to shorten reporting chains; the person who saw nature’s signal trades in the market, anyone who wants to correct that market price for context does so via trades, and everyone else is referred to the market price.  
+
+
+
+title: Reporting Chains Swallow Extraordinary Evidence
+
+date: March 27, 2007 6:00 am
+

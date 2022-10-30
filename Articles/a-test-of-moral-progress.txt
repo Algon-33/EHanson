@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+We treat each other differently than our distant ancestors treated each other.  In particular we are “nicer”, at least by our lights, to a wider circle of associates.  For example, we enslave, rape, and murder each other less.  The two main explanations offered for this change are:
+
+Moral Progress – We have long wanted to act morally, and some of us have long pondered moral issues.  Relative to what we had thought, these experts have slowly discovered via reason that morality demands that we be nicer to a wider circle of others.  Experts told others, who believed them and wanted to act morally.   So we now more do what reason demands.
+Conditional Morality – Our evolved moral intuitions are context dependent.  We are built to be nicer to each other when times are good, to invest in an attractive reputation.  We are also built to form alliances with some in order to counter threats by others; the further in social distance are the threats we perceive, the wider a circle of allies we collect in response.  Since we are now richer and have interactions with more distant others, we are nicer to a wider range of allies.
+
+These theories make different predictions about futures where we become poorer and our interactions become more local.  In their simplest forms, the moral progress theory predicts that we would continue to be as nice to as wide a circle of creatures in this situation, while the conditional morality theory predicts that the social circle to whom we are nice would narrow to the range of our ancestors with similar poverty and interaction locality.  Of course we might expect some inertial or momentum in moral attitudes; so it might take several generations of poverty and local interactions to really see the predicted difference.
+My best guess is that cultural selection has produced real progress in institutions for keeping the peace, and perhaps in cultures to promote cooperation, but that any changes in our personal moral intuitions are due primarily due to an inherited conditional morality.   I expect we will actually see a future of much lower per-capita wealth, after the em transition, but it is hard to see a narrowing circle of interactions until there is substantial space colonization.
+
+
+title: A Test of Moral Progress
+
+date: August 18, 2009 2:00 pm
+

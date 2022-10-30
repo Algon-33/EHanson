@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+After a couple announce their engagement, but before they tie the knot, talk among friends and family often turns to how long the marriage will last.  When folks are not optimistic, they may wonder if they should tell the couple.  But they usually say nothing, depriving the couple of crucial signals to reconsider. 
+ Imagine a web site where you could start a market to bet on the duration of any upcoming or current marriage.  That is, you could buy or sell assets that pay in proportion to the number of years the marriage will last, if it begins, up to some maximum of say fifty years.  If the marriage never starts, you get your money back.  
+ Once it became widely known that such market prices are often available, wedding guests and the couple would probably check out the price before the wedding, coordinating everyone’s expectations about the marriage.   
+Added 27Oct:  You can estimate marriages here just for fun, and Ravages made a similar betting suggestion.  
+  
+Pride would likely induce the couple to try to push up the price estimate of their marriage duration.  Perhaps disgruntled rivals would try to push the price down.  Both would provide crucial liquidity to get the market going.  And successful couples would get a great fifty year wedding present from cashing in their bets.  
+ Since weddings and divorces are a matter of public record, there should be little dispute on who won these bets.  The long time scale would mean that the bets should be of assets bonds or stock index funds, which increase in value over time.  The market price would usually be somewhat lopsided, usually being closer to zero than to the maximum time, which might bias the price up a bit, but that doesn’t seem a big problem.
+ These markets could create incentives for outsiders to hurt the marriage, such as causing or spreading rumors about cheating.  But my guess is that the suspicion of hidden powers out there trying to hurt the marriage would on average tie the couple to each other all the stronger.  
+ If the cost of setting up these markets became low, people might set them up for couples they know who are not yet engaged, as a way to encouraging such couples to consider (or reject) engagement.  Overall marriage futures could provide quite socially valuable advice on such important decisions.  In the US, however, gambling laws would prevent cash versions of these markets.
+From a conversation with Steven Landsburg.  
+
+
+title: Marriage Futures
+
+date: October 22, 2007 6:00 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Envy is real, but people claim to care more than they do about the size of their neighbor’s houses:
+Unlike much of the stated preference literature, the results of this paper indicate that a increase in absolute house size is valued more than an increase in relative house size, suggesting that individuals value their absolute well-being more than their relative status if all parties are handed an equal increase. More specically, for the case of Columbus, the willingness to pay for an increase in own house size by 100 square feet from the mean is found to be $1,103 while the willingness to pay for a decrease in neighbor house size by 100 square feet from the mean is $400. (more)
+Since envy looks ugly, why do people do out of their way to appear more envious than they are? Most likely because opposing wealth inequality is an ancient forager norm.
+Note that this level of envy could justify taxing house size relative to some other category of consumption where envy is weaker, if such categories could be identified.
+
+
+title: Housing Envy
+
+date: February 10, 2012 10:35 am
+

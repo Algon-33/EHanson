@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Standard finance theory says to invest in lots of different things to reduce the correlation between their returns, and so reduce the variation in your return.  But people seem reluctant to invest outside their own nation.   A Journal of Banking and Finance article finds "the likelihood of home bias is caused by both rational and irrational factors."
+
+We identify the type of individual with the highest likelihood of home bias as an older, unmarried, poorly educated man working for the government, who invests only a small amount of money, and who has no experience with risky investments outside the pension plan. … we find less sophisticated individuals to be relatively more home-biased. Moreover, our results are consistent with government employees, having a relatively high job security, and caring more about hedging domestic inflation than about international diversification, thus, having a bias towards domestic assets. Finally, as men are regarded as relatively more overconfident than women with respect to investments, they will have a relatively greater tendency for a perceived information advantage of domestic assets than women, and thus be more likely to overweigh their portfolios with domestic assets.  Hence, we can describe our home-biased candidate as a not so sophisticated man, who has a high level of job security, and seems to be somewhat overconfident. 
+
+It can make sense to invest more in assets correlated with prices in your region, if you expect to stay where you are.  But the typical home bias is larger than this can account for; it seems our anti-foreign bias strikes again.
+P.S. The latest Journal of Banking and Finance says:
+
+In 1908, Vinzenz Bronzin, … published a booklet … Like Bachelier’s now famous dissertation (1900) … the work seems to have been forgotten shortly after it was published. However, almost every element of modern option pricing can be found in Bronzin’s book. In particular, he uses the normal distribution to derive a pricing equation which comes surprisingly close to the Black-Scholes-Merton formula. 
+
+
+
+title: Home Sweet Home Bias
+
+date: March 26, 2007 6:00 am
+

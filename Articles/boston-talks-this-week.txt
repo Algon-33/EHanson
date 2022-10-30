@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Monday: Why is Abstraction both Statusful and Silly? 7:00p, 98 Elm St Apt 1, Somerville.
+Tuesday: Shall We Vote On Values, But Bet On Beliefs? noon, 206 Lake Hall, Northeastern Univ.
+Wednesday: Factoring Geopolitical Risk Into Decision-Making, 12:20p, Global ICON Conf.
+
+
+title: Boston Talks This Week
+
+date: July 13, 2014 12:25 pm
+

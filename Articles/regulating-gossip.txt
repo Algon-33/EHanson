@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Did you know that people gossip about you? You don’t know who they are, or what they say, and sometimes they say things that (you think) are not true. Important decisions, like whether you get invited to parties, recommended for jobs, or even married, hang on such gossip. Yet there is almost no regulation of it! Government officials don’t track it, or check it for accuracy. There are no standards for what sources people can use in gossip, or how they state their opinions. You aren’t even notified when people gossip about you. Gossip is a virtually impenetrable system in which people, particularly the most vulnerable, have little insight into the forces shaping their welfare. We must have reform!
+Sound over the top? Consider:
+Information … comes from thousands of everyday transactions that many people do not realize are being tracked: auto warranties, cellphone bills and magazine subscriptions. It includes purchases of prepaid cards and visits to payday lenders and rent-to-own furniture stores. It knows whether your checks have cleared and scours public records for mentions of your name. Pulled together, the data follow the life of your wallet far beyond what exists in the country’s three main credit bureaus. [Firms sell] that information for a profit to lenders, landlords and even health-care providers. …
+Who is worthy of credit? The answer increasingly lies in the “fourth bureau” — companies such as L2C that deal in personal data once deemed unreliable. … Federal regulations do not always require companies to disclose when they share your financial history or with whom, and there is no way to opt out when they do. No standard exists for what types of data should be included in the fourth bureau or how it should be used. No one is even tracking the accuracy of these reports. That has created a virtually impenetrable system in which consumers, particularly the most vulnerable, have little insight into the forces shaping their financial futures. (more)
+The consequences of ordinary gossip are just as big as with firm gossip on customer finance. And it would be possible to have stronger regulations on ordinary gossip. Yes such regulations couldn’t be perfectly enforced, but then neither can regulations on firm finance gossip. The main reason we don’t have such regulations is that people dislike them. The same people who may well support more regulation on firm gossip on your finances. Why?
+It seems to come down to the usual: we are more willing to regulate firms than individuals, and to regulate activity where money is involved than other activity.
+
+
+title: Regulating Gossip
+
+date: July 17, 2011 11:35 am
+

@@ -1,0 +1,19 @@
+author: Eliezer Yudkowsky
+
+text: 
+Posting is now enabled on Less Wrong, with a minimum karma required of 20 – that is, you must have gotten at least 20 upvotes on your comments in order to publish a post.  Or an adminstrator such as myself or Robin (by default you should bother me) can temporarily bless you with posting ability – in the long run this shouldn't happen much.
+For those of you who haven't yet subscribed to / gotten in the habit of checking Less Wrong:
+
+Test Your Rationality by Robin Hanson.  It's easy to find reasons to believe yourself more rational than others, but most people do this; what real ways can be found to test your rationality?
+Unteachable Excellence and Teaching the Unteachable by Eliezer Yudkowsky.  The rare superstars are rare because their skills are currently hard to transfer.  A large number of Nobel laureates are students of other Nobel laureates.  How do you teach skills you can't put into words?
+The Costs of Rationality by Robin Hanson.  Rationality can be useful for many things, but humans aren't really designed for it, and a true effort to believe truly can get in the way of many aspects of ordinary life.  Are you willing to pay the real costs of ratonality?
+No, Really, I've Deceived Myself and Belief in Self-Deception by Eliezer Yudkowsky.  A woman I met who didn't seem to believe in God at all, while honestly believing that she had deceived herself successfully – which may bring most of the same placebo benefits.
+The ethic of hand-washing and commuity epistemic practice by Steve Rayhawk and Anna Salamon.  Diseases become more virulent in the presence of poor hygiene, since they can jump hosts more easily.  Are there analogous effects for ideas?  What is the equivalent of washing our hands?
+
+The five most recent LW posts now appear in OB's sidebar (and vice versa), but aside from this you shouldn't expect further regular summaries of LW on OB.
+
+
+title: Posting now enabled on Less Wrong
+
+date: March 5, 2009 11:15 am
+

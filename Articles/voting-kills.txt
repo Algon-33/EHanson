@@ -1,0 +1,29 @@
+author: Philip Goetz
+
+text: 
+According to a recent study, on the day of a US presidential election there are, on average, an extra 24 auto-accident fatalities.  The study covered the past 32 years, not including this year.
+The number of times that a single vote has affected the outcome of a US presidential election is, so far, zero.
+In order for voting to be rational, the expected benefit to you from your vote having an effect on the outcome, must be greater than the expected cost of you dying in an auto accident on your way to vote.
+The traffic accident study covers only 32 years; but we have over 200 years of data on individual votes not swinging an election.  Over time, it has become much less likely for one person’s vote to swing an election due to population increase.  I will approximate this effect by saying that 210 years of one vote not swinging an election is similar to 1000 years of one vote not swinging an election at current population levels.  That’s a sloppy off-the-cuff guess at how the population changes affect the probabilities.
+So, the odds of your dying in a traffic accident on your way to vote would at first seem to be 24 * (1000/4) = 6000 times the odds of your vote changing the outcome of the election.  (Probably much higher. Those are the odds they would be if one person’s vote had swung the election once.)  The odds of your being disabled in a traffic accident on your way to vote would, similarly, seem to be 800*(1000/4) = 200,000 times higher than the odds of your vote swinging the election.
+  
+But they aren’t.  Another recent study by 3 people (including Andrew Gelman, one of Overcoming Bias’ readers) (pdf here), using a detailed model, estimated that the odds of one person’s vote swinging the presidential election in 2008 were, on average, one in 60 million.  So why is it that, with more than 120 million people voting this year, no one came close to having their vote swing the election?
+The problem is if your vote swung the vote in your state, the vote of half the other voters in your state also swung the vote.  The number of trials here is the number of states times two (one Republican and one Democrat trial per state).  So what that figure really means is that the "average" state has a 1 in 30 million chance of swinging the vote, and you have a 50% chance of being on the winning side in that case.
+(To fix my first estimate, we need to say that the figures above indicate that a given party in a given state is unlikely to have more than a 1 in (100*1000/4) = 1 in 25,000 chance of swinging the election.  This then bounds the odds of any one person swinging the election to be no more than 1 in 2,500,000 on average.)
+Swinging the vote is a "black swan" event that is highly unlikely.  If it happens for a state one time in 30 million, it should happen about once every 2,400,000 years.  But when it does, millions of people can claim their vote swung the election; the "expected number" of voters who swing the vote per election is actually two.
+This is a black swan:  An event that occurs so infrequently that it has an expected number of occurrences in history near zero; yet of such magnitude that its expected impact is considerable.  (And the "expected number per event" is a number that can never happen.)  Relying on history to predict the odds of such an event, as I did above, mislead you.
+Back to our practical application.  The chance of your dying in a car crash on the way to vote is really only about ten times as great as the chance of your vote altering the outcome of the election.  Less, if our models of traffic indicate that most of the excess deaths were among people not on their way to vote.  But you’re not going to get that figure low enough for it to be rational for you to vote in a presidential election, unless you’re willing to die to get your candidate elected.  (Or unless, like me, your voting place is within walking distance.)
+Rationally, people should be much more interested in local elections, which they have a much greater chance of affecting.
+What about the opportunity cost of voting?
+The 2008 presidential election cost about $1 billion, spent contending over roughly 127 million * .2 = 24 million undecided voters.  One vote thus cost about $40.  If you make more than $20/hr (after taxes), you would be better off giving $40 to the campaign, than standing in line to vote for 2 hours.
+(Unless you like standing in line better than working.  It could be a good way to meet people.)
+"But wait," you say.  "You’ve only considered the cost to yourself.  I’m a good patriot!  I consider value to my country as party of my utility function!"
+Well, now that we’ve converted our voting decision into dollar terms, we can say that you might vote if you expect electing your candidate, vs. the other candidate, to be worth at least $2,400,000,000 to your country.  Otherwise, you should stay home and give $40 to the US Treasury by burning 2 $20 bills.
+George W. Bush’s presidency may have cost the US 10^3 to 10^4 times that figure.  Let’s say that having a better president is worth $10 trillion to the US.  (For comparison, US GDP is about $14 trillion/year.)  Let’s suppose that people who voted, did so because they were good patriots, and put the benefit to their country above the risk to their lives.  That is, the expected gain from having a better president due to their vote ($10 trillion, divided by 60 million) outweighs the personal cost (value of own life, divided by 6 million).
+This means that our rational but patriotic voters are willing to die to save their country $1 trillion.  That’s not so irrational.
+
+
+title: Voting Kills
+
+date: December 2, 2008 12:49 pm
+

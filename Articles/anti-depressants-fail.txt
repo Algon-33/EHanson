@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+A meta-analysis of SSRI anti-depressant medication, published in Feb ’08, found almost no effect.  Here is the data:
+
+ Following the Freedom of Information Act (FOIA), we requested from the FDA all publicly releasable information about the clinical trials for efficacy conducted for marketing approval of fluoxetine, venlafaxine, nefazodone, paroxetine, sertraline, and citalopram, the six most widely prescribed antidepressants approved between 1987 and 1999, which represent all but one of the selective serotonin reuptake inhibitors (SSRIs) approved during the study period. … Although sponsors are required to submit information on all trials, the FDA public disclosure did not include mean changes for nine trials that were deemed adequate and well controlled but that failed to achieve a statistically significant benefit for drug over placebo. …  we present analyses only for those [four] medications for which mean change scores on all trials were available.
+
+ Here are the results:
+
+Compared with placebo, the new-generation antidepressants do not produce clinically significant improvements in depression in patients who initially have moderate or even very severe depression, but show significant effects only in the most severely depressed patients. The findings also show that the effect for these patients seems to be due to decreased responsiveness to placebo, rather than increased responsiveness to medication. Given these results, the researchers conclude that there is little reason to prescribe new-generation antidepressant medications to any but the most severely depressed patients unless alternative treatments have been ineffective.
+
+And this doesn’t take any account of leaky placebo effects, whereby drug side-effects convince people they have the real drug.  Given their severe side-effects, I’m not sure I’d advise anti-depressants even when other treatments have been ineffective.  Hat tip to Michael Cannon.
+
+
+title: Anti-Depressants Fail
+
+date: June 12, 2008 6:00 am
+

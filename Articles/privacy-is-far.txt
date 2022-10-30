@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+The British government has decided to go ahead with its plans under what it calls the Intercept Modernisation Programme to force every telecommunication company and Internet service provider to keep a record of all its customers’ personal communications, showing whom they have contacted and when and where, as well as the Web sites they have visited. … The information … will be accessible to 653 public bodies, ”including police, local councils, the Financial Services Authority, the ambulance service, fire authorities and even prison governors.
+”They will not require the permission of a judge or a magistrate to obtain the information, but simply the authorisation of a senior police officer or the equivalent of a deputy head of department at a local authority,” The Telegraph says.
+The only bit of good news, if you can call it that, is that the information won’t be held in a central database … and the full rollout will be delayed until after the next election. If the Tories or Liberal Democrats win, they say that the intercept program will be changed in scope and function. However, as happened in the United States after the last election, once politicians are in power, promises about privacy and spying on citizens seem to become less important.
+More here.  Two decades ago when wonks discussed the coming brave new web/internet world, privacy was an huge concern.  In contrast, today when people choose what to reveal on the web, privacy seems a minor concern.  Together, these suggest that privacy is far – we care about privacy as a high noble social concern, but not as a personal practical matter.  (At least not until someone close in our social world starts to see our private info.)
+But if so, why do politicians prefer to schedule to invade your privacy in the future, instead of now?  Won’t that make us all the more concerned about it?
+My guess: a broad national policy today is near in time, but far in social scope, so still invokes a substantially far view.  So politicians are still held to ideals on it.  But the far view makes us idealize our future politicians more than today’s; we think our side is more likely to win, and future politicians will act more ideally.  So we don’t expect future politicians to let such privacy invasions go forward.  And since all far events tend to seem less likely, there is less to worry about.  When it actually happens later, they can say move along, there’s no news here, this was scheduled long ago.
+Many said Bush’s privacy invasions revealed his evilness, but few care Obama has no plans to reverse those invasions.  Even if UK and US governments don’t misuse this info, their policies will give cover for similar policies elsewhere.  From afar, big brother epitomizes evil and must be resisted.  Up close, he seems tame, until he doesn’t, when its too late.
+
+
+title: Privacy Is Far
+
+date: December 3, 2009 2:40 pm
+

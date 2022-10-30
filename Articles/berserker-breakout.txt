@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+The universe looks dead. If it is actually teeming with ancient advanced life, why don’t any of them use all those resources we see? Yes, there might be other even more attractive resources we don’t see, but it still seems odd none specialize in using what we do see. Yes everything might be under the control of a unified collective, who agree on a preference to keep the universe looking dead. But pretty much any observation could be explained as due to a vast unified ancient power with an arbitrary preference to make the universe appear a certain way.
+Moving to scenarios where many powers compete, one proposed explanation is that we are in a berserker equilibrium, where everyone hides for fear of being destroyed by others in hiding.  For example:
+The Inhibitors from Alastair Reynolds’ Revelation Space series are self-replicating machines … dormant for extreme periods of time until they detect the presence of a space-faring culture and proceed to exterminate it even to the point of sterilizing entire planets.
+Or consider the zoo of competing self-replicators from David Brin’s story Lungfish:
+The Anti-Maker … does not waste its time destroying biospheres, or eating up solar systems in spasms of self-replication. It wants only to seek out technological civilizations and ruin them. … Berserkers, … wreckers of worlds, were rare. … And there were what appeared to be Policeman probes, as well, who hunted the berserkers down wherever they could be found. … Harm … did not seek out life-bearing worlds in order to destroy them. Rather it spread innumerable copies of itself and looked for other types of probes to kill. Anything intelligent. Whenever it detected modulated radio waves, it would hunt down the source and destroy it.
+I have an open enough mind here that I think Earth should keep quiet until we’ve studied this issue more. But I really have trouble seeing how this could be a stable equilibrium for a billion years among competing space species.
+First, when something becomes visible, your killing it would seem a “public good” act which benefits all species, but mainly costs yours. Your killing action takes up your resources, and risks making you visible to be destroyed by others. Unless you think this new visible thing is especially likely to compete with your siblings, relative to other competitors, you’d rather wait and let something else destroy it.
+Second, it must be possible to reproduce in order to compensate for wear and tear. After all, if the mere act of reproducing yourself made you so visible that you’d probably be destroyed, on average population sizes would fall to extinction.  But if reproducing to compensate for decay works on average, why not reproduce more to grow in number?  If observers can’t tell the purpose of a reproduction, then only density dependent death could keep populations in check. The ability to find and kill others without getting killed yourself in the process would somehow have to rise naturally with the density of creatures.
+Once the local density of creatures had risen to some local limit, the most common species there could consider attempting a “breakout,” via a burst of rapid aggressive reproduction to overwhelm the ability of other species to contain it.  Once enough copies were created in a large enough volume, the low density of other nearby species might be insufficient to stop the breakout species from expanding indefinitely.
+There are many more complex strategies that seem attractive, compared to a simple direct breakout.  For example, fake breakout attempts could be created to induce retaliation by other species, depleting their resources and revealing their locations.  One might then target them for attack before making one’s main breakout attempt in the now weakened region.
+I’m not saying it is obvious that a long term berserker equilibrium is impossible, but I do have great doubts. And I’d love to see (and even help with) attempts to find stable equilibria within computer simulations of such scenarios.
+
+
+title: Berserker Breakout
+
+date: December 4, 2010 2:45 pm
+

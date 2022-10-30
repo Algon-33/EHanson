@@ -1,0 +1,13 @@
+author: Patri Friedman
+
+text: 
+I’m a big fan of prediction markets, and I think that in most cases, they do good by creating more accurate estimates.  But for the positive outcome of allowing hedges and funding research, I wonder if there is a problem for markets on political races.
+For example, wouldn’t large, liquid betting markets allow candidates to fund races more easily?  A candidate who wins can cash in by selling their political influence.  So rather than spending their own money, a moderately wealthy candidate might borrow $10M (using personal collateral, perhaps), and bet $5M against themselves on the markets.  They spend the other $5M on their race.  If they win the election, they lose the bet, and pay back the $10M with funds raised from special interests.  If they lose the election, they’ll win the bet, and pay back the loan with the proceeds.
+Things are similar from the standpoint of a campaign contributor, attempting to buy political favors.  Many of them simply donate to both sides.  But another option is to hedge your donation by using some of it to bet against your favored candidate.  That way you guarantee either getting favors or winning some money.  Reducing the risk of investing in candidates should increase the amount spent.
+So while being able to hedge risk is normally considered a good thing, in the coercive business of politics, it’s not so clear.  Isn’t it better for political favor to be expensive and risky to purchase?  Are there some markets that are better if inefficient, like the market for political favors?
+
+
+title: Dangers of political betting markets
+
+date: August 13, 2007 7:00 pm
+

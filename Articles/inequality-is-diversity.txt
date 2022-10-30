@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The Cambrian explosion … was the relatively rapid appearance, around 530 million years ago, of most major animal phyla, as demonstrated in the fossil record, accompanied by major diversification of organisms including animals, phytoplankton, and calcimicrobes. Before about 580 million years ago, most organisms were simple, composed of individual cells occasionally organized into colonies. Over the following 70 or 80 million years the rate of evolution accelerated by an order of magnitude (as defined in terms of the extinction and origination rate of species[4]) and the diversity of life began to resemble that of today. (more)
+Now that humans have pioneered powerful innovations in law, tech, and organization, the obvious long-term future to expect is a diversity in use of those innovations: our descendants will radiate out in feature space to fill a wide range of niches, not only on Earth, but under and above it as well. Just as Cambrian explosion descendants shared common cell tech and structures, our descendants may mostly preserve some key features of human minds and societies far into the coming explosion. But that still leaves room for a vast diversity.
+Since our society tends to give lip service to celebrating diversity, it can also give lip service to celebrating this future diversity. But humans also tend to be wary of inequality. Foragers were especially vigilant to prevent some of them from overtly dominating others, and while farming and industry cultures have led us to tolerate more inequalities, we aren’t especially happy about it.
+This is a problem because it is very hard to imagine a Cambrian explosion level of diversity among our descendants without a lot more inequality. For plants or animals today, pick most any dimension along which you want to call some “better” than others, and you’ll find a wide variation — some are a lot better than others. Pretty much the only dimension in which all existing species are near “equal” is survival – all have survived. But of course they are a tiny fraction of winners vastly outnumbered by all the dead loser species.
+Thus our descendants are likely to differ greatly from one another on most all imaginable dimensions, including dimensions of value, where some are called “better”. The only ways to prevent that is either to destroy all descendants, or for a central power to seize control of this process and impose a concept of equality favored by those who control it. And if you supported an attempt to seize central control on this basis, you’d risk folks with other agendas seizing control of this central power base.
+While such a central control attempt might make sense someday, when we have learned better ways to coordinate, for now I think we have to accept that the future will come with both great diversity and great inequality – and that we can’t really have much diversity without a lot of inequality as well.
+
+
+title: Inequality Is Diversity
+
+date: April 17, 2012 11:20 pm
+

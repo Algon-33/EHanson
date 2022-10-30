@@ -1,0 +1,23 @@
+author: Philip Goetz
+
+text: 
+Eliezer once wrote this about Newcomb’s problem:
+Nonetheless, I would like to present some of my motivations on Newcomb’s Problem – the reasons I felt impelled to seek a new theory – because they illustrate my source-attitudes toward rationality. Even if I can’t present the theory that these motivations motivate…
+First, foremost, fundamentally, above all else:
+Rational agents should WIN.
+As I just commented on another thread, this is faith in rationality, which is an oxymoron.
+It isn’t obvious whether there is a rational winning approach to Newcomb’s problem. But here’s a similar, simpler problem that billions of people have believed was real, which I’ll call Augustine’s Paradox (“Lord, make me chaste – but not yet!”)
+Most kinds of Christianity teach that your eternal fate depends on your state in the last moment of your life. If you live a nearly-flawless Christian life, but you sin ten minutes before dying and you don’t repent (Protestantism), or you commit a mortal sin and the priest has already left (Catholicism), you go to Hell. If you’re sinful all your life but repent in your final minute, you go to Heaven.
+The optimal self-interested strategy is to act selfishly all your life, and then repent at the final moment. But if you repent as part of a plan, it won’t work; you’ll go to Hell anyway. The optimal strategy is to be selfish all your life, without intending to repent, and then repent in your final moments and truly mean it.
+I don’t think there’s any rational winning strategy here. Yet the purely emotional strategy of fear plus an irrationally large devaluation of the future wins.
+
+I’m not entirely happy with this, because the problem assumes that God cares not just about what you do, but also why you do it, and sends you to Hell if you adopt a strategy for the purpose of winning.
+We could say that any general strategy that doesn’t apply only to the paradox itself is admissible. For instance, assume God allows you to adopt a self-identity function that discounts your identification with your future self at such a rate that repentance becomes rational only a few hours before your death, even if Augustine’s paradox was part of your reason. The problem with that strategy is that your life overall would probably not be very winning.
+But since the paradox as originally described, including God’s caring about your motives, is a problem that billions of people have believed, we can’t write it off and say “That’s not a fair problem”. As Eliezer has said, Nature doesn’t care if problems are fair. If rationality is always the winning strategy, we must allow all possible Natures; and God is possible.
+(Incidentally, googling turns up Augustine’s paradox of time, Augustine’s paradox of teaching, Augustine’s paradox of humility, Augustine’s paradox of memory and learning, and Augustine’s paradox of creation.)
+
+
+title: Augustine’s Paradox of optimal repentance
+
+date: March 1, 2009 4:09 pm
+

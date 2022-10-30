@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Twenty years ago today, I introduced the phrase “The Great Filter” in an essay on my personal website. Today Google says 300,000 web pages use this phrase, and 4.3% of those mention my name. This essay has 45 academic citations, and my related math paper has 17 cites.
+These citations are a bit over 1% of my total citations, but this phrase accounts for 5% of my press coverage. This press is mostly dumb luck. I happened to coin a phrase on a topic of growing and wide interest, yet others more prestigious than I didn’t (as they often do) bother to replace it with another phrase that would trace back to them.
+I have mixed feelings about writing the paper. Back then I was defying the usual academic rule to focus narrowly. I was right that it is possible to contribute to many more different areas than most academics do. But what I didn’t fully realize is that to academic economists non-econ publications don’t exist, and that publication is only the first step to academic influence. If you aren’t around in an area to keep publishing, giving talks, going to meetings, doing referee reports, etc., academics tend to correctly decide that you are politically powerless and thus you and your work can safely be ignored.
+So I’m mostly ignored by the academics who’ve continued in this area – don’t get grants, students, or invitations to give talks, to comment on paper drafts, or to referee papers, grants, books, etc. The only time I’ve ever been invited to talk on the subject was a TEDx talk a few years ago. (And I’ve given over 350 talks in my career.) But the worst scenario of being ignored is that it is as if your paper never existed, and so you shouldn’t have bothered writing it. Thankfully I have avoided that outcome, as some of my insights have been taken to heart, both academically and socially. People now accept that finding independent alien life simpler than us would be bad news, that the very hard filter steps should be roughly equally spaced in our history, and that the great filter gives a reason to worry about humanity’s future prospects.
+
+
+title: Great Filter, 20 Years On
+
+date: September 15, 2018 7:45 pm
+

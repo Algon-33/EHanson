@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Once upon a time some researchers gave people diseases and prevented their treatment without those folks’ consent or knowledge. Other researchers let volunteers think that they were torturing folks. This so horrified many that they created a system of regulation where any academic “experiments” must have prior approval by an Institutional Review Board (IRB).  And that system has expanded to the point of requiring prior approval for any interaction between researchers and non-researchers intended to be the basis of an academic publication.
+That is, researchers seeking publication can’t talk to people (e.g., survey), or buy or sell something with them, or even pay them to do trivial tasks like correcting spelling mistakes, without first writing out a detailed plan months in advance and getting that approved by a committee of other academics.
+One common rule is “informed consent” – people must be informed in great detail of the consequences of their interacting with the researchers – researchers must tell much more than ordinary people must tell when they deal with others.  A second common rule is that people must benefit in some other way than money – they must gain some sort of intellectual insight or learning.  A third common rule is that no record can be kept of people’s identities unless a really strong reason is offered to the contrary.
+IRBs seem a good example of concern signaling leading to over-reaction and over-regulation.  It might make sense to have extra regulations on certain kinds of interactions, such as giving people diseases on purpose or having them torture others.  But it makes little sense to have extra regulation on researchers just because they are researchers. That mainly gets in the way of innovation, of which we already have too little.
+Notice that researchers continue to be allowed to publish their results, and give lectures and media interviews, without such prior approval.  Yet couldn’t ordinary people be harmed by reading articles that induce them to have unethical or unpleasant beliefs?  Of course they could – it is only an accident of history that regulation does not also require prior ethical review of publications.
+Added noon: 
+In the United States, IRBs are governed by … provisions of the National Research Act of 1974, for example defining IRBs and requiring them for all research that receives support, directly or indirectly, from … the Department of Health and Human Services. (more)
+
+
+title: Against IRBs
+
+date: March 19, 2011 11:40 pm
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The Patient Protection and Affordable Care Act is a federal statute that was signed into law in the United States by President Barack Obama on March 23, 2010. Along with the Health Care and Education Reconciliation Act of 2010 (signed into law on March 30, 2010), the Act is the product of the health care reform agenda of the Democratic 111th Congress and the Obama administration. (more)
+Better late than never, the New England Journal of Medicine:
+The recently enacted Patient Protection and Affordable Care Act (ACA) created a Patient-Centered Outcomes Research Institute (PCORI) to conduct comparative-effectiveness research (CER) but prohibited this institute from developing or using cost-per-QALY thresholds. ,… The ACA’s language might be seen as symptomatic of the legislation’s aversion to policies that critics might see as enacting “big-government” health care or “death panels.” … The ACA … states that the findings of PCORI-sponsored research cannot be construed as mandates for practice guidelines, coverage recommendations, payment, or policy recommendations. … The antagonism toward cost-per-QALY comparisons also suggests a bit of magical thinking — the notion that the country can avoid the difficult trade-offs that cost-utility analysis helps to illuminate. It pretends that we can avert our eyes from such choices, and it kicks the can of cost-consciousness farther down the road. It represents another example of our country’s avoidance of unpleasant truths about our resource constraints. (more)
+Yup.  To the US public, medicine is a sacred; tradeoffs are taboo:
+When people receive monetary offers for relinquishing a sacred value, they display a particularly striking irrationality. Not only are people unwilling to compromise sacred values for money—contrary to classic economic theory’s assumption that financial incentives motivate behavior—but the inclusion of money in an offer produces a backfire effect such that people become even less likely to give up their sacred values compared to when an offer does not include money.
+Doesn’t sound promising for controlling costs, does it?
+
+
+title: Medicine is Sacred
+
+date: October 14, 2010 3:30 pm
+

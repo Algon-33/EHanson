@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Steven Landsburg’s new book, Can You Outsmart An Economist?, discusses many interesting questions. For example, in this nice and real example, median wages for all workers only rose 3% from 1980-2005, yet they rose 15% or more for each race/sex subgroup. Because the relative group sizes changed:
+
+Taking the book title as a challenge, however, I have to point out the one place where I disagreed with the book. Landsburg says:
+In a recent five-year period on the Maryland stretch of I-95, a black motorist was three times as likely as a white motorist to be stopped and searched for drugs. Black motorists were found to be carrying drugs at pretty much exactly the same rate as whites. (A staggeringly high one-third of stopped blacks and the same staggeringly high one-third of stopped whites were caught with drugs in their cars.) This was widely reported in the news media as clear-cut evidence of racial discrimination. … If you believe that people respond to incentives, then you must believe that if blacks were stopped at the same lower rate that whites were, more of them would have carried drugs. …
+If [police] were single-mindedly out to maximize arrests, they’d start by focusing their attention on the group that’s most inclined to carry drugs—in this case, blacks. … If blacks are still carrying more drugs than whites, the police shift even more of their focus to blacks, leading the gap to close a bit more. This continues until whites and blacks are carrying drugs in equal proportions. … If you want to maximize deterrence, you’ll concentrate more on stopping whites, because there are more whites in the population to deter, … which would deter more whites from carrying drugs—and then the average white motorist would carry fewer drugs than the average black.
+I’m with him until that last sentence. I think he is assuming that each choice to carry drugs or not is chosen independently, that choice is deterred independently via a perceived chance of being stopped, that potential carriers know only the average chance that someone in their groups is stopped, and that police can’t usefully vary the stopping chance within groups.
+If a perceived stopping chance could be chosen independently for each individual, then to maximize deterrence overall that chance would be set somewhat differently for each individual, according to their differing details. But the constraint that everyone in a group must share the same perceived stopping chance will prevent this detailed matching, making it a bit harder to deter drug carrying in that group. This is a reason that, all else equal, police motivated by deterrence may try a little less harder to deter larger groups, who are harder to deter, because they have more internal variation.
+Landsburg instead argues that you’ll put more effort into deterring the larger group, apparently just because there is a larger overall benefit from deterring a larger group. Yes, of course, deterring a group twice as large could produce twice the deterrent benefit in terms of its effect on the overall drug-carrying crime rate. But that comes at twice the cost in terms of twice as many traffic stops. I don’t see how there is a larger benefit relative to cost from focusing deterrence efforts on larger groups.
+
+
+title: Can You Outsmart An Economist?
+
+date: November 13, 2018 7:45 pm
+

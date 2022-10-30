@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Eric Drexler has responded to my last reply. Let me focus on one key issue. I wrote:
+The main argument you gave for why a nanotech revolution could happen suddenly is that new nanotech designs could “unfold at the speed of new digital media”, i.e., we could sent such designs around fast as digital files. But if this were all that was needed for a technology to improve rapidly we should now see rapid gains in the design of novels, music, and software.
+Drexler responds with quotes from his book:
+Even partial upgrades of existing products that involve [merely] replacing structural components with materials that are lighter, stronger, and lower in cost can offer striking advantages. If a business today could deliver replacements for products already in use, but at lower cost and with superior performance by a few key metrics (vehicles with half the mass, electronic systems with ten thousand times greater capacity), one would expect to see rapid replacement of competing products along with the collapse of the supply chains behind them. …
+Cycles of product improvement (and replacement) can be swift with an APM production infrastructure; the delays of prototyping, production engineering, and plant construction largely disappear, and production itself can be both fast and scalable. Further, for products adapted to decentralized APM-based production, distribution need not involve shipping and can more nearly resemble an Internet download.
+Yes, if a broad mature nanotech ability were to drop out of the sky, then industry could use such an ability to rapidly to displace existing products with large efficiency gains. A sudden appearance of full nanotech would imply a big sudden social change. But the question here is exactly how fast would nanotech abilities appear!
+Nanotech production lines take very small chemicals and incrementally bond them to each other, accumulating larger and larger assemblages, until they are big enough to be useful devices. Imagine that such production lines slowly became cheaper, faster, and more reliable, slowly adding to the menu of chemicals they could take in as basic building blocks, and slowly able to reliably create a wider range of chemical bonds at a wider range of relative block orientations. Slowly more of the steps in this production process became more fully automated, and less guided by human intervention. The slower that these improved abilities appeared, the slower would be the gains in performance and cost of the devices made this way.
+Today the industries that create novels, music, and software all have the advantages Drexler foresees – they have little in the way of tech-induced delays of prototyping, production engineering, and plant construction. Production itself is both fast and scalable. Even so, those industries are not improving the efficiency of their products at rates much faster than when they suffered greatly from such delays. So the elimination of such delays is clearly not sufficient to imply much faster gains in final product value.
+If there are reasons to expect nanotech abilities to improve rapidly, they must be additional reasons beyond those given above.
+
+
+title: Drexler and I Again
+
+date: July 11, 2013 11:40 am
+

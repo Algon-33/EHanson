@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+For five minutes near the end (48:45 to 53:45) of this hour long Freakonomics radio show on “The Folly of Prediction,” I discuss promising applications of prediction markests. We end it this way:
+Dubner: So that sounds very logical, very appealing; how realistic is it?
+Hanson: Well it depends on there being a set of customers who want this product. So, you know, if prediction markets have an Achilles heel it is certainly the possibility that people don’t really want accurate forecasts.
+
+
+title: Me on Freakonomics
+
+date: June 30, 2011 9:00 pm
+

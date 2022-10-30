@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+I’m not that happy with framing our analysis choices here as “surface analogies” versus “inside views.” More useful, I think, to see this as a choice of abstractions.  An abstraction neglects some details to emphasize others.  While random abstractions are useless, we have a rich library of a useful abstractions, tied to specific useful insights.
+For example, consider the oldest known tool, the hammer.  To understand how well an ordinary hammer performs its main function, we can abstract from details of shape and materials.  To calculate the kinetics energy it delivers, we need only look at its length, head mass, and recoil energy percentage (given by its bending strength).  To check that it can be held comfortably, we need the handle’s radius, surface coefficient of friction, and shock absorption ability.  To estimate error rates we need only consider its length and head diameter.
+For other purposes, we can use other abstractions:
+
+To see that it is not a good thing to throw at people, we can note it is heavy, hard, and sharp.
+To see that it is not a good thing to hold high in a lightning storm, we can note it is long and conducts electricity.
+To evaluate the cost to carry it around in a tool kit, we consider its volume and mass.
+ To judge its suitability as decorative wall art, we consider its texture and color balance.
+ To predict who will hold it when, we consider who owns it, and who they know.
+ To understand its symbolic meaning in a story, we use a library of common hammer symbolisms.
+ To understand its early place in human history, we consider its easy availability and frequent gains from smashing open shells.
+ To predict when it is displaced by powered hammers, we can focus on the cost, human energy required, and weight of the two tools.
+ To understand its value and cost in our economy, we can focus on its market price and quantity.
+[I’m sure we could extend this list.]
+
+
+Whether something is “similar” to a hammer depends on whether it has similar relevant features. Comparing a hammer to a mask based on their having similar texture and color balance is mere “surface analogies” for the purpose of calculating the cost to carry it around, but is a “deep inside” analysis for the purpose of judging its suitability as wall art.  The issue is what abstractions are how useful for what purposes, not what features are “deep” vs. “surface.”
+Minds are so central to us that we have an enormous range of abstractions for thinking about them.  Add that to our abstractions for machines and creation stories, and we have a truly enormous space of abstractions for considering stories about creating machine minds.  The issue isn’t so much whether any one abstraction is deep or shallow, but whether it is appropriate to the topic at hand.
+The future story of the creation of designed minds must of course differ in exact details from everything that has gone before.  But that does not mean that nothing before is informative about it.  The whole point of abstractions is to let us usefully compare things that are different, so that insights gained about some become insights about the others.
+Yes when you struggle to identify relevant abstractions you may settle for analogizing, i.e., attending to commonly-interesting features and guessing based on feature similarity.  But not all comparison of different things is analogizing.  Analogies are bad not because they use “surface” features, but because the abstractions they use do not offer enough relevant insight for the purpose at hand.
+I claim academic studies of innovation and economic growth offer relevant abstractions for understanding the future creation of machine minds, and that in terms of these abstractions the previous major singularities, such as humans, farming, and industry, are relevantly similar.  Eliezer prefers “optimization” abstractions.  The issue here is evaluating the suitability of these abstractions for our purposes.
+
+
+title: Abstraction, Not Analogy
+
+date: November 19, 2008 11:00 am
+

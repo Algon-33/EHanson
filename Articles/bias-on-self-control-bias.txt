@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Since Eliezer is concerned about our ability to resist modern temptations, let me summarize recent economic analysis:  Paternalism does not help people who are aware of their self-control problems, and are able to make future commitments.   To argue for paternalism regarding self-control, one has to assume we are biased to underestimate our self-control problems.  From a 2004 paper in Quarterly Journal of Economics:
+We analyze the profit-maximizing contract design of firms if consumers have time-inconsistent preferences and are partially naive about it. We consider … goods with immediate costs and delayed benefits (investment goods) such as health club attendance, and goods with immediate benefits and delayed costs (leisure goods) such as credit card-financed consumption. … The predictions of the theory match the empirical contract design in the credit card, gambling, health club, life insurance, mail order, mobile phone, and vacation time-sharing industries. … time inconsistency has adverse effects on consumer welfare only if consumers are naive.
+From a 2002 paper by O’Donoghue and Rabin, who have many related papers:
+We investigate the role that self-control problems – modeled as time-inconsistent, present-biased preferences – and a person’s awareness of those problems might play in leading people to develop and maintain harmful addictions. Present-biased preferences create a tendency to over-consume addictive products, and awareness of future selfcontrol problems can mitigate or exacerbate this over-consumption, depending on the environment. … For realistic environments self-control problems are a plausible source of severely harmful addictions only in conjunction with some unawareness of future self-control problems.
+So, are we in fact biased to underestimate our self-control problems?   If so, why isn’t it easier to just tell us we have self-control problems?   Why wouldn’t we believe such advice?
+Surely some of us do underestimate our self-control problems, but curiously I can’t seem to find any papers in this (large) economics literature that consider people who overestimate their self-control problems.  This ethics paper by Tyler Cowen, however, does consider it and convince me that such situations are common.   Are we biased to assume others are biased toward too little self-control?
+Added 14Nov2014: A 2011 QJE theory paper finds:
+When learning [about your own self-control abilities] fails at the limit, I find that it occurs in a particular direction, namely that individuals underestimate their self-control.
+
+
+title: Bias on Self-Control Bias
+
+date: March 17, 2007 6:00 am
+

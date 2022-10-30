@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+“How dare X meddle in Y’s business on Z?! Yes, X only tried to influence Y people on Z by talking, and said nothing false. But X talked selectively, favoring one position over another!”
+Consider some possible triples X,Y,Z:
+
+How dare my wife’s friend meddle in my marriage by telling my wife I treat her poorly?
+How dare John try to tempt my girlfriend away from me by flirting with her?
+How dare my neighbors tell my kids that they don’t make their kids do as many chores?
+How dare Sue from another division suggest I ask too much overtime of my employees?
+How dare V8 try to tempt cola buyers to switch by dissing cola ingredients?
+How dare economists say that sociologists keep PhD students around too long?
+How dare New York based media meddle in North Carolina’s transexual bathroom policy?
+How dare westerners tell North Koreans that their government treats them badly?
+How dare Russia tell US voters unflattering things about Hillary Clinton?
+
+We do sometimes feel justly indignant at outsiders interfering in our “internal” affairs. In such cases, we prefer equilibria where we each stay out of others’ families, professions, or nations. But in many other contexts we embrace social norms that accept and even encourage criticism from a wide range of sources.
+The usual (and good) argument for free speech (or really, free hearing) is that on average listeners can be better informed if they have access to more different info sources. Yes, it would be even better if each source fairly told everything relevant it knew, or at least didn’t select what it said to favor some views. But we usually think it infeasible to enforce norms against selectivity, and so limit ourselves to more enforceable norms against lying. As we can each adjust our response to sources based on our estimates of their selectivity, reasonable people can be better informed via having more sources to hear from, even when those sources are selective.
+So why do we sometimes oppose such free hearing? Paternalism seems one possible explanation – we think many of us are unreasonable. But this fits awkwardly, as most expect themselves to be better informed if able to choose from more sources. More plausibly, we often don’t expect that we can limit retaliation against talk to other talk. For example, if you may respond with violence to someone overtly flirting with your girlfriend, we may prefer a norm against such overt flirting. Similarly, if nations may respond with war to other nations weighing in on their internal elections, we may prefer a norm of nations staying out of other nations’ internal affairs.
+Of course the US has for many decades been quite involved in the internal affairs of many nations, including via assassination, funding rebel armies, bribery, academic and media lecturing, and selective information revelation. Some say Putin focused on embarrassing Clinton in retaliation for her previously supporting the anti-Putin side in Russian internal affairs. Thus it is hard to believe we really risk more US-Russian war if these two nations overtly talk about the others’ internal affairs.
+Yes, we should consider the possibility that retaliation against talk will be more destructive than talk, and be ready to forgo the potentially large info gains from wider talk and criticism to push a norm against meddling in others’ internal affairs. But the international stage at the moment doesn’t seem close to such a situation. We’ve long since tolerated lots of such meddling, and the world is probably better for it. We should allow a global conversation on important issues, where all can be heard even when they speak selectively.
+
+
+title: When Is Talk Meddling Okay?
+
+date: December 17, 2016 5:30 pm
+

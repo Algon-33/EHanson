@@ -1,0 +1,15 @@
+author: Nicholas Shackel
+
+text: 
+Normative Bayesianism says that you ought to believe as you would if you were an ideal Bayesian believer and so believing is what it is to believe rationally. An ideal Bayesian believer has (1) beliefs by having credences, where a credence is a degree of belief in a proposition; (2) has a Prior = a complete consistent set of credences (capitalized to avoid confusing priors = a person’s credences with Priors = a plurality of complete consistent sets of credences), that is to say, has a credence function from the sigma algebra of propositions into the reals such that the credence function is a measure that is a probability function; (3) changes his beliefs on the basis of the evidence he has acquired by updating his credence function by the use of Bayes’ theorem.
+Much of the earlier discussion about the rationality of disagreement and the requirement of modesty was advanced on the basis of the claim that Bayesian believers cannot rationally disagree. But there are different versions of what precisely that claim might be.
+
+Strong Bayesian Agreement: Ideal Bayesian believers who have common knowledge of each others opinion of a proposition agree on that proposition.
+Moderate Bayesian Agreement: Ideal Bayesian believers who have rational Priors and common knowledge of each others opinion of a proposition agree on that proposition.
+Weak Bayesian Agreement: Ideal Bayesian believers who have a common Prior and common knowledge of each others opinion of a proposition agree on that proposition.
+
+
+title: Normative Bayesianism and Disagreement
+
+date: December 31, 2006 6:00 am
+

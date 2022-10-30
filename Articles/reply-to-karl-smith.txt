@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+On Friday I wrote:
+[Imagine] a fountain of youth pill … [that had] to be … given to everyone over thirty … [and] required dosage doubled every decade [of age]. … Eventually we’d run out of money to pay for these pills; we’d have to say no to some people, and then they’d quickly die. And the longer we waited before admitting to ourselves that we couldn’t afford to give effective treatments to everyone, no matter what the cost, the worse it would be.
+Karl Smith replied:
+Why would it be worse the longer we lived in self-deception? That really needs to be spelled out because off the top it sounds like Robin is describing a scenario in which we maximize the the total amount of human life we can support. We are also doing this without implicitly valuing anyone’s life over anyone else’s. We save everyone we can, as long as we can, until we hit capacity. This could easily be a utopian scenario.
+Again, its probably not the scenario I prefer but one has to be explicit about exactly why throwing everything we have at an extremely effective method of preserving enormous amounts of human life is bad idea. It seems like something the average person would regard as a great idea.
+Well first we might not smoothly transition to a maximal sustainable state, but instead borrow too much, fail to maintain infrastructure, etc.  Second, the steady state might have a pretty low quality of life, from spending everything possible on pills. Third, we could support much more human life by having new young kids who wouldn’t need any pills for another thirty years.  If the choice is between a million folks kept to age 200 or a billion folks keep to age 100, I’ll take the billion any day.
+
+
+title: Reply To Karl Smith
+
+date: April 25, 2011 12:45 pm
+

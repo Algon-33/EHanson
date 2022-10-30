@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+A new Games and Economic Behavior paper (ungated here) shows that just asking folks to estimate the chances of events, where they expect to be scored later for accuracy, induces more accurate beliefs about those events, but that what folks believe and say can still consistently diverge:
+Belief elicitation in game experiments may be problematic if it changes game play. We experimentally verify that belief elicitation can alter paths of play in a two-player repeated asymmetric matching pennies game. Importantly, this effect occurs only during early periods and only for players with strongly asymmetric payoffs, consistent with a cognitive/affective effect on priors that may serve as a substitute for experience. These effects occur with a common scoring rule elicitation procedure, but not with simpler (unmotivated) statements of expected choices of opponents. Scoring rule belief elicitation improves the goodness of fit of structural models of belief learning, and prior beliefs implied by such models are both stronger and more realistic when beliefs are elicited than when they are not. We also find that “inferred beliefs” (beliefs estimated from past observed actions of opponents) can predict observed actions better than the “stated beliefs” from scoring rule belief elicitation.
+Yet more evidence that we should try to get into the habit of collecting track records about our beliefs.
+
+
+title: Score Your Beliefs
+
+date: April 23, 2009 6:00 am
+

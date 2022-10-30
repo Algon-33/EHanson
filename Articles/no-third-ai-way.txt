@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+A few days ago in the Post:
+Bryan Johnson .. wants to .. find a way to supercharge the human brain so that we can keep up with the machines. .. His science-fiction-meets-science start-up, Kernel, is building a tiny chip that can be implanted in the brain. .. Top neuroscientists who are building the chip .. hope that in the longer term, it will be able to boost intelligence, memory and other cognitive tasks. .. In an age of AI, he insists that boosting the capacity of our brains is itself an urgent public concern.
+In a MeaningOfLife.tv video discussion between James Hughes and I just posted today, Hughes said:
+One of the reasons why I’m skeptical about the [em] scenario that you’ve outlined, is that I see a scenario where brains extending themselves though AI and computing tools basically slaved to the core personal identity of meat brains is a more likely scenario than one where we happily acknowledge the rights and autonomy of virtual persons. .. We need to have the kind of AI in our brain which is not just humans 1.0 that get shuffled off to the farm while the actual virtual workers do all the work, as you have imagined.
+Many hope for a “third way” alternative to both ems and more standard AI software taking all the jobs. They hope that instead “we” can keep our jobs via new chips “in” or closely integrated with our brain. This seems to me mostly a false hope.
+Yes of course if we have a strong enough global political coordination we could stake out a set of officially human jobs and forbid machines from doing them, no matter how much better machines might be at them. But if we don’t have such strong coordination, then the key question is whether there is an important set of jobs or tasks where ordinary human brains are more productive than artificial hardware. Having that hardware be located in server racks in distant data centers, versus in chips implanted in human brains, seems mostly irrelevant to this.
+If artificial hardware can be similarly effective at such tasks, then it can have enormous economic advantages relative to human brains. Even today, the quantity of artificial hardware can be increased very rapidly in factories. And eventually, artificial hardware can be run at much faster speeds, with using much less energy. Humans, in contrast, grow very slowly, have limited brain speeds, and are fragile and expensive. It is very hard to see humans outcompeting artificial hardware at such tasks unless the artificial hardware is just very bad at such tasks. That is in fact the case today, but it would not at all be the case with ems, nor with other AI with similar general mental abilities.
+
+
+title: No Third AI Way
+
+date: August 17, 2016 9:45 pm
+

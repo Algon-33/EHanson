@@ -1,0 +1,15 @@
+author: Hal Finney
+
+text: 
+At the supermarket last week I picked up a copy of Time magazine for its cover story: Why We Worry About the Wrong Things, The Psychology of Risk, by Jeffrey Kluger. It’s an engaging but typically superficial article describing how people pay attention to certain potential risks while ignoring many more serious threats to their longevity and well-being. Describing our worries over hypothetical risks such as bird flu, mad cow, Muslim Imams, and contaminated lettuce, Kluger comments, "At the same time, 20% of all adults still smoke; nearly 20% of drivers and more than 30% of backseat passengers don’t use seat belts; two-thirds of us are overweight or obese." These are far more real risks that we have real control over, compared to the many threats that get public attention.
+  
+The article promotes a theory that humans have two systems for evaluating risks, an innate, instinctive one that is active for immediate and short-term threats such as encountering a dangerous animal; and a reason-based system that is used for longer-term and more abstract threats. The claim is that the instinctive system is honed by evolution to be relatively accurate, at least against the kinds of threats people have dealt with historically. However the reason-based system is said to be prone to a number of flaws, errors and biases.
+Factors that can cause us to over-react to risks include dreadfulness, meaning how gruesome and painful the effects are; magnitude, so that threats which can affect large numbers of people at once seem worse; unfamiliarity, where threats that are novel seem more serious than those to which we have become habituated; and control, such that threats seem less severe if we have control over the circumstances that threaten us (whether we exercise such control or not!).
+The article comes up short in terms of recommendations for people to develop more accurate perceptions of risk. Obviously informing oneself about the relevant statistics will be helpful, but the author cautions that interested parties are expert at manipulating statistics and introducing misleading comparisons. It can also be difficult to ascertain the consensus value for certain risks. The article describes an experiment where a group of lay people and a group of medical experts were asked to estimate the odds of human-to-human transmission of bird flu within the next 3 years. The laymen estimated 60%; the doctors, 10%. Presumably the latter figure should be considered more authoritative.
+In the discussion on The Wisdom of Crowds, commenter TGGP noted that for a crowd to be successful it is necessary for its biases to be random, so they cancel each other out. Clearly, when dealing with risks that is not the case, as our perceptual biases cause us to focus our attention inappropriately, and these biases would be widely shared. This is one area where we have to rely on expert opinion and judgment in order to get an unbiased picture of the true risks we face.
+
+
+title: Time on Risk
+
+date: December 9, 2006 4:58 pm
+

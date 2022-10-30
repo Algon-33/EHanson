@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Long ago when electricity and phones were new, they were largely unregulated, and privately funded. But then as the tech (and especially the interfaces) stopped changing so fast, and showed big scale and network economies, regulation stepped in. Today social media still seems new. But as it hasn’t been changing as much lately, and it also shows large scale and network economies, many are talking now about heavier regulation. In this post, let me suggest that a lot more change is possible; we aren’t near the sort of stability that electricity and phones reached when they became heavily regulated.
+Back in the early days of the web and internet people predicted many big radical changes. Yet few then mentioned social media, the application now most strongly associated with this new frontier. What did we miss? The usual story, which I find plausible, is that we missed just how much people love to get many frequent signals of their social connections: likes, retweets, etc. Social media gives us more frequent “attaboy” and “we see & like you” signals. People care more than we realized about the frequency, relative to the size, of such signals.
+But if that’s the key lesson, social media should be able to move a lot further in this direction. For example, today Facebook has two billion monthly users and produces four million likes per minute, for an average of about three likes per day per monthly user. Twitter has 300 million monthly users, who send 500 million tweets per day, for less than two tweets per day per monthly user. (I can’t find stats on Twitter likes or retweets.) Which I’d say is actually a pretty low rate of positive feedback.
+Imagine you had a wall-sized screen, full of social media items, and that while you browsed this wall the direction of your gaze was tracked continuously to see which items your gaze was on or near. From that info, one could give the authors or subjects of those items far more granular info on who is paying how much attention to them. Not only on how often how much your stuff is watched, but also on the mood and mental state of those watchers. If some of those items were continuous video feeds from other people, then those others could be producing many more social media items to which others could attend.
+Also, so far we’ve usually just naively counted likes, retweets, etc., as if everyone counted the same. But we could instead use non-uniform weights based on popularity or other measures. And given how much people like to participate in synchronized rituals, we could also create and publicize statistics on what groups of people are how synchronized in their social media actions. And offer new tools to help them synchronize more finely.
+My point here isn’t to predict or recommend specific changes for future social media. I’m instead just trying to make the point that a lot of room for improvement remains. Such gains might be delayed or prevented by heavy regulation.
+
+
+title: Toward Micro-Likes
+
+date: March 29, 2018 10:47 am
+

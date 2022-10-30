@@ -1,0 +1,43 @@
+author: Robin Hanson
+
+text: 
+If you have enough of a following, Twitter polls are a great resource for exploring how people think. I’ve just finished asking a 8 polls each regarding 12 different questions that make people choose between the following 16 features, either in themself or in others:
+attractiveness, confidence, empathy, excitement, general respect, grandchildren, happiness, improve world, income, intelligence, lifespan, pleasure, productive hrs/day, professional success, serenity, wit.
+The questions were, in the order they were asked (links give more detail):
+
+UpSelf: Which feature of you would you most like to increase by 1%?
+Advice: For which feature do you most want a respected advisor’s advice?
+ToMind: Which feature of yourself came to your mind most recently?
+WorkedOn: Which feature did you most try to improve in the last year?
+UpOthers: Which feature of your associates would you most like to increase by 1%?
+City: To which city would you move, options labeled by the feature that people there are on average better on?
+KeepSelf: If all your features are to decline a lot, which feature would you save from declining?
+Aliens: What feature would you use to decide which civilization survives?
+Voucher: On which feature would you spend $10K to improve?
+World: Which feature of yours would you most like to improve to become world class?
+Obit: Which feature would you feel proudest to have mentioned in your obituary?
+KeepOthers: If all of your closest associates’ features will decline a lot, which feature would you save from declining?
+
+Each poll gives four options, and for each poll I fit the response % to to a simple model where each feature has a positive priority, and each feature is chosen in proportion to its priority. The max priority feature is set to have priority 100. And here are the results:
+
+This shows, for each question, the average number who responded to each poll, the RMS error of the model fit, in percentage points, and then the priorities of each feature for each question. Notice how much variation there is in priorities for different questions. Overall, intelligence is the clear top priority, while grandkids is near the bottom. What would Darwin say?
+Here are correlations between these priorities, both for features and for questions:
+
+
+Darker colors show higher correlations. Credit to Daniel Martin for making these diagrams, and to Anders Sandberg for the idea. We have ordered these by hand to try to put the stronger correlations closer to the diagonal.
+Notice that both features and questions divide neatly into self-oriented and other-oriented versions. That seems to be the main way our values vary: we want different internal versus external features, and different features in ourselves versus others.
+Added 20Jan: Some observations:
+There are three packages of features, Impressive, Feelings, and Miscellaneous, plus two pretty disconnected features, intelligence and grandkids. It is striking that grandkids is so weak a priority, and negatively correlated with everything else; grandkids neither make us feel better, nor look impressive. 
+The Impressive package includes: attractiveness, professional success, income, confidence, and lifespan. The inclusion of lifespan in that package is surprising; do we mainly want to live longer to be impressive, not to enjoy the extra years? Also note that intelligence is only weakly connected with Impressive, and negatively with Feelings. 
+The Feelings package includes: serenity, pleasure, happiness, and excitement. These all make sense together. The Miscellaneous set is more weakly connected internally, and includes wit, respect, empathy, and improve world, which is the most weakly connected of the set. Empathy and respect are strongly connected, as are wit and excitement. Do we want to be respected because we can imagine how others feel about us, or are we empathetic because that is a “good look”?
+There are two main packages of questions: Self and Other. The Other package is UpOthers, City, Aliens, and KeepOther, about what we want in associates. The Self package is Voucher, World, ToMind, WorkedOn, and Advice, about how we choose to improve ourself. UpSelf and KeepSelf are connected but less so, which I interpret as being more influenced by what we’d like others to think we care about. 
+KeepSelf and KeepOther are an intermediate package, influenced both by what we want in ourselves and what we’d like others to think we care about. Thus what we want in others is close to what we’d like others to think we want in ourselves. It seems that we are more successfully empathetic when we think about the losses of others, rather than their gains. We can more easily feel their pain than their joy.
+Obit is more connected to the Other than the Self package, suggesting we more want our Obits to contain the sorts of things we want in others, rather than what we want in ourself. 
+Note that while with features the Impressive and Feelings packages are positively correlated, for Questions the Self and Other questions are negatively correlated. Not sure why.
+ 
+
+
+title: Exploring Value Space
+
+date: January 19, 2022 3:05 pm
+

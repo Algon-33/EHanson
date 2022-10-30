@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Once humans had only informal systems of gossip and norm enforcement, but now we also have formal systems of law. These formal legal systems supposedly have many features designed to overcome problems with prior informal norm systems. For example, with gossip we tend to support the claims of our immediate associates without investigating contrary evidence, but we require formal law judges to instead consider evidence from all sides before making their judgments.
+We seem to believe these claims that formal law systems overcome informal system failings, because we are quite reluctant to give up our formal systems. Few of us support dropping our formal law systems, and replacing them with informal gossip and mobs. But if so, why do we still use informal norm systems to deal with so many topics, instead of law?
+We often say that we rely on informal norms when formal law systems are too slow or expensive. But when offered specific proposals for ways to drastically reduce the time and expense of formal legal systems, so that they can be used more widely, most people seem quite reluctant to endorse such changes. But if law fixes serious problems with informal norms, and if we could replace such norms with law in more places, why not do so?
+What makes this even more puzzling is the fact that centuries ago in the U.S. our formal legal systems were much simpler and lower cost. The law was simpler, most people could go to court without a lawyer, and juries made most decisions. All of which did allow the law to deal with more kinds of conflicts. The scope of law has declined over the last few centuries as we’ve allowed law to get more complex and expensive.
+One theory is suggested by the idea of “snitches”. Children punish each other for complaining about each other to parents or teachers; they are supposed to instead rely on informal systems among children. Insiders complaining to outsiders can make any group look bad to outsiders, and thus loyalty to a group can require that one keep one’s complaints inside the group. Thus we may prefer informal systems as ways to show loyalty to our groups.
+Just like we’ve added formal systems of conflict resolution to our prior informal systems of gossip and norms, we’ve also added formal systems of abstract conversation to our prior informal talk systems.
+For example, in academia we have many norms regarding how we present abstract claims and arguments to each other in books and journal articles, and how we evaluate such things. For most of these norms, we have stories about how they fix problems with informal talk. And few academics would endorse getting rid of all these norms and just reverting entirely to informal talk.
+And yet, as new mediums and genres of conversation have appeared over the last few decades, we’ve seen relatively little support for extending the usual academic norms into these new places. I expect many would offer knee-jerk explanations saying that academic norms take too much time and energy to apply to these new places. But that seems to me mostly an excuse; I doubt that they’ve actually thought much about actual time and energy costs.
+Regarding both dispute resolution and abstract conversation, it seems that we mostly just want to continue with formal institutions in their current scope of application, but not to apply them more widely, even when that becomes feasible. Perhaps because we prefer to show loyalty to the communities that manage our informal norm systems. But loyalty signaling doesn’t seem a good reason to think this is better for the world, or for our larger societies.
+Added 10a: Speculative markets are another area where we don’t want to get rid of the ones we have, but we also don’t want more of them, to aggregate info into consensus on more topics. The cost of creating them has come way down, allowing a lot more of them, that we don’t want.
+Property registries is yet another area. The cost of managing them have come way down, yet we don’t have official registries for many more kinds of property than we once did.
+Perhaps the simplest theory here is that we’ve lost our taste for social change. Whatever was continues, but nothing new shall be added.
+
+
+title: Why Not Extend Formal Social Systems?
+
+date: August 17, 2021 9:35 pm
+

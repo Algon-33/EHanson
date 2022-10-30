@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Twenty years ago I reviewed the academic literature on the social return to government-funded research, and found it to be one of the most biased I have ever seen; the clear agenda was to lobby for more research money.   I just went looking for more recent developments and found a meta-analysis by farm research advocates.  The average annual rate of return studies found was over 80%, but there were some serious biases: 
+
+This study includes a comprehensive database of literature on returns to research … Overwhelmingly, evaluations related to crop research. The original database included 292 publications reporting 1,886 observations. …  Lower rates of return are reported when:  … both research and extension effects are included (relative to either alone), the analyst is employed by a university (versus government), the analyst is employed by the private sector (versus government), … the research scope is for a program (versus a single project), the research scope is for one or more institutions (versus a single project), the evaluation is published in a refereed journal compared with less formal outlets, … a longer gestation lag is used.
+
+That is, they get higher estimates for the value of research when they can more easily cherry-pick the best-looking cases, and when the standards of evaluation are the lowest.  Of course the very hard question is how to correct for these biases when assessing the average rate of return.   
+
+
+title: The “Give Us More Money” Bias
+
+date: March 6, 2007 6:00 am
+

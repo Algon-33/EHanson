@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+An extended anecdote by MIT alum Keith Yost, paid $200,000/yr. straight out of school by Boston Consulting Group to consult in Dubai:
+I was regularly advertised to clients as an expert with seemingly years of topical experience relevant to the case. … Even my very first case .. I was the most senior consultant on the team. …
+Analytical skills were overrated, for the simple reason that clients usually didn’t know why they had hired us. They sent us vague requests for proposal, we returned vague case proposals, and by the time we were hired, no one was the wiser as to why exactly we were there.  I got the feeling that our clients were simply trying to mimic successful businesses, and that as consultants, our earnings came from having the luck of being included in an elaborate cargo-cult ritual. In any case it fell to us to decide for ourselves what question we had been hired to answer, and as a matter of convenience, we elected to answer questions that we had already answered in the course of previous cases – no sense in doing new work when old work will do.  …
+Most of my day was spent thinking up and writing PowerPoint slides. …  What I could not get my head around was having to force-fit analysis to a conclusion. In one case, the question I was tasked with solving had a clear and unambiguous answer: By my estimate, the client’s plan of action had a net present discounted value of negative one billion dollars. … But the client did not want analysis that contradicted their own, and my manager told me plainly that it was not our place to question what the client wanted. … “Change the numbers, but don’t change the conclusion.”
+Hat tip to Kevin Burke.
+
+
+title: Consulting Isn’t About Advice
+
+date: April 16, 2010 12:00 pm
+

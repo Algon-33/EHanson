@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+What will be the biggest future economic sectors? Medicine is many folks bet – we want few things more than health, and the med spending % of GDP has grown for many decades. But while I agree that medicine will continue to grow for decades, on longer timescales my bet and hope is: innovation.
+We are richer than our ancestors mostly because of innovation. But most of the innovation benefits we receive are externalities – we only pay our ancestors (or those to whom they transferred their property rights) for a small fraction of that benefit. If we instead had better property rights for innovation, we’d pay a large fraction of our income as compensation for past innovation.  That would increase incentives to innovate, the rate of innovation, and the fraction of the economy devoted to innovation. With good institutions, I could imagine more that half of all income being paid to the innovation industry.
+Alas, it is devilishly hard to design good innovation property rights. Patents are supposedly the best we have now, and they are often terrible. But over the next few centuries, we might just create better institutions (e.g., futarchy) to better encourage institution design, and within those institutions, folks may well come up with better designs for institutions to encourage innovation. Optimist that I am, my best guess is that we will succeed at this.
+Of course in the long run innovation must run out, and then we’ll have a long stable future with little innovation. But I expect the innovation era to last a few more centuries at least, with the best innovation yet to come.
+
+
+title: Innovation >50% GDP?
+
+date: July 15, 2011 12:30 pm
+

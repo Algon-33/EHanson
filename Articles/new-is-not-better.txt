@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+“As a non-American, I don’t completely understand it, but there is a phenomenon in the U.S., the latest and the greatest. … There was a patient demand to get these implants on the misconception that the latest was the best.” …“The vast majority of the ‘innovations’ on which we have spent money with respect to orthopedics over the past two decades have not resulted in improved patient outcomes.” (more; HT Tyler)
+Assuming no side-effects, if users gain from innovations then innovators must gain less than the social value of their innovations, which risks their having insufficient incentives to innovate. This effect can be countered, however, by giving extra social status to the creators and users of innovative products, services, and behaviors.
+United States culture gives such extra status to creators and users of innovations, and so probably deserves some credit for encouraging innovation. But alas much of this is wasted via merely rewarding things things that are new, rather than innovative. And if your reaction to reading that was “what is the difference?,” that just shows the depth of the problem.
+Innovative things must be new, but new things need not be innovative. To be usefully innovative is to be better some how. Innovators try many new things, most of which are not better, but a few of which are. On average new things are w0rse, but those that are eventually retained are hopefully on average better. And with the right incentives, the retained better things are so much better that they pay for all the other new worse things.
+If our culture waited until it was clear which new things were actually better, and gave more status to the creators and early adopters of those things, culture would promote innovation. But alas culture instead mainly showers status on those who merely create and use new things, regardless of whether they are better. While in small amounts even this status effect can promote innovation, in larger amounts it can hurt. After all, when there is too little added reward for creating or using something that is both new and better, relative to something that is just new, people will mainly focus on the new part.
+The problem comes from an excess focus on current behavior, relative to past track records. In enforcing social status norms, it is relatively easy to just see that someone is today affiliated with with something that is new today, and give that person credit for their newness. It is much harder to remember that a person was once affiliated with something that was then new, and which later turned out to actually be better. A mechanism that made it easier to collect and view such track records could be of great social value, at least if combined with new matching social norms on who deserves social credit for being “innovative.”
+
+
+title: New Is Not Better
+
+date: June 26, 2011 9:20 am
+

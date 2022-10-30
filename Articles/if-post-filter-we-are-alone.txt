@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Me four years ago:
+Imagine that over the entire past and future history of our galaxy, human-level life would be expected to arise spontaneously on about one hundred planets. At least it would if those planets were not disturbed by outsiders. Imagine also that, once life on a planet reaches a human level, it is likely to quickly (e.g., within a million years) expand to permanently colonize the galaxy. And imagine life rarely crosses between galaxies. In this case we should expect Earth to be one of the first few habitable planets created, since otherwise Earth would likely have already been colonized by outsiders. In fact, we should expect Earth to sit near the one percentile rank in the galactic time distribution of habitable planets – only ~1% of such planets would form earlier. …
+If we can calculate the actual time distribution of habitable planets in our galaxy, we can then use Earth’s percentile rank in that time distribution to estimate the number of would-produce-human-level-life planets in our galaxy! Or at least the number of such planets times the chance that such a planet quickly expands to colonize the galaxy. (more)
+New results:
+The Solar System formed after 80% of existing Earth-like planets (in both the Universe and the Milky Way), after 50% of existing giant planets in the Milky Way, and after 70% of existing giant planets in the Universe. Assuming that gas cooling and star formation continues, the Earth formed before 92% of similar planets that the Universe will form. This implies a < 8% chance that we are the only civilisation the Universe will ever have. (more; HT Brian Wang)
+Bottom line: these new results offer little support for the scenario where we have a good chance of growing out into the universe and meeting other aliens before a billion of years have passed. Either we are very likely to die and not grow, or we are the only ones who could grow. While it is possible that adding more filters like gamma ray bursts could greatly change this analysis, that seems to require a remarkable coincidence of contrary effects to bring Earth back to being near the middle of the filtered distribution of planets. The simplest story seems right: if we have a chance to fill the universe, we are the only ones for a billion light years with that chance.
+
+
+title: If Post Filter, We Are Alone
+
+date: August 31, 2015 9:15 am
+

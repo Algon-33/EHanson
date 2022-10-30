@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+In Moore’s experiment, volunteers were given cash for correctly guessing the weight of people from their photographs. In each of the eight rounds of the study, the guessers bought advice from one of four other volunteers. The guessers could see in advance how confident each of these advisers was (see table), but not which weights they had opted for.
+From the start, the more confident advisers found more buyers for their advice, and this caused the advisers to give answers that were more and more precise as the game progressed. This escalation in precision disappeared when guessers simply had to choose whether or not to buy the advice of a single adviser. In the later rounds, guessers tended to avoid advisers who had been wrong previously, but this effect was more than outweighed by the bias towards confidence. …
+Moore said that following the advice of the most confident person often makes sense, as there is evidence that precision and expertise do tend to go hand in hand. For example, people give a narrower range of answers when asked about subjects with which they are more familiar.
+There are times, however, when this link breaks down. With complex but politicised subjects such as global warming, for example, scientific experts who stress uncertainties lose out to activists or lobbyists with a more emphatic message.
+That is from New Scientist back in June.  So the key hard question is: when does confidence credibly signal expertise, and when it is just empty cheap talk?  Hat tip to Toby Ord.
+
+
+title: The Confidence Heuristic
+
+date: August 14, 2009 6:00 am
+

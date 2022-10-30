@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+I said back in February:
+For millennia, we humans have shown off our intelligence via complicated arguments and large vocabularies, health via sport achievement, heavy drink, and long hours, and wealth via expensive clothes, houses, trips, etc. Today we appear to have the more efficient signaling substitutes, such as IQ tests, medical health tests, and bank statements. Yet we continue to show off in the old ways, and rarely substitute such new ways. Why?
+One explanation is inertia. Signaling equilibria require complex coordination, and those who try to change it via deviations can seem non-conformist and socially clueless. Another explanation is hypocrisy. As we discuss in our new book, The Elephant in the Brain, ancient and continuing norms against bragging push us to find plausible deniability for our brags. We can pretend that big vocabularies help us convey info, that sports are just fun, and that expensive clothes, etc. are prettier or more comfortable. It is much harder to find excuses to waive around your IQ test or bank statement for others to see.
+It recently occurred to me that a sufficient lack of privacy would be an obvious fix for this problem. Imagine that it were easy to use face recognition to find someone’s official records, and from there to find out their net worth, IQ scores, and health test scores. In that case, observers could more cheaply acquire the same info that we are now try to show off in deniable ways.
+Yes, we say to want to keep such info private, but the big efforts most of us go through to show off our smarts, health, and wealth suggests that we doth protest too much there. And as usual, it is less that we don’t know what policies would make us better off, and more than we don’t much care about that when we choose our political efforts.
+Added 7a: Of course there may also be big disadvantages to losing privacy, and our evolved preferences may be tied more to particular surface behaviors and cues than to their general underlying signaling functions.
+
+
+title: Signaling Gains From Transparency
+
+date: June 24, 2018 12:30 pm
+

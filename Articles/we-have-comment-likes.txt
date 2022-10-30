@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Blog comments vary greatly in quality, and often low quality comments drive away readers and high quality comments. This blog is no exception. 
+We now have a “like” button in our comments section. If the people willing to like a comment have on average better taste than the people willing to write a comment, readers and authors could avoid low quality comments by focusing on the most liked comments. It isn’t obvious why this assumption should hold, but I thought likes probably couldn’t make comments much worse, so, why not give it a try.
+
+
+title: We Have Comment Likes
+
+date: May 23, 2012 8:25 am
+

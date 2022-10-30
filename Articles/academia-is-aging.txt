@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Eric Drexler dissaproves of this NIH awardee aging trend:
+
+It has become increasingly difficult for young U.S. researchers to win funding for their ideas. … Both Darwin and Einstein were in their 20s when they discovered principles that revolutionized human thought.
+He’s probably right that this trend is bad, though it isn’t obvious what is the best funding age distribution.  What seems more obvious:  we didn’t have the optimal age distribution in both 1980 and 2006.   Since it is hard to believe the optimal age for researchers has changed that much in 26 years, one of these eras probably failed to fund the right age folks.
+How could an academia optimized for research progress get such an obvious parameter that wrong?  Most likely, academia is nowhere near such precise optimization; it has at best only crude tendencies to promote research progress.  Academia serves other functions.
+
+
+title: Academia Is Aging
+
+date: November 23, 2009 7:10 pm
+

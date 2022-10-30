@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+The movie Doubt, now in theaters, offers an interesting chance for a disagreement case study.  In the movie, Sister Beauvier accuses Father Flynn of a particular act, and viewers wonder: did he actually do it, and was she justified in her response?  My wife and I disagreed quite a lot on Flynn's guilt – she's about at 95% confidence and I'm about at 40%. Apparently other viewers similarly diverge:
+Those I spoke to after the movie were quite sure, maybe even certain, that Father Flynn was either guilty or innocent. 
+So what say the rest of you?  And what is it about this situation that causes so much disagreement anyway?  Don't read comments here unless you don't mind spoilers, which are fair game there.  (If needed, let's ground this in terms of what is reasonable to estimate given everything the screenwriter knows.)
+Added: It helps to show a base rate and then corrections for each new factor.  For example, on average 5%  are guilty, and someone with a shameful past is twice as likely to be guilty, for a final estimate of 10%.
+
+
+title: Disagreeing About Doubt
+
+date: January 1, 2009 10:15 pm
+

@@ -1,0 +1,21 @@
+author: Kip
+
+text: 
+It seems to me that self-identified smart people are biased towards complex or counter-intuitive answers to problems.  The reason is simple: complex or counter-intuitive answers allow one to show off intelligence.  So let’s call this bias “show off bias.”
+Axelrod’s Tit-For-Tat may provide a good example of show off bias.  Tit-For-Tat is a simple decision algorithm for an iterated Prisoner’s Dilemma.  In deciding whether to cooperate or defect, Tit-For-Tat states: just do whatever the other person previously did.  If the other cooperated, you cooperate.  If the other defected, you defect.  Tit-For-Tat.  
+The algorithm works surprisingly well.  Wikipedia tells me that “tit for tat was the most effective, winning in several annual automated tournaments against (generally far more complex) strategies created by teams of computer scientists, economists, and psychologists.”
+Why didn’t these smart scientists think of Tit-For-Tat?  They probably did, or could have.  But something made Tit-For-Tat unattractive to them.  I’m suggesting that part of what made Tit-For-Tat unattractive was a smart person’s natural desire to show off.
+Let me relate two other possible examples of show off bias: one well known, and one personal.  I’ll begin with the personal anecdote. 
+  
+Show off bias is especially important in the context of persuasive writing.  Too often, I’ve written incredibly long and complex arguments, which my supervisor completely rewrote or discarded.
+For example, I once attempted to distinguish between image spatial characteristics based on the relative positions between pixels, and spatial characteristics that do not take relative pixel positioning into account.  One article only disclosed a system that counted up the entire number of black and white pixels—like throwing them all in two separate bags—losing all information about relative spatial positioning.  Based on that distinction, I argued that there was a non-obvious difference between systems that accounted for relative spatial positioning and those that did not.  I was quite proud of having recognized this subtlety.
+My reasoning was technically right, but my strategy was irrational.  The distinction was too subtle and complicated for a reader to quickly grasp.  I didn’t choose simpler strategies—because I wanted to show off.
+Here is a better known example of possible show off bias.  Many financial experts (I am not one) have argued that index funds are the best stock market investment for your money.  But index funds remain unpopular relative to their effectiveness.  Why?  One possible reason is that they are too simple.  Index funds are boring.  There is no complex analysis, or sophisticated reasoning, to show that index funds are superior.  There is no fancy trading or buying and selling to do.  In short, there is no mental showing off to do.
+Of course, more complex and counter-intuitive answers will often be right, especially if they take into consideration things that simple solutions do not.  And we can imagine that smart people are often right because they suggest complex or counter-intuitive solutions which do take such things into account.  But, as Tit-For-Tat shows, a simple solution can still win in the end, even if it is suggested by someone who does not consider all of these complications.
+Show off bias becomes interesting when we start considering complex or counter-intuitive darlings of intellectuals, like atheism, Freudianism, natural selection, socialism or libertarianism.  I have not given up belief in one or more of these.  But I recognize that part of my motivation, and others’ motivation, for believing any of them may just reflect show off bias.
+
+
+title: Show-Off Bias
+
+date: December 21, 2008 8:00 pm
+

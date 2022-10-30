@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Economists have two standard very simple models of product competition: firms can compete on price or compete on quantity.
+Early in the Dotcom internet revolution, I remember some people, including even Bill Gates I think, forecasting that since it becomes easier to find and compare prices on the internet, products sold on the internet would have stronger price competition. And since price competition tends to be stronger than quantity competition, that would bring down prices and be good for consumers. Yay internet!
+This argument makes intuitive sense, but is dead wrong. And that is the warning of this post: beware simple econ arguments based on intuitions that haven’t been verified in concrete models.
+Even in price competition, quantity must also be chosen; price competition is where quantities are chosen indirectly, as a result of the prices. Similarly, even in quantity competition price must also be chosen; quantity competition is where prices are chosen indirectly, as a result of the quantities.
+Economists have long had simple models where both price and quantity are chosen explicitly and directly by firms. In these models, what matters is which of these parameters becomes expensive to change first, and which parameters can keep changing more cheaply closer to the last minute of sale.
+For concrete examples, consider selling TVs and plumbing services. A TV firm must decide at least weeks before a sale how many TVs they are going to make and deliver then, but they might change the price they offer for such TVs in the last few days before a sale. In contrast, a plumber might pick a price to charge to include in ads many days before customers see such ads and call to get help, but at the last minute the plumber can say “sorry, I don’t have any more openings on my schedule today.”
+In models where firms must commit to quantities early, but can keep changing their prices easily until near the last minute, outcomes are close to those in simple models of quantity competition. But if firms must commit to prices early, but can keep changing quantity until near the last minute, outcomes are close to those in simple models of price competition.
+So whether firms compete on price or quantity depends more on which of these they must commit to earliest, not which is easier to change at the last minute. Knowing this, once you heard that it would be easier to change prices at the last minute for products sold on internet, you should have predicted that the internet would increase quantity competition and reduce price competition. Which it in fact has.
+Economics is general and robust enough to predict things like how selling products on the internet changes competition. But you have to use it right.
+
+
+title: Beware Intuitive Econ
+
+date: September 26, 2015 7:00 am
+

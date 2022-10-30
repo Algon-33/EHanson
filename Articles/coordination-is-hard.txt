@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+When we tell our limited-government friends that we have written a book … about how government can better accomplish what it sets out to do, the reaction is often horror.  “I don’t want to make government work better, I want it to go away” … This way of thinking is deeply misguided. … This is not to disparage the argument that government is too large, for which the case is strong. But holding government in sneering contempt is a misinformed corruption of that sentiment.
+More here.  Will Wilkinson agrees, as do I.  Two ideological attitudes are common, but insensibly stupid:
+
+ All government activity is bad, no matter what it does.
+ The only reason to oppose a government program with a purported goal is because that goal is bad; program opponents must oppose its goal.
+
+The key thing to understand is: governance is hard, especially in a democracy.  Fundamentally, this is because coordination is hard.
+It can be very hard for even a single owner to coordinate with a dozen subordinates that each coordinate with a dozen employees in an ordinary firm to achieve a simple clear goal like making and selling a simple product at a profit. Organizations fail at this task all the time, and for thousands of different reasons.  Most new organizations attempting this fail, and most that are succeeding now will fail in a few decades.  When they fail, they will fail so badly that it will not be worth trying to save them; better to throw them away and start anew.
+Once one appreciates the difficulty of coordinating even small organizations, and that bigger coordination is harder, one can see why it can be extremely difficult to manage the vaster coordination required by government.  How can ordinary citizens continue over centuries to coordinate to support interest groups that coordinate to support politicians who coordinate to approve and manage policies that empower agency heads to coordinate to manage thousands of agency employees to achieve the vague incoherent goals of many millions of citizens?
+Types of government activities vary both in how valuable are their possible impacts, and it how difficult is their coordination task (both relative to private coordination and to doing nothing).  If your politics were about policy, and you were reasonable, then you’d support programs with high value impacts and easy coordination, and oppose programs with low value impacts and difficult coordination.  Ideologues who oppose all government programs no matter how valuable or easy, or who support all programs with laudable goals no matter now difficult their coordination task just don’t get it.  That might signal their values and blind faith or hatred in leaders, but not their reason.
+One can more reasonably disagree about the value of possible impacts, and about the coordination difficulties of particular programs.  But reasonable people should also admit others may hold different values, and that coordination techs continue to improve, both in and out of government.  New ways to coordinate government can make its programs more reasonable, and new ways to coordinate private action can make once-reasonable government programs obsolete.  We should also keep trying new programs, just to see.  The devil, as always, is in the details.
+
+
+title: Coordination Is Hard
+
+date: February 2, 2010 8:50 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+
+The Copenhagen team reviewed more than 815 clinical trials into the benefits of vitamins A, E, and C, alongside beta-carotene and selenium – all commonly-used supplements.  They selected 68 whose methods were more likely to produce an accurate picture of vitamin benefits … [and] eliminated a further 21 trials which had a slightly higher possibility of producing a skewed result, …  While the risk of death was unchanged among selenium and vitamin C users, a statistically significant increase in risk emerged for the other three supplements.   Beta-carotene produced an approximate 7% increased risk, vitamin E a 4% increase and vitamin A, a 16% increase.
+
+More here.  
+
+
+title: Beware Supplements
+
+date: May 2, 2008 6:00 am
+

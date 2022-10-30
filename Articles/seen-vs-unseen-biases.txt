@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+I suspect the following issue will be a thorn in our sides for some time to come:  when can we justify seen biases as correcting for unseen biases?   "Seen" biases are relatively easy to see and document, whereas "unseen" biases are said to exist but are harder to clearly see.
+ The issue showed up in "Hide Sociobiology Like Sex?," where some wanted the seen bias of focusing children on altruism instead of more realistic selfishness, to correct for the unseen bias of children confusing "is" and "ought."   And it shows up here in this recent Washington Post article on drug effectiveness:
+  
+
+Treating schizophrenia with an older, cheaper drug, rather than with heavily promoted newer medications, reduces the cost by as much as 30 percent with no apparent difference in safety and effectiveness, according to the first study to examine the economic implications of antipsychotic drug prescribing practices in the United States. … The findings have roiled the field of psychiatry in a fierce debate over the study’s implications and have triggered concerns it could lead public and private insurers to limit drastically which drugs they will pay for. …the new finding faced stiff headwinds before it was published, and was subjected to an extraordinary level of review.  … several experts said they were very worried, however, that the choice of medications would be taken from physicians and would be decreed by insurers. That would ignore the complexities of treating schizophrenia and the need for flexibility, the experts said.  Patients who have tried perphenazine unsuccessfully, for example, may not be good candidates to go back on it. 
+
+The seen effect here is that cheaper drugs seem just as effective, so insurers may limit coverage to only them, to counter the seen doctor bias of low sensitivity to drug prices.   Doctors, on the other hand, resist these new findings, because they fear losing their freedom to choose drugs based on their judgment of detailed patient circumstances.   Since are no clinical trials yet to document the claim that such doctor judgment improves patients on average, this is an unseen bias (if it exists).  
+ I once told an investment adviser I didn’t want his services because people like him lose money for their clients on average.   He replied,  "But none of my clients are average; are you?"   I guess he thought his seen bias was justified by all those unseen biases he was fixing. 
+The key issue here is that if it is too easy to believe in unseen biases, we could justify all of our seen biases as countering made-up unseen biases.   
+
+
+title: Seen vs. Unseen Biases
+
+date: December 4, 2006 6:00 am
+

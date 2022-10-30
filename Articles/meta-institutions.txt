@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Institutions are stable social contexts which make and coordinate actions.  Examples include elections, agencies, courts, clubs, debates, peer review, malls, games, media, etc.  It is by now an economic truism that institutions matter a lot.  Good institutions can induce good choices and info sharing, while bad institutions do the opposite.   
+Rather than advise particular choices, economists prefer to advise on general policies, that apply to many choices.  We prefer even more to advise on choice of institutions, since an institutional choice can influence a great many policies.  Following this meta line of reasoning, we should prefer even more to advise on meta-institutions, i.e., institutions that structure our choices of institutions.  
+We allow most of our familiar institutions to at least influence our institutional choices.  But no doubt we use some more often in that role, and some are better suited to that role.  While I'm excited that decision markets can help advise organization decisions, I'm most excited about their potential as meta-institutions, advising us on key policy and institutional choices.  Of course we'll have to demonstrate their effectiveness more on small issues before folks will rely on them for big issues.
+Some basic questions:
+
+What institutions are especially good as meta-institutions?
+What institutions should we use to evaluate meta-institutions?
+What institutions are biased to prefer other institutions like themselves?
+How often do different institutions agree on particular institutional choices?
+What institutions can sensibly say if to rely on them as meta-institutions?
+
+
+
+title: Meta Institutions
+
+date: April 26, 2009 11:30 am
+

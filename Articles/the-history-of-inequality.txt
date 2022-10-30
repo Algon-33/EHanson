@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+I recently posted on how cities and firms are like distributed as a Zipf power law, with a power of one, where above some threshold each scale holds roughly the same number of people, until the size where the world holds less than one. Turns out, this also holds for nations:
+Log Nation Size v Log Rank
+The threshold below which there are few nations is roughly three million people. For towns/cities this threshold scale is about three thousand, and for firms it is about three. What were such things distributed like in the past?
+I recall that the US today produces few new towns, though centuries ago they formed often. So the threshold scale for towns has risen, probably due to minimum scales needed for efficient town services like electricity, sewers, etc. I’m also pretty sure that early in the farming era lots of folks lived in nations of a million or less. So the threshold scale for nations has also risen.
+Before the industrial revolution, there were very few firms of any substantial scale. So during the farming era firms existed but could not have been distributed by Zipf’s law. So if firms had a power law distribution then, it must have had a much steeper power.
+If we look all the way back to the forager era, then cities and nations could also not plausibly have had a Zipf distribution — there just were none of any substantial scale. So surely their size distribution also fell off faster than Zipf, as individual income does today.
+Looking further back, at biology, the number of individuals per species is distributed nearly log-normally. The number of species per genera:
+
+and the number of individuals with a given family name or ancestor:
+
+have long been distributed via a steeper tail, with number falling as nearly the square of size:
+This lower inequality comes because fluctuations in the size of genera and family names are mainly due to uncorrelated fluctuations of their members, rather than to correlated shocks that help or hurt an entire firm, city, or nation together. While this distribution holds less inequality in the short run, still over very long runs it accumulates into vast inequality.  For example, most species today descend from a tiny fraction of the species alive hundreds of millions of years ago.
+Putting this all together, the number of species per genera and individuals per families has long declined with size as a tail power of two. After the farming revolution, cities and nations could have correlated internal successes and larger feasible sizes, giving a thicker tail of big items. In the industry era, firms could also get very large. Today, nations, cities, and firms are all distributed with a tail power of one, above threshold scales of (three) million, thousand, and one, thresholds that have been rising with time.
+My next post will discuss what these historical trends suggest about the future.
+
+
+title: The History of Inequality
+
+date: January 29, 2012 3:45 pm
+

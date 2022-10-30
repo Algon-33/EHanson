@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Let a person’s benefit ratio be the amount of benefit they give to others, divided by their cost to others. Then consider two classes of people:
+
+Burdens – Those for whom the ratio is less than one. Such folks are a net burden on the rest of the world.
+Saints – Those for whom the ratio is far greater than one, such as a thousand or a million. Such folks are fantastic altruists.
+
+While these would seem to be opposite types of people, I think I see a correlation in the world: those who talk the most about trying to be saints also tend to have an unusually large chance of actually being burdens.  Why this correlation?
+One story is that variance is a good way to increase your chance of very good outcomes, but high variance altruism strategies tend to have more risk of both altruism extremes. So people who try hard to increase the thickness of their high tail of altruism must typically also accept a thicker low tail of being a burden.
+A very different story is that people who feel guilty about their high risk of being a net burden compensate by talking more about wanting to be saints. They don’t have much of a chance of actually being saints, but by deluding themselves they can avoid guilt about being a burden.
+What evidence would distinguish these theories?
+
+
+title: Saints And Burdens
+
+date: March 19, 2012 10:00 pm
+

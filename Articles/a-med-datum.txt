@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+From a reader who wishes to remain anonymous:
+My work at an ophthalmologist’s office in an assistant capacity has provided anecdotal illustrations of many of the points Robin has made about medicine. One particular instance of the notion that medicine is more about showing you care than health follows:
+Our practice has clear instructions about sterility. We are to use alcohol swabs to clean all pieces of equipment in the practice that come into contact with the patient’s person. Practically, this means forehead and chin rests on equipment used to test eye pressure, peripheral vision, etc. are scrubbed for every patient. Notably, we are told to perform this cleaning while the patient is being quizzed on his medical history, rather than in-between patients. It seems clear here that we want the patients to know we are being sterile, even if it takes time away from the actual exam.
+Yet for all this production about sterility, after performing said tests, we do something that puts patients at significant risk for disease exposure. We apply dilation eye drops to patients—drops coming from bottles that have already been used on perhaps 50 patients prior! The probability that an eyelash or more has touched the tip of these eye drop bottles over the course of the multiple days they are used until empty is very high. Moreover, unlike the chin or forehead, the eye is a mucus membrane and is thus a more likely target for infection. This is particularly true considering the fact that our practice routinely sees patients for the express purpose of diagnosing and treating their eye infections!
+Yes, we have clear instructions not to touch the patient’s eyes or eyelashes while applying said drops. But mistakes are definitely made. Many patients are not particularly compliant about keeping their eyes open while drops are being applied. The technicians that administer the drops are often sparingly trained (I myself have learned exclusively on the job) and have minimal oversight/feedback. Yet our doctors require that patients be dilated before they see them. Mistakes occur.
+Meanwhile a foolproof fix exists: use individual droppers to administer the eye drops. My hypothesis as to why this has not taken place is that the practice feels little pressure from patients to make this change—perhaps the outward shows of sterility are assurance enough.
+To reiterate, we seem to be biased toward making outwardly visible demonstrations of our ability to keep a sterile environment (scrubbing chin and head rests) but fail to do simple things that are less visible that would significantly cut into the potential for disease transmission. The result is, frankly, in the course of an eye health examination, our practice probably aids in the transmission of eye diseases. This is anecdotal evidence, but then again, data is just a collection of anecdotes.
+Do you see how medicine could do more harm than good, even if almost all the time docs and their assistants feel in their hearts a sincere desire to help?  Only once in a rare while would someone raise an embarrassing question like the above, making folks momentarily doubt their effectiveness.
+
+
+title: A Med Datum
+
+date: September 15, 2010 11:00 am
+

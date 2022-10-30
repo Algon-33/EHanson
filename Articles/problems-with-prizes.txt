@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+In Today’s Financial Times, Tim Harford reviews the promise and problems of prizes, quoting me along the way: 
+
+Champions of prizes see them as a component of a wider system to promote innovation, rather than as an outright replacement either for grants or patents. Instead, the hope is that prizes will help to compensate for the specific weaknesses of those alternatives. …  In an ideal world, prizes could replace patents. … But to explain that idea is to see its limitations. How could the government know enough about the costs and benefits – and even the very possibility – of an innovation to put a price tag on it and write the terms of reference for a prize competition? … 
+Prizes were once the standard way of encouraging basic research. According to Robin Hanson, an economist at George Mason University, more than twice as many 18th-century scientific societies paid for results using prizes or medals than paid for effort with grants. As that changed, scientific societies sometimes ignored the wishes of donors, or even had the wills of deceased donors voided, in order to hand out grants rather than the prizes specified.
+
+  
+
+The standard historian’s explanation of this trend is that once science became a profession rather than the province of rich amateurs, prizes were no longer a suitable way of funding innovation. Hanson is not convinced. "Most academics who study the issue of prizes have focused on what a prize does to the behaviour of researchers, versus a grant," he says. "But there’s another aspect: what does the person giving the prize or the grant get out of it?"
+He argues that grants are more appealing than prizes to bureaucracies for many reasons, not all admirable: "With grants, there’s all sorts of possible patronage and corruption." Even leaving aside outright graft, there is plenty of opportunity for cosiness and cliques. Then there is the mundane fact that grants are easier to account for in an annual budget than a multi-million prize that could be paid tomorrow, in a year, or never. For Hanson, it was for these reasons, rather than any intrinsic merits, that grants elbowed aside prizes in the 19th century. ….
+ But not everyone is convinced that prizes will live up to the hype. … warns Andrew Farlow …The problem is not the principle, he argues, but the details.  A vaccine for HIV is a distant and costly prospect, and might require a $10bn or $20bn prize. Inevitably, companies and their shareholders will question whether the prize would be honoured in full. The triggers for releasing some of the prize money are difficult to define: early vaccines would probably be expensive, fallible and risky, but better than nothing. Donors would not want all the money to go to those efforts and leave none to encourage superior successors. Try framing "good enough" in legalese, when billions are at stake. …. 
+ We can be sure that big Pharma will be checking the small print: John Harrison, master clockmaker, was eventually rewarded for his brilliant, accurate maritime clock only by appealing direct to King George III. Neither he nor anyone else was ever judged to have satisfied the conditions necessary to receive the longitude prize. 
+
+Yes we have work ahead to make prizes apply well to most problems of interest.  But many promising approaches remain to explore, such as subsidizing prediction markets to make "information prizes." 
+
+
+title: Problems With Prizes
+
+date: January 26, 2008 1:30 pm
+

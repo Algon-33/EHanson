@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+When people are especially eager to show allegiance to moral allies, they often let themselves be especially irrational. They try not to let this show, but most aren’t very good at hiding it. One cute way to watch this behavior is to ask people if it is possible to have too much of a good thing, or too little of a bad thing. The fully rational answer is of course yes, it is usually possible to go too far in most any direction. But many seem to fear seeming disloyal if they admit this.
+For example, I recently gave this poll to my twitter followers:
+
+On global warming, are we doing too little (TL) or too much (TM), & is it even possible to do too much or too little?
+— robin hanson (@robinhanson) September 11, 2017
+
+One of my followers, @Aella_Girl. who has many more followers than I, asked hers a related poll:
+
+Are we currently doing too little or too much about global warming? | | Is it possible to do too much about global warming? @robinhanson
+— Aella (@Aella_Girl) September 11, 2017
+
+While my and Aella’s followers similarly say we do too little on global warming, hers are far more likely to say that isn’t possible to do too much. And my followers who think we do too much tend to be less reasonable in that more of them think it isn’t possible to do too little.
+(Note that the third option in Aella’s poll is a logical contradiction: if people actually do too much, surely it must be possible to do too much. )
+This seems ripe for a larger more representative poll. Which side is more reasonable in admitting that one could go too far in their direction? And which other kinds of people are more reasonable? How does this can’t-have-too-much effect vary with the topic?
+Added 3:30p: If you can understand the first question, on if we do too much or little, you should be able to understand the second question, on if such things are possible. I don’t get how you can be confused about the meaning of the second question, yet can easily answer the first question.
+
+
+title: Too Much of a Good Thing
+
+date: September 11, 2017 11:00 am
+

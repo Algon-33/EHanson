@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+The essence of analysis is to "break it down", to take apart vague wholes into clearer parts.  For the same reasons we make point lists to help us make tough job decisions, or ask people who sue for damages to name an amount and break it into components, we should try to break down these important social claims via simple calculations.  And the absence of attempts at this is a sad commentary on something. [Me last July]
+Imagine you disagreed with someone about the fastest way to get from your office to Times Square NYC; you said drive, they said fly.  You broke down your time estimates for the two paths into part estimates: times to drive to the airport, wait at the airport, fly, wait for a taxi, ride the taxi, etc.  They refused to offer any component estimates; they just insisted on confidence in their total difference estimate.  
+Similarly imagine some someone who disagree about which of two restaurants was better for a certain group, but wouldn't break that down into who would like or dislike what aspects of the two places.  Or imagine someone who claimed their business plan would be profitable, but refused to break this down into how many of what types of units would be sold when, or what various inputs would cost.  Or someone who said US military spending was worth the cost, but refused to break this down into which enemies were how discouraged from what sorts of damage by that last spending increment. 
+Such silent disputants reject our most powerful tool for resolving disagreements: analysis – breaking vaguer wholes into clearer parts.  Either they have not used this tool to test or refine their estimates, or they are not willing to discuss such parts with you.  I felt Tyler made this analysis-blocking move in our diavlog:
+  
+R: So is your skepticism about cryonics based on physics, or some more metaphysical relation of consciousness to physics, or skepticism about current brain science, or skepticism about the social institutions required to make this work?T: I would say all of it, but just that its really hard … then I'm supposed to think that my head can be frozen and brought back with even a one in a million chance?  I'm just not there.R: OK, so it's just sort of a pure surface implausibility; its not based on the structure or the pieces of the argument.T: Absolutely, that's exactly right.R: OK, so this does come back more to our initial hypothesis for our disagreement, which is I prefer to have some structure where I rely on the conclusions of the structure even if my intuitions will influence which pieces I choose for the structure, and you will more just have a reaction to the overall conclusion, … T: You're always wanting to give me a number, what's the chance you'll be frozen, what's the chance you'll be thawed out, convert it to an expected utility equation; again I pretty quickly put it into the class of cases of extremely unlikely; payoff might be high, by Pascal's wager payoff might be murky … I don't think thinking about cryonics is silly at all. …R: But at the end of the day your judgment is based on just a holistic evaluation that seems to say this has a really low chance, that isn't based on a structured calculation of the chances of each parts, its just overall it looks unlikely and thats it.  T: I don't like that word just; your evaluation is as holistic as mine …
+Here is my break down of the cryonics question.  (This one is from 20 years ago.)
+ Assume you die soon in a way a cryonics org can freeze you with its usual quality.  (If not, you don't have to pay for freezing.)  Regarding the year 2090, consider the conditional probability of each of the following steps, given the previous steps:
+
+Civilization still exists and has kept growing in technical capability. 
+Your cryonics org and it successors have kept you continuously frozen.
+Someone is willing and allowed to pay modest costs to revive you. 
+Brain science has workable input/output models of relevant brain cell types.
+Usual freezing quality preserved relevant model-needed details.
+Cheap scanning tech slices & 2D scans brains at model-needed spatial, chem resolution.
+Error correction codes reconstruct most connections across slices, fractures.
+Cheap computers can real-time sim entire scanned sets of connected cells.
+Sim life seems worth living enough that they don't prefer suicide.
+Such sims of you are as worthy as your kid of your identifying with them. 
+
+I choose the year 2090 because that is about twice as far in the future as cryonics orgs have already survived while preserving almost all patients, and it seems plenty of time for scan and sim techs to achieve required levels.  
+Your chance of being usefully revived in 2090 as an em is roughly the product of these ten conditional probability terms.  Ten 90% terms gives a total chance of ~1/3.  Ten 80% terms gives a total chance of ~10%, except step 4 might be a 50% chance, for a total chance of ~6%, which seems about right to me.  
+More precisely, if folks are reasonably smart about when to try to revive you, your total revival chance is something like a sum across all future times of such calculations, each one given no destructive failed prior attempt.  
+If you make 50K$/yr now, and value life-years at twice your income, and discount future years at 2% from the moment you are revived for a long life, but only discount that future life based on the chance it will happen, times a factor of 1/2 because you only half identify with this future creature, then the present value of a 5% chance of revival is $125,000, which is about the most expensive cryonics price now.
+
+
+title: Break Cryonics Down
+
+date: March 16, 2009 11:00 pm
+

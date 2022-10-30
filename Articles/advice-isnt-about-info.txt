@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Why is cynicism often taken as a sign of low status? One contributing factor is that we tend to get clearer evidence for cynical theories of the world when our status is falling, instead of rising:
+I had lunch with a very senior managing partner at a venture capital firm as she was stepping down from the firm to spend more time with her family following a long and successful career in that company. She commented that once she announced her retirement, not only did her colleagues behave differently toward her, no longer inviting her to meetings and seeking her advice as often, but her time was less in demand by colleagues in the high-technology and venture capital communities more generally. Her wisdom and experience hadn’t changed— the only difference was her soon-to-be-diminished control over investment resources and positions in the venture capital firm. (Pfeffer’s book Power)
+When you are young and rising in status, you can explain people listening to you more as their learning that you are wise. When you are older and falling in status, that explanation doesn’t work so well for why people listen to you less.
+
+
+title: Advice Isn’t About Info
+
+date: January 22, 2014 10:10 am
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+We often misjudge claims because those claims contain implicit conditionals.   That is, when we say A, we really mean A if B, and we often implicitly assume different Bs.  For example:
+
+Long Term Bets –  What chance would a betting market assign to the scenario that we will all be destroyed within twenty years?  Well, pretty near zero; if such a disaster happens, no one will have pay off their losing bets.  Similarly you would give very low odds to scenarios where you and all your friends are wiped out by genocide; what do you care if you lose money in that scenario?  So long term bets have many implicit conditions.
+Paternalistic Altruism
+
+title: Implicit Conditionals
+
+date: November 13, 2007 6:00 am
+

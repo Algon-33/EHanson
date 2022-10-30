@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+More from Henrich’s The Secret Of Our Success:
+Linguists and linguistic anthropologists .. have often assumed that all languages are more or less equal, along all the dimensions that we might care about – equally learnable, efficient, and expressive. .. Recently .. cracks in these intellectual barricades have begun to multiply. .. Like [other kinds of cultural] toolkits, the size and interconnectedness of populations favors culturally evolving and sustaining larger vocabularies, more phonemes, shorter words, and certain kinds of more complex grammatical tools, like subordinating conjunctions. (p. 233, 259)
+The most ancient languages we know of are visibly impoverished compared to modern languages today. It just takes longer to say similar complex things in those languages. Assuming that the size and interconnectedness of populations speaking the main languages continues to increase into the future (as they do in my em scenario), we can make some obvious predictions about future languages.
+Future languages should make more distinctions such as between colors, and have larger vocabularies, more phonemes, and shorter words. They should also have more grammatical tools such as adjectives, tenses, prepositions, pronouns, and subordinating conjunctions. Technology to assist us in more clearly hearing the words that others speak should also push to increase the number of phonemes, and thus shorten future words.
+For obvious reasons, science fiction almost always fails to show these features of future language.
+If you search for “future of language” you’ll find many articles noting that the world is losing many unpopular languages, and speculating on which of today’s languages will be the most popular later. And this creative attempt to guess specific changes. But oddly I can’t find any articles that discuss the basic trends I mention above.
+
+
+title: The Future of Language
+
+date: December 12, 2015 7:40 pm
+

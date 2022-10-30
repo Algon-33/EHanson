@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Science Friday highlighted research suggesting we jump more to conclusions when we feel out of control:
+
+In situations in which a person is not in control, they’re more likely to spot patterns where none exist, see illusions, and believe in conspiracy theories. In a series of experiments, researchers created situations in which people had less control over their situation, and then tested how likely the participants were to see imaginary images embedded in snowy pictures. The researchers also had participants write about either a situation in which they had control, or a situation in which they didn’t, and then presented stories involving strange coincidences. People who had written about a situation in which they were not in control were more likely to draw non-existent connections between the coincidences, the researchers found.
+
+This summary suggests out-of-control-feeling folks are biased to see more than there is, but perhaps in-control-feeling folks are biased to see less than there is.   
+
+
+title: Gullibility and Control
+
+date: October 8, 2008 6:00 am
+

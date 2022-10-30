@@ -1,0 +1,13 @@
+author: Hal Finney
+
+text: 
+I ran across a note today about a new collaborative book project called We Are Smarter Than Me, where over 900 participants are collectively writing a new business book using a wiki. The WSJ writes: "The effort is inspired, in part, by the best-known wiki-produced work — Wikipedia, a not-for-profit online encyclopedia. Despite occasional hiccups, Wikipedia is increasingly regarded as a reliable source for information, aided by community-enforced rules that it can’t contain either personal points of view or original research… The wiki book… will explore how businesses can use online communities, consumer-generated media such as blogs, and other Web content to help in their marketing, pricing, research and service."
+It’s big news in the publishing world largely because the contributors are unpaid (gasp!). But the more interesting question to me is whether the wiki infrastructure will work for this kind of project. As I discussed a few days ago with regard to James Surowiecki’s book, exploiting "the wisdom of crowds" seems to depend crucially on the mechanisms and institutions exploited to gather and organize the collective wisdom.
+One problem he notes in juries and other committee discussions is that certain people tend to dominate – generally, simply by talking more. People who talk more are seen as more authoritative by other group members. In the wiki environment, we might expect certain people to write more, to edit more, and just generally participate more. These will not necessarily be the ones with the most to contribute. There needs to be a mechanism by which everyone is motivated to participate and to speak up when they disagree about a direction that the discussion is taken, otherwise they may fall into the groupthink trap where many people privately disagree but each assumes he is in the minority.
+I would suggest that they enhance the wiki with some kind of voting mechanism whereby the larger group can approve or reject chapters. Perhaps contributors could be encouraged to produce a few different versions and the group could vote to choose between them. Voting is a good mechanism to collect opinions from everyone and guard against dominance by a vocal minority. Ideally they could find a way to combine voting with the free-wheeling wiki environment and hope to gain the benefits of both.
+
+
+title: We Are Smarter Than Me
+
+date: December 11, 2006 1:56 pm
+

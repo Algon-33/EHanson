@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+   
+ It is interesting to see how opinion is distributed on controversial topics.  For example, this chart shows which nations accept natural selection more.  Pollers offer us many ways to slice opinion data, such as by age, gender, education, and so on.  But only rarely do we see polls that ask, as Klein and Dompe recently did:
+
+What caused you to have these opinions?  
+
+And I’ve never seen a poll that showed people the distribution of opinion, and then asked
+
+How much does this distribution info change your mind?
+What do you think caused the opinion of those on the other side?
+What do you think they guess to be the causes of your opinion?
+
+Yet these are the crucial questions for evaluating the rationality of such disagreements.
+
+
+title: Wanted: A Meta-Poll
+
+date: January 31, 2007 6:00 am
+

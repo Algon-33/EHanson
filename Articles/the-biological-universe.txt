@@ -1,0 +1,42 @@
+author: Robin Hanson
+
+text: 
+In his new book The Biological Universe: Life in the Milky Way and Beyond, evolutionary biologist Wallace Arthur predicts the life we will find in the galaxy and universe:
+Life forms are to be found across the Milky Way and beyond. They will be thinly spread, to be sure. … we can anticipate what life elsewhere will be like by examining the ecology and evolution of life on Earth.
+Arthur defines life broadly:
+If an entity is metabolically alive and membrane-bound, and groups of individual entities of this kind are characterized by variation, reproduction, and inheritance, then we describe the situation as ‘life’. … And regarding extraterrestrial life we should try to keep as open a mind as possible (p.13)
+He says life is only near the surface of planets:
+There are no macromolecules in [interstellar] clouds. There is thus no basis for life even approximately as we know it. So in the end we rule out all of the interstellar medium as a home for life. And that means in spatial terms that we have ruled out more than 99% of the galaxy. … Next we rule out suns. This means all suns and all parts them. No metabolizing, reproducing life, whether simple like bacteria, or more complex, like mammals, could exist in such a hellish environment. … By ruling out suns as possible homes for life, we rule out more than 99% of the matter of the galaxy. … Here’s a selection of other objects that seem likely to be barren. First, dead stars, including white dwarfs, neutron stars, and black holes. Second those entities somewhere in between a small star and a large planet that we call brown dwarfs. … Third, pulsars. (pp.42-44)
+Arthur says most life is enclosed, made of carbon, and of long molecules with sequence specificity:
+Carbon based life is the most probable, and hence more common, form of life in the Milky Wa, and indeed in the universe. … Life requires a type of macromolecule that exhibits sequence specificity that is that is similar in general, though not necessarily in detail, to the specificity that is found in nucleic acid and proteins. … Membrane-enclosed cellular life is the norm. (p.203)
+Life is almost everywhere that it can be:
+The fraction of habitable planets that actually become inhabited. My personal view is that it is close to 100%. (p.191)
+And here is how many planets of each type:
+Number of planets in Milky Way: 1 trillion
+Number of planets with microbial life: 1 billion
+Number of planets with animal life: 10 million
+Number of planets with broadcasting life: between 0 and 1 million
+Arthur even predicts more intelligent life is rarer:
+Lets define four thresholds levels of intelligence. … animals with a small brain … crossed the first threshold. … Animals that can use tools, and indeed plan their use of tools, … cross the second threshold. … Animals that have begun to investigate the abstract nature of things, and to keep written records of their investigations, have cross the third threshold., … fourth threshold the achieving of a civilization with a technology that includes the use of radio signals and other means of interstellar communication, such as lasers. … It’s hard to believe that the number of planets whose evolutionary processes have crossed these four respective thresholds would go upward rather than downward. (p.328??)
+How does Arthur make all these predictions? By assuming that that the distribution of stuff in the universe is much like the distribution of stuff across our solar system and across the history of Earth:
+On the basis of Earth’s history to date, the fraction of microbial inhabited planets that also have animals can be estimated by the relative durations of these two types of life here, which is 630 million compared to 4 billion years. (p.200)
+The fact that [intelligence] and the physical basis for it – the brain – can be downplayed or even lost altogether in some lineages [in Earth history] should temper our hopes for the discovery of extraterrestrial intelligence. … Natural selection is not on a long-term quest for the ultimate brainy animals. (p.134)
+With regard to possible life, the vast majority of the solar system, like the vast majority of the galaxy, is of little interest to us. For the most part, our system looks barren. (p..139)
+But doesn’t all this neglect the possibility of that intelligent life on some planet will develop a more robust and powerful artificial life, which then spreads widely across the cosmos? Arthur admits the possibility of intelligent life spreading across planets:
+Between two and three billion years from now … if new make it that far, we might have the technology to colonize the closest suitable exoplanets. (p.160)
+Intelligent life may have colonized nearby planets, as may the the case in the mid-term future wit humans on Mars. (p.315)
+Planets on which radio-level intelligence has evolved constitute only a tiny fraction of those on which life in general has evolved. Yet because of the vastness of the universe, and perhaps also because of planetary colonization, there are many planets with such life-forms in the universe right now. (p.328)
+And Arthur admits the possibility of artificial life:
+But there is a caveat here. What about AI (artificial intelligence)? It’s a moot point whether any of our machines are yet intelligent enough to truly merit that label, though no doubt they will get there eventually. Perhaps the machines associated with ultra-intelligent aliens are already there. In this case, the intelligent universe and the biological universe … are overlapping sets. Having made this point, let’s focus on intelligent living beings across the universe, not intelligent machines. And let’s ignore the advanced organism-machine hybrids of science fiction, even though entities of this type probably exist somewhere. (p.318)
+But somehow these admissions make little difference to his forecasts, which ignore the possibility of artificial life at places other planets, or made out of stuff other than carbon. And which ignore the possibility of intelligent artificial life spreading very far and wide, to become even more common than non-artificial life.
+Arthur instead assumes that advanced intelligence and artificial life will just not spread much, perhaps due to self-destruction:
+Intelligent life may have a tendency to self-exterminate within a few centuries of its inception. (p.221)
+Wallace Arthur seems to be yet another biologists who just can’t imagine our descendants being that different from us, or artificial life making much of a difference to the cosmos.
+Out of a great many reviews of this book I read, I only found one other reviewer, David Studhalter, a non-academic, making a similar complaint:
+Arthur … blithely assumes that humans and their descendants will simply become extinct before advancing to a stage where they are spreading terriform life elsewhere in the Galaxy, and that we will never exceed the bounds of our own Solar system. … Arthur mentions virtually nothing discussed in this last paragraph. But they are crucial to his subject, which does purport to discuss the future of life. (More)
+
+
+title: The Biological Universe
+
+date: May 26, 2021 9:15 pm
+

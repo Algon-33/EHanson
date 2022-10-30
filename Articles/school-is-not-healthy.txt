@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Better educated folks are healthier, but they would be just as healthy with less school:
+There is a strong, positive and well-documented correlation between education and health outcomes. There is much less evidence on the extent to which this correlation reﬂects the causal effect of education on health – the parameter of interest for policy. … Our approach exploits two changes to British compulsory schooling laws that generated sharp differences in educational attainment among individuals born just months apart. … We conﬁrm that the cohorts just affected by these changes completed signiﬁcantly more education than slightly older cohorts subject to the old laws. However, we ﬁnd little evidence that this additional education improved health outcomes or changed health behaviors.
+
+
+title: School Is Not Healthy
+
+date: January 25, 2010 4:10 pm
+

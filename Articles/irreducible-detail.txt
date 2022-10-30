@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Our best theories vary in generality. Some theories are very general, but most are more context specific. Putting all of our best theories together usually doesn’t let us make exact predictions on most variables of interest. We often express this fact formally in our models via “noise,” which represents other factors that we can’t yet predict.
+For each of our theories there was a point in time when we didn’t have it yet. Thus we expect to continue to learn more theories, which will let us make more precise predictions. And so it might seem like we can’t constrain our eventual power of prediction; maybe we will have powerful enough theories to predict everything exactly.
+But that doesn’t seem right either. Our best theories in many areas tell us about fundamental limits on our prediction abilities, and thus limits on how powerful future simple general theories could be. For example:
+
+Thermodynamics – We can predict some gross features of future physical states, but the entropy of a system sets a very high (negentropy) cost to learn precise info about the state of that system. If thermodynamics is right, there will never be a general theory to let one predict future states more cheaply than this.
+Finance – Finance theory has identified many relevant parameters to predict the overall distribution of future assets returns. However, finance theory strongly suggests that it is usually very hard to predict details of the specific future returns of specific assets. The ability to do so would be worth such a huge amount that there just can’t be many who often have such an ability. The cost to gain such an ability must usually be more than the gains from trading it.
+Cryptography – A well devised code looks random to an untrained eye. As there are a great many possible codes, and a great many ways to find weaknesses in them, it doesn’t seem like there could be any general way to break all codes. Instead code breaking is a matter of knowing lots of specific things about codes and ways they might be broken. People use codes when they expect the cost of breaking them to be prohibitive, and such expectations are usually right.
+Innovation – Economic theory can predict many features of economies, and of how economies change and grow. And innovation contributes greatly to growth. But economists also strongly expect that the details of particular future innovations cannot be predicted except at a prohibitive cost. Since knowing of innovations ahead of time can often be used for great private profit, and would speed up the introduction of those innovations, it seems that no cheap-to-apply simple general theories can exist which predict the details of most innovations well ahead of time.
+Ecosystems – We understand some ways in which parameters of ecosystems correlate with their environments. Most of these make sense in terms of general theories of natural selection and genetics. However, most ecologists strongly suspect that the vast majority of the details of particular ecosystems and the species that inhabit them are not easily predictable by simple general theories. Evolution says that many details will be well matched to other details, but to predict them you must know much about the other details to which they match.
+
+In thermodynamics, finance, cryptography, innovations, and ecosystems, we have learned that while there are many useful generalities, the universe is also chock full of important irreducible incompressible detail. As this is true at many levels of abstraction, I would add this entry to the above list:
+
+Intelligence – General theories tell us what intelligence means, and how it can generalize across tasks and contexts. But most everything we’ve learned about intelligence suggests that the key to smarts is having many not-fully-general tools. Human brains are smart mainly by containing many powerful not-fully-general modules, and using many modules to do each task. These modules would not work well in all possible universes, but they often do in ours. Ordinary software also gets smart by containing many powerful modules. While the architecture that organizes those modules can make some difference, that difference is mostly small compared to having more better modules. In a world of competing software firms, most ways to improve modules or find new ones cost more than the profits they’d induce.
+
+If most value in intelligence comes from the accumulation of many expensive parts, there may well be no powerful general theories to be discovered to revolutionize future AI, and give an overwhelming advantage to the first project to discover them. Which is the main reason that I’m skeptical about AI foom, the scenario where an initially small project quickly grows to take over the world.
+Added 7p: Peter McCluskey has thoughtful commentary here.
+
+
+title: Irreducible Detail
+
+date: July 30, 2014 10:10 am
+

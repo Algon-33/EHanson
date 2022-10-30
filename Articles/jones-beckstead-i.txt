@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Nick Beckstead talked with Garett Jones and I on long run consequences of growth. One point is worth emphasizing: if long run growth matters more than today’s suffering, directly helping those suffering today is unlikely to be the best strategy. From Beckstead’s summary:
+What are the long-run consequences of helping people in the developing world, e.g. through donating to GiveDirectly?
+If the argument for doing this is that it helps with long-run growth, it’s implausible. It seems very unlikely that donations to GiveDirectly are the best way to speed up economic growth. Improvements in the institutions that hold back innovation would seem more plausible.
+Programs like GiveDirectly may have some indirect effects on governance, which could in turn have
+effects on long-run growth. For example, people who are suffering less because they are less poor might vote better. We should not assume, in general, that any way of helping people has [predictable] long-run consequences on growth. … [Also,] sending resources from high-growth nations to low-growth nations would be bad for long-term growth. (more)
+
+
+title: Jones, Beckstead, & I
+
+date: May 16, 2014 8:00 am
+

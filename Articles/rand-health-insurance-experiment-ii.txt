@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+I reported yesterday on the RAND health insurance experiment:
+
+Thousands of people randomly given free medicine in the late 1970s consumed 30-40% more medical services, paid one more "restricted activity day" per year to deal with the medical system, but were not noticeably healthier.  So unless the marginal value of medicine has changed in the last thirty years, if you would not pay for medicine out of your own pocket, then don’t bother to go when others offer to pay.
+
+The extra medical care induced by free medicine seems to have no health value.  But what do we know about the value of common medicine, used by both those with free medicine and those who shared costs in this experiment?  From a recent summary:  
+
+Cost sharing reduced the use of effective and less-effective care across the board. …. For hospitalizations and prescription drug use, cost sharing likewise reduced more-effective and less-effective care in roughly equal amounts for all participants. … the experiment measured … the appropriate use of visits and diagnostic tests by providers and the appropriate use of therapeutic interventions after participants sought care. … cost sharing did not significantly affect the quality of care received by participants.
+
+People with free medicine made 30%+ more doctor visits than those who had to pay, but those extra visits were not just trivial visits for sniffles or warts.  The extra visits were just as often to the hospital, their condition was at a similar "stage of disease presentation", and the treatment was later evaluated by panels of doctors to be just as appropriate.   
+ By all of these measures extra and common medicine looked the same to doctors.  So if common medicine is more valuable than extra medicine, it must be that patients somehow know when they really need help, and make sure to get care no matter what the cost.  
+ Over 300 publications resulted from the RAND experiment.  The best single source is the 1996 book Free for All?   
+
+
+title: RAND Health Insurance Experiment II
+
+date: May 9, 2007 6:00 am
+

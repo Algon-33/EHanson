@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Researchers … use … feeds from a global network of students, staff and alumni to construct a “stringency index” that boils down to a single number how strictly governments in 160 countries are locking down their economies and societies to contain the spread of the virus. … plans to include state-by-state measures of stringency in the U.S. … latest version … draws on 17 indicators to determine the stringency of the government response. (More)
+Not that I hear anyone eagerly clamoring to try, but let me sketch out how one would use decision markets to set pandemic policy. Just to plant another flag on how widely they could be usefully applied, if only enough folks cared about effective policy.
+As you may recall, a decision market is a speculative (i.e., betting) market on a key outcome of a decision, conditional on which discrete decision is made. To apply these to the current pandemic, we need to pick
+
+key ex-post-measurable outcome(s) of interest,
+likely-enough key decisions which could substantially influence those outcomes,
+participants capable of learning a bit about how decisions related to outcomes,
+sponsors who care enough about informing these decisions, and
+legal jurisdictions that may allow such markets.
+
+Regarding participants, sponsors, and permission, it makes sense to be opportunistic. Seek any sponsors interested in relevant questions, any participants you can get to trade on them, and any jurisdiction that let you want to do. Alas I have no sponsor leads.
+For key decisions, we could consider using bills before legislatures, administrative rulings, or election results. But there are a great many of these, we don’t get much warnings about many, and most have little overall impact. So I’d prefer to aggregate decisions, and summarize policy via three key choice metrics per region:
+Lockdown Strictness. As described in the quote above, some have created metrics on lockdown strictness across jurisdictions. Such metrics could be supplemented by cell-phone based data on trips outside the home.
+Testing Volume. The number of tests per unit time, perhaps separated into the main test types, and perhaps also into accuracy classes.
+Tracing Volume. The number of full-time equivalent tracers working to trace who infected whom. Perhaps supplemented by the % of local folks use apps that report their travels to tracing authorities.
+Yes, worse pandemic outcomes will likely cause more lockdown, tests, and tracing. But one could look at outcomes that happen after decisions. Such as how average future outcomes depend on the decisions made this month or quarter.
+For key outcomes, the obvious options are deaths and economic growth.
+For deaths, we can avoid testing problems by looking at total deaths, or equivalently “excess” deaths relative to prior years. It helps to note the ages of deaths, which can be combined with local mortality tables to estimate life-years lost. Even better, if possible, note the co-morbidities of those who died, to better estimate life-years lost. And even more better, have estimates of the relative quality of those life-years.
+For economic growth, just take standard measures of regional income or GDP, and integrate them many years into the future, using an appropriate discount factor. Assuming that the temporary disruption from a pandemic is over within say 10 years, one could end the bets after say ten years, projecting the last few years of regional income out into the indefinite future.
+As usual, there will be a tradeoff here re how far to go in accounting for these many complexities. I’d be happy to just see measures of life years lost related to lockdown strictness, perhaps broken into three discrete categories of strictness. But I’d of course be even happier to include economic growth as an outcome, and tests and tracing as decisions. Either aggregate all outcomes into one overall measure (using values of life years), or have different markets estimate different outcomes. For decisions, either separate markets for each type of decision. Or, ideally, combinatorial markets looking at all possible combinations of outcomes, decisions, and regions.
+
+
+title: Pandemic Futarchy Design
+
+date: May 24, 2020 10:35 am
+

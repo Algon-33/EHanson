@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Via Hamish Barney and Mark Liberman, a forthcoming Journal of Cognitive Neuroscience paper showing people are more willing to accept bad psychology explanations if they include irrelevant brain facts:
+
+Irrelevant neuroscience information in an explanation of a psychological phenomenon may interfere with people’s abilities to critically consider the underlying logic of this explanation. … Subjects in the two non-expert groups additionally judged that explanations with logically irrelevant neuroscience information were more satisfying than explanations without. The neuroscience information had a particularly striking effect on non-experts’ judgments of bad explanations, masking otherwise salient problems in these explanations. 
+
+ Mark says:
+
+Skolnick et al. observe that neuroscience has a number of properties that make it especially effective as a rhetorical distractor, beyond the previously documented (and more general) "seductive details effect" — it points to reductionist and materialist explanations, it provides an almost unlimited source of jargon, it sits at the intersection of several high-status occupations, and (though not in this experiment) it offers pretty pictures. 
+
+ There is reason to hope that neurosceince will eventually make important contributions to the cognitive and social sciences, but so far most things I see on the subject seem to offer below average contributions, especially relative to the publicity they receive.  
+
+
+title: Beware Neuroscience Stories
+
+date: June 15, 2007 6:00 am
+

@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Some phenomena to ponder:
+
+Decades ago I gave talks about how the coming world wide web (which we then called “hypertext publishing”) could help people find more info. Academics would actually reply “I don’t need any info tools; my associates will personally tell me about any research worth knowing about.”
+Many said the internet would bring a revolution of info pull, where people pay to get the specific info they want, to supplant the info push of ads, where folks pay to get their messages heard. But even Google gets most revenue from info pushers, and our celebrated social media mainly push info too.
+Blog conversations put a huge premium on arguments that appear quickly after other arguments. Mostly arguments that appear by themselves a few weeks later might as well not exist, for all they’ll influence future expressed opinions.
+When people hear negative rumors about others, they usually believe them, and rarely ask the accused directly for their side of the story. This makes it easy to slander folks who aren’t well connected enough to have friends who will tell them who said what about them.
+We usually don’t seem to correct well for “independent” confirming clues that actually come from the same source a few steps back. We also tolerate higher status folks dominating meetings and other communication channels, thereby counting their opinions more. So ad campaigns often have time-correlated channel-redundant bursts with high status associations.
+
+Overall, we tend to wait for others to push info onto us, rather than taking the initiative to pull info in, and we tend to gullibly believe such pushed clues, especially when they come from high status folks, come redundantly, and come correlated in time.
+A simple explanation of all this is that our mental habits were designed to get us to accept the opinions of socially well-connected folks. Such opinions may be more likely to be true, but even if not they are more likely to be socially convenient. Pushed info tends to come with the meta clues of who said it when and via what channel. In contrast, pulled info tends to drop many such meta clues, making it harder to covertly adopt the opinions of the well-connected.
+
+
+title: Why Info Push Dominates
+
+date: January 6, 2014 2:50 pm
+

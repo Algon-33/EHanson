@@ -1,0 +1,23 @@
+author: Eliezer Yudkowsky
+
+text: 
+From Nick Bostrom, Director of the Future of Humanity Institute:
+The Future of Humanity Institute was founded in 2005 at the University of Oxford.  We are part of the Faculty of Philosophy and the James Martin 21st Century School.  
+FHI‘s mission is to bring excellent scholarship to bear on big-picture questions for humanity.   The future of humanity is arguably more important a topic than the behavioral patterns of the white tailed deer.   Yet there is more funding, PhDs, and academic research on deer behavior.   We seek to rectify this imbalance by bringing attention to critical overlooked research problems, and by pioneering research to demonstrate by example how these problems can be studied rigorously and fruitfully.  
+We do this from a multidisciplinary perspective, combining techniques of analytic philosophy with scientific theoretical and empirical methods.   Our approach is opportunistic:   We seek those specific problems where we think analytic methods can gain a foothold, and we use whatever intellectual tools seem most likely to be effective for the problem at hand.   We pay a lot of attention to methodological and epistemological issues.  
+A large chunk of our work centers on how anticipated technological developments may affect the human condition in fundamental ways, and how we can better understand, evaluate, and respond to radical change.   We are currently pursuing four interrelated research programs:  
+
+human enhancement (ethics, methods, current practice, impacts) 
+global catastrophic risks (incl. existential risks) 
+rationality and wisdom (reasoning under uncertainty, overcoming biases) 
+future technologies (e.g. nanotechnology, artificial intelligence)
+
+The FHI also seeks to promote public engagement and informed discussion in government, industry, academia, and the not-for-profit sector.  
+We believe that the expected utility of the work we do is extremely high, and we seek philanthropic supporters.
+The Future of Humanity Institute sponsors the Overcoming Bias blog, but all opinions are strictly those of the authors, not necessarily the Future of Humanity Institute or the University of Oxford.  Copyright is retained by the authors.
+
+
+title: About the Future of Humanity Institute
+
+date: August 2, 2008 10:41 pm
+

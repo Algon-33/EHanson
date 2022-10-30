@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Most academic papers are rejected by several journals before some journal finally accepts them.  But a paper's rejection history is usually private; all readers know is where each paper was accepted.
+Imagine a journal that published all its rejections, listing rejected authors, titles, and relevant dates.  The possibility of embarrassment via appearing on such a list would "raise the bar" for authors, especially discouraging those who thought rejection more likely.  It would also raise the bar for editors; readers could see how often rejected papers were accepted at equal or better journals, and potential authors could better evaluate their chances.
+Since this signal of author and editor confidence would speak well of a journal, journals that did not publish rejections should look worse by comparison.  Why then do no journals publish their rejections?  Sporting contests publicly display losers; why not academic contests as well?  
+By the way, a new math journal publishes rejects only.
+Added: most comments focus on the overall social effects; my puzzle is regarding individual incentives.  People are usually eager to signal confidence in their abilities; why in this context do people avoid such signals?
+
+
+title: Reveal Rejects?
+
+date: March 24, 2009 6:00 am
+

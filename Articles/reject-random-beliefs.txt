@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+   
+A recent New Scientist mentions a 2005 American Political Science Review paper on the genetic basis of political beliefs, which includes this key table, breaking variation in opinions (among 30,000 Virginia twins) on 28 specific topics into three origin components: genetic (heritability), family (shared environment), and other (unshared environment):
+
+ 
+  
+The paper shows similar results for Australian twins.     
+This is a concrete occasion to revisit a general issue.  In general, if you want to believe the truth, then you should just accept the average belief on any topic unless you have a good (and better than average) reason to think the causes of your belief difference would be substantially more informed than average.
+So unless you have a good reason to think your genes tend to produce more informed beliefs than other genes, you should reject the genetically-caused parts of how your beliefs differ from average beliefs.  Even if you have a higher genetically-given IQ, and even if high IQ folks have more accurate beliefs, you should still reject genetic ways in which your beliefs differ from the average beliefs of high IQ folks.  After all, true beliefs are supposed to be about the world, not about the particular genes you were randomly given.  
+ Unless you have a good reason to think your childhood family environment was more informed than an average family environment, ignoring any genetic advantages in your family, then you should reject the ways in which your beliefs differ from average beliefs due to your family background.  Similarly, you should also reject other non-genetic non-family causes of your belief differences, if you do not have a better than average reason to think your causes are better than average.
+ Having an intuitive feeling that your belief causes are better is not a “good reason” if most everyone has a similar intuitive feeling.  The fact that you have specific reasons for your specific beliefs is also not good enough – most everyone has specific reasons. 
+A good reason must be based on some feature of you that is different from others, where you have a good reason to think this feature is correlated with being right.  The mere fact that you have a distinguishing feature, and would like to think well of yourself, is not by itself a reason to think that feature is correlated with being right! And you must be wary of the common bias to lower our evidential standards when concluding that people like us tend to be more right.
+Added:  Let’s say that on a scale of 0 to 100, your position on property taxes is 90 – you think such taxes are good for some standard widely accepted mix of values such as economic growth, inequality aversion, or good neighbors.   When you disagree with someone at the other extreme, with a position of 10, you understand it to be a disagreement about facts, not values.
+ Let’s assume the average position on this issue is 50, and that you can see no good reason to think the genes that lean you toward property taxes are better than average.  Since the table says that 41% of belief variation on this topic is genetic,  then to eliminate this genetic component of your beliefs, you might reduce your position from 90 to 81, since this takes away 40% of the variance of your belief relative to the average.  
+
+
+title: Reject Random Beliefs
+
+date: March 5, 2008 6:00 am
+

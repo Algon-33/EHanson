@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+I recently finished watching the fifth and final season of The Wire, my favorite TV show ever.  It presents a vivid and believable world of Baltimore drugs, police, politics, etc.  Some suggest producer David Simon’s "political passions ultimately trump his commitment to accuracy or evenhandedness."  But I find The Wire‘s world unusually consistent with everything I know.  It seems real overall, though Simon tells a less realistic good vs. evil tale about newsrooms, his old stomping ground.
+ The overall moral of the story seems to me largely libertarian.  A renegade cop effectively legalizing drugs in one area works out great, and the show’s writers have a Time oped supporting drug law jury nullification.  Dire consequences follow from child labor and prostitution being illegal.  The police, courts, prisons, schools, and city hall are unrelentingly corrupt and dysfunctional, because voters don’t much care.  In the background of the story, industries managed mainly by private enterprise, such as stores, hotels, shipping, and cars, seem to mostly function well.  Private newspapers look bad, but mainly because readers don’t much care.  
+ Apparently, however, many see The Wired as calling for more government.  At a Harvard symposium on The Wired, many panelists said the answer was more funding.  Simon was there:  
+
+ The wire is about a world in which people are worth less. … We depicted a world in which market forces always have their say and in which capitalism has triumphed, and marginalized labor – it makes labor cheap. … What we have here is a market-based [world]; capitalism has been the God.  To even suggest that there should be some social compact along with the capitalistic forces, to mitigate any of that, over the last twenty-five years, has been political suicide. … We are only getting the American that we’ve paid for, no more, and God damn it, we deserve it.  
+
+ When asked if government wasn’t the problem rather than the solution: 
+  
+
+Baltimore has had the benefit of your free market for the last twenty five years.  You can’t tell me you’ve constructed a viable economic model that has nothing to do with government when one out of every two adult black males is without work in my city. … The government has been utterly laissez faire, they’ve let the jobs go to the pacific rim, they are gone, and we’ve eviscerated the manufacturing class. … We’ve had the trickle down, it didn’t trickle down, sorry. … There are … an awful lot of moneyed people that are arrayed in such a manner as to avoid addressing these problems, because there’s no profit involved in addressing these problems. …  From the industrial revolution on, when capital is allowed to speak its mind, and achieve its goals without hindrance from any other social framework, what you are going to get is a society where people are worth less not more, because labor will need to be cheap.  
+
+ This is somewhat stunning to me, as I just don’t see how this picture fits at all with the world I see depicted in the show.  It seems pretty hard to imagine a new episode staying in character while depicting more funding for a government program making things lots better.  In The Wire‘s world, it seems to me that money would be diverted for political purposes, stats would be "juked", brown-nosers would be promoted, and people really trying to help would be marginalized or fired.  
+ While I see little connection between Simon’s abstract political beliefs and his concrete beliefs about people and processes in Baltimore, I worry: how I can reasonably disagree with my favorite TV show’s producer about what would happen in his world?  One last interesting Simon quote: 
+
+ If anybody in here has been a news reporter in a major newsroom for more than eight or ten years, you will be able to tell stories about two or three guys in the newsroom who are cooking it.  And they were often exalted beyond the actual journalists. … It has been a circumstance throughout journalism, and it will become more of a circumstance because the pond is shrinking.  
+
+Added: Bill Mill notes Conor Friedersdorf had a similar reaction:
+
+The Wire is a show that one can throw on after a politically mixed party, confident that Republicans, Democrats, and libertarians nursing nightcaps will all find scenes that seem to them to confirm their worldviews. … The Wire is brutal in its critiques, as any viewer knows. Its most thorough dissections, however, concern the least capitalistic institutions in Baltimore.
+
+More added: If Simon can have that large a disconnect between his powerful concrete insights and his abstract political beliefs, how confident can I be that my abstract beliefs connect to my concrete insights?  I might posit that Simon (like most docs) is especially bad at abstract reasoning, but is that just a desperate excuse? 
+
+
+title: The Wire
+
+date: October 10, 2008 6:00 am
+

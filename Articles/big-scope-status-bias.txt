@@ -1,0 +1,31 @@
+author: Robin Hanson
+
+text: 
+Some data points:
+
+Many incoming college freshman like “international studies” or “international business.” Far fewer like local studies or local business. Yet there will be more jobs in the later area than the former.
+The media discusses national and international politics more than more local politics, yet most of the “news you can use” is local.
+Our economics department once estimated there’d be substantial demand for a “managerial economics” major. It would teach basically the same stuff as in an economics major gets, but attract students because of the word “managerial.”
+Within management, reorganization is usually higher status than managing within existing structures.
+The ratio of students who do science majors relative to engineering majors is much larger than the ratio of jobs in those areas.
+Within science, students tend to prefer “basic” sciences like particle physics to more “applied” sciences like geology or material science, relative to the ratio of jobs in such areas.
+Compared to designing things from scratch, there is far more work out there maintaining, repairing, and making minor modifications to devices and software. Yet engineering and software schools focus mainly on designing things from scratch.
+Within engineering, designing products is higher status than designing the processes that manufacture those products.
+Designing new categories of products is seen as higher status than new products within existing categories.
+Even when designing from scratch, most real work is testing, honing, and debugging a basic idea. Yet in school the focus is more on creating the basic idea.
+There seems to be an overemphasis at school on designing tools that may be useful for other design work, relative to using tools to design things of more direct value.
+
+Do these trends have something in common? My guess: we see wider-scope choices as higher status, all else equal. That is, things associated with choices that we think will influence and constrain many other choices are seen as higher status than things associated with those other more constrained choices. For example, we think managers constrain subordinates, world policy constrains local policy, physics constrains geology, product designs constrain product maintenance, and so on. Yes reverse constraints also happen, but we think those happen less often.
+The ability to control the choices of others is a kind of power, and power has long been seen as a basis for status. There may also be a far-view heuristic at work here, i.e., where choices that evoke a far mental view tend to be seen as high status. After all, power does tend to evoke a far view.
+A lesson here seems to be that while it can raise your status to be associated with big scope choices, you should expect a lot of competition for that status, and a relative neglect of smaller scope choices. That is, more people may major in science, but there are more jobs in engineering. You might impress people by focusing on creating designs in school, but you are likely to spend your life maintaining pre-existing designs. If you want to get stuff done instead of gaining status, you should focus on smaller scope choices.
+Now in my life I’ve spent a lot of time trying to reconsider basic big scope choices. For example, I’ve studied foundations of quantum mechanics, and proposed a new form of governance. And I’ve often thought of such topics as neglected. So how can I reconcile such views with the apparent lesson of this post?
+One obvious reconciliation is that I’ve just been wrong, having succumbed to the big scope status bias.
+Another possibility is that big scope topics tend more to be public goods where people tend to free-ride on the efforts of others. It is easier for a person or group to own the gains from better understanding smaller scope topics, and thus have a strong incentives to deal with them. If so, there would be positive externalities from progress on such topics, to counter the negative externalities from status and signaling. I think this explanation has some truth, but only some.
+A third possibility is that it is harder to reason well about big scope choices, which is part of why it impresses to do that well. But if good reasoning is harder as the topic gets more abstract, there should be fewer people who can handle such topics. Some topics will be so abstract that very few can deal well with them, or even evaluate the dealings of others. So those few people will tend more to be on their own, and not get much praise from others.
+Are there more possibilities to consider?
+
+
+title: Big Scope Status Bias
+
+date: June 18, 2014 8:35 pm
+

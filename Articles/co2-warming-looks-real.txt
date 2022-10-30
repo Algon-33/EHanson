@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+Many have bent my ear over the last few months about global warming skepticism.   So I’ve just done some moderate digging, and conclude:
+
+In the last half billion years, CO2 has at times been 15 times denser, but not more than 10C warmer.  So that is about as bad as warming could get.
+In the last million years, CO2 usually rises after warming; clearly warming often causes CO2 increases.
+CO2 is clearly way up (~30%) over 150 years, and rising fast, mainly due to human emissions.  CO2 is denser than its been for a half million years.
+The direct warming effect of CO2 on warming is mild and saturating; the effects of concern are indirect, e.g., water vapor and clouds, but the magnitude and sign of these indirect effects are far from clear.
+Climate model builders make indirect effect assumptions, but most observers are skeptical they’ve got them right.
+This uncertainty alone justifies substantial CO2 mitigation (emission cuts or geoengineering), if we are risk-averse enough and if mitigation risks are weaker.
+Standard warming records show a real and accelerating rise, roughly matching the CO2 rise.
+Such warming episodes seem common in recent history.
+The match between recent warming and CO2 rise details is surprisingly close, substantially raising confidence  that CO2 is the main cause of recent warming.  (See this great analysis by Pablo Verdes.)  This adds support for mitigation.
+Among the few bets on global warming, the consensus is for more warming.
+Geoengineering looks far more likely to be feasible and acceptable mitigation than emissions cuts.
+Some doubt standard warming records, saying they are biased by urban measuring sites and arbitrary satellite record corrections.   Temperature proxies like tree rings diverge from standard records in the last fifty years. I don’t have time to dig into these disputes, so for now I defer to the usual authorities.
+
+It was mostly skeptics bending my ear, and skeptical arguments are easier to find on the web.  But for now, the other side has convinced me.
+Added: The Verdes papers is also here.  Here is his key figure:
+The reconstructed forcing is made without any reference to the actual forcing, and with almost no free parameters, and yet matches it very well!
+Added 1June: Verdes tells me he’s now in industry and hasn’t done any followup work, nor knows of any.  The data and method are public; seems a great topic for some grad student.
+
+
+title: CO2 Warming Looks Real
+
+date: May 30, 2009 6:00 pm
+

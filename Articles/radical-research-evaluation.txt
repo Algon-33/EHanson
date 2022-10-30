@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+The NIH says it wants to hear, by August 17, radical suggestions for changing how they evaluate research:  
+
+ The NIH is seeking comments regarding NIH’s support of the biomedical and behavioral research, including peer review, with the goal of examining the current system to optimize its efficiency and effectiveness. The NIH is especially interested in creative suggestions, even if they involve radical changes to the current approach. … [to deal with] an increased load on the peer review system resulting from a steady rise in applications and the increased complexity of biomedical and behavioral science. Ultimately, NIH wants to ensure that the most meritorious science is supported while minimizing bureaucratic burden on applicants and the NIH itself. 
+
+ I’d like to be hopeful, but the recent NSF experience leaves me jaded.  From Science in January: 
+
+In 2005, Representative Frank Wolf (R-VA), then chair of the spending panel that sets NSF’s budget, asked the agency to think about offering megaprizes for solutions to important scientific challenges with societal implications. At one hearing, for example, Wolf speculated about how a $1 billion prize could yield an elegant technological solution to the nation’s dependence on foreign oil. Last summer, NSF officials turned for guidance to the National Academies, which this week issued a 44-page report urging NSF to adopt "an experimental approach" by piloting a handful of small prizes before considering spending big bucks. …
+
+  
+
+It mentioned areas such as nano self-assembly, green chemistry, low-carbon energy technologies, and teaching software. The report suggests that NSF should start with a handful of prizes ranging from $200,000 to $2 million and raise the payout to as much as $30 million if the concept proves successful. Myers says Congress should increase NSF’s budget to make room for the program so that its cost doesn’t undermine ongoing activities.  
+The report recommends starting the prizes this year, but with NSF facing a budget freeze … that’s not likely to happen. " … An even bigger obstacle, however, may be the recent changes on Capitol Hill. Wolf is no longer on the spending subpanel, and House Republicans are in the minority. A Democratic aide … says that prizes probably make more sense at a mission-oriented agency such as NASA or the Defense Department. And the aide questions the idea that a prize will attract new players into the research game.
+
+ Translation: NSF pulled the usual agency trick of stalling until Congressional pressure faded. and those who get the usual money the usual way made sure the official recommendation was for no change in that; only a little money, and only new money, should go to new methods. 
+ I’d love for the NIH to get an avalanche of recommendations to try more accomplishment prizes and information prizes (tied to prediction markets), but honestly I doubt it would make much difference.  Hat tip to Rafe Furst.
+
+
+title: Radical Research Evaluation
+
+date: July 16, 2007 6:00 am
+

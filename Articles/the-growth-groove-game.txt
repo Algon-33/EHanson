@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+My head is full of big history questions after spending two days at a related workshop. 
+How did humanity become so influential and powerful?  Apparently we found a growth groove that let us keep on accumulating power-enhancing innovations.  But what key features make this growth groove possible?
+A great many features get mentioned, including brains, language, culture, fire, tools, large tribes, mind-reading, trade, specialization, domestication, trust, capital, machines, artificial power, cities, science, writing, printing, leisure, property, law, marriage, patents, and signaling.  They can all seem like plausible candidates, at least for some places and times.  But which features were how important?
+It turns out that we just don't know.  But we do have some strong clues.  So a fun armchair game is to guess which were the key features.  But before you play, remember the game's key rule: your story must fit history as we know it.  So let's review that history.
+A good measure of humanity's overall influence/power is "world product," and history is reasonably well summarized as: 
+  
+
+Animals appeared about a half billion years ago, and very slowly grew in their range of capabilities.  The biggest brains grew roughly exponentially.
+Roughly two million years ago, the niche filled by our human-like hunter-gatherer ancestors began to grow roughly exponentially in number (and in world product), doubling roughly every quarter million years,
+About ten thousand years ago, humans quickly adopted farming and transitioned to growing exponentially much faster, doubling in number roughly every thousand years,
+About two hundred years ago, human world product quickly transitioned to doubling about every fifteen years, as industry become common.
+
+These "quick" transitions took much less than a previous doubling time, though more than a new doubling time.  
+So human history consists of a few key growth modes.  During each mode, any tendencies for growth to decelerate, for example via exploring the best looking ideas first, were roughly balanced by other tendencies for growth to accelerate, for example via more powerful eras exploring more ideas.  So change falls into two important classes: most changes are part of some growth mode, helping to sustain it but not modifying its basic pattern of change, while three key changes begot enormous mode-changing revolutions.  
+So our key questions are: what caused those three key changes, or equivalently, what key features sustain each growth mode?  But before you go wild proposing stories about which features were key to which modes, remember: your story about when a feature became a key to growth must match what we know about when that feature was how prominent.  
+For example, it would be crazy to attribute the arrival of humans to writing, since writing abilities seems way beyond the earliest humans.  One might attribute the farming revolution to writing, but since the earliest known writing appeared well after farming started, you'd have to postulate that we'll find much earlier evidence of writing, and you'll also need a plausible story for how writing enabled farming to appear and to then sustain a faster growth rate.  If you wanted to attribute the industrial revolution to writing, you'd have to explain why there was a strong threshold effect, so that pre-1800 writing levels had weak growth rate effects, while post-1800 writing levels had strong effects.
+To start the game play, let me describe my current best guesses.  While hunter-gatherers underwent large genetic changes, the key to their sustained growth may have been new mental features making it easier to pass on behavior innovations via culture, rather than via genes.  While culture-embodied change probably required big enough brains, and it was aided by language and large social groups, it is not clear how necessary were these last two features.
+With domestication, I suspect that plants and animals directly embodied key innovations, making it far more useful to find and share new plants and animals than to find and share new ways to make arrows, shoes, etc.  Better seeds might let one colonize whole new territories, while better shoes usually only help a little.  
+It is true that less-mobile farmers could invest more in heavy physical capital, and dense areas of farmers could more easily share innovations, specialize in production, and engage in long distance trade.  However, it is not clear how important these were.  Since there had long been some long distance trade, and some less-mobile and denser gatherers at rich fisheries, a threshold effect would be needed for mobility and density to be crucial to the farming revolution.
+While the scientific revolution had little direct effect on the arrival and growth of industry, it created a prestigious cultural model for the formation of networks of experts talking to each other in other areas, especially agriculture.  I suspect networks of farming experts drove the initial industrial revolution in Britain, and other experts networks sustained the revolution as economic activity moved away from agriculture.   While capital intensity, leisure, printing, and good property rights probably helped, it is not clear they were necessary.  
+Those are my guesses for now, though I'd love to change my mind to a story with stronger support.  Anyone got one? 
+
+
+title: The Growth Groove Game
+
+date: May 7, 2009 6:00 am
+

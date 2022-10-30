@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+In the October Journal of Health Politics, Policy and Law, John Nyman questions the RAND experiment: 
+
+Of the 1,294 adult participants who were randomly assigned to the free plan, 5 participants (0.4 percent) left the experiment voluntarily during the observation period, while of the 2,664 who were assigned to any of the cost-sharing plans, 179 participants (6.7 percent) voluntarily left the experiment. … The explanation that makes the most sense is that the dropouts were participants who had just been diagnosed with an illness that would require a costly hospital procedure. … If they dropped out, their coverage would automatically revert to their original insurance policies, which were likely to cover major medical expenses (such as hospitalizations) with no copayments … As a result of dropping out, these participants’ inpatient stays (and associated health care spending) did not register in the experiment, and it appeared as if participants in the cost-sharing group had a lower rate of inpatient use.
+
+ This is a valid concern, which the original work tried to address, but perhaps not sufficiently.  While this is the best of the health-medicine studies, it was far from the only one.  But this seems all the more reason to redo the experiment today.  Hat tip to John McDonough, Alex Tabarrok, and Michael Cannon. 
+Added 10/24:  The RAND Experiment folks have responded with vigor.  HT to Alex Tabarrok. 
+
+
+title: A Valid Concern
+
+date: October 20, 2007 6:00 am
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Adam Smith:
+Let us suppose that the great empire of China, with all its myriads of inhabitants, was suddenly swallowed up by an earthquake, and let us consider how a man of humanity in Europe, who had no sort of connection with that part of the world, would be affected upon receiving intelligence of this dreadful calamity. He would, I imagine, first of all, express very strongly his sorrow for the misfortune of that unhappy people, he would make many melancholy reflections upon the precariousness of human life, and the vanity of all the labours of man, which could thus be annihilated in a moment. He would too, perhaps, if he was a man of speculation, enter into many reasonings concerning the effects which this disaster might produce upon the commerce of Europe, and the trade and business of the world in general. And when all this fine philosophy was over, when all these humane sentiments had been once fairly expressed, he would pursue his business or his pleasure, take his repose or his diversion, with the same ease and tranquillity, as if no such accident had happened. The most frivolous disaster which could befall himself would occasion a more real disturbance. If he was to lose his little finger to-morrow, he would not sleep to-night; but, provided he never saw them, he will snore with the most profound security over the ruin of a hundred millions of his brethren, and the destruction of that immense multitude seems plainly an object less interesting to him, than this paltry misfortune of his own.
+Last night my father died. And I am sad. This wasn’t a big deal in the scheme of things. But, you see, this was MY little finger. And more.
+
+
+title: My Little Finger
+
+date: February 20, 2014 9:45 am
+

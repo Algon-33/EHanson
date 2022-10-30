@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+In a poll last month, 848 US folk gave a median guess of 25% for “what percentage of the federal budget goes to foreign aid.” In 2009, US “bilateral foreign aid” was 0.6%.  The survey’s median “appropriate percentage of the federal budget to go to foreign aid” was 10%.  Polls have found similar answers for many decades. (more; HT Rob Wiblin)
+Jason Kuznicki comments:
+Clearly, then, it’s not enough. But just you try running on a pro-foreign aid platform. Yeah, that’s a winner.
+But if the public actually believed what they said, that 10% should go to foreign aid, pro-more-foreign-aid would be a winning platform when combined with explaining how low is the current fraction. Yet politicians clearly believe otherwise, or they’d eagerly adopt such a platform.  The obvious conclusion: in polls the public lies about how much foreign aid they’ll support via votes.  Voters don’t want to hear about the true fraction of foreign aid, and will punish a politician who shames them by showing how little aid they give, and that they don’t want to give more.
+An interesting meta conclusion: votes are not treated the same as polls. We’ll support some policies in polls that we won’t support by votes.  This seems a challenge for Bryan Caplan’s view that we treat votes and polls similarly, since both have weak personal consequences re influencing the outcome.
+Of course a better test here would be a poll that first informed voters of the true fraction of foreign aid, and then asked them what fraction would be appropriate. I’d bet that if a survey did this immediately after the above two survey questions, poll respondents would say they want more aid.  But without this immediate framing, I’m not sure.
+
+
+title: Polls Lie About Votes
+
+date: December 5, 2010 9:40 am
+

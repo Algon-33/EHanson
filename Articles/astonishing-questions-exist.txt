@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+An astonishing claim is one that, if true, has some sort of surprising hard-to-accept implication. You stare at that implication, and wow, who would have believed that? For example, it would be astonishing to me to win the Nobel Prize. An astonishing question is one where most every possible answer is an astonishing claim. And an astonishing fact about our world is that we know of many astonishing questions.
+For example, consider the question: does the universe go back forever in time, or was there a first time? Either way, something seems amazing. Really, you just keep going back in time and things just keep getting simpler with lower entropy, forever? Or, really, there is this moment in time and space-time just ends there?
+Analogous astonishing questions exist on if the universe goes on forever in the wide future, or as a future path goes a black hole. And when we’ve looked inside things, we’ve always found more detail so far. Is there really a level of detail where we never ever find anything inside that? Or will there come a time in the future where innovation and discovery runs out, so that we stop learning and inventing new things? Will growth rates keep accelerating, or slow down forever? Will our descendants die out or last forever? Will they be as different from us as we are from our distant ancestors, or will they stay like us forever?
+Will we eventually contact real advanced aliens? Will we develop immortality? Is stable world peace possible, or effective world governance? Will we learn to effectively share info so that we don’t knowingly disagree, or will we continue forever to irrationally disagree? Will it eventually be possible to make time machines, or will that be forever impossible? Will it become possible to write software that is as smart as humans across the board? Will we become able to upload/emulate human brains on computers? Do humans have free will? Do human brains have some special capacity for consciousness, or is all matter capable of consciousness?
+Now in a literal sense the following question is also astonishing: who will win the lottery? That is, for each possible lottery winner, if we focus on them it seem astonishing to think: they won the lottery! Yet of course we know that someone must win. But the above questions seem much more astonishing to me in some way, as they each seem to require a more dramatic revision of my view of something more substantial. Somehow, in ways we find it hard to accept now, we will be astonished!
+The existence of astonishing questions makes it dangerous to rely on the following form of argument: It would be astonishing if X were not true, therefore probably X. Seems like a safe solid argument, but it isn’t.
+
+
+title: Astonishing Questions Exist!
+
+date: May 17, 2016 1:35 am
+

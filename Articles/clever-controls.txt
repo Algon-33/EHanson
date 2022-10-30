@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Today’s man-machine poker contest has a clever way to avoid random chance errors: 
+
+The Alberta researchers have endowed the $50,000 contest with an ingenious design, making this the first man-machine contest to eliminate the luck of the draw as much as possible.
+Laak will play with a partner, fellow pro Ali Eslami. The two will be in separate rooms, and their games will be mirror images of one another, with Eslami getting the cards that the computer received in its hands against Laak, and vice versa.
+That way, a lousy hand for one human player will result in a correspondingly strong hand for his partner in the other room. At the end of the tournament the chips of both humans will be added together and compared to the computer’s.
+
+Doubles tournaments based on this method could be made for lots of games with chance elements.  
+
+
+title: Clever Controls
+
+date: July 23, 2007 9:31 am
+

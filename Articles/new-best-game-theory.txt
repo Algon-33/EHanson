@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+The latest American Economic Review says lab experiments have crowned a new best game theory:
+
+Experiments on 12 [completely mixed 2 x 2-]games, 6 constant sum games, and 6 nonconstant sum games were run with 12 independent subject groups for each constant sum game and 6 independent subject groups for each nonconstant sum game. Each independent subject group consisted of four players 1 and four players 2, interacting anonymously over 200 periods with random matching. The comparison of the five theories shows that the order of performance from best to worst is as follows: impulse balance equilibrium, payoff-sampling equilibrium, action-sampling equilibrium, quantal response equilibrium, Nash equilibrium. 
+
+So what is this winner, impulse balance equilibrium? 
+
+  
+
+Learning direction theory … is applicable to the repeated choice of the same parameter in learning situations in which the decision maker receives feedback not only about the payoff for the choice taken, but also for the payoffs connected to alternative actions. If a higher parameter would have brought a higher payoff we speak of an upward impulse and if a lower parameter would have yielded a higher payoff we speak of a downward impulse. The decision maker is assumed to have a tendency to move in the direction of the impulse. … Impulse balance theory … [models] only the stationary distribution … [where] expected upward impulses are equal to expected downward impulses.  As in prospect theory losses are counted double in the computation of impulses. … The probability of choosing one of two strategies say strategy A is looked upon as the parameter, which can be adjusted upward or downward. It is assumed that the second lowest payoff in the matrix is an aspiration level determining what is perceived as profit or loss. In impulse balance equilibrium expected upward and downward impulses are equal for each of both players simultaneously.
+
+The king is dead – long live the king! 
+Added: A game theory is a theory that predicts how people will play "games," i.e., situations where someone’s payoffs depend on what others do.  Decision theory is enough to tell you what to do, once a game theory has told you what others will do. 
+
+
+title: New Best Game Theory
+
+date: August 12, 2008 6:00 am
+

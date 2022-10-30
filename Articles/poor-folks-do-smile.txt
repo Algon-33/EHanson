@@ -1,0 +1,34 @@
+author: Robin Hanson
+
+text: 
+Responding to my saying:
+As long as enough people are free to choose their fertility … income per capital must fall over the long run, a fall whose only fundamental limit is subsistence.
+Peter McCluskey:
+Robin Hanson’s Malthusian-sounding posts prompted me to wonder how we can create a future that is better than the repugnant conclusion. … A mind that barely has enough resources to live could be designed so that it is very happy with the cpu cycles or negentropy it gets even if those are negligible compared to other minds. … what I find repugnant … is … the cruelty of evolution which produces suffering in beings with fewer resources than they were evolved to use.
+Bryan Caplan:
+Robin’s sounding strangely like a doom-sayer* lately. … For flesh-and-blood lives, as opposed to vivid simulations, I actually agree with Robin.  But there are important – and heartening – caveats that I think (?) he accepts, but isn’t pushing: …
+
+“It has to stop sometime” was as true when our population was 10,000 as it is today.  As far as we can tell … “sometime” is a long way off. …
+If you don’t like your family’s per-capita income, you can unilaterally raise it by having fewer kids … and set up a trust on their behalf. …
+This “subsistence” regime could still have awesome entertainment, art, science, blogs, virtual reality …
+
+Robin’s claim isn’t that our descendants will be “forced” to slave day and night to feed hungry mouths.  Rather, it’s that our descendants will care a lot more about kids than we do. …
+* Robin cares about aggregate, not per-capita welfare.  So he would deny that he’s being a doom-sayer.
+Bryan and Peter are both mostly right.  Bryan is even right that there is no population externality in the economist’s sense; free fertility choice and contract is usually economically efficient.
+I don’t see our far future as a repugnant doom.  Yes, I doubt we can maintain current growth rates to have 103000 descendants in a million years, since only 1070 atoms are available by then.  But 1070 descendants is still is a grand and glorious future, far far beyond our current 1010.
+Yes, I think per-capita income must fall to near subsistence levels, but not only isn’t this repugnant – it is good!  Near subsistence lives are not only worth living, they are well worth living, e.g., with far more pleasure than pain.  Poor folks really do smile.  For the same reason that charity to the poor is good, because of their higher marginal value of money versus the rich, having many poor folks is better than a few rich folks; their total pleasure is much more, and is not outweighed by their added pain.
+Our ancestors were designed with pleasure and pain to motivate them in a near subsistence world.  Lives of continuous torture, where they’d rather be dead, were rare.  Our descendants will be similarly adapted to find joy and meaning in their near subsistence lives.  And intense pain may well be eliminated in favor of other ways to inducing the required focus. Contact with virtual worlds and with a vast larger society will be far cheaper for them that it was for our ancestors, though contact with a real wild nature will be more expensive.
+So why are so many rich folks so horrified by a vast future of poor folk?
+
+Rich folks often compete to show their concern the poor, by competing to exaggerate how bad terrible is poverty. Saying poor lives are like endless torture beats saying they are happy but sure could use more money.
+Rich folks would personal be horrified to have to live so poor. They are very used to their wealth, and for them poverty would be a huge horrifying shameful fall in social status.
+Really empathizing with the poor by imagining their happiness would make the rich all the more ashamed about their lack of charity to poor folks.  It is easier to ignore poor folk who seem less than fully human.
+Rich folks would have to admit they forgo doing huge good by not making as many kids as they can.
+
+By the way, my only disagreement with Bryan is that our robot descendants might actually be forced to slave near day and night, not to feed kids but just to pay for their body rent, their feed-stocks, their net connection, etc.   Even so they’d be mostly happy.
+
+
+title: Poor Folks Do Smile
+
+date: September 26, 2009 2:45 pm
+

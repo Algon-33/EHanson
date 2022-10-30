@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Evidence is accumulating that religious rituals and belief, especially in moralistic supernatural observers, together strengthen social cohesion.  From the Economist:
+
+ To test whether religion might have emerged as a way of improving group co-operation while reducing the need to keep an eye out for free-riders, Dr Sosis drew on a catalogue of 19th-century American communes. … Dr Sosis found that communes whose ideology was secular were up to four times as likely as religious ones to dissolve in any given year. … the more constraints a religious commune placed on its members, the longer it lasted … But the same did not hold true of secular communes. … Ritual constraints are not by themselves enough to sustain co-operation in a community – what is needed in addition is a belief that those constraints are sanctified. … 
+ Dr Sosis has also studied modern secular and religious kibbutzim in Israel. … Within religious communities, men are expected to pray three times daily in groups of at least ten, while women are not. … The researchers’ hypothesis was that in religious kibbutzim men would be better collaborators (and thus would take less) than women, while in secular kibbutzim men and women would take about the same. And that was exactly what happened. …
+
+  
+
+ Of the two groups shown the note, one was told by the experimenter that the student’s ghost had sometimes been seen in the room. The other group was not given this suggestion. … In short, awareness of a ghost – a supernatural agent – made people less likely to cheat. … Dr Wilson himself has studied the relationship between social insecurity and religious fervour, and discovered that, regardless of the religion in question, it is the least secure societies that tend to be most fundamentalist. 
+
+ Many have suggested over the years that supernatural skeptics should create religious-like rituals to bind themselves together.  Apparently this strategy just does not work – at least not until we can credibly believe in a ritual-approving great friendly AI in the sky … (kidding).  I wonder: could ubiquitous surveillance also build social cohesion? 
+
+
+title: Religious Cohesion
+
+date: March 24, 2008 6:00 am
+

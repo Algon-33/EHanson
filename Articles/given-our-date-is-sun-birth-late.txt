@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+In our grabby aliens paper, we use a simple model that predicts the appearance of advanced life in terms of when habitable stars are formed, how long they last, and the hard steps power law of when advanced life appears within a planetary habitable lifetime window. We showed that this is well approximated by a power law during grabby alien birthdates, and that humanity looks quite early relative to its predictions.
+Using this same model, we can also ask: how early or late is the sun’s birthdate, given our current appearance date?  This graph shows the percentage of dates that are after our sun’s birthdate of 9.23Gyr, for stars that give rise to advanced life at 13.77Gyr:
+
+Unless the max planet lifetime is very short, our Sun’s birthdate starts to look substantially late for powers above about five. So either the power is below five, or panspermia happened, in which case Earth’s star had to come later to come after the earlier star of Eden. And in which. case, the power is probably high, as it would be the sum of hard steps on both Earth and Eden.
+
+
+title: Given Our Date, Is Sun Birth Late?
+
+date: March 27, 2021 3:25 pm
+

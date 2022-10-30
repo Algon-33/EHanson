@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Greg Clark gave a talk here Thursday, and presented data showing that in the long run, England has no social classes!  When English surnames were first created, they marked the status of folks.  The village smith, for example, was called “Smith.”  But by now, those rich and poor surnames are totally mixed – a surname tells you little about someone’s status.  For example, this table describes a sample of once-rich names with especially low rates of mistaken names changes:
+
+Clark claims this does not contradict the main thesis of his recent book:
+A Farewell to Alms argued that for 800 years at least in pre-industrial England the rich were taking over the society demographically, and replacing the poor.  The evidence above of the dominance of regression to the mean may seem to contradict that argument.  But there is no conflict.  The rich can still have a reproductive advantage within each generation.  It is just that the rich change from generation to generation under the forces of regression to the mean.  But if the argument of A Farewell to Alms is correct then the rich in 1600, or in any generation, should have many more descendants by 1851 than the poor, even though by 1851 they are no longer distinguishable by occupation, income, or wealth. While there was complete regression to the mean in terms of economic status, we do observe that the rich of 1600 left many more descendants than the poor.  … Economic success by a man in 1600 substantially increased his share of their genes in the English gene pool by 1851, as was predicted in A Farewell to Alms.
+Substantially increased?  Going from 0.45% to 0.59% of the population is a gain of 31%, but a 31% gain by the rich in six centuries is hardly enough to “take over” England genetically in anything less than tens of thousands of years!  Even if we assume twice this gain from illegitimate kids, clearly Clark’s new work has shown his main book thesis false.
+
+
+title: No English Gene Classes
+
+date: February 5, 2010 8:45 am
+

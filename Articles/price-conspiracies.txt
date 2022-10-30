@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+A believable conspiracy theory:
+Airlines and online travel agencies surreptitiously use computer “cookies” they’ve implanted on your Web browser to track your activity on their sites and then raise prices when it appears that you’re interested in a fare. That’s the rumor, at least. … For years … the industry … has vehemently denied any tampering with prices. …
+A United Kingdom-based hotel site called VivaStay reportedly dinged customers by way of a special link from an affiliated Web site that showed slightly higher prices than those quoted to customers who clicked directly on the VivaStay site. VivaStay apologized, but said it was unaware that the price variation was frowned upon.  …
+A teacher … says … she recently tried to buy a ticket to Vietnam … through the Delta Air Line Web site. … But when she was actually ready to buy her flights, the airline informed her that the ticket she wanted was $300 more than the original price quote. … “I returned to Delta’s home page and began the process again. … The same lower fare was still displayed, so I worked my way through the process again only to be informed once again that the fare was no longer available. Over the course of a half hour I repeated this process two more times. Same result.” …
+“If there is no bias in a process, there are about as many negative outcomes as positive outcomes. The process of posting the lower airfares — that is, making them initially available — should result in as many surprisingly lower prices at booking as it does surprisingly higher ones because they have all been taken.”  [This physicist] makes a good point. I’ve heard of only one or two cases where the fare dropped.
+Given a room full of computers, such as in a school or library, it shouldn’t take more than a few hours to test this price-jump conspiracy theory.  Just try to book random flights and record the initial and final prices offered.  If the non-random pattern is strong, it shouldn’t take long to see clearly.
+Price discrimination, i.e., charging different prices for the same thing (that costs the same), has long been a wide-spread business practice.  Firms are reluctant to admit they do it not only because customers get mad, but also because it has been illegal in the US since the 1914 Clayton Antitrust Act, at least if “the effect … may be substantially to lessen competition.”  Mark this as another bendable rule authorities rarely enforce, letting them selectively punish whomever they wish.
+
+
+title: Price Conspiracies
+
+date: April 19, 2010 8:00 am
+

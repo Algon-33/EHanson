@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+David Linden in Boing Boing:
+Kurzweil predicts that by the late 2030s, we will be able to routinely scan an individual’s brain with such molecular precision and with such a complete understanding of the rules underlying neuronal function and plasticity that we will be able to “upload” our mental life into a vastly powerful and capacious future computer. … I am a neurobiologist and I have spent the past 28 years engaged in studies of the cellular and molecular basis of memory and cognition. I am an optimist and a technophile, but I believe that I speak for the vast majority of brain researchers when I express serious doubts about Kurweil’s timetable. …
+Kurzweil then argues that our understanding of biology—and of neurobiology in particular—is also on an exponential trajectory, driven by enabling technologies. … At some point in the 2020s, a miracle will occur: If we keep accumulating data about the brain at an exponential rate (its connection maps, its activity patterns, etc.), then the long-standing mysteries of development, consciousness, perception, decision, and action will necessarily be revealed. … That’s where I get off the bus.
+Our understanding of biological processes remains on a stubbornly linear trajectory. … There have been a number of genuine paradigm-shifting insights in genetics in recent years. … But these discoveries, and most of the other key conceptual breakthroughs in this field, have come slowly, the result of stubbornly linear small science, and not of the huge technology-driven data sets that Kurzweil describes. … This linear progress also holds true for the growth in our knowledge of brain function. … The ploddingly linear increase in our understanding of neural function means that an idea like mind-uploading to machines being usefully deployed by the 2020s or even the 2030s seems overly optimistic. (more; HT Tyler)
+I’m happy to defer to Linden’s brain science expertise. But I wish he’d get clear on two key points:
+
+All this talk of linear vs. exponential progress, with linear progress unable to finish by 2040, suggests Linden has in mind a rough estimate of how far along are we now, and how fast we have been proceeding. It would be very helpful if Linden would tell us his best guess. For example, are we now 20% of the way along, and progressing 5% per decade, suggesting we need 160 more years of linear progress?
+Linden talks about “mysteries of development, consciousness, perception, decision, and action.” But all we need for brain “uploads” (= emulations) are good enough models of individual cell input/output/state relations (i.e., how a brain cell’s output signals and internal states change as a function of its input signals). We don’t need to understand how that huge mess of connected cells actually produces high level brain functions. If we just focus on this more limited goal, then how far along are we, and how fast are we moving?
+
+Yes Kurzweil seems too optimistic, but rather than criticizing Kurzweil it seem far more useful for Linden to offer his own best expert estimates. Brain emulations would have such enormous social implications that even if they will take a century or so to arrive, it is still very important to let people know, so we can start to prepare. I fear my economist colleagues will continue to ignore this possibility until top brain scientists like Linden tell them it really is coming.
+
+
+title: Upload Skepticism
+
+date: July 14, 2011 10:20 pm
+

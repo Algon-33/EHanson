@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+In the laboratory dictator game, you give subjects a pile of money and ask them if they want to give some of it to anonymous other subjects.  In the lab people do give away some money, a lot more than if you had handed money to someone on the street.  People give less if the experiment is double-blind, if there is social distance between the giver and recipient, and according to a new study, if payments are received more than a week after the decision:
+
+We experimentally study the effect of time on altruism. By postponing payments in a standard Dictator game, subjects allocate a future payment between themselves and others. Since both the payoffs of the Dictator and the Receiver are delayed until the same time, standard intertemporal utility maximization would predict that waiting time should not affect the Dictator’s choice. In this respect, we observe that Dictators’ decisions are not affected, as long as the time interval between the decision and payment is not large [2-6 days, median gift 15%]. On the other hand, for large time gaps [10-22 days, median gift 0%], subjects become more self-interested.
+
+ I fear this is more bad news about our altruism toward the very distant future.  
+
+
+title: Future Altruism, Not
+
+date: August 11, 2008 6:00 am
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Upcoming in Theory and Decision (in the same issue as I), David Johnstone asks a fundamental prediction market question: should we believe traders who make the most money, relative to traders with good statistical forecasting scores?  His answer is "No":
+
+ A gambler who wants to maximize future profits should trade on the advice of the analyst cum probability forecaster who records the best probability score, rather than the highest trading profits.  
+
+The reason is simple: when a forecaster’s prediction falls within a bid-ask trading spread, he cannot improve his trading profit, but he can still improve his probability score.   The extreme case is even simpler:  if no market exists, he can make no trades, but he can still improve his score.  
+ Another reason to prefer a statistical score is that the trader’s goal might be something other than maximizing  the logarithm of their final trading profit.   Only for log utility traders with no bid-ask spread could profit reveal as much as a log scoring rule.  
+ On the other hand, if there is not just one statistical score to use, then a forecaster might have selected the score to show you that made them look best, reducing its info value.  This is much harder to do with trading profits.  
+ Finally, let me note that my automated market maker, which I call a "market scoring rule," has a zero bid ask spread.  So profit trading with it will rate someone just as well as a statistical score, at least if a combinatorial version is used that allows for all the combinations that a scoring system might allow.  
+
+
+title: Does Profit Rate Insight Best?
+
+date: December 3, 2006 6:00 am
+

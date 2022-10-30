@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Marketers have long noticed puzzlingly high levels of brand loyalty:
+Consumers appear to have high willingness to pay for particular brands, even when the alternatives are objectively similar. The majority of consumers typically buy a single brand of beer, cola, or margarine, even though relative prices vary signiﬁcantly over time, and consumers often cannot distinguish their preferred brand in blind “taste tests”. Consumers pay large premia to buy homogeneous goods like books and CDs from branded online retailers, even when they are using a “shopbot” that eliminates search costs. A large fraction of consumers buy branded medications, even though chemically equivalent generic substitutes are available at the same stores for much lower prices.
+Brand loyalty is big barrier to innovation, and an important reason why inefficient firms manage to survive so long.
+Brand preferences create large entry barriers and durable advantages for incumbent firms, and can explain persistence of early-mover advantage over long periods
+In the latest American Economic Review Bronnenberg, Dube, & Gentzkow offer new clues:
+Variation in where consumers have lived in the past allows us to isolate the causal effect of past experiences on current purchases, holding constant contemporaneous supply-side factors such as availability, prices, and advertising. … 60 percent of the gap in purchases between the origin and destination state closes immediately when a consumer moves. … The remaining 40 percent gap between recent migrants and lifetime residents closes steadily, but slowly. It takes more than 20 years for half of the gap to close, and even 50 years after moving the gap remains statistically signiﬁcant. … The relative importance of brand capital is higher in [product] categories with high levels of advertising and high levels of social visibility. (more)
+This ad effect is puzzling because:
+Large literatures have measured the effects of advertising, but these studies often ﬁnd no effects [of ads on sales], and the effects they do measure are estimated to dissipate over a horizon ranging from a few weeks to at most ﬁve or six months.
+Let me suggest that an important use of brands is to create and signal identities. We create a coherent understandable idea of the kind of person we are, integrated with the kind of products we use, and we prefer not to change that concept, so that others can continue to rely on their expectations about us. We are willing to pay higher prices, and neglect info about quality, in order to keep a persistent style and appearance. So brands are naturally more important for products we use that others see more, and where ads have made connections to identity more salient.
+
+
+title: Brands Show Identity
+
+date: November 9, 2012 8:15 am
+

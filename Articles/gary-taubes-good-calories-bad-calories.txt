@@ -1,0 +1,31 @@
+author: Stuart Buck
+
+text: 
+Gary Taubes, a correspondent for Science magazine, contributed to the Atkins Diet craze with his New York Times article several years ago, "What If It’s All Been a Big Fat Lie?." He then spent the past several years expanding on that article, and the result Good Calories, Bad Calories, a book of some 600 pages (nearly 70 of which are the bibliography).  
+Taubes has several overarching themes; he contends, for example, that eating refined carbohydrates is what makes you obese, and that refined carbohydrates contribute to many of what used to be called "diseases of civilization" (such as heart disease, which seems to have been less common in traditional cultures that ate less processed food, including Northern cultures that ate almost exclusively meat).  (These arguments are still controversial, although new evidence continues to support them.)  
+The most important theme, however, suffuses the entire book: bias in scientific inquiry.  
+  
+Most of the chapters are headed by bias-related quotations, such as this from a 1921 book on philosophy of science: "In reality, those who repudiate a theory that they had once proposed, or a theory that they had accepted enthusiastically and with which they had identified themselves, are very rare.  The great majority of them shut their ears so as not to hear the crying facts, and shut their eyes so as not to see the glaring facts, in order to remain faithful to their theories in spite of all and everything." Or this quotation from a 1950 Fields Medal winner: "The thing is, it’s very dangerous to have a fixed idea. A person with a fixed idea will always find some way of convincing himself in the end that he is right."  
+Why is Taubes so interested in bias?  For several decades, it has been the conventional wisdom that dietary fat (and especially saturated fat) contributes to obesity, heart disease, and cancer.  Judging from Taubes’ exhaustive research — indeed, I’d be surprised if any other book examined bias within a particular scientific field in such detail — the conventional wisdom was based on unreliable and slender evidence that, once established and institutionalized in government funding, set a pattern of confirmation bias by which further research was judged (or ignored).  To take several examples (the book is full of many more): 
+
+Researcher Ancel Keys is perhaps the most important figure behind the origins of the dietary fat hypothesis.  Two of his most famous studies found a strong correlation between diet and heart disease in a handful of countries, but he cherry-picked the countries to analyze, omitting countries that would have undermined or even eliminated the correlation entirely. (pp. 18, 31-33).
+
+Dietary researchers tended to ignore — or refused to allow publication of — studies showing that diet, cholesterol, and heart disease were not even correlated (pp. 27, 35), or even that low cholesterol raises other risks of death (in several studies, people with low cholesterol and/or people who ate low-fat diets were more likely to die of cancer, see pp. 37, 54, 71, 81).  As for cholesterol-lowering diets (which may include lots of polyunsaturated fat, and hence are different from low-fat diets per se), dietary researchers tended to rely on one positive result from a Helsinki study, while ignoring a politically incorrect result from a clinical trial in Minnesota (in which 269 mental patients assigned to a cholesterol-lowering diet died, compared to 206 in the control group). The Minnesota result wasn’t even published for 16 years; Taubes asked the researcher why, and got the response: "We were just disappointed in the way it came out."  (pp. 37-38).
+
+Similarly, in 1961, a conference of the Association of American Physicians included a presentation showing that in comparing heart disease patients in New Haven to a healthy population, the diseased patients were much more likely to have high triglycerides than high cholesterol, thus implicating high carbohydrate diets (which elevate triglycerides).  One of the researchers told Taubes, "It just about brought the house down.  People were so angry; they said they didn’t believe it."  Despite this result, later studies funded by the National Institutes of Health would completely ignore triglycerides, focusing only on cholesterol levels. (pp. 157-60).  
+
+Taubes closes the book with these scathing words: 
+
+The institutionalized vigilance, “this unending exchange of critical judgment,” is nowhere to be found in the study of nutrition, chronic disease, and obesity, and it hasn’t been for decades.  For this reason, it is difficult to use the term “scientists” to describe those individuals who work in these disciplines, and, indeed, I have actively avoided doing so in this book.  It’s simply debatable, at best, whether what these individuals have practiced for the past fifty years, and whether the culture they have created, as a result, can reasonably be described as science.
+
+Here are some informative interviews with Taubes: 
+ PBS.  
+ MIT.
+The Borzoi Reader.
+The Telegraph. Notably, Taubes admits in this interview that he himself might be biased: “What are the chances of writing an article that says the entire medical establishment is wrong, and them going, ‘Good point, thank you, Gary. Can we give you an award?’ When people challenge the establishment, 99.9 per cent of the time they are wrong. If I was writing about me, I’d begin from the assumption that I am both wrong and a quack.” 
+
+
+title: Gary Taubes, “Good Calories, Bad Calories”
+
+date: July 26, 2008 6:00 am
+

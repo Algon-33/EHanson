@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Where does reason have the most and least reach in our lives? That is, where are we most and least able and expected to give reasons for our conclusions and actions?
+Math seems like a max reason case. Every math claim must be backed up by a proof. But even then, I know that in many math literatures papers are usually rejected not for having incorrect proofs, but for not making the assumptions that referees would have preferred. Such referees are usually not expected to or able to articulate well why some assumption sets are preferred, and paper authors can only imperfectly predict their choices.
+Romance and art seem near to min reason cases. There we are consistently unable to give reasons to account for our choices, or even to predict our and others’ choices. And we don’t even like to be pushed to try. But why? You might explain this as due to complexity, but math and many other reason-filled areas of life can be quite complex.
+I suspect mixed strategies and hidden motives. That is, our being able to give reasons and predict choices would allow others to infer our motives, or to control us via threats and promises. And so such issues must be especially important in romance and art. But this is just speculation, and I’m honestly curious: why exactly does reason have so little reach in romance and art?
+Added 10a: It seems obvious that we want to be unpredictable and to hide our motives in romance. We don’t want others to control such an important choice, and we sometimes want to cheat. The fact that reason also has little reach in art suggests that art and mating are strongly linked. We use art to solicit mates and we use art to pick with whom to mate, but we deny these things and claim we just love art for its own sake.
+Is charity another area with a low reach of reason?
+
+
+title: Why Does Reason’s Reach Vary?
+
+date: August 11, 2021 8:15 am
+

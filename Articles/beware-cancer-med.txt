@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Chapter 2 of Ken Lee’s thesis compares med spending and age-adjusted deaths across the 50 US states from 1980 to 2007. Lee’s baseline model finds that deaths increases with smoking use, alcohol use, population density, and med spending: a 10% increase in med spending increases deaths by 0.85%. Breaking down this med spending death effect by drug vs. non-drug spending, and by four causes of death (cancer, heart attack, injury, and other), Lee finds (in Tables 5,6) that med spending hurts mainly because increasing non-drug med spending by 10% increases cancer deaths by 2.1%:
+
+The apparent lesson: avoid cancer docs, and especially their non-drug cancer treatments. It seems some places tend to spend more on med overall, and when they spend more on cancer patients, those patients die no less, and maybe more. That fits with cancer patients living longer when they go to hospice and get no cancer treatment and with randomized trials of cancer screening consistently showing no effect on total mortality. Other explanations, however, are that high med spending places tend to classify more deaths as due to cancer, or that med treatment of all sorts tends to cause cancer.
+For you stat whizzes, Lee uses state and year fixed effects, and uses per capita physicians, beds, and dental spending as med spending instruments to disentangle the direction of causation.  He picked that instrument set because it had the smallest bootstrap variance, and passed many tests. Here is Lee’s baseline model (from Table 3):
+
+
+
+
+title: Beware Cancer Med
+
+date: May 23, 2011 4:20 pm
+

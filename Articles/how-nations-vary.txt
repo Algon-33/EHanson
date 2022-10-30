@@ -1,0 +1,32 @@
+author: Robin Hanson
+
+text: 
+A few weeks ago I asked some basic questions about great divide stories, and last week I asked what are the key divides in politics.  Now let me review key data relevant to these questions: the main political factors dividing nations.  The most recent edition (out of four) of the World Value Survey asked 92,000 people in 62 nations 250 key value questions. The results:
+Two dimensions explain more than 70 percent of the cross-national variance. … The Traditional/Secular-rational values dimension reflects the contrast between societies in which religion is very important and those in which it is not. … Societies near the traditional pole emphasize the importance of parent-child ties and deference to authority, along with absolute standards and traditional family values, and reject divorce, abortion, euthanasia, and suicide. These societies have high levels of national pride, and a nationalistic outlook.
+The second major dimension of … brings a polarization between Survival and Self-expression values. The unprecedented wealth … means that an increasing share of the population has grown up taking survival for granted. Thus, priorities have shifted from an overwhelming emphasis on economic and physical security toward an increasing emphasis on subjective well-being, self-expression and quality of life.
+But wealth is better correlated with a simple sum of these two factors.  Last November I complained:
+We need not accept their labels. … Factor analysis strongly suggests the most informative subspaces to consider, but says less about the best axes to consider. …  It seems pretty clear that differing wealth is a key factor driving values differences.  Given that one factor is the lower left to upper right wealth factor, the other factor is an upper left to lower right factor, stretching from [East] Russia to the [West] USA.  But what is the essence of that factor? … [Perhaps] an “inward” vs. “outward” focus … when the priority is making families and personal relations work well … [vs.] when the priority is larger community health and threats. … [Western] cultures where invasion was less an issue tended to evolve family oriented values, while … [Eastern others] focused more on larger community solidarity.
+Judge for yourself.   I encourage readers to ponder the following patterns, to see what sense they can make of them. Here are official WVS diagrams, showing key values, then nations, in their two-factor space, but relabeled with RICH, POOR, WEST, EAST poles:
+
+
+Here are some of some issue-direction associations, in text form:
+Rich: divorce OK, trust people, homosexual ok, imagination, responsibility.
+ Poor: respect parents, good & evil clear, respect authority, trust science, jobs to own nationality.
+ East: interested in politics, discuss politics, politics important.
+ West: family important, in good health.
+ East Rich: abortion ok, achievement motivation, determination, thrift, discuss/interest politics.
+ East Poor: reject outgroups, woman needs children, not happy, child needs both parents, technology, money, hard work, state/employee management, state responsible.
+ West Poor: religion important, god important, religious faith, national pride, obedience, work important, want many kids.
+ West Rich: affect balance, life satisfaction, friends important, leisure important, have free choice, good health, ecology, women’s movement, ecology, tolerance.
+As far as I know these dimensions are a somewhat recent phenomena; it isn’t clear that they account well for political disputes from many centuries ago.  Also, I think that over the last few decades the positions of nations in this space has drifted somewhat steadily toward the rich pole, as nations have gotten richer.  Notice that there seems to be more East-West variation among poor than rich nations.  Notice also that the most “East” nations are not actually the furthest East, but the most toward the center of the Asian continent, where invasions were most common.
+An ’09 factor analysis of nations finds two similar factors, wealth and “Western values and institutions,” and a third equator-vs-pole factor that captures poverty caused by tropic-diseases:
+Three principal factors emerge from the analysis, explaining together 61.8 % of the total variance of the indicators. The first of these is strongly correlated with indicators reflecting R&D, patenting & scientific publications, ICT access/use, a well developed financial sector, little corruption, law and order, …  openness of society towards parts of population with diverging characteristics, trust and the propensity to take part in civic activities. …  Hence this factor reflects both technological and social capabilities as traditionally defined, emphasizing the strong interdependence between technological, social and cultural factors in the process of development. …
+The second factor correlates highly with the adoption of western-type institutions in the political sphere, a high share of Catholics, a low share of Muslims and moderately with women’s rights. This factor clearly reflects the prevalence of Western values and institutions and we therefore call it “Western democracy”. Finally there is a third factor that correlates strongly with the fertility rate, spread of malaria, tuberculosis and HIV and location in the tropics. … We label this factor “the poverty trap”.
+We might also add in nation size as a fourth key nation, as emphazised by Scott Sumner:
+This [good governance] list also highlights the “small is beautiful” point I keep making.  The top six countries all have fewer people than Los Angeles County.  I’m guessing they don’t spend $550 million dollars on new high schools (as LA just did.)  The Economist noted that America is spending $11 billion on its census ($36 per person) whereas Finland spends a measly $1.2 million (20 cents per person.)
+
+
+title: How Nations Vary
+
+date: September 16, 2010 10:00 am
+

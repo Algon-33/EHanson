@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+A man always has two reasons for doing anything: a good reason and the real reason. J. P. Morgan
+In economics today, as in many related fields, data analysis is king, and theory takes a back seat, at least as far as status goes. When people celebrate particular exemplary data analyses, they usually point to a use of difficult statistical techniques, or more commonly to some clever idea for how certain data could speak to an important question. They point far less often to what is more often the real limiting factor: access to relevant data, and to resources (such as time and student assistance) to process that data. Organizations with data are far more willing to show them to academics from prestigious institutions.
+This is part of a more general pattern: when we give people status, the criteria we claim to use to choose who gets status often differs substantially from our real criteria. Let’s see how that might play out regarding the strong claim I posted on Saturday:
+If we put together a huge super-dataset describing many individual people in as many ways as possible, a factor analysis of this dataset may find important new super-factors that span many of these features domains. Such super-factors would be promising candidates to use in a wide range of social research, and social policy. (more)
+When someone finally does this data analysis that I’ve proposed, and finds some super-factors, they will be rightly celebrated. But what will they be celebrated for? Their main actual contribution will have been to get some organization to pony up enough resources to look for super-factors. But that’s not the sort of thing for which we like to celebrate intellectuals. So I predict that such people will instead be celebrated for the very idea of looking for super factors, for looking for a certain kind of super-factor, or for a clever computational or statistical technique used in the search.
+There isn’t much risk of people finding my post and using that to undercut this celebration. I know of many cases where prestigious academics were celebrated for “insights” that others had expressed beforehand. As long as those others and/or their venues were of sufficiently lower status, academics see no conflict. Should anyone make an issue of it, there are always differing details that can be seized on to explain why the two ideas were really quite different.
+If we had prediction markets on such things, and used them as the main way we allocated credit on such claims, well then in that case I might be able to lock in great rewards now, rewards that others couldn’t steal later. But that is one of the reasons we don’t want prediction-market-based rewards. In the end we like most of our hypocrisies, including those involving giving people status for different reasons than we claim.
+
+
+title: Super-Factor Scenario
+
+date: October 23, 2015 7:30 am
+

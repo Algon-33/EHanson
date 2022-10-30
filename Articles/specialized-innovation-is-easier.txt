@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Consider a few things we know about task specialization and innovation: Larger cities and larger firms both have both more specialization and more (i.e., faster) innovation. More global industries also have both more specialization and innovation. And across the great eras of human history (animal, forager, farmer, industry), each era has brought more specialization, and also faster rates of innovation.
+Here’s a simple explanation for (part of) this widely observed correlation: It is easier to create tools and procedures to improve tasks the more detail you know about them, and the less that task context varies across the task category. (It is also easier to fully automate such tasks; human level generality is very hard.)
+For example, it seems harder to find a way to make a 1% improvement in a generic truck, designed to take any type or size of stuff any distance over any type of road, in any type of weather, relative to a very specific type of truck, such as for carrying animals, oil, cars, ice cream, etc. It gets even easier if you specialize to particular distances, roads, weather, etc. Partly this is because most ways to improve the generic truck will also apply to specialized trucks, but the reverse isn’t true.
+This might sound obvious, but note that this is not our usual explanation for these correlations in each context. We usually say that cities are more innovative because they allow more chance interactions that generate ideas, not because they are more specialized. We say larger firms are more innovative because they have larger market shares, and so internalize more of the gains from innovation. We say more global industries are more capital intensive, and capital innovates faster. And we say that it is just a coincidence that over time we have both specialized more and invented better ways to innovate.
+My simpler more unified explanation suggests that, more often than we have previously realized, specialization is the key to innovation. So we should look more to finding better ways to specialize to promote future innovation. Such as less product variety and more remote work.
+Added 25Sep: A relevant quote:
+As Frank Knight once expressed it, the fundamental point about the division of labour is that it is also a system for increasing the efficiency of learning and thus the growth of knowledge
+
+
+title: Specialized Innovation Is Easier
+
+date: September 10, 2020 2:50 pm
+

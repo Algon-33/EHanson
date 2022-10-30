@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+A recent email asked me to admit that the current credit crunch shows we need more government regulation; the author thought it "easy to see" regulators could have foreseen and avoided the problem. This made me realize that we often hear claims that bad economic news, such as the dotcom crash, rising oil prices, or rising medical prices, suggests we need more regulation.  But we rarely hear claims that bad news suggests we need less regulation, or that good news suggests we need less regulation.  
+Now perhaps it makes sense to change policy more in bad times than good, though even this is not clear; after all, we can better afford to experiment with change in good times. But it seems biased to call for more regulation given a certain cue, without calling for less regulation given some other cue.  If we all agreed we have too little regulation, then we should just add more regardless of whether news is good or bad. 
+This bias would seem to produce a regulation ratchet: increased regulation after bad times, but little change after good times.  Of course this by itself doesn’t say if we have too much or not enough regulation; it just says the time trend is wrong.  
+ Perhaps this regulation ratchet arises from a hindsight bias, i.e., an illusion that regulators could have foreseen current crises, combined with a tendency to more often think "something must be done" in bad times, combined with the Politician’s Syllogism, (which I previously called Caplan’s fallacy): 
+
+ Something must be done. This is something. Therefore, this must be done. 
+
+
+
+title: Regulation Ratchet
+
+date: October 8, 2007 6:00 am
+

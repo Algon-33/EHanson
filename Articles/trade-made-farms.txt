@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+In her [1969] book The Economy of Cities, Jane Jacobs makes the controversial claim that city-formation preceded the birth of agriculture.
+I’d never heard this before Garret Jones told me a few days ago.  So I read Jacobs’ book, found her theory quite plausible, and then sought criticism online.  I found:
+The noted urban critic and scholar Jane Jacobs … argues that cities arose before agriculture. … Jacobs claims that she “asked anthropologists how they know agriculture came before cities” (p.44) but they could not answer her.  Here is the reply … read any introductory textbook in world prehistory.  Agriculture came before cities. Period. End of argument. The evidence is conclusive. Jacobs is wrong. This should be the end of the story. But wait, Jacobs was a popular and controversial figure in urban studies, and many scholars want to accept her arguments.
+Seeking such a world prehistory text, I found:
+The growth of the cities of Mesopotamia was based on the production of agricultural surplus. This surplus depended on irrigation agriculture, which required the organization of large work crews to build and maintain canals.
+OK, so I’ll accept that most texts agree.  But this text just makes a bald claim; it doesn’t offer supporting evidence.  Wikipedia and an ‘05 econ review on farming’s origin both give lists of disparate theories and say none is accepted.  Jacobs’ theory seems better than most, and neither source offers contrary evidence.  In fact:
+Evidence indicates that sedentary communities emerged in the Near East up to 3000 years before the birth of agriculture. …  The first domesticates ‘probably appeared near latrines, garbage heaps, forest paths and cooking-places where humans unintentionally had disseminated seeds from their favourite wild grasses, growing nearby’. … There is evidence that … tools for agricultural production were already available to the foragers who eventually took up farming, … that agriculture appeared in relatively complex, affluent societies, where a wide variety of foods were available and that these societies were circumscribed by other societies whose environmental zones were poorer in resources.
+These all support Jacobs.  To my mind the main datum needing explanation is the fact that within a few (or at most tens of) thousands of years, human population doubling times went from many tens thousands of years to just a thousand years.  Jacobs proposed that the key change was the creation of large local trading regions around trading hubs, and especially their merging into continent-spanning trade networks.  This allowed innovations to spread far more quickly than among isolated nomadic foragers.  Trade and trade centers were important well before farming, and while farming tricks were among the more important innovations that spread in this new rapid communication system, it is a mistake to see them as fundamental.  The main reason we saw them appear just when many other key changes appeared was because the innovation rate changed.
+
+
+title: Trade Made Farms
+
+date: April 3, 2010 10:35 pm
+

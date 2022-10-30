@@ -1,0 +1,17 @@
+author: Michael Abramowicz
+
+text: 
+Robin suggests that a more robust model of deliberative prediction markets would be useful, and I agree. Experimentation in the field would be even more useful. But my original paper and book section explain the logic of this market approach clearly, with both words and what I acknowledged was a "simple model."
+I doubt, in any event, that a more elaborate model will change the basic conclusion: that the deliberative prediction market provides at least some increased incentive to reveal information. I’ll let interested readers look at the original paper for a more developed argument (including math), but it boils down to a very simple point. A prediction market, as Robin and I both note, already provides some incentives to reveal information. But if a trader’s payoff depends on whether the trader actually succeeds at persuading others rather than on whether the trader turns out in the long run to be correct, the trader will have an additional incentive to reveal that information. 
+  
+Relaxing the assumptions that Robin questions will not undermine this point. First, Robin notes that a trader may get more than one package of information. It’s possible that the deliberative market might lead someone to reveal first one package of information (pointing, say, to a higher value), wait to profit on that, and then reveal another package of information (pointing to a lower value), and cash in on that too. 
+So, the deliberative market could on occasion delay the release of some information packages. But those information packages might not have been released at all in the standard prediction market. Suppose that a trader in a standard prediction market conducts research that reveals two information packages that cancel each other out. The trader has no incentive to trade at all, let alone to reveal the two packages of information.
+The bottom line is that I can’t think of any scenario in which the deliberative prediction market would result in less information revelation, and it might well result in more information revelation. Allowing private information exchange doesn’t undermine this either. Private information exchange can also allow a trader to cash out a position or, in the deliberative market, to make sure that the market does not move too much after the trader’s initial prediction. 
+Finally, I’m making a straightforward comparison in my paper (see p. 17), assessing the effect of two different possible compensation regimes in the same environment. Robin argues that the assumptions about this environment are unrealistic and that I would reach a different conclusion relaxing the assumptions (though I disagree above). But I just don’t see how I change either the explicit or implicit assumptions underlying the two regimes. Admittedly, I don’t explicitly model the information revelation incentives that already would exist in both markets, but I hold those constant in the two settings.
+Robin’s post is valuable and helps point in the direction of useful research, even though Robin does not include a robust formal model to justify his claim that "we can easily get the same info revelation advantages" in the standard prediction market as in the deliberative market. I hope that Robin will agree that the concept of a deliberative market also is valuable and points in the direction of useful research, even though I support it with only three pages of math. 
+
+
+title: Deliberative Prediction Markets — A Reply
+
+date: January 30, 2008 3:30 pm
+

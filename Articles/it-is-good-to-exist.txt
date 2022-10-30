@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+I am grateful to be alive.  I think my being alive is both good, and good for me.  That is, it is morally good, and it gets me what I want.  Many, however, say this is nonsense – you can’t hurt someone by preventing them from existing because then there would be no one there to hurt.  I disagree.  I can care about things beyond my immediate experience, such as what happens to my family after I die.  So you can hurt me by changing such things, even if I never experience your hurt.   
+ Standard decision theory says that any set of decisions, consistent in certain standard ways, can be described by two weighting functions over possible worlds: probability and utility.  The more decisions examined, the more these weights get pinned down.  Each of us seems able to consider a wide range of both real and hypothetical decisions, both from the point of view of what we personally want, and from the view of what is a good moral decision.  The first view gives personal utility, and the second our view on "moral goodness."
+  
+ Each of us can be thought of as many "selves" spread out across time, possible worlds, and perhaps even "copies" (e.g., futuristic spatial duplicates or in different quantum worlds).  These different selves can in principle each have a different probability and utility weighting. But we usually say we are "rational" if these probabilities come from the same "prior" probability weights, combined with each selve’s information set.  Similarly, our selves are "consistent" when their utility weights agree enough.   
+ When your differing selves, spread over different possible worlds, agree enough on utility weights for possible worlds where certain selves do not exist, then there is a clear sensible thing we can mean by "how much you want (those selves) to exist."  And when they agree on moral weights there is a clear sensible thing you can mean by "how morally good it is for me to exist."  Thus we can sensibly talk both about whether it is morally good to exist, and how much I want to exist.  
+ Just as a possible world where humanity becomes extinct in the next ten years seems morally far worse than one where it continues on for millions of years, a possible world where humanity or anything like it had never existed seems worse than both.  Similarly, a possible world where I die tomorrow, and I have no more future selves seems worse for me than a world where such future selves do exist, and a world where none of my selves ever existed seems worse for me than either. 
+Of course you could argue that, contrary to my impression, my desire to exist should not count morally.  But don’t tell me my desire is meaningless.  
+
+
+title: It Is Good To Exist
+
+date: December 10, 2007 6:00 am
+

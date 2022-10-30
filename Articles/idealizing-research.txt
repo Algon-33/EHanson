@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+On Institutional Review Boards (= IRBs), I wrote in March:
+It makes little sense to have extra regulation on researchers just because they are researchers. That mainly gets in the way of innovation, of which we already have too little.
+To decide if academic studies are “ethical,” IRBs ask if the benefits of a proposed study to the world and to its subjects (= people studied) outweigh the risks to its subjects. And a standard rule is that financial payments to subjects do not count as benefits.
+To an economist, this paternalism sounds pretty crazy. In the latest Bioethics, Alan Werthmeimer agrees. First he notes that no explicit arguments are offered for this “money isn’t benefit” rule:
+Although the standard view has become a virtual mantra in research ethics, no [official] document contains an argument in its defense. … The scholarly literature also contains little defense of that view. For example, [an] important article … [says] ‘otherwise simply increasing payment or adding more unrelated services could make the beneﬁts outweigh even the riskiest research.’
+So Werthmeimer makes up seven reasons:
+
+A subject might think that having the money to purchase a big screen TV makes it sensible for him to accept certain medical risks. … IRBs should not incorporate such impoverished conceptions of a person’s interests into their decisions.
+IRBs are not well positioned to determine how much weight to assign to the beneﬁt of payment as compared to risk.
+The standard view [is] a way to provide extra insurance that payment does not constitute an undue inducement.
+[Otherwise,] it would allow IRBs to approve risky research with economically vulnerable populations so long as investigators are prepared to pay subjects enough.
+The physician’s role is to advance the patient’s medical interests, and not her interests, writ large. And perhaps much the same could be said for the relationship between IRBs and subjects.
+Society may prefer that research not be viewed as an economic transaction and it may symbolize its commitments by not allowing such values to intrude on the assessment of risks and beneﬁts.
+It is crucial that the public believe that research subjects are not abused or exploited. … Whereas society accepts with a relative yawn the fact that people incur job related injuries or deaths as coal miners, ﬁshermen, and off-shore oil service workers, society seems to react with great intensity to research related injuries and deaths.
+
+I hope you can imagine my incredulous stare. This goes way beyond sometimes overruling certain judgements because you think people sometimes make particular mistakes. Here regulators basically presume that all wanting of money is illicit and not to be counted. Reason #7 seems to me closest to the truth – the idea appears to be to preserve an ivory-tower image of research as a high pure far ideal thing not to be sullied if possible by money motives. Which if you think about it isn’t that far from the common medical ideal, that cost should not be a factor in medical decisions.
+ 
+
+
+title: Idealizing Research
+
+date: July 13, 2011 6:00 pm
+

@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+A New Scientist editorial:
+Should we try to promote contact by broadcasting our presence to the heavens? If alien civilisations exist, they are likely to be so far away that our message will not arrive until after we are gone. In that case, what is there to lose? We might as well let them know that we used to be around.  If, by chance, there are intelligent aliens within a few tens of light years from Earth, their own SETI programmes might already have sniffed us out. … So let’s make some friendly overtures, rather than leave them to wonder why we’re not transmitting, and what we’ve got to hide.
+David Brin’s reply:
+There is an arrogance in the transmission of these messages by small groups who have claimed the right to shout on behalf of Earth without consulting anybody else.  Many SETI researchers and others, including the editorial board of Nature, have asked for there to be a moratorium on these messages until broad international discussions can take place. …
+That doesn’t seem much to ask, given the importance of the matter and our ignorance of the cosmos. … The message zealots label as paranoid anybody who wants open discussion. With their peremptory broadcasts, they bet our future on the assumption that all technological alien species will be altruistic. …
+They deploy a host of blithe excuses, such as “aliens have already picked up our radio leakage” and “harm cannot span interstellar distances”, but they do not hold up under scientific scrutiny. … The history of first contacts between human cultures, and between previously isolated Earthly biomes, … make a sad litany that suggests patience, caution and lengthy discussion are in order before we make our presence known to the cosmos at large.
+Brin seems obviously right here.  There may well be little chance anyone will hear our signals, but the main benefits of such signals are conditional on someone hearing, and so we should be concerned about large costs that also show up under exactly the same conditions.
+There is clearly a real risk of market failure here; each broadcaster can enjoy the glory of hoping to be the special one to make first alien contact, while our whole planet suffers most of the consequences of that choice.  This sort of situation is exactly what global governance should be for.
+Furthermore, the sort of complications that bedevil coordination on global warming, estimating each nation’s costs of warming and contribution to cooling, are avoided here – this conflict is just the one broadcaster vs. the rest of the world.  (Regulations to limit unintentional signals, as in telecom or planetary radar science, move more in that bedeviling direction.)  Our failure to actually achieve any global coordination here shows just how weak are such abilities —  a slight air of “silly topic” is all it takes to completely block coordination.
+As Brin notes, many would-be broadcasters come from an academic area where for decades the standard assumption has been that aliens are peaceful zero-population-growth no-nuke greens, since we all know that any other sort quickly destroy themselves.  This seems to me an instructive example of how badly a supposed “deep theory” inside-view of the future can fail, relative to closest-related-track-record outside-view.  As Brin says, the track record of contact between cultures, species, and biomes is not especially encouraging, and it is far too easy for far-view minds to overestimate the reliability of theoretical arguments to the contrary.
+
+
+title: Think Before Talk
+
+date: February 24, 2010 12:00 am
+

@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+I just learned of a new Scientific American article on prediction markets, which is pretty positive:  
+
+A paper … compares the performance of the IEM as a predictor of presidential elections from 1988 to 2004 with 964 polls over that same period and shows that the market was closer to the outcome of an election 74 percent of the time. … Attracted by the markets’ apparent soothsaying powers, companies such as Hewlett-Packard (HP), Google and Microsoft have established internal markets that allow employees to trade on the prospect of meeting a quarterly sales goal or a deadline for release of a new software product. As in other types of prediction markets, traders frequently seem to do better than the internal forecasts do. … Prediction markets may truly hark back to the future. "My long-run prediction is that newspapers in 2020 will look like newspapers in 1920," Wharton School’s Wolfers says. If that happens, the wisdom of crowds will have arrived at a juncture that truly rivals the musings of the most seasoned pundits.
+
+ But I am personally singled out as the colorful character who is way too positive:  
+  
+
+The ardor for market-based answers can at times border on the hyperbolic. Robin Hanson, a professor of economics at George Mason University, has advocated that if trading patterns on prediction markets suggest that implementation of a particular policy will cause the economy to grow and unemployment to shrink, then policy officials should, by fiat, adopt that policy – an interest rate cut or a public works project, perhaps. Hanson reasons that the collective information held by traders is superior to the analyses that can be marshaled by a panel of economists or other experts. Hanson has even proposed a form of government called futarchy, based on policy-making markets. 
+
+ So even if markets are consistently more accurate it is "hyperbolic ardor" to suggest we actually follow their advice?  The article then repeats old errors about DARPA’s Policy Analysis Market (PAM):  
+
+Such utopian leanings have sometimes led advocates to push too far too fast. Several years ago the Defense Advanced Research Projects Agency (DARPA) began planning for a project called the Policy Analysis Market, which would have allowed investors to trade on geopolitical events, not unlike the Intrade Iran contract, including assassinations, wars and the next al-Qaeda attack. If the market – for which Hanson was an adviser – bid up a contract that would pay off if a terrorist attack occurred, the Department of Homeland Security might then decide to raise the threat condition status from yellow to red. Or so went the rationale.
+
+No, PAM was not intended to warn us about individual terrorist attacks!  PAM was intended to forecast geopolitical trends – two Senators claimed otherwise based on a small miscellaneous section of a sample web page, but out of hundreds of articles on PAM it has been years since a journalist repeated this error.  As someone who grew up reading Scientific American, it is sad to see their standards sink so low.  
+
+
+title: Colorful Character Again
+
+date: February 19, 2008 11:00 pm
+

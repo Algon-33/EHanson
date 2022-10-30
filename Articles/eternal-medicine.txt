@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Most fans of modern medicine do not realize how similar in appearance was ancient medicine:
+
+ While the Greeks left a vast legacy of medical texts in a familiar language, we know of only 12 from the time of the pharaohs – written on papyrus in a vanished language that scholars are still grappling with. From their descriptions of diseases and treatments, the texts have left little doubt that the ancient Egyptians had considerable medical skills, but weighing up their pharmaceutical knowledge has proved trickier: although the papyri include some 2000 prescriptions, doubts surround the identity of many of the ingredients listed. ….
+
+  
+
+ Focusing on four key papyri, which contain 1000 prescriptions and date from 1850 BC to around 1200 BC, Campbell analysed each prescription and compared it with contemporary standards and protocols. … After five years of painstaking analyses, … Of the original 1000 prescriptions, she could now say exactly how 550 were made and whether they would work. For another 156, she knew all but a minor ingredient – enough to say if the remedy worked. … 
+ The Egyptians’ choice of ingredients has certainly stood the test of time. When Campbell consulted Martindale’s Extra Pharmacopoeia – the 1977 edition, when drugs were still prepared in a dispensary – she found that 62 per cent of ingredients named in the papyri were still in use in the 1970s.  … The formulations stood comparison too. Checking against the 1973 British Pharmaceutical Codex, which lays down standards and protocols for making up medicines, Campbell found 67 per cent of the ancient Egyptian remedies complied, with one proviso – the Egyptians knew nothing of the need for sterility. … They had enemas, draughts and linctuses, lotions and liniments, creams, ointments and mouthwashes. …. Ignorant of the causes of most diseases, ancient Egyptian doctors inevitably focused on symptoms. … 
+ Knowing the drug, the dose, how it was to be administered and what it was prescribed for meant it was possible to compare its effectiveness with modern remedies. Campbell was impressed. "Sixty-four per cent of the prescriptions had therapeutic value on a par with drugs used in the past 50 years. In many cases even the dosing was right."
+
+As long as he was arrogant, wore a white coat, put his drugs in capsules, and spoke the local language, I doubt most people today could tell the difference if they were treated by an ancient Egyptian doctor.  By the way, the oldest known successful brain surgery was 8000BC.
+
+
+title: Eternal Medicine
+
+date: February 8, 2008 6:00 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Is the universe finite or infinite?   That is, does it go on forever in at least one direction, or is there unlimited detail in at least one place?  This question has been asked as long as we’ve understood the concept of infinity, and many feel we are making substantial progress lately.  In particular, many cosmology papers consider the differing physical implications of infinite vs. finite space or time, and these papers are often reported on more widely as perceptibly changing our estimates about whether the universe is infinite.
+ But if we continue to frequently make perceptible progress on an ancient open question, that question cannot long remain open.  So the future will long remember our era as one that either settled the physical infinity question with 90% (or even 99%) confidence, or as one that was overconfident about its rate of progress.
+ I can see two kinds of evidence here.  First we gain evidence that the universe goes at least so far in particular directions, and has at least so much detail in particular places.  Second, when we compare finite versus infinite versions of our current best theories of physics and cosmology, one may appear to be conceptually simpler, while the other may seem more an awkward ad hoc modification. 
+ But both of these forms of evidence seem to at best offer only very weak new evidence on physical infinity.  If, in the "1, 2, 3, infinity" spirit, we had a prior expectation that a universe larger than a certain size threshold was probably infinite, we should have long since passed that threshold.  Even a single continent that lasts a millennium is large enough to surprise most children.  And the modifications used to turn a finite theories into infinite ones, or vice versa, have so far required only modest changes to the conceptual simplicity of our best theories, with no clear pattern on which side tends to be favored.  
+ So it seems to me that overconfidence is the more likely explanation for recent perceptible changes in our expectations about whether the universe is physically infinite.  This question will likely remain open for a very long time, if it was not already mostly settled for rational minds a long time ago.  In our arrogance we think otherwise.
+
+
+title: 1, 2, 3, Infinity
+
+date: June 13, 2007 6:00 am
+

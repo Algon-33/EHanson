@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Blue Brain is an ambitious attempt to model brains.  It may fail, but my guess is that within a half century some project like it will success so spectacularly as to completely remake society, and turn well-placed pioneers into multi-trillionaires.  From Seed:
+In the basement of a university in Lausanne, Switzerland sit four black boxes, each about the size of a refrigerator, and filled with 2,000 IBM microchips stacked in repeating rows. Together they form the processing core of a machine that can handle 22.8 trillion operations per second. … This is Blue Brain. …
+When he launched the project in the summer of 2005, as a joint venture with IBM, there was still no shortage of skepticism. Scientists criticized the project as an expensive pipedream, a blatant waste of money and talent. … The first phase of the project – “the feasibility phase” – is coming to a close. The skeptics, for the most part, have been proven wrong. It took less than two years for the Blue Brain supercomputer to accurately simulate a neocortical column, which is a tiny slice of brain containing approximately 10,000 neurons, with about 30 million synaptic connections between them. …
+
+“What is holding us back now are the computers.” … In order to accurately simulate the trillion synapses in the human brain, you’d need to be able to process about 500 petabytes of data … That’s about 200 times more information than is stored on all of Google’s servers. … But if computing speeds continue to develop at their current exponential pace, and energy efficiency improves, Markram believes that he’ll be able to model a complete human brain on a single machine in ten years or less. …
+Once the team is able to model a complete rat brain – that should happen in the next two years – Markram will download the simulation into a robotic rat, so that the brain has a body. He’s already talking to a Japanese company about constructing the mechanical animal. “The only way to really know what the model is capable of is to give it legs,” he says.
+Anders Sandberg tells me this is actually the most impressive project to date.  Details from the whitepaper:
+The so far (2006) largest simulation of a full Hodgkin-Huxley neuron network was performed on the IBM Watson Research Blue Gene supercomputer using the simulator SPLIT … It was a model of cortical minicolumns, consisting of 22 million 6-compartment neurons with 11 billion synapses, with spatial delays corresponding to a 16 cm^2 cortex surface and a simulation length of one second real-time. Most of the computational load was due to the synapses, each holding 3 state variables.  The overall nominal computational capacity used was 11.5 TFLOPS, giving 0.5 MFLOPS per neuron or 1045 FLOPS per synapse. Simulating one second of neural activity took 5942 s. The simulation showed linear scaling in performance with the number of processors up to 4096 but began to show some (23%) overhead for 8192 processors.
+
+
+title: The Kind of Project To Watch
+
+date: March 14, 2008 6:00 am
+

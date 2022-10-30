@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Happy families are all alike; every unhappy family is unhappy in its own way. First line of Leo Tolstoy’s novel Anna Karenina.
+Broken cars vary more in their capabilities than fixed cars.  Fixed cars all have working engines, brakes, doors, radios, roofs, etc., but in broken cars some of these capacities are greatly diminished.   Broken vs. fixed houses, televisions, plumbing systems, and so on are similar.
+Biological bodies, on the other hand, become less varied in their capabilities as they break down.   For example, with increased age the contributions of other factors like social status to human mortality rates becomes weaker.   Similarly high intelligence people vary more in their different mental capabilities.
+What determines whether it is the more capable or the less capable systems whose capabilities vary more?  The following figure illustrates a general theory of broken systems (formally “reliability theory“):
+
+This is a system of three blue columns supporting an orange platform.  The four diagrams show increasingly broken versions of this column system.  The top diagram shows the system built exactly according to its design.  Every such system should give pretty much the same pattern of support.  The second diagram shows the columns having fallen over, but still intact.  Different ways the columns could have fallen should lead to very different patterns of support for the platform.  The third and fourth diagrams shows the columns breaking into increasingly smaller pieces.   The smaller the pieces of rubble, the more predictably even is the support this rubble gives the platform.  The support capability is less, as the platform is lower to the ground and more disruptable via shaking.  But that lower capability is still more predictable.
+The general lesson is that the systems whose capabilities vary the most are systems with an intermediate number of broken parts.  In contrast, systems with few or many broken parts vary less in their capabilities.  Cars, houses, etc. usually have very few broken parts, so when they break more their capabilities vary more.  Biological bodies and minds, in contrast, have very many broken parts, and so when versions have fewer breaks they are both more capable and more varied in their capabilities.
+If Tolstoy is to believed, most families have relatively few broken parts, because more capable families are less varied.  Also, it turns out that richer nations are more similar to each other than less capable nations.  This suggests that most families and nations are only doing a moderate number of things wrong, which raises hopes that we could figure out those mistakes, to advise families and nations how to be more capable.  And it suggests that families and nations might reasonably just try to make themselves superficially more like capable families and nations – such conformity might well fix one of their few mistakes.
+For what other interesting types of systems do we know if the more capable systems vary more or less in particular capabilities?
+
+
+title: Reliability Theory
+
+date: August 31, 2009 6:00 am
+

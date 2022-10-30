@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Back in August I commented on a paper by Mike Thicke that criticized prediction markets:
+With each of his reasons, Thicke compares prediction markets to some ideal of perfection, instead of to the actual current institutions it is intended to supplement.
+Now Saana Jukola and Henrik Roeland Visser weigh in:
+We largely agree on the worry about inaccuracy. .. An alternative worry, which Thicke does not elaborate on, is the fact that peer review .. is also valued for its deliberative nature, which allows it to provide reasons to those affected by the decisions made in research funding or the use of scientific knowledge in politics. .. By pointing out defects and weaknesses in manuscripts or proposals, and by suggesting new ways of approaching the phenomena of interest, peer reviewers are expected to help authors improve the quality of their work. .. peer review .. guards against the biases and blind spots that individual researchers may have. .. Criticism of evidence, methods and reasoning is essential to science, and necessary for arriving at trustworthy results. ..
+The severity of the potential obstacles that Thicke and we identify depends on whether science prediction markets would replace traditional methods such as peer review, or would rather serve as addition or even complement to traditional methods. .. Prediction markets do not provide reasons in the way that peer review does, and if the only information that is available are probabilistic predictions, something essential to science is lost. ..
+As someone who has often experienced the business end of peer review, I can assure you that peer review far from the most useful channel of criticism for scientists today. And I know of no one who proposes forbidding scientists to talk with or criticize each other! Such talk and criticism was common long before peer review became common in science, and if allowed it should remain common. (Peer review only became common in the last century.) Even in the extreme case (which I have not advocated) where prediction markets were our only channel of research funding, and our only source of scientific consensus.
+Jukola and Visser cite my blog post on how markets might pick a best qualitative explanation, but complain:
+We could also imagine that there are cases in which science prediction markets are used to select the right answer or at least narrow down the range of alternatives, after which a qualitative report is produced which provides a justification of the chosen answer(s). Perhaps it is possible to infer from trading behavior which investors possess the most reliable information, a possibility explored by Hanson. Contrary to Hanson, we are skeptical of the viability of this strategy. Firstly, the problem of the underdetermination of theory by data suggests that different competing justifications might be compatible with the observation trading behavior. Secondly, such justifications would be post-hoc rationalizations, which sound plausible but might lack power to discriminate among alternative predictions.
+Again with comparing an alternative to perfection, and ignoring how existing institutions can also fail such a perfection standard. The under-deterimination of theory by data, and a temptation toward post-hoc rationalization, can exist in all other institutions one might use to elicit explanations. Jukola and Visser make no attempt to argue that prediction markets do worse by such criteria.
+
+
+title: More Prediction Market Criticism
+
+date: November 9, 2017 10:07 am
+

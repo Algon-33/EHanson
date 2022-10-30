@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+This Sunday, December 11, I’ll host a meetup at 6305 Windward Dr., Burke, VA, 7-11pm. Special guest: Rob Wiblin.
+
+
+title: DC Area Meetup Sunday
+
+date: December 7, 2011 11:00 am
+

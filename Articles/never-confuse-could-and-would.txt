@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Matthew Yglesias agrees that "an awful lot of medical spending is wasteful, and spending money on medical care isn’t a particularly effective way of improving the health of the population" and thinks this speaks well of single-payer options:  
+
+ I think Hanson’s observation that "humans long ago evolved a tendency to use medicine to ‘show that we care,’ rather than just to get healthy" partially explains why things like the UK’s National Health Service generate so much bang for the buck. In effect, a highly centralized state run health care system is able to put a cap on how much demonstrative caring can be done through the health care system. 
+
+ Yes a single payer system could cut spending, but would it?  Tyler Cowen doubts "America can cover everyone through a single payer system at lower expense."  He asks:
+
+ I am always curious to hear — from single-payer proponents — which interest groups they think will have a decisive say over the system, and how those interest groups differ in America vs. Western Europe.  
+
+ This seems a great applications for policy decision markets.   Let us create betting markets on total U.S medical spending conditional on whether or not we adopt a single-payer system in the U.S.  And as long as we do that, let’s also have markets estimate lifespan or some other health measures, conditional on the same thing.  Then we could find out how those willing to "put their money where their mouth is" really think a single-payer system would effect spending and health.
+ Matt, is this too "bold, outlandish" a proposal for you to endorse?  If so, why?  
+
+
+title: Never Confuse “Could” and “Would”
+
+date: September 12, 2007 1:00 pm
+

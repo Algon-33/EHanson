@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+New Scientist quotes me on the simulation argument:
+Although we are unlikely to get proof, we might find some hints about our reality. “I think it might be feasible to get evidence that would at least give weak clues,” says Bostrom.
+Economist Robin Hanson of George Mason University in Fairfax, Virginia, is not so sure. If we did find anything out, the operators could just rewind everything back to a point where the clue could be erased. “We won’t ever notice if they don’t want us to,” Hanson says. Anyway, seeking the truth might even be asking for trouble. We could be accused of ruining our creators’ fun and cause them to pull the plug.
+Hanson has a slightly different take on the argument. “Small simulations should be far more numerous than large ones,” he says. That’s why he thinks it is far more likely that he lives in a simulation where he is the only conscious, interesting being. In other words, everyone else is an extra: a zombie, if you will. However, he would have no way of knowing, which brings us back to Descartes.
+The reporter gets this a bit wrong. If I’m in simulation, I’m more likely to be in a small than a big simluation, but that is not to say I’d be “the only conscious, interesting being.” I’d guess most small simulations with any conscious beings have more than one – humans are social, and most of the interesting things to simulate about humans require more than one of them.
+
+
+title: Me in New Scientist on Sims
+
+date: July 25, 2011 4:45 pm
+

@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+Many, perhaps most, think it obvious that computer-like systems will eventually be more productive than human-like systems in most all jobs. So they focus on how humans might maintain control, even after this transition. But this eventuality is less obvious than it seems, depending on what exactly one means by “human-like” or “computer-like” systems. Let me explain.
+Today the software that sits in human brains is stuck in human brain hardware, while the other kinds of software that we write (or train) sit in the artificial hardware that we make. And this artificial hardware has been improving rapidly far more rapidly than has human brain hardware. Partly as a result of this, systems of artificial software and hardware have been improving rapidly compared to human brain systems.
+But eventually we will find a way to transfer the software from human brains into artificial hardware. Ems are one way to do this, as a relatively direct port. But other transfer mechanics may be developed.
+Once human brain software is in the same sort of artificial computing hardware as all the other software, then the relative productivity of different software categories comes down to a question of quality: which categories of software tend to be more productive on which tasks?
+Of course there will many different variations available within each category, to match to different problems. And the overall productivity of each category will depend both on previous efforts to develop and improve software in that category, and also on previous investments in other systems to match and complement that software. For example, familiar artificial software will gain because we have spent longer working to match it to familiar artificial hardware, while human software will gain from being well matched to complex existing social systems, such as language, firms, law, and government.
+People give many arguments for why they expect human-like software to mostly lose this future competition, even when it has access to the same hardware. For example, they say that other software could lack human biases and also scale better, have more reliable memory, communicate better over wider scopes, be easier to understand, have easier meta-control and self-modification, and be based more directly on formal abstract theories of learning, decision, computation, and organization.
+Now consider two informal polls I recently gave my twitter followers:
+
+Assume distant future is full of software (SW) doing stuff. What current kind of software is most of it like?
+— robin hanson (@robinhanson) August 24, 2017
+
+
+Assume all distant future software is either like in our brains (B) or like software we write now (W), & these compete. Which wins where?
+— robin hanson (@robinhanson) August 25, 2017
+
+Surprisingly, at least to me, the main reason that people expect human-like software to lose is that they mostly expect whole new categories of software to appear, categories quite different from both the software in the human brain and also all the many kinds of software with which we are now familiar. If it comes down to a contest between human-like and familiar software categories, only a quarter of them expect human-like to lose big.
+The reason I find this surprising is that all of the reasons that I’ve seen given for why human-like software could be at a disadvantage seem to apply just as well to familiar categories of software. In addition, a new category must start with the disadvantages of having less previous investment in that category and in matching other systems to it. That is, none of these are reasons to expect imagined new categories of software to beat familiar artificial software, and yet people offer them as reasons to think whole new much more powerful categories will appear and win.
+I conclude that people don’t mostly use specific reasons to conclude that human-like software will lose, once it can be moved to artificial hardware. Instead they just have a general belief that the space of possible software is huge and contains many new categories to discover. This just seems to be the generic belief that competition and innovation will eventually produce a lot of change. Its not that human-like software has any overall competitive disadvantage compared to concrete known competitors; it is at least as likely to have winning descendants as any such competitors. Its just that our descendants are likely to change a lot as they evolve over time. Which seems to me a very different story than the humans-are-sure-to-lose story we usually hear.
+
+
+title: Can Human-Like Software Win?
+
+date: August 26, 2017 5:20 pm
+

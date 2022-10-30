@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Humans distinguish two kinds of status, about which we are quite moralistic. There’s the good kind, prestige, and the bad, dominance. These are commonly described as pro-social vs. selfish:
+Social status can be attained through either dominance (coercion and intimidation) or prestige (skill and respect). (more)
+As Machiavelli noted, love [prestige] and fear [dominance] are both valuable assets that can be used to influence others. (More)
+Dominance: Deference is demanded and is a property of the actor.
+Prestige: Deference is freely conferred and is a property of the beholder. … Creation of authentic and lasting relationships … High in need for affiliation; high in authentic pride. (more)
+Back in 2015, my co-author Kevin Simler argued for a “more cynical” view:
+Central question [about prestige is] … What’s in it for the admirer? I know of two answers … first is given by Joseph Henrich and Francisco Gil-White … second … by Amotz Zahavi … and … Jean-Louis Dessalles … This [second] account may be more cynical, perhaps, but it’s one of the most powerful ideas I’ve ever encountered.
+Henrich and Gil-White [say] … admiration … acts as a bribe. Admirers … are sycophants. … hoping to learn from their superiors. …
+[But I say] prestige [is] … a kind of “credit” reflecting the amount of good each [babbler bird] has done for others. … Prestige-seeking and admiration (deference) are complementary teaming instincts. They help babblers stay attached to a group, keep groupmates happy, and secure a larger share of the group’s reproductive “spoils.” …
+We [humans] voluntarily follow our leaders (and otherwise defer to them) because good things tend to happen when we do; it pays to be on their team. A leader who tries to command entirely with dominance — all stick, no carrot — will find his efforts thwarted at every turn … we want to be friends, allies, and teammates with people who do good things for their friends, allies, and teammates. [we] cultivate access to such people … by paying them respect and granting them the perks of prestige. …
+Pinker … says, [prestige] is “the public knowledge that you possess assets that would allow you to help others if you wished to.” … Among our ancestors, then, bullies quickly got their comeuppance — unless they offset their dominance with a lot of prestige, creating many friends and allies in the process. (More)
+But honestly, this view doesn’t seem that cynical to me. As they say, “hold my beer”. Consider my last post:
+Elite employers … focus overwhelmingly on prestige when picking junior employees. … don’t that much care about your grades, what you’ve learned, or what you did in your jobs or extracurriculars, as long as they were prestigious. … Even though you have been chosen for your very consistent lifetime pursuit of prestige, that is very much not allowed to be one of your main goals. … What they are mostly selling is a prestigious aura around [their] advice. … Customers who paid as much for less prestigious advice would probably also be punished, via others being less willing to praise or follow that advice. (More)
+Firms in this scenario aren’t just “freely giving” prestige, nor is this about learning, “love”, “authenticity”, nor rewarding generous allies. These firms instead face strong incentives from audiences to assign prestige in the way that key audiences think prestige should be assigned.
+Consider academic “peer” review. Reviewers formally decide who gets how much prestige. But if they gave good reviews “freely” to whomever they most “authentically” “loved”, they might not get invited to review again, and their own prestige may suffer. When you hope to gain prestige by hosting an academic conference, you will be punished if you don’t invite the speakers that your key audiences think you should invite.
+Or consider “cancelling”, which is in effect a form of negative prestige. While I still have my job, many events and organizations tell me that they can’t afford to publicly invite, fund, or associate with me because of what mobs say about me. They say they don’t personally have a problem with anything I’ve said or done, but they don’t want the hassle that mobs could impose.
+In all these cases, we aren’t at all looking at each person just “freely” assigning to others the respect and evaluation that they privately think appropriate. Instead, evaluators face strong conformity pressures to agree with the evaluations of others.
+Both dominance and prestige are expressions of power. In dominance, the power is direct, what that person can do to or for you. But with prestige, the power is indirect, enforced via a local mob. You must “freely” accord each person the respect that your relevant mob says is due, or risk their wrath. But make no mistake, there is a power that enforces prestige, just as with dominance.
+Note that “socialists” tend to explicitly frame unequal money or physical power as unacceptable “domination”, and yet greatly admire historical cases where outraged and active mobs tried to fix such problems.
+Added 6Nov: Mercer & Sperber’s Enigma of Reason similarly assumes that while those who present arguments might be biased, evaluators of arguments are neutral and fair.
+
+
+title: Prestige As Mob-Enforced Dominance
+
+date: November 5, 2020 1:44 pm
+

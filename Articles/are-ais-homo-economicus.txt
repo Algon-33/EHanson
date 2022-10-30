@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Eliezer yesterday:
+If I had to pinpoint a single thing that strikes me as “disagree-able” about the way Robin frames his analyses, it’s that there are a lot of opaque agents running around, little black boxes assumed to be similar to humans, but there are more of them and they’re less expensive to build/teach/run.  … The core of my argument has to do with what happens when you pry open the black boxes that are your economic agents, and start fiddling with their brain designs, and leave the tiny human dot in mind design space.
+Lots of folks complain about economists; believers in peak oil, the gold standard, recycling, electric cars, rent control, minimum wages, tariffs, and bans on all sorts of things complain about contrary economic analyzes.  Since compared to most social scientists economists use relatively stark mathy models, the usual complaint is that our models neglect relevant factors, and make false assumptions.
+But of course we must neglect most everything, and make false assumptions, to have tractable models; the question in each context is what neglected factors and false assumptions would most mislead us.
+It is odd to hear complaints that economic models assume too much humanity; the usual complaint is the opposite.  Unless physicists have reasons to assume otherwise, they usually assume masses are at points, structures are rigid, surfaces are frictionless, and densities are uniform.  Similarly, unless economists have reasons to be more realistic in a context, they usually assume people are identical, risk-neutral, live forever, have selfish material stable desires, know everything, make no mental mistakes, and perfectly enforce every deal.  Products usually last one period or forever, are identical or infinitely varied, etc.
+
+Of course we often do have reasons to be more realistic, considering deals that may not be enforced, people who die, people with diverse desires, info, abilities, and endowments, people who are risk-averse, altruistic, or spiteful, people who make mental mistakes, and people who follow “behavioral” strategies.  But the point isn’t just to add as much realism as possible; it is to be clever about knowing which sorts of detail are most relevant in what context.
+So to to a first approximation, economists can’t usually tell if the agents in their models are AIs or human!  But we can still wonder: how could economic models better capture AIs?  In common with ems, AIs could make copies of themselves, save backups, and run at varied speeds.  Beyond ems, AIs might buy or sell mind parts, and reveal mind internals, to show commitment to actions or honesty of stated beliefs.  Of course:
+That might just push our self-deception back to the process that produced those current beliefs.  To deal with self-deception in belief production, we might want to provide audit trails, giving more transparency about the origins of our beliefs.
+Since economists feel they understand the broad outlines of cooperation and conflict pretty well using simple stark models, I am puzzled to hear Eliezer say:
+If human beings were really genuinely selfish, the economy would fall apart or at least have to spend vastly greater resources policing itself … group coordination mechanisms, executing as adaptations, are critical to the survival of a global economy.
+We think we understand just fine how genuinely selfish creatures can cooperate.  Sure they might have to spend somewhat greater on policing, but not vastly greater, and a global economy could survive just fine.  This seems an important point, as it seems to be why Eliezer fears even non-local AI fooms.
+
+
+title: Are AIs Homo Economicus?
+
+date: December 9, 2008 6:20 pm
+

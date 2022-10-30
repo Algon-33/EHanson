@@ -1,0 +1,34 @@
+author: Robert Wiblin
+
+text: 
+Robin has long had a possible moral defence for meat consumption on his personal site. The basic idea is this:
+
+If everyone switched to vegetarianism/veganism, we would convert land that currently supports farm animals into land that supports plants.
+This would result in fewer living animals, or at the limit, no animals at all.
+Though the lives of farm animals aren’t great, they would still prefer to exist than not. [1]
+Therefore we are actually doing farm animals a favour by consuming meat and in so doing funding their, albeit brief, existence.
+
+This general argument is called the ‘logic of the larder‘. It is a clever defence of meat eating, though perhaps it is more a rationalisation, coming most often from people who have previously shown little concern for farm animals.
+Personally, I am glad I was created, even though I will suffer at times, am enslaved (by physics and my biology, if not by a conscious agent) and will eventually be murdered (by ageing, if not a butcher), so am willing to go along with the argument in principle. But in practice, it is not a compelling defence of meat consumption today.
+It is far from obvious that “most farm animals prefer living to dying; they do not want to commit suicide.” How do we know they do not want to commit suicide?
+
+Most farm animals do not have the mental faculties to weigh up the choice of whether to commit suicide or not, and make a reasoned decision based on their quality of life.
+Even if they did, evolution should strongly bias animals against deciding to kill themselves, because doing so could never serve the interest of their genes. In addition, committing suicide is itself unpleasant, so your experiences could be worse than nothing and you might still prefer to stay alive.
+Further, even if farm animals could think through such a decision, and were not too biased, they do not have the knowledge or tools necessary to commit suicide.
+
+Unfortunately then, we have no choice but to make our own judgements about their welfare. Surprisingly, Robin doesn’t cite any evidence on this point, instead suggesting those in doubt visit a farm.
+It is quite hard to visit a farm, or find an impartial account of animal lifestyles, because commercial farms and slaughterhouses, especially factory farms, do not want consumers to know about the living conditions of the animals they eat. This itself seems fairly damning. As a result, advocates end up doing most of the reporting. Nonetheless, such reports are still informative and paint a dim picture of quality of life in a typical farm. Many animal lives, particularly those of caged chickens, pigs and farmed fish feature little freedom of movement, high rates of stress, discomfort and disease, and from videos appear worse than nothing to me. Certainly, we would regard someone who treated their pets this way as contemptible. More impartial accounts are apparently to be found in the book Compassion by the Pound (buy), which I have bought but not yet read. Given what I currently know, I would rather stop existing than become an enclosed chicken, fish or pig, and so do not eat those products, in particular caged chickens.
+It is a harder call for dairy and meat cows. Their quality of life looks better than that of most other farmed species. They also raise a significant complication Robin also briefly mentions. On the margin, farming animals requires many more grain crops, because farm animals must consume many calories of feed to produce a single calorie of meat. As such, farm animals displace wild animals through the conversation of wilderness to cropland. This effect is especially dramatic for cows, because their conversion rate of feed to meat is less than one in ten. If feedlot cows enjoy better lives than the numerous wild animals they displace –  many of them small creatures with tiny life expectancies – this could be an argument in favor of consuming beef or milk. However, such products have other drawbacks,
+
+they are probably bad for health (though it pays to be skeptical about the reliability of such research)
+feeding grain to animals raises food prices (good for poor farmers, but bad for poor non-farmers)
+livestock farming alone contributes some 18% of anthropogenic greenhouse gasses.
+
+I would appreciate someone trying to weigh up these harms to see which are most worth worrying about. Working out the true effects of our actions is sometimes challenging, but we should make a collective effort, and so I would be keen to learn from your comments.
+[1] I have even heard people claim that all creatures would necessarily rather live than die. I trust such people have never weighed death against a lifetime of torture.
+
+
+title: Life on farms may be worse than death
+
+date: January 20, 2013 5:34 pm
+

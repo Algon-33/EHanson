@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+The 0.05 significance standard biases results in top polisci journals:
+
+We examine the APSR and the AJPS for the presence of publication bias due to reliance on the 0.05 significance level. Our analysis employs a broad interpretation of publication bias, which we define as the outcome that occurs when, for whatever reason, publication practices lead to bias in the published parameter estimates. We examine the effect of the 0.05 significance level on the pattern of published findings using a "caliper" test, a novel method for comparing studies with heterogeneous effects, and find that we can reject the hypothesis of no publication bias at the 1 in 32 billion level. Our findings therefore raise the possibility that the results reported in the leading political science journals may be misleading due to publication bias. We also discuss some of the reasons for publication bias and propose reforms to reduce its impact on research.
+
+
+
+title: Polisci Stats Biased
+
+date: November 24, 2008 6:00 am
+

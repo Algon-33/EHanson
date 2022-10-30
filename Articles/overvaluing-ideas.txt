@@ -1,0 +1,33 @@
+author: Stuart Buck
+
+text: 
+	How do you tell whether something is good or bad?  Human judgment is surprisingly swayed by contextual cues, rather than by the actual attributes of the thing being judged.  As a recent Boston Globe article pointed out: 
+
+ SCIENTISTS AT CALTECH and Stanford recently published the results of a peculiar wine tasting. They provided people with cabernet sauvignons at various price points, with bottles ranging from $5 to $90. Although the tasters were told that all the wines were different, the scientists were in fact presenting the same wines at different prices. The subjects consistently reported that the more expensive wines tasted better, even when they were actually identical to cheaper wines. 
+The experiment was even more unusual because it was conducted inside a scanner – the drinks were sipped via a network of plastic tubes – that allowed the scientists to see how the subjects’ brains responded to each wine. When subjects were told they were getting a more expensive wine, they observed more activity in a part of the brain known to be involved in our experience of pleasure. 
+
+  
+
+What they saw was the power of expectations. People expect expensive wines to taste better, and then their brains literally make it so. Wine lovers shouldn’t feel singled out: Antonio Rangel, the Caltech neuroeconomist who led the study, insists that he could have used a variety of items to get similar results, from bottled water to modern art. … 
+Shiv cites research showing that cars made in the same factory, with the same parts, but sold under different brand names (such as Toyota and Geo) receive markedly different reliability ratings from consumers. When we drive a car with a less exalted brand name, we are more likely to notice minor mechanical problems. 
+
+A second item: 
+
+A 10-cent pill doesn’t kill pain as well as a $2.50 pill, even when they are identical placebos, according to a provocative study by Dan Ariely, a behavioral economist at Duke University. …Ariely and a team of collaborators at the Massachusetts Institute of Technology used a standard protocol for administering light electric shock to participants’ wrists to measure their subjective rating of pain. The 82 study subjects were tested before getting the placebo and after. Half the participants were given a brochure describing the pill as a newly-approved pain-killer which cost $2.50 per dose and half were given a brochure describing it as marked down to 10 cents, without saying why. 
+In the full-price group, 85 percent of subjects experienced a reduction in pain after taking the placebo. In the low-price group, 61 percent said the pain was less.
+
+A third item: 
+
+ A GERMAN art expert was fooled into believing a painting done by a chimpanzee was the work of a master. The director of the State Art Museum of Moritzburg in Saxony-Anhalt, Katja Schneider, suggested the painting was by the Guggenheim Prize-winning artist Ernst Wilhelm Nay. "It looks like an Ernst Wilhelm Nay. He was famous for using such blotches of colour," Dr Schneider confidently asserted. 
+The canvas was actually the work of Banghi, a 31-year-old female chimp at the local zoo.
+
+This same sort of misjudgment surely applies to the world of ideas. I wonder how often academics mistakenly but sincerely believe that Professor So-and-so’s idea is brilliant, even though they would have found the exact same idea deficient or perhaps just average if it were put forth by anyone else.  
+To avoid this bias, you should try to be skeptical towards anything that you know you’re supposed to admire — whether it be a TV show or movie that everyone praises, the professors whose research is “hot” in any given field, etc.  
+On the other hand, that does not mean that you should be contrarian for its own sake; the thing that everyone values may really be better. Put it this way: On a scale of 1 to 100, with 1 representing inventors of perpetual motion and 100 representing Frank Ramsey or John von Neumann, let’s say that the average “idea” in an academic field is at a value of 30, and that the ideas in the top quintile of highly-regardedness (to coin a word) average a value of 60.*  So you shouldn’t actually reject an idea just for being highly-regarded.  But suppose that, because of the herd effect described above, the most highly-regarded ideas are treated as if they have a value of 85 or 90 — far above their real value. What I’m saying is to be skeptical and ask whether an idea is really as insightful or worthy as is reputed, or whether it deserves to be taken down a notch to its real value (which may still be above average).
+* These figures have a margin of error of plus-or-minus 2 points, by the way. 
+
+
+title: Overvaluing Ideas
+
+date: March 5, 2008 1:00 pm
+

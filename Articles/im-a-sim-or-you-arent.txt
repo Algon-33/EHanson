@@ -1,0 +1,32 @@
+author: Robin Hanson
+
+text: 
+The simulation argument says that if our future descendants create enough (detailed) computer simulations of their ancestors, then you and I are likely to actually be such simulations living in a simulated world, instead of being the year 2011 humans we think we are. My simple variation on this argument concludes that either 1) ordinary people are pretty surely not simulations, or 2) very interesting people pretty surely are simulations. Add one plausible assumption, and both of these claims become true!
+Now for details. Here is a standard simulation argument:
+The [number] of all observers in the universe with human-type experiences that are living in [entire-history] computer simulations [is p*N*H.] … Here p is the fraction of all human-level technological civilizations that manage to reach a posthuman stage, N is the average number of times a posthuman civilization runs a simulation of its entire ancestral history, and H is the average number of individuals that have lived in a civilization before it reached a posthuman stage. (more)
+So if p*N > 1, then most human-type experiences are actually ancestor simulations, and hence your experience as a human is likely to actually be a simulation experience. Thus we might conclude:
+At least one of three propositions is true:
+
+[p << 1] The human species is very likely to go extinct before reaching a posthuman stage
+[N << 1] The fraction of posthuman civilizations that are interested in running a  significant number of ancestor simulations is extremely small.
+[p*N >> 1] We are almost certainly living in a computer simulation. (more)
+
+However, if we call M the average number of human ancestors simulated by each posthuman civilization, then I expect  M >> N*H. That is, I expect far more simulated humans in general than those specifically in “a simulation of [the] entire ancestral history.” Today, small-scale coarse simulations are far cheaper than large-scale detailed simulations, and so we run far more of the first type than the second. I expect the same to hold for posthuman simulations of humans – most simulation resources will be allocated to simulations far smaller than an entire human history, and so most simulated humans would be found in such smaller simulations.
+Furthermore I expect simulations to be quite unequal in who they simulate in great detail – pivotal “interesting” folks will be simulated in full detail far more often than ordinary folks. In fact, I’d guess they’d be simulated over a million times more often. Thus from the point of view of a very interesting person, the chances that that person is in a simulation should be more than a million times the chances from the point of view of an ordinary person. From this we can conclude that either:
+
+Ordinary people can be be pretty sure that they are not in a simulation, or
+Very interesting people can be pretty sure that they are in a simulation.
+
+If, for the purpose of a blog post dramatic title, we presume (probably incorrectly) that I’m a very interesting person, and that you the reader are an ordinary person, then the conclusion becomes: I’m a sim, or you are not.
+Furthermore, both of these statements would apply if:
+
+p*M, the expected number of simulated humans per human civilization, is within a factor F (e.g., a thousand) of the number of actual humans H, and if
+interesting folks are simulated more than F2 as often as ordinary folks.
+
+So unless p*M is so different from H that everyone can be pretty sure they are a simulation, or pretty sure that they are not, ordinary people can be sure they are not while very interesting people can be sure they are.
+
+
+title: I’m A Sim, Or You Aren’t
+
+date: June 18, 2011 10:00 am
+

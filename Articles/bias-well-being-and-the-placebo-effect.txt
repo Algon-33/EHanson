@@ -1,0 +1,46 @@
+author: Guy Kahane
+
+text: 
+In their classic 1988 paper ‘Illusion and Well-Being’, Taylor and Brown surveyed  a wide range of experiments in social psychology that suggest that self-deceptive illusions are not only the norm, but also seem to promote well-being—only depressive people were largely free of such self-deception (let’s set aside the question of causation vs. correlation). 
+          
+
+
+A recent post, and several comments, have considered ways in which bias may sometimes actually promote true belief in the long run. But cognitive biases may be good for us in a more straightforward way, by making us happier. Unless possession of true beliefs is intrinsically valuable, why should we want to have truer beliefs if this will only make us less happy? 
+  
+These findings raise big questions. In this post I want to consider only a specific example, that of the placebo effect. There is now plenty of evidence that the placebo effect is not only very real but also powerful. If you can get yourself to believe that something would cause your pain to be better, your pain is likely to get better. For millennia the placebo effect was virtually the only way people could deal with suffering and many forms of illness. But there is something profoundly unfair about the placebo effect. It rewards credulity and superstition. To enjoy it, you must get yourself to believe falsely, and without justification, that various remedies or rituals will make you feel better. Those of us who are naturally more skeptical, more on the alert for error and bias, are not likely to do this very well. Being epistemically conscientious will make us suffer more. This seems unfair.
+          
+
+
+
+I’ll admit that I would prefer not to have to accept this conclusion, but the following ways of resisting it are the best I could come up with:
+          
+
+
+
+(1) We live in a world were we can deal with pain and suffering well enough without needing the placebo effect. This, I think, is only partly true.
+          
+
+
+
+(2) The credulous who benefit from the placebo effect also tend to suffer from the nocebo effect, so this benefit balances out. There is, however, no evidence for this.
+          
+
+
+
+(3) The epistemically conscientious are also pretty good at self-deception. They simply have more sophisticated ways of getting themselves to believe that things are going to be just fine. This, again, seems to me only partly true when it comes to the placebo effect.
+          
+
+
+
+(4) Credulity is a general epistemic vice. You can’t decide to be credulous only when this has beneficial effects. So the benefits of the placebo effect (and parallel psychological mechanisms) is greatly outweighed by the many negative consequences of sloppy belief formation. 
+          
+
+
+
+I would go for (4). But it raises an interesting question. To the extent that there are areas where bias is beneficial, is it possible to correct bias selectively?  
+
+
+title: Bias, Well-Being, and the Placebo Effect
+
+date: December 2, 2006 10:25 am
+

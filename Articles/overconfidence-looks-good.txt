@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Overconfidence is a Social Signaling Bias:
+We test three different theories about observed relative overconfidence. The first theory notes that simple statistical comparisons are compatible with a Bayesian model of updating from a common prior and truthful statements. … Data on 1,016 individuals’ relative ability judgments about two cognitive tests rejects the Bayesian model. The second theory suggests that self-image concerns asymmetrically affect the choice to get new information about one’s abilities. … We test an important specific prediction of these models: individuals with a higher belief will be less likely to search for further information about their skill. … Our data also reject this prediction. The third theory is that overconfidence is induced by the desire to send positive signals to others about one’s own skill; this suggests either a bias in judgment, strategic lying, or both. We provide evidence that personality traits strongly affect relative ability judgments in a pattern that is consistent with this third theory. Our results together suggest that overconfidence in statements is most likely to be induced by social concerns than by either of the other two factors.
+This of course means that you should expect to risk looking less impressive to others if you correct for your overconfidence.
+
+
+title: Overconfidence Looks Good
+
+date: April 6, 2010 6:35 pm
+

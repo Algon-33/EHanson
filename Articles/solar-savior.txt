@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Averaged over 30 years, the trend is for an annual 7 percent reduction in the dollars per watt of solar photovoltaic cells. …   In the lab, researchers have achieved solar efficiencies of as high as 41 percent, an unheard of efficiency 30 years ago.  Inexpensive thin-film methods have achieved laboratory efficiencies as high as 20 percent, still twice as high as most of the solar systems in deployment today. … Historically, the cost of PV modules (what we’ve been using above) is about half the total installed cost of systems. The rest of the cost is installation.  Fortunately, installation costs have also dropped at a similar pace to module costs.  …
+The cost of solar, in the average location in the U.S., will cross the current average retail electricity price of 12 cents per kilowatt hour in around 2020, or 9 years from now.  In fact, given that retail electricity prices are currently rising by a few percent per year, prices will probably cross earlier, around 2018 for the country as a whole, and as early as 2015 for the sunniest parts of America.  10 years later, in 2030, solar electricity is likely to cost half what coal electricity does today. (more)
+This should be fantastic news for folks worried about carbon emissions or running out of oil. After all, projecting that a thirty year trend will continue for another ten years seems pretty safe. This isn’t some mere speculation. Why don’t we hear more about this?  Do people not like hearing good news about the future?
+
+
+title: Solar Savior
+
+date: March 22, 2011 9:00 am
+

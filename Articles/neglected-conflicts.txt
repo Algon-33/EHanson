@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+We tend to neglect our advisors’ conflicts of interest, especially in immediate face-to-face interactions, and especially when such conflicts are disclosed to us:
+Certain study participants were required to make an estimate — evaluating the prices of houses, for instance. Meanwhile, other participants were … given additional information with which to advise the estimators. When these experts were put in a conflicted situation — they were paid according to how high the estimator guessed — they gave worse advice than if they were paid according to the accuracy of the estimate. … When the researchers required the experts to disclose this conflict to the people they were advising. … It actually caused them to inflate their numbers even more.
+Experiments focusing on doctor-patient interactions, in which a doctor prescribes a medication but discloses a financial interest in the company that makes the drug. As expected, most people said such a disclosure would decrease their trust in the advice. But in practice, oddly enough, people were actually more likely to comply with the advice when the doctor’s bias was disclosed. … [Perhaps] people feel an increased pressure to take the advice to avoid insinuating that they distrust their doctor. ..
+People who are prescribed medicines by personal doctors are less likely to recognize the potential dangers of their doctors’ conflict of interest. … People were more likely to discount biased advice from doctors if disclosures were made by a third party, if they were not made face-to-face, or if patients had a “cooling off” period to reconsider their decisions. … Even if these fixes make disclosure more effective, … transparency is not a blanket solution to problems of corruption. “Regulators should be looking harder at eliminating conflicts.” (more)
+As with other products, we may care more about affiliating well with our advisors, especially high status ones, than we do about getting good deals from them.
+Yes, regulators who want to help should push to better align advisor interests. But regulators and the politicians to whom they report also have conflicts of interest, and the above studies suggests that voters will also neglect such conflicts. Also, in a democracy regulators hands will be tied by voter perceptions of where the problems lie.  For example, since voters are more concerned about for-profit insurance company conflicts than about high status doctor conflicts, voters push regulators to limit insurer abilities to counter doctor conflicts.  And money-averse voters would probably oppose more extreme ways to use money to align doctor incentives more with patients.
+
+
+title: Neglected Conflicts
+
+date: May 18, 2011 8:00 am
+

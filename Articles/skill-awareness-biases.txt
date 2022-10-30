@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+I’ve posted before on
+“Unskilled and Unaware of It“. … everyone’s favorite theory of those they disagree with, that they are hopelessly confused idiots unable to see they are idiots; no point in listening to or reasoning with such fools.
+Here is a much better study; it goes a long way to disentangling the effects:
+We study … 656 undergraduate students, tracking the evolution of their beliefs about their own relative performance on an IQ test as they receive noisy feedback from a known data-generating process. … Subjects (1) place approximately full weight on their priors, but (2) are asymmetric, over-weighting positive feedback relative to negative, and (3) conservative, updating too little in response to both positive and negative signals. These biases are substantially less pronounced in a placebo experiment where ego is not at stake. We also find that (4) a substantial portion of subjects are averse to receiving information about their ability, and that (5) less confident subjects are causally more likely to be averse. We unify these phenomena by showing that they all arise naturally in a simple model of optimally biased Bayesian information processing. (more; HT Dan Houser)
+
+
+title: Skill Awareness Biases
+
+date: May 19, 2011 4:00 pm
+

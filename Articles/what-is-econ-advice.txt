@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+Saturday I said:
+I see two rather different ways to think about what economists do when we recommend policies:
+
+Morals – We enter into a larger conversation about what actions are right. … While for our ancestors such discussion was often a prelude to concrete group action, today we more often argue about morals without such ways to coordinate in mind. …
+Deals – … Conflicts … can be resolved at least in part via deals, both implicit and explicit. Finding and making such deals can be aided by neutral outside advisors, … Economists have a reputation for developing analytical tools useful for making suggestions about parts of deals. …
+
+Academics who lean toward a sci/tech style tend to favor a deals view, while those who lean toward a humanities style tend to favor a morals view.
+Bryan Caplan responded:
+Fact #1: Robin has spent decades proposing unconventional policy deals.  His track record is an abysmal failure. … Zero Hansonian deals have been embraced by any normal person. His proposals appeal almost exclusively to fans of economics, libertarianism, futurism, and science fiction. … Most human beings are far too conventional and stubborn to even consider Robin’s suggestions.  And instead of trying to overcome this hurdle, Robin habitually raises the hurdle by criticizing conventional attitudes. …
+Fact #2: People often have a very good reason to ignore deals: They have better ways to get what they want.  Such as: persuasion, moralizing, trickery, and bullying.
+Fact #3: The effectiveness of deal-making varies widely by person. …
+Fact #4: The effectiveness of deal-making varies widely by situation.
+I’m happy to admit that deal-making isn’t the only way we get what we want, and that its effectiveness varies by person and situation. Though I do think we make a lot of implicit deals. For example, asking “I’m in a hurry; would you mind if I cut in line” is offering supplication, and an owing of return favors, in trade for a favor.
+I’m also happy to admit that much of what I do intellectually isn’t very directly targeted at promoting specific deals. Though neither is it very directly targeted at labeling specific acts as moral or immoral. To the extend that I do either of these things, I do them indirectly, which makes my acts harder to categorize. My work in prediction markets, however, has led to some voluntary mutually-beneficial changes in corporate practices, and I hope for lots more.
+Imagine that economists were surveyed and had to choose how they’d best like to describe economic policy recommendations, as:
+
+Morals – Arguing for the morality of actions,
+Deals – Helping groups find and make deals, or
+Showing Off – Academics do hard things in order to be certified by other academics as impressive, so that students, patrons, and readers can gain status by affiliating with them. Economic policy analysis is such a hard thing.
+
+I’d bet that at least 25% would choose option #2, and even more among those whose style leans sci/tech. And #2 seems to me a better public face for economists to present to the world – economists will prosper more overall if they say this is what they are doing.
+
+
+title: What Is Econ Advice?
+
+date: February 6, 2012 2:35 pm
+

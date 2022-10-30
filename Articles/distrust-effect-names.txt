@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+From a recent New Scientist: 
+
+Pity poor Johann Loschmidt, an Austrian scientist who calculated in 1865 that the number of molecules in a mole of gas is 6 × 10^23. This figure will be familiar to anyone interested in chemistry as Avogadro’s number.
+  And yet the Italian chemist Amedeo Avogadro never calculated it. His name became attached to the number some years after Loschmidt’s death, when a few chemists campaigned to name it in Avogadro’s honour. The history of science is littered with such injustices over the credit taken for discoveries, so much so that historians of science have taken to categorising the slights.
+
+  
+
+ The case of Loschmidt is a prime example of the zeroth theorem, which states that a discovery, rule or insight named after an individual often does not originate with that person. Others include the Dirac delta function, a mathematical trick used by engineer Oliver Heaviside 30 years before the English physicist Paul Dirac; the Lorentz gauge condition, an electromagnetic effect discovered by Ludvig Lorenz almost 40 years before Hendrik Lorentz published it in 1904; and Olber’s paradox, that the night sky is dark even though the endless succession of stars in an infinite universe should fill the entire sky. German astronomer Heinrich Olber discussed it in 1823, but it was well known to Johannes Kepler more than 200 years before.
+ Another class of injustice results from the Matthew effect, by which eminent scientists get more credit for discoveries than lesser-known ones. The name comes from a passage in the Bible from the gospel according to Matthew: "For unto every one that hath shall be given… but from him that hath not shall be taken away." 
+Consider, for instance, the career of Albert Schatz, who isolated the antibiotic streptomycin in 1943 only to see his supervisor Selman Waksman win a Nobel prize for the discovery in 1952. The effect may also have been at work when the British astronomer Jocelyn Bell Burnell discovered pulsars as a postgraduate in the 1960s. It was her supervisor, Anthony Hewish, who received the controversial Nobel prize in 1974. Bell’s case might be more accurately attributed to the Matilda effect, however, which describes how the work of women in science is often neglected (named after 19th-century feminist Matilda Gage).
+
+
+
+title: Distrust Effect Names
+
+date: October 23, 2007 6:00 am
+

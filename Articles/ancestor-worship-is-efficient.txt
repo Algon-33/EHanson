@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+Maybe not “worship” exactly, but at least great respect and deference.  By “efficient” I mean that it increases economists’ standard “cost-benefit” concept of welfare.  That is: as usually estimated, the benefits of deferring greatly to distant ancestors far outweigh its costs.  And while this does suggest that we should defer more to ancestors, it also shows just how much distorted prices can break economists’ favorite tools.
+The economic welfare of a proposed change is the benefits minus the costs of that change, translated into cash terms, though of course changes don’t have to actually be cash transactions.  When available, market prices are commonly accepted as estimates of the benefits and costs of things gained and lost.  Economic welfare is a powerful heuristic for finding win-win deals: in many kinds of situations, the strategy of consistently making the changes that increase economic welfare tends to be usefully close to an actual win-win deal that gives most everyone more of what they want.
+The efficient ancestor worship problem arises from two key facts:
+
+ Economic welfare cares not about giving people experiences but about satisfying their preferences, i.e., giving them what they want.  And even long dead people still have (or “had” if you prefer) preferences that we could now better satisfy.  If we do something a dead person would have wanted, that counts as a benefit.
+ At standard market interest rates, the magic of compound interest quickly gives astronomical priority to the preferences of folks who lived long ago.  For example, in historical records near risk-free interest rates (e.g., land rents over prices) consistently exceeded 9%/yr from 3000BC to 1350AD, for a total factor of over 10162.
+
+Together, these facts suggest we would increase economic welfare if we spent less than 10162 dollars today to do anything for which a 3000BC ancestor would have been willing to pay a dollar (equivalent in their currency).
+Clearly we would quickly bankrupt ourselves if we tried to implement such “efficient” changes, and doing so would not be remotely close to a win-win deal with our ancestors.  What goes wrong here?
+Our contract law system refuses to enforce many win-win deals between distant generations.  Many folks would be willing to create trusts that accumulated funds long after their death and then paid distant descendants (perhaps indirectly) to do things like remember their ancestor’s name, pray to his gods, etc.  Unless stolen, such funds would eventually come to dominate the world economy and dramatically lower interest rates.  With lower interest rates, economic efficiency would count the preferences of distant ancestors as far less valuable, and as a bonus businesses and governments would have far stronger incentives to attend to the interests of distant future folks, such as via global warming policies.
+But we in fact refuse to enforce a great many such long term deals.  For example:
+The rule against perpetuities at common law … prevents a person from putting qualifications and criteria in his will that will continue to control or affect the distribution of assets long after he has died, a concept often referred to as control by the “dead hand.”
+Our unthinkingly repugnance at being controlled by the dead, and our eagerness to grab their resources, prevents us from enforcing long-term win-win deals.  This refusal to enforce deals increases interest rates, which distorts all our trade-offs across time, bringing economic welfare estimates into stark conflict with intuitive moral judgments about time trades (as in global warming), which then encourages people to turn to non-economic frameworks for policy analysis.
+When policy distorts prices, it distorts calculation of economic welfare, which encourages people to ignore economic welfare when choosing policy, which reduces their reluctance to intervene to further distort prices, which leads to a sad spiral of increasing confusion.  Please, let’s enforce long-term win-win deals!
+Added: A fascinating alternate history might start from a year 1300 English legal precedent enabling flexible growing long term trusts.  By 1800 early trusts grew a billion-fold, and trusts dominate the economy.  What else changed?!
+
+
+title: Ancestor Worship is Efficient
+
+date: March 14, 2010 10:55 am
+

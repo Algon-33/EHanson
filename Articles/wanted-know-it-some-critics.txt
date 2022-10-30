@@ -1,0 +1,40 @@
+author: Robin Hanson
+
+text: 
+Last November I said I wanted to write a book on a complex subject, but found it hard to simultaneously work out what I think on the subject, and to also write so as to engage a wide audience well. I wondered why book authors don’t do this in two steps:
+First I’d write a pre-book, which states my main claims and arguments directly and clearly, using expert language, for an expert audience. I’d then circulate that pre-book privately among experts and useful thinkers of various sorts, seeking criticism of my arguments. Then using their feedback, I’d revise my claims and arguments, and write an engaging accessible book that can be circulated widely. (more)
+Well even though few ever do this, I decided to try it anyway. And I now have a 62,000 word book draft, on the subject of em econ (see posts,Tedx video), i.e., on the social implications of a world dominated by brain-emulation-based AI. This draft isn’t especially fun or readable, or engaging to a wide audience. But it isn’t terrible, and seems a sufficient basis for eliciting thoughtful criticism.
+I’ve asked around within my private social network, gotten some good feedback, and changed my draft lots in response. But I’d feel irresponsible if didn’t seek more critics. So let me put it out there: who wants to read and comment on my book draft?
+Now I don’t want to post the draft publicly; I might want to sell it as a separate book later. So I don’t want to just give it to anyone who asks; I need to set a non-trivial standard. And the standard I’ve picked is: you should know something about something.
+My book is on how the world changes if a certain tech gets cheap: computer-based emulations of human brains. And my analysis suggests that this changes many aspects of society. To give you some idea of relevant topics, I’ve included a current book outline below the fold.
+So to be a useful critic, you should know something about brains, computers, business, or some other important part of our social world. You don’t need a Ph.D. of course; most knowledge in our world isn’t held by Ph.D.s. Years of experience can work wonders. But on the subjects you understand, you should know lots more than does a typical high school graduate on a typical subject, i.e., almost nothing. (And of course you also need a minimal ability to generalize what you know to new situations, and to express what you know somehow to me.)
+If you are interested and think you qualify, email me at: rhanson@gmu.edu. Here is that current outline:
+
+Contents
+1. Start: Preface, Contents, Introduction,
+2. Summary
+3. Prelude: Motivation, Method, Biases,
+4. Modes: Precedents, Factors, Limits,
+5. Mechanics: Emulations, Opacity, Hardware, Security,
+6. Physics: Time, Space, Reversing,
+7. Existence: Virtuality, Fakery, Copying,
+8. Farewells: Fragility, Retirement, Death,
+9. Economics: Work, Selection, Enough, Competition, Spurs,
+10. Business: Institutions, Growth, Finance,
+11. Careers: Careers, Preparation,
+12. Cities: Cities, Climate, Speeds,
+13. Extremes: Transport, Inequality, War,
+14. Groups: Clans, Nepotism, Firms, Teams,
+15. Law: Governance, Law, Mating,
+16. Identity: Signaling, Identity, Ritual,
+17. Culture: Conversation, Profanity, Culture, Stories
+18. Humans: Humans, Unhumans, Intelligence, Psychology,
+19. Variations: Alternatives, Transition,
+20. Policy: Evaluation, Policy, Success
+21. Finale: Conclusion, References, Thanks
+
+
+title: Wanted: Know-It-Some Critics
+
+date: September 21, 2013 8:45 pm
+

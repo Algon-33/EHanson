@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+Imagine a group with a social norm against spitting on the sidewalk.  If this group is very small, then everyone should know everyone well, and any one act of spitting will have only a small influence on how people think about the spitting person. A consistent habit of spitting might cost you, but any one spit would not.  If the group is very large, there is also little risk that any one spitting will result in an informal social sanction. You’ll probably never meet the strangers who see it again, and they probably don’t know each other, so why should anyone make a fuss?  At an intermediate scale, however, spitters should fear that any one act of spitting will produce a widespread rumor about this act, making folks who know them only moderately avoid them after hearing this rumor.  Why deal with someone if you have other options and the main thing you know about him or her is negative?
+In general, social norms are enforced via two key informal mechanisms:
+
+When norms are usually followed, rare violators are often undesirable in objective ways. They may lack intelligence or self-control, for example. So people avoid violating such norms to avoid sending bad signals about themselves.
+Meta-norms often require observers of norm violations to punish violators, such as by refusing to associate with them.  This includes observers of a failure to punish a failure to punish, and so on.
+
+These two mechanisms play out differently on three different social scales:
+
+Foragers only interacted with a hundred or so others, all of whom they know in great detail.
+Farmers lived in larger social networks of roughly thousands of folks near enough by to matter. This is small enough for rumors to tell most everyone about big norm violations, but too big for everyone to know everyone well.
+Today we live in communities so big that, outside of smaller networks of neighbors or coworkers, rumors only reliably tell everyone about extreme norm violations.  Informal rumors will not tell most people you deal with about your norm violations.
+
+These two norm enforcers seem to work best at intermediate social scales. Signaling discourages norm violations best when people that matter tend to hear about norm violations, but know little else about violators.  At a smaller scale one norm violation will add only a small amount to what observers know about that person, and at a larger scale observers will probably not have heard about the norm violation.  But inbetween, observers will prefer to avoid someone when they know little else besides one bad sign.
+Meta-norms to punish non-punishers also work best at an intermediate social scale.  At a very small scale, when few observers see each violation, observers can coordinate to avoid the meta-norm of punishment; “let’s not and say we did.” Punishment can be expensive, after all.  At a very large scale, you many care little about the opinions of those who happen to see you fail to punish a non-punisher.  But at intermediate scales, a single bad signal can induce a strong shunning reaction.  Why take a risk on a near stranger with a big negative strike against them?
+The fact that norms are enforced best at an intermediate social density helps explain why higher-density farmers had stronger social norms than lower-density foragers, and yet even higher-density modern folk have reverted back to a weaker forager-like level of norm enforcement.
+
+
+title: Why Towns Conform
+
+date: October 6, 2010 5:00 pm
+

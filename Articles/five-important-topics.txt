@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Some topics are especially important. You might think that on such topics we’d try extra hard to be more accurate, both individually and institutionally. Alas, we are also more likely to self-deceive on them, both individually and institutionally.
+So on such topics you should less trust both your intuition and the usual institutions. Be more skeptical of all sources, and more eager to find especially reliable sources. At least if you were trying to be accurate. Which you probably aren’t.
+What are these most important topics? Simple biology predicts (at least) the following five, ordered from the top down by the fraction of species for which they are important:
+Death – All individuals of all species die, which is a terribly important event. As La Rochefoucauld said “Neither the sun nor death can be looked at with a steady eye.” For poor humans food, water, shelter, and many other topics are about death.
+Sex/Fertility – All species reproduce, and most do this via sex. For sexual species, sex is as important as death, and easier to deceive associates about.
+Status – Many animal species maintain status hierarchies, and in such species it is important both to rise in status, and to judge status well. We self-deceive on our own suitability for status, and on how high status folks differ.
+Politics – Primate social groups often split into conflicting coalitions. In that case it is important to be an attractive coalition partner, and to judge partners well. We self-deceive on how our coalitions differ, and on other topics to show loyalty to our faction.
+Honesty – Only a species that can communicate can care about honesty (I.e., accuracy), but humans communicate by far the most. And if we are dishonest on important topics, then we must also be dishonest on the topic of our honesty. Yet our reputations for honesty are important to us.
+Note that these are also topics on which many seem quite emotionally sensitive, and where norms, laws, and retribution often limit who can say what. And even when people claim to not care about such things, those meta opinions seems to be very important to them.
+Note also that many other important topics can be seem as combinations of the above. For example, class is inherited (i.e., fertility driven) status, medicine is death managed by status, and males are the sex designed to die more easily.
+I’m painfully aware of how sensitive is the topic of sex/fertility, as I’ve been partially cancelled on the basis of a few brief remarks on that. But if this is a topic on which accuracy is harder, shouldn’t I be more reluctant to have opinions on it?
+Yes, but the main thing I said that bothered people was to suggest that sex/fertility might be important to big groups of people. (To husbands who raise kids not theirs, and to people who get zero sex.) And one thing it seems we can be especially confident about these topics is that they are probably important to many people. We are evolved talking social creatures, and these topics are important to the survival and selection of such creatures. Thus I defended a claim about which we can all be especially sure, and doing that apparently induces an unusually strong retribution.
+
+
+title: Five Important Topics
+
+date: November 23, 2020 1:40 pm
+

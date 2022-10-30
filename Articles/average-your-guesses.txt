@@ -1,0 +1,21 @@
+author: Hal Finney
+
+text: 
+What percentage of the world’s airports are in the USA? (Answer below the fold.)
+Take a guess. Now, take another guess, different from the first one, and average them. According to research reported on in The Economist, averaging the 2nd guess improves accuracy by 6.5%. Better still, wait 3 weeks before taking a second guess. Averaging now improves accuracy by 16%. (Story found via Slashdot.)
+Here is the full report from Pschological Science.  Some excerpts:
+
+It is important that neither group knew they would be required to furnish a second guess, as this precluded subjects from misinterpreting their task as being to specify the two endpoints of a range.
+
+That could make it a little tricky to do this on your own; you have to try to make your first guess as good as you can, and then start fresh for the second guess.
+
+This benefit of averaging cannot be attributed to subjects’ finding more information between guesses, because second guesses were less accurate than first guesses
+
+Hmmm, how can second guesses be less accurate than first guesses, yet averaging them is more accurate than either? I suppose it means that the two guesses tend (on average) to bracket the correct answer, with the second guess farther away than the first one. That means that your first instinct to improve your guess is more likely than not to be in the correct direction, but go too far. Knowing this might allow you to improve your guesses even more.
+Oh, and as for the airports? According to the CIA World Factbook, there are 14,947 airports in the U.S., and 49,024 in the whole world, so 30% of the world’s airports are in the U.S. For the record, I guessed 25%, and then 15%, so averaging didn’t help me. But in general this might be a useful trick to easily improve guesses.
+
+
+title: Average Your Guesses
+
+date: June 28, 2008 2:01 pm
+

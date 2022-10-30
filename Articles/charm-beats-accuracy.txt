@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Freakonomics:
+
+A seven-month study of weather forecasting at Kansas City television stations was conducted over 220 days … One [station manager] said, "There’s not an evaluation of accuracy in hiring meteorologists. Presentation takes precedence over accuracy." And when discussing accuracy (or the lack thereof) of a seven-day forecast, another station manager stated, "All viewers care about is the next day. Accuracy is not a big deal to viewers." … 
+  The data show that stations are so consumed with ratings that accuracy in weather predictions takes an irrelevant back seat to snappy patter and charm. When directly asked if accuracy mattered in forecasting, every station manager and meteorologist said it did. But when asked what steps they had taken to measure and ensure accuracy, they were without answers. 
+  No meteorologist or television station kept records of what they predicted, nor compared their predictions to actual results over a long term. No meteorologist posts their accuracy statistics on their résumé. No station managers use accuracy statistics in the hiring or evaluation of their meteorologists.  Instead, the focus is on charm, charisma, and presentation. Their words say they care about accuracy, but their actions say they do not.
+
+Why should we expect this to be any better for other kinds of news?  If viewers can watch the same person day after day making predictions about something they care about and personally verify day after day, and still not care much about accuracy relative to looks and charm, how much can we really expect people to care about accuracy of news on unrest in Thailand, the credit crisis, or a new medical study?  Can we really expect people to track the accuracy of advice from their doctors, lawyers, or interior decorators, relative to their looks, charm, and general impressiveness?  
+
+
+title: Charm Beats Accuracy
+
+date: April 28, 2008 6:00 am
+

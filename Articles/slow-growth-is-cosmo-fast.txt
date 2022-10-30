@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+In my first response to Brin at Cato Unbound (and in one followup),  I agreed with him that we shouldn’t let each group decide if to yell to aliens. In my second response, I criticize Brin’s theory that the universe is silent because most alien civilizations fall into slowly-innovating “feudal” societies like those during the farmer era:
+We have so far had three eras of growth: forager, farmer, and industry. … In all three eras, growth was primarily caused by innovation. …
+A thousand doublings of the economy seems plenty to create a very advanced civilization. After all, that would give a factor of ten to the power of three hundred increase in economic capacity, and there are only roughly ten to the eighty atoms in the visible universe. Yes, at our current industry rates of growth, we’d produce that much growth in only fifteen thousand years, while at farmer rates of growth it would take a million years.
+But a million years is still only a small blip of cosmological time. It is even plausible for a civilization to reach very advanced levels while growing at the much slower forager rate. While a civilization growing at forager rates would take a quarter billion years to grow a thousand factors of two, the universe is thirteen billion years old, and our planet is four billion. So there has been plenty of time for very slow growing aliens to become very advanced. (more)
+
+
+title: “Slow” Growth Is Cosmo-Fast
+
+date: December 12, 2014 10:40 am
+

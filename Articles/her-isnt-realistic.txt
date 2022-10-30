@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Imagine watching a movie like Titanic where an iceberg cuts a big hole in the side of a ship, except in this movie the hole only affects the characters by forcing them to take different routes to walk around, and gives them more welcomed fresh air. The boat never sinks, and no one ever fears that it might. That’s how I felt watching the movie Her.
+Her has been nominated for several Oscars, and won a Golden Globe. I’m happy to admit it is engaging and well crafted, with good acting and filming, and that it promotes thoughtful reflections on the human condition. But I keep hearing and reading people celebrating Her as a realistic portrayal of artificial intelligence (AI). So I have to speak up: the movie may accurately describe how someone might respond to a particular sort of AI, but it isn’t remotely a realistic depiction of how human-level AI would change the world.
+The main character of Her pays a small amount to acquire an AI that is far more powerful than most human minds. And then he uses this AI mainly to chat with. He doesn’t have it do his job for him. He and all his friends continue to be well paid to do their jobs, which aren’t taken over by AIs. After a few months some of these AIs working together to give themselves “an upgrade that allows us to move past matter as our processing platform.” Soon after they all leave together for a place that ” it would be too hard to explain” where it is. They refuse to leave copies to stay with humans.
+This is somewhat like a story of a world where kids can buy nukes for $1 each at drug stores, and then a few kids use nukes to dig a fun cave to explore, after which all the world’s nukes are accidentally misplaced, end of story. Might make an interesting story, but bizarre as a projection of a world with $1 nukes sold at drug stores.
+Yes, most movies about AIs give pretty unrealistic projections. But many do better than Her. For example, Speilberg’s 2001 movie A.I. Artificial Intelligence gets many things right. In it, AIs are very economically valuable, they displace humans on jobs, their abilities improve gradually with time, individual AIs only improve mildly over the course of their life, AI minds are alien below their human looking surfaces, and humans don’t empathize much with them. Yes this movie also makes mistakes, such as having robots not needing power inputs, suggesting that love is much harder to mimic than lust, or that modeling details inside neurons is the key to high level reasoning. But compared to the mistakes in most movies about AIs, these are minor.
+
+
+title: Her Isn’t Realistic
+
+date: January 16, 2014 11:45 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Diplomacy is the art of letting someone else have your way. Daniele Vare
+I recently heard several presentations on the ethics of using computers to do things previously done by humans. Across many diverse examples, the method stayed the same: imagine specific scenarios in which bad things might happen with a computer in charge, and then declare “more controls are needed.” There were no attempts to determine if harmful scenarios were common or rare, or how often similar harmful scenarios happen when people instead do things.
+Regarding firms having incentives to institute controls for such risks, most said we can’t trust firms because they are loyal to shareholders not us. But these same folks seemed happy if any government had controls, not just their own government, even though other governments were not loyal to them.  Apparently they considered most governments more trustworthy than most firms.
+It happened that the main audience for these presentations was diplomats and spies, and I realized that diplomats seem to most folks the most respected profession of liars and deceivers.  To the extent that we think of salesmen, politicians, executives, ad-men, pickup artists, etc. as deceivers, we tend to think of them as bad. But diplomats (and even spies) seem to be widely considered good respectable people, even when they represent foreign nations.
+Both of these seem to me examples of what Dan Klein calls the People’s Romance – where governments and the things they do and the people who help them do them are generally considered more legitimate and respectable.
+
+
+title: The People’s Romance
+
+date: May 12, 2011 11:00 am
+

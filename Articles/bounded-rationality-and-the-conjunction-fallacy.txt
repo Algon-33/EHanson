@@ -1,0 +1,25 @@
+author: Toby Ord
+
+text: 
+There is at least one case in which an apparent instance of the conjunction fallacy is not fallacious. It happens when we consider bounded rational agents rather than the more idealized unbounded rational agents typical of Bayesianism. Bounded rationality assumes that there may be some limits on the cognitive powers of the agent and looks at a concept of rationality within these constraints. In many ways it is more relevant to human decision making than unbounded rationality, though it is much less theoretically developed. In certain cases, it is (boundedly) rational to assign a higher probability to a stronger claim than one would assign to a weaker version, if the stronger claim helps to explain why the weaker one might be true (and some other conditions are met). Consider this test question (try it for yourself, with Group 1 first):
+Group 1: What is your degree of belief in the following:
+a) Cats can’t see better than humans in complete darkness
+Now stop and think of your degree of belief, then go on
+
+Group 2: What is your degree of belief in the following:
+b) Cats can’t see better than humans in complete darkness and no animals can see in complete darkness.
+  
+[We shall assume that ‘see’ is used in its normal sense of forming world-representations based on photon detection in an eye. Bats don’t see with their ears.]
+I imagine some reader of this weblog would have put a low number for the first and a high one for the second, even if betting were involved. Moreover, they wouldn’t have been biased, merely not so thoughtful. The people who ascribed low probabilities to (a) did so because they hadn’t considered that it was complete darkness, and the second clause in (b) serves to remind them of that. Most people already knew the content of the second clause ‘that no animals can see in complete darkness’ but had forgotten it, or didn’t see that it was salient. Alternatively, they might not have not considered it at all, but quickly see that they already had enough background information to determine that it is true and thus that the first clause is also true.
+A similar thing could be happening in the Russian diplomacy case. The statements were shown to different people and they might not have been able to easily see how diplomatic relations could be suspended unless the question of the invasion of Poland is brought up when they think ‘oh yes, that would do it, and is fairly probable now that I come to think of it’. No fallacious reasoning is required for the group with the compound case to rank it more probable. Instead it requires that they were not unboundedly rational (ie not super geniuses who know all mathematical theorems, never forget a fact, always see how every piece of information is salient etc). It also requires a second clause that is somewhat likely, whose truth would increase the likelihood of the first clause, and which was not obvious to bring to mind. In short, it requires that the second clause is something like a mathematical Lemma leading to the first. We could even imagine a case of:
+1) [unlikely-sounding-mathematical-claim]
+or
+2) [unlikely-sounding-mathematical-claim] and [lemma1] and [lemma2] and [lemma3]
+Where it is very difficult to see that the claim really is true unless informed of the direct line of proof via the lemmas. It would be a virtue of the human brain that we assign a higher probability to (2) than to (1).
+Note that the above argument only helps to explain the two-group cases (and even then, it may have been bias that produced the results). Of course if you have the opportunity to peruse both claims before assigning probabilities, you should assign at least as great a probability to the weaker one. The Linda example thus seems to be a pure example of the fallacy/bias and I’m not denying that the fallacy is made in various circumstances, just that it is illuminating to see how this strange effect can be (boundedly) rational in some cases.
+
+
+title: Bounded rationality and the conjunction fallacy
+
+date: September 22, 2007 6:00 am
+

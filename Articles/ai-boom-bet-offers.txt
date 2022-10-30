@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+A month ago I mentioned that lots of folks are now saying “this time is different” – we’ll soon see a big increase in jobs lost to automation, even though we’ve heard such warnings every few decades for centuries. Recently Elon Musk joined in:
+The risk of something seriously dangerous happening is in the five year timeframe … 10 years at most.
+If new software will soon let computers take over many more jobs, that should greatly increase the demand for such software. And it should greatly increase the demand for computer hardware, which is a strong complement to software. So we should see a big increase in the quantity of computer hardware purchased. The US BEA has been tracking the fraction of the US economy devoted to computer and electronics hardware. That fraction was 2.3% in 1997, 1.7% in 2003, and 1.58% in 2008, and 1.56% in 2012. I offer to bet that this number won’t rise above 5% by 2025. And I’ll give 20-1 odds! So far, I have no takers.
+The US BLS tracks the US labor share of income, which has fallen from 64% to 58% in the last decade, a clear deviation from prior trends. I don’t think this fall is mainly due to automation, and I think it may continue to fall for those other reasons. Even so, I think this figure rather unlikely to fall below 40% by 2025. So I bet Chris Hallquist at 12-1 odds against this (my $1200 to his $100).
+Yes it would be better to bet on software demand directly, and on world stats, not just US stats. But these stats seem hard to find.
+Added 3p: US CS/Eng college majors were: 6.5% in ’70, 9.7% in ’80, 9.6% in ’90, 9.4% in ’00, 7.9% in ’10. I’ll give 8-1 odds against > 15% by 2025. US CS majors were: 2.4K in ’70, 15K in ’80, 25K in ’90, 44K in ’00, 59K in ’03, 43K in ’10 (out of 1716K total grads). I’ll give 10-1 against > 200K by 2025.
+Added 9Dec: On twitter @harryh accepted my 20-1 bet for $50. And Sam beats my offer: 
+@GarettJones @robinhanson I offer to make the same bet as Robin at 30-1 odds (my $300 vs your $10 to keep things reasonable, up to 5 people)
+— Sam (@sflicht) December 10, 2014
+
+
+
+title: AI Boom Bet Offers
+
+date: December 6, 2014 11:45 am
+

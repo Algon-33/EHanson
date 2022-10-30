@@ -1,0 +1,16 @@
+author: James Miller
+
+text: 
+On this blog Nick Bostrom once asked “What practical things does debiassing enable us to do?”  Well, investors who overcome overconfidence bias and invest in index funds earn much higher average returns than investors who think they can beat the market by investing in actively managed mutual funds.
+Mutual funds buy stocks.  When you invest in a mutual fund you are essentially paying someone else to pick stocks for you.  For the purposes of this essay let’s consider mutual funds that buy stocks only in the S&P 500.  The S&P 500 consists of the 500 largest publicly traded U.S. stocks.
+Actively managed mutual funds invest in stocks that they think will do well.  In contrast, index funds buy all stocks in proportion to each stock’s relative total value.  (Most of my savings are in S&P 500 index funds.)  Index funds, therefore, always turn in an average performance while actively managed funds try to beat the market average.
+Actively managed mutual funds have higher fees than index funds because actively managed funds must pay people to research stocks.  Also, because they tend to engage in more trades, actively managed mutual funds are not as tax efficient as index funds.  Consequently, it’s only worth investing in an actively managed fund if you think the fund will significantly beat the market average.
+There is strong theoretical and empirical support for the theory that most actively managed mutual funds won’t beat the market average.  As reported in index fund pioneer John Bogle’s The Little Book of Common Sense Investing, after paying taxes and fees, someone who put $10,000 in an index fund in 1980 had $149,000 in 2005.  In contrast, someone who put this same $10,000 in an average actively managed mutual fund in 1980 had only $61,700 in 2005.  
+Each year some actively managed mutual funds do outperform the market.  Funds that do well one year are not, however, more likely than average to do well the next. 
+Despite the clear advantages of investing in index funds, Americans put more money in actively managed mutual funds than they do in index funds.  Part of the reason is because of overconfidence bias on the part of investors who irrationally think they can pick actively managed mutual funds that are more likely than average to beat the market.
+
+
+title: Investing In Index Funds:  A Tangible Reward of Overcoming Bias
+
+date: July 23, 2007 6:30 am
+

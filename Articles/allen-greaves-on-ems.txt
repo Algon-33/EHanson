@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Paul Allen and Mark Greaves say the “singularity” is over a century away:
+This prior need to understand the basic science of cognition is where the “singularity is near” arguments fail to persuade us. …. A fine-grained understanding of the neural structure of the brain … has not shown itself to be the kind of area in which we can make exponentially accelerating progress. … By the end of the century, we believe, we will still be wondering if the singularity is near.
+But what about the whole brain emulation argument that we can simulate a brain without understanding it? They say:
+For example, if we wanted to build software to simulate a bird’s ability to fly in various conditions, simply having a complete diagram of bird anatomy isn’t sufficient. To fully simulate the flight of an actual bird, we also need to know how everything functions together. In neuroscience, there is a parallel situation. Hundreds of attempts have been made (using many different organisms) to chain together simulations of different neurons along with their chemical environment. The uniform result of these attempts is that in order to create an adequate simulation of the real ongoing neural activity of an organism, you also need a vast amount of knowledge about the functional role that these neurons play, how their connection patterns evolve, how they are structured into groups to turn raw stimuli into information, and how neural information processing ultimately affects an organism’s behavior. Without this information, it has proven impossible to construct effective computer-based simulation models.
+This seems confused. No doubt a detailed enough emulation of bird body motions would in fact fly. It is true that a century ago our ability to create detailed bird body simulations was far less than our ability to infer abstract principles of flight. So we abstracted, and built planes, not bird emulations. But this hardly implies that brains must be understood abstractly before they can be emulated.
+Yes you need to understand a system well in order to know what details you can safely leave out and still achieve the same overall functions. But if you can afford to leave in all the details, you don’t have to understand what is safe to leave out. We apply this principle every time we play a song or movie. Since we know that a song or movie recording contains enough detail to reproduce a full sound or visual experience, we don’t have to understand a song or movie in order to be able to replay it for someone, and achieve most of the relevant artistic experience.
+Projecting trends like Moore’s law suggests that our ability to simulate low level brain processes should increase by fantastic factors within a century. These factors seem plenty sufficient to model entire brains at low levels of detail. So if we have not understood brains well enough by then to know what details we can safely leave out, we should be able to reproduce their behavior via brute-force simulation of lots of raw detail.
+Added 10p: As I explained in January:
+We should expect brain emulation to be feasible because brains function to process signals, and the decoupling of signal dimensions from other system dimensions is central to achieving the function of a signal processor.
+
+
+title: Allen & Greaves On Ems
+
+date: October 13, 2011 4:50 pm
+

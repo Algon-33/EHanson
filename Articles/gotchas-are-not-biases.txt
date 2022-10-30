@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+As a kid I had a trick nickel from Disneyland’s magic shop – you were supposed to ask someone to look at your nickel, then push the backside to squirt them.  Now we might wonder about someone who fell for this trick more than once, but surely it doesn’t make sense to call someone "biased" who fell for it once.  Even if you tried the trick nickel on a hundred people, and showed that over ninety percent of them got a wet eye, you wouldn’t have shown people are biased about wet nickels.  
+ I mention this because I get a similar uneasy feeling about many of the studies people use to show that people are "biased."  For example, Eliezer had a post Aug. 27 about people concluding too soon that they had guessed the rule that governs a sequence, and a post Sept. 7 about people whose fast estimate of a product of eight numbers was too low.   In his 2006 book Infotopia, Cass Sunstein gives similar examples, such as where groups are said to put too much weight on info held by many group members, relative to info held by just one member.  
+ In all these cases you take people uncertain about which particular case they face, you choose a particular case for them to deal with, and then you show that their response is not perfect for this case.  Like with the trick nickel.  And of course while it is easy to imagine how their response might have been better, what you don’t see is how their response would deal with all the other cases they thought were possible.
+ I much prefer the standard in economics experiments, which is that you must warn subjects about the distribution of cases they will face, and then you must report on the results when you actually sample from that distribution of cases.  If your subject’s responses still seem inadequate, you have a much stronger case that you have found a bias.   
+Added:  More generally, experimenters should show that their environments are typical of real ones, ones subjects expected, or ones subjects should have expected.
+
+
+title: Gotchas Are Not Biases
+
+date: September 13, 2007 6:00 am
+

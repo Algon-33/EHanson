@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+Space is romantic; most people are overly obsessed with space in their view of the future. Even so, these remain valid questions:
+
+When will off-Earth economy be larger than the on-Earth?
+Where in the solar system will that off-Earth economy be then?
+
+Here is a poll I just did on this last question:
+
+At time when off-Earth economy becomes larger than Earth economy, most of that will be closer to this Solar System body than to the others:
+— Robin Hanson (@robinhanson) July 4, 2020
+
+(“Closer” here really means ease of transport, not spatial distance.)
+On (1), for many centuries the economics gains from clumping have been very important, and we’ve only spend a few percent of income on energy (and cooling) and raw materials. Also, human bodies are fragile and designed for Earth, making space quite expensive for humans. As long as all these conditions remain, economic activity beyond Earth will remain a small fraction of our total economy.
+However, eventually ems or other kinds of human level robots will appear and quickly come to dominate the economy. Space is much easier for them. And eventually, continued (exponential) growth will cause Earth to run out of stuff. At recent rates of growth probably not for at least several centuries, but it will happen.
+On (2), human level robots probably appear before Earth runs out of stuff. So even though most science fiction looks at where humans would want to be off Earth, to think about this point in time you should be thinking instead about robots; where will robots want to be? Robots can do fine in a much wider range of physical environments. So ask less which locations are comfortable and safe for robots, and ask more where is there useful stuff to attract them.
+Clumping will probably remain important; the big question is how important. The more important is clumping, the longer that the off-Earth economy will be concentrated near Earth, even when other locations are much more attractive in other ways.
+Since the main reason to leave Earth at this point in time is that it is running out of energy (and cooling) and raw materials, the key attractions of other locations in the Solar System, aside from nearness to Earth, is their abundance of energy (and cooling) and raw materials.
+Robots running reversible computing hardware should spend about as much on making their hardware as they do on the energy (and cooling) to run it. And the sum of these expenses should be a big fraction of an em or other robot economy. So from this point of view, both energy and raw materials are important, and about equally important.
+However, it seems to me that planet Earth has a lot more raw materials than it does energy. Our planet is huge; its energy is more limited. And raw materials can be recycled, while energy cannot. So my guess is that Earth will run out of energy long before it runs out of raw materials. Thus the main attraction of non-Earth locations, besides nearness to Earth, will be energy (and cooling). And for energy, the overwhelmingly obvious location is the Sun. Which has the vast majority of mass as well, and is also on average located “closer” to most things.
+Yes, the sun is very hot, and while at some cost of refrigeration robots could live in or on the Sun itself, it is probably cheaper to live a bit further away, where materials are stable without refrigeration. But that would still be a lot closer to the Sun than to anything else. Dense robot cities on Earth would have already pushed to find computer hardware that can function efficiently at high temperatures. Being near the Sun makes it a lot easier to collect the Sun’s energy without paying extra energy transport costs. And once others are there, they all gain economies of clumping by being together.
+Hydrogen and helium are plentiful in the Sun, and for other elements it is probably cheaper to transport mass to the Sun than to transport energy away from it. Probably mostly from Mercury for a long while. Some say computers are more efficient when run at low temperatures, but I don’t see that. So it seems to me that once our descendants go beyond merely clumping around Earth to be near activity there, the main place they will want to go is near the Sun.
+Oddly, though space colonization is a hugely popular topic in science fiction, I can’t find examples of stories set in this scenario, of most activity cramming close to the Sun. Some stories mention energy collection happening there, but rarely much other activity, and the story never happens among dense Sun-near activity. As in the poll results above, most stories focus on activity moving in the other direction, away from the Sun. Oh there are a few stories about colonies on Mercury, and of scientific or military visits to the Sun. But not the Sun as the main place that our descendants hang out near after Earth.
+In fact, “colonizing the sun” is a well known example of a crazy impossible idea, considered worthy of ridicule. (“Oh, we’ll do it at night, when its cooler.”) So the actual most likely scenario, according to my analysis, is also the one thought the most crazy, and never the setting of stories. Weird.
+Added 9July: Some tell me that atoms for fusion can be gained more easily from large gas giant planets than from the Sun, at least until those run out, and that they expect a long period when that is the cheapest way to make energy. For the period when those atoms, or that energy, is transported to near Earth, that is consistent with what I’ve said above.
+But if the economy is pushed to move first en mass closer to those gas giants to avoid transport costs of energy or atoms, that would contradict my claim above that the Sun is the first place our descendants move after Earth. Note that we are now entering an era of mass solar energy, which will advance that tech more than fusion tech.
+
+
+title: We Colonize The Sun First
+
+date: July 4, 2020 10:40 pm
+

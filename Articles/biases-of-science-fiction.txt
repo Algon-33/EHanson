@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Most visions of the future are found in science fiction stories.   In 1990 science fiction author (and physicist) John Cramer described the "basic incompatibilities between good story telling and accurate prophecy":
+
+A good story needs conflict and dramatic tension. A fictional technology with too much power and potential, too much "magic", can spoil the tension and suspense. The "future" as depicted in an SF story should be recognizably like the present to maintain contact with the reader. Most SF stories depict straightforward extrapolations from the present or the past, with relatively few truly radical changes, so that the reader is not lost in a morass of strangeness. To achieve good characterization the writer must focus on a small group of people, yet most real revolutions, technological or otherwise, involve thousands of key players. The intelligence and personality integration of fictional characters cannot be much higher than that of the writer, yet enhanced intelligence may be an important aspect of the nanotechnology revolution to come.   The track record of SF writers as prophets, operating within these constraints, has not been impressive. 
+
+I’d love to see a more detailed analysis along these lines.  (This appeared in Foresight Update, two issues before my first idea futures publication.)
+
+
+title: Biases of Science Fiction
+
+date: December 2, 2006 6:00 am
+

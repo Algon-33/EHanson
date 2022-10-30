@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Folks have been seeding clouds to induce rain for over a century, but weather variability has made it hard to collect clear evidence that seeding increases rainfall.  Because of this, many consider cloud-seeding to be a psuedo-science.  But the latest Journal of Applied Meteorology and Climatology presents relatively strong support:
+An analysis of cloud seeding activity for the period 1960–2005 over a hydroelectric catchment (target) area located in central Tasmania is presented. The analysis is performed using a double ratio on monthly area averaged rainfall for the months May–October. Results indicate that increases in monthly precipitation are observed within the target area relative to nearby controls during periods of cloud seeding activity. Ten independent tests were performed and all double ratios found are above unity with values that range from 5–14%. Nine out of ten confidence intervals are entirely above unity and overlap in the range of 6–11%. Nine tests obtain levels of significance greater than the 0.05 level. If the Bonferroni adjustment is made to account for multiple comparisons, six tests are found to be significant at the adjusted alpha level. Further field measurements of the cloud microphysics over this region are needed to provide a physical basis for these statistical results.
+Absence of evidence is not evidence of absence; sometimes it can just take a long time for clear evidence to accumulate. 
+
+
+title: Cloud Seeding Works
+
+date: May 1, 2009 3:00 pm
+

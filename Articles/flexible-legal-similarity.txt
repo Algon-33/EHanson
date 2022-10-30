@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Under legal precedent, judges are supposed to decide the case in front of them similarly to the way similar past cases have been judged.  The October American Journal of Political Science says students are biased to see cases with decisions they liked as more similar to any given new case.   
+
+ We conducted two experiments: the first with undergraduates, the second with undergraduates and law students. Participants in each experiment read a mock newspaper article that described a "target case" involving unlawful discrimination. Embedded in the article was a description of a "source case" cited as legal precedent. Participants in both studies were more likely to find source cases with outcomes that supported their policy views in the target dispute as analogous to that litigation.  … Legal training did not appear to attenuate motivated perceptions.
+
+This suggests real judges similarly see cases as similar as needed to get the outcome they want.  
+
+
+title: Flexible Legal Similarity
+
+date: October 7, 2007 6:00 am
+

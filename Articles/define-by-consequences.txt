@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+If corporations must be treated as “persons” for the purpose of campaign contributions – as the Supreme Court mandated last year in the infamous Citizens United decision – why shouldn’t they also enjoy “personal privacy”?  The case threatens to weaken an important tool used to hold government and corporations accountable. … The court should not repeat that mistake by again allowing corporations to masquerade as people. (more)
+People often argue about “definitions” as if the main issue was conceptual essences, or “cutting nature at its joints.”  But in fact the vast majority definition disputes are really about social convention (including law). For example, I was interviewed recently on our changing “definition of death.” I said we’d long had a perfectly sensible and timeless concept: death is when life is no longer possible. What people want instead is an easy to apply criteria, so they can know when it is socially acceptable to “give up” on someone, or to declare someone a “murderer.”  The timeless concept doesn’t serve this role well, so they seek something else. (Which then limits cryonics.)
+Similarly, we’ve long had a decent concept of “father,” the man from whom half of a kid’s DNA comes.  But some say that since it is good for each kid to have the support of a man, we should declare a cuckolded husband to be the “father” of his wife’s kid.  Debates about the definitions of “naked” or “porn” are similarly about social convenience.
+The issue of calling firms “people” is also really about social consequences of doing so, even though many talk as if there was a “natural kind” out there to discover, if only we did enough conceptual analysis.  I’ve argued that since the function of “free speech” is best served by “free hearing“, it shouldn’t matter who wants to talk.  Unless we are willing to censor, we should let citizens hear any sources they desire.
+Similarly, we should ask about the social functions served by privacy protections.  Yes weaker privacy protections make it easier to hold firms accountable, but that applies to individual humans as well.  And if stronger privacy protects folks more against abuse by governments or others, that benefit should apply to firms as well.  Yes people may just have a direct preference for privacy, but such preferences may be weak, and perhaps people working at a firm feel similarly about the privacy of their firm.
+For most definition disputes, pretending to resolve it via conceptual analysis just isn’t very honest. It is more honest to argue about the desirability of various consequences of alternate social conventions.
+
+
+title: Define By Consequences
+
+date: January 19, 2011 11:00 am
+

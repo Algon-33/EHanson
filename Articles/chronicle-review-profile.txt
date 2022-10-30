@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+I’m deeply honored to be the subject of a cover profile this week in The Chronicle Review:
+
+By David Wescott, the profile is titled Is This Economist Too Far Ahead of His Time?, October 16, 2016.
+In academic journal articles where the author has an intended answer to a yes or no question, that answer is more often yes, and I think that applies here as well. The profile includes a lot about my book The Age of Em on a far future, and its title suggests that anyone who’d study a far future must be too far ahead of their time. But, when else would one study the far future other than well ahead of time? It seems to me that even in a rational world where everyone was of their time, some people would study other times. But perhaps the implied message is that we don’t live in such a world.
+I’m honored to have been profiled, and broad ranging profiles tend to be imprecisely impressionistic. I think David Wescott did a good job overall, but since these impressions are about me, I’ll bother to comment on some (and signal my taste for precision). Here goes.
+You inhabit a robotic body, and you stand roughly two millimeters tall. This is the world Robin Hanson is sketching out to a room of baffled undergraduates at George Mason University on a bright April morning.
+Honestly, “baffled” is how most undergrads look to most professors during lectures.
+Hanson is .. determined to promote his theories in an academy he finds deeply flawed; a doggedly rational thinker prone to intentionally provocative ideas that test the limits of what typically passes as scholarship.
+Not sure I’m any more determined to self-promote than a typical academic. I try to be rational, but of course I fail. I seek the possibility of new useful info, and so use the surprise of a claim as a sign of its interestingness. Surprise correlates with “provocative”, and my innate social-cluelessness means I’ll neglect the usual social signs to “avoid this topic!” I question if I’m “intentionally provocative” beyond these two factors.
+Hanson, deeply skeptical of conventional intellectual discourse,
+I’m deeply skeptical of all discourse, intellectual or not, conventional or not.
+At Caltech he found that economists based their ideas on simple models, which worked well in experiments but often failed to capture the complexities of the real world.
+That is true of simple models in all fields, not just economics, and it is a feature not a bug. Models can be understood, while the full complexity of reality cannot.
+But out of 3600 words, that’s all I have to correct, so good job David Wescott.
+
+
+title: Chronicle Review Profile
+
+date: October 18, 2016 12:00 pm
+

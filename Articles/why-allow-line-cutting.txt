@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+People often cut in line:
+“May I use the Xerox machine?”—enabled them to cut 60% of the time. Adding that they were rushed allowed them to cut 94% of the time. And “May I use the Xerox machine, because I need to make copies?” was almost as effective, despite its flimsiness. …
+The person directly behind an intrusion usually gets to decide whether to allow it. … If that person doesn’t object, other queuers tend to stay quiet. (more)
+A person cutting in line has a 54% chance that others in the line will object. With two people cutting in line, there is a 91.3% chance that someone will object. The proportion of people objecting from anywhere behind the cutter is 73.3%, with the person immediately behind the point of intrusion objecting most frequently. Nevertheless, physical altercation resulting from cutting is rare. …
+Some passengers who do not normally use a wheelchair request one, to pass through security checks quickly and to be among the first to board an aircraft. At the conclusion of the flight, these passengers walk off the aircraft, instead of waiting for a wheelchair and thus being among the last to disembark. (more)
+Here are three related examples I’ve witnessed:
+On a freeway traffic is moving swiftly, but at a particular exit there is a line of cars twenty long waiting to exit. But a third of the cars skip the line, go up to the front of the exit, and then try to cut in. Even if a given car won’t let them in, one of the next two cars in line usually will.
+On an airplane, when it is time to disembark, as soon as the seatbelt light goes off some passengers jump out of their seat and rush as far forward as far as they can, before others have gotten up out of their seat to block such movement.
+At the front of an airport, three rows of cars are basically parked waiting to take away passengers on arriving flights. They sit there for up to thirty minutes, blocking traffic, and once their passengers arrive they take up to ten minutes more in a happy reunion. Airports have rules against this, and officials often blow a whistle at such cars to move on, but are satisfied if they just move down a car length or two. None are arrested or penalized in any way.
+Why do people let others cut in line? The main explanation I can find offered are that people are nice to those with stronger needs:
+
+Experimenters equipped with small bills approached 500 people in lines and offered a cash payment of up to $10 to cut in. … line-holders allowed the person to cut in but most wouldn’t accept the money in return. … took this to mean that people will allow cuts if they perceive the queue jumper has a real need to save time. (more)
+When customers play the game just once, the only possible priority rule that can emerge is first in, first out; cut-ins must be rejected. But when players engage in repeated games, the pattern changes. Individuals in the line give way to those who appear to have more urgent needs or will require only a minimum of service time. (more)
+This all seems to me more likely an example of hidden motives. While we like to claim that we are being nice, I suggest that we are avoiding confrontation. When someone makes an apparently aggressive move at our expense, we can either oppose them and risk a confrontation, or give in and avoid confrontation. Giving in is much easier for us when we have the excuse of how doing so is in fact us being nice.
+We will often let people walk all over us as long as we can pretend we are thereby being nice. Even those tasked with enforcing rules against line cutting prefer to avoid confrontation. We all somehow seem to embrace the norm that those willing to risk confrontation should get their way, even if at others’ expense. We accept the dominance of the willing to try to dominate.
+
+
+title: Why Allow Line Cutting?
+
+date: June 5, 2022 7:15 am
+

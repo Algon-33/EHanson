@@ -1,0 +1,35 @@
+author: Robin Hanson
+
+text: 
+When things go wrong in our lives, we are often tempted to invoke governments to fix them. So we add more systems wherein governments do things, and we make more laws to influence what other people do. However, in the messy process of translating our general purposes into particular system and rules, we often allow various groups to control important details, and turn them more to their purposes. We also get random outcomes due to randomness in which political factions happen have more control when we turn our attention to changing each particular system or rule. In addition, we often leave out details because we are hypocritical, and unwilling to fully admit our real purposes. For example, we often want to appear to oppose things more than we do, like say drug use, prostitution, or adultery.
+The net effect of these many messy processes is that our government systems and rules are poorly integrated, clumsy, and vague. We don’t bother to work out many details, and we don’t decide how to make key tradeoffs between different systems and rules. For such elaboration, the public and their politicians often punt to judges and government agencies. And for details where agencies don’t set policies, they punt to individual civil servants.
+To influence these agencies and their civil servants, we set bosses who can give them orders, and perhaps promote or fire them. Bosses who have other bosses all the way up to the politicians we elect. But we are afraid of new politicians taking too much hidden control over these agencies, say by firing everyone and hiring all their friends. So we often limit politicians’ powers to direct and fire civil servants. This gives agencies and civil servants more discretion, to do what they choose.
+Of course in any one social equilibrium, an individual civil servant may not feel they have great discretion. But that doesn’t contradict the claim that collectively they have a lot. That is, there can be many possible government equilibria consistent with the overall government rules and larger political and social worlds. Some of this government discretion may be captured by the schools and other systems that train people to become civil servants.
+To enforce rules on both civil servants, and on ordinary people, we threaten to punish people for violating rules. The civil servants we put in charge of this enforcement process are “police” (in which I include prosecutors, judges, and other civil servants with rule-enforcing discretion). And to help police in these roles, we give them various budgets and powers.
+The above description so far is pretty generic, applying nearly as well to a quite minimal state as to a strong “police state”, wherein police have strong powers to punish most anyone they choose. Where any one state sits on this spectrum is determined by many factors, including (1) police monetary budgets, (2) police direct powers to invade spaces, demand info, etc., (3) police negotiating powers regarding court proceedings, and (4) the frequency and severity of rules that people frequently violate.
+While once upon a time (say two centuries ago) the U.S. system looked more like a minimal state, today it looks more like a police state. Maybe not as bad a police state as the old Soviet Union, but still, a police state. This transformation is detailed in William Stuntz’ excellent book The Collapse of American Criminal Justice. Some key changes:
+
+We’ve added a lot more laws, so many that we don’t understand most, and regularly violate many.
+We’ve cut the use of juries and also many legal defenses, which previously helped evade guilty verdicts.
+Rise of big cities means county-set laws are set by folks different from those suffer, cause most crime.
+States, who set prison budgets but don’t control conviction rates, greatly increased prison budgets.
+Legal trial complexity & cost has risen greatly, and is now beyond what most can afford.
+Plea bargaining is now allowed, which strongly pushes people to plead guilty, even when they aren’t.
+The new doctrine of qualified immunity protects government officials from many lawsuits.
+Most complaints about police have long been investigated by the same agency that employs them.
+The rise in civil servant unions, especially police unions.
+Surveillance, tracking, and info collection has in many ways become much cheaper.
+
+(Some of these changes resulted from courts seeking to encourage big moral movements, such as those against slavery, alcohol, drugs, prostitution, polygamy, and gambling.)
+The net effect of all this is that police can, if they so choose, target most anyone for punishment. That is, for most any target, police can relatively cheaply find a rule the target violated, pressure others to testify against the target, and then finally pressure the target to plead guilty. And police collectively have a lot of discretion in how they use this power. (The rich and politically well-connected may of course be able to discourage such use of power against themselves.)
+Of course, the fact that police are powerful hardly implies that they use such powers badly. It remains quite possible that, like the proverbial super-hero, they use their super-powers for good. Many people have long claimed that the best form of government is one run by good-hearted but unconstrained philosopher kings.
+This is the context in which I’d like you to consider current complaints about police mistreatment of detainees. Police must make difficult and context-dependent tradeoffs between how carefully to avoid hurting detainees, and how aggressively to discourage them from defiance or escape.
+These are the sort of areas where, in our system, local civil servants and their agencies have great discretion, and where the basic nature of our government and legal systems makes it hard to pull back such discretion. I’m not saying that nothing can be done; things can and should be done. But I’m pretty sure that the sort of modest changes being now considered (more training, more record keeping, “requiring” body cams, etc.) can’t greatly change what is in essence a police state. (In contrast, changing to a bounty system might do a lot more.)
+Look, imagine that while interacting with police you started to insult them and call them terrible ugly names. In many places, this is probably perfectly legal. However, you’d be rightly reluctant to do this, as you’d know they have a many ways to retaliate. If their local people and culture are inclined to retaliate, and to build a “blue wall of silence” around it, there is little most people can do to protect themselves.
+This is why you can’t really count on laws that say you have the right to film police, etc. We basically live in a police state, and in such a state its hard for mere rules to greatly change police behavior. We may well be gaining some benefits from such a police state, but being able to exert detailed control over police and how they use their great discretion is just not one of them.
+
+
+title: Philosopher Kings in Blue?
+
+date: June 7, 2020 7:18 pm
+

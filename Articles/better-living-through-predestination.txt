@@ -1,0 +1,12 @@
+author: Robert Wiblin
+
+text: 
+In many religions there is a belief in ‘predestination’. While I am far from a religious scholar, predestination is roughly the idea that God has already foreseen and willed all future outcomes. Believing this threw up a curly problem for personal moral responsibility: if God had already decided who deserved to go to heaven, and who deserved to go to hell, why bother doing anything in particular? Your fate has already been sealed. In fact it was sealed long before you were born. But it turned out there still was a strong incentive to behave righteously, so long as you didn’t know which group you belonged to: every time you did the right thing, you were producing evidence for yourself that you were one of those destined for heaven rather than hell. Your virtuous acts couldn’t change the outcome at all, but they could still offer a huge relief!
+The same is true for various health-affecting behaviours. My go-to example is flossing, which is correlated with a significant extension in life expectancy (e.g. this). How much of the extension is caused by flossing, and how much is due to flossing being associated with other things that improve health, like diligence? I doubt anyone knows. But all else equal, if you are someone who flosses, you should expect to live longer than someone who doesn’t. The correlation is what matters for that prediction, not causation. That sounds like a good reason to start flossing to me. Your flossing may or may not change anything, but it will give you a compelling reason to expect to be blessed with good health. The same goes for drinking in moderation, exercising regularly, and so on. So take this realisation, and use it to stay motivated to do the things you thought you should be doing, because the expected benefits are even bigger than causal studies make it sound. Incidentally, people who are convinced by this argument live on average two years longer, so I wouldn’t recommending dwelling on it too long.
+Enjoy the Easter weekend!
+
+
+title: Better living through predestination
+
+date: March 29, 2013 12:19 pm
+

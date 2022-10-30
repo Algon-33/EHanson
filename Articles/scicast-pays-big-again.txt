@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Back in May I said that while SciCast hadn’t previously been allowed to pay participants, we were finally running a four week experiment to reward random activities. That experiment paid big and showed big effects; we saw far more activity on days when we paid cash.
+In the next four weeks we’ll run another experiment that pays even more:
+SciCast is running a new special! For four weeks, you can win prizes on some days of the week:
+
+On Tuesdays, win a $25 Amazon gift card with activity.
+On Wednesdays, win an activity badge for your profile.
+On Thursdays, win a $25 Amazon gift card with accurate forecasting.
+On Fridays, win an accuracy badge for your profile.
+
+On each activity prize day, up to 80 valid forecasts and comments made that day will be randomly selected to win. On each accuracy prize day, your chance of winning any of 80 prizes is proportional to your forecasting accuracy. Be sure to use SciCast from July 22 to August 15!
+So this time we’ll compare activity incentives to accuracy incentives. Will we get more activity on days when we reward activity, and more accuracy on days when we reward accuracy? Now our accuracy incentives are admittedly weak, in that we’ll evaluate the accuracy of each trade/edit via price changes over only a few weeks after the trade. But hey, its something. Hopefully we can do a better experiment next year.
+SciCast now has 532 questions on science and technology, and you can make conditional forecasts on most of them. Come!
+
+
+title: SciCast Pays Big Again
+
+date: July 20, 2014 10:00 am
+

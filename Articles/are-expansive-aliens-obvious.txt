@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+In our 3 parameter model of where are the grabby aliens in space and time, each parameter can be estimated using existing data: our current date, the dates of major events in Earth history, and the fact that we don’t see aliens clearly visible in our sky.
+That last “fact” might seem most open to question, so what if we reject it? Well if we still assume that we would have noticed being directly inside a grabby-controlled volume, then our model still applies. That is, we would still know where grabby aliens are distributed in time, and they’d be distributed the same shape in space, except that their density in space rises by a factor of one thousand for every factor of ten by which their speed falls.
+Instead of our usual assumption, that we would have by now noticed differences between volumes controlled or not by grabby aliens, we’d be in a world where they make their spherical-until-meeting volumes look only subtly different, a difference that we have not yet noticed.
+In this case, there could be hope for astronomers to search the sky for subtle circular borders in the sky between GC volumes and surrounding volumes. The next two graphs show, as a function of power n and speed ratio s/c, distributions over how many such volumes there would be in the sky, and their total length in radians of their borders on the sky. (The maximum length of a circle on the sky is 2π radians.)
+
+
+These distributions are mainly due to varying birthdate; earlier civilizations see fewer others in their sky.
+
+
+title: Are Expansive Aliens Obvious?
+
+date: March 27, 2021 1:00 pm
+

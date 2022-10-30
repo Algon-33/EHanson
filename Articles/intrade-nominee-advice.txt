@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+   
+For the top four US presidential candidates from each party, InTrade.com gives these chances of nomination, becoming president, and the implied conditional chance of winning if nominated: 
+
+
+Al Gore’s conditional chances seem way out of line to me.  And Ron Paul’s conditional chances are suspiciously large compared to the other Republicans.
+Added:  What good are estimates that could be better?  I know of no other source of daily-updated estimates with even a similar accuracy.  And here anyone can be paid to fix any errors they find. 
+
+
+title: InTrade Nominee Advice
+
+date: October 24, 2007 9:00 am
+

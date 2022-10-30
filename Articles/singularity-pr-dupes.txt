@@ -1,0 +1,34 @@
+author: Robin Hanson
+
+text: 
+I’m to speak at a $500-per-attendee Singularity Summit in New York in early October. “Singularity” is associated with many claims, but most are controversial. They say:
+The Singularity represents an “event horizon” in the predictability of human technological development past which present models of the future may cease to give reliable answers, following the creation of strong AI or the enhancement of human intelligence.
+(They also list related definitions.)  An awful lot of folks, perhaps even most, consider these ideas silly and/or crazy.  They also say:
+The Singularity Summit is the world’s leading dialog on the Singularity, bringing together scientists, technologists, skeptics, and enthusiasts alike.
+But looking over their program, I noticed that while many speakers are distinguished, those folks won’t directly address the controversial claims; they will instead talk on their usual topics.  A few will talk on how they are trying to design general machine intelligence, but only Kurzweil, Yudkowsky, and Salamon will speak directly to the main controversial issues, and they will take “pro” sides.  As far as I can tell, only I will take a somewhat con side (explained below), but only on some claims, and only tangentially to my brief talk.
+It seems as if the organizers plan to gain credibility for their claims by having credible people speak at an event where some speakers make such claims, even if those credible speakers do not address those claims.  Such organizers even expect to gain credit for promoting a “dialog.”  How common is this strategy?  How effective?  How fair?  How much does agreeing to speak at such an event make it seem that you agree with its theme claims?   How many of the summit’s distinguished speakers do agree with those claims?
+Those who followed my debate here at OB with Eliezer Yudkowsky last year (e.g., here, here) will be familiar with all this, but let me review.  Here are some of the more controversial claims associated with “singularity”:
+
+ Progress is accelerating rapidly across a wide range of techs.
+ Smarter than human machines are likely in a few decades.
+ Such machines will induce dramatic and rapid social change.
+ This change is impossible to foresee; don’t even try.
+ A single localized super-smart machine or a cabal of them is likely to take over everything.
+ That cabal’s values determine everything, but via self-modification could become anything.
+ So everything depends on finding a way to give such machines stable values we like.
+ No one should try to make super smart machines before knowing how to do this.
+
+I disagree with many but hardly all of these:
+
+ No, overall neither econ nor tech progress is much accelerating lately.
+Yes, smarter than human machines are likely in roughly a half century to a century or two, but most likely because whole brain emulations will first induce an important era of near human level machines.
+ Yes, this em era will bring huge rapid social changes, but we can and should use social science to foresee these changes.
+ Yes, this em era may well end via super smart machines, and yes it is hard to constrain the values of the distant future, but a single local machine or cabal taking over everything and then immediately evolving out of value control seems extremely unlikely.  It runs counter to most of our econ and tech innovation experience, and the theories we use to make sense of that experience.
+ Yes, a few powerful-enough mind-design insights could conceivably allow one brash team to leap this far ahead of the world, and some folks should think about how to give machines stable values we like, but most futurists should focus on more likely scenarios.
+
+
+
+title: Singularity PR Dupes?
+
+date: August 21, 2009 5:00 pm
+

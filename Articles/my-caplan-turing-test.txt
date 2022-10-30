@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+At lunch today Bryan Caplan and I dug a bit into our disagreement, and now I’ll try to summarize his point of view. He can of course correct me.
+Bryan sees sympathy feelings as huge influences on social outcomes. Not just feelings between people who know each other well, but also distant feelings between people who have never met. For example, if not for feelings of sympathy:
+
+Law and courts would often favor different disputants.
+Free workers would more often face harsh evaluations, punishments, and firing.
+Firm owners and managers would know much better which workers were doing good jobs.
+The US would invade and enslave Canada tomorrow.
+At the end of most wars, the victors would enslave the losers.
+Modern slaves would earn their owners much more than they would have as free workers.
+In the past, domestic, artisan, and city slaves, who were treated better than field slaves, would have been treated much more harshly.
+The slave population would have fallen less via gifts or purchase of freedom.
+Thus most of the world population today would be slaves.
+
+These views are, to me, surprisingly different from the impression I get from reading related economics literatures. Bryan says I may be reading the wrong ones, but he hasn’t yet pointed me to the correct ones. As I read them, these usual economics literatures give different impressions:
+
+Law and economics literature suggests efficiency usual decides who wins, with sympathy distortions having a real but minor influence.
+Organization theory literature suggests far more difficulties in motivating workers and measuring their performance.
+Slavery literature suggests slaves doing complex jobs were treated less harshly for incentive reasons, and would not have earned much more if treated more harshly. Thus modern slaves would also not earn much more as slaves.
+
+Of course even if Bryan were right about all these claims, he needn’t be right in his confident opinion that the vast majority of biological humans will have about as much sympathy for ems as they do for mammals, and thus treat ems as harshly as we treat most mammals.
+This sympathy-driven view doesn’t by itself predict Caplan’s strong (and not much explained) view that ems would also be very robot-like. But perhaps we might add to it a passion for domination – people driven by feelings to treat nicely creatures they respect might also be driven by feelings to dominate creatures they do not respect. Such a passion for dominance might induce biological humans to force ems to into ultra docility, even if that came at a productivity cost.
+Added 28July2016: Caplan grades my summary of his position. I’m mostly in the ballpark, but he elaborates a bit on why he thinks em slaves would be docile:
+Docile slaves are more profitable than slaves with attitude, because owners don’t have to use resources to torture and scare them into compliance.  That’s why owners sent rebellious slaves to “breakers”: to transform rebellious slaves into docile slaves.  Sci-fi is full of stories about humans genetically engineered to be model slaves.  Whole brain emulation is a quicker route to a the same destination.  What’s the puzzle?
+For docility to be such a huge priority, relative to other worker features, em rebellion must happen often and impose big frequent costs. Docility doesn’t seem to describe our most productive workers today well, nor does it seem well suited when you want workers to be creative, think carefully, take the initiative, or persuade and inspire others. Either way, either frequent costly rebellions or extreme docility, create big disadvantages of slaves relative to free workers, and so argues against most ems being slaves.
+
+
+title: My Caplan Turing Test
+
+date: July 20, 2016 8:35 pm
+

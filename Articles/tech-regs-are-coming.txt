@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Over world history, we have seen a lot of things regulated. We can see patterns in these regulations, and we understand many of them – it isn’t all a mystery.
+As far as I can tell, these patterns suggest that recent tech like operating systems, search engines, social networks, and IM systems are likely to be substantially regulated. For example, these systems have large network effects and economies of scale and scope. Yet they are now almost entirely unregulated. Why?
+Some obvious explanations, fitting with previous patterns of regulation, are that these techs are high status, new, and changing fast. But these explanations suggest that low regulation is temporary. As they age, these systems will change less, eroding their high status derived from being fashionable. They will become stable utilities that we all use, like the many other stable utilities we use without much thought. And that we regulate, often heavily.
+You’d think that if we all know regulation is coming, that we’d be starting to argue about how and how much to regulate these things. Yet I hear little of this. Those who want little regulation might keep quiet, hoping the rest will just forget. But silence is more puzzling for those who want more regulation. Are they afraid to seem low status by proposing to regulate things that are still high status?
+Similarly puzzling to me are all these internet businesses built on the idea that ordinary regulations don’t apply to stuff bought on the internet. They think that if you buy them on the internet, hired cars and drivers don’t have to follow cab regulations, rooms for a night don’t have to follow hotel regulations, ventures soliciting investors don’t have to follow securities regulations, and so on. Yes, regulators are slow and reluctant to regulate high status things, but can they really expect to evade regulation long enough to pay off their investors?
+
+
+title: Tech Regs Are Coming
+
+date: January 12, 2014 5:15 pm
+

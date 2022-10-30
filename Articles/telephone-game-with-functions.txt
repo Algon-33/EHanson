@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+   
+In the old telephone game each person would pass on a phrase to the next person in the chain; the final phrase might little resemble the first.  An interesting variation appeared in the Phil. Trans. Royal Society last November:
+ 
+Here each row is a chain of people passing along a function relating X to Y.  Each person first guesses and is corrected on 50 (X,Y) cases, then just guesses on 100 more cases.  The final guesses of the last person become data for the next person.  The final relations are all basically lines, 7/8 with a positive slope, 1/8 with a negative slope.
+The lesson?  When we are mainly rewarded for predicting what others will say on a topic, rather than predicting a more basic reality, our answers become dominated by typical prior expectations; reality has little influence.  HT to Jef Allbright. More from that paper: 
+  
+In situations in which each person’s response is used to determine the data seen by the next person, people converge on concepts consistent with their inductive biases irrespective of the information seen by the first member of the chain. … 
+
+title: Telephone Game With Functions
+
+date: April 22, 2009 6:00 am
+

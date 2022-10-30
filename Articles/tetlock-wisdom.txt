@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Both private- and public-sector prognosticators must master the same tightrope-walking act. They know they need to sound as though they are offering bold, fresh insights into the future not readily available off the street. And they know they cannot afford to be linked to flat-out mistakes. Accordingly, they have to appear to be going out on a limb without actually going out on one. That is why … they so uniformly appear to dislike affixing “artificially precise” subjective probability estimates to possible outcomes—the only reliable method we have of systematically tracking accuracy across pundits, methods, time and contexts. It is much safer to retreat into the vague language of possibilities and plausibilities—things that might or could happen if various difficult-to-determine preconditions were satisfied. The trick is to attach so many qualifiers to your vague predictions that you will be well positioned to explain pretty much whatever happens. China will fissure into regional fiefdoms, but only if the Chinese leadership fails to manage certain trade-offs deftly, and only if global economic growth stalls for a protracted period, and only if . . .
+More here.  Hat tip to Henry at Crooked Timber.
+Philip Tetlock seems to suggest that prognosticators are fooling us via this strategy, as if we would not tolerate such gaming if only we understood what they were up to.  I fear that instead we don’t much mind these games.  I suspect that we mostly want to affiliate with impressive folks, and reading their provocative forecasts gives us yet another excuse to do so.  As long no one else notices their failed forecasts enough to make them seem less impressive, we don’t really care if they were proved right or wrong.
+
+
+title: Tetlock Wisdom
+
+date: August 25, 2009 11:30 pm
+

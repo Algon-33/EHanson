@@ -1,0 +1,51 @@
+author: Robin Hanson
+
+text: 
+If one takes the hard steps model of evolution seriously, humans seem to be early in the history of the universe. We can explain this by postulating that grabby aliens set an early deadline; humans couldn’t show up after aliens had filled the universe. As our grabby aliens model has three free parameters, each of which can be estimated from data, we are forced to conclude that such aliens are quite rare; if we are lucky enough to survive that long we should meet them in roughly a billion years.
+This next diagram shows distributions over how many galaxies each one controls when they meet each other. The distributions shown are for expansion speed s=c; more generally this goes as (s/c)3. (The likelihood ratio for not seeing big alien volumes today is only one above s/c ~ 3/4.)
+As you can see, for the best estimate power of n=6, each one typically comes to control millions of galaxies. (We avoid making assumptions about what happens after GCs meet. All our distributions depend on hard steps power n. All were made with help of my coauthors Daniel Martin, Calvin McCarter, and Johnathan Paulson.)
+Assume that each grabby civilization (GC) arises “soon” (within 10Myr) from a non-grabby civilization (NGC). As GCs by definition keep expanding fast and change the appearance of their volumes, NGCs that don’t become GCs don’t expand much or long, or don’t change their volume appearances. As NGCs are much harder to see, and don’t much block GC behavior, there could be far more of them than there are GCs. 
+Thus a key question about aliens is: what is the ratio R between NGCs and GCs? And this ratio R is at the heart of a key conflict: you need to expect a high ratio R to be optimistic about SETI success anytime soon, but you need to expect a low ratio R to be optimistic about the future prospects of our descendants. (I described this conflict abstractly in my original great filter paper; here I discuss specific numbers.)
+On human futures, we can think of humans today as a NGC, or soon to become one. While we might not want to become a GC, many of the scenarios in which we don’t are because we can’t. For example, we may go extinct, or become permanently and strongly limited somehow. So we’d at least like to have the option to become grabby. Thus human future optimists tend to think that our descendants have a decent chance to birth a GC. 
+The chance that a random NGC will become a GC is 1/R. So if ratio R is over one thousand, we should estimate less than a one in a thousand chance for humanity to give birth to a GC. (Unless we know something extra about how human chances differ, which we don’t.) Learning that fact would seem like bad news to many. Furthermore, many would think it crazy to think we have less than one in a million chance to birth a GC.
+On SETI success, since our data fixes the frequency of GCs as in the ballpark of one per million galaxies, we need to expect a high R to expect NGCs to be common enough to see them soon with SETI (Search for Extra-Terrestrial Intelligence) efforts. This diagram shows four different kinds of SETI focus places, i.e., spacetime regions where SETI might look to see NGCs:
+I’ve listed these places in order of both decreasing ease of seeing any one NGC, and also of needing smaller ratios R to expect many NGCs in those places. I now show four diagrams, for each of these four places, giving distributions over the R required to expect there to be one NGC in that place. To expect there to be a thousand NGCs in a place, you need a ratio R a thousand times larger.
+Let’s start at the bottom, with the places most rich with targets, but where each target is also the hardest to see. Here is the ratio R required to expect one NGC ever within our past light cone. This is for s=c; others go as (s/c)3.
+
+ 
+Here is the ratio R required to expect one NGC intersecting with our past light cone. This is for s=c; others go as (s/c)2. This is for an expected NGC lifetime L = 1Myr; others go as 1/L.
+
+ 
+Here is the ratio R required to expect one NGC that is both within our past light cone, and also in our galaxy. This is for s=c; others go as (s/c)3.
+
+ 
+Here is the ratio R required to expect one NGC intersecting with our past light cone, and also in our galaxy. This is for s=c; others go as (s/c)3. This is for L = 1Myr; others go as 1/L.
+
+ 
+As you can see, one might reasonably expect to find hundreds of alien civilizations within our total past light cone, though actually seeing their techno-signatures should remain quite challenging anytime soon.
+However, NGC to GC ratios of over a thousand are required to expect even one NGC active on our past light cone, or anywhere in the past of our galaxy. And ratios well over a million are required to expect even one NGC active now in our galaxy. And that’s for an average lifetime of 1Myr; shorter lived NGCs require even higher ratios. Yet today SETI struggles to see NGC techno-signatures for even a tiny fraction of the stars in our galaxy.
+Notice that higher powers usually require lower ratios R, and thus offer more SETI optimism, though they also strength the human earliness puzzle, and so push more for the grabby aliens model.
+It seems that SETI optimism must come via one of these three routes:
+
+Deny the grabby aliens model, via positing both a low power n and a short maximum habitable planet lifetime L. (Or via denying the possibility of fast expansion.)
+Posit very long average alien civilization lifetimes, or very long lived and visible relics, such as beacons.
+Posit great pessimism re human prospects for becoming grabby, via a very large NGC to GC ratio.
+
+This forces me to be a SETI pessimist, as all three of these outs seem pretty unlikely to me. Though SETI pessimism need not imply being against SETI funding; we try many long shots in research.
+Added 4p: I did two Twitter polls on the ratio R, asking in two different ways, which elicited two very different answer distributions:
+
+Assume are 2 kinds of alien civilizations: LOUD: expand fast til meet other loud, & change looks of volumes; QUIET: not loud, usually die soon, but sometimes birth a loud. (We are now a quiet.) What do you guess is the ratio out there of QUIET to LOUD alien civilization origins?
+— Robin Hanson (@robinhanson) March 7, 2021
+
+
+Assume are 2 kinds of alien civilizations: LOUD: expand fast til meet other loud, & change looks of volumes; QUIET: not loud, usually die soon, but sometimes birth a loud. If we are now a quiet civilization, what is chance we give birth to a loud one w/in 10Myr?
+— Robin Hanson (@robinhanson) March 7, 2021
+
+The (lognormal fit) median for the 1st question is R = ~2500, but to the 2nd is ~2.5, a factor of 1000 difference!
+Added 14Mar: We found a small error in how we computed the graphs; the new versions are now shown.
+
+
+title: SETI Optimism is Human Future Pessimism
+
+date: March 7, 2021 3:15 pm
+

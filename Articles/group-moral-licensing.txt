@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+We are more willing to do bad if we have recently done good. We also think we get more excuses to do bad if our group is good:
+Five studies supported the hypothesis that people are more willing to express prejudiced attitudes when their group members’ past behavior has established nonprejudiced credentials. Study 1a showed that participants who were told that their group was more moral than similar other groups were more willing to describe a job as better suited for Whites than for African Americans. In Study 1b, when given information on group members’ prior nondiscriminatory behavior (selecting a Hispanic applicant in a prior task), participants subsequently gave more discriminatory ratings to the Hispanic applicant for a position stereotypically suited for majority members (Whites). In Study 2, moral self-concept mediated the effect of others’ prior nonprejudiced actions on a participant’s subsequent prejudiced behavior such that others’ past nonprejudiced actions enhanced the participant’s moral self-concept, and this inflated moral self-concept subsequently drove the participant’s prejudiced ratings of a Hispanic applicant. In Study 3, the moderating role of identification with the credentialing group was tested. Results showed that participants expressed more prejudiced attitudes toward a Hispanic applicant when they highly identified with the group members behaving in nonprejudiced manner. In Study 4, the credentialing task was dissociated from the participants’ own judgmental task, and, in addition, identification with the credentialing group was manipulated rather than measured. Consistent with prior studies, the results showed that participants who first had the opportunity to view an in-group member’s nonprejudiced hiring decision were more likely to reject an African American man for a job stereotypically suited for majority members. These studies suggest a vicarious moral licensing effect. (more)
+Citizens of the United States are especially proud of a history of (supposedly) doing good. The US sees itself as having saved the world from Nazism and Communism, of creating and sustaining modern medicine, of educating the world via the best universities, of being the main innovators in computer tech, of upholding the highest standards of civil and gender rights, of being unusually devoted to religion, etc.
+All this self-respect, deserved or not, probably makes US citizens more willing to do bad, both individually and collectively. Dear US citizens: please ask yourself how sure you can be that your actions on the world stage are actually for good.
+
+
+title: Group Moral Licensing
+
+date: July 23, 2011 11:45 am
+

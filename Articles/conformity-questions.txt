@@ -1,0 +1,17 @@
+author: Hal Finney
+
+text: 
+Follow-up to: Conformity Myths
+Robin posted earlier about a NYT Magazine article on conformity. I was able to find an online copy of the scientific paper here: http://psr.sagepub.com/cgi/reprint/10/1/2.
+The synopsis from the NYT is not complete. Of the 12 times that people were challenged to disagree with the social consensus, the most popular choice was to agree 0 times. 25% of the subjects did this. The second most common was to agree 3 times, done by 14%. Third most common was agreeing 8 times, 11%. Only 5% went along with the crowd all 12 times.
+I think it’s quite significant that 25% of subjects never went along with the crowd and stuck to their own perceptions. In total, only 32% of the answers were wrong.
+ I’m not sure I follow Robin’s comments on this. It seems to me that this re-interpretation of the classic experiment suggests that people are not as conformist as generally thought. That would mean that we do more than merely give lip service to celebrating independence, that culturally we are quite effective at following the ideal of independent thinking.
+The key question is, what is the right thing to do here? Should one conform when presented with 8 people denying the evidence of one’s own senses? I argue that it is the right thing to do.
+Now of course, if you know you’re in a psychological experiment, maybe you can’t help but be suspicious that something fishy is going on. But in general, in real life, if 8 people come in and tell you that your perceptions are completely wrong, you should take it very seriously. I imagine that in the history of the world, in the great majority of such situations, the 8 were right and the one was wrong. As an example that some may be familiar with, if a bunch of friends come in and tell you you’re drinking too much, while your perception is that you can easily handle the alcohol, you should probably listen to them.
+I would suggest that conformity is the right thing to do in these situations, and to that extent I am rather dismayed that the subjects were as non-conformist as this data shows.
+
+
+title: Conformity Questions
+
+date: April 11, 2008 6:04 pm
+

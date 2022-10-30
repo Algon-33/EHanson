@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Steven Levy praises TED to the heavens:
+Not every talk is one for the ages, but the TED News Feed is in sync with Ezra Pound’s insufficiently famous quote that “literature is news that stays news.” In TED’s world, at least when it’s working well, the news that stays news is science — as well as the recognizable truths of who we are as a species, and what we are capable of, good or evil. .. Much of the TED News Feed was an implicit rebuke of the politics of the day. Generally, TED speakers are believers in the scientific method. There were even a couple of talks this year whose very point was that there is a thing called truth.
+Well, except for my talk:
+Still, the TED News Feed was not free of potentially fake news, albeit of the scientific kind. A speaker named Robin Hanson (a George Mason professor and a guru of prediction markets) gave what he described as a data-driven set of predictions of a world where super-intelligent robots would rule the earth after forcing humans to “retire.” It seemed to me that he simply labeled his sci-fi fantasy as non-fiction. Plus, when I checked his website later, I learned he “invented a new form of government called futarchy,” and that his favorite musician was Vangelis. (When I later asked Anderson about that talk, he explained, without necessarily endorsing my criticism, that it was “a roll of the dice,” and that generally it was a good thing when talks took risks.)
+That is all of Steven Levy’s critique; there is no more. He actually came up to me after my talk, saying something generically skeptical. I pointed out that I’d written a whole book full of analysis detail, and I asked him to pick out anything specific I had said that he doubted, offering to explain my reasoning on that. But he instead just walked away.
+Maybe Mr. Levy comes from a part of science I’m not familiar with, but in the parts of science I know, a critic of a purported scientific analysis is expected to offer specific criticisms, in addition to any general negative rating. The 130 words he devoted here was enough space to at least hint at which of my claims he doubted. And for the record, in my books and talks I’m very clear that my analysis is theory-driven, not data-driven, and that it is conditional on my key technology assumptions.
+
+
+title: Steven Levy’s Generic Skepticism
+
+date: April 30, 2017 11:35 am
+

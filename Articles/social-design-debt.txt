@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Technical debt .. reflects the extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution. (more)
+In the design of complex systems, we have long observed a robust phenomenon: when people only consider local costs and benefits when making design changes, they miss the many costs that changes impose elsewhere. Such costs accumulate, and reducing them requires periodic redesign that considers larger scales of interactions. These sort of costs are naturally limited when systems frequently die to be replaced to other systems started recently from scratch. But long lasting complex systems can accumulate large costs of this sort.
+For example, in contrast to most nations, apparently the US has *two federal agencies responsible for collecting economic data. Their authorizing legislation has been interpreted to mean that they can’t share details of this data with each other. A more accurate and consistent picture could be drawn about the economy from the data if such integration were allowed, but its not. Everyone in these agencies knows about this problem, but no one has bothered to try to change the authorizing legislation for a more rational outcome. New nations know to avoid this problem, but in old nations like the U.S. such problems just accumulate.
+This seems to me an important and neglected issue for our longest lived social systems, such as in law and governance. In The Rise and Decline of Nations (1982), Mancur Olson famously argued that nations tend to decline via accumulating organized interest groups who lobby for changes in their local interest, and veto larger changes to more efficient arrangements. This seems a closely related point, but not quite the same point.
+
+
+title: Social Design Debt
+
+date: September 21, 2016 5:20 pm
+

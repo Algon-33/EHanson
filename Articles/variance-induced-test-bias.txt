@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Discussion of the Science article on gender differences in math test variance got me thinking.  Since a test score is a noisy measure of some underlying ability, an unusually high score can come either from an unusual high ability, or from an unusually positive measurement error (or both).  If higher male score variance is due more to a higher male ability variance than to a higher male measurement error variance, then a high female score is more likely to be due to measurement error than is the same high male score.  If so, treating the same score value as the same ability, independent of gender, as is common in school admissions, creates a bias (vs. men) in favor of high scoring, and against low scoring, women. 
+ More precisely, assume that each test score s is a sum s = a + e of an ability a and a measurement error e, and that ability and measurement error are normally and independently distributed with variances A and E.  This implies test score variance is S = A + E, and that mean (and median) ability estimates given scores s are E[a|s] = m+(s-m)*(1-E/S), where m is the mean score.  The discounting factor, 1-E/S, is between 0 and 1. 
+ Now assume men and women have the same mean score m and measurement error variance E, let R be the ratio of male to female score variance, and let N be the ratio of measurement error variance E to female score variance.  In this case, the ratio of female to male discounting factors is (1-N)/(1-N/R), which is < 1 for R > 1.   For example, if R = 1.16, the mid-estimate from the Science article, then for error fraction N values of 0.1, 0.2, or 0.4, the discounting factor ratios are 0.985, 0.967, or 0.916 — female scores must be discounted by these factors (relative to mean scores) to be fairly comparable to male scores.  For example, applied to the math SAT (female mean 504) you’d want to subtract off (again for my sample N values) 3.7, 8.2, or 20.7 points from a 750 point female SAT score to make it comparable to a male score.  (For a 600 point score, you’d subtract 1.5, 3.2, or 8.1 points).  
+ No doubt there are many other factors to consider in comparing male and female candidates, but do any schools make such corrections?  Are they even aware of this bias?  Are they aware but uninterested in correcting for it? 
+Added 4Aug: College Admission Futures would solve this problem and many more. 
+
+
+title: Variance-Induced Test Bias
+
+date: August 1, 2008 4:00 pm
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+A wide-ranging review of research … rocked psychology because it showed experience simply did not create skill in a wide range of real-world scenarios, from college administrators assessing student potential to psychiatrists predicting patient performance to human resources professionals deciding who will succeed in job training. In those domains, which involved human behavior and where patterns did not clearly repeat, repetition did not cause learning. Chess, golf, and firefighting are exceptions, not the rule. …
+In wicked domains, the rules of the game are often unclear or incomplete, there may or may not be repetitive patterns and they may not be obvious, and feedback is often delayed, inaccurate, or both. In the most devilishly wicked learning environments, experience will reinforce the exact wrong lessons. (more)
+David Epstein’s book Range is a needed correction to other advice often heard lately, that the secret of life success is to specialize as early as possible. While early specializing works in some areas, more commonly one learns more by ranging more widely, collecting analogies and tools which can be applied too many new problems, and better learning which specialties fits you best.
+I’ve done a lot of wide ranging in my life, so I naturally like this advice. However, as one can obviously take this advice too far, the hard question is how widely to range for how long, and then how quickly to narrow when.
+Alas, Epstein seems less useful on this hard tradeoff question. He does make it plausible that your chance of achieving the very highest success in creative areas like art or research is maximized by a wider range than is typical. But as most people have little chance of reaching such heights, this doesn’t say much to them.
+I’m struck by the fact that all of his concrete examples of wide rangers who succeeded are people who at some point specialized to enough gain status within a particular speciality area. He gives stats which suggest that wide rangers continue to be productive and useful to society even if they never specialize so much, but those people are apparently not seen as personal successes.
+For example, Epstein cites a study showing that innovative academic papers which cite journals never before cited in the same paper are published at first in less prestigious journals, but eventually get more citations. Yet in fields like economics, status depends much more on journal prestige than eventual citations.
+So while you might contribute more to the world by continuing to range widely, you often succeed more personally by ranging somewhat widely at first, and then specializing enough to make specialists see you as one of them.
+The hard problem then is how to get specialists to credit you for advancing their field when they don’t see you as a high status one of them. Epstein quotes people who say we should just fund all research topics even if they don’t seem promising, but that obviously just won’t work.
+
+
+title: Range
+
+date: June 14, 2019 3:00 pm
+

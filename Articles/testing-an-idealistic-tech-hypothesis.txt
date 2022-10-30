@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Katja:
+Relatively minor technological change can move the balance of power between values that already fight within each human. [For example,] Beeminder empowers a person’s explicit, considered values over their visceral urges. … In the spontaneous urges vs. explicit values conflict …, I think technology should generally tend to push in one direction. … I’d weakly guess that explicit values will win the war. (more)
+The goals we humans tend to explicitly and consciously endorse tend to be more idealistic than the goals that our unconscious actions try to achieve. So one might expect or hope that tech that empowers conscious mind parts, relative to other parts, would result in more idealistic behavior.
+A relevant test of this idea may be found in the behavior of human orgs, such as firms or nations. Like humans, orgs emphasize more idealistic goals in their more explicit communications. So if we can identify the parts of orgs that are most like the conscious parts of human minds, and if we can imagine ways to increase the resources or capacities of those org parts, then we can ask if increasing such capacities would move orgs to more idealistic behavior.
+A standard story is that human consciousness functions primarily to manage the image we present to the world. Conscious minds are aware of the actions we may need to explain to others, and are good at spinning good-looking explanations for our own behavior, and bad-looking explanations for the behavior of rivals.
+Marketing, public relation, legal, and diplomatic departments seem to be analogous parts of orgs. They attend more to how the org is seen by others, and to managing org actions that are especially influential to such appearances. If so, our test question becomes: if the relative resources and capacities of these org parts were increased, would such orgs act more idealistically? For example, would a nation live up to its self-proclaimed ideals more if the budget of its diplomatic corps were doubled?
+I’d guess that such changes would tend to make org actions more consistent, but not more idealistic. That is, the mean level of idealism would stay about the same, but inconsistencies would be reduced and deviations of unusually idealistic or non-idealistic actions would move toward the mean. Similarly, I suspect humans with more empowered conscious minds do not on average act more idealistically.
+But that is just my guess. Does anyone know better how the behavior of real orgs would change under this hypothetical?
+
+
+title: Testing An Idealistic-Tech Hypothesis
+
+date: November 14, 2013 5:15 pm
+

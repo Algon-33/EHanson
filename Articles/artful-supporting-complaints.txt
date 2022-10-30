@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Social norms are one of the features most distinctive of humans, compared to other animals. Norms were enabled by language, and norms may have been one of the most important initial applications of language. In fact, our conscious minds may be designed primarily to manage norms, via creating a narrative of our reasons for doing most everything we do, so that we can defend ourselves from accusations of motive-based norm violations.
+Norms can’t be enforced unless people complain about norm violations. That is, unless X tells A that Y hurt Z, and did so in violation of some norm N. After which X and A can coordinate to evaluate this claim, and then if confirmed deal with Y, such as via talk or punishment. Thus complaints are central to human behavior, and so also are the processes by which we encourage and discourage complaints.
+Oddly, it seems to me that we also have a great many social norms that substantially discourage the expression of complaints. A great many types of complaints are said to be “inappropriate” to bring up in a great many social contexts. This makes sense if norm enforcement couldn’t function if it were too easy to express complaints. But in any case, we clearly do have such limits on complaining.
+However, once someone has overcome the usual obstacles to expressing complaints, and expresses a complaint in a way that is seen as legitimate in context, it also seems to me that most of us are quite eager to join this discussion, at least to the degree allowed by complaint norms. Which makes sense, given how important are norms to human relations. We want to weigh in to help our allies, hinder our rivals, and of course to promote justice. And to be seen as doing all these things.
+Among the many factors that influence whether a complaint is allowed, two stand out to me. First, it seems more okay to complaint about a violation that hurts others, compared to a violation that hurts oneself. Second, complaints seem far more acceptable if they are done “artfully”, i.e., with wit, style, elegance, indirection, etc. Thus we mainly allow “artful supporting complaints”. (These rules don’t apply as much when X complaints directly to Y that Y hurt X.)
+In fact, this seems to me to be one of the main reasons that we seek out and invest in artful communication: it is allowed to complain more. Just as comedians can get away with telling more frank truths than can others, the artful in general can get away with making more complaints, and with making them stick. Such complaints stick more because in general the factors that makes us willing to hear complaints also make us willing to believe them.
+This can help explain the apparent fact that artists, compared to say dentists or custodians, seem far more interested in complaining. Not re themselves, but on behalf of larger social causes. That is, artists are more eager to express moral opinions, and to induce us to empathize more with various suffers. Which makes sense if the main reason that we seek out artists is to support our complaining. Or to suppress the complaints of rivals; after it helps to be artful when complaining that someone else’s complaint was not legitimate in context.
+All this suggest a simple theory of the core problem of social media: being new, social media hasn’t acquired a large and strong enough set of social norms that limit complaint expression. While we’ve transferred many such norms from other contexts, they haven’t seemed to apply as cleanly or strongly in this new context. So we’ve been going wild making complaints there, enjoying our new personal freedom to complain, but also disliking the overall level of complaining that we see there.
+This theory suggest that we are in the process of developing and strengthening our anti-complaint norms on social media, and when that is done we may not perceive much of a problem anymore.
+Added 7am: I think I see several other correlates of when we are allowed to complain:
+
+when we are peaceful/polite, and thus don’t implicitly threaten violence,
+when we make a quick complaint, that doesn’t threaten to go on and on,
+when our complaint is indirect, and so hard to prove it was a complaint,
+when we “punch up”,  on behalf of the low, against the high.
+
+
+
+title: Artful Supporting Complaints
+
+date: July 6, 2022 11:20 am
+

@@ -1,0 +1,35 @@
+author: Marcello Herreshoff
+
+text: 
+Imagine writing two versions of the same computer program. The first represents its integers as 32-bit binary numbers.  The second writes the numbers in base 10, ASCII strings with each byte used to store one digit. 
+The second version has its upsides.  Thirty-two bit numbers max out at several billion, but you can keep tacking digits onto the string until you’re out of memory. 
+That said, the program that uses 32-bit integers runs faster because it uses the native architecture of the CPU.  The CPU was designed with this more compact format for numbers in mind, with special-purpose circuits like 32 bit adders.
+The same principle applies to using one’s brain:  Some things the brain can do quickly and intuitively, and some things the brain has to emulate using many more of the brain’s native operations.  Sometimes thinking in metaphors is a good idea, if you’re human. 
+In particular, visualizing things is part of the brain’s native architecture, but abstract symbolic manipulation has to be learned.  Thus, visualizing mathematics is usually a good idea. 
+When was the last time you made a sign error? 
+When was the last time you visualized something upside-down by mistake? 
+I thought so.
+  
+Sometimes it’s not just a question of making mistakes, but of not seeing the answers at all, or seeing inelegant answers when there are more elegant ones to be found. 
+While I was working on AI with Eliezer last year, visualizing mathematics was responsible for some of my larger successes, and failing to do so was responsible for some of my larger mistakes.
+One example of this is the incident that Eliezer recounted as follows:
+
+I once had an exchange which sticks in my mind, and illustrates this point fairly well.  I was pondering utility functions, and said:  "Utility functions are unique up to a positive affine transformation; what kind of information does that preserve? It preserves ordering, but it’s more than just that. It doesn’t preserve proportions…"  And the one who was listening, acting as my person-to-bounce-ideas-off-of, said, "It preserves relative intervals."  And lo, I immediately knew exactly what it meant that the information in a utility function consisted of proportions between intervals between outcomes.
+
+
+But the flip side of this is that any time I spent studying things like evolutionary biology, evolutionary psychology, neuroscience, cognitive psychology, heuristics and biases, etcetera etcetera, I did not spend studying math, and so I did not know off the top of my head that an affine transformation preserves relative intervals. 
+
+Actually, this wasn’t something I knew off the top of my head.  Eliezer had needed to define the word "affine" for me right before that.  I had not studied much linear algebra before working for SIAI. Instead, I instinctively tried to visualize a positive affine transformation.
+I visualized positive affine transformations as ways to move and uniformly stretch a rubber band with some ink-blots on it.  If you visualize that, you will *see* that positive affine transformations preserve relative intervals. It didn’t so much take prior knowledge of mathematics, as prior experience coming up with good mathematical visualizations. 
+My instinct doesn’t always get triggered when it should.  I recall another situation in which Eliezer and I were trying to prove that a certain infinite series would converge.  So I did the usual thing I do in math contests and turned into an algebra ninja.  (You’re an algebra ninja when you solve a problem so fast you don’t know what hit it.) 
+It took me two whole sheets of paper but finally:  "…and then we upper bound log(x) with x-1…and that gives us a sum of squares, so it’s less than C times pi squared over six.  OK, it converges!"  Eliezer was still sitting there thinking.  Finally, he drew a simple picture which explained everything about why the infinite series converged, told us what it actually converged to, and gave us a much clearer understanding of the whole problem.
+The principle of "use the native architecture" extends beyond visualizing mathematics.  Back in my senior year of high school, Eliezer once mentioned to me that Chinese speakers were able to memorize longer strings of digits because each digit is a single syllable in Chinese.  As a computer programmer, it occurred to me that there was nothing stopping me from picking another encoding – and I have perfect pitch, so I picked musical notes.  Middle C is 1, the D above that is 2, and so on up the scale; 0 is the B below Middle C.
+Thus, when my psychology teacher put up a string of twenty digits on the board and asked us to memorize them, I was able to do it.  In fact, I still know that string of digits, as well as several phone numbers I used this trick on (though I stopped bothering once I got a programmable cellphone).
+The Löb’s Theorem cartoon was drawn on the theory that the brain has native architecture for tracking people’s opinions, and would find it easier to visualize the difference between someone’s opinion and someone’s opinion about someone’s opinion, than to make the corresponding distinction in formal systems.  Hence representing Peano Arithmetic as a smiley face.
+When thinking becomes difficult and unintuitive, it may be a good idea to look for a metaphor which maps the subject onto a more native representation.  Though metaphors can break down – my examples are from domains where the mapping was exact.  When metaphors break down, you have to pause; sometimes the mismatch is fixable, and sometimes it’s not.
+
+
+title: Use the Native Architecture
+
+date: August 25, 2008 12:58 pm
+

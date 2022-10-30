@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Today any court can require anyone to testify about anything, if that testimony is seen as relevant to a case, unless that person has a legal “privilege”. I just did 21 polls asking who should have a privilege re testifying about you. Each poll had 223-277 responses. Here is a table of the 21 options, a 1/0 depending on if law today gives such a privilege, and sorted by the difference between the Yes and No percentage responses:
+
+Items in red are those where the law and the majority of respondents disagree; they agree in 69% of cases. The differences: majorities think parents and children should get privilege, and these folks who now have it should not: accountants, blog authors, and government officials. They are evenly spit on newspaper reporters, who now have it.
+I’m not sure I see a good rationale for these limitations; this seems more to be about giving official respect and recognition to key relations.
+
+
+title: Who To Privilege Re Testimony?
+
+date: October 30, 2020 1:30 pm
+

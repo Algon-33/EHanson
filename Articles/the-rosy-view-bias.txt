@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+How much does merit contribute to success? A rosy view is that success is mostly due to merit, while a dark view is that success is mostly not due to merit, but instead due to what we see as illicit factors, such as luck, looks, wit, wealth, race, gender, politics, etc.
+Over a lifetime people gain data on the relation between success and merit. And one data point stands out most in their minds: the relation between their own success and merit. Since most people see themselves as being pretty meritorious, the sign of this data point depends mostly on their personal success. Successful people see a rosy view, that success and merit are strongly related. Unsuccessful people see a dark view, that success and merit are only weakly related.
+In addition, successful people tend to know other successful people, and people tend to think their associates are also meritorious. So the other data points around people tend to confirm their own data point. The net result is that older people tend to have more data on the relation between merit and success, with successful people seeing a rosy view, and unsuccessful people seeing a darker view.
+Since the distribution of success is quite skewed, most older people see a darker view. However, that dark majority doesn’t get heard much. Most of the people who are heard, such as reporters, authors, artists, professors, managers, etc., see rosy views, as they tend to be both older and successful.
+Also, most people prefer to look successful, and so they prefer to look like they’ve seen a rosy view. Even if they haven’t, at least not yet. And a good way to look like you believe something is to actually believe it, even if your evidence doesn’t support it so much.
+In sum, we expect the people we hear to be biased toward saying and believing a rosy view of the relation between success and merit. Of course that might be good for the world, if a realistic view would lead to too much envy and conflict. But it would still be a biased view.
+Added 11p: Of course if they can find a way to rationalize it, we expect everyone to be inclined to favor a view where merit is a big cause of people reaching up to the success level where they are, but non-merit is a relatively bigger cause of people reaching the higher levels above them. When there are many success ladders we expect people to see merit as a big cause of success on their ladder (up to their point), but as less a cause of success on other ladders.
+
+
+title: The Rosy View Bias
+
+date: October 25, 2014 8:10 pm
+

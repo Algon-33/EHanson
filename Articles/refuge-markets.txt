@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+The topic of global catastrophic risk seems silly to many, and my conference talk last Friday on refuges against human extinction seemed even sillier to some – Ron Bailey had fun comparing me to Dr. Stranglelove, and Spiegel saw a colorful character.  Silly or not, however, refuges seem a cheap way to save humanity from worst-case disasters.
+My talk went beyond my book chapter to reach a new height of silliness – I suggested refuge ticket markets.  Beyond my obvious need to be sillier-than-thou, I had another motive: to let prediction markets identify scenarios where catastrophe is a serious risk, and then advise us on how to avoid these scenarios.
+You see, speculative markets have an obvious problem forecasting the end of the world, as no one is left afterward to collect on bets.  So to let speculators advise us about world’s end, we need them to trade an asset available now that remains valuable as close as possible to the end.  Refuge tickets fit that bill.
+
+So imagine a refuge with a good chance of surviving a wide range of disasters.  For example, it might be hidden in a mine, stocked with years of food and power, and continuously populated with forty expert hunter-gatherers (or perhaps subsistence farmers), ten refuge tech experts, and thirty amateurs. Locked down against pandemics, it is opened every six months for supplies and new residents.
+A refuge ticket gives you the right to an amateur refuge slot for a given time period.  For reasons to be explained in a moment, we might also want to match a resort with each refuge.  To exercise a refuge ticket, you show up at its matching resort at the assigned time.
+Refuge and resort tickets would be auctioned off years ahead of time, and then traded in subsidized markets.  Many now think it legal to trade sporting event tickets conditional on which teams are playing.  If so, maybe we could also legally trade refuge and resort tickets conditional on various events.
+For example, one might buy a refuge or resort ticket valid on a certain date only in the event that USA and Russia had just broken off diplomatic relations.  The price of this resort ticket would rise with the chance of this event, while the price of a refuge ticket would also rise with the chance that this event will be followed by a disaster where refuge residence substantially raises your chance of survival.
+So refuge and resort event ticket prices should together indicate the chances of catastrophic events.  If there were several levels of refuges, some protecting only from mild disasters while others also protect from extreme disasters, ticket prices could indicate disasters size expectations.  And if we further allow ticket trading conditional on policies that might mitigate disasters, such conditional prices could tell us which policies speculators expected to most help.
+Silly perhaps, but it might also be terribly useful.
+P.S.  Here’s a nice summary of the conference by Anders Sandberg.
+Added: Of course ticket revenue wouldn’t pay for the whole operation – others would have to subsidize it for the info it created, and for an improved chance of humanity surviving.
+
+
+title: Refuge Markets
+
+date: July 25, 2008 5:30 pm
+

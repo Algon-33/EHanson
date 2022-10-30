@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Mike Huemer on disagreement:
+I participated in a panel discussion on “Peer Disagreement”. … the other person is about equally well positioned for forming an opinion about that issue — e.g., about as well informed, intelligent, and diligent as you. … discussion fails to produce agreement … Should you just stick with your own intuitions/judgments? Should you compromise by moving your credences toward the other person’s credences? …
+about the problem specifically of philosophical disagreement among experts (that is, professional philosophers): it seems initially that there is something weird going on, … look how much disagreement there is, … I think it’s not so hard to understand a lot of philosophical disagreement. … we often suck as truth-seekers: Bad motives: We feel that we have to defend a view, because it’s what we’ve said in print in the past. … We lack knowledge (esp. empirical evidence) relevant to our beliefs, when that knowledge is outside the narrow confines of our academic discipline. … We often just ignore major objections to our view, even though those objections have been published long ago. … Differing intuitions. Sometimes, there are just two or more ways to “see” something. …
+You might think: “But I’m a philosopher too [if you are], so does that mean I should discount my own judgments too?” Answer: it depends on whether you’re doing the things I just described. If you’re doing most of those things, it’s not that hard to tell.
+Philosophy isn’t really that different from most other topic areas; disagreement is endemic most everywhere. The main ways that it is avoided is via extreme restrictions on topic, or strong authorities who can force others to adopt their views.
+Huemer is reasonable here right up until his last five words. Sure we can find lots of weak indicators of who might be more informed and careful in general, and also on particular topics. Especially important are clues on if a person listens well to others, and updates on the likely info value of others’ opinions.
+But most everyone already knows this, and so typically tries to justify their disagreement by pointing to positive indicators about themselves, and negative indicators about those who disagree with them. If we could agree on the relative weight of these indicators, and act on them, then we wouldn’t actually disagree much. (Formally we wouldn’t foresee to disagree.)
+But clearly we are severely biased in our estimates of these relative indicator weight, to favor ourselves. These estimates come to us quite intuitively, without needing much thought, and are typically quite confident, making us not very anxious about their errors. And we mostly seem to be quite sincere; we aren’t usually much aware that we might be favoring ourselves. Or if we are somewhat aware, we tend to feel especially confident that those others with whom we disagree are at least as biased as we. I see no easy introspective fix here.
+The main way I know to deal with this problem is to give yourself much stronger incentives to be right: bet on it. As soon as you start to think about how much you’d be willing to bet, and at what odds, you’ll find yourself suddenly much more aware of the many ways you might be wrong. Yes, people who bet still disagree more than is accuracy-rational, but they are much closer to the ideal. And they get even closer as they start to lose bets and update their estimates re how good they are on what topics.
+
+
+title: Huemer On Disagreement
+
+date: April 30, 2019 10:00 pm
+

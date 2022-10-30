@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Arnold Kling questioned the value of non-profits:
+A profit-seeking enterprise is more accountable, in that a profit-seeking business must satisfy consumers or else go out of business. Hence, it must provide something of value to its customers. On the other hand, if a non-profit fails to provide any benefit to its customers, it still might be able to obtain grants from the government or from donors.
+Fabio Rojas responded:
+Non-profits provide services that are not sustainable in a for-profit format. … The customers simply can’t pay for what might benefit them and “we” (the donors) have decided that these people need the service. The non-profit format is a way to handle donations to third parties in an organized and semi-public fashion. … Examples include services to poor children (e.g., Boys and Girls Clubs), women (e.g., battered women’s shelters) and immigrants (e.g., many religious groups donate time and services to poor immigrants).  My intuition is that it would be hard for a profit oriented institution to help battered women or poor children. …
+It’s signaling. Not only in the Hanson “I do this because I care” sense, but as a commitment to a specific issue. The people who run the local church organization for recent Mexican migrants have to show that they won’t bail in order to give shareholders a slightly higher return. Rather, by making their organization non-profit, they show an allegiance to a specific type of person, not their wallet.
+Fabio suggests that the main function of non-profits is as intermediaries between those who want to donate and the deserving recipients they want to help. But the obvious question here is: why can’t non-profits give these deserving recipients vouchers for service at for-profit firms? Why do non-profits need to provide the services themselves? Remember that 51% of non-profit revenue goes to medical orgs like hospitals, and 14% to schools — vouchers are quite feasible for both of these kinds of services.
+Admittedly, in some cases there are strong complementarities between the task of deciding who is a deserving recipient and actually providing services. This applies, for example, to service coordinators such as social workers, who evaluate aid candidates and suggest relevant services to them. But why must the services that coordinators coordinate be provided by non-profits?
+Now there might be good reasons for customers to sometimes choose non-profit service providers. Such a choice might assure customers that advice being given is not overly influenced by profit motives. But this reason should apply to many sorts of customers all across the economy – there is no obvious reason to expect a correlation between people donors consider deserving of help and people who buy trustworthiness by buying from non-profits.
+So why don’t the non-profits that donors use to distribute help usually give vouchers to recipients, vouchers valid at either non-profit or for-profit service providers? Once one has decided who needs what sort of help, why does it matter what kind or organizations provide that help?
+I suspect that what is going on here is that non-profit donors and employees both dislike the idea of letting money to go for-profit firms, regardless of how much that might benefit aid recipients.  They affiliate with non-profits in order to gain an image of “doing good” and substantial affiliations with for-profits in that process taints that image.
+Added 5p: Several commenters pointed out that many prefer to volunteer time, and without money mediating between their time donation and the cause. That is, they don’t just want to work at whatever makes the most money and have that money used for the cause – they want to personally spend their time on the cause. This also seems to fit my basic theory – that the more money and profit are involved in the process, the more that taints the do-gooding image of their donation.
+
+
+title: Why Non-Profits?
+
+date: July 6, 2011 11:50 am
+

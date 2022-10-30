@@ -1,0 +1,13 @@
+author: Stuart Buck
+
+text: 
+The comments on a recent post raised the question of how much we can trust drug studies sponsored by the very companies that manufacture the drugs in question.  On that point, a recent New York Times article may be relevant: 
+
+In what may be among the longest-running and widest-ranging cases of academic fraud, one of the most prolific researchers in anesthesiology has admitted that he fabricated much of the data underlying his research, said a spokeswoman for the hospital where he works.
+ The researcher, Dr. Scott S. Reuben, an anesthesiologist in Springfield, Mass., who practiced at Baystate Medical Center, never conducted the clinical trials that he wrote about in 21 journal articles dating from at least 1996, said Jane Albert, a spokeswoman for Baystate Health. . . .  
+The drug giant Pfizer underwrote much of Dr. Reuben’s research from 2002 to 2007. Many of his trials found that Celebrex and Lyrica, Pfizer drugs, were effective against postoperative pain. 
+
+title: Trusting Sponsored Medical Research
+
+date: March 14, 2009 11:00 am
+

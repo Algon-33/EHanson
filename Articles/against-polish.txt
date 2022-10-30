@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+For our academic "knights in shining armor," do we care more that their suits shine, than that they are armor?   From a recent Science:
+
+[Journal peer] reviewers make two common mistakes. The first mistake is to reflexively demand that more be done. Do not require experiments beyond the scope of the paper, unless the scope is too narrow. Avoid demanding that further work apply new techniques and approaches, unless the approaches and techniques used are insufficient to support the conclusions. …The second mistake … Do not reject a manuscript simply because its ideas are not original, if it offers the first strong evidence for an old but important idea. Do not reject a paper with a brilliant new idea simply because the evidence was not as comprehensive as could be imagined. Do not reject a paper simply because it is not of the highest significance, if it is beautifully executed and offers fresh ideas with strong evidence. 
+
+Most buildings have "load-bearing" beams and struts, and also extra "flourish" parts and "polish" on those parts, to help the building look good and protect it from the elements.  Similarly, intellectual writings contain both content and polish/flourish.  
+  
+ The content includes key claims and supporting arguments and evidence. Extra flourish can make it accessible to a wider range of readers, and can impress readers with how well read is the author, how thoroughly he considered his topic, how much math he can do, how loyal he is to various groups, etc.  Extra polish of careful and clever organization, turns of phrase, analogies, and so on can shape the content to be more readable, entertaining, impressive, etc.  
+ The relative importance of content versus polish/flourish varies with context.  Content  matters more if readers care more about being persuaded by arguments and evidence, relative to being impressed, entertained, or identifying with groups.  The more people who read something, the more it makes sense to invest in ease of reading.  And expert readers should need less explanatory flourish.  
+ A magazine (or blog) article can have many thousands of amateur readers, who presumably care a lot about being entertained.  An academic journal article, in contrast, may have a dozen expert readers, who presumably care more about content.  So you might think that academic writers would devote far less energy to polish/flourish, relative to content, than magazine writers.  
+As best as I can tell, you would be quite wrong.  Comparing the social scientists and magazine (and blog) writers I know, both groups seem to put a similar relative effort (most of it) into polish/flourish.  For example, both editor types put similar efforts into changing exact article wording.  This suggests to me that academic readers, at least in the social sciences, care even less about content than magazine (and blog) readers.  Can that be right? 
+I realize that polish/flourish aids intellectual progress in some ways, but it still seems to me that switching effort from polish/flourish to content would help intellectual progress.  
+
+
+title: Against Polish
+
+date: February 20, 2008 6:00 am
+

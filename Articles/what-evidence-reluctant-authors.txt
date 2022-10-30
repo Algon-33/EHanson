@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Steven Landsburg is a great economics writer, with a monthly Slate column and many popular economics books.  But he is also a sharp theorist, and his October 2007 Journal of Public Economic Theory paper is in fact the best theory paper I’ve read in several years, as it helps to resolve fundamental issues in moral philosophy.  
+ Now unfortunately Landsburg’s paper is too philosophical to get the attention it deserves from economists, and too mathematical to get the attention it deserves from philosophers.  But one might hope that at least he would be calling as much attention as possible to his paper. Alas, it seems not.  I doubt he will mention it in his column or popular books.  And though he is speaking at our department in a few weeks, he has so far rejected my suggestion to talk on this paper; he’d rather talk about his third paper so far on quantum game theory.  
+ So I am left to wonder: does he know something I do not about the value of this paper?  In any case, here is the idea:
+  
+When we make "social choices," i.e., when we choose outcomes that affect many people, we want to consider how those outcomes affect these people.  And we want to consider not so much direct physical affects, but rather how outcomes affect preferences.  That is, we want outcomes that give people more of what they want, and less of what they don’t want.  
+ When making such a choice we must ask: who counts for how much?  For example, does a little more benefit count about the same for each of us, or do we emphasize helping those who are the worse off?  Answers to such questions can be encoded in a "social justice function," which says how to best achieve social justice when there are conflicts between our differing desires. 
+ Now we may each care not only about ordinary wants, but also about social justice.  That is, we may each care directly about who counts how much in our social choices, and thus in effect care about which social justice function governs social choices.  Thus our social choices will have two effects: they will satisfy more or less of our ordinary wants, and they will also give us more or less of the kind of social justice we desire.  
+ When we can each desire different sorts of social justice, Landsburg shows that most social justice functions are not "self-justifying" in the sense of doing as well as possible on both these affects. i.e., best satisfying both ordinary wants and our thirst for social justice.  In fact, he offers some plausible conditions under which there is only one self-justifying social justice function!  
+ This suggests a fascinating resolution of basic questions in moral and political philosophy, such as "how much equality should we have?"  Landsburg’s answer:  just as much equality as we collectively want to have.  
+
+
+title: What Evidence Reluctant Authors?
+
+date: September 12, 2007 6:00 am
+

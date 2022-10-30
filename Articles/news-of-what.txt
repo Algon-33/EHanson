@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Today’s New York Times has a 7000 word article by Amy Harmon on cryonics, brain scanning, and brain emulation. Now these are subjects of great interest to me; my first book comes out in spring on the third topic. And 7000 words is space to say a great deal, even if you add the constraint that what you say must be understandable to the typical NYT reader.
+So I’m struck by the fact that I have almost nothing to say in response to anything particular said in this article. Ms. Harmon gives the most space to one particular young cryonics patient who got others to donate to pay for her freezing. This patient hopes to return via brain emulation. Ms. Harmon discusses some history of the Brain Preservation Prize, highlighting Ken Hayworth personally, and quotes a few experts saying we are nowhere close to being able to emulate brains. At one point she says,
+The questions the couple faced may ultimately confront more of us with implications that could be preposterously profound.
+Yet she discusses no such implications. She discusses no arguments on if emulation would be feasible or desirable or what implications it might have. I’ll give her the benefit of the doubt and presume that her priorities accurately reflect the priorities of New York Times readers. But those priorities are so different from mine as to highlight the question: what exactly do news readers want?
+For a topic like this, it seems readers want colorful characters described in detail, and quotes from experts with related prestige. They don’t want to hear about arguments for or against the claims made, or to discuss further implications of those claims. It seems they will enjoy talking to others about the colorful characters described, and perhaps enjoy taking a position on the claims those characters make. But these aren’t the sort of topics where anyone expects to care about the quality or care of the arguments one might. It is enough to just have opinions.
+Added 14Sep: Amy posted a related article that is a technical review of brain emulation tech. I’m glad it exists, but I also have nothing particular to say in response.
+
+
+title: News of What?
+
+date: September 13, 2015 12:45 pm
+

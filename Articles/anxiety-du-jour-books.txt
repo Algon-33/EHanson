@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Imagine that you wanted to write a popular book on the anxiety de jour, and that this anxiety happened to be increased moral depravity. Well there’d be an easy time-tested recipe to follow.
+First, give some plausibility arguments for why moral depravity is a big deal. Since everyone already thinks so, weak arguments would be fine. Second, give lots of concrete examples of people and orgs affected by moral depravity, examples readers can relate to. Especially examples about high status and new things – people love to read about those. Third, mention important recent worrying trends backed up by serious research, and vaguely suggest that these trends are caused by increased moral depravity. No need for concrete arguments, you just need to show you are a serious person tracking serious trends. Finally, recommend a bunch of policies to deal with moral depravity, policies many of your readers already support, and that you would have supported even if every one of those recent trends were opposite.
+Most important: have your book come out just as talk about moral depravity was peaking, and be an author with a lot of status in reader eyes. Your readers would mainly just want a book they could point to as they argue the topic, so they’d mainly just want an easy read without subtle arguments that they could fail to understand.
+This is the recipe that Erik Brynjolfsson and Andrew McAfee follow in their new book The Second Machine Age. They are high status authors, and their book arrives just as computer anxiety is peaking. First, they suggest that computers will cause an economic revolution as big as the industrial revolution, which they say was caused by the steam engine. Second, they review lots of fashionable new computer products, demos and hoped-for revolutions. Third, they review serious recent trends backed up by serious research, including decreasing labor fraction of income, and increasing wage variance. They vaguely suggest that these trends are caused by computers, but offer relatively little evidence in support of this claim. Finally, they offer a bunch of standard policy recommendations that they would have made anyway, even if all these trends had been the opposite.
+While reviewing trends, the book points to this graph (taken from this paper):
+
+It compares recent US productivity growth to growth during the era of electrification, 1890-1940, and suggests that growth might increase soon, if it follows the same pattern. But if this is the growth effect size to expect from computers, it is vastly smaller than the industrial revolution, which sustainably increased growth rates by over a factor of fifty (and is not at all well summarized as caused by steam engines). Of course these book authors are careful not to make strong explicit claims – they are content to vaguely suggest.
+So how is one supposed to evaluate a book like this, without original contributions, strong claims, or explicit central arguments to evaluate? The standard intended seems to just be popularity: it is a success if people buy it and mention it lots as they anxiously discuss how computers might change society. And then push for the same policies they would have pushed for anyway, regardless. And by that standard, this book will probably be a success.
+
+
+title: Anxiety Du Jour Books
+
+date: January 19, 2014 11:30 am
+

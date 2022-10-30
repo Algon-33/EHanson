@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+One in eight Americans take prescribed mind drugs, which probably hurt on average (vs. talking cures):
+I first took a close look at treatments for mental illness 15 years ago while researching an article for Scientific American. At the time, sales of a new class of antidepressants, … SSRI’s, were booming. … Clinical trials told a different story. SSRI’s are no more effective than two older classes of antidepressants. … Antidepressants as a whole were not more effective than so-called talking cures. … According to some investigators, treatments for depression and other common ailments work—if they do work—by harnessing the placebo effect. …
+In retrospect, my critique of modern psychiatry was probably too mild. According to Anatomy of an Epidemic … by … Robert Whitaker, psychiatry has not only failed to progress but may now be harming many of those it purports to help. …
+As recently as the 1950s, Whitaker contends, the four major mental disorders—depression, anxiety disorder, bipolar disorder, and schizophrenia—often manifested as episodic and “self limiting”; that is, most people simply got better over time. Severe, chronic mental illness was viewed as relatively rare. But over the past few decades the proportion of Americans diagnosed with mental illness has skyrocketed. … One in eight Americans, including children and even toddlers, is now taking a psychotropic medication. …
+Whitaker compiles anecdotal and clinical evidence that when patients stop taking SSRI’s, they often experience depression more severe than what drove them to seek treatment. A multination report by the World Health Organization in 1998 associated long-term antidepressant usage with a higher rather than a lower risk of long-term depression. …
+Before the introduction of Thorazine in the 1950s, Whitaker asserts, almost two-thirds of the patients hospitalized for an initial episode of schizophrenia were released within a year, and most of this group did not require subsequent hospitalization. Over the past half-century, the rate of schizophrenia-related disability has grown by a factor of four, and schizophrenia has come to be seen as a largely chronic, degenerative disease. A decades-long study by the World Health Organization found that schizophrenic patients fared better in poor nations, such as Nigeria and India, where antipsychotics are sparingly prescribed. …
+Beginning in the 1970s, Harrow tracked a group of 64 newly diagnosed schizophrenics. Forty percent of the nonmedicated patients recovered—meaning that they could become self-supporting—versus 5 percent of those who were medicated. … Electroconvulsive therapy … fell out of favor in the 1970s, in part because of its negative portrayal in the 1975 film One Flew Over the Cuckoo’s Nest, and yet about 100,000 Americans a year still receive ECT. … virtually everyone who receives electroconvulsive therapy relapses within a year without further treatment. (more)
+Added 1p: I’ve blogged before on antidepressants as placebos.
+Added 21Sept: Yvian has convinced me to doubt the claim above I had found most interesting, that schizophrenia changed from a temporary to a chronic condition. So now I doubt this author in general as a source.
+
+
+title: Beware Mind Drugs
+
+date: September 19, 2011 10:50 am
+

@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Worried about teens taking risks tonight, on New Year’s Eve?  Most people think teens take too many risks, and so we should limit the risks teens can take, for their own good.  And from the usual lectures we give teens, it seems we think teens underestimate the rate and severity of bad events.  But in fact, a recent NYT says teens overestimate drug and sex risks: 
+
+ Scientific studies have shown that adolescents are very well aware of their vulnerability and that they actually overestimate their risk of suffering negative effects from activities like drinking and unprotected sex. 
+
+  
+
+ For example, a study by researchers at the University of California, San Francisco, found that teenagers were more likely than adults to overestimate risks for every outcome studied, from low-probability events like contracting H.I.V. to higher-probability ones like acquiring more common sexually transmitted diseases or becoming pregnant from a single act of unprotected sex.
+ "We found that teenagers quite rationally weigh benefits and risks," Dr. Reyna said in a recent interview. "But when they do that, the equation delivers the message to go ahead and do that, because to the teen the benefits outweigh the risks."
+For example, she said: "The risk of pregnancy from a single act of unprotected sex is quite small, perhaps one chance in 12, and the risk of contracting H.I.V., about one in 500, is very much smaller than that. We’re not thinking logically; they are." …a national study of 3,544 teenagers a decade ago found that their own estimates of their risk of dying were very much higher than the actual risk. 
+
+If teens take too many risks, the more plausible explanation is that teens overestimate the benefits, not the costs, of risks.  I’m skeptical, but such a hypothesis isn’t entirely crazy.  Humans may have evolved to take teen risks to impress potential mates and allies, who could then benefit them over a lifetime.  But these benefits might be less important in the modern world — teens who will move away to college, and then away again to a job, should invest less in impressing home town associates.  
+Honest paternalists should switch to lecturing teens about the benefits, rather than the costs, of risks.  Dishonest paternalists will stick with cost lectures, as teens seem more willing to believe they are ignorant about costs.  We will soon see what fraction of teen paternalists are honest.  I’d bet that even ten years from now over 80% of teen risk lecturing (e.g. in high school) will be on costs, not benefits.  
+
+
+title: Honest Teen Paternalism
+
+date: December 31, 2007 6:00 am
+

@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+In this short post what I try to say is unusually imprecise, relative to what I usually try to say. Yet it seems important enough to try to say it anyway.
+I’ve noticed a big hole in my understanding, which I think is shared by most economists, and perhaps also most social scientists: details about motives and emotions are especially hard to predict. Consider:
+
+Most of us find it hard to predict how we, or our associates, will feel in particular situations.
+We care greatly about how we & associates feel, yet we usually only influence feelings in rather indirect ways.
+Even when we have an inkling about how we feel now, we are usually pretty reluctant tell details on that.
+Organizations find it hard to motivate, and to predict the motives of, employees and associates.
+Marketers find it hard to motivate, and to predict the motives of, customers.
+Movie makers find it very hard to predict which movies people will like.
+It is hard for authors, even good ones, to imagine how characters would feel in various situations.
+It is hard for even good actors to believable portray what characters feel in situations.
+We poorly understand declining motive power of religion & ideology, nor which ones motivate what.
+We poorly understand declining emotion power of rituals, nor which ones induce which emotions.
+
+We seem to be built to find it hard to see and predict both our and others’ motives and emotions. Oh we can, from a distance, see some average tendencies well enough to predict a great many overall social tendencies. But when we get to details, up close, our vision fails us.
+In many common situations, the motive/emotive variance that we find it hard to predict isn’t much correlated across people or time, and so doesn’t much get in the way of aggregate predictions. But in other common situations, that puzzling variance can be quite correlated.
+
+
+title: Motive/Emotive Blindspot
+
+date: April 29, 2021 11:10 am
+

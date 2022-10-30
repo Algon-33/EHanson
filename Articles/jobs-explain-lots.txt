@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Different people do different things; why?  When we look features of individuals to explain their differing individual behavior, there are a few favorites: age, gender, race, income, education, IQ, and personality-type.  Some people look at location, such as zipcode or nation.  But it seems to me that one’s job (i.e., occupation) is a neglected strong predictor of many interesting things.  For example:
+
+A few days ago I blogged on a recent study of how jobs predict the chances of divorce. Job risk-ratios range over about a factor of two, after controlling for age, gender, race, and income.
+I start my health econ class with this ’99 study of how jobs predict death rates.  Job risk-ratios range over about a factor of two, after controlling for age, gender, race, income, and education. (Key chart below the fold.)
+A February analysis found occupation strongly predicts the direction of political contributions, and an ’07 study said academic discipline strongly predicts professor political affiliation.  This page of aneqdotes suggests that jobs often predict political affiliations well.
+
+More generally, I’d love to see a factor analysis seeking the few strongest job factors that can simultaneously predict variations in divorce, mortality, political affiliation, and whatever else interesting one can throw into the mix.  Seems like a great project for a data-oriented grad student.OK, here’s how death rates vary with jobs:
+
+
+
+title: Jobs Explain Lots
+
+date: September 27, 2010 8:00 am
+

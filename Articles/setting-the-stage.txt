@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+As Eliezer and I begin to explore our differing views on singularity, perhaps I should summarize my current state of mind.   
+ We seem to agree that:
+
+ Machine intelligence would be a development of almost unprecedented impact and risk, well worth considering now.
+Feasible approaches include direct hand-coding, based on a few big and lots of little insights, and emulations of real human brains.  
+Machine intelligence will more likely than not appear with a century, even if the progress rate to date does not strongly suggest the next few decades.  
+Many people say silly things here, and we do better to ignore them than to try to believe the opposite.  
+Math and deep insights (especially probability) can be powerful relative to trend-fitting and crude analogies.  
+Long term historical trends are suggestive of future events, but not strongly so. 
+Some should be thinking about how to create "friendly" machine intelligences.  
+
+ We seem to disagree modestly about the relative chances of the emulation and direct-coding approaches; I think the first and he thinks the second is more likely to succeed first.  Our largest disagreement seems to be on the chances that a single hand-coded version will suddenly and without warning change from nearly powerless to overwhelmingly powerful; I’d put it as less than 1% and he seems to put it as over 10%.  
+  
+ At a deeper level, these differences seem to arise from disagreements about what sorts of abstractions we rely on, and on how much we rely on our own personal analysis.  My style is more to apply standard methods and insights to unusual topics.  So I accept at face value the apparent direct-coding progress to date, and the opinions of most old AI researchers, that success there seems many decades off.  Since reasonable trend projections suggest emulation will take about two to six decades, I guess emulation will come first. 
+ Though I have physics and philosophy training, and nine years as a computer researcher, I rely most heavily here on abstractions from folks who study economic growth.  These abstractions help make sense of innovation and progress in biology and economies, and can make sense of historical trends, putting apparently dissimilar events into relevantly-similar categories.  (I’ll post more on this soon.)  These together suggest a single suddenly super-powerful AI is pretty unlikely.  
+ Eliezer seems to instead rely on abstractions he has worked out for himself, not yet much adopted by a wider community of analysts, nor proven over a history of applications to diverse events.  While he may yet convince me to value them as he does, it seems to me that it is up to him to show us how his analysis, using his abstractions, convinces him that, more likely than it might otherwise seem, hand-coded AI will come soon and in the form of a single suddenly super-powerful AI.
+
+
+title: Setting The Stage
+
+date: November 18, 2008 11:30 pm
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+We are a long way from running out of room, rocks, and sunlight on Earth, but eventually, probably well within a thousand years, our descendants will colonize our Solar System in earnest. When they do, they will have to answer some key property rights questions:
+
+How do things go from unowned to owned?  An auction?  First to touch/use in some way?
+What orbital rights-of-way can be owned? Only Sun-centered spheres? Any initially used orbit and any changes that don’t intersect other used orbits?
+Who can block what sunlight? Let anyone block anything? Can’t block used light without permission?
+
+On this last question, I can see light rights easily evolving as did water rights on Earth, where those using some water for a while gained a right to keep on using it. However, on reflection this seems like a mistake for sunlight. Imagine one gained a right to sunlight in a certain orbit after one had used it that way for a while. Once there came to be lots of complex orbits of things using sunlight, it would become very hard to contract with all those light owners to put together the rights to build something large orbiting closer to the sun. Such a new close thing would naturally block many far away things.
+Yet the long term efficient use of sunlight would probably involve fewer big collectors orbiting close to the Sun. Thus a natural initial way to allocate light rights would lead naturally to an inefficient long-term allocation of those rights. So it might be better to start the light rights system off differently. I suggest having the property rights be that anyone can block anyone’s light as long as doing so is accidental and doesn’t seem especially targeted at blocking their light. This system would eventually allow a smoother transition to the more efficient arrangement of having fewer big close light collectors.
+
+
+title: Light Rights Tangles
+
+date: November 9, 2010 5:00 pm
+

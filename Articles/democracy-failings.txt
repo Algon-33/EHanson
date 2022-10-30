@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Data on 786 elections in 155 countries from 1974 to 2004 … [finds] that fraud may have affected the results in 41 percent of them. Perhaps that shouldn’t be surprising, since incumbent politicians who cheat to get reelected stay in office 2.5 times longer than they would have playing it fair and square. …
+Above $2,700 per capita, democracies are less prone to violence than are autocracies. But most political violence happens in countries where income is far below that threshold; there, democracy is associated with a greater risk of bloodshed. … Although the risk of violence falls in the year before an election, it rises in the year after. … Election misconduct tends to be concentrated in countries that have low per capita incomes, small populations, rich natural resources and a lack of institutional checks and balances. Eastern Europe didn’t fit this picture. … Most of the countries in sub-Saharan Africa, however, have all the characteristics that undermine elections, giving them a mere 3 percent chance of an honest vote … Afghanistan is not exceptional; in fact, electoral misconduct there was almost inevitable. …
+Populist pressure does cause policies to deteriorate somewhat in the year before an election. … But governments that face frequent elections have significantly better economic policies when they are averaged over the political cycle, and governments that become subject to elections improve their policies. … [However] elections in which there is misconduct have, at best, no effect on economic policy because governments are off the hook of accountability. … One of the main ways incumbents steal elections is through patronage financed by looting the public purse.
+More here.  Why again do we focus so much on “bringing democracy” to poor nations?
+
+
+title: Democracy Failings
+
+date: November 9, 2009 9:30 pm
+

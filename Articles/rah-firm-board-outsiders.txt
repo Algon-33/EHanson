@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+The typical corporate board of directors has nine members, five of whom are “outsiders”, i.e., “who are not current or former employees, and who do not have dealings with the firm.”  When such an outsider suddenly and unexpectedly dies, the stock price falls by about 5% on average, and falls even more if that outsider was not appointed by the current CEO.  This 5% number is a (1% significant) estimate after controlling for director quality, by studying 30 directors who were outsiders on some boards, and insiders on other boards.  This strongly suggests there are large gains to encouraging more independent firm directors. Details:
+We investigate contributions of independent [= outsider] directors to shareholder value by examining stock price reactions to sudden deaths in the US from 1994 to 2007. We find, first, that following director death stock prices drop by 0.85% on average. Second, the degree of independence and board structure determine the marginal value of independent directors. …
+We … run fixed effect estimations … [to] control for any director-invariant heterogeneity (e.g., ability, experience, and skills). … For comparative purposes, we run the regression on this subsample without director fixed effects … [and] find a -3.52% negative stock price reaction to sudden deaths of independent directors. … Column 3 confirms these results when we also control for director fixed effects. … The stock price drops on average by 5.01% following the death. … We add more control variables … [and find] the stock price drops on average by 4.85%.  …
+Stock prices react less negatively when the independent director has long tenure. Controlling for the effect of tenure, the stock price reacts less negatively when the director is appointed during the tenure of the current CEO. The marginal value of independence is higher when there are fewer outside directors or in cases in which the deceased independent director serves crucial board functions, such as chairmanship or audit committee membership. Independence is particularly valuable when the deceased director holds the swing vote that secures a majority of independent directors on the board.
+
+
+title: Rah Firm Board Outsiders
+
+date: August 12, 2010 10:00 am
+

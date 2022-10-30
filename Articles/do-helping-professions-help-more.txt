@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+A student told me the other day he wanted to be a doctor, so he could help people.  I thought, "What, as opposed to the rest of us who hurt people?"  Contrary to the smug self-righteousness assumptions of those in "helping" professions, like child care, teaching, counseling, or emergency services, it is far from obvious that these professions are any more helpful than the rest.  
+  Yes, if you choose to be a doctor, you will spend your time providing services that people perceive to have value, sometimes enormous value.   However, you cannot take full credit for this value:
+  
+
+You charge a price for your services, so the help they receive is the difference between the value they gain and the price you charge.  The more you charge the less help is gained, and doctors charge a lot.
+If there are a fixed number of slots in medical school, you would just displace someone else.   You then have to ask how much better are your services than that person’s.  And beware of overconfidence.   
+If there are not a fixed number of slots, then by becoming a doctor you induce between zero and one more doctor’s worth of patients to be treated.   But these are marginal, not average, cases; these patients thought their case so mild that they were right on the borderline of not going to a doctor at all.   So you only get to take credit for the value these marginal patients get, not the average patient.
+Customers might overestimate the value they get from your services.  Yes, your colleagues might say that people tend to underestimate the value of your service, but they are probably biased.  In fact, the marginal patient seems to get zero health value from medical services.   
+Part of the value you provide may be relative social status.   By teaching, you might help some students look better to employers than others.   By doctoring, you may help some show they care about their family more than others.   If so, you are helping some by hurting others.  Shame on you.  
+You may really want a helping job so that you can feel and look morally superior to those in non-helping professions.  If so, you gain value at the expense of others who look worse; shame on you again. 
+
+By participating in a society we all help each other.   The amount you are paid is a (low) estimate of the value others place on your services.  This estimate may have biases, but beware of too quickly assuming you know what that bias is. 
+
+
+title: Do Helping Professions Help More?
+
+date: December 12, 2006 6:00 am
+

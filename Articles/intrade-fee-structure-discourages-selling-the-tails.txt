@@ -1,0 +1,20 @@
+author: Patri Friedman
+
+text: 
+The political betting markets seem more efficient this year, so I’m looking at narrower perceived edges and care more about transaction costs.  It looks to me like the InTrade fee structure really discourages selling longshots, if I’m understanding it right.  There are three main costs:
+
+ The trading fee is per-lot, and paid by the price taker.  It is slightly lower for extreme prices (3c vs. 5c).
+The expiry fee is paid by the winner, and is 10c per lot.
+The opportunity cost of having the money at InTrade to cover your margin is the risk-free rate minus InTrade’s interest rate (3% for accounts over $20K).
+
+Even if we assume always being the price maker, note how the 2nd and 3rd both hurt those who sell longshots much more than those who buy them.  The seller of 1 contract at 5 will (if the price is right) pay the expiry fee 19 times out of 20.  So rather than having a return of $.50 * (19/20) – $9.50 * (1/20) = $0.0, the seller’s return is ($.50 – $0.10) * (19/20) – $9.50 * (1/20) = -$0.095 (or more simply the $0.0 EV of the bet minus (19/20) * $0.10).  Whereas the buyer only pays the expiry fee 1 time in 20, so his return is his $0.0 EV minus (1/20) * ($0.10), or -$0.005.
+So starting with an even bet, the in-the-money expiry fee costs the buyer of a longshot 0.5c per lot and the seller 9.5c per lot – quite a difference!  The ratio varies smoothly from splitting the juice for a 50/50 bet to having the seller pay almost all of it for a 99/1 bet, yet I don’t see any underlying mathematical reason why this should be the case.  Which means it will distort prices.
+The same is true of point 3.  If the risk-free rate of return is 5%, and traders are earning 3% on their accounts, then any money locked up costs 2%/year.  For a contract with 100% margin requirements, which is currently the case for the markets on the presidential primaries, this means that staying in a contract for 3 months costs roughly 0.5% of interest.  The seller of a contract at 5 must lock up $9.50 / contract, while the buyer only has to lock up $.50.  Which means the seller pays 4.75c in foregone interest while the buyer pays 0.25c.
+About the only good thing I can find to say about this fee structure is the consistency – both of these charge buyer and seller at exactly the same rate, namely in proportion to the odds (19:1 for a contract at 5).  Although from the exchange’s point of view, a fixed fee per lot has the benefit of making revenue predictable (as opposed to charging a percentage of winnings), and there are psychological benefits to charging the winner.
+Any suggestions for alternate fee structures?
+
+
+title: InTrade fee structure discourages selling the tails?
+
+date: November 24, 2007 10:00 am
+

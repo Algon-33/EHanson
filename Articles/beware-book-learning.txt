@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+My youngest son Andy is a junior at arguably the best public high school in the US: Thomas Jefferson in Fairfax County Virginia.   At back to school night tonight I asked his AP Computer Science teacher if/how they encouraged a modular programming style.  He said this wasn’t necessary since they used objects in JAVA, and modularity comes automatically from objects.
+My jaw would have dropped had I been less polite. This is so amazingly wrong that I’m not even sure what a good analogy is – I’d better understand a physics teacher working on perpetual motion machines.  My nine years as a computer researcher taught me that modularity is by far our single most powerful programming tool.  Sure objects might help, but only a bit; one must attend to modularity everywhere.
+Yes it makes sense for this teacher to ignore modularity if the AP exam ignores it.  And perhaps it even makes sense for the exam to ignore it since modularity tests might take lots longer than other tests.  But for someone with five years experience teaching computing at the nation’s best public high school to not even know that modularity goes way beyond objects – that seems a sad example of off-the-rails book learning.
+My wife thought my complaint ridiculous, and didn’t think I should voice it within earshot of other parents.  He was a teacher after all, and I’m just a parent.  (I worry – could I be that book-learning wrong about anything I teach, relative to what practitioners know?)
+This example supports the claim that it is mostly the students not the teachers who makes good schools good, and that even in computer science signaling takes precedence over learning.
+Fortunately Andy’s other computing teacher seems to know what he is doing.  Andy claims he is well aware of the importance of modularity, and there is some evidence of that in the games he has written (see Rhodium Games and its YouTube soundtracks.)
+I fear too many kids see the key to success as scoring on tests and classes and doing politically-correct extra-curricular activities, instead of taking on substantial projects where they learn a bit more about how things really work.  I’m somewhat (but only somewhat) glad I went to a college that was too easy for me, and that the girls showed me little interest, making me invent and pursue my own projects.
+
+
+title: Beware Book Learning
+
+date: October 7, 2009 11:15 pm
+

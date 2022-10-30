@@ -1,0 +1,25 @@
+author: Justin Wolfers
+
+text: 
+   
+The front page of Sunday’s New York Times contained an interesting article reviewing research linking  the death penalty to homicide trends.  Adam Liptak attempts to provide a balanced account of the debate, noting first one set of findings:
+
+According to roughly a dozen recent studies, executions save lives. For each inmate put to death, the studies say, 3 to 18 murders are prevented.
+
+And then my own research:
+
+The death penalty “is applied so rarely that the number of homicides it can plausibly have caused or deterred cannot reliably be disentangled from the large year-to-year changes in the homicide rate caused by other factors,” John J. Donohue III, a law professor at Yale with a doctorate in economics, and Justin Wolfers, an economist at the University of Pennsylvania, wrote in the Stanford Law Review in 2005. “The existing evidence for deterrence,” they concluded, “is surprisingly fragile.”
+
+Surely a dozen studies is itself evidence of robustness.  Why then is then is it that we find these results are fragile?  Two words: Publication bias (also known as the file drawer problem).  Our research revealed that alternative approaches to testing the execution-homicide link can yield a huge array of possible results (positive and negative).  But if only strong pro-deterrent results are reported (and the others remain in the file drawer), this could look misleadingly like there is a pro-deterrent consensus.
+It turns out that there are some rather simple tests for publication bias.  Our friends in medicine provide a useful intuition.  Imagine that there are many separate drug trials being considered – some with large samples, some with small samples.  If all results are being reported, then smaller samples should, on average, yield similar estimates to larger samples, albeit with a bit more noise (in both directions).  So the standard error of an estimate should be uncorrelated with the coefficient.  But if researchers only report statistically significant estimates, then they will only report results with t-statistics>2, yielding a strong correlation between standard errors and coefficient estimates.
+You can probably guess what we find.
+  
+Looking across the key estimate from the most-cited studies we find: But perhaps more telling, is the same assessment on the various estimates reported as “robustness checks” within each of these studies: Remember: The data should look like a sideways “V”.  Yet there is only one paper that does not suggest a statistically significant correlation between the standard error and the reported coefficient (Katz, Levitt and Shustorovich), and incidentally, that is the only paper without a strong pro-deterrent finding.
+ Given that it appears that few of the insignificant estimates were reported, it probably isn’t that surprising that running a few more regressions reveals many of the unreported insignificant (and even opposite-signed) results.
+Still need convincing?  Download my death penalty data, and run your own regressions.  You will find all sorts of different results.
+
+
+title: Publication Bias and the Death Penalty
+
+date: November 19, 2007 9:07 am
+

@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+In reading the comments on my variance-induced test bias post, I was reminded of a big bias loophole in social science: judging when an analysis is complete "enough."  We usually have some status quo policies, and some analyses relevant to those policies.  Each analysis tends to favor some possible policies relative to others, but alas most every analysis is incomplete, leaving out relevant considerations.  
+ Now we do need to assess which analyzes are most relevant to any given policy question, but at least here experts can, when analyses are similar enough, usually bring to bear some relatively "objective" criteria.  When we ask if the relevant analyses are good "enough" to justify action, however, we can usually appeal only to much weaker standards of evaluation.  
+  
+ Those who like the implications of current analyses may insist that honesty demands we act on their recommendations, while those who dislike those recommendations may say analysis incompleteness means we just do not have enough evidence to justify changing our behavior.  For example, those who like the idea of having college admission boards adjust SAT scores as I suggested may say my analysis is plenty detailed enough, while those who dislike this policy may say we need far more detailed analyses before we could even consider such a policy.  
+ In such a situation it can be very hard for observers, or even participants, to know which side to believe.  Whatever are our most detailed current analyses, those who think their recommendations misleading can usually point to crucial considerations which, if included in a more complete analysis, might well overturn those recommendations.  But such critics often feel under no obligation to actually produce such more complete analyses. 
+ There are many possible standards we could apply here:
+
+ we follow the most detailed analyses available, even if very incomplete
+ we follow the analyses preferred by the most prestigious academics available
+ we follow the advice of decision markets, regardless of trader analysis detail
+ we together elect a representative who then judges for him/herself.  
+ each person judges for him/herself; no more common standard is desirable
+
+Which standard is best in what circumstances?  
+
+
+title: Incomplete Analysis
+
+date: August 4, 2008 6:00 am
+

@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+I continue to have doubts about whether to blog.  As I explained in February, my main doubt is whether this will accumulate:
+
+A newspaper or magazine article will be read by thousands, while one is lucky if ten people read an academic paper.  So if you want influence, write for the popular media, right?  Well, those thousands of newspaper readers will soon forget everything you said, but a few academic readers may well write papers influenced by your paper.  People almost never look up ten year old newspaper columns, but they do often read ten year old academic papers.  So an academic paper may still have a better chance at long term influence than a newspaper column. 
+
+ Yes, we get over a thousand readers a day here, and those readers must be influenced somehow.  But do those influences add up to a long term net effect? 
+ Consider that before the farming revolution humanity’s knowledge accumulated very slowly.  Each person learned a great deal over the course of his lifetime, both by discovering new insights for himself and by listening to others.  Nevertheless, the distribution of knowledge in the population hardly changed; each new generation had to rediscover and relearn the same insights all over again.
+ So the fact that each blogger and reader today feels like he is slowly gaining insight does not mean we are part of a process by which humanity accumulates insight.  We could just each be relearning and re-expressing what many of our ancestors knew.  Of course parts of academia may also fall victim to the same syndrome.  But it seems that at least some parts of academia do manage to accumulate insight via modularity.  As I said: 
+
+A key difference is that academics organize into a network of specialists with social norms requiring them to cite related previous work, and to situate their publications so that they can be found by others working on similar topics.
+
+The joy of blogging for me is taking just an hour to pen and distribute an apparently powerful insight.  But this joy is illusory if my insights never join a process of accumulation where others build on my insights and integrate them effectively into a larger body of thought.  If I’m mainly the equivalent of a newspaper columnist, rather than a part of a community of modular thinkers, this is to me a waste.  
+ So, given that these are my goals and concerns, should I quit blogging in favor of more traditional academic publications?
+
+
+title: Blogging Doubts
+
+date: July 17, 2007 6:00 am
+

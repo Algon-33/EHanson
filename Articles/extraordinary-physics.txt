@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+In January Eliezer warned: 
+
+Our own eyes can deceive us.  People can fool themselves, hallucinate, and even go insane.  The controls on publication in major journals are more trustworthy than the very fabric of your brain.  If you see with your own eyes that the sky is blue, and Science says it is green, then sir, I advise that you trust in Science. 
+
+ If you trust the scientific establishment enough, you should explain odd personal experiences via odd arrangements of familiar science, rather than rejecting established science claims.   In cosmology today, physicists seem to face a related choice.
+ For 35 years, the standard model in particle physics has passed every test with flying colors.  Yet we see some odd phenomena in cosmology — how willing should physicists be to invoke radically new physics to explain this phenomena, rather than looking to odd arrangements within or close to the standard model?  For example: 
+
+The flat uniform universe we see, as well as its small initial deviations, could come from adding one more scalar (the simplest possible particle type).
+The universe of matter see, with almost no anti-matter, could be explained by a small change to the way the electroweak force violates C and CP symmetries. 
+Dark matter could be axions, scalar particles predicted by a small change to the standard model introduced to explain how the strong force respects CP, while the electroweak violates it. 
+Dark energy could be just ordinary large magnetic fields, which stretch as the universe expands. 
+
+ It is striking to me, and somewhat puzzling, that physicists seem to prefer to explain these odd facts via more radical changes to the standard model, such as string theory with extra dimensions.  I understand that radical changes would be more interesting to learn about, but it seems to me that the least radical changes should be the most likely explanations. 
+
+
+title: Extraordinary Physics
+
+date: June 27, 2007 6:00 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+In May the US CFTC declared that it was considering offering more legal approval for "markets commonly referred to as event,  prediction, or information markets."  They requested comments, due by today.  My comment concludes:
+
+In addition to existing regulatory regimes for ownership-hedging securities, idiosyncratic-risk-hedging insurance, and common-risk-hedging futures, it could make sense to have a distinct regulatory regime for markets whose main reason to exist is the info that they collect.  Compared with existing commodities futures regulation, such a regime should set a much lower barrier to creating such markets, as much of the social value may be distributed in millions of small markets.  And while it is hard to determine in general which markets would create high social info value, relative to cost, we should presume such high value when a sponsor is willing to pay to ensure that traders suffer no average financial cost from their participation. 
+
+Added:  I’m off in a few hours for a two week trip to Helsinki and then Oxford.  I have posts ready for while I’m gone, but I expect to comment less often.  
+
+
+title: CFTC Event Market Comment
+
+date: July 7, 2008 11:45 am
+

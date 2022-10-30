@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+We show with a laboratory experiment that individuals adjust their moral principles to the situation and to their actions, just as much as they adjust their actions to their principles. We first elicit the individuals’ principles regarding the fairness and unfairness of allocations in three different scenarios (a Dictator game, an Ultimatum game, and a Trust game). One week later, the same individuals are invited to play those same games with monetary compensation. Finally in the same session we elicit again their principles regarding the fairness and unfairness of allocations in the same three scenarios. Our results show that individuals adjust abstract norms to fit the game, their role and the choices they made. …
+The strong side bends the norm in its favor and the weak side agrees : Stated fairness is a compromise with power. … The adjustment of principles to actions is mainly the fact of individuals who behave more selfishly and who have a stronger bargaining power. The moral hypocrisy displayed (measured by the discrepancy between statements and actions chosen followed by an adjustment of principles to actions) appears produced by the attempt, not necessarily conscious, to strike a balance between self-image and immediate convenience. (more; HT Dan Houser)
+
+
+title: Hypocrisy In The Lab
+
+date: June 12, 2012 8:20 pm
+

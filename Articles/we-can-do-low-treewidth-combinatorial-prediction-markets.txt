@@ -1,0 +1,32 @@
+author: Robin Hanson
+
+text: 
+In my last post I said I hoped prediction markets would become
+an “our answers” institution with easily-found accurate answers on as many questions as possible.
+Today prediction markets’ main problem is laws banning them (and customs limiting firm interest in internal markers). Alas as an academic, I can’t do much to change such laws. But I can work to improve the basic tech, for the day when prediction markets are legal. Yesterday I also said:
+[Here’s] one way to expand the range of questions prediction markets can cheaply answer: start with a set of base questions, and then let users ask and answer questions from the vast space of combinations of those base questions. For example, starting with a base consisting of all the specific future readings of all weather stations, users could ask most any weather question of interest, such as whether this next winter will be colder where they are living now, or in the particular city where they are thinking of moving. In my next post I’ll talk about a big advance my research group has achieved in the implementation of such combinatorial prediction markets.
+The DAGGRE project that I’ve been part of for over a year now has been working to advance the theory and practice of combinatorial prediction markets. Within a few months we will field an edit-based system where users can browse current answer estimates, and for each estimate can:
+
+Edit the value. After you change an estimate to a new value, estimates that users see on all questions are Bayes-rule updates from that new value.
+Assume a value. After you assume a value for this estimate, all estimates you see on all questions are conditional on this assumption.
+
+To support this interface, we have three computing tasks:
+
+When a user has made assumptions A and browses to a possible question answer T, compute and show the current value v = P(T|A).
+To see how far this user could change this number, compute the edit values, v-, v+, in each direction that give him or her zero assets in some state.
+To show the user if he or she is currently long or short on this topic, compute and compare his or her expected assets given A&T, and given A&notT.
+
+The problem is, even though a simple math formula says how a user’s (state-dependent) assets change when he or she makes such an edit, it is in general infeasible to quickly calculate the above numbers for more than a few dozen base questions.
+To make computing feasible, we must somehow limit the space of allowable question answers. So the big question is: what limits will allow as many as possible of the combinations that user will typically want to edit, while still enabling accurate computation for allowed combinations.
+One approach is to group base questions into sets of roughly twenty or less, and allow arbitrary combinations within each group, but no combinations between different groups. This is feasible, but we can do better, via Bayesian (or Markov) nets.
+These nets limit the space of possible answers by imposing conditional independence assumptions. In a net of (directly) connected variables (i.e., questions), all variables are assumed independent of unconnected variables, conditional on connected variables. A standard (junction tree) algorithm allows exact computation of conditional probabilities for nets with a low “treewidth” (roughly, the number of variables you’d have to merge to make the net into a tree).
+Of course that only covers task #1 above; what about the other two? My DAGGRE group has just published a paper (also here), to be presented at a conference (UAI) in August, showing how to exactly (well, up to machine precision) compute tasks #2,3 in this same situation. (Task #2 needs a low treewidth, but #3 works on any net.) We’ve implemented this algorithm and shown that an ordinary laptop can handle a thousand variables and a treewidth of ten in a fraction of a second. Within a few months this will be the (public domain) backend of our public edit-based combinatorial prediction market with hundreds of questions and active users. I’ll announce it here on this blog when it is ready to show.
+Of course our real best-answers don’t actually fit in a low treewidth net. So we have more work to do: finding efficient approximations for tasks #1,2 in more realistic nets. There is already a large literature on ways to compute conditional probabilities in high treewidth Markov nets; we just need to study and choose among them. And I already know of a very promising general way to do task #2 well enough; we just need to try it.
+Even when we can handle more realistic nets, we will still have to limit their size to make computing feasible. So we’ll need ways to let users edit the net structures – to tell us where to add and delete connections. I have some ideas here, but we are far from a satisfactory solution.
+Even so, progress has been surprisingly rapid, and we have good reasons to expect continued rapid progress. We seem just a few years away from having the tech to field general robust combinatorial prediction markets! Then we’ll just have to figure out how to make it all legal.
+
+
+title: We Can Do Low-Treewidth Combinatorial Prediction Markets!
+
+date: July 2, 2012 8:40 am
+

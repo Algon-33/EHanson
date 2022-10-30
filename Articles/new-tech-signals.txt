@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+New tech is usually adopted not for direct productivity gains, but to signal one is in fashion, one is technically capable, etc.  From a Post Oped Tuesday:
+President Obama's proposed health-care reforms include investing $50 billion over five years to promote health information technology. Most notably, paper medical records would be replaced with linked electronic records to try to improve quality of care and lower medical costs. The recently enacted stimulus package included $20 billion for health IT. … 
+
+title: New Tech Signals
+
+date: March 18, 2009 12:00 pm
+

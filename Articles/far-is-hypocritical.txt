@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Far mode tends to make people more hypocritical in two ways. First, as I discussed before, it makes us think more in moral terms when our acts have weaker personal consequences:
+Situations should be more readily construed in terms of moral principles when they occurred further back in the past, when they apply to more socially or spatially distant individuals or groups, and when they are less likely actually to occur. … Moral principles and values guide judgments and plans for psychologically distant situations more than for psychologically near situations. These results reveal an intriguing phenomenon: Highly cherished concerns in one’s self-concept may influence judgments and plans regarding distant situations (e.g., distant future, distant others, distant places, unlikely events) but then fail to be enacted when the time and place of implementation approaches. (more)
+Second, far mode seems to more directly induce us to apply stricter standards to others than to ourselves. We see this clearly regarding power.  Power makes us think far:
+In 6 experiments involving both conceptual and perceptual tasks, priming high power led to more abstract processing than did priming low power, even when this led to worse performance. Experiment 7 revealed that in line with past neuropsychological research on abstract thinking, priming high power also led to greater relative right-hemispheric activation.
+And power also makes us hypocritical:
+In one experiment the “powerful” participants condemned the cheating of others while cheating more themselves. … When given a chance to cheat on a dice game to win lottery tickets (played alone in the privacy of a cubicle), the powerful people reported winning a higher amount of lottery tickets than did low-power participants. … In all cases, those assigned to high-power roles showed significant moral hypocrisy by more strictly judging others for speeding, dodging taxes and keeping a stolen bike, while finding it more acceptable to engage in these behaviors themselves.
+I suspect power is related to both far and hypocrisy because far is related to hypocrisy. It seems that our capacity to switch between near and far modes was an important enabler of our becoming homo hypocritus.  If far-hypocrisy is a credible signal of power, is that part of why we tolerate so much hypocrisy from our elites?
+Added 14May: As this study (HT Eric Barker) illustrates, we tend to think ourselves less personally responsible for events that are further away.  So we prefer to see something bad we did as having happened further back in time, or as having been caused by a larger social group.  But it is not clear we are actually less responsible for such events.  This effect also makes use more willing to embrace high principles in far mode.
+
+
+title: Far is Hypocritical
+
+date: May 12, 2010 12:00 pm
+

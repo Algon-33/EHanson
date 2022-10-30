@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan points us to a paper by Mankiw, Reis, and Wolfers on disagreement about inflation:
+
+The sticky-information model, according to which some people form expectations based on outdated information, seems capable of explaining many features of the observed evolution of both the central tendency and the dispersion of inflation expectations over the past fifty years.
+
+This seems to me a good example of unproblematic disagreement.  I must have expectations about inflation, but I never talk about them, and I don’t see how I could infer much about other people’s inflation expectations from their behavior.   So if I disagree with others on inflation, I do not knowingly disagree.   And it is only known disagreements that strongly suggest some sort of bias.  
+
+
+title: Disagreement on Inflation
+
+date: February 18, 2007 6:00 am
+

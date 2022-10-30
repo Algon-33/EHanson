@@ -1,0 +1,23 @@
+author: Stuart Buck
+
+text: 
+As Robin has pointed out before, there isn’t a lot of evidence that so-called preventive health-care is worthwhile. A recent NY Times op-ed by Dartmouth professor H. Gilbert Welch, author of "Should I Be Tested for Cancer? Maybe Not and Here’s Why," is worth flagging: 
+
+In a presidential campaign that promises straight talk and no gimmicks, why do both candidates champion one of medical care’s most pervasive myths?  The myth is that like magic, preventive medicine will simultaneously reduce costs and improve health. . . .  
+The term "preventive medicine" no longer means what it used to: keeping people well by promoting healthy habits, like exercising, eating a balanced diet and not smoking. To their credit, both candidates ardently support that approach.  But the medical model for prevention has become less about health promotion and more about early diagnosis. Both candidates appear to have bought into it: Mr. Obama encourages annual checkups and screening, Mr. McCain early testing and screening.  
+It boils down to encouraging the well to have themselves tested to make sure they are not sick. And that approach doesn’t save money; it costs money.  
+
+  
+
+Increasing the amount of testing for an ever-expanding list of problems always identifies many more people as having disease and still more as being "at risk." Screening for heart disease, problems in major blood vessels and a variety of cancers has led to millions of diagnoses of these diseases in people who would never have become sick. . . . 
+These interventions do prevent advanced illness in some patients, but relatively few. Any savings from preventing those cases is dwarfed by the cost of intervening early in millions of additional patients. No wonder pharmaceutical companies and medical centers see preventive medicine as a great way to turn people into patients — and paying customers.  . . . 
+Early screening is like the "check engine" light in your car. It can alert you to problems that need to be fixed, but too often it picks up trivial abnormalities that don’t affect performance, like one sensor’s recognizing that another sensor isn’t sensing. . . . 
+It’s hard to ignore a "check-engine" light. Some mechanics reset them and see if they come on again, but often they lead you to a repair. And you may have had the unfortunate experience that a repair makes matters worse. 
+If so, you have some feel for the problem of overdiagnosis. Almost everybody with a diagnosis undergoes treatment. And all of our treatments have some harms. From 1 to 5 percent of patients die after major surgery, and as we are all increasingly aware, prescription medicines carry real risks. Recent experiences with hormone replacement (breast cancer) and Vioxx (heart attacks) are potent reminders that our "best" new treatments may harbor unpleasant surprises. 
+
+
+
+title: Preventive Health Care
+
+date: October 17, 2008 6:00 am
+

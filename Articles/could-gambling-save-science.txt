@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+That is the title of my most widely read paper, just discovered by physicist Sabine "Bee" Hossenfelder (hat tip to Amara Graps):
+
+Hanson claims that the way researchers are awarded and appreciated today favors ‘being popular, fashionable, and eloquent, instead of being right’. There is certainly some truth in that, though I don’t think the situation is as bad as he makes it seem. … Since those who eventually were right with their opinion about the scientific question, will win their bet … he claims financial profit is the reward that will convert the bad unethical academic to a good and honest guy. … possible objections … there is no real profit in that game. … [zero sum bets] makes the whole idea far less attractive for anybody interested in making profit … 
+A problem arises in the time between the proposal of a new idea and its verification (or falsification). In the absence of nature as a judge, we have to find other ways to judge on the quality of our work. … Instead, the problem Hanson is concerned with is the time between nature’s judgement that promotes one theory to be the best, and the time its inventor receives credits for it. …
+The whole idea fails on a very obvious point: … the majority of scientists is not in academia because they want to make profit by investing smartly. Financial profit … is just not what drives most scientists. … No, the majority of experts wouldn’t pay any attention to that betting market. And without experts opinion, the whole system becomes no better than a lottery.
+
+  
+Bee has written perceptively elsewhere about poor incentives in the academic marketplace of ideas, especially for allocating research funding.  Her proposed solution, as best I can figure it, is "talking" via "politics" to then "regulate."  Without more details, I can’t endorse that.   But I do take her reaction above as showing I failed to make myself clear.   So let me try again: 
+
+The input-output of research is: funding in, more accurate beliefs out. Scientists care both about getting research funding, and about influencing wider related beliefs.  I propose we use speculative markets more both to allocate research funding and to create consensus beliefs to inform policy.  Let us allocate less money via peer review committees, and more via prizes and subsidized betting markets (which I call "info prizes.")  When deciding what to believe, let outsiders rely more on market prices than on expert reviews or committee reports.  
+So I do not claim that scientists are motivated mainly by financial profit.  And I am concerned to get better incentives for effort allocation and official reporting along the entire range, from when nature speaks so softly that no one hears, to when her voice is loud and clear to the well-prepared. 
+
+
+
+title: Could Gambling Save Science?
+
+date: April 5, 2007 6:00 am
+

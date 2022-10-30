@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan raises a neglected but important issue:  are important issues neglected for news of the moment?  Bryan quotes Delos Wilcox from 1900:
+
+ But we must deplore and, so far as possible, overcome the evils of habitual newspaper reading. These evils are, chiefly, three: first, the waste of much time and mental energy in reading unimportant news and opinions, and premature, untrue, or imperfect accounts of important matters; second, the awakening of prejudices and the enkindling of passions through the partisan bias or commercial greed of newspaper managers; third, the loading of the mind with cheap literature and the development of an aversion for books and sustained thought.
+
+ Bryan also quotes Thomas Jefferson:
+
+ Avertisements contain the only truths to be relied on in a newspaper. … I do not take a single newspaper, nor read one a month, and I feel myself infinitely the happier for it. … The man who reads nothing at all is better educated than the man who reads nothing but newspapers.
+
+  
+ Just as fantasy typically substitutes for reality, news typically substitutes for insight – in both cases by diverting attention.  The same risk applies to reading blog posts of course, which is why I try to focus on reading and writing posts on relatively deep long-standing issues, and not current news fashions.   I avoid posts that should not be nearly as interesting a year before or after.  
+ Yes, in a world where everyone was trying as hard as possible to contribute to long term insight and progress there would be a place for news of recent events of wide interest.  And in that world it would make sense to track the news that others also track.  But we do not live in such a world.
+ It seems to me that in our world most track the news to talk intelligently with others who track the news.  By coordinating to talk on the same recent news topics, we can better evaluate how well connected and intelligent are those around us.  If we tracked very different topics, it would be much harder to evaluate each other.  If our conversation topics were common but old, it would be harder to distinguish individually thoughtful analysis from memorized viewpoints, and harder to see how well-connected folks are to fresh info sources.  
+ But if you care less about signaling intelligence and connectedness, and more about understanding, then consider reading textbooks, review articles, and other expert summaries instead of news. 
+Added:  Stuart Buck quotes C.S. Lewis:
+
+Those are very wrong who say that schoolboys should be encouraged to read the newspapers. Nearly all that a boy reads there in his teens will be known before he is twenty to have been false in emphasis and interpretation, if not in fact as well, and most of it will have lost all importance. Most of what he remembers he will therefore have to unlearn; and he will probably have acquired an incurable taste for vulgarity and sensationalism and the fatal habit of fluttering from paragraph to paragraph to learn how an actress has been divorced in California, a train derailed in France, and quadruplets born in New Zealand.
+
+
+
+title: Against News
+
+date: March 31, 2008 6:00 am
+

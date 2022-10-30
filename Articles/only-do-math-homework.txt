@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Following an identification strategy that allows us to largely eliminate unobserved student and teacher traits, we examine the effect of homework on math, science, English and history test scores for eighth grade students in the United States. Noting that failure to control for these effects yields selection biases on the estimated effect of homework, we find that math homework has a large and statistically meaningful effect on math test scores throughout our sample. However, additional homework in science, English and history are shown to have little to no impact on their respective test scores. (more)
+So does anyone think that once this result becomes better know, they’ll stop assigning all but math homework? Me neither. Yes, maybe homework helps kids to learn things that their tests do not test. But more likely, homework functions to get kids used to doing a lot of work, in preparation for their future industry era jobs. Learning seems secondary.
+
+
+title: Only Do Math Homework
+
+date: June 23, 2011 11:00 pm
+

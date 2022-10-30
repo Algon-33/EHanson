@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan’s Myth of the Rational Voter (p.126) on irrationality:
+
+There is no need to posit that people start with a clear perception of the truth, then throw it away.  The only requirement is that rationality remain on "standby," ready to emerge when error is dangerous.
+
+ Bryan’s hypothesized "process of irrationality":
+
+Be rational on topics where you have no emotional attachment to a particular answer.
+On topics where you have an emotional attachment to a particular answer, keep a "lookout" for questions where false beliefs imply a substantial material cost for you.
+If you pay not substantial material costs of error, go with the flow; believe whatever makes you feel best.
+If there are substantial material costs of error, raise your level of intellectual self-discipline in order to become more objective.  
+Balance the emotional trauma of heightened objectivity – the progressive shattering of your comforting illusions – against the material costs of error.  
+
+ Bryan’s theory suggests we might make ourselves more rational on a topic by imagining that our beliefs actually had large personal costs, and then checking to see how tempted we are to reconsider those beliefs.  Unfortunately, I suspect our imaginations are especially unreliable about such things.  This is why I want more betting markets on important topics, where large personal costs to being wrong could tell us what we really think.  
+
+
+title: Is Your Rationality on Standby?
+
+date: May 16, 2007 6:00 am
+

@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+When we look at a picture, we see the far away landscape more in far mode, and the central nearby objects more in near mode. This suggests that our peripheral vision tends more to see things in far mode:
+It seems that we get information on what type of scene we are looking at from our peripheral vision. We process the “gist” of what we are looking at from our peripheral vision. The researchers at Kansas State showed people photographs of common scenes, for example a photograph of a kitchen or a living room. In some of the photographs the outside of the image was obscured, and in others the central part of the images were obscured. The images were shown for very short amounts of time. Then they asked the research participants what they were looking at. Peripheral vision was more important – What they found is that if the central part of the photo was missing people could still identify what they were looking at. But when the peripheral part of the image was missing then they couldn’t say whether it was a living room or a kitchen. (more)
+
+
+title: Is Peripheral Vision Far?
+
+date: April 17, 2012 2:22 pm
+

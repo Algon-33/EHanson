@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Most people are quite skeptical when I tell them the standard estimate is near zero for the marginal effect of medicine on health. While they grant that much of medicine may be useless, they point to particular cases where medicine was helpful, and can’t imagine much of it being harmful. But as I posted in November:
+In at least 0.4% of hospital stays, a medical mistake “caused or contributed to a patient’s death.” (more)
+Also, even standard diagnostic tests can be quite harmful:
+CT scans of the heart cause one cancer for every 270 [=0.37%] 40-year-old women who undergo the test, researchers estimate. Yet in a study of CT scans investigating abdominal, hip or pelvic pain, only 9 percent of emergency-room doctors knew that the scans increased cancer risk. (more)
+29,000 future cancers could be related to CT scans received in 2007, with the greatest number of cancers projected in the abdomen and pelvis. The cancer risk was greatest for young patients. (more)
+A medical treatment really has to be quite clearly and strongly beneficial to overcome such harms. Just sort of maybe hoping that it might be useful, cause, heh, you haven’t heard anything specifically bad about it, just isn’t good enough.
+Added 8p: Reasonable doubts have been raised about both the 1/270 and the 9% figures.
+
+
+title: How Med Harms
+
+date: February 8, 2011 10:30 am
+

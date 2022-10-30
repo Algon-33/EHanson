@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+We test three different theories about observed relative overconfidence. The first theory notes that simple statistical comparisons … are compatible with a Bayesian model. … Data on 1,016 individuals’ relative ability judgments about two cognitive tests rejects the Bayesian model. The second theory … We test an important specific prediction of [self-image concern] models: individuals with a higher belief will be less likely to search for further information about their skill, because this information might make this belief worse. Our data also reject this prediction. The third theory is that overconfidence is induced by the desire to send positive signals to others about one’s own skill. … Personality traits strongly affect relative ability judgments in a pattern that is consistent with this. … Overconfidence in statements is most likely to be induced by social concerns than by either of the other two factors. (more; HT Tyler)
+
+
+title: Overconfidence Signals
+
+date: September 11, 2010 2:45 pm
+

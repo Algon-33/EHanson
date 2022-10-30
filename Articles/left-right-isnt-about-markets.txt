@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Matt Yglesias:
+In the spectrum debate, a commons is considered a “left-wing”  position, while property rights are considered “right-wing.” In  contrast, in the carbon debate you find right-wingers advocating a  “carbon commons” while left-wingers advocate a property-like regime  called cap and trade.
+… To borrow an idea from Robin Hanson, I think it’s useful to think  about political conflict in terms of valorized figures. On the right,  you see a lot of valorization of businessmen. On the left, you see a lot  of valorization of pushy activists who want to do something businessmen  don’t like. Formally, the right is committed to ideas about free  markets and the left is committed to ideas about economic equality. But  in practice, political conflict much more commonly breaks down around  “some stuff some businessmen want to do” vs “some stuff businessmen  hate” rather than anything about markets or property rights per se.  Consequently, on the left people sometimes fall into the trap of being  patsies for rent-seeking mom & pop operators when poor people would  benefit more from competition  from a corporate bohemoth.
+Yup; political ideology, like most ideology, is a lot more about who should get respect than it is about abstract principles of governance.
+Added 10a:  Pushy activists and businessmen emphasize different features in desirable associates.  Pushy activists seek shared values, passionately and articulately expressed.  Businessmen seek practical competence, and a respect for [contract] law and hierarchy.  So does my push for a focus on robot respect for law flag me as politically right?
+
+
+title: Left-Right Isn’t About Markets
+
+date: April 7, 2010 9:00 am
+

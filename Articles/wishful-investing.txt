@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+The May American Economic Review explains how six investment puzzles can be explained if investors allow themselves a limited degree of wishful thinking:  
+
+Human beings want to believe that good outcomes [for them] in the future are more likely, but also want to make good decisions that increase average outcomes in the future. We consider a general equilibrium model with complete markets and show that when investors hold beliefs that optimally balance these two incentives, portfolio holdings and asset prices match six observed patterns: (i) … investors … are not perfectly diversified … (ii) … the utility cost of the lack of diversification are limited; (iii) … investors over-invest in only one … security … (iv) … optimal portfolios of ex ante identical investors can be heterogeneous; (v) … investors tend to overinvest in the most skewed securities; (vi) … more skewed asset can have lower average returns.
+
+Can you admit to yourself that you lose on your investments in order to let yourself believe that you will win on them?  If not, stop fitting these patterns!   
+
+
+title: Wishful Investing
+
+date: August 7, 2007 6:00 am
+

@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+I assign my undergrad students papers on unusual policy proposals, and grade those papers on the number of important relevant arguments offered, pro or con.  While I ask students to take an overall position on the policy proposal, this position doesn’t influence grades.
+Overall my students oppose change, moderately favoring whatever is the status quo.  So I was quite surprised to see them favoring change in the last paper I assigned in Health Econ.  85% of my students said yes to:  Should all medical practice data be published, aside from data identifying patients?
+The idea is to publish all births, deaths, disabilities claimed, and all medical records, including doc visits, med tests, drug prescriptions made/used, amounts billed, etc.  Docs would be fully identified, but patients would be identified by age, gender, weight, height, etc. — not enough to tell which ordinary person it was.  After a semester of seeing how little we really know about modern med, students appreciated that revealing all this info would greatly aid comparison shopping, of docs, hospitals, treatments, etc., both in quality and in price terms.
+Could this be a politically feasible change from the status quo?!
+Added 8a: Well of course even identifying people by age is enough to identify folks if done with perfect accuracy (e.g., born 23/12/87, 8:36:27.14625 am).  So of course the idea is to not identify age, weight, height with perfect accuracy.  Of course even then there would some rate of error when info is mistakenly revealed; but surely some rate is tolerable.
+Added 10p: Wow – while some are concerned about violating rights and government power, no commenter here seems to think this proposal would reduce overall social welfare or economic efficiency! Seems most agree that this is a clear net win that just won’t happen anytime soon.
+Added 10June: Karl Smith says reveal it all.
+
+
+title: Let All Med Hang Out?
+
+date: June 9, 2010 6:00 am
+

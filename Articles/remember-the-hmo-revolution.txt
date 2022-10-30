@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Obama and the Democrats will soon propose big changes to US Medicine.  The two key issues are expanding insurance to the now uninsured, and controlling rising medical costs.
+On coverage expansion, the debate now is mainly on how much a “public plan” available to all would displace private insurance.  If it displaced most private insurance via better access to government subsidies or preferred treatment, that seems just a backdoor way to get a “single payer” fully government system.   We’ll have to see what advantages the public plan is to get.
+On cost control, there seems to be some faint hope of cutting medicine’s current tax exemption.   Arnold Kling suggested making the public plan a high-deductible catastrophic plan, and I suggested making medicine municipal.  But Obama’s main hope is apparently none of these; it instead seems to be to have a Medicare advisory commission suggest cuts, and
+Require Congress to give an up or down vote on [its] proposals similar to how the defense base-closing commissions have worked in the past.  This kind of solution could help to insulate highly technical MedPAC recommendations from undue political influence.
+Also:
+When it comes to cost, they actually are starting with Medicare. They hope that the efficiencies work and are voluntarily adopted by private insurance.
+To see what this plan is up against, wonks need to recall the failed HMO revolution of the 1990s.  The U.S. government and major U.S. businesses tried to push employees into HMOs, who held down costs by sometimes saying no to doctor-recommended treatment.   This worked spectacularly well for a few years, and then failed just as spectacularly as furious patients abandoned HMOs en mass, and forced the rest to stop saying no.  Costs then shot up to catch up with prior trends:
+
+% US GDP to Medicine
+Whatever Obama does to limit medical cost growth, I won’t call it a success until it works for longer than did the HMO revlution.  Does anyone know the politics of the end of the HMO revolution – was any US political faction pushing for that end?  And how was cost growth held down in the mid ’80 or ’00s?
+
+
+title: Remember The HMO Revolution
+
+date: June 10, 2009 6:00 am
+

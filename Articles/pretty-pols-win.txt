@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+More evidence suggesting Politics Isn’t About Policy:
+Beautiful candidates are indeed more likely to be elected, with a one standard deviation increase in beauty associated with a 1 ½– 2 percentage point increase in voteshare. Our results are robust to several specification checks: adding party fixed effects, dropping well-known politicians, using non-Australian beauty raters, omitting candidates of non-Anglo appearance, controlling for age, and analyzing the ‘beauty gap’ between candidates running in the same electorate. The marginal effect of beauty is larger for male candidates than for female candidates. … Consistent with the theory that returns to beauty reflect discrimination, we find suggestive evidence that beauty matters more in electorates with a higher share of apathetic voters.
+
+
+title: Pretty Pols Win
+
+date: November 8, 2009 8:00 am
+

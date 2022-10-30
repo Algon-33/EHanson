@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+Paul Rhode's "skeptical perspective" on corporate prediction markets:
+In many ways, tapping of the wisdom of crowds within the firm is intended to overcome the information barriers created by the bureaucracy.  It is obvious that the upper management might want better access to selected information available down the organizational ladder, to stop having to listen to the self-serving lies of middle management.   But it seems to me, the individuals in an organization derive their power from the information under their exclusive control and will not easily give up this monopoly position.  What models we economists have about hierarchies largely concern controlling information flows, both up and down the organization.  This includes both having the higher-ups monopolize the firms’ secrets and strategies and preventing them from being overwhelmed by the day-to-day minutia.
+
+title: Wisdom of Rhode
+
+date: April 24, 2009 6:00 am
+

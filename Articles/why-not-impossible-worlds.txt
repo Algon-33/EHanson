@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Physicists, statisticians, computer scientists, economists, and many philosophers rely on the following standard ("Bayesian") approach to analyzing and modeling information:
+
+Identify a set of "possible worlds," i.e., self-consistent sets of answers to all relevant questions.
+Express the information in any situation as clues that can exclude some worlds from consideration.
+Assign a "reasonable" probability distribution over all these worlds.
+Calculate any desired expected value in any information situation by averaging over non-excluded worlds.
+
+ This is a normative ideal, not a practical exact procedure.  That is, we try to correct for any "bias," or systematic deviation between what a complete analysis of this sort would give and what we actually believe.
+  
+ This approach has been applied to many kinds of "possibilities."  In computer science worlds describe different possible states of a computer.  In physics worlds describe different possible arrangements of particles in space.  Centered-possible-worlds can describe uncertainty about where you are in a physical world.  In scientific inference one considers worlds with different physical laws.  In game theory one considers any outcome that any player thinks is possible, or thinks that other players think, etc. … is possible. 
+ What if we used "impossible worlds," i.e., not necessarily self-consistent sets of answers to relevant questions?   The idea would be to analyze and model situations where we are prone to errors and other limitations when we reason about logic and "a priori" truths, i.e., claims which would be either true or false in all ordinary possible worlds.  (E.g., "All bachelors are unmarried.")  In such situations, our information includes not only clues about what atoms are where, but also clues about what sets of answers are consistent with each other.   
+ A lone agent with ideal reasoning abilities would find no useful clues about a priori truths; while he could calculate expected values, his beliefs about such things would never change with time or context. The beliefs of real social creatures, however, do change with time and context, and reasonably so.   Learning about arguments for or against claims, and about the opinions of various people on such claims, provides us with relevant reasons for changing our beliefs.   
+ Through the use of impossible worlds, our standard approach to information seems capable of usefully describing such imperfect logic situations.  And I see no reason not to use them this way.   Thus I conclude that standard "agreeing to disagree" results apply to disagreements about a priori truths.  
+
+
+title: Why Not Impossible Worlds?
+
+date: December 20, 2006 6:00 am
+

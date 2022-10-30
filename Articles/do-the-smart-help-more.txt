@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Each new person who exists either helps or hurts everyone else.  My best estimate is that new folks on average help, but I can’t be very sure.  Assuming that new folks help on average, we can wonder: who helps more?
+A first guess is that helping is roughly proportional to productivity.  That is, we help by making the world economy more productive overall, so those who produce more help more.  (This roughly captures innovation externalities and global scale and scope economies.) If so, it would not help to subsidize some of our efforts if that came at the expense of taxing the efforts of similarly productive others.  But it might help to subsidize creating new people.
+A simple correction to this first guess is to consider charity, under the assumption that charitable giving helps others more than random spending.  Since the poor seem to donate a larger fraction of their income to charity, this would suggest that the poor help others disproportionately, relative to their productivity.
+We might also wonder: do smart folks tend to help others more, relative to their productivity?  Last week Linda Gottfredson and Garett Jones surprised me by claiming that this was so, saying that smart folks contribute disproportionately to innovation, and thinking this was obvious.
+Gottfredson called the low IQ “dependents” and the high IQ “innovators”; Jones pointed me to smart folks’ disproportionate contributions to patents and startups.  I told Jones these are indicators of the high tail of innovation, not the median; his argument was like saying that rich folks tend give a larger proportion of income to charity because most charity foundations are started by rich folk.
+One might argue that since dumb folk just follow routines devised by smart folk,  change must come from the routine makers.  But change also arises from mistakes in following routines, and the dumb may make more mistakes.
+The smart may also on average do more wasteful arms racing and signaling, especially affiliative signaling.  The smart seem to dominate musicians, athletes, artists, writers, professors, doctors, lawyers, soldiers, fashion designers, and so on, out of proportion to their compensation.  If these activities tend to contribute proportionally less to overall world productivity, then smart folks would seem to help proportionally less.  They can’t exactly be blamed for filling a slot someone else would fill anyway, but they can’t exactly be praised either.
+Added July 9:  Garett Jones tells me he doesn’t emphasize the smart as innovators; he suggests the smart help mostly by promoting cooperative institutions; John Nye suggests to me that the smart hurt their local associates by being more worldly and cosmopolitan, and so less loyal to local concerns.
+
+
+title: Do The Smart Help More?
+
+date: July 6, 2009 6:00 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+From a recent Economics & Politics: 
+
+This paper explores the link between compulsory voting and income distribution using a cross-section of countries around the world. Our empirical cross-country analysis for 91 countries during the period 1960-2000 shows that when compulsory voting can be strongly enforced the distribution of income improves as measured by the Gini coefficient and the bottom income quintiles of the population. … Because poorer countries are the ones with relatively more unequal distribution of income it might make sense to promote such voting schemes in developing regions, such as Latin America. … We also use an instrumental variables approach to further check the robustness of our results. … Regardless of the control variables used, we obtain coefficients that are statistically significant in compulsory voting. 
+
+I suspect this is the main reason people push others to vote – because added voters tend to favor their side in wealth redistribution debates.  To such pushers, the good of this outweighs added voter ignorance making other policies worse.  
+
+
+title: Why Voter Drives
+
+date: October 14, 2008 1:00 pm
+

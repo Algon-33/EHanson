@@ -1,0 +1,16 @@
+author: James Miller
+
+text: 
+Here is a (slightly shortened) joke from the book The Curious Incident of The Dog in the Night-Time:
+There are three men on a train. One of them is an economist and one of them is a logician and one of them is a mathematician.  And they have just crossed the border into Scotland and they see a brown cow standing in a field from the window of the train.
+And the economist says, "Look, the cows in Scotland are brown."
+And the logician says, "No. there are cows in Scotland of which one at least is brown."
+And the mathematician says, "No. there is at least one cow in Scotland, of which one side appears to be brown."
+
+
+
+
+title: Joke
+
+date: May 15, 2007 9:31 pm
+

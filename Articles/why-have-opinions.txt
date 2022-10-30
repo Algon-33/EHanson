@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+I just surprised some people here at a conference by saying that I don’t have opinions on abortion or gun control. I have little use for such opinions, and so haven’t bothered to form them. Since that attitude seems to be unusual among my intellectual peers, let me explain myself.
+I see four main kinds of reasons to have opinions on subjects:
+
+Decisions – Sometimes I need to make concrete decisions where the best choice depends on particular key facts or values. In such cases I am forced to have opinions on those subjects, in order to make good decisions. I may well just adopt, without much reflection, the opinions of some standard expert source. I have to make a lot of decisions and don’t have much time to reflect. But even so, I must have an opinion. And my incentives here tend to be toward having true opinions.
+Socializing – A wide range of topics come up when talking informally with others, and people tend to like you to express opinions on at least some substantial subset of those topics. They typically aren’t very happy if you explain that you just adopted the opinion of some standard expert source without reflection, and so we are encouraged to “think for ourselves” to generate such opinions. Here my incentives are to have opinions that others find interesting or loyal, which is less strongly (but not zero) correlated with truth.
+Research – As a professional intellectual, I specialize in particular topics. On those topics I generate opinions together with detailed supporting justifications for those opinions. I am evaluated on the originality, persuasiveness, and impressiveness of these opinions and justifications. These incentives are somewhat more strongly, but still only somewhat, correlated with truth.
+Exploration – I’m not sure what future topics to research, and so continually explore a space of related topics which seem like they might have the potential to become promising research areas for me. Part of that process of exploration involves generating tentative opinions and justifications. Here it is even less important that these opinions be true than they help reveal interesting, neglected, areas especially well-suited to my particular skills and styles.
+
+Most topics that are appropriate for research have little in the way of personal decision impact. So intellectuals focus more on research reasons for such topics. Most intellectuals also socialize a lot, so they also generate opinions for social reasons. Alas most intellectuals generate these different types of opinions in very different ways. You can almost hear their mind gears shift when they switch from being careful on research topics to being sloppy on social topics. Most academics have a pretty narrow speciality area, which they know isn’t going to change much, so they do relatively little exploration that isn’t close to their specialty area.
+Research opinions are my best contribution to the world, and so are where I should focus my altruistic efforts. (They also give my best chance for fame and glory.) So I try to put less weight on socializing reasons for my opinions, and more weight on the exploration reasons. As long as I see little prospect of my research going anywhere near the abortion or gun control topics, I won’t explore there much. Topics diagnostic of left vs. right ideological positions seem especially unlikely to be places where I could add something useful to what everyone else is saying. But I do explore a wide range of topics that seem plausibly related to areas in which I have specialized, or might specialize. I have specialized in far more different areas than have most academics. And I try to keep myself honest by looking for plausible decisions I might make related to all these topics, though that tends to be hard. If we had more prediction markets this could get much easier, but alas we do not.
+Of course if you care less about research, and more about socializing, your priorities could easily differ from mine.
+
+
+title: Why Have Opinions?
+
+date: August 29, 2015 9:42 am
+

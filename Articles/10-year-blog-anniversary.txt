@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Ten years ago today this blog began with this post. Since then we’ve had 3,772 posts, 104 thousand comments, & over 15 million page views. This started as a group blog, and later became my personal blog, and I’ve been posting less the last few years as I focused on writing books.
+I still have mixed feelings about putting in effort to write blog posts, relative to longer more academic articles and books. I agree that a blog post can communicate a useful and original insight in just a few paragraphs to thousands, while an academic article or book might be read by only tens or hundreds. But a much higher fraction of academic readers will try to build on my insight in a way that becomes part of our shared accumulating edifice of human insight. My hope is even if the fraction of blog readers who also do this is small, it is large enough to make a comparable total number. Because if not, I fear blogging is mostly a waste.
+
+
+title: 10 Year Blog Anniversary
+
+date: November 20, 2016 6:00 am
+

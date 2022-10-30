@@ -1,0 +1,22 @@
+author: Patri Friedman
+
+text: 
+We are not only affected by our own biases, but those of the people we interact with.  So the sorts of psychological hacks I write about also apply to our interactions with other people.  Here is a classic, from Stu via Parent Hacks:
+
+When I have a problem that concerns one of my kids (meaning: When I want them to do something that they refuse to do), I see that I have a choice. I could visualize my child standing on the other side of a line, next to "The Problem", with me yelling across the line, "Hey, you better solve "The Problem." Instead, I get myself to stand next to my child, with "The Problem" alone on the other side of the line, with me putting an arm around my child, saying "Hey, you and me, we’re gonna defeat "The Problem" together." I find that this attitude seems to make my kids feel better about themselves. It minimizes/eliminates shame.
+
+This cognitive reframing doesn’t just apply to parent:child relationships, but many other places such as husband:wife, manager:report, and worker:coworker.  Basically, anywhere that you need to bring up a problem that someone else is causing or contributing to, where there is enough shared interest that the "same team" model is reasonable.
+  
+It does not always work – your bid for connection may be refused, with the person insisting that The Problem is yours to deal with.  But by setting things up so that The Problem is separate from the person, you avoid the mistake of making the person feel attacked or criticized, which usually puts them on the defensive and makes them less likely to do what you want.
+Besides the short-term benefits, the person is likely to feel better about whatever it is they do, even if they would have done it anyway, because it’s always more pleasant to choose to do something that to be told.  Instead of straining the relationship with criticism/defensiveness, it is strengthened by camaraderie, which can lead to a virtuous cycle where such interactions are more likely and natural in the future.
+This notion of separating the idea and the person is old hat to many economists, of course, who can smilingly shred each others theories without anyone ever imagining it was personal or getting defensive. But in many situations – with kids, in close relationships, when there is a power imbalance, when the issue lies close to someone’s identity – academic detachment is less natural, and so this technique can help. While I find the economist’s way quite natural in some situations (like work), in my home life I get defensive far more easily, even about minor topics.  This technique (used on me) helps reduce the defensiveness I feel as well as (used on others) that which I cause. (It’s important that this technique is Golden-Rule compatible, I wouldn’t want to teach something which worked on others but was unpleasant to be subjected to.)
+To keep this from being completely abstract, here are some examples:
+Original: "Dammit, son, you forgot to take the trash out again!  Why can’t you remember something so simple?"Reframed: "Looks like the trash got forgotten out again.  Maybe we should set up a better reminder system.  What are you using now?"
+Original: "Hey Bob.  Let’s talk about the problems in your performance review.  As usual, it says you don’t do enough testing of your code.  That’s a real problem for a software engineer, and you need to do better."Reframed: "Hey Bob.  Let’s talk about how we can make you a stronger contributor.  It looks like testing has always been a tough spot for you.  How can I help you grow in this area?"
+It may sound cheesy, but if you try this way of framing things, I think you will find people respond better to you.   You can help yourself and help them grow at the same time.
+
+
+title: Framing problems as separate from people
+
+date: March 1, 2008 8:00 am
+

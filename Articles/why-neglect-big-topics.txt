@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+From an ’04 review of Robert Triver’s ’02 book Natural Selection and Social Theory:
+[Trivers’] directions on writing a classic paper …:
+1. Pick an important topic.
+2. Try to do a little sustained thinking on the topic, always keeping close to the task at hand.
+3. Generalize outward from your chosen topic.
+4. Write in the language of your discipline but, of course, try to do so simply and clearly.
+5. If at all possible, reorganize existing evidence around your theory.
+Those hoping this advice would get them on the fast lane to their own version of parent-offspring conflict theory or a new and groundbreaking take on reciprocal altruism may find themselves disappointed.  Most of these instructions fall into the category of easier said than done, but as Trivers also notes, “it still seems remarkable to me how often people bypass what are more important subjects to work on less important ones.”
+Neglect of important subjects is remarkable if we assume academics mainly seek intellectual progress.  But it makes a lot more sense if we realize academics are not Bayesian:  Academics change their beliefs only when a sufficiently impressive work appears to earn that respect, even if that work provides little info.  And the more apparently important is the topic, the more impressive a work must be to change beliefs.
+So a paper suggesting academics change their opinion on a very important subject will be held to a higher standard of impressiveness.  It must use more impressive math, data, analysis, or have a more prestigious author.  “Extraordinary claims require extraordinary evidence” is true, but not so much for evidential reasons.  Academics whose contributions might be informative but cannot rise to this higher impressiveness standard are well advised to stay away from important topics.
+These academic blindsides in principle offer an opportunity for bloggers to contribute to intellectual progress via thoughtful posts that add info but are not impressive enough by academic standards, and via drawing reasonable conclusions from these and other unimpressive sources to which academics refuse to listen.  But if blogger customers will not actually pay much for such progress, it is not clear bloggers will bother.
+
+
+title: Why Neglect Big Topics
+
+date: November 16, 2009 3:05 pm
+

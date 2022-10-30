@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Politico asked me and 17 others:
+If you were in charge of your school district or university, how would you design the fall semester?
+My answer:
+Let 1,000 vouchers bloom. Schools face very difficult choices this fall, between higher risks of infection and worse learning outcomes. We should admit we don’t know how to make these choices well collectively, and empower parents to choose instead. Take the per-student school budget and offer a big fraction of it to parents as a voucher, to pay for home schooling they run themselves, for a neighbor to set up a one-house schoolhouse, for a larger private school, or to use at a qualifying local public school. Each option would set its own learning policies and also policies on distancing and testing. Let parents weigh family infection risks against learning quality risks, using what they know about available options, and their children’s risks, learning styles and learning priorities.
+Yes, schools may suffer a large initial revenue shortfall this way; maybe they could rent out some rooms to new private school ventures. Yes, some children will end up with regretful schooling outcomes, though that seems inevitable no matter what we do. Yes, there should be some limits on teaching quality, but we should be forgiving at first; after all, public schools don’t know how to ensure quality here either. And maybe let any allowed option start a month or two late, if they also end later next summer; after all, we aren’t giving them much time to get organized.
+
+
+title: School Vouchers As Pandemic Response
+
+date: July 22, 2020 10:15 am
+

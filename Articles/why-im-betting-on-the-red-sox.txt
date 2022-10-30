@@ -1,0 +1,15 @@
+author: Justin Wolfers
+
+text: 
+One of the most pervasive beliefs among sports fans is a belief in "streaks".  I cannot tell you the number of times I have heard sports commentators this week tell us that the Rockies have won 21 of their last 22 games.  And this alone is the reason that I’m betting against the Rockies.
+The "hot hand bias" was first documented in a fascinating paper by Tom Gilovich, Robert Vallone and Amos Tversky.  That original paper (available here) is a wonderful read, showing that the widespread belief among basketball fans of a strong "hot hand" is simply false.  That is, today’s streak doesn’t predict tomorrow’s behavior.  I love teaching this paper to my MBA students, simply because they don’t believe it.  The hot hand fallacy is a wake-up to how pervasive bias can be.  A nice example of how sports can yield very convincing teaching metaphors.
+A subsequent literature has developed showing that many (most?) of the sports statistics that ESPN loves to share with us, are simply useless as inputs for forecasting the future.  It seems that our brains are a bit too willing to try to find order, even in a world where chaos reigns.  This leads me to believe that most baseball fans are a bit too optimistic that the Rockies’ streak will persist.
+Some will protest that subsequent research has found evidence of streakiness in specific sports.  I agree.  But this is beside the point: it is essentially an observation about sports.  What is more relevant here (and no-one has convincingly refuted) is that sports fans tend to believe that streakiness is even stronger.  
+Believe it or not, there is now an entire blog devoted to the hot hand and streakiness in sports – read more here.  Or if you are interested in the performance of streaky baseball teams in the post-season, read this analysis at hardballtimes.com.
+(OK, there is one more reason I’m betting on the Red Sox: I went to graduate school in Beantown, and learned to love baseball at Fenway.)
+
+
+title: Why I’m Betting on the Red Sox
+
+date: October 24, 2007 4:46 pm
+

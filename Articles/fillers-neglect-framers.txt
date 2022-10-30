@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+We can usefully divide intellectual tasks into two sets: filling and framing. Fillers add more useful detail or content within some framework, while framers explore possible new frameworks. While both tasks are essential, framing has higher variance; most frame attempts fail, but a few produce great value.
+We tend to be best at evaluating people with skills like our skills. So good fillers can best evaluate other fillers, and good framers can best evaluate other framers. You might think then that these groups would separate, so that fillers choose the next generation of fillers and framers choose the next generation of framers.
+What I see in the intellectual world around me, however, is very different. When people choose new subordinates and assistants, who will eventually take over their institutional roles in the next generation, I see both fillers and framers choosing fillers. Each person tends to prefer successors who will increase his own fame and reputation by build directly on his own work. The more people who have followed up on your work, the more important you must be.
+Since fillers tend to more directly build on the work of others, both fillers and framers tend to choose fillers as successors. For fillers it is a no-brainer; fillers are more like them. For framers there is tension; fillers are less like them, and harder to evaluate. But fillers are more likely to add to the glory of framers’ great new frames, and so framers choose fillers as successors nonetheless.
+As a result, our institutions do not do very well at selecting promising framers; while we do a decent job of selecting and encouraging promising fillers from the next generation, successful framers tend to be accidents, people we chose as fillers who turned out to be good framers. Presumably our production of new frames suffers as a result.
+Addendum: I think I notice a similar trend in referee reports, which tend to reject framing-style papers, even those with high expected values compared to typical filling-style publications.
+
+
+title: Fillers Neglect Framers
+
+date: December 14, 2006 6:00 am
+

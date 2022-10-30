@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Today’s Washington Post: 
+
+A comprehensive review of 31 years of data from 830 mid-size to large U.S. workplaces found that the kind of diversity training exercises offered at most firms were followed by a 7.5 percent drop in the number of women in management. The number of black, female managers fell by 10 percent, and the number of black men in top positions fell by 12 percent. Similar effects were seen for Latinos and Asians. 
+ The analysis did not find that all diversity training is useless. Rather, it showed that mandatory programs — often undertaken mainly with an eye to avoiding liability in discrimination lawsuits — were the problem. When diversity training is voluntary and undertaken to advance a company’s business goals, it was associated with increased diversity in management. 
+ … Today, U.S. businesses spend from $200 million to $300 million a year on diversity training, …  Kalev said many trainers and executives told her they were not surprised by her findings. … Businesses are responding rationally to the legal environment, since several Supreme Court rulings have held that companies with mandatory diversity training are in a stronger position if they face a discrimination lawsuit. 
+
+Imagine we had prediction/decision markets twenty years ago on this – could they have foreseen this outcome, and influenced the court to make different legal choices? 
+
+
+title: Mandatory Sensitivity Training Fails
+
+date: January 20, 2008 12:06 pm
+

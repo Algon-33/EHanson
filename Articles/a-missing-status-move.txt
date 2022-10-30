@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+People who have status can use it to raise or lower the status of others. But they aren’t supposed to do this arbitrarily. Instead, we have social norms about how status is supposed to change. And our main norm is that status is supposed to track merit. So if you see someone whose status deviates from their merit, you are supposed help correct that deviation, at least when doing so is consistent with other norms.
+For example, if you edit an academic journal, you aren’t just supposed to publish the papers of high status academics and reject the papers of low status academics. And you aren’t just supposed to publish the papers of your allies and reject those of your rivals. You are supposed to instead evaluate the merit of submitted papers, and publish the high merit papers. It is ok to use use status as a heuristic to estimate where merit is likely to lie, such rejecting without review papers that look bad on the surface and come from low status people. But when you have a private signal of merit, as might come from actually reading a paper, you are supposed to act on that signal.
+This isn’t to say you should rudely force your private evaluations of merit on audiences who haven’t asked for them. If an audience treats a speaker with  respect, maybe you shouldn’t interrupt that speech to express your low evaluation. But neither should you praise that speaker just to gain favor with the audience, if you’ve been directly asked for your independent evaluation.
+If you act to change someone’s status, that person might have a higher or lower status than you, and your act might raise or lower their status. This gives four possible situations. And in three of them, you have pretty plausible selfish motives for your actions. For example, because status is in part relative, any act to lower the status of others can plausibly be seen as selfishly trying to lower others to make more status room to raise you and your allies. Also, a bid to raise the status of someone above you can be seen as an attempt to associate with them, and as flattery, i.e., a gift to them in the hope they will reciprocate and raise your status.
+The fourth possibility is where you act to raise the status of someone lower than you. Such an act would plausibly be selfish if that other person were an ally or minion of yours, or a rising star with a plausibly high future status. But selfishness is less plausible if they have no existing relation to you, aren’t a good ally candidate, and are past their prime. Especially if you try to raise their status to be above you.
+Since trying to raise the status of an unaffiliated person below you is the least selfish looking way to try to change the status of others, we might expect this to be the least common variation observed. But we might also expect some people to go out of their way to do it, and to call attention to their act, in order to signal their devotion to the merit principle of status – the idea that we should all work to help make status better track merit. But I hardly ever hear of this.
+So why don’t more people do this? We seem eager enough to invoke this status-should-track-merit principle when we criticize others for flattery, playing favorites, and unfair criticism of rivals.  But it seems few are committed enough to the principle to pay a clear personal cost to demonstrate their commitment.
+Added 29Dec: Instapundit cited this post.
+
+
+title: A Missing Status Move
+
+date: December 28, 2013 5:25 pm
+

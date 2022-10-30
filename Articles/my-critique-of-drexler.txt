@@ -1,0 +1,43 @@
+author: Robin Hanson
+
+text: 
+My last post quoted Drexler on science vs. engineering. Here he is on exploratory engineering:
+Exploring, not the time-bound consequences of human actions, but the timeless implications of known physical law. …. Call it “exploratory engineering”; as applied by Tsiolkovsky a century ago, this method of study showed that rocket technology could open a world beyond the bounds of the Earth. Applied today, this method shows that atomically precise technologies can open a world beyond the bounds of the Industrial Revolution.
+Drexler’s most famous book was his ’86 Engines of Creation, but his best was his ’92 Nanosystems, which explored nanotech engineering. The book shows impressive courage, venturing far beyond familiar intellectual shores, impressive breadth, requiring mastery of a wide range of science and engineering, and impressive accomplishment, as little in there is likely to be very wrong. This makes Drexler one of my heroes, and an inspiration in my current efforts to think through the social implications of ems.
+Alas, Drexler also deserves some criticism. His latest book, Radical Abundance, like several prior books, goes well beyond physical science and engineering to discuss social implications at length. Alas, though his impressive breadth doesn’t extend much into social science, like most “hard” sci/tech folks Drexler seems mostly unaware of this. He seems to toss together his own seat-of-the-pants social reasoning as he can, and then figure that anything he can’t work out must be unknown to all. Sometimes this goes badly.
+Drexler is absolutely right that physical law allows a full nanotech manufacturing capacity that can make physical devices with vastly improved abilities, efficiencies, and costs. Even limiting ourselves to planet Earth, the ultimate limits to our productive capacities exist but are many orders of magnitude beyond today’s capacities. Drexler is also probably right that this manufacturing tech would eventually:
+
+reduce relative demand for rare elements,
+make fractionally less waste in production,
+shorten supply chains and thus cut long distance physical trade,
+have factories not much bigger than the products they make,
+usually have marginal costs near that of required energy, cooling, and raw materials, implying far less variation in such costs per-pound,
+allow rates of production and retooling far faster than today, and
+have lower fixed costs of manufacturing capital (implied by 5&6).
+
+These conclusions are non-trivial and useful for estimating social implications. Bravo.
+Note that Drexler’s basic tool of exploring the engineering consequences of basic physical laws says little about how fast we will acquire these capacities. He describes a wide landscape of intermediate capabilities, across which we have now traveled a limited distance, so the question is how fast we will venture across the rest of that lanscape.
+For example, Drexler’s basic conclusions are consistent with current rates of tech growth continuing steadily on for another few centuries, before finally running up against nanotech limits (at least on Earth). They are also consistent with rates of tech growth falling by a factor of ten and then continuing steadily on for millennia, with per capita income falling to and then staying at subsistence levels.
+I’d guess that in the 27 years since Drexler’s first book we’ve come ~10-30% of the way toward full nanotech, with no noticeable acceleration, suggesting we have one to three centuries still to go. I’d love to hear more expert estimates on this.
+Contrary to steady growth scenarios, much of Drexler’s further analysis seems to assume that full nanotech will appear rather suddenly, perhaps soon:
+Progress has gone surprisingly fast and far, with no barriers in sight. … A Version 2.0 of world civilization, a change as profound as the Industrial Revolution, but unfolding at Internet speeds. … Change in a [nanotech] era could be swift indeed— not stretched out over millennia, like the spread of agriculture, nor over centuries, like the rise of industry, nor even over decades, like the spread of the Internet’s physical infrastructure. … [Nanotech] holds the potential for a physical revolution that, if unconstrained, could unfold at the speed of new digital media. … We can expect to see an accelerating upward spiral of capabilities, with [nanotech]-level technologies as a natural destination.
+[Drexler prefers the awkward phrase “atomically precise manufacturing”; I’ve substituted [nanotech] in the quotes.]
+Such suddenness is akin to landscape hikers being picked up by a helicopter and transported to a distant valley. It has Drexler worry about sudden big military power imbalances:
+The history of technological competition, whether in nuclear weapons, satellites, computer chips, or stealth aircraft, shows that competitors typically reach technology thresholds at times that differ by years or more. What is different in the realm of [nanotech]-based technology is the potential speed of advanced-stage development and scale up, which could dramatically heighten the resulting disparities in capabilities.
+And terrorists:
+Unconstrained access to an unconstrained range of [nanotech]-level technologies would place unpredictable capabilities in the hands of hostile non-state actors, leading to unacceptable and unpredictable risks. Preventing unconstrained applications … is thus a vital national interest … and a potential driver for increased worldwide cooperation.
+Though Drexler takes great pains to carefully argue that advanced nanotech is possible, he offers no argument for why we should expect sudden nanotech, beyond the fact that with full nanotech one can do lots of things quickly. But the fact that industrial jet planes can circle the world fast today hardly implied that the first nation with any industry could take over the world. As the saying goes, one shouldn’t confuse a clear vision with a short distance.
+A sudden appearance of advanced nanotech would imply a vast increase in per person income, at least until population levels could catch up. Drexler thinks most would feel this new income to be “enough,” and so care little about income differences, and have little reason to conflict:
+The global prospect would be, not scarcity, but unprecedented abundance— radical, transformative, and sustainable abundance. … First and foremost, broad international access to appropriate [nanotech]-level production capabilities would decrease pressures to compete for access to markets and natural resources simply because there can be no vital interest in resources that are no longer scarce or important, nor a vital interest in export markets once imports and trade balances are no longer essential to material well-being. …
+[Nanotech]-based production, however, can enable the material plenty needed for human development while breaking the link between human development and material economic progress. … Today, lack of material development and human development can reinforce one another in a circle that perpetuates poverty. … [Nanotech]-based production will encapsulate complexity in a form that users have no need to examine. The complexity of a cell phone’s computer chip is enormous, yet self-contained; its complexity is beyond the full comprehension of any person alive, yet to use it requires little skill or investment in learning.
+As I posted before on Krugman and Keynes, most economists have long since given up on the idea that humans will be satiated when they finally get “enough.” Post-sudden-nanotech folks being lots richer gives us little reason to expect that they won’t work hard to get even more. People and nations with less access to energy, raw materials, and better designs, would still be poor by comparison, and struggle to escape that status.
+While Drexler is admirably careful and expert in his exploratory engineering of the capacities of advanced nanotech, when he moves outside his tech expertise he succumbs to seriously wishful thinking in expecting nanotech to come soon and suddenly, and to think that people would feel they had “enough.”
+One last nitpick. Drexler says:
+For [nanotech]-based production, like information technologies, the crucial labor consists of creative work.
+Info tech work is complex and requires high levels of knowledge, experience, and intelligence. That hardly means most of it is “creative”, however. Schools that train people for such careers tend to try to drill the creativity out of them for good reason – people are otherwise inclined to be more creative than is helpful.
+
+
+title: My Critique Of Drexler
+
+date: June 12, 2013 4:30 pm
+

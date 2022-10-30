@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Where lies the great filter, i.e., the obstacles that make it extremely unlikely that any one chunk of pre-organic matter originates a visibly expanding interstellar civilization? While it seems unlikely our ancestors passed through much of a filter in the last half billion years, our descendants may face a big filter in the next few thousand years, and there may have been big filters associated with the origin of life, the spread of life, the invention of complex cells, sexual reproduction, or multicellular life.
+In many folks eyes, an elegantly simple resolution, which is likely because of its simplicity, is to assume there is just one huge filter: the origin of life. Assuming that first step is enormously hard allows one to think all the other steps are pretty easy. They wouldn’t be sure things of course, but conditional on a big enough origin-of-life filter, one wouldn’t have a strong reason to fear that common analyses underestimate future filters.
+Unfortunately, the elegantly simple hypothesis that the great filter is mainly a big origin-of-life filter seems at odds with our best evidence. Why? Because if the spread-of-life step had the weakest possible associated filter, then life spreading must be easy. Over billions of years life could have spread to many star systems from its place of origin:
+Life could spread across a galaxy via giant molecular clouds reliably collecting life from the stars they drift near, and then passing that life on to a few of the thousands of new stars they create.
+If over billions of years life spread to many hundreds, or even billions, of star systems, and no substantial filters stood between arrival of life near a star, and its eventual development of advanced technical civilizations like ours, then why would we now see no any evidence of other civilizations? Yes it is possible that we are the very first, but that hypothesis is of course unlikely by default.
+It seems to me that if the great filter is to consist of just one big step, the only plausible possibility is the development of multi-cellular life. All the steps before that one seem able to spread to other star systems via single-celled life hidden in dust, and it seems we haven’t had a big filter step since the multi-cellular innovation.
+So if the idea of just one big filter appeals to your sense of elegance, you’ll have to presume that life, including complex life with sexual reproduction etc., is very common in our vast universe, but that Earth is one of the handful of places in all that vastness with multi-cellular life.
+If you don’t find that plausible, well then you’ll have to grant there are at least two filters. And if two, why not three? So you must find the possibility of a third filter in our future plausible; beware future filters.
+
+
+title: At Least Two Filters
+
+date: November 28, 2010 11:00 am
+

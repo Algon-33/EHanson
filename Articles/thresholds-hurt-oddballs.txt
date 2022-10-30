@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+To estimate the quality of something using a bunch of noisy clues, people often set minimum “deal-breaker” thresholds for each clue, and then reject candidates who fall below any threshold. For example, in dating:
+My 20-year-old daughter informed me that she recently dumped a guy because when she asked him the meaning of a word, he said, “Are you serious?”  “That was it. It’s like a huge test for me. … It told me he felt intellectually superior to me,” explained Jenna. … Whoa, give the guy a break, I thought. …
+[In] “Love and the Litmus Test,” an article that appeared here 28 years ago [I] essentially justified the kind of subjective, quick and seemingly irrational judgment that Jenna had made. … An “insignificant gesture, an offhand comment” or a plaid sports coat can alter destiny. … For my daughters, ineptitude in the kitchen is almost a deal-breaker. … “The check shouldn’t even hit the table if you’re out to dinner — he should grab it out of the waitress’s hand. … If a guy ever picks up a phone during a meal, I would never talk to him again. …  Irrelevant [facebook] wall posts tells me the guy has too much time on his hands. (more)
+Now consider the following two dimensional space, where clues are linear correlates of a linear quality.
+Red lines A,B,C show three different clue cutoffs, and the blue region shows the points that satisfy all three cutoffs. If we consider directions perpendicular to the better vs. worse quality axis, we can see that even though being “odd“, i.e., away from the central quality axis, does not hurt quality, the deal-breaker approach to selecting candidates is biased against odd candidates. Plain, i.e., not odd, candidates are acceptable even when relatively low in quality.
+In general, instead of letting each noisy clue be a potential deal-breaker, it is usually better to weigh your clues together (e.g., via a weighted average).
+So why do some women claim that they combine clues via deal-breaker thresholds instead of via weighing clues? My guess: such women are bragging about their selectivity in a way that is relatively verifiable. It would be harder to verify a claim that they set a high threshold on a complex weighing of many factors.
+The same bias applies to regulations, which typically consist of a set of minimal requirements along many different dimensions. Such regulations are easier to express, monitor, and prosecute, but as with dating they are also biased against odd people and ventures. Count this as another way to see that regulation discourages innovation.
+Thanks to Alex for talking this through with me.
+
+
+title: Thresholds Hurt Oddballs
+
+date: October 14, 2010 11:15 pm
+

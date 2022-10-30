@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+
+People often ask: where can I get the best bang for my buck in charity? The above diagram shows where.
+We make many choices, both as individuals and as organizations; we choose prices, qualities, locations, etc. We often make such choices to maximize some sort of private gain, shown in red. Such private choices also usually have effects on the gain of the rest of the world, shown in black. In general the social gain curve peaks at a different point than the private gain curve, because there are usually many market failures associated with our choices. (As the absolute curve heights are irrelevant, I’ve arbitrarily let them intersect where private gain peaks.)
+At the choice that maximizes private value, a small change in the direction of raising social gain, as shown by the yellow arrow, comes at only a tiny loss in private gain. In fact, in the limit of going to the exact private gain maximizing choice, the ratio of the rates of change of social gain and private loss approaches infinity!
+The lesson: if you aren’t already doing it, by far the most cost-effective way to help the world is to shade your selfish choices just a little in the direction of making the world a better place. If you have market power when you sell a product, lower your price just a tad. If you have market power when you sell your labor, lower your wage a bit. Instead of choosing the profit-maximizing quality for your product or labor, increase that quality a little. If twenty floors would be the most profitable height for your apartment complex, add one more floor. And so on. (And maybe learn some econ, so you can better see which direction is good.)
+Yes, you usually aren’t sure what is your best selfish choice; your choice might already be accidentally helping the world at a bigger personal cost than you intended. But you might also be accidentally hurting both you and the world. If you are now doing your best guess way to help yourself, shift just a bit toward helping the world; on average that will cost you very little and give the world a lot.
+Yes it is harder to pay others to take this approach. If you tried to pay an apartment builder to add one floor beyond the twenty they’d otherwise build, they’ll probably quickly learn to lie and say that nineteen floors is what maximizes their profits. So this approach tends to be limited to choices where you are the insider who knows the internal best estimates, or where you trust an insider not to lie to you. Still, most of us make selfish choices all the time, so we should all have lots of opportunities to apply this method.
+If this is such an easy way to help the world, why haven’t you heard about it before? Why isn’t this a standard part of everyone’s education? I’d guess it is because it is hard to show that you are helping the world via this method. And people care a lot more about seeming to help, than about actually helping. Also, even if this could be made visible, we are usually much more eager to show we’ve paid a high cost than to show we’ve achieved a big social gain; it is the cost that makes for a credible costly signal of our virtue. Finally, this can’t be the basis of an inspiring hero story; it is something that many folks can each do a little, not something that one person can do a lot.
+(I doubt I’m original here; this point seems pretty obvious given basic optimization theory. But I didn’t see anywhere else I could link to that makes this point.)
+
+
+title: Marginal Charity
+
+date: November 24, 2012 10:00 am
+

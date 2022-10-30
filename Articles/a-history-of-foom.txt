@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I had occasion recently to review again the causes of the few known historical cases of sudden permanent increases in capacity growth rates in broadly capable systems: humans, farmers, and industry. For each of these transitions, a large number of changes appeared at roughly the same time. The problem is to distinguish the key change that enabled all the other changes.
+For humans, it seems that the most proximate cause of faster human than non-human growth was culture – a strong ability to reliably copy the behavior of others allowed useful behaviors to accumulate via a non-genetic path. A strong ritual ability was clearly key. It also helped to have language, to live in large bands friendly with neighboring bands, to cook and travel widely, etc., but these may not have been essential. Chimps are pretty good at culture compared to most animals, just not good enough to support sustained cultural growth.
+For farming, it seems to me that the key was the creation of long range trade routes along which domesticated seeds and animals could move. It was the accumulation of domestication innovations that most fundamentally caused the growth in farmers, and it was these long range trade routes that allowed innovations to accumulate so much faster than they had for foragers.
+How did farming enable long range trade? Since farmers stay in one place, they are easier to find, and can make more use of heavy physical capital. Higher density living requires less travel distance for trade. But perhaps most important, transferable domesticated seeds and animals embodied innovations directly, without requiring detailed copying of behavior. They were also useful in a rather wide range of environments.
+On industry, the first burst of productivity at the start of the industrial revolution was actually in the farming sector, and had little to do with machines. It appears to have come from “amateur scientist” farmers doing lots of little local trials about what worked best, and then communicating them to farmers elsewhere who grew similar crops in similar environments, via “scientific society” like journals and meetings. These specialist networks could spread innovations much faster than could trade in seeds and animals.
+Applied to machines, specialist networks could spread innovation even faster, because machine functioning depended even less on local context, and because innovations could be embodied directly in machines without the people who used those machines needing to learn them.
+So far, it seems that the main causes of growth rate increases were better ways to share innovations. This suggests that when looking for what might cause future increases in growth rates, we also seek better ways to share innovations.
+Whole brain emulations might be seen as allowing mental innovations to be moved more easily, by copying entire minds instead of having one mind train or teach another. Prediction and decision markets might also be seen as better ways to share info about which innovations are likely to be useful where. In what other ways might we dramatically increase our ability to share innovations?
+
+
+title: A History Of Foom
+
+date: January 20, 2013 12:00 pm
+

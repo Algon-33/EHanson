@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+   
+A last word in my debate with Michael Abramowicz.  He presents the choice between predictocracy and futarchy as a choice between errors in choosing values and errors in estimating consequences:
+
+Hanson makes some strong points in favor of futarchy. “Democracy today suffers from enormous errors regarding estimates of policy consequences.” … Ex post evaluators in predictocracy might make some systematic errors that prediction market traders in futarchy would fix.  Futarchy, however, introduces another type of error, the danger that the legislature will not do a good job of defining GDP+, as Hanson acknowledges. It’s not a priori clear which would be worse — errors by the legislature in developing a formula for GDP+, or errors by ex post evaluators in determining whether a particular policy has increased or decreased general welfare. 
+
+ But it is far from obvious that being forced to explicitly describe our values increases value errors in our decisions.  Our case specific intuitive judgments made without reference to explicitly described values also embody many value errors.  As I said in my last post: 
+  
+
+The very process of trying to define an explicit measure would introduce deviations from the values that would otherwise have been expressed regarding case-specific decisions.  Whether these deviations increase errors via neglect of detail or reduce errors via “smoothing” mistakes depends on how errors in value judgments are distributed.   
+
+We have many reasons to suspect that our case-specific value intuitions embody errors.  As illustrated in the following figure (and explained in this paper), the larger we expect those errors to be, the simpler a “curve” we will want to fit to the “data” of those case-specific judgments, when making our best estimate of our values. 
+ 
+
+
+title: Predictocracy vs. Futarchy
+
+date: February 3, 2008 6:00 am
+

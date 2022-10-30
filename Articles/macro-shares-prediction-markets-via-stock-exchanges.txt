@@ -1,0 +1,10 @@
+author: Peter McCluskey
+
+text: 
+Today the American Stock Exchange started trading the first pair of a new kind of security that works in roughly the way prediction markets could be designed if SEC regulation and a stock market style user interface turn out to be the best way to run prediction markets. They are based on Robert Shiller’s idea of macro securities, which he describes on pages 126-128 of his book The New Financial Order (and may describe more fully in his book Macro Markets, which I haven’t read). This first pair of such securities created by Claymore MACROshares merely helps investors do through a stockbroker roughly what existing oil futures markets provide, but Claymore expects to add other securities that provide exposure to things that aren’t currently traded, and there are no obvious barriers to basing them on the ideas that prediction markets trade. One drawback is that Claymore owns patents covering this approach. While it seems unlikely that SEC regulation is what I would want for prediction markets, it is nice to see signs that such an option is available should CFTC regulations pose a bigger obstacle than I currently expect to prediction markets that resemble markets the CFTC regulates. Alas, it also increases the risk that stock exchanges will see prediction markets as competitors and lobby to create barriers.
+
+
+title: Macro Shares: Prediction Markets via Stock Exchanges?
+
+date: November 30, 2006 2:10 pm
+

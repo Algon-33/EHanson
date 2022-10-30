@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+The end of a Boston Globe article on The future of prediction:
+But the real question, when it comes to predicting the future of forecasting, may not be whether we can or can’t forecast accurately — it’s whether we want to. Robin Hanson, an economist at George Mason University and a pioneer of prediction market design, thinks that what’s holding back our ability to predict is not technology or a lack of ingenuity. He believes companies and governments already have much of what they need to be a lot better at predicting the future, and that the reason they’re not taking more advantage of it is that in many cases, having accurate predictions in hand makes managers, CEOs, and government officials accountable in a way that lots of them don’t want to be.
+That’s because knowing the future can be a scary thing: It means genuinely answering for the costs of our decisions, confronting the likelihood of failure, seeing that arrows point down as often as they point up. When we’re offered a look into the crystal ball, it may in fact be human nature to turn away.
+“We’re two-faced,” Hanson said. “We like to talk as though we wanted better forecasts, but often we have other agendas. When the opportunity to know the future presents itself — as, increasingly, it will — we may end up discovering that we’d rather stay in the dark.”
+When projects fails, project managers like to say “No one could have foreseen that. We did the best we could.” This strategy doesn’t work so well when prediction markets or other credible methods create clear public track records showing consensus estimates of a high chance of failure, and perhaps also what could have been done to reduce that chance.
+
+
+title: Heads In The Sand
+
+date: December 31, 2011 9:05 pm
+

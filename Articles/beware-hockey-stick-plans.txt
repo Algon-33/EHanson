@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Eliezer yesterday:
+So really, the whole hard takeoff analysis of “flatline or FOOM” just ends up saying, “the AI will not hit the human timescale keyhole.” From our perspective, an AI will either be so slow as to be bottlenecked, or so fast as to be FOOM. When you look at it that way, it’s not so radical a prediction, is it?
+Dotcom business plans used to have infamous “hockey stick” market projections, a slow start that soon “fooms” into the stratosphere.  From “How to Make Your Business Plan the Perfect Pitch“:
+Keep your market-size projections conservative and defend whatever numbers you provide. If you’re in the very early stages, most likely you can’t calculate an accurate market size anyway. Just admit that. Tossing out ridiculous hockey-stick estimates will only undermine the credibility your plan has generated up to this point.
+Imagine a business trying to justify its hockey stock forecast:
+We analyzed a great many models of product demand, considering a wide range of possible structures and parameter values (assuming demand never shrinks, and never gets larger than world product).   We found that almost all these models fell into two classes, slow cases where demand grew much slower than the interest rate, and fast cases where it grew much faster than the interest rate.  In the slow class we basically lose most of our million dollar investment, but in the fast class we soon have profits of billions.  So in expected value terms, our venture is a great investment, even if there is only a 0.1% chance the true model falls in this fast class.
+
+What is wrong with this argument?  It is that we have seen very few million dollar investments ever give billions in profits.  Nations and species can also have very complex dynamics, especially when embedded in economies and ecosystems, but  few ever grow a thousand fold, or have long stretches of accelerating growth.  And the vast silent universe also suggests explosive growth is rare.  So we are rightly skeptical about hockey stick forecasts, even if they in some sense occupy half of an abstract model space.
+Eliezer seems impressed that he can think of many ways in which AI growth could be “recursive”, i.e.,  where all else equal one kind of growth makes it easier, rather than harder, to grow in other ways.  But standard growth theory has many situations like this.  For example, rising populations have more people to develop innovations of all sorts, lower transportation costs allow more scale economies over larger integrated regions for many industries, tougher equipment allow more kinds of places to be farmed, mined and colonized, and lower info storage costs allow more kinds of business processes to be studied, tracked, and rewarded.  And note that new ventures rarely lack for coherent stories to justify their hockey stick forecasts.
+The strongest data suggesting that accelerating growth is possible for more than a short while is the overall accelerating growth seen in human history.  But since that acceleration has actually been quite discontinuous, concentrated in three sudden growth rate jumps, I’d look more for sudden jumps that continuous acceleration in future growth as well.   And unless new info sharing barriers are closer to the human-chimp barrier than to the farming and industry barriers, I’d also expect world wide rather than local jumps.  (More to come on locality.)
+
+
+title: Beware Hockey Stick Plans
+
+date: December 4, 2008 10:00 am
+

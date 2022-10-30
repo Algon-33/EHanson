@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Edi Karni:
+This paper reports the results of a series of experiments designed to test whether and to what extent individuals succumb to the conjunction fallacy. Using an experimental design of Kahneman and Tversky (1983), it finds that given mild incentives, the proportion of individuals who violate the conjunction principle is significantly lower than that reported by Kahneman and Tversky. Moreover, when subjects are allowed to consult with other subjects, these proportions fall dramatically, particularly when the size of the group rises from two to three. These findings cast serious doubts about the importance and robustness of such violations for the understanding of real-life economic decisions.
+Hat tip to Dan Houser.
+
+
+title: What Conjunction Fallacy?
+
+date: June 25, 2009 6:00 am
+

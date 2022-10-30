@@ -1,0 +1,17 @@
+author: Anders Sandberg
+
+text: 
+Here is an interesting cognitive bias: people feeling in power tend to not consider the perspectives of other people – quite literally.  
+In Adam D. Galinsky, Joe C. Magee, M. Ena Inesi, and Deborah H Gruenfeld, Power and Perspectives Not Taken, Psychological Science, 17:12, 1068-1074 2006 researchers primed a group of test subjects by asking them to write down a memory where they held power over other people, while another group were asked to write about a time when others had power over them. Then the subjects were asked to quickly write the letter ‘E’ on their forehead.
+High-power subjects were about three times as likely as low-power subjects to draw the letter oriented so it would be readable by themselves rather than readable by others.
+In follow-up experiments it was found that high-power subjects also tended to assume other people had the same information that they had (the "telepathic boss" problem – the boss assumes that everybody knows what he knows and want). They were also less accurate than low-power subjects at judging emotional expressions. There were also anticorrelations between reports of general feelings of being in power in one’s life and tendency to take other’s perspective. Overall high-power people seem to anchor too heavily on their own vantage point and this impairs their ability to consider what others see, think and feel.
+People with less power likely have to consider other people’s intentions and views more strongly, so perhaps the power bias is actually the real baseline and powerless people concentrate more on mind reading. But given the increase in errors in emotion reading the power mode people had compared to people primed neither with being powerful or powerless, this seems unlikely.
+What are the implications of a power bias? In general power bias would make the empowered people tend to think they have more support from others in their views than they have. Altruists in power would be even less concerned with individual variations in goals and values – i.e. they would tend to become more egalitarian and paternalist. Egoists in power would become more concerned about the ambitions of others, i.e. paranoid. 
+Is this bias rational? When leading other people the cognitive load of taking their perspective might be cumbersome, and the increase in stereotyping that seem to occur in people in the "power mode" might also be a form of attention management. Imposing one’s own goals onto others might also make them obey more effectively. For leading people to perform particular goals this mode might work better. The downside is that if the task is heavily reliant on individual achievements meshing together or more based on voluntary action a lack of perspective risks missing early signs of trouble and will produce rebellion. The researchers suggest that power and perspective taking might not have to exclude each other and that responsible leadership might be possible by learning to take both into account. But they do not cite any actual experiments showing that it works.
+Maybe we should just promote people with Asperger syndrome to management in favour of people with intact theory of mind. That way we will not reduce the total human ability to see things from other perspectives.
+
+
+title: One Reason Why Power Corrupts
+
+date: February 8, 2007 5:31 am
+

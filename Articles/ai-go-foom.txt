@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+
+It seems to me that it is up to [Eliezer] to show us how his analysis, using his abstractions, convinces him that, more likely than it might otherwise seem, hand-coded AI will come soon and in the form of a single suddenly super-powerful AI. 
+
+ As this didn’t prod a response, I guess it is up to me to summarize Eliezer’s argument as best I can, so I can then respond.  Here goes:
+
+A machine intelligence can directly rewrite its entire source code, and redesign its entire physical hardware.  While human brains can in principle modify themselves arbitrarily, in practice our limited understanding of ourselves means we mainly only change ourselves by thinking new thoughts.   All else equal this means that machine brains have an advantage in improving themselves.  
+A mind without arbitrary capacity limits, that focuses on improving itself, can probably do so indefinitely.  The growth rate of its "intelligence" may be slow when it is dumb, but gets faster as it gets smarter.  This growth rate also depends on how many parts of itself it can usefully change.  So all else equal, the growth rate of a machine intelligence must be greater than the growth rate of a human brain.  
+No matter what its initial disadvantage, a system with a faster growth rate eventually wins.  So if the growth rate advantage is large enough then yes a single computer could well go in a few days from less than human intelligence to so smart it could take over the world.  QED.
+
+So Eliezer, is this close enough to be worth my response?  If not, could you suggest something closer? 
+
+
+title: AI Go Foom
+
+date: November 19, 2008 11:00 pm
+

@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+Although human language allowed egalitarian rules whose uniform enforcement would have greatly reduced the advantages to big-brain conniving, humans had the biggest brains of all to unequally evade such rules. (more)
+As with most lying or self-deception, homo hypocritus faces a serious implementation problem: how to keep the lies it tells separate from the “real” beliefs on which it acts. Since brains tend to be liberal with interconnections, there is a real risk of cross-talk between contradictory sets of opinions; lies may infect beliefs, and beliefs may infect lies.
+I’ve previously discussed one solution: have the different sets of opinions apply to different topics. For example, hold socially-acceptable opinions on far topics, where the personal consequences of actions tend to be smaller, and keep more realistic opinions on near topics, where such consequences tend to be larger. Yes there’s a risk others may notice that you change opinions without good reason as items move from near to far or far to near, but that may be a relatively small price to pay.
+A different solution is to have two distinct processing centers, each highly-connected internally, but with only modest between-center connections. One center would manage a coherent set of lies, while the other managed a coherent set of true beliefs. And in fact real brains have exactly this architecture! Left and right brains are highly connected internally, but only modestly connected to each other. Does the left brain manage a coherent set of overt opinions, while the right brain manages a coherent set of covert opinions? Consider:
+
+In all vertebrates left brains tend to control routine behavior (e.g. feeding) while right brains tend to respond to unusual events (e.g. fight/flight).
+Left brains tend to initiate actions, via positive feelings, while right brains tend to inhibit actions, via negative feelings.
+Compared to other primates, left vs. right human brains differ a lot more in function.
+The left human brain manages language’s literal quotably-overt syntax, vocabulary, and semantics, while the right brain handles language’s less-socially-verifiable tone, accent, metaphor, allegory, and ambiguity.
+Split brain patients show that left brains are adept at making up respectable explanations for arbitrary right brain behavior.
+Right brains tend to be used more in crafting lies, and they can read subtle emotion clues better.
+Left brain damage tends to distort behavior in more obvious and understandable ways.
+Left brains emphasize decision-making, fact retrieval, numbers, and careful sequenced acts like throwing, while right brains emphasize art, music, spatial manipulation, and recognizing of shapes, patterns, and faces.
+
+It seems that in most animals, left brains tend to manage and initiate actions within the current mode, while right brains watch in the background for patterns and reasons to veto current actions and switch modes. In humans, it seems the current-action-sequencer brain half was recruited to focus more on managing overt rule-following language, decisions, and actions, ready to explain away any apparent rule-violations. The less-introspectively-accessible pattern-recognizing background-watcher brain half, in contrast, was apparently recruited to focus on harder-to-testify-on-and-so-more-easily-covert meaning, opinion, and communication, including art and music.
+I’m not saying that overt vs. covert human beliefs map exactly to human left vs. right brains, any more than socially-useful vs. action-practical beliefs map exactly onto far vs. near beliefs. I’m just suggesting that human brain design took pre-existing animal brain structures, such as near vs. far modes and left vs. right brain splits, and recruited them to the task of managing the uniquely human task of hypocrisy: simultaneously espousing and evading rules. In particular, the left-right brain split become an important tool for minimizing undesirable leakage between the overt rule-following images we present to others, and the cover rule-evading actions and communication which better achieve our real ends.
+More quotes:
+The left hemisphere is specialized not only for the actual production of speech sounds but also for the imposition of syntactic structure on speech and for much of what is called semantics – comprehension of meaning.  The right hemisphere , on the other hand, doesn’t govern spoken words but seems to be concerned with more subtle aspects of language such as nuances of metaphor, allegory and ambiguity. (Ramachandran, quoted in TMHH p56)
+No other [vertebrate] species consistently prefers the same hand for certain skilled actions. … The human brain is distinguished from the brains of the great apes by an extraordinary extent of lateralization of function. (more)
+
+
+title: Two-Faced Brains
+
+date: April 11, 2011 8:00 am
+

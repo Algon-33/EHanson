@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I tire of hearing folks repeat “you cannot derive `ought’ from `is’,” because there is an important sense in which most attempts to derive “ought” are built on “is.”  Let me explain.
+An argument for an “ought” is typically built on some set of more basic “obvious” claims that the speaker assumes their audience will accept without argument.  Many of those claims have their own supporting arguments somewhere else, but those arguments are also be built on further obvious claims.
+Eventually we end up with with a set of basic supporting claims that seem obvious, but which don’t have much in the way of explicit arguments supporting them.   Yes, almost always one of these obvious but not explicitly argued claims is of the “ought” type.  So in this sense every “ought” is derived from other “oughts.”
+However, a key implicit argument sits behind these obvious unargued supporting claims, namely that those claims seem right.  That is, we typically assume that we should believe an “obvious” claim because our subconscious/intuition recommends that we believe such a claim.
+Now in order for it to make sense to believe an “ought” claim that seems right to our intuition, we have to at least believe that our intuition tends on average to be right about similar sorts of claims.  There is no point in believing our intuition on some topic if it has no consistent relation to the truth there.
+But the claim that one’s intuition about a particular “ought” claim correlates with truth on that “ought” claim is itself an “is” claim.   Yes that claim about the reliability of our intuition is itself also mainly supported by noting that this reliability claim seems right to our intuition, but I’m not complaining about that.
+I’m instead pointing out that most every attempt to derive an “ought” is based ultimately on “is” claims about the reliability of our intuitions about such more basic “ought” claims.  If we can’t find a coherent way to integrate these “is” claims with the rest of our network of reasonable “is” claims, then we can’t argue coherently for such “ought” claims at all.
+(This same argument applies to “wow” claims on beauty; yes every “wow” claim appears derived from other unargued “wows” but the support for those “wows” are key “is” claims on the reliability of our “wow” intuitions.)
+
+
+title: “Oughts” Are Derived From “Is”
+
+date: December 12, 2009 12:35 am
+

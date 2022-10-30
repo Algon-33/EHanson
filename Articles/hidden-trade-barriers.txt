@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Christopher Magee asks why rich nation tariffs are not high. He concludes they are in fact high, but in hidden ways:
+In the median industry … over $42 is transferred from consumers to producers for every $1 in efﬁciency costs caused by the tariff. … The industry lobby should be willing to contribute a lot to the politician to raise those tariffs. And because higher tariffs cause such a small reduction in overall welfare, the policy-maker should be willing to trade higher tariffs for campaign cash. … Thus, instead of asking why there are trade barriers at all, the real puzzle in the literature should be why the trade barriers are not extremely high in most industries.
+Here is my assessment … I do not believe that policy-makers care only about social welfare and do not care about campaign contributions. … I also do not think that tariffs are low because users of imported intermediate goods spend a lot of time and money lobbying against tariff protection. …  A moderately important reason why tariffs are low is that free riding limits industries’ ability to organise political lobbies. … I also consider the hidden costs of trade barriers as somewhat important in explaining low tariffs. Policy-makers understand the value of good international relations and the cost of trade wars. …
+The most important explanation for the puzzle of surprisingly low tariffs is that the political economy literature is largely right: trade barriers are relatively high even in developed countries but they are hidden as quotas and other non-tariff barriers. Unfortunately, these non-tariff barriers, which do not generate government revenue and become more restrictive as the size of the market grows, harm the economy even more than open tariffs do. … In trade policy, what we don’t see is hurting us the most. …
+Kee et al. (2004) estimate that the average manufacturing industry in the USA in 1996 had non-tariff barriers that added over 10% to the price of imported goods and that the non-tariff barriers were over three times larger than the tariff rates. In 2004, the ad valorem equivalent of core non-tariff barriers was 9.5% in the USA and 13.4% in the European Union according to estimates from Kee et al. (2009). Treﬂer (1993) … ﬁnds that … the non-tariff barriers were over six times as restrictive as tariffs and that the ad valorem tariff equivalent of US non-tariff barriers was over 20%. (more)
+
+
+title: Hidden Trade Barriers
+
+date: October 15, 2011 9:00 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Perhaps the most devastating problem with subjective [survey] questions, however, is the possibility that attitudes may not “exist” in a coherent form. A first indication of such problems is that measured attitudes are quite unstable over time. For example, in two surveys spaced a few months apart, the same subjects were asked about their views on government spending. Amazingly, 55% of the subjects reported different answers. Such low correlations at high frequencies are quite representative.
+Part of the problem comes from respondents’ reluctance to admit lack of an attitude. Simply because the surveyor is asking the question, respondents believe that they should have an opinion about it. For example, researchers have shown that large minorities would respond to questions about obscure or even fictitious issues, such as providing opinions on countries that don’t exist. (more; HT Tyler)
+I’m not clear on just how far this effect goes, but one lesson is: you have fewer real opinions than you think. If you talk a lot, you probably end up expressing many opinions on many topics. But much, perhaps most, of that you just make up on the fly. You won’t give the same opinion later if the subject comes up again, and your opinion probably won’t effect your non-talk decisions.
+So your decisions on charity donations, votes, and who or what to give verbal praise, may be a lot simpler than you think. Your decisions on where to live or work, and who to befriend or marry, may also be simpler. That is, you may consistently make similar decisions, but the reasons you give for them may matter less than you think.
+
+
+title: Making Up Opinions
+
+date: July 26, 2011 2:00 pm
+

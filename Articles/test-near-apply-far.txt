@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Companies often ask me if prediction markets can forecast distant future topics.  I tell them yes, but that is not the place to test any doubts about prediction markets. To vet or validate prediction markets, you want topics where there will be many similar forecasts over a short time, with other mechanisms making forecasts that can be compared.  
+ If you came up with an account of the cognitive processes that allowed Newton or Einstein to make their great leaps of insight, you would want to look for where that or related accounts applied to more common insight situations.  An account that only applied to a few extreme "geniuses" would be much harder to explore, since we know so little about those few extreme cases. 
+ If you wanted to explain the vast voids we seem to see in the distant universe, and you came up with a theory of a new kind of matter that could fill that void, you would want to ask where nearby one might find or be able to create that new kind of matter.  Only after confronting this matter theory with local data would you have much confidence in applying it to distant voids.
+ It is easy, way too easy, to generate new mechanisms, accounts, theories, and abstractions.  To see if such things are useful, we need to vet them, and that is easiest "nearby", where we know a lot.  When we want to deal with or understand things "far", where we know little, we have little choice other than to rely on mechanisms, theories, and concepts that have worked well near.  Far is just the wrong place to try new things.
+ There are a bazillion possible abstractions we could apply to the world.  For each abstraction, the question is not whether one can divide up the world that way, but whether it "carves nature at its joints", giving useful insight not easily gained via other abstractions.  We should be wary of inventing new abstractions just to make sense of things far; we should insist they first show their value nearby.  
+
+
+title: Test Near, Apply Far
+
+date: December 3, 2008 6:30 am
+

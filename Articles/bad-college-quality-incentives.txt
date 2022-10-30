@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+A week ago I puzzled: 
+
+If a measure of medical quality does not perfectly correlate with quality, that seems to many a sufficient reason to prevent people from seeing or acting on the measure.  … We prevent hospitals from publishing mortality statistics, because such stats may sometimes be "misinterpreted." … "As corporations and other organizations mine electronic data to draw conclusions about them … doctors could begin to `cherry pick’ healthier patients."
+
+ Many commentors defended such fears.  Toby Ord:
+
+A systematically biased estimate of quality … is feared to create damaging incentives in the medical profession (cherry picking patients, not doing work on the unmeasured aspects etc). … doing more harm than good … Restricting the data to the government or supervisory bodies that understand its weaknesses may be the best solution. 
+
+Yet every industry with imperfect quality measures suffers similarly.  For example, consider the bad incentives from these imperfect college quality measures:
+
+Student SAT scores:  Prefer to admit students with high scores, versus students who best benefit from your school. 
+Student GRE Scores:  Teach to the GRE test, neglecting other topics.
+Graduation Rates:  Fail too few students, and give too many A grades. 
+Campus visits:  Invest too much in pretty grounds, and in visible events while students visit.
+Research prestige:  Invest too much in prestigious professors who neglect teaching for research. 
+Sports success:  Invest too much in winning teams that gain attention.  
+
+ To avoid these problems should we have the government assign students to colleges, or should we prevent schools from having researchers or sports teams, allowing campus visits, or publicizing test scores, graduation rates, or research success?  If not, what makes medicine so different?  
+
+
+title: Bad College Quality Incentives
+
+date: September 11, 2007 6:00 am
+

@@ -1,0 +1,35 @@
+author: Robin Hanson
+
+text: 
+Market probabilities on US presidential nominations have changed greatly in the last week, due to the Iowa and New Hampshire primaries.  This illustrates how the US primary system gives early states far more influence: 
+
+The voting weights implied by the estimated model demonstrate that early [primary] voters have up to 20 times the influence of late voters in the selection of candidates, demonstrating a significant departure from the ideal of "one person, one vote." 
+
+This inequality is well known.  Pundits often praise it for giving obscure politicians a chance, and making politicians interact personally with individual voters.  Few express sympathy for other states, whose efforts to be as early were actively beaten down this last year by the parties. 
+But consider all the ink spilled over possible tiny inequalities in rates of "hanging chads," or in distance to voting places.  Or consider the horror many express at Bryan Caplan’s suggestion to give more votes to the better educated.  These might give you the impression that we are quite averse to political inequality.   
+In fact, however, we tolerate enormous inequality in political influence.  In addition to primary timing inequalities, a Marginal Revolution commentor notes:
+  
+
+ A voter in Wyoming has 3x the voting influence of a voter in California in the general election. 
+
+And there is vast variation in political influence among voters in the same district, due somewhat to gerrymandering, but mostly to unequal information about which politicians favor which policies, and which polices are good for whom.  We are well aware of these inequalities and mostly just don’t care.
+Many people think governments help to reduce social inequality, but the more government intervenes in society, the more it replaces private inequality with political inequality.  And my guess is that inequality in political influence is larger than, for example, consumption inequality.  
+ As I noted a year ago, inequality discussions focus almost entirely on the smallest (#6) of these eight kinds of inequality:  
+
+ Inequality across species 
+ Inequality between actual and possible humans
+ Inequality across the eras of human history 
+ Non-income inequality, such as of popularity, respect, beauty, sex, kids, political influence 
+ Income inequality between the nations of a world 
+ Income inequality between the families of a nation 
+ Income inequality between the siblings of a family 
+ Income inequality between the days of a person’s life
+
+ Humans clearly do not have a generic aversion to inequality; our concern is very selective.  I suspect our distant ancestors often formed coalitions that complained about inequality of transferable assets, as a way to coordinate a veiled threat to take those assets if they were not offered freely.  So we care mostly about income inequality within a nation that is correlated with existing political coalitions, since we can threaten to use coalition politics to transfer income within a nation between such groups. 
+Added: I supposed I should also include inequality between the worlds of a universe. 
+
+
+title: Political Inequality
+
+date: January 9, 2008 6:00 am
+

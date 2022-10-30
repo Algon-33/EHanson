@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+According to the intellectual norms that I learned when young, there is a high road and a low road for proposing reforms. The low road is populist and pandering – you ignore critics and try anything to get folks who could do something excited about your idea – sex appeal, group loyalties, demonizing opponents, overselling gains, whatever it takes. The high road is elitist and analytical – you carefully write up arguments, ideally with math models, randomized trials, and stat analysis, and present them to elites for evaluation.
+Academics usually see the low road as deceptive – by ignoring critics and refusing to present careful arguments for evaluation, you admit your arguments are weak. Low road advocates counter that academic models and trials are often quite distant from actual applications — what really matters is that people try and evolve ideas in realistic contexts, and see how they feel about them there.
+Twenty-five years ago, as a thirty year old wondering how to devote my life to pushing prediction markets, a mentor I respected basically suggested a low road – I should write a popular book to get lots of people excited. Instead I mostly chose a high road, going back to school to get a Ph.D., doing math models, lab experiments, etc.
+Today I have reached a notable milestone along that road; my paper arguing for futarchy, a form of governance based on decision markets, is now published in the leading academic journal in the field of political philosophy: the Journal of Political Philosophy. This would be the abstract, if that journal had them:
+Shall We Vote on Values, But Bet on Beliefs?
+Democracies often fail to aggregate information, while speculative markets excel at this task. I consider a new form of governance, wherein voters would say what we want, but speculators would say how to get it. Elected representatives would oversee the after-the-fact measurement of national welfare, while market speculators would say which policies they expect to raise national welfare. Those who recommend policies that regressions suggest will raise GDP should be willing to endorse similar market advice. Using a qualitative engineering-style approach, I consider twenty-five objections, and present a somewhat detailed design intended to address most of these objections.
+Of course I might do even better someday, perhaps publishing top journal articles on math models or lab experiments. Even so, this seems a good time to ask: is the high road really better?
+I have doubts. What futarchy and decision markets mainly need, and have long needed, are organizations to try them out on small scales, to work out the little details that general ideas need for practical application. Small scale successes might then lead to larger trials, perhaps eventually at very large scales. And I doubt that publishing this paper, or further top journal papers, will do much to induce such trials.
+A pandering popular book might do much more, if it actually got people to try the idea. They wouldn’t have to do it for the right reasons, by correctly evaluating pro and con arguments. In fact, it would be fine if the book gave most folks much worse estimates, as long as it induced a thicker high tail of enthusiasm to actually do something. A better idea for reform, with a big pool of rational advocates, might add much less value to the world than a worse idea for reform, matched with fewer less rational advocates willing to actually try and evolve their idea.
+After all, beliefs mainly matter for inducing relevant actions. The high road might produce more accurate beliefs, but the low road may often get more things done.
+
+
+title: High Road Doubts
+
+date: May 16, 2013 4:00 pm
+

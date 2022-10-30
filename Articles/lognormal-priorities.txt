@@ -1,0 +1,42 @@
+author: Robin Hanson
+
+text: 
+In many polls on continuous variables over the last year, I’ve seen lognormal distributions typically fit poll responses well. And of course lognormals are also one of the most common distributions in nature. So let’s consider the possibility that, regarding problem areas like global warming, falling fertility, or nuclear war, distributions of priority estimate are lognormal.
+Here are parameter values (M = median, A = (mean) average, S = sigma) for lognormal fits to polls on how many full-time equivalent workers should be working on each of the following six problems:
+
+[M = 0.007, A = 1E5, S = 5.7] A magic incantation accidentally summons demons from the deep
+[M = 0.04, A = 3E6, S = 6.0] Angry god, offended by our neglecting existence & decrees
+[M = 16, A = 7E2, S = 2.7] Surprise sudden alien invasion
+[M = 22, A = 4E3, S = 3.2] Physics experiment accidentally destroys Earth
+[M = 67, A = 2E4, S = 3.4] Digging up old stuff uncovers devastating ancient disease
+[M = 680, A = 4E5, S = 3.6] Surprise sudden arrival of very advanced AI
+
+Note that priorities as set by medians are quite different from those set by averages.
+Imagine that someone is asked to estimate their (median) priority of a topic area. If their estimate results from taking the product of many estimates regarding relevant factors, then not-fully-dependent noise across different factors will tend to produce a lognormal distribution regarding overall (median) estimates. If they were to then act on those estimates, such as for a poll or choosing to devote time or money, we should see a lognormal distribution of opinions and efforts. When variance (and sigma) is high, and effort is on average roughly proportional to perceived priority, then most effort should come from a quite small fraction of the population. And poll answers should look lognormal. We see both these things.
+Now let’s make our theory a bit more complex. Assume that people see not only their own estimate, but sometimes also estimates of others. They then naturally put info weight on others’ estimates. This results in a distribution of (median) opinions with the same median, but a lower variance (and sigma). If they were fully rational and fully aware of each others’ opinions, this variance would fall to zero. But it doesn’t; people in general don’t listen to each other as much as they should if they cared only about accuracy. So the poll response variance we see is probably smaller than the variance in initial individual estimates, though we don’t know how much smaller.
+What if the topic area in question has many subareas, and each person gives an estimate that applies to a random subarea of the total area? For example, when estimating the priority of depression, each person may draw conclusions by looking at the depressed people around them. In this case, the distribution of estimates reflects not only the variance of noisy clues, but also the real variance of priority within the overall area. Here fully rational people would come to agree on both a median and a variance, a variance reflecting the distribution of priority within this area. This true variance would be less than the variance in poll responses in a population that does not listen to each other as much as they should.
+(The same applies to the variance within each person’s estimate distribution. Even if all info is aggregated, if this distribution has a remaining variance, that is “real” variance that should count, just as variance within an area should count. It is the variance resulting from failing to aggregate info that should not count.)
+Now let’s consider what this all implies for action biases. If the variance in opinion expressed and acted on were due entirely to people randomly sampling from the actual variance within each area, then efforts toward each area would end up being in proportion to an info-aggregated best estimates of each area’s priority – a social optimum! But the more that variance in opinion and thus effort is also due to variance in individual noisy estimates, then the more that such variance will distort efforts. Efforts will go more as the average of each distribution, rather than its median. The priority areas with higher variance in individual noise will get too much effort, relative to areas with lower variance.
+Of course there are other relevant factors that determine efforts, besides these priorities. Some priority areas have organizations that help to coordinate related efforts, thus reducing free riding problems. Some areas become fashionable, giving people extra social reasons to put in visible efforts. And other areas look weird or evil, discouraging visible efforts. Even so, we should worry that too much effort will go to areas with high variance in priority estimate noise. All else equal, you should avoid such areas. Unless estimate variance reflects mostly true variance within an area, prefer high medians over high averages.
+Added 3p: I tried 7 more mundane issues, to see how they varied in variance. The following includes all 13, sorted by median.
+
+[M = 0.007, A = 1E5, S = 5.7] A magic incantation accidentally summons demons from the deep
+[M = 0.04, A = 3E6, S = 6.0] Angry god, offended by our neglecting existence & decrees
+[M = 0.13, A = 5E2, S = 4.0] Too many/long credits in movies
+[M = 0.16, A = 9E1, S = 3.6] Should sentence breaks have one space or two
+[M = 1.6, A = 6E1, S = 2.7] More easily replacing missing pieces of jigsaw puzzles
+[M = 3.8, A = 1E2, S = 2.7] Dental floss that breaks less easily
+[M = 16, A = 7E2, S = 2.7] Surprise sudden alien invasion
+[M = 22, A = 4E3, S = 3.2] Physics experiment accidentally destroys Earth
+[M = 67, A = 2E4, S = 3.4] Digging up old stuff uncovers devastating ancient disease
+[M = 110, A = 6E4, S = 3.6] Traffic lights where one side stopped, other empty
+[M = 360, A = 3E6, S = 4.2] Water glass on which bacteria/mold can’t grow
+[M = 680, A = 4E5, S = 3.6] Surprise sudden arrival of very advanced AI
+[M = 840, A = 1.7E5, S = 3.3] AC systems add more fresh air
+
+
+
+title: Lognormal Priorities
+
+date: August 24, 2020 7:00 pm
+

@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+Malaria may have killed half of all the people that ever lived. (more)
+Over one million people die from malaria each year, mostly children under five years of age, with 90% of malaria cases occurring in Sub-Saharan Africa. (more)
+378,000 people worldwide died a violent death in war each year between 1985 and 1994. (more)
+Over the last day I’ve done two Twitter polls, one of which was my most popular poll ever. Each poll was on whether, if we had the option, we should try to end a big old nemesis of humankind. One was on mosquitoes, the other on war:
+
+“Crispr has been used to design mosquitoes that produce infertile offspring. If those mosquitoes were released into the wild, the species could become extinct.” So, should we try now to make them extinct? https://t.co/cAPZtC5KuD
+— Robin Hanson (@robinhanson) July 28, 2019
+
+
+War has hurt many people,, but it has been a deep part of civilization for so long that it may serve important functions. If we had a good chance of eliminating war now, should we try to do it?
+— Robin Hanson (@robinhanson) July 28, 2019
+
+In both cases the main con argument is a worry about unintended side effects. Our biological and social systems are both very complex, with each part having substantial and difficult to understand interactions with many other parts. This makes it hard to be sure that an apparently bad thing isn’t actually causing good things, or preventing other bad things.
+Poll respondents were about evenly divided on ending mosquitoes, but over 5 to 1 in favor of ending war. Yet mosquitoes kill many more people than do wars, mosquitoes are only a small part of our biosphere with only modest identifiable benefits, and war is a much larger part of key social systems with much easier to identify functions and benefits. For example, war drives innovation, deposes tyrants, and cleans out inefficient institutional cruft that accumulates during peacetime. All these considerations favor ending mosquitoes, relative to ending war.
+Why then is there so much more support for ending war, relative to mosquitoes? The proximate cause seems obvious: in our world, good people oppose both war and also ending species. Most people probably aren’t thinking this through, but are instead just reacting to this surface ethical gloss. Okay, but why is murderous nature so much more popular than murderous features of human systems? Perhaps in part because we are much more eager to put moral blame on humans, relative to nature. Arguing to keep war makes you seem like allies of deeply evil humans, while arguing to keep mosquitoes only makes you allies of an indifferent nature, which makes you far less evil by association.
+
+
+title: End War Or Mosquitoes?
+
+date: July 29, 2019 8:00 pm
+

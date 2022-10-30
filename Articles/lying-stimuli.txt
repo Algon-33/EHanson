@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+In economic downturns, most economic activity arguably has a positive externality; when A buys services from B, not only do A and B benefit but the downturn is reduced a bit as well.  (In an upturn, extra activity arguably exasperates the boom-bust cycle.)  This fact can justify subsidizing economic activity a bit more (or taxing it a bit less) during a downturn.  But it turns out this isn't the main rationale for "economic stimuli" now being debated; those plans are largely based on the idea that people can be fooled because they are biased.  Tyler Cowen:  
+
+Let's say government can spend $100 billion today or spend the present expected value of $100 billion, stretched out over time so it is a commitment in perpetuity.  Both spending programs are financed by bonds. … The Keynesian boost to aggregate demand arises because people consider the resulting bonds to be "net wealth" even when they are not. …  People are tricked by the government's fiscal policy, but of course the extent, timing, and nature of the trickery is hard to predict.  Is it easier to trick people "a lot all at once" or "a little bit by bit over time"?  It depends.  If you try to trick them slowly over time, temporal learning and adaptive expectations may work against the policymaker.  But if you try to trick people a lot all at once, the trick may rise over their threshold of attention, perhaps because of media coverage. 
+
+Wise taxpayers who get stimuli tax rebate checks should mostly save them, realizing that future taxes must rise to pay for those checks.  For similar reasons, wise taxpayers should also spend less upon hearing about government spending increases.  So with wise taxpayers it is not obvious that tax rebates or government spending increases would help much with the downturn.  
+ The consensus among macro-economists seems to be that people can in fact be fooled by such stimuli, but as Tyler indicates, it is not clear which policies most fool us.  In particular, the more public attention we give to the stimuli, the less they might work.  We might make people realize that they need to compensate via saving, and the more we scare folks into thinking we need huge stimuli, the more we might scare them away from normal economic activity levels.
+So should we stop explaining macro-economics during this crisis, and stop saying how desperately we need stimuli?  After all, similar rationales were offered against allowing financial market short-sales.
+
+
+title: Lying Stimuli
+
+date: February 3, 2009 6:00 am
+

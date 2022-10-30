@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+A computer has beaten top human poker players:
+
+Humanity was dealt a decisive blow by a poker-playing artificial intelligence program called Polaris during the Man-Machine Poker Competition in Las Vegas.  Poker champs fought the AI system to a draw, then won in the first two of four rounds (each round had Polaris playing 500 hands against two humans, whose points were averaged.) But in the final two rounds of the match, Polaris beat both human teams, two wins out of four, with one loss and one draw.  IBM’s Deep Blue beat chess champion Gary Kasparov in 1997.
+
+This has gained very little news coverage, in stark contrast to the Chess case, even though far more people play poker than chess.  To explain both facts, note that most people can more easily see that they lack chess than poker expertiSe.  They can watch a poker expert fold or raise and imagine that they would have done the same, but know they have no idea why a chess expert makes his moves. 
+ This fools people into thinking they could be a poker champion, which is why so many more people try at poker.  And being less impressed by existing poker champions, people are less impressed by a computer who beats those champions.  The moral: beware of underestimating computers by underestimating the difficulty of the tasks at which they excel.  
+
+
+title: Poker Vs Chess
+
+date: July 9, 2008 9:30 am
+

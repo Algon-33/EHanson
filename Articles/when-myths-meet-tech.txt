@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+A standard story:
+In the bad old days, police gave lip service to law, but actually often looked the other way, issued street justice, planted evidence, or lied under oath, all to implement their own sense of who should be punished, to gain payola, or to bow to the necessities of political influence. While this situation continues in much of the world, in our great nation, ta da, heroic legal activists appealed to our better natures, and shamed us into constraining the police, judges, etc. to actually follow the legal principles to which they give lip service.  Sure sometimes we find a few bad apples, but now we mostly do just apply the law neutrally.
+This heroic myth is now colliding with rapidly falling costs of recording our interactions with police, and with each other.  When such clear evidence is usually available, we will have to either actually follow our legal principles, or be obvious about not doing so.  Surely we wouldn’t just make it illegal to record interactions with police, right?
+In far idealistic mode, many are tempted to accept this standard story, and assume that any laws against recording one’s interactions with police must be a temporary error, surely to be overturned when the good voters become aware of the outrage.  We’d never so transparently turn our backs on our core legal principles, right?  Consider:
+In at least three states, it is now illegal to record any on-duty police officer. Even if the encounter involves you and may be necessary to your defense, and even if the recording is on a public street where no expectation of privacy exists.
+The legal justification for arresting the “shooter” rests on existing wiretapping or eavesdropping laws, with statutes against obstructing law enforcement sometimes cited. Illinois, Massachusetts, and Maryland are among the 12 states in which all parties must consent for a recording to be legal unless, as with TV news crews, it is obvious to all that recording is underway. Since the police do not consent, the camera-wielder can be arrested. Most all-party-consent states also include an exception for recording in public places where “no expectation of privacy exists” (Illinois does not) but in practice this exception is not being recognized. …
+A few weeks ago, an Illinois judge rejected a motion to dismiss an eavesdropping charge against Christopher Drew, who recorded his own arrest for selling one-dollar artwork on the streets of Chicago. … In 2001, when Michael Hyde was arrested for criminally violating the state’s electronic surveillance law – aka recording a police encounter – the Massachusetts Supreme Judicial Court upheld his conviction 4-2. ..
+The selection of “shooters” targeted for prosecution do, indeed, suggest a pattern of either reprisal or an attempt to intimidate. … Recordings that are flattering to the police – an officer kissing a baby or rescuing a dog – will almost certainly not result in prosecution even if they are done without all-party consent. …
+A recent arrest in Maryland is both typical and disturbing.  On March 5, 24-year-old Anthony John Graber III’s motorcycle was pulled over for speeding. He is currently facing criminal charges for a video he recorded on his helmet-mounted camera during the traffic stop. …
+Cameras have become the most effective weapon that ordinary people have to protect against and to expose police abuse. And the police want it to stop.  Happily, even as the practice of arresting “shooters” expands, there are signs of effective backlash. At least one Pennsylvania jurisdiction has reaffirmed the right to video in public places. As part of a settlement with ACLU attorneys who represented an arrested “shooter,” the police in Spring City and East Vincent Township adopted a written policy allowing the recording of on-duty policemen.
+And this is all about the official rules. I’m pretty sure that unofficially, police have ways of punishing you for trying to record them, even if you are legally allowed to do so.  Consider also:
+An obvious enabler of police corruption is the fact that internal affairs units, tasked with exposing corruption, usually report to the same police chief that would be embarrassed by such exposure, and who may also be corrupt.  An obvious solution is to make internal affairs more independent, e.g., reporting directly to a city council or even a governor.
+This isn’t some temporary lack of adaptation to a new tech; the obvious solution has been possible, and ignored, for a long long time.  Now ask yourself honestly, in near mode, what you think will usually happen in ten years to someone who tries to visibly record their interaction with police.
+Added 16June: New from the Post:
+The decades-old wiretap law has suddenly become a fresh battleground for civil libertarians and bloggers who consider Graber’s prosecution and a series of similar arrests a case of government overreach.
+Count me as one of those bloggers. 🙂
+
+
+title: When Myths Meet Tech
+
+date: June 10, 2010 4:30 pm
+

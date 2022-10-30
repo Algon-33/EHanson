@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+From the current New Scientist:
+
+In an experiment dubbed "Cola Wars", [Nick Epley] conducted a taste test with a twist: he told participants which cola was Coke and which was Pepsi before tasting began. After tasting, all they had to do was estimate what percentage of their friends would be able to distinguish between the two in a blind taste test. Studies show that people’s ability to do this is no better than chance – so an answer around 50 per cent would be right. What Epley found was intriguing. When he motivated volunteers to give a considered response – by offering them a cash payment – their answers tended to be close to 50 per cent. Subjects who were not paid, however, seemed to answer with an egocentric bias: since they knew which cola was which, they assumed that a high proportion of their friends would guess correctly (Journal of Personality and Social Psychology, vol 87, p 327).  For Epley, the finding supports his idea that putting yourself inside the head of another person and considering their perspective requires a cognitive effort that simple egocentric judgements do not.
+
+Make no mistake: stronger incentives often (though not always) make us see more clearly. 
+
+
+title: Cash Increases Accuracy
+
+date: March 28, 2008 6:00 am
+

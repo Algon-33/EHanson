@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The quality of firm managers matters enormously for firm productivity. How can we get better managers? We already select the best people in terms of simple features like intelligence, conscientiousness, etc. But apparently there is still huge variation in quality, even after controlling for such things. Typical MBA programs teach people some business basics, but don’t seem to help much; they mainly serve to select elites and connect them to each other.
+I recently had dinner with a few San Francisco tech startup CEOs, who were worth high sums. They weren’t obviously that much smarter etc. than others. Their high value came from having actually navigated difficult business waters, successfully enough. That sort of experience and track record is gold. Some said that business success came from making the right decision at a half dozen key points; any wrong move would have killed them.
+Some had first gained experience via being a personal assistant to someone else in such a role. Such an assistant goes to all meetings and sees pretty much everything that manager does, over a several year period. Apparently children learn similar things via parents dinner conversations:
+The majority of male entrepreneurs in Norway start a firm in an industry closely related to the one in which their father is employed. These entrepreneurs outperform others in the same industry. … ‘Dinner table human capital’ – that is, industry knowledge learned through their parents – is an important factor.… the effect of parents helping out, although possibly quite important, is smaller. (more; HT Alex T)
+If one can learn much from just watching the inside story of real firms over several years, that suggests a big win: record the full lives of many rising managers over several years, and show a mildly compressed and annotated selection of such recordings to aspiring managers. Such recordings could be compressed by deleting sleep and non-social periods. They could be annotated to identify key decisions and ask viewers to make their own choices, before they see actual choices. Recordings might be selected 2/3 from the most successful, and 1/3 from a sampling of others.
+Yes, there are issues of privacy and business secrets. But these are already issues for personal assistants and others who attend key business meetings. Waiting five years could take away many business secret concerns. And we don’t have to make these videos available to the world; making manager experiences visible to only 100 times more people might increase our pool of good manager candidates by a factor of 100. And that could be worth trillions to the world economy.
+
+
+title: Toward Reality TV MBAs
+
+date: March 30, 2018 11:00 am
+

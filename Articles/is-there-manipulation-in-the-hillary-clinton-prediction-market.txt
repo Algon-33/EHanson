@@ -1,0 +1,16 @@
+author: Justin Wolfers
+
+text: 
+Both Eric Zitzewitz and I have recently noticed some suspicious activity in the InTrade market for whether Hillary Clinton will be elected President, with someone bidding up her odds from about 25 to around 40 (currently hovering at 38).  This just strikes as us too high, relative to her chances of even garnering the nomination (around 51).  And when we saw this mis-pricing, we suggested that manipulation may be at play (see Eric here; my comments here; Robin Hanson here; and Greg Mankiw here).
+But Koleman Strumpf isn’t so sure that this is manipulation. Koleman’s main evidence is that the law of one price appears to (roughly) hold across markets, and so the 2008.PRES.CLINTON security is similarly priced on BetFair, and elsewhere.  Of course, this isn’t evidence against manipulation, but it is interesting.  He raised the real possibility that this is a rational market response to some recent developments, although for the life of me, I can’t figure out what development that may be.
+At the heart of Koleman’s concern is a question about the burden of proof here. And I have some sympathy for the view that when a market price moves in a direction you don’t expect, one should change one’s expectations, not one’s view of prediction markets.
+So here is a simple way to resolve the issue of the burden of proof…  If the current market price is a reflection of available information, then as future information comes in, the market price is as likely to rise as to fall.  So I want to offer Koleman the following bet: If the price of 2008.PRES.CLINTON is higher than 38.3 (the last traded price on Intrade) on June 30, 2007, then I’ll buy him his favorite cigars. And if it is lower, I’ll be waiting for a good bottle of Aussie red.
+Of course, we would want to make sure that this friendly wager is, itself, manipulation-proof.  So I’ll suggest we use the volume-weighted average trading price on June 30 to resolve the bet, and not simply the last 11:59pm trade.
+ So Koleman, do we have a bet?  
+And more generally, do we have a useful mechanism for resolving scientific disputes? 
+
+
+title: Is there manipulation in the Hillary Clinton prediction market?
+
+date: May 31, 2007 10:49 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+ Imagine you are about to watch a car ad.  You now have expectations about various aspects of the car, including its reliability, comfort, acceleration, cool factor, and so on.  These all combine into your total estimate of how much the car would be worth to you.  After you watch the ad, your expectations about many aspects may change.  You may think it more cool and reliable, but less comfortable and slower.  Sometimes you will think the car is worth more, and some times less, than you thought before.
+If you expect that watching a car ad will tend to make you like that car more, raising your car value estimate, you are biased!  You should adjust your reaction tendencies until you expect no average change in your value estimate.  It can be reasonable to react positively to the fact that a car company choose to show you a car ad, but only if you react negatively when they choose not to show you an ad.
+ This is a very general result: you should expect any piece of information to make zero average change in any estimate of yours.  This applies to any aspect of any product, applies to any kind of ad or pitch, and any kind of signal or or clue you might get about anything.   
+ Why would car companies show ads to well-adjusted ad watchers?  Because even if ads do not change average estimates, they can increase estimate variation.  If most people’s estimates are below the threshold for wanting to buy the car, then increasing estimate variation should increase the fraction of people who want the car enough to buy it.  If most people already think a product is good enough, however, its sellers should avoid showing variation-increasing ads to well-adjusted watchers.  
+For a two-sided contest, such as a political race or legal trial, the tentative loser wants variation-increasing pitches, while the tentative winner avoids such things.  So, a side’s relative silence can signal its confidence in being a tentative winner.
+
+
+title: Calibrate Your Ad Response
+
+date: February 26, 2007 6:00 am
+

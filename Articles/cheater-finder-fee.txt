@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Today tort law lets folks sue others for harms outside the scope of a contract. Consider:
+If it would have been hard for you to negotiate a deal where someone might pay you for your help, the law might also want to let you sue that person, asking for some estimate of the value of the help you gave.
+Half of my recent law & econ final exam was to analyze:
+If A informs B that spouse C is cheating on B with D, should A be able to sue B for compensation for this service?
+My forty students mostly disagreed; 50% of A students and 75% of below A students said no.  The obvious pro arguments are less cheating and earlier discovery of cheating. Con arguments:
+
+Estimating value gained is hard; only count cash gains.
+They could have paid someone else to check for cheating.
+Many spouses would rather not know of cheating.
+The cheating spouse and partner lose if exposed.
+Some might make fake evidence to gain money.
+Some might entrap folks into cheating.
+The legal process is costly, as is law change.
+
+Now fraud and entrapment could be obvious exceptions, and the cost of law argues equally against all law.  The difficulties and signaling penalties of contracting with folks well placed to notice incriminating evidence suggests we apply tort law principles.  And only paying a fraction of cash gained in a divorce settlement would mainly help wives, who get most such cash.
+Instead, I’d suggest a standard finder’s fee of 5% of annual income for the first direct clear evidence of cheating in a declared exclusive relation (e.g., marriage) lasting over two years.  This seems to me a conservative estimate of an average value of learning that your spouse is cheating, while still enough to induce lots more stranger efforts.
+My students also opposed cuckolded men suing for compensation; some said it was his fault too if she was unsatisfied.  It seems most students think cheating should not be discouraged more than it is; if cheating seems a good bet to you given your chance and level of punishment, they seem to say go for it.  Yes they might not want to say it that directly, but is there any other contrary data out there?
+
+
+title: Cheater Finder Fee?
+
+date: December 19, 2009 4:00 pm
+

@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Since at least 2013, many have claimed that we are entering a big automation revolution, and so should soon expect to see large trend-deviating increases in job automation levels, in related job losses, and in patterns of which jobs are more automated.
+For example, in the October 15 Democratic debate between 12 U.S. presidential candidates, 6 of them addressed automation concerns introduced via this moderator’s statement:
+According to a recent study, about a quarter of American jobs could be lost to automation in just the next ten years.
+Most revolutions do not appear suddenly or fully-formed, but instead grow from precursor trends. Thus we might hope to test this claim of an automation revolution via a broad study of recent automation.
+My coauthor Keller Scholl and I have just released such a study. We use data on 1505 expert reports regarding the degree of automation of 832 U.S. job types over the period 1999-2019, and similar reports on 153 other job features, to try to address these questions:
+
+Is automation predicted by two features suggested by basic theory: pay and employment?
+Do expert judgements on which particular jobs are vulnerable to future automation predict which jobs were how automated in the recent past?
+How well can we predict each job’s recent degree of automation from all available features?
+Have the predictors of job automation changed noticeably over the last two decades?
+On average, how much have levels of job automation changed in the last two decades?
+Do changes in job automation over the last two decades predict changes in pay or employment for those jobs?
+Do other features, when interacted with automation, predict changes in pay or employment?
+
+Bottom line: we see no signs of an automation revolution. From our paper‘s conclusion:
+We find that both wages and employment predict automation in the direction predicted by simple theory. We also find that expert judgements on which jobs are more vulnerable to future automation predict which jobs have been how automated recently. Controlling for such factors, education does not seem to predict automation.
+However, aside perhaps from education, these factors no longer help predict automation when we add (interpolated extensions of) the top 25 O*NET variables, which together predict over half the variance in reported automation. The strongest O*NET predictor is Pace Determined By Speed Of Equipment and most predictors seem understandable in terms of traditional mechanical styles of job automation.
+We see no significant change over our time period in the average reported automation levels, or in which factors best predict those levels. However, we can’t exclude the possibility of drifting standards in expert reports; if so, automation may have increased greatly during this period. The main change that we can see is that job factors have become significantly more suitable for automation, by enough to raise automation by roughly one third of a standard deviation.
+Changes in pay and employment tend to predict each other, suggesting that labor market changes tend more to be demand instead of supply changes. These changes seem weaker when automation increases. Changes in job automation do not predict changes in pay or employment; the only significant term out of six suggests that employment increases with more automation. Falling labor demand correlates with rising job education levels.
+None of these results seem to offer much support for claims that we are in the midst of a trend-deviating revolution in levels of job automation, related job losses, or in the factors that predict job automation. If such a revolution has begun, it has not yet noticeably influenced this sort of data, though continued tracking of such data may later reveal such a revolution. Our results also offer little support for claims that a trend-deviating increase in automation would be accompanied by large net declines in pay or employment. Instead, we estimate that more automation mainly predicts weaker demand, relative to supply, fluctuations in labor markets.
+
+
+title: Automation: So Far, Business As Usual
+
+date: December 9, 2019 9:00 pm
+

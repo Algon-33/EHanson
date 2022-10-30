@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+The vast majority of economic growth is caused by innovation. So when it comes to long term policy, innovation is almost the entire game – whatever policy causes substantially more innovation is probably better, even if has many other big downsides.
+One simple robust solution to the innovation problem would seem to be manic monopolists: one aggressively-profit-maximizing firm per industry. Such a firm would internalize the entire innovation problem within that industry, all the way from designers to suppliers to producers to customers – it would have full incentives to encourage all of those parties to put nearly the right amount and type of efforts into innovation.
+Yes, even monopolists don’t have exactly the right incentives. They will tend to focus on what marginal customers want, at the expense of both lower-value customers pushed out by inflated monopolist prices, and higher-value infra-marginal customers. And when innovations can cross industry boundaries, industry monopolists may also fail to coordinate with monopolists from other industries. But still, this approach seems to get a lot closer to optimal that anything other simple policy. And if two industries had enough innovation interaction, one might just have a single firm cover both industries.
+Ideally these monopolies would be global, but if not national ones might still be a big win over the status quo.
+Admittedly, common intuitions don’t agree with this. For one thing we tend to think of monopolists as too lazy to innovate – it takes competition to push them out of their comfort zone. And I agree that this is a common situation for regulated utilities and government agencies. Often the employees of a monopolist tend to have enough political power to entrench themselves and resist change, at the expense of investors and customers. This is why I specified manic monopolists – we need investors to have enough power to impose their will, and we need to have  enough competition to fill these investor roles.
+Yes, we also tend to be uncomfortable with the inequality and power concentration that manic monopolists would embody and require. It isn’t at all what foragers are prone to praise. But still, if innovation is important enough, shouldn’t we be willing to tolerate a lot more inequality to get it?
+Added 8a 11Apr: In general, industries that are more concentrated, i.e., more in the direction of having a monopolist, have more patents, all else equal. This seems to be because they invest more in R&D. Data here, here.
+
+
+title: Rah Manic Monopolists?
+
+date: April 9, 2014 6:50 pm
+

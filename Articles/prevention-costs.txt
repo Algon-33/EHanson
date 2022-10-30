@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+More prevention will not cut health care costs.  Tuesday’s Post: 
+
+Most of us naturally assume that preventing a disease is cheaper than waiting for the disease to appear and then treating it. That belief is especially dear to politicians, who often view prevention as an underused weapon in the battle against health-care costs. …
+ In 1986, a health economist named Louise B. Russell published "Is Prevention Better Than Cure?," in which she concluded that prevention activities tend to cost more than they save. Since the book’s appearance, her observation has been borne out by studies of hundreds of interventions — everything from offering mammograms to all women and prescribing drugs to people with high cholesterol to requiring passenger-side air bags in cars and shortening the response time of ambulances. …
+ For example, Australian researchers tried out a program in which general practitioners watched a video and read a booklet about how to help their patients lower their heart attack risk. The patients were then given a series of videos and a self-help booklet on the same topic.  How cost-effective is this instruction? When it is provided for women at low risk of heart disease, $9.8 million has to be spent for every year of life saved in the prevention of premature heart attack deaths. …
+Some disease-preventing activities … save money, although they are relatively rare. Childhood vaccinations are the classic examples. … Providing a single colonoscopy to men 60 to 64 years old also saves money. …
+ Similar to the finding that prevention rarely saves money is the calculation that people in good health probably rack up higher lifetime medical costs than their less-healthy brethren.  The reason?  Healthy people tend to live longer.
+
+Added:  I’m mentioned in today’s NYT re prediction markets, alas again as the extremist. 
+
+
+title: Prevention Costs
+
+date: April 9, 2008 6:00 am
+

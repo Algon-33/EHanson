@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+People keep asking me to return to the core of the argument, but, well, there's just not much there.  Let's review, again.  Eliezer suggests someone soon may come up with a seed AI architecture allowing a single AI to within roughly a week grow from unimportant to strong enough to take over the world.  I'd guess we are talking over 20 orders of magnitude growth in its capability, or 60 doublings.   
+This amazing growth rate sustained over such a large magnitude range is far beyond what the vast majority of AI researchers, growth economists, or most any other specialists would estimate.  It is also far beyond estimates suggested by the usual choices of historical analogs or trends.  Eliezer says the right reference set has two other elements, the origin of life and the origin of human minds, but why should we accept this reference?  He also has a math story to suggest this high average growth, but I've said:
+
+I also find Eliezer's growth math unpersuasive. Usually dozens of relevant factors are co-evolving, with several loops of all else equal X growth speeds Y growth speeds etc. Yet usually it all adds up to exponential growth, with rare jumps to faster growth rates. Sure if you pick two things that plausibly speed each other and leave everything else out including diminishing returns your math can suggest accelerating growth to infinity, but for a real foom that loop needs to be real strong, much stronger than contrary muting effects.
+
+Eliezer has some story about how chimp vs. human brain sizes shows that mind design doesn't suffer diminishing returns or low-hanging-fruit-first slowdowns, but I have yet to comprehend this argument.  Eliezer says it is a myth that chip developers need the latest chips to improve chips as fast as they do, so there aren't really diminishing returns there, but chip expert Jed Harris seems to disagree. 
+  
+Monday Eliezer said:
+
+Yesterday I exhausted myself … asking … "What do you think you know, and why do you think you know it?" with respect to "How much of the AI problem compresses to large insights, and how much of it is unavoidable nitty-gritty?"
+
+His answer:
+
+The human brain is a haphazard thing, thrown together by idiot evolution … if there were any smaller modification of a chimpanzee that spontaneously gave rise to a technological civilization, we would be having this conversation at that lower level of intelligence instead. … Human neurons run at less than a millionth the speed of transistors … There's no reason to think that the brain's software is any closer to the limits of the possible than its hardware. … [Consider] the manifold known ways in which our high-level thought processes fumble even the simplest problems.  Most of these are not deep, inherent flaws of intelligence. … 
+We haven't yet begun to see the shape of the era of intelligence.  Most of the universe is far more extreme than this gentle place, Earth's cradle. … Most possible intelligences are not balanced, like these first humans, in that strange small region of temperate weather between an amoeba and a Jupiter Brain. … I suppose that to a human a "week" sounds like a temporal constant describing a "short period of time", but it's actually 10^49 Planck intervals.
+
+I feel like the woman in Monty Python's "Can we have your liver?" sketch, cowed into giving her liver after hearing how vast is the universe.  Sure evolution being stupid suggests there are substantial architectual improvements to be found.  But that says nothing about the relative contribution of architecture and content in minds, nor does it say anything about how easy it will be to quickly find a larger number of powerful architectural improvements!
+
+
+title: What Core Argument?
+
+date: December 10, 2008 8:30 pm
+

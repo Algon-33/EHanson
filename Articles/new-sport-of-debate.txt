@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Someone recently told me “Hey, you seem good at debate.” Which made me think “Yeah, the world needs more debate. Let’s design a better online debate forum.” Here’s an initial concept sketch.
+Audience – These are people allowed to propose and rate debate claims, to propose matches, and to rate performance in them. Each declares their acceptable languages and formats (e.g., text, audio, video). Maybe want to ensure each human can only vote once per issue. To rate a debate, maybe they need to show that they heard the debate live.
+Claim – A list of possible claims to debate. Are some topics off limits? Do editors curate the list to edit wordings and cut redundancies?
+Debaters – People who have volunteered to debate particular claims. Each one can say which sides (pro or con) of which claims they would defend, in what languages and formats, at what day/times, and who they refuse to debate. (Can “math heavy” or “stat heavy” be languages?)
+Debates – Two (or four?) participants publicly debate a given claim online at a given pre-announced time, in a given language and format, with some way to allocate speaking time roughly equally between participants. (Maybe Equatalk?) Some rule decides if debate is cancelled or postponed due to no-shows or health/tech/etc. issues.
+Civility – Some process rules, e.g., if debaters can hurl insults, or introduce links for audience to check.
+Opinions – Each audience member at a debate gives degree(s?) of support for the claim just before and just after the debate. Maybe state opinions before they know debate participants?
+Matching – A process (algorithm?) to pick who debates whom when on what claim in what language, based on the claims that debaters have selected, debater ranks, popularity of claims and matches, and audience participation rates. Maybe do this to max predicted future debate audiences, or info to adjust rankings, or info that changes opinions.
+Ranking – A process (algorithm?) to rank value (plus uncertainty?) of each debater, relative to others, based on no-show rates and the opinions expressed at their debates. Maybe opinions of higher ranked debaters count more. Maybe more debates, or being willing to debate more claims, counts more. Ideally the ranking rule is simple, public, and robust to criticism.
+Seems the next step here is to propose, critique, and choose more specific rules. Then someone can write or adapt software.
+I see big gains from such a forum becoming popular. A good debate forum could become an alternate credentialing framework, to show that some people are good at real debate. (Not like those fake high school debates.) Maybe some new kinds of schools would form to teach people how to do well in such debates.
+A related forum might rate participants more in terms of how well they “discuss” claims, and less in terms of persuading an audience toward some pre-defined conclusion. Maybe rate each on how much they moved audience members in any directions, as proxy for being informative? The big question there seems to me: how can we do that rating, and who gets more weight in such ratings.
+ 
+
+
+title: New Sport of Debate?
+
+date: January 24, 2022 11:55 am
+

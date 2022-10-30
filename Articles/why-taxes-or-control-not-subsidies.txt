@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+All prices are relative; a price is how many As it takes to buy one B. So we can only say that prices are generally high or low relative to some reference asset, like land or hours of work.
+Relative prices says that all taxes of A are really subsidies of Not A, and vice versa. But there is an enforcement difference: it is easier to subsidize than tax, as people have to come to you the enforcer to ask for their subsidy, but they might try to hide from your tax, via a “black” market.
+If taxes and subsidies are in a sense equivalent, but subsidies are easier to enforce, we should expect to see a lot more formal subsidies than taxes. But in fact we see the opposite, not just in total revenue, but also in terms of the number items covered. Why?
+Well even if we rarely see subsidized market items, we do see “subsidies” in the form of direct government provision. Instead of subsidizing private schools, hospitals, roads, libraries, parks, etc. we often see government instead hire workers to build and run such things, exercising detailed control over exactly how such things are done. In contrast, we see many broad taxes, which allow market participants to make detailed choices as long as they pay the broad taxes.
+So why do we see so many market taxes, so few market subsidizes, and so much direct provision, which combines a subsidy with high levels of government control? I can think of two explanations, but I’m not very confident in them, and so am interested to hear more theories.
+First, taxing and controlling things looks like you are dominating them, while subsiding things looks like you are submitting to them, as if you were paying tribute to a lord. So my first explanation is that government seeks to appear dominant over citizens, instead of submissive to them, and gives this a higher priority than having more efficient market influence.
+My second explanation is that government employees have an unusual influence over government policy, and they prefer to have cushy jobs where they control society without taking many personal risks, and they want taxes raised to pay for their jobs. Sure, if we subsidized parks instead of having government run them, similar jobs would exist in private park firms, but those jobs would be less secure or cushy than government jobs, and give employees less control over the public.
+Neither of these theories is very flattering of government. But as I said, I’m not very sure of these; what else ya got?
+Another way to say this: why doesn’t government more often directly control the provision of stuff that it taxes? Like soda, gambling, luxury goods, polluting cars, etc.?
+Added 11:30a: Bryan Caplan suggests its citizens or employees prefer government to be closer to good things, and more distant from bad things. So they want direct provision of things to subsidize, market provision of stuff to tax.
+
+
+title: Why Taxes Or Control, Not Subsidies?
+
+date: August 26, 2021 9:25 am
+

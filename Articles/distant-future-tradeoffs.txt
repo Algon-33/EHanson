@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Over the last day on Twitter, I ran three similar polls. One asked:
+Software design today faces many tradeoffs, e.g., getting more X costs less Y, or vice versa. By comparison, will distant future tradeoffs be mostly same ones, about as many but very different ones, far fewer (so usually all good features X,Y are feasible together), or far more?
+Four answers were possible: mostly same tradeoffs, as many but mostly new, far fewer tradeoffs, and far more tradeoffs. The other two polls replaced “Software” with “Physical Device” and “Social Institution.”
+I now see these four answers as picking out four future scenarios. A world with fewer tradeoffs is Utopian, where you can more get everything you want without having to give up other things. In contrast, a world with many more tradeoffs is more Complex. A world where most of the tradeoffs are like those today is Familiar. And a world where the current tradeoffs are replaced by new ones is Radical.  Using these terms, here are the resulting percentages:
+
+The polls got from 105 to 131 responses each, with an average entry percentage of 25%, so I’m willing to believe differences of 10% or more. The most obvious results here are that only a minority foresee a familiar future in any area, and answers vary greatly; there is little consensus on which scenarios are more likely.
+Beyond that, the strongest pattern I see is that respondents foresee more complexity, relative to a utopian lack of tradeoffs, at higher levels of organization. Physical devices are the most utopian, social institutions are the most complex, and software sits in the middle. The other possible result I see is that respondents foresee a less familiar social future. 
+I also asked:
+Which shapes the world more in the long run: the search for arrangements allowing better compromises regarding many complex tradeoffs, or fights between conflicting groups/values/perspectives?
+In response, 43% said search for tradeoffs while 30% said value conflicts, and 27% said hard to tell. So these people see tradeoffs as mattering a lot.  
+These respondents seriously disagree with science fiction, which usually describes relatively familiar social worlds in visibly changed physical contexts (and can’t be bothered to have an opinion on software). They instead say that the social world will change the most, becoming the most complex and/or radical. Oh brave new world, that has such institutions in it!
+
+
+title: Distant Future Tradeoffs
+
+date: January 22, 2019 8:40 pm
+

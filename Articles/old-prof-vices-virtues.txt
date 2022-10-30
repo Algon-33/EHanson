@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Tyler on “How bad is age discrimination in academia?”:
+I believe it is very bad, although I do not have data.
+I started my Ph.D. at the age of 34, and Tyler hired me here at GMU at the age of 40. So by my lights Tyler deserves credit for overcoming the age bias. Tyler doesn’t discuss why this bias might exist, but a Stanford history prof explained his theory to me when I was in my early 30s talking to him about a possible PhD. He said that older students are known for working harder and better, but also for being less pliable: they have more of their own ideas about what is interesting and important.
+I think that fits with what I’ve heard from others, and have seen for myself, including in myself. People complain that academia builds too little on “real world” experience, and that disciplines are too insular. And older students help with that. But in fact the incentive for each prof in picking students isn’t to solve the wider problems with academia. It is instead to expand an empire by creating intellectual clones of him or herself. And for that selfish goal, older students are worse. My mentors likely feel this way about me, that I worked hard and did interesting stuff, but I was not a good investment for expanding their legacy.
+Interestingly this explanation is somewhat the opposite of the usual excuses for age bias in Silicon Valley. There the usual story is that older people won’t take as many risks, and that they aren’t as creative. But the complaint about older Ph.D.s is exactly that they take too many risks, and that they are too creative. If only they would just do what they are told, and copy their mentors, then their hard work and experience could be more valued.
+I find it hard to believe that older workers change their nature this much between tech and academia. Something doesn’t add up here. And for what its worth, I’ve been personally far more impressed by the tech startups I’ve known that are staffed by older folks.
+
+
+title: Old Prof Vices, Virtues
+
+date: February 16, 2015 11:25 am
+

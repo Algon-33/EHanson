@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Imagine you are considering a career as a paid policy wonk. You wonder which policy area to work in, and which institutions to affiliate with. If you want to influence actual policy, rather than just enjoying money and status, your should ask yourself: do those who sponsor or cite efforts in this area do so more to get support for pre-determined conclusions, or more to get info to help them make choices?
+Sometimes sponsors and other consumers of a type of policy analysis know what policies they prefer, but seek prestigious cover to help them do it. So they pay and search for policy analyses in the hope of finding the support they need. With enough policy analyses to choose from, they can find ones to support their predetermined conclusions. But they need these prestigious cover analyses to appear, at least to distant observers, to be honest open attempts at discovery. It can’t be obvious that they were designed to support pre-determined conclusions.
+At other times, however, sponsors and consumers are actually uncertain, and seek analyses with unpredictable-to-them conclusions to influence their choices. And these are the only cases where your being a policy analyst has a chance of changing real policy outcomes. Such audiences may see your analysis, or be influenced by someone else who has seen them. So for each analysis that you might produce, you should wonder: what are my chances of influencing such an open-minded chooser?
+Here are a few clues to consider:
+
+How predictable are the policy conclusions of the most popular policy analysts in this area? High predictability suggests that sponsors reward such consistency, as it aids their efforts to collect support for predetermined conclusions.
+How interested are sponsors and other policy consumers in policy analyses done by very prestigious people and institutions, relative to others? The more open they are to products of low prestige analysts, the better the chance they seek information, instead of just prestigious backing for pre-existing conclusions.
+How open is this area to funding and otherwise supporting large relevant experiments (or prediction markets)? Or to applying a strong standard theory with standard assumptions, which together often imply specific conclusions? The more that people are willing to endorse the policy implications of such things before their results become known, the more open that area is to unpredictable new information.
+
+It should be possible to collect evidence on how these factors vary across policy areas. Perhaps a simple survey would be sufficient. Might that publicly reveal to all the relative sincerity of different kinds of sponsors and consumers of policy analysis?
+
+
+title: A Wonk’s First Question
+
+date: October 9, 2017 9:50 pm
+

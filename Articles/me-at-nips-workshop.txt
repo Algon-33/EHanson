@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+Tomorrow I’ll present on prediction markets and disagreement, in Montreal at the NIPS Workshop on Transactional Machine Learning and E-Commerce. A video will be available later.
+
+
+title: Me At NIPS Workshop
+
+date: December 11, 2014 9:45 am
+

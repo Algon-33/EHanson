@@ -1,0 +1,34 @@
+author: Robin Hanson
+
+text: 
+I’ve been thinking about how to design a bounty system for enforcing criminal law. It is turning out to be a bit more complex than I’d anticipated, so I thought I’d try to open up this design process, by telling you of key design considerations, and inviting your suggestions.
+The basic idea is to post bounties, paid to the first hunter to convince a court that a particular party is guilty of a particular crime. In general that bounty might be paid by many parties, including the government, though I have in mind a vouching system, wherein the criminal’s voucher pays a fine, and part of that goes to pay a bounty. 
+Here are some key concerns:
+
+There needs to be a budget to pay bounties to hunters.
+We don’t want criminals to secretly pay hunters to not prosecute their crimes.
+We may not want the chance of catching each crime to depend lots on one hunter’s random ability. 
+We want incentives to adapt, i.e., use the most cost-effective hunter for each particular case. 
+We want incentives to innovate, i.e., develop more cost-effective ways to hunt over time. 
+First hunter allowed to see a crime scene, or do an autopsy, etc., may mess it up for other hunters. 
+We may want suspects to have a right against double jeopardy, so they can only be prosecuted once.
+Giving many hunters extra rights to penetrate privacy shields may greatly reduce effective privacy.
+It may be a waste of time and money for several hunters to simultaneously pursue the same crime. 
+Witnesses may chafe at having to be interviewed by several hunters re the same events.
+
+In typical ancient legal systems, a case would start with a victim complaint. The victim, with help from associates, would then pick a hunter, and pay that hunter to find and convict the guilty. The ability to sell the convicted into slavery and to get payment from their families helped with 1, but we no longer allow these, making this system problematic. Which is part of why we’ve added our current system. Victims have incentives to address 2-4, though they might not have sufficient expertise to choose well. Good victim choices give hunters incentive to address 5. The fact that victims picked particular hunters helped with 6-10. 
+The usual current solution is to have a centrally-run government organization. Cases start via citizen complaints and employee patrols. Detectives are then assigned mostly at random to particular local cases. If an investigation succeeds enough, the case is given to a random local prosecutor. Using government funds helps with 1, and selecting high quality personnel helps somewhat with 3. Assigning particular people to particular cases helps with 6-10.  Choosing people at random, heavy monitoring, and strong penalties for corruption can help with 2. This system doesn’t do so well on issues 4-5. 
+The simplest way to create a bounty system is to just authorize a free-for-all, allowing many hunters to pursue each crime. The competition helps with 2-5, but having many possible hunters per crime hurts on issues 6-10. One way to address this is to make one hunter the primary hunter for each crime, the only one allowed any special access and the only one who can prosecute it. But there needs to be a competition for this role, if we are to deal well with 3-5.
+One simple way to have a competition for the role of primary hunter of a crime is an initial auction; the hunter who pays the most gets it. At least this makes sense when a crime is reported by some other party. If a hunter is the one to notice a crime, it may make more sense for that hunter to get that primary role. The primary hunter might then sell that role to some other hunter, at which time they’d transfer the relevant evidence they’ve collected. (Harberger taxes might ease such transfers.)
+Profit-driven hunters help deal with 3-5, but problem 2 is big if selling out to the criminal becomes the profit-maximizing strategy. That gets especially tempting when the fine that the criminal pays (or the equivalent punishment) is much more than the bounty that the hunter receives. One obvious solution is to make such payoffs a crime, and to reduce hunter privacy in order to allow other hunters to find and prosecute violations. But is that enough?
+Another possible solution is to have the primary hunter role expire after a time limit, if that hunter has not formally prosecuted someone by then. The role could then be re-auctioned. This might need to be paired with penalties for making overly weak prosecutions, such as loser-pays on court costs. And the time delay might make the case much harder to pursue.
+I worry enough about issue 2 that I’m still looking for other solutions. One quite different solution is to use decision markets to assign the role of primary hunter for a case. Using decision markets that estimate expected fines recovered would push hunters to accumulate track records showing high fine recovery rates. 
+Being paid by criminals to ignore crimes would hurt such track records, and thus such corruption would be discouraged. This approach could rely less on making such payoffs illegal and on reduced hunter privacy. 
+The initial hunter assignment could be made via decision markets, and at any later time that primary role might be transferred if a challenger could show a higher expected fine recovery rate, conditional on their becoming primary. It might make sense to require the old hunter to give this new primary hunter access to the evidence they’ve collected so far. 
+This is as far as my thoughts have gone at the moment. The available approaches seem okay, and probably better than what we are doing now. But maybe there’s something even better that you can suggest, or that I will think of later. 
+
+
+title: Designing Crime Bounties
+
+date: November 29, 2019 7:15 pm
+

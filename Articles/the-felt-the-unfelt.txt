@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+
+In the economic sphere an act, a habit, an institution, a law produces not only one effect, but a series of effects. Of these effects, the first alone is immediate; it appears simultaneously with its cause; it is seen. The other effects emerge only subsequently; they are not seen; we are fortunate if we foresee them. (What Is Seen and What Is Not Seen, Bastiat, 1850)
+Lately I’ve been pondering various public policy/opinion puzzles:
+
+few seem worried that regulation discourages innovation
+most oppose randomizing policies to learn what policies work
+white collar crime is neglected relative to blue collar crime
+cuckoldry seems to most far less bad than even stealth rape
+long prison terms seem to most less cruel than brief torture
+folks fear not getting medicine far more than getting too much
+minimum wages help folks with jobs, neglect those without
+folks focus on professional licensing raising quality, not price
+
+The pattern I see here is vivid images of direct visceral effects overwhelming less direct and visceral considerations. “Near” tends to displace “far” in policy. This sounds like Bastiat’s famous bias for the “seen” over the “unseen.” But while I agree that this effect contributes, I actually doubt it is the root cause.
+You see, most people seem quite capable of understanding many of these indirect effects.  Yet even when indirect effects are clearly explained to them, so that they clearly understand, they don’t usually change opinions on such policies.
+Now one might invoke social pressure, suggesting people don’t want to look evil or uncaring in the eyes of the many others who don’t understand indirect effects. But while that explanation gets us closer, I think it is still missing a lot.
+Consider that econ lab experiment subjects often show “cooperative” or “altruistic” behavior, taking actions that benefit other subjects in the same experiment. Yet this direct help comes at the indirect expense of however else that money would be spent by the researchers. I’d bet that randomly chosen and grouped subjects would mostly continue such altruism, even when clearly informed that money left over at year’s end will be randomly distributed to those who participated in experiments during the year. Even if subjects clearly understand this indirect distribute-the-surplus effect, they’d still neglect it relative to direct effects.
+Similarly, when folks meet and say “its been so long, we simply must see each other more often,” they focus on the joy of meeting, and neglect the other less vivid reasons they have not been meeting. Even though they are quite aware that such reasons exist.
+In these and many other cases, it seems to me that people have a habit of going out of their way to show  that they have strong emotional “near” feelings, via overemphasizing such feelings in their words and actions.  People also seem to take comfort in seeing others react with feeling to vivid visible effects, and criticize “cold” unfeeling folks who react less strongly.  Together these suggest a simple functional story: we don’t so much emphasize the seen over the unseen, as the feeling over the unfeeling, to signal our vulnerability to such feelings. It seems our ancestors were built to rely heavily on such signals in deciding who to trust. And this show-that-you-feel tendency seems especially strong when, as in politics or charity, we don’t suffer much in the way of other personal consequences.
+This theory suggests that merely informing people about indirect effects is far from enough to get more consideration of indirect effects in policy. Creating near-common knowledge about such effects might be sufficient if our fear was looking bad to those ignorant of indirect effects. But if the issue is showing that we feel, this won’t work either. Instead we’ll need to find ways to frame indirect effects so that strong emotional responses seem appropriate, to allow people to signal feelings via considering indirect effects. Easier said than done, I know.
+
+
+title: The Felt & The Unfelt
+
+date: December 19, 2010 10:30 am
+

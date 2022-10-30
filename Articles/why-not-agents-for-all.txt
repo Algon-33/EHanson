@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+Top actors, writers, and athletes have agents, who help them find good jobs, in exchange for a small part of their income. But having an agent is pretty rare – why don’t the rest of us have agents?
+You might think its only worth paying an agent 5% of your income for jobs where wages vary by large factors, and that most people’s wages are pretty much set by their occupation, education, etc. Not true, however. Consider: workers in the same occupation, with the same observable experience, school, etc. can easily earn 30% more, or 30% less, just based on the industry they work in. For example, in the auto industry both janitors and truck drivers make twice the salary of janitors and truck drivers in the “eating and drinking place” industry. (More on industry wage differences below.)
+Having an agent can also signal high quality, as agents usually won’t represent low quality folks. Also, while prior employers, often avoid being honest about your prior experience to potential future employers, agents can have incentives to be more honest, being repeat players with reputations to protect.
+For an interesting example of ordinary people with “agents”, consider Giving What We Can (GWWC), an organization that “asks members to donate at least 10% of their income to the most effective charities.” Since GWWC wants to promote charity donations, it wants its members’ to have high incomes, all else equal. So affiliated folks advise members on how to find better paying jobs. If they put enough effort into this, I can believe members might actually earn more on net than they otherwise would, even after accounting for their 10% charity donation.
+That promised info on industry wages differences:
+Interindustry wage differentials have largely remained a mystery, although research dating back to 1950 has found that industry affiliation accounts for a significant portion of wage differentials after controlling for education, race, sex, and other “human capital” characteristics of workers. The firms in some
+industries pay both low skilled and high skilled workers wages that are considerably above the average than those in other industries.
+Most of what is known about wage differences among industries can be summarized in three basic facts:
+
+Industry wage differentials are amazingly uniform across occupations. For example, janitors and managers, alike, appear to receive similar wage differentials, depending on the industry in which they work.
+Industry differentials have been remarkably stable over time; wage differentials are largely unchanged from the pattern of the 1950s.
+Industry wage differentials are positively associated with industry characteristics including capital intensity, industry concentration (based on a four-firm concentration ratio), profitability, unionization, and low percentages of women. …
+
+Among the industries included in the table [2], the wages paid to given occupations range from 32 percent above those of the miscellaneous plastics manufacturing industry in motor vehicles manufacturing to 72 percent below the wages of miscellaneous plastics manufacturing in shoe stores. ..
+Within the services sector, most of the occupations having the lowest correlation with the all-occupation wage differential are related to physical production activities, while those having the highest correlation are occupations engaged in coordination functions, including purchasing managers, general managers, personnel, training and labor relations specialists, and clerical worker supervisors. Within the manufacturing sector, occupations having the highest degree of correlation with the all-occupation wage differential are occupations that coordinate production activities, including industrial production managers, personnel, training, and labor relations specialists, supervisors of operators, and production inspectors. Occupations having the lowest degree of correlation with the all-occupation industry wage differential tend to be non-production-related occupations, including computer support specialists, adjustment clerks, and receptionists. (more)
+
+
+title: Why Not Agents For All?
+
+date: August 5, 2012 2:00 pm
+

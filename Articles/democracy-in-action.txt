@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+A Senate committee  dealt a big blow to the plans of two trading firms looking to create a  box-office futures exchange that would allow the movie industry as well  as investors to wager on movie ticket sales. … Federal regulators  only in the last week had given the first stage of approval to the  exchanges. …
+Included in the Wall Street Transparency and  Accountability Act financial reform package, passed Wednesday by the  Senate Agriculture Committee, is a provision banning futures trading on  box office. …. [Many are] scheduled to testify along with other motion picture  industry leaders before the House Subcommittee on General Farm  Commodities and Risk Management, which is also investigating the  proposed exchanges. … The next step in the Senate is for the Transparency and Accountability  Act to be merged with similar legislation proposed by the Senate Banking  Committee. (more; HT Midas Oracle)
+This is sad hour for prediction markets.  Movie markets seem a near best case, where the public would:
+
+ easily understand the value to be gained by more accurate estimates, since they could personally use prices when deciding what movies to see, and
+find it hard to get worked up about supposed “manipulation”; they know all their other sources of info on movies are manipulated as well.
+
+The fact that one can kill these markets by just yelling “manipulation” in a crowded democracy is a very bad sign for other interesting markets in the US anytime soon.
+A key confession by Max Keiser on HSX.com, today’s play money movie markets:
+When I was CEO of HSX – I shared a board  seat with members who were also on the board of Lionsgate Films.  Lionsgate was constantly moving the  prices of their films (or films they had an interest in, or a friend’s  film) on HSX as a way to manipulate perception and marketing dollar  spends. … I went to war with the rest of the board  to defend my creation, … [re] allowing the prices on HSX to be moved per ‘marketing’  requests made by the studios. This lead to a blowout on the board and my  leaving HSX as a result.
+I’ll take Max at his word.  So does this prove movie markets must be banned because manipulation is possible?  Well consider that the movie industry has been fine for 15 years with play money markets they can manipulate, and scared to death of real money markets, supposedly because someone might manipulate them.  The obvious difference:  it doesn’t cost much real money to manipulate play money markets, when market administrators will keep handing you as much play money as you want.
+In contrast, the cost to manipulate real money markets would go through the roof, as savvy speculators jumped in on the other side of those losing manipulation bets.  On average, the movie industry would lose on their manipulation bets, fail to bias the prices, and increase movie market price accuracy.  Now you can see the movie industry’s real concern about manipulation: they might lose their ability to manipulate!
+Added 5p: John Lopez at Vanity Fair says “the increased incentive for piracy still seems like a valid concern,” but given the huge incentive to pirate movies in order to watch them, it is hard to see pirating movies to maybe influence these thin markets would make much difference.
+Added 6p: At lunch several of my colleagues sensibly suggested that studios are worried that more accurate pre-release movie quality estimates would make it easier for new studios to enter the movie industry.
+Added 8p: Can this example finally put to rest the idea that play money markets work just as well as real money markets?
+Added 24Apr: Early HSXer Ben Curtis comments below.
+
+
+
+title: Democracy In Action
+
+date: April 22, 2010 11:00 am
+

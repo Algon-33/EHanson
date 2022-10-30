@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Paul Davies’ new book The Eerie Silence is good overall, and probably great for someone who hasn’t read ten other SETI books.  Two gems:
+1) Perhaps our descendants will not be forced to adopt future ways:
+It is clear that different forms of microbes can complete in the same space for many of the same resources, without one form ever eliminating the other. [p59]
+2) Opinions on big questions often fluctuate more than added info justifies:
+In spite of these dampening facts, belief in extraterrestrial life is now widespread among scientists.  So what has changed since the days of pessimists like Crick, Monod and Simpson?  Curiously, very little on the actual scientific front. … None of the scientific discoveries of the past half-century have greatly altered what we know, or don’t know, about life’s seemingly freaky nature.  The change in sentiment is due, I believe, to fashion rather than discovery.  At a time when physicists freely speculate about extra dimensions, anti-gravikty and dark matter, and cosmologists propose multiple universes and dark energy, speculation about extraterrestrial life seems tame by comparison.  [p32]
+I’ve similarly suggested opinions on if the universe is infinite also fluctuate too much.  Let me also point out some errors in the book:
+A) This news on our ignorance of early Earth life isn’t reflected here: 
+Most biologists agree that the Pilbara hills of Western Australiaz contain traces of life dating back nearly 3.5 billion years. [p26]
+This misleads Davies into seeing a conflict between my great filter analysis, which he discusses on pp86-89, and the early appearance of life, a conflict he resolves via Earth life coming from Mars.
+B) This news about the rise of panspermia theories isn’t reflected here:
+There is only an infinitesimal chance that a rock blasted off Earth would ever hit another Early-like planet in another star system, and even if it did, there is little prospect that any microbes would survived for the vast length of time needed to get there. … Detecting signs of life on an extra-solar planet would thus be clear evidence for a second, independent, genesis [of life]. [p41]
+C) Here Davies seems unaware of the consensus of economic historians:
+Suppose we grant that high intelligence is in fact common in the universe.  The next question of interest to SETI researchers is what proportion of those intelligent species proceeds to discover science, invent high technology, and engage in long-range communications.  It is certainly fashionable, partly for reasons of political correctness, to assert that, here on Earth, any human society would be found to discover science and technology in the fullness of time. … Personally, I have always been skeptical of the claim that ‘science is inevitable.’ … Suppose an asteroid had hit Paris in 1300 and destroyed European culture.  Would science ever have emerged on Earth? I have never heard a convincing argument that it would. [p.72]
+Most economic historians would place the chance of high tech arising someone on Earth within ten thousand years after an asteroid hits Paris in 1300 at well above 10%. Political correctness has little to do with it; this is based on our detailed understanding of the nature of growth and innovation.  If so, this hi-tech step could only be a tiny part of the overall great filter.
+D) Here Davies seems to write off personal identity a bit too quickly:
+I find myself curiously depressed, nostalgic-in-advance for the personal identity that is so much a characteristic of human experience. … There is no good reason for an [descendant] to possess a personally identity in anything like the same way.  The power of computers is that they can be linked together without much protest, to share tasks and pool resources. … A powerful computer network with no sense of self would have an enormous advantage over human intelligence because it could redesign ‘itself,” fearlessly make changes, merge with outer systems, and grow.  ‘Feeling personal’ about it would be a distinct impediment to progress. [p.162]
+Yes, we expect our descendants will not be hold strong “hang ups” about changing, merging, and growing.  They will likely often allow complete inspection of their internals, wholesale swapping of key internal modules, and often merge to become entirely new creatures with memories of diverse component pasts.  But all of this seems consistent with a cherished sense of self and identity.  We can love who we are, and were, even as we expect to change over time.
+
+
+title: Eerie Errors
+
+date: April 29, 2010 2:00 pm
+

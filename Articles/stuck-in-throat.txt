@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Let me try again to summarize Eliezer’s position, as I understand it, and what about it seems hard to swallow.  I take Eliezer as saying:  
+
+Sometime in the next few decades a human-level AI will probably be made by having a stupid AI make itself smarter.  Such a process starts very slow and quiet, but eventually "fooms" very fast and then loud. It is likely to go from much stupider to much smarter than humans in less than a week.  While stupid, it can be rather invisible to the world.  Once smart, it can suddenly and without warning take over the world.  
+The reason an AI can foom so much faster than its society is that an AI can change its basic mental architecture, and humans can’t.  How long any one AI takes to do this depends crucially on its initial architecture.  Current architectures are so bad that an AI starting with them would take an eternity to foom.  Success will come from hard math-like (and Bayes-net-like) thinking that produces deep insights giving much better architectures.
+A much smarter than human AI is basically impossible to contain or control; if it wants to it will take over the world, and then it will achieve whatever ends it has.  One should have little confidence that one knows what those ends are from its behavior as a much less than human AI (e.g., as part of some evolutionary competition).  Unless you have carefully proven that it wants what you think it wants, you have no idea what it wants.  
+In such a situation, if one cannot prevent AI attempts by all others, then the only reasonable strategy is to try to be the first with a "friendly" AI, i.e., one where you really do know what it wants, and where what it wants is something carefully chosen to be as reasonable as possible.  
+
+ I don’t disagree with this last paragraph.  But I do have trouble swallowing prior ones.  The hardest to believe I think is that the AI will get smart so very rapidly, with a growth rate (e.g., doubling in an hour) so far out of proportion to prior growth rates, to what prior trends would suggest, and to what most other AI researchers I’ve talked to think.  The key issues come from this timescale being so much shorter than team lead times and reaction times.  This is the key point on which I await Eliezer’s more detailed arguments.  
+Since I do accept that architectures can influence growth rates, I must also have trouble believing humans could find new AI architectures anytime soon that make this much difference.  Some other doubts:  
+
+ Does a single "smarts" parameter really summarize most of the capability of diverse AIs?
+Could an AI’s creators see what it wants by slowing down its growth as it approaches human level?
+Might faster brain emulations find it easier to track and manage an AI foom?
+
+
+
+title: Stuck In Throat
+
+date: November 30, 2008 8:15 pm
+

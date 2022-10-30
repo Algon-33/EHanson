@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+ In the May 18 Science, Philip Tetlock reviews Scott Page’s book The Difference, and basically nails it: 
+
+Casual readers could easily conclude that Page .. has clinched the argument for the egalitarians.  Indeed, Page arguably invites the interpretation that there may be no awkward efficiency-equality tradoffs when he repeatedly declares that "diversity trumps ability."  … In brief, diversity appears to trump ability – at least when we equate high ability with drawing lucky starting points in sharply constrained searches for solutions.  But elitists will argue that the game was rigged.  
+
+ Scott’s book touts the virtues of having a big toolbox.  The more tools you can try on your problem, the better your chances of solving it.  And if the individuals who are consistently best at solving some class of problems tend to have a similar tool sets, then it can be wise to also include some different "less able" people on your team, to gain access to their different tools.  This can justify promoting organizational "diversity," at least when the dimensions of diversity being considered actually correlate with differing tool sets.  Of course it is noteworthy that many people promoting ethnic, racial, or gender diversity oppose including ideological diversity.  
+ Scott Page was a new assistant professor at Caltech in ’93 when I was a new grad student.  He has done very well for himself since then, and recently he asked me to clarify the relation between my perspective on prediction markets and the views he describes in his book.   That is easy, as there is almost no relation.  
+ The point of prediction markets is to give participants incentives to shut up when they do not know, and to speak up when they have something useful to add.   Such incentives can help regardless of whether any particular kind of diversity helps or hurts in any one context – the participants will have an incentive to find and include whatever works.  Prediction markets are not about the wisdom of crowds any more than they are about the wisdom of credentialed experts – they are about the wisdom of whatever works.    
+
+
+title: When Differences Make A Difference
+
+date: May 21, 2007 6:00 am
+

@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Many travel to see exotic mountains, buildings, statues, or food. But me, I want to see different people. If it could be somehow arranged, I’d happily “travel” to dozens of different subcultures that live within 100 miles of me. But I wouldn’t just want to walk past them, I’d want to interact enough to get in their heads.
+Working in diverse intellectual areas has helped. So far, these include engineering, physics, philosophy, computer science, statistics, economics, polisci, finance, futurism, psychology, and astrophysics. But there are so many other intellectual areas I’ve hardly touched, and far more non-intellectual heads of which I’ve seen so little.
+Enter the remarkable Agnes Callard with whom I’ve just posted ten episodes of our new podcast “Minds Almost Meeting”:
+Tagline: Agnes and Robin talk, try to connect, often fail, but sometimes don’t.
+Summary: Imagine two smart curious friendly and basically truth-seeking people, but from very different intellectual traditions. Traditions with different tools, priorities, and ground rules. What would they discuss? Would they talk past each other? Make any progress? Would anyone want to hear them? Economist Robin Hanson and philosopher Agnes Callard decided to find out.
+Topics: Paradox of Honesty, Plagiarism, Future Generations, Paternalism, Punishment, Pink and Purple, Aspiration, Prediction Markets, Hidden Motives, Distant Signals.
+It’s not clear who will be entertained by our efforts, but I found the process fascinating, informative, and rewarding. Though our audio quality was low at times, it is still understandable.
+Agnes is a University of Chicago professor of philosophy and a rising-star “public intellectual” who often publishes in places like The New Yorker. She and I are similar in both being oddball, hard-to-offend, selfish parents and academics. We both have religious upbringings, broad interests, and a taste for abstraction. But we differ by generation, gender, and especially in our intellectual backgrounds and orientations (me vs. her): STEM vs. humanities, futurist vs. classicist, explaining via past shapings vs. future aspirations, and relying more vs. less on large systems of thought.
+Before talking to Agnes, I hadn’t realized just how shaped I’ve been by assimilating many large formal systems of thought, such as calculus, physics, optimization, algorithms, info theory, decision theory, game theory, economics, etc. Though the core of these systems can be simple, each has been connected to many diverse applications, and many larger analysis structures have been built on top of them.
+Yes these systems, and their auxiliary structures and applications, are based on assumptions that can be wrong. But their big benefit is that shared efforts to use them have rooted out many (though hardly all) contradictions, inconsistencies, and incoherences. So my habit of trying when possible to match any new question to one of these systems is likely to, on average, produce a more coherent resulting analyses. I’m far more interested in applying existing systems to big neglected topics than in inventing new systems.
+In contrast, though philosophers like Agnes who rely on few such structures beyond simple logic can expect their arguments to be accessible to wider audiences, they must also expect a great many incoherences in their analysis. Which is part of why they so often disagree, and build such long chains of back and forth argumentation. I agree with Tyler, who in his conversation with Agnes said these long chains suggest a problem. However, I do see the value of having some fraction of intellectuals taking this simple robust strategy, as a complement to more system-focused strategies.
+Thank you Agnes Callard, for helping me to see a wider intellectual world, including different ways of thinking and topics I’ve neglected.
+
+
+title: Minds Almost Meeting
+
+date: November 10, 2021 8:20 am
+

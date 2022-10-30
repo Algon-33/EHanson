@@ -1,0 +1,10 @@
+author: Anna Salamon and Steve Rayhawk
+
+text: 
+When I think of Aumann's agreement theorem, my first reflex is to average.  You think A is 80% likely; my initial impression is that it's 60% likely.  After you and I talk, maybe we both should think 70%.  "Average your starting beliefs", or perhaps "do a weighted average, weighted by expertise" is a common heuristic.
+
+
+title: Share likelihood ratios, not posterior beliefs
+
+date: February 5, 2009 6:19 pm
+

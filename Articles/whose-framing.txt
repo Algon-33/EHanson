@@ -1,0 +1,21 @@
+author: Peter McCluskey
+
+text: 
+Book review: Whose Freedom?: The Battle Over America’s Most Important Idea by George Lakoff
+ This book makes a few good points about what cognitive science tells us about differing concepts associated with the word freedom. But most of the book consists of attempts to explain his opponents’ world view that amount to defending his world view by stereotyping his opponents as simplistic.
+ Even when I agree that the people he’s criticizing are making mistakes due to framing errors, I find his analysis very implausible. E.g. he explains Bush’s rationalization of Iraqi deaths as "Those killed and maimed don’t count, since they are outside the war frame. Moreover, Bush has done nothing via direct causation to harm any Iraqis and so has not imposed on their freedom". Anyone who bothers to listen to Bush can see a much less stupid rationalization – Bush imagines we’re in a rerun of World War II, where the Forces of Evil have made it inevitable that some innocent people will die, and keeping U.S. hands clean will allow Evil to spread.
+ Lakoff’s insistence that his opponents are unable to understand indirect, systematic causation is ironic, since he shows no familiarity with most of the relevant science of complex effects of human action (e.g. economics, especially public choice economics).
+ He devotes only one sentence to what I regard as the biggest single difference between his worldview and his opponents’: his opponents believe in "Behavior as naturally governed by rewards and punishments."
+  
+His use of the phrase "idea theft" to describe uses of the word freedom that differ from his use of that word is objectionable both due to the problems with treating ideas as property and with his false implication that his concept of freedom resembles the traditional U.S. concept of freedom (here’s an example of how he rejects important parts of the founders’ worldview: "One of the biggest mistakes of the Enlightenment was to counter this claim with the assumption that morality comes from reason. In fact, morality is grounded in empathy").
+ If his claims of empathy are more than simply calling his opponents uncaring, then it may help explain his bias toward helping people who are most effective at communicating their emotions. For example, a minimum wage is part of his concept of freedom. People who have their wages increased by a minimum wage law tend to know who they are and often have labor unions to help spread their opinions. Whereas a person whom the minimum wage prevents from getting a job is less likely to see the cause or have a way to tell Lakoff about the resulting harm. (If you doubt the minimum wage causes unemployment, see http://www.nber.org/papers/w12663 for a recent survey of the evidence.)
+ This is symptomatic of the biggest problem with the book – he assumes political disagreements are the result of framing errors, not differences in understanding of how the world works, and wants to persuade people to frame issues his way rather than to use scientific methods when possible to better measure effects that people disagree about.
+ The book also contains a number of strange claims where it’s hard to tell whether Lakoff means what he says or is writing carelessly. E.g. "Whenever a case reaches a high court, it is because it does not clearly fit within the established categories of the law." – I doubt he would deny that Hamdi v. Rumsfeld fit clearly within established habeas corpus law.
+ This is a book which will tempt people to believe that anyone who agrees with Lakoff’s policy advice is ignorant. But people who want to combat Lakoff’s ideology should resist that temptation to stereotype opponents. There are well-educated people (e.g. some behavioral economists) who have more serious arguments for many of the policies Lakoff recommends.
+[Cross-posted from Bayesian Investor Blog.]
+
+
+title: Whose Framing?
+
+date: March 10, 2007 11:41 am
+

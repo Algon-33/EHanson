@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Trees are spectacularly successful, and have been for millions of years. They now cover ~30% of Earth’s land. So trees should be pretty well designed to do what they do. Yet the basic design of trees seems odd in many ways. Might this tell us something interesting about design?
+A tree’s basic design problem is how to cheaply hold leaves as high as possible to see the sun, and not be blocked by other trees’ leaves. This leaf support system must be robust to the buffeting of winds and animals. Materials should resist being frozen, burned, and eaten by animals and disease. Oh, and the whole thing must keep functioning as it grows from a tiny seed.
+
+Here are three odd features of tree design:
+
+Irregular-Shaped – Humans often design structures to lift large surface areas up high, and even to have them face the sun. But human designs are usually far more regular than trees. Our buildings and solar cell arrays tend to be regular, and usually rectangular. Trees, in contract, are higgledy-piggledy (see pict above). The regularity of most animal bodies shows that trees could have been regular, with each part in its intended place. Why aren’t tree bodies regular?
+Self-Blocking – Human-designed solar cells, and sets of windows that serve a similar function, manage to avoid overly blocking each other. Cell/window elements tend to be arranged along a common surface. In trees, in contrast, leaves often block each other from the sun. Yet animal design again shows that evolution could have put leaves along a regular surface – consider the design of skin or wings. Why aren’t tree leaves on a common surface?
+Single-Support – Human structures for lifting things high usually have at least three points of support on the ground. (As do most land animals.) This helps them deal with random weight imbalances and sideways forces like winds. Yet each tree usually only connects to the ground via a single trunk. It didn’t have to be this way. Some fig trees set down more roots when older branches sag down to the ground. And just as people trying to stand on a shifting platform might hold each other’s hands for balance, trees could be designed to have some branches interlock with branches from neighboring trees for support. Why is tree support singular?
+
+Now it is noteworthy that large cities also tend to have weaker forms of these features. Cities are less regular than buildings, buildings often block sunlight to neighboring buildings, and while each building has at least three supports, neighboring buildings rarely attach to each other for balance. What distinguishes cities and trees from buildings?
+One key difference is that buildings are made all at once on land that is calm and clear, while cities and trees grow slowly in a changing environment, while competing for resources. Since most small trees never live to be big trees, their choices must focus on current survival and local growth. A tree opportunistically adds its growth in whatever direction seems most open to sun at the moment, with less of a long term growth plan. Since this local growth end up committing the future shape of the tree, local opportunism tends toward an irregular structure.
+I’m less clear on explanations for self-blocking and single-support. Sending branches sideways to create new supports might seem to distract from rising higher, but if multiple supports allow a higher peak it isn’t clear why this isn’t worth waiting for. Neighboring tree connections might try to grab more support than they offer, or pull one down when they die. But it isn’t clear why tree connections couldn’t be weak and breakable to deal with such issues, or why trees couldn’t connect preferentially with kin.
+Firms also must grow from small seeds, and most small firms never make it to be big firms.  Perhaps an analogy with trees could help us understand why successful firms seem irregular and varied in structure, why they are often work at cross-purposes internally, and why merging them with weakly related firms is usually a bad idea.
+
+
+title: Are Firms Like Trees?
+
+date: February 20, 2012 8:35 pm
+

@@ -1,0 +1,35 @@
+author: Robin Hanson
+
+text: 
+Two weeks ago I was on a three person half hour panel on “Bitcoin and the Future” at an O’Reilly Radar Summit on Bitcoin & the Blockchain. I was honored to be invited, but worried as I had not been tracking the field much. I read up a bit, and listened carefully to previous sessions. And I’ve been continuing to ponder and read for the last two weeks. There are many technical details here, and they matter. Even so, it seems I should try to say something; here goes.
+A possible conversation between a blockchain enthusiast and newbie:
+“Bitcoin is electronic money! It is made from blockchains, which are electronic ledgers that can also support many kinds of electronic contracts and trades.”
+“But we already have money, and ledgers. And electronic versions. In fact, bank ledgers were one of the first computer applications.”
+“Yes, but blockchain ledgers are decentralized. Sure, compared to ordinary computer ledgers, blockchain ledgers take millions or more times the computing power. But blockchains have no central org to trust. Instead, you trust the whole system.”
+“Is this whole system in fact more more trustworthy that the usual bank ledger system today?”
+“Not in practice so far, at least not for most people. But it might be in the future, if we experiment with enough different approaches, and if enough people use the better approaches, to induce enough supporting infrastructure efforts.”
+“If someone steals my credit card today, a central org of a credit card firm usually takes responsibility and fixes that. Here I’d be on my own, right?”
+“Yes, but credit card firms charge you way too much for such services.”
+“And without central orgs, doesn’t it get much harder to regulate financial services?”
+“Yes, but you don’t want all those regulations. For example, blockchains make anonymous money holdings and contracts easier. So you could evade taxes, and laws that restrict bets and drug buys.”
+“Couldn’t we just pass new laws to allow such evasions, if we didn’t want the social protections they provide? And couldn’t we just buy cheaper financial services, if we didn’t want the private protections that standard services now provide?”
+“You’re talking as if government and financial service markets are efficient. They aren’t. Financial firms have a chokehold on finance, and they squeeze us for their gain, not ours. They have captured government regulators, who mostly work to tighten the noose, instead of helping the rest of us.”
+“OK, imagine we do create cheaper decentralized systems of finance where evasion of regulation is easier. If this system is used in ways we don’t like, we won’t be able to do much to stop that besides informal social pressure, or trying to crudely shut down the whole system, right? There’d be no one driving the train.”
+“Yes, exactly! That is the dream, and it might just be possible, if enough of us work for it.”
+“But even if I want change, shouldn’t I be scared of change this lumpy? This is all or nothing. We don’t get to see the all before we try, and once we get it then its mostly too late to reverse.”
+“Yes, but the powers-that-be can and do block most incremental changes. It is disruptive revolution, or nothing. To the barricades!”
+I see five main issues regarding blockchain enthusiasm:
+
+Technical Obstacles. Many technical obstacles remain, to designing systems that are general, cheap, secure, robust, and scaleable. You are more enthusiastic if you think these obstacles can be more easily overcome.
+Bad Finance & Regulation. The more corrupt and wasteful you think that finance and financial regulation are today, the more you’ll want to throw the dice to get something new.
+Lumpy Change. The more you want change, but would rather go slow and gradual, so we can back off if we don’t like what we see, the less you’ll want to throw these lumpy dice.
+Standards Coordination. Many equilibria are possible here, depending on exactly which technical features are in the main standards. The worse you think we are at such coordination, the less you want to roll these dice.
+Risk Aversion. The more you think regulations protect us from terrible dark demons waiting in the shadows, the less you’ll want a big unknown hard-to-change-or-regulate world.
+
+Me, I’d throw the dice. But then I’d really like more bets to be feasible, and I’ve known some people working in this area for decades. However, I can’t at all see blaming you if you feel different; this really is a tough call.
+
+
+title: Blockchain Bingo
+
+date: February 8, 2015 12:20 pm
+

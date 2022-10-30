@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+A virtue is an admirable quality.  Our society recognizes some big virtues, like tendencies to prevent death or rape, love nature and your family, and oppose racism and sexism, and also many small virtues, like tendencies to write thank you letters, wait patiently in line, and smile at friendly children.  I have been pondering the sad fact that overcoming bias seems to rank rather low here, probably below smiling at kids.  
+ Some apparently-truth-related virtues are ranked moderately high.  For example, being sincere and honest, i.e., having words reflect beliefs, seems to be rated somewhat higher than being candid and plain-spoken, i.e., of having beliefs reflected clearly in words.  There are also moderate virtues of being impartial and unprejudiced, i.e., not working against certain groups, and being humble, not setting yourself too high above others.  Alas, these virtues seem be mostly about the desires of others to know our thoughts, and to be treated well and with respect; these virtues seem only incidentally about having true beliefs.  
+ If we look for virtues directly on true belief, we find the labels accurate and truthful.  We also find a number of other virtues often correlated with having truer beliefs, like being smart, knowledgeable, thoughtful, thorough, conscientious, inquisitive, sober-minded, careful, courageous, and open-minded.  People have many non-truth reasons to admire all these other qualities, however.  For example, we admire smart conscientious courageous people even when those qualities are not related to truer beliefs.  
+ So the question arises: how much do we admire the quality of having accurate (or true) beliefs, above and beyond its association with being smart, knowledgeable, etc., the qualities we have other reasons to admire?  It seems to me that unbiased is our best name for these other accuracy qualities, and that in our society the emotional pull of respect and sympathy for unbiased accuracy is usually pretty small.  
+  
+That is, compared to being smart, knowledgeable, etc., achieving a low level of bias will by itself do little to make people want to elect you, write stories about you, sleep with you, or join your team.  A public policy that happened to promote low bias would not thereby gain much support.  Given the choice to "man the barricades" for low bias or some other cause, almost no one picks low bias. 
+ Now some philosophers do explicitly praise qualities because they tend to promote truer beliefs.  Also, of eleven listed official "shared values" of statisticians, one is directly on avoiding bias: 
+
+The avoidance of any tendency to slant statistical work toward predetermined outcomes. 
+
+ And lists of scientific virtues sometimes include not only duty and altruism (serve and help humanity), accountability and respect (serve and help other scientists), and excellence (look good), but also integrity:
+
+Objective, fair, truthful, and accurate. … speak publicly as authorities only about areas in which they have expertise. … results are reported with as much objectivity as possible and with no deliberate bias. … avoid its possible misuse and misapplication.
+
+ But these are pretty small minorities who even then show only modest support.  On average, respect for the virtue of overcoming bias seems pretty low.  The cause of our blog inspires little enthusiasm.
+ When it comes to the inside view people have of themselves in particular cases, however, almost everyone believes that they to an exceptional degree happen to have the virtue of low bias.  That is, while few people value overcoming bias enough to work much at it, everyone disagrees with many others, including others who are more smart, knowledgeable, thoughtful, etc.  And the main way people ultimately justify such disagreements is by claiming that others are more biased.
+ But if biases are a big factor behind disagreements, and if disagreements are a big obstacle to achieving big virtues, then doesn’t that make overcoming bias a big virtue too?  Most people with a cause work a lot harder at promoting their cause than at getting better at accurately judging if their cause is as good as it seems.  If, as a result, many are biased to mistakenly back poor causes, then shouldn’t you actually work at overcoming your biases, instead of just assuming you have exceptionally low bias?   Shouldn’t truth be your number one cause, the virtue you most respect, instead lying just below smiling at kids? 
+
+
+title: Truth – The Neglected Virtue
+
+date: August 16, 2007 6:00 am
+

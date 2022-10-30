@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+In the US we supposedly:
+prohibit discrimination based on race, color, religion, sex, national origin, disability, or age in hiring, promoting, firing, setting wages, testing, training, apprenticeship, and all other terms and conditions of employment.
+I am struck by several related facts:
+1. We allow such discrimination by employees choosing jobs,
+2. We allow such discrimination in other relations, e.g., marriage.
+3. We aren’t much interested in banning looks-based discrimination, though the evidence for bias there is as strong as anywhere:
+According to a national poll by the Employment Law Alliance in 2005, 16 percent of workers reported being victims of appearance discrimination more generally — a figure comparable to the percentage who in other surveys say they have experienced sex or race discrimination. …
+When people are asked to rate an individual’s attractiveness, their responses are quite consistent, even across race, sex, age, class and cultural background. Facial symmetry and unblemished skin are universally admired. Men get a bump for height, women are favored if they have hourglass figures, and racial minorities get points for light skin color, European facial characteristics and conventionally “white” hairstyles. … Unattractive people are less likely than their attractive peers to be viewed as intelligent, likable and good. …
+Unattractive people are less likely to be hired and promoted, and they earn lower salaries, even in fields in which looks have no obvious relationship to professional duties. … For lawyers, such prejudice can translate to a pay cut of as much as 12 percent.  When researchers ask people to evaluate written essays, the same material receives lower ratings for ideas, style and creativity when an accompanying photograph shows a less attractive author. Good-looking professors get better course evaluations from students; teachers in turn rate good-looking students as more intelligent. …
+In studies that simulate legal proceedings, unattractive plaintiffs receive lower damage awards. … [Researchers] gave students case studies involving real criminal defendants and asked them to come to a verdict and a punishment for each. The students gave unattractive defendants prison sentences that were, on average, 22 months longer than those they gave to attractive defendants. …
+Already, one state (Michigan) and six local jurisdictions (the District of Columbia; Howard County, Md.; San Francisco; Santa Cruz, Calif.; Madison, Wis.; and Urbana, Ill.) have banned [appearance] discrimination. … All make exceptions for reasonable business needs.  Such bans have not produced a barrage of loony litigation or an erosion of support for civil rights remedies generally. (more)
+Consider Matt Zeitlin:’s argument for not banning such discrimination:
+Tall people can expect a substantial earnings premium over shorter people on account of their height. … genes that make them tall; well proportioned facial features and so on — have, in themselves, no real moral content and thus people’s claims to the goods gained due to these features are weaker than they think they are. But the disparities exist anyway, and are probably too deeply entrenched to be redressed through discrimination suits. So this just leaves us with, to evoke Yglesias, “higher taxes to finance more and better public services.”
+What, racial and gender disparities are not deeply entrenched?  And how exactly do the ugly benefit more from public services?  The evidence cited above shows government provided law and education discriminate against them.  Sigh.
+I despair of finding a way to see our general pattern of which discriminations we allow as an application of some general moral principle. Instead it seems more likely that recent cultural [i.e., media, academic, law] elites preferred to discourage the types of discrimination that favored their cultural/political rivals, while retaining the types that favored them, their existing allies, or natural “enemy of my enemy” allies.  For example, since today’s cultural elites tend to be pretty, they have little interest in preventing discrimination against the ugly.  Prohibiting discrimination against the ugly would not give those elites more or stronger allies.
+
+
+title: Selective Discrimination
+
+date: May 24, 2010 10:30 am
+

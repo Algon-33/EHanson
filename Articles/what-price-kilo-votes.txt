@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Imagine that at every U.S. presidential election, the system randomly picked one random U.S. voter and asked them to pay a fee to become a “kilo-voter.” Come election day, if there is a kilo-voter then the election system officially tosses sixteen fair coins. If all sixteen coins come up heads, the kilo-voter’s vote decides the election. If not, or if there is no kilo-voter, the election is decided as usual via ordinary votes. The kilo-voter only gets to pick between Democrat and Republican nominees, and no one ever learns that they were the kilo-voter that year.
+“Kilo voters” are so named because they have about a thousand times a chance of deciding the election as an ordinary voter does. In the 2008 U.S. presidential election the average voter had a one in sixty million chance of deciding who won the election. The chance that sixteen fair coins all come up heads is roughly a thousand times larger than this.
+Consider: 1) How much is the typical voter willing to pay to become a kilo-voter? and 2) How much does it cost the typical voter, in time and trouble, to actually vote in a U.S. presidential election? As long as these numbers are both small compared to a voter’s wealth, then for a voter motived primarily by the chance to change the election outcome, these numbers should differ by at least a factor of one thousand.
+For example, if it takes you at least a half hour to get to the voting booth and back, and to think beforehand about your vote, and if you make the average U.S. hourly wage of $20, then voting costs you at least $10. In this case you should be willing to pay at least $10,000 to become a super-voter, if you are offered the option. Me, I very much doubt that typical voters would pay $10,000 to become secret kilo-voters.
+Yes, the 2008 election influenced the lives of 305 million U.S. residents, and someone who cared enough might pay a lot for a higher chance of deciding such an election. But typical voters would not pay a lot. Which suggests that the chance to decide the election is just not the main reason that they vote. The chance of being decisive actually doesn’t seem to matter remotely as much to typical voting behavior as it should to someone focused on changing outcomes. For example, states where voters have much higher chances of being decisive about the president don’t have much higher voter turnout rates, and turnout is actually lower in local and state elections where the chances of being decisive is higher.
+My conclusion: we don’t mainly vote to change the outcome.
+
+
+title: What Price Kilo-Votes?
+
+date: March 14, 2016 7:30 pm
+

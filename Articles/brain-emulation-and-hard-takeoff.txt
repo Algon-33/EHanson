@@ -1,0 +1,50 @@
+author: Carl Shulman
+
+text: 
+The construction of a working brain emulation would require, aside from brain scanning equipment and computer hardware to test and run emulations on, highly intelligent and skilled scientists and engineers to develop and improve the emulation software. How many such researchers? A billion dollar project might employ thousands, of widely varying quality and expertise, who would acquire additional expertise over the course of a successful project that results in a working prototype. Now, as Robin says:
+
+They would try multitudes of ways to cut corners on the emulation implementation, checking to see that their bot stayed sane.  I expect several orders of magnitude of efficiency gains to be found easily at first, but that such gains would quickly get hard to find.  While a few key insights would allow large gains, most gains would come from many small improvements.   
+Some project would start selling bots when their bot cost fell substantially below the (speedup-adjusted) wages of a profession with humans available to scan.  Even if this risked more leaks, the vast revenue would likely be irresistible.    
+
+To make further improvements they would need skilled workers up-to-speed on relevant fields and the specific workings of the project’s design. But the project above can now run an emulation at a cost substantially less than the wages it can bring in. In other words, it is now cheaper for the project to run an instance of one of its brain emulation engineers than it is to hire outside staff or collaborate with competitors. This is especially so because an emulation can be run at high speeds to catch up on areas it does not know well, faster than humans could be hired and brought up to speed, and then duplicated many times. The limiting resource for further advances is no longer the supply of expert humans, but simply computing hardware on which to run emulations.
+  
+In this situation the dynamics of software improvement are interesting. Suppose that we define the following:
+
+
+The stock of knowledge, s, is the number of standardized researcher-years that have been expended on improving emulation design
+
+
+The hardware base, h, is the quantity of computing hardware available to the project in generic units
+
+
+The efficiency level, e, is the effective number of emulated researchers that can be run using one generic unit of hardware 
+
+
+The first derivative of s will be equal to he, e will be a function of s, and h will be treated as fixed in the short run. In order for growth to proceed with a steady doubling, we will need e to be a very specific function of s, and we will need a different function for each possible value of h. Reduce it much, and the self-improvement will slow to a crawl. Increase h by an order of magnitude over that and you get an immediate explosion of improvement in software, the likely aim of a leader in emulation development. 
+How will this hardware capacity be obtained? If the project is backed by a national government, it can simply be given a large fraction of the computing capacity of the nation’s server farms. Since the cost of running an emulation is less than high-end human wages, this would enable many millions of copies to run at realtime speeds immediately. Since mere thousands of employees (many of lower quality) at the project had been able to make significant progress previously, even with diminishing returns, this massive increase in the effective size, intelligence, and expertise of the work force (now vastly exceeding the world AI and neuroscience communities in numbers, average IQ, and knowledge) should be able to deliver multiplicative improvements in efficiency and capabilities. That capabilities multiplier will be applied to the project’s workforce, now the equivalent of tens or hundreds of millions of Einsteins and von Neumanns, which can then make further improvements.
+What if the project is not openly backed by a major state such as Japan, the U.S., or China? If its possession of a low cost emulation method becomes known, governments will use national security laws to expropriate the technology, and can then implement the plan above. But if, absurdly, the firm could proceed unmolested, then it could likely acquire the needed hardware by selling services. Robin suggests that:
+
+This revenue might help this group pull ahead, but this product will not be accepted in the marketplace overnight.  It may take months or years to gain regulatory approval, to see how to sell it right, and then for people to accept bots into their worlds, and to reorganize those worlds to accommodate bots.
+
+But there are many domains where sales can be made directly to consumers across national borders, without emulations ever transfering their data to vulnerable locations. For instance, sped-up emulations could create music, computer games, books, and other art of extraordinary quality and sell it online through a website (held by some pre-existing company purchased by the project or the project’s backers) with no mention of the source of the IP. Revenues from these sales would pay for the cost of emulation labor, and the residual could be turned to self-improvement, which would slash labor costs. As costs fell, any direct-to-consumer engagement could profitably fund further research, e.g. phone sex lines using VoIP would allow emulations to remotely earn funds with extreme safety from the theft of their software.
+Large amounts of computational power could also be obtained by direct dealings with a handful of individuals. A project could secretly investigate, contact, and negotiate with a few dozen of the most plausible billionaires and CEOs with the ability to provide some server farm time. Contact could be anonymous, with proof of AI success demonstrated using speedups, e.g. producing complex original text on a subject immediately after a request using an emulation with a thousandfold speedup. Such an individual could be promised the Moon, blackmailed, threatened, or convinced of the desirability of the project’s aims.
+
+
+
+
+To sum up:
+
+
+1. When emulations can first perform skilled labor like brain emulation design at a cost in computational resources less than the labor costs of comparable human workers, mere thousands of humans will still have been making progress at a substantial rate (that’s how they get to cost-effective levels of efficiency).
+
+2. Access to a significant chunk of the hardware available at that time will enable the creation of a work force orders of magnitude larger and with much higher mean quality than a human one still making substantial progress.
+
+3. Improvements in emulation software will multiply the efficacy of the emulated research work force, i.e. the return on investments in improved software scales with the hardware base. When the hardware base is small, each software improvement delivers a small increase in the total research power, which may be consumed by diminishing returns and exhaustion of low-hanging fruit, but when the total hardware base is large positive feedback causes an intelligence explosion.
+
+4. A project, which is likely to be nationalized if obtrusive, could plausibly obtain the hardware required for an intelligence explosion through nationalization or independent action.
+
+
+title: Brain Emulation and Hard Takeoff
+
+date: November 22, 2008 9:09 pm
+

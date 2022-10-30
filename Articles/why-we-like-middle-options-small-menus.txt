@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+Many say that consumers are biased to prefer the middle of three options, and to buy less when offered more options.  In the latest American Economic Review, Emir Kamenica shows these need not be biases:
+ Numerous studies demonstrate that seemingly irrelevant factors influence people's decisions. … when three alternatives are available, the middle alternative is chosen more often than when it is paired with only one other option. … In choice overload experiments, customers are less likely to make a purchase if more products are added to the choice set. … 
+
+title: Why We Like Middle Options, Small Menus
+
+date: January 10, 2009 8:00 pm
+

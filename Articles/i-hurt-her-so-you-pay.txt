@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+You might hope that folks who tend more to feel guilty when they hurt others would then try to compensate those victims, at their personal expense, and thus would have an incentive to avoid hurting folks.  Not so!  Yes guilty folks compensate victims, but not at their personal expense.
+A psych study asked people to think of someone they felt guilty toward, or made them imagine feeling guilty toward someone (e.g., slacking off on a joint project, or being careless with something borrowed).  Researchers then had these guilty folks divide up money between themselves, the victim, and a third party (e.g., a deserving charity or random person). Compared to controlled conditions, such people give more money to the victim, but at the expense of the third party, not themselves.  When they consider such donation behavior in other people, it is not morally exemplary.
+Quotes:
+In a typical dictator game, one person decides how to divide a sum of money (or other resources) among oneself and another person without the other having any influence on the division of the resources. In our experiments, participants decided how to divide resources among themselves, the victim, and another person (the nonvictim), without the victim or the nonvictim having any influence on the division. … In all experiments we [found] that, compared with a control condition, participants in guilt conditions … offer more resources to the victim and fewer resources to other social partners without changing the amount of resources for themselves. In addition, Experiments 1– 4 systematically rule out alternative explanations of the effect and reveal conditions under which the effect is observed.
+
+
+title: I Hurt Her So You Pay
+
+date: March 8, 2011 12:00 pm
+

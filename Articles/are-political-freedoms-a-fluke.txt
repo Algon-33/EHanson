@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Through most of history, econ density and development went with less political freedom:
+For most of the past 5,000 years, … kingdoms and empires were ‘exceptional islands of political hierarchy, surrounded by much larger territories whose inhabitants … systematically avoided fixed, overarching systems of authority. (More)
+In contrast, over the last few centuries we’ve seen increasing levels of peace, democracy, and political freedoms. Many take these trends to be strong and nearly inevitable consequences of industry. Here is some interesting skepticism about such views, by Daniel H. Deudney in his great book Bounding Power: Republican Security Theory from the Polis to the Global Village:
+United States of America … a “new order of the ages,” distinctive both from the early republican city-states and the “republic” of Europe. … Widely recognized as being “exceptionalistic” in several ways. … It combined familiar forms of popular sovereignty, formal state equality, balance of power, and division of power to create a negarchic political order novel in its overall configuration. (p.161)
+The American founding occurred on the eve of the industrial revolution, whose main external security consequence was to increase sharply the scope of the state system and the size of viable units within it. … In this brutally competitive interstate environment, the only reason that republican politics would plausibly survive, let allow prevail, was that the United State of America had combined republication government with empirelike size via feral unions. All other democratic republics were implausible candidates for survival in the global-industrial era, except as allies of the United States. … In the World War II phase of the struggle, democratic republics at the Western core, already shrunk o a handful in northwester Europe, ere either overrun by Nazi German armies, were neutrals vulnerable to assured eventual conquest by Germany, or were snatched from conquest by massive American aid and Hitler’s quixotic grand strategy. Outside of the European core, democracies were few, scattered, and weak. They were spared immediate Axis conquest only by their remoteness and American assistance or their proximity to the United States.
+After the defeat of Axis imperialism, liberal democracies faced another mortal peril from communist Russia and China, and the survival, reconstruction, and expansion of democracy in the second half of the twentieth century vitally depended on American military and economic power. … “It is difficult to escape the conclusion that since World War I, the” fortunes of democracy worldwide have largely depended on American power.” …
+Looking at the overall picture, two facts stand out. First, without American power, there would probably not be any democracies at the end of the twentieth century. Second, the democracies that have behaved so impressively pacifically toward one another have largely been junior allies of the United States in a very hostile ad competitive interstate environment. (pp.183-185)
+Consider the counterfactual world where the American continents never existed. In that counterfactual, there is never a new big place available to try out a new form of government, which then comes to control a huge empire. Most empires are based on more traditional governance forms, which then mostly win the big world wars, and mostly run the world today.
+Democratic governments which ensure many political and economic freedoms may be nothing like an inevitable consequence of industry-era changes. In which case it seems less likely that such freedoms will continue long into the future.
+
+
+title: Are Political Freedoms a Fluke?
+
+date: October 19, 2021 2:45 pm
+

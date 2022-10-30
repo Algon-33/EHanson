@@ -1,0 +1,35 @@
+author: Robin Hanson
+
+text: 
+Many have tried to estimate how far away are aliens. For example, some apply the Drake equation, which is the product of 7 parameters, some of which can vary over quite wide ranges. Resulting estimates tend to be quite uncertain and disputable.
+In this post, I introduce a more precise and definitive answer, at least for one especially important kind of alien. My median estimate is that, if we survive, we will meet this kind of alien in roughly a half billion years. In this post, I’ll try to give key intuitions. In my next post, I’ll give more math details.
+We are now quite early in the history of the universe. Some of the stars around us will last a thousand times longer than our Sun. This key fact makes it hard to believe that, if Earth did not exist, no other civ (civilization) would ever colonize this area. If civs were that hard to make, then our civ shouldn’t be so early.
+We should instead guess that eventually the universe will be mostly filled with civs, and thus one of the key constraints on the origin of any one civ is a need to pass a local great filter, going from no life to simple life to complex life to intelligence, etc., before some other civ arrives to colonize that area, and prevent new pics there.
+That is, one key kind of alien is a “grabby civilization” (GC), which rapidly expands its sphere of control, and within that sphere a GC prevents the origin of any other GC. (Though it may allow the origin or continued existence of other kinds of aliens. And this “grabby” label says little about what happens when it directly meets another civ.)
+It looks like there is a non-trivial chance that we here on Earth will give birth to such an GC near here. And soon. (Say within a million years.) I’m not here claiming (nor disputing) that this would be a good idea, or even that this chance is especially large. But this chance does seem real enough to justify treating our date now, 13.8 billion years after the Big Bang, as a data point drawn from the distribution of GC origin dates. Allowing us to draw inferences about that distribution.
+My strategy will be to describe a mathematical model of this distribution that is both well-grounded theoretically, and also simple enough to allow concrete analysis and inference. One result of which is concrete estimates on how far away are the nearest aliens.
+My mathematical model has just three parameters, two of which are already known to within roughly an order of magnitude, and the third of which we can infer about that well from our one timing data point. The first parameter is the speed at which an GC expands to colonize the space around it. At least until it directly meets another GC. This speed must be less than the speed of light, and grabbiness would tend to push an GC to higher speeds, but it isn’t clear just how much less than light speed an GC will have to accept.
+The second parameter is the number of hard try-try steps in each local great filter. The fact that we now see no alien civilizations anywhere strongly suggests that any one oasis (e.g., planet) has a very low chance to start from simple dead matter and then give rise to a clearly visible civilization. Assume that this dead-matter-to-visibility filter has a similar size to the filter for dead matter giving rise to an GC. Assume also that even if there are also other try-once steps in this GC filter, the try-try steps are by themselves sufficiently hard that any one oasis (like Earth) is quite unlikely to, by itself, get through its great filter by today’s 13.8 billion year date. (Easy steps just create time delays, and any steps near the border between easy and hard give nearly mixed effects.)
+These assumptions imply that the chance that any one small volume actually gives birth to an GC by a particular time t since the Big Bang is (after a time delay) proportional to tn, where n is near the number of hard try-try steps. (I’ll elaborate on this relation in my next post.)
+The third parameter sets a constant in front of tn, an overall filter strength. This gives an absolute chance that the great filter is passed in one of the oases in a small standard volume by a particular date t. Our key datum of our being near ready to start an GC at 13.8 billion years after the Big Bang lets us estimate this filter constant. Given it, and also estimates on the other two parameters of speed and number of hard steps, we can infer our distance to the nearest aliens.
+If that claim surprises you, consider the following diagram:
+ 
+Assume that potential GC origins are uniformly distributed in space. If we integrate the probability density tn-1 over the yellow region, and then renormalize, that renormalization in effect sets the value of the overall filter strength, relative to the origin time of that one civ in the diagram.
+If we then assume that this civ origin time is at the median of the renormalized distribution that we’ve calculated, we get a self-consistent model that gives an exact answer for the spacing between such civs! Yes, this model is only in one dimension, and doesn’t fully allow for variation in GC origin locations and timings. But it shows how it is possible to get a spacing between civs from only an expansion speed, a number of hard steps, and a sample origin time.
+Note two key symmetries of this simple model. First, we get exactly the same model if we both double the duration from time start to this GC origin, and also the spatial distance between GC origins. Second, we get exactly the same model if we double both the expansion speed and the spatial distance between GC origins. Thus given a power n, an expansion speed, and a median GC origin time, the model is fully determined, setting a complete space-time distribution over GC origins and spheres of control.
+In sum, it is possible to estimate how far away in space and time are the nearest aliens, if one is willing to make these assumptions:
+
+It is worth knowing how far to grabby aliens (GCs), even if that doesn’t tell about other alien types.
+Try-try parts of the great filter alone make it hard for any one oasis to birth an GC in 14 billion years.
+We can roughly estimate the speed at which GCs expand, and the number of hard try-try steps.
+Earth is not now within the sphere of control of a GC.
+Earth is at risk of birthing a GC soon, making today’s date a sample from GC time origin distribution.
+
+In my next post I’ll give more math details, and discuss what concrete estimates they suggest about aliens.
+Added: Here is a 2 hour interview I did with Adam Ford on this topic.
+
+
+title: How Far To Grabby Aliens? Part 1.
+
+date: December 21, 2020 3:30 pm
+

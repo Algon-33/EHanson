@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Apparently some philosophers have developed philosophies of hypocrisy, to justify their not following the moral rules they advocate for others. They tried to keep quiet about it:
+[Famous philosopher of ethics Henry] Sidgwick was the son of an Anglican clergeyman. Along with many eminent Victorians he could not accept revealed religion.  Unlike most of them Sidgwick acted on this doubts and in 1869 resigned from his Fellowship at Trinity College, Cambridge, which required Fellows to subscribe to the Thirty-nine Articles of Anglican doctrine.  … Later Sidgwick became a professor and resumed his Fellowship. …
+All of Sidgwick’s close friends were male, most of them gay or bisexual for much of their live.  … Commenting on the friends he had made already, ‘Some are women to me, and to some I am a woman.’ … Sidgwick was celebrated in his lifetime for his integrity, but that did not prevent him engaging in Victorian hypocrisy where sexual desire  – in himself or his friends – was concerned. Instead his reputation for honesty made the practice of deception easier for him. …
+He had long argued the necessity for an ‘esoteric morality’ – a code of conduct that would sacntion the practice of secrecy and deception for strictly ethical reasons. When, towards the end of The Methods of Ethics, he discusses the rules of ordinary morality, he is clear that these rules must be adhered to faithfully by ordinary people. But Utilitarian morality might give a special freedom from ordinary rules to special kinds of people:
+on Utilitarian principles, it may be right to do, and privately to recommend, under certain circumstances, what it would not be right to advocate openly; it may be right to teach openly to one set of persons what it would be wrong to teach to others; it may be conceivably right to do, if it can be done with comparative secrecy, what it would be wrong to do in the face of the world; and even, if perfect secrecy can be reasonably expected, what it would be wrong to recommend by private advice or example. … Thus the Utilitarian conclusion, carefully stated, would seem to be this; that the opinion that secrecy may render an action right which would not otherwise be so should itself be kept comparatively secret; and similarly it seems expedient that the doctrine that esoteric morality is expedient should itself be kept esoteric.
+(pp.22,57,58, John Gray, The Immortalization Commission, 2011)
+The homo hypocritus hypothesis suggests that people will often find themselves having strong intuitions that it is moral for them to quietly evade the usual rules, while still advocating such rules for others.  When could such intuitions offer strong support for the claim that such hypocrisy is in fact moral?
+Added 2a: The issue here isn’t whether lies might ever be moral, such as with the proverbial lie to save Jews from the Nazis.  The issue here is examples such that of Sidgwick’s socially-convenient lies on sex and religion, which gained him social support and prestige. What fraction of moral philosophers privately support that type of hypocrisy? How could we know?
+
+
+title: Philosophy of Hypocrisy
+
+date: May 5, 2011 4:40 pm
+

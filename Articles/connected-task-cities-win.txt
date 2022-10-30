@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+A new Journal of Regional Science paper (ungated here) has a fascinating thesis: what makes US cities big and growing lately is not computers, education, creativity, or socializing. Instead it is task connectivity.
+Authors Kok and Ter Weel have data on 140K workers in the 168 biggest US cities. Each worker has one of 326 jobs, and each job has weights for 41 different kinds of tasks (listed in table 2). From this they create a measure of what fraction of time workers of each city spend on each task.
+They then look at correlations between tasks of these city times. Two tasks that are highly correlated across cities, so that when a city does one task more it usually also does the other task more, are said to be “connected.” It is presumably useful to co-locate connected tasks. If, for a focal task, one adds up all the correlations between that focal task and all the other tasks, one gets a “task connectivity” for that focal task. “Info input” and “work output” type tasks are less connected, and have declined over time, while “mental process” and “interact with others” type tasks are more connected and have increased.
+Averaging the connectivity of tasks done in a city, one gets the task connectivity of that city. Kok and Ter Weel find:
+Cities with a relatively highly connected task structure seem to be larger, less specialized, and more skilled than cities with lower levels task connectivity. These cities also seem to employ workers for which social skills are relatively more important.
+The correlation with city size is pretty strong:
+
+Looking at employment growth of cities from 1990 to 2009, Kok and Ter Weel find that cities with less task connectivity grew less. Other bad signs for city growth are being big, having high rent, being specialized (like Hollywood and silicon valley), being in the Midwest and not in the West, and being cold in July. After controlling for these features, however, these other features were not growth signs: worker education, computer use, use of social skills, doing routine tasks, and local workers well matched to local jobs.
+This paints a plausible picture, but one quite different than we usually see. If you want to be a big growing city, forget all that stuff you usually hear about recruiting educated “creative” workers, getting into computers and automation, promoting social interactions, or specializing in a particular industry. Instead have a nice climate, try to attract industries and jobs that do connected tasks, and get your rents down by increasing your building supply.
+This also implies that which cities will win is pretty predictable. If the real estate market hasn’t yet recognized this, then do the calc, and invest in the good cities, and drop the bad ones.
+Added noon: A similar result is found at the national level. HT Michael Hendrix.
+
+
+title: Connected-Task Cities Win
+
+date: November 6, 2014 11:00 am
+

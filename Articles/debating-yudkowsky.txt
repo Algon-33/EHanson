@@ -1,0 +1,42 @@
+author: Robin Hanson
+
+text: 
+On Wednesday I debated my ex-co-blogger Eliezer Yudkowsky at a private Jane Street Capital event (crude audio here, from 4:45; better video here, transcript here).
+I “won” in the sense of gaining more audience votes — the vote was 45-40 (him to me) before, and 32-33 after the debate. That makes me two for two, after my similar “win” over Bryan Caplan (42-10 before, 25-20 after). This probably says little about me, however, since contrarians usually “win” such debates.
+Our topic was: Compared to the farming and industrial revolutions, intelligence explosion first-movers will quickly control a much larger fraction of their new world. He was pro, I was con. We also debated this subject here on Overcoming Bias from June to December 2008. Let me now try to summarize my current position.
+The key issue is: how chunky and powerful are as-yet-undiscovered insights into the architecture of “thinking” in general (vs. on particular topics)? Assume there are many such insights, each requiring that brains be restructured to take advantage. (Ordinary humans couldn’t use them.) Also assume that the field of AI research reaches a key pivotal level of development. And at that point, imagine some AI research team discovers a powerful insight, and builds an AI with an architecture embodying it. Such an AI might then search for more such insights more efficiently than all other the AI research teams who share their results put together.
+This new fast AI might then use its advantage to find another powerful insight, restructure itself to take advantage of it, and so on until it was fantastically good at thinking in general. (Or if the first insight were super-powerful, it might jump to this level in one step.) How good? So good that it could greatly out-compete the entire rest of the world at the key task of learning the vast ocean of specific knowledge and insights useful for functioning in the world. So good that even though it started out knowing almost nothing, after a few weeks it knows more than the entire rest of the world put together.
+(Note that the advantages of silicon and self-modifiable code over biological brains do not count as relevant chunky architectural insights — they are available to all competing AI teams.)
+In the debate, Eliezer gave six reasons to think very powerful brain architectural insights remain undiscovered:
+
+Human mind abilities have a strong common IQ factor.
+Humans show many specific mental failings in reasoning.
+Humans have completely dominated their chimp siblings.
+Chimps can’t function as “scientists” in human society.
+“Science” was invented, allowing progress in diverse fields.
+AGI researchers focus on architectures, share little content.
+
+My responses:
+
+Human mental abilities correlate across diverse tasks, but this can result from assortative mating, from task ability complementarities, or from an overall brain chemistry resource parameter. There is little reason to believe high IQ folks have a brain architecture feature that low IQ folks lack.
+Mind design must trade reliability and accuracy for speed and cost. It is not clear that humans suffer greatly in typical real choices from their many biases. Yes future brains with lower compute costs will have higher reliability. But this is hardly a new architectural insight.
+The key human advantage was accumulatings insights via culture. Yes chimps have “culture,” but not enough. Humans had more precise and portable culture via language, and more use for it due to free hands and wider ranges. Culture has a threshold effect of giving only minor benefits until it has “enough” support. And in contrast to the farming and industry revolutions, where second movers still made big gains, chimps couldn’t copy or complement humans enough to gain from humans getting culture first. No big architectural advantages are needed to explain human domination.
+Low IQ humans also can’t function at top levels of human society, and we have no reason to believe they lack some special architecture that the high IQ have. Chimp inability to function at our society’s low levels, where their intelligence seems plenty sufficient, is explained by only a tiny fraction of animal species ever being domesticated. Most animals refuse to take our orders, even when they are plenty smart enough to understand them.
+The intellectual community called “science” required a sufficient scale of people, communication, and activity to be feasible. Similar behavior was probably tried many times before, but at insufficient scale. “Science” required no brain architecture changes.
+The vast majority of AI researchers focus on collecting and implementing small insights. The fact that a small community of AGI (Artificial General Intelligence) researchers focus on architecture hardly says architecture gives huge gains. And academia discourages the large team projects needed to integrate a lot of content – it is hard to publish on small local changes to large projects.
+
+My five reasons to think powerful architectural insights are quite rare:
+
+The literature on economic, technical, and other innovation says most value comes from many small innovations – more useful and wider scope innovations are rarer, and usually require many small supporting innovations. “Intelligence” covers an extremely wide scope, basically all mental tasks. In general, innovations come from diverse users and builders, so the more users the better.
+Whatever appeared first in humans gave them no immediate gains in their ability to support a larger population, but only increased the growth rate of that ability. The same held in the farming and industry revolutions, the two other most disruptive events by far in human history. The key to all these changes seems to be better ways to spread innovations further faster. Thus any brain architectural gains must have focused mainly on spreading innovations.
+The usual lore among older artificial intelligence researchers is that new proposed architectural concepts are almost always some sort of rearranging of older architectural concepts. They see little new under the AI sun.
+The AI system Eliezer most respects for its promising architecture is Eurisko.  Its author, Doug Lenat, concluded from it that our main obstacle is not architecture but mental content – the more one knows, the faster one can learn. Lenat’s new CYC system has much content, though it still doesn’t learn fast. CYC might not have enough content yet, or perhaps Lenat sought the wrong content or format.
+Most AI successes come when hardware costs fall enough to implement old methods more vigorously. Most recent big AI successes are due to better ability to integrate a diversity of small contributions. See how Watson won, or Peter Norvig on mass data beating elegant theories. New architecture deserves only small credit for recent success.
+
+Future superintelligences will exist, but their vast and broad mental capacities will come mainly from vast mental content and computational resources. By comparison, their general architectural innovations will be minor additions. It thus seems quite unlikely that one AI team could find an architectural innovation powerful enough to let it go from tiny to taking over the world within a few weeks.
+
+
+title: Debating Yudkowsky
+
+date: July 3, 2011 12:00 pm
+

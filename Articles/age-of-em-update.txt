@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+My first book, The Age of Em: Work, Love, and Life When Robots Rule the Earth, is moving along toward its June 1 publication date (in UK, a few weeks later in US). A full book jacket is now available:
+
+Blurbs are also now available, from: Sean Carroll, Marc Andreessen, David Brin, Andrew McAfee, Erik Brynjolfsson, Matt Ridley, Hal Varian, Tyler Cowen, Vernor Vinge, Steve Fuller, Bryan Caplan, Gregory Benford, Kevin Kelly, Ben Goertzel, Tim Harford, Geoffrey Miller, Tim O’Reilly, Scott Aaronson, Ramez Naam, Hannu Rajaniemi, William MacAskill, Eliezer Yudkowsky, Zach Weinersmith, Robert Freitas, Neil Jacobstein, Ralph Merkle, and Michael Chwe.
+Kindle and Audible versions are in the works, as is a Chinese translation.
+I have a page that lists all my talks on the book, many of which I’ll also post about here at this blog.
+Abstracts for each of the thirty chapters should be available to see within a few weeks.
+
+
+title: Age of Em Update
+
+date: March 13, 2016 12:00 pm
+

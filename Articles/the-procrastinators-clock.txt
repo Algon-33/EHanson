@@ -1,0 +1,20 @@
+author: James Miller
+
+text: 
+Someone has developed a procrastinator’s clock that is probabilistically inaccurate.  The idea behind the clock is that if you merely set your clock ahead by, say, 10 minutes then you know the clock is always ten minutes fast and so you will adjust accordingly.  But this probabilistic clock is always somewhere between 0 to 15 minutes fast.  Consequently, you never know the correct time and so can’t correct for the clock’s inaccuracies.  The clock, therefore, is supposed to increase your punctuality by deliberately introducing bias into your timekeeping.  Many bloggers have linked to it.  But I don’t think that the probabilistic clock will decrease the average cost to you of your tardiness. 
+
+
+Let’s assume that you get a constant benefit for every second you procrastinate, but the cost of being late increases.  With an accurate clock you will procrastinate until at the margin the benefit of procrastinating another second equals the cost of being one more second late.
+
+
+With the probabilistic clock you don’t know how late you will be, so you don’t know the exact cost of being another second late.  But you can estimate the time and so can estimate the lateness cost of procrastinating another second.  So with the probabilistic clock you will procrastinate until at the margin the benefit of procrastinating another second equals the estimated cost of being one more second late.  On average, therefore, the lateness costs you will suffer will be the same with the accurate and probabilistic clock. 
+
+
+For reasons I haven’t detailed I suspect you will on average be less late with the probabilistic clock.  But because you will sometimes be extremely late with the probabilistic clock (more late than you would ever be with the accurate clock) the average lateness cost to you if you use the probabilistic clock equals the lateness cost to you if you use the accurate clock.
+
+
+
+title: The Procrastinator’s Clock
+
+date: January 28, 2007 4:14 pm
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I posted recently on the question of what makes up the “dark matter” intangible assets that today are most of firm assets. Someone pointed me to a 2009 paper of answers:
+
+[C.I. = ] Computerized information is largely composed of the NIPA series for business investment in computer software. …
+[Scientific R&D] is designed to capture innovative activity built on a scientific base of knowledge. … Non-scientific R&D includes the revenues of the non-scientific commercial R&D industry … the costs of developing new motion picture films and other forms of entertainment, investments in new designs, and a crude estimate of the spending for new product development by financial services and insurance firms. …
+[Brand equity] includes spending on strategic planning, spending on redesigning or reconfiguring existing products in existing markets, investments to retain or gain market share, and investments in brand names. Expenditures for advertising are a large part of the investments in brand equity, but … we estimated that only about 60 percent of total advertising expenditures were for ads that had long-lasting effects. …
+Investment in firm-specific human and structural resources … includes the costs of employer-provided worker training and an estimate of management time devoted to enhancing the productivity of the firm. … business investments in firm-specific human and structural resources through strategic planning, adaptation, reorganization, and employee-skill building. (more; HT Brandon Pizzola)
+According to this paper, more firm-specific resources is the biggest story, but more product development is also important. More software is third in importance.
+Added 15Apr: On reflection, this seems to suggest that the main story is our vast increase in product variety. That explains the huge increase in investments in product development and firm-specific resources, relative to more generic development and resources.
+
+
+title: Light On Dark Matter
+
+date: April 11, 2015 2:00 pm
+

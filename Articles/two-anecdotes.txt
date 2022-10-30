@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+In December 2008, two seemingly unrelated events occurred. The first was the release of Stephen Greenspan’s book, Annals of Gullibility: Why We Get Duped and How to Avoid It. Greenspan, a professor of psychology, … discussed gullibility in fields including finance, academia, and the law. … The second was the exposure of the greatest Ponzi scheme in history, run by Bernard Madoff, which cost its unsuspecting investors in excess of $60 billion. … The irony is that Greenspan, who is bright and well regarded, lost 30 percent of his retirement savings in Madoff’s Ponzi scheme.
+…
+At conference dealing with spine surgery, a surgeon presented the case of a female patient with a herniated disc in her neck and pain that was caused by a pinched nerve. She had already failed typical conservative treatments such as physical therapy, medication, and waiting it out.
+The surgeon asked the [doc] audience to vote on a couple of choices for surgery. The first was the newer anterior approach, where the surgeon removes the entire disc, replaces it with a bone plug, aim fuses the discs. The vast majority of the hands shot up. The second choice was the older posterior approach, where the surgeon removes only the portion of the disc that is compressing the nerve. No fusion is required because the procedure leaves most of the disc intact. Only a few audience members raised their hands.
+The speaker then asked the audience, which was almost entirely male, “What if this patient is your wife?” The show of hands was reversed for the same two choices. The main reason is that the amount surgeons are paid for the newer and more complicated procedure is typically several times what they’d receive for the older procedure.
+On the impotence of book learning:
+In December 2008, two seemingly unrelated events occurred. The first was the release of Stephen Greenspan’s book, Annals of Gullibility: Why We Get Duped and How to Avoid It. Greenspan, a professor of psychology, … discussed gullibility in fields including finance, academia, and the law. … The second was the exposure of the greatest Ponzi scheme in history, run by Bernard Madoff, which cost its unsuspecting investors in excess of $60 billion. … The irony is that Greenspan, who is bright and well regarded, lost 30 percent of his retirement savings in Madoff’s Ponzi scheme.
+On distorted doc incentives:
+At conference dealing with spine surgery, a surgeon presented the case of a female patient with a herniated disc in her neck and pain that was caused by a pinched nerve. She had already failed typical conservative treatments such as physical therapy, medication, and waiting it out.
+The surgeon asked the [doc] audience to vote on a couple of choices for surgery. The first was the newer anterior approach, where the surgeon removes the entire disc, replaces it with a bone plug, aim fuses the discs. The vast majority of the hands shot up. The second choice was the older posterior approach, where the surgeon removes only the portion of the disc that is compressing the nerve. …
+The speaker then asked the audience, which was almost entirely male, “What if this patient is your wife?” The show of hands was reversed for the same two choices. The main reason is that the amount surgeons are paid for the newer and more complicated procedure is typically several times what they’d receive for the older procedure.
+More here.  I’m actually surprised by this doc story; I’ve heard that docs over-consume med like everyone else.
+
+
+title: Two Anecdotes
+
+date: January 17, 2010 2:00 pm
+

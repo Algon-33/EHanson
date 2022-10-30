@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Many claim that the US Government saves recordings of all the phone calls, emails, etc. that it can get:
+Wednesday night, [CNN’s] Burnett interviewed Tim Clemente, a former FBI counterterrorism agent, about whether the FBI would be able to discover the contents of past telephone conversations between [terrorist Tamerlan Tsarnaev and his wife]. He quite clearly insisted that they could. … On Thursday night, Clemente again appeared on CNN, this time with host Carol Costello. … He reiterated what he said the night before but added expressly that “all digital communications in the past” are recorded and stored. …
+Former AT&T engineer Mark Klein revealed that AT&T and other telecoms had built a special network that allowed the National Security Agency full and unfettered access to data about the telephone calls and the content of email communications for all of their customers. … His amazing revelations were mostly ignored and, when Congress retroactively immunized the nation’s telecom giants for their participation in the illegal Bush spying programs, Klein’s claims (by design) were prevented from being adjudicated in court.
+That every single telephone call is recorded and stored would also explain this extraordinary revelation by the Washington Post in 2010:
+Every day, collection systems at the National Security Agency intercept and store 1.7 billion e-mails, phone calls and other types of communications.
+Bruce Schneier is skeptical, however:
+I don’t believe that the NSA could save every domestic phone call, not at this time. Possibly after the Utah data center is finished, but not now.
+This seems to me a great place for a prediction market. It seems quite likely that the truth will be revealed within a half century, and if this claim is true hundreds of people must know who might be tempted to make a little extra money via anonymous bets.
+
+
+title: US Record All Calls?
+
+date: May 8, 2013 11:10 am
+

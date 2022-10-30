@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Contributor David Balan and I meet next week (6-7pm Wed. Mar. 7, GMU, Mason Hall, Rm. D3) to debate "Paternalistic Policy:  Altruism or Arrogance?"  (I say "Arrogance.")  Here let me start to set the stage.
+ Paternalism is policy intended to benefit some people by limiting their choices, like a parent who stops a kid from playing in the street.  Examples include laws requiring professional licensing and product safety features, or banning risky buildings, food, drugs, and financial investments.
+ A warning is usually a feasible alternative to a requirement or ban.  Parents could just say "Playing in the street is a very bad idea," and if the kid believed them, the result would be the same as a ban.  Similarly, governments could just tell us that certain doctors or drugs are unsafe, instead of outlawing them.  
+ Now one can imagine inefficient warning systems, such as having to go look up each drug at some badly organized government website.  But we can also imagine no-fuss government warnings: let anything the government would have banned be sold only at special "would have banned" stores, whose customers pass a test showing they understand that regulators disapprove.  
+  
+ The reason we don’t allow such stores seems obvious:  we expect people would shop there.  And their reason to shop also seems obvious:  just as kids do not always believe parents, citizens do not always believe regulators.  A regulator claim that no one should buy some product can seem overconfident and otherwise biased.   
+ On the other hand, regulators who choose requirements and bans instead of warnings seem to believe that citizens are biased to neglect regulator advice.  Thus bias claims seem to be central to paternalism; regulators and citizens each think the others are biased.   
+ To evaluate if paternalism is good or bad, we need more than the sort of evidence that would convince regulators that they are less biased than citizens, or that would convince citizens that they are less biased than regulators.  After all, we expect each group to be biased in underestimating their own bias.
+Without such evidence, paternalism is just arrogance, i.e., an unsupported presumption by regulators of their own superiority. 
+Added:  Many of you say paternalism is to protect the very stupid.  Would you support Would-Have-Banned stores with an min IQ rule?   If so, what would that IQ be?  
+
+
+title: Paternalism Is About Bias
+
+date: March 2, 2007 6:00 am
+

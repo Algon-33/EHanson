@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+In broad disputes, such as we often find in economic policy, each "side" usually has points it thinks are neglected by other sides.  These points may be especially strong arguments for its own conclusions, or especially weak places in arguments for conclusions of other sides.  I can think of several such apparent neglected points favoring my "sides."  
+Often members of a side will feel frustrated that their strongest points seem to be ignored.  Your point may seem too simple or unoriginal to be worth a new publication, but you'd sure love to make it clear to observers how weak are the responses to your strongest points.
+You might think that if, in addition to wanting to support our side, we also put some weight on wanting to know the truth, we might find "gains from trade" by making "engagement swaps."  These would be deals between sides whereby we each agree to engage some points proposed by other sides.  We might agree to write so many words, or talk for so many minutes, on each point.  
+I suggested this idea to my colleague Dan Klein and he actually tried a bit to see how feasible such swaps might be in his corner of the policy dispute world.  Alas, his verdict was negative; it doesn't seem very workable.  Which raises the question: why?
+Some possible answers:
+
+Folks care little about truth, so there are no gains from trade.
+Even talking with other sides makes you seem disloyal to your side.  
+If they propose it, you fear adverse selection in topic, participant choices.
+Your responses to their strongest points will be weak, making you look weak.
+
+Added 6May: Dan Klein comments:
+It is often whole positions or whole issues that the other side too often ignores. For example, on FDA or occupational licensing, it's not that soc dems ignore individual points, but rather that they evade the whole issue.
+
+
+title: Engagement Swaps
+
+date: May 5, 2009 6:00 am
+

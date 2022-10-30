@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+People famously tend to disagree more about politics, religion, and romance, Which makes sense – I’ve argued that disagreement is due to by a near-far bias, and that politics, religion, and love are far topics. It should be especially clear that religion is a far topic, dealing with fundamental values and big grand things like Gods over vast space and time scales.
+Since creative metaphor is far, and analysis is near, it shouldn’t be surprising to hear that inducing an analytical frame of mind tends to induce “religious disbelief”, i.e., disbelief in gods, devils, and angels:
+Individual differences in the tendency to analytically override initially flawed intuitions in reasoning were associated with increased religious disbelief. Four additional experiments provided evidence of causation, as subtle manipulations known to trigger analytic processing also encouraged religious disbelief. (more)
+You could point to this as evidence against religious beliefs, but the same analysis primes probably also induce more skepticism on common political and romantic beliefs. They might even induce more skepticism on the mulitverse, string theory, or the many worlds interpretation of quantum mechanics, all of which have big grand aspects.
+
+
+title: Analysis Is Far Skeptical
+
+date: April 27, 2012 12:45 pm
+

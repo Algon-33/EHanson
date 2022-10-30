@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Early in 2017 I reported:
+This week Nature published some empirical data on a surprising-popularity consensus mechanism. The idea is to ask people to pick from several options, and also to have each person forecast the distribution of opinion among others. … Compared to prediction markets, this mechanism doesn’t require that those who run the mechanism actually know the truth later. … The big problem … however, is that it requires that learning the truth be the cheapest way to coordinate opinion. …. I can see variations on [this method] being used much more widely to generate standard safe answers that people can adopt with less fear of seeming strange or ignorant. But those who actually want to find true answers even when such answers are contrarian, they will need something closer to prediction markets.
+In a new mechanism by Yuqing Kong, N agents simultaneously and without communication give answers to T questions, each of which has C possible answers. The clues that agents have about each question can be arbitrarily correlated, and agents can have differing priors about that clue distribution. However, clues must be identically and independently distributed (IID) across questions. If T ≥ 2C and N ≥ 2, then in this new mechanism telling the “truth” (i.e., answer indicated by clue) is a dominant strategy, with a strictly higher payoff if anyone else also tells the truth!
+This is a substantial advance over the prior literature, and I expect future mechanisms to weaken the IID across questions constraint. Alas, even so this seems to suffer for the same key problem of needing truth to be the cheapest way for respondents to coordinate answers. I expect this problem to be much harder to overcome.
+Of course if you add “truth speakers” as some of the agents, and wait for those speakers’ input before paying the other participants, you get something much closer to a prediction market.
+
+
+title: A New Truth Mechanism
+
+date: November 15, 2019 12:40 pm
+

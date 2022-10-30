@@ -1,0 +1,47 @@
+author: Robin Hanson
+
+text: 
+Browsing through The Other Change of Hobbit bookstore near my Berkeley office ten years ago, I was enchanted to find Far Futures, "five original novellas .. all set at least ten thousand years in the future."  My favorite was Greg Bear’s Judgment Engine, and Bear says his City at the End of Time (out in July) "is set in large part a hundred trillion years in the future."  
+ So I am proud to be included in Year Million, published today, "fifteen … essays by notable journalists and scholars, … projecting the universe as it might be in the year 1,000,000 C.E."  I begin:
+
+ The future is not the realization of our hopes and dreams, a warning to mend our ways, an adventure to inspire us, nor a romance to touch our hearts. The future is just another place in spacetime. Its residents, like us, find their world mundane and morally ambiguous relative to the heights of fiction and fantasy. …
+ We will use evolutionary game theory to outline the cycle of life of our descendants in one million years. What makes such hubristic conjecture viable is that we will (1) make some strong assumptions, (2) describe only a certain subset of our descendants, and (3) describe only certain physical aspects of their lives. I estimate at least a five percent chance that this package of assumptions will apply well to at least five percent of our descendants.
+
+ (No other author offered confidence estimates.)   My use of evolutionary analysis marks me as a "bullet biter," using Scott Aaoronson’s colorful term – I tend to accept apparent uncomfortable implications of well-supported theories.  Many "bullet dodgers" disapprove.  For example, riffing off Nick Bostrom’s Where are They? (which rephrases my Great Filter), author Charlie Stross said: 
+  
+
+ The Great Filter argument isn’t the only answer to the Fermi Paradox. More recently, Milan M. Cirkovic has written a paper, Against the Empire, in which he criticizes the empire-state model of posthuman civilization that is implicit in many Fermi Paradox treatments. … There is a widespread implicit belief among people who look at the topic … in manifest destiny, expansion to fill all possible evolutionary niches, and the inevitability of any species that develops the technology to explore deep space using that technology to colonize it. As Cirkovic points out, this model is based on a naive extrapolation of historical human models which may be utterly inapplicable to posthuman or postbiological societies.
+
+  Here is Cirkovic’s main argument:
+
+There is no proof that "colonizing other stars and galaxies" constitutes anything more than a subset of zero-measure trajectories in the evolutionary space … The transition to postbiological phase obviates most, if not all, biological motivations. …  The imperative for filling the complete ecological niche … is an essentially biological part of motivation for any species, including present-day humans. … But expanding and filling the ecological niches are not the intrinsic property of life or intelligence – they are just consequences of [today’s] predominant evolutionary mechanism, i.e. natural selection. It seems logically possible to imagine a situation in which some other mechanism of evolutionary change, like the Lamarckian inheritance or genetic drift, could dominate and prompt different types of behaviour. 
+
+This is a classic bullet-dodger move – facing calculations suggesting an accepted theory predicts an unwelcome consequence, they do not offer contrary calculations – they just note contrary calculations might exist.  Here is the closest Cirkovic gets to a contrary calculation: 
+
+Biological imperatives, like the survival until the reproduction age, … will become marginal, if not entirely extinct as valid motivations for individual and group actions.  Let us, for the sake of elaborated example, consider the society of uploaded minds living in virtual cities of Greg Egan’s Diaspora – apart from some very general energy requirements, making copies of one’s mind and even sending some or all of them to intergalactic trips (with subsequent merging of willing copies) is cheap and uninfluenced by any biological imperative whatsoever; the galaxy is simply large and they are expanding freely. … There is no genetic heritage to be passed on, no truly threatening environment to exert selection pressure, … no biotic competition, no kin selection, no pressure on (digital) ecological boundaries, no minimal viable populations.
+
+But there can be genes without DNA, and selection pressure without violence or great expense.  And the fact that Egan did not talk about selection effects does not even remotely suggest they are absent in the situation he describes.  Note Cirkovic is not arguing for humility about future motives; he thinks he knows we will want central computational efficiency:
+
+The optimization of all activities, most notably computation is the existential imperative. … An advanced civilization willingly imposes some of the limits on the expansion.  Expansion beyond some critical value will tend to undermine efficiency, due both to latency, bandwidth and noise problems. 
+
+In Year Million, Robert Bradbury similarly claims we will rearrange our central star system to maximize central CPU cycles, memory, and internal latency/bandwidth – distant stars are only interesting to watch, to harvest energy and mass to import to the central star, and to visit as the central star slowly wanders.  While this is a surprisingly common view, I know of no selection calculation suggesting a central computing imperative. 
+Cirkovic gives more reasons we won’t expand much: 
+
+Molecular nanotechnology … will obviate the economic need for imperial-style expansion, since the efficiency of utilization of resources will dramatically increase. .. Religious fervour and the feeling of moral superiority … are unlikely to play a significant role either in future of humanity or in functioning of extraterrestrial [civilizations]. … Even our extremely limited terrestrial experience indicates serious ethical concerns … [if we] supplant or destroy alien biospheres on other worlds. … The totalitarian temptation is much harder to resist in conditions where massive military/colonization forces are in existence and thus prone to be misused against state’s own citizens.
+
+This last argument has it exactly backward.  I explain in my Year Million paper:
+
+The familiar biological world contains only local coordination. … If our descendants prove to be similarly uncoordinated, evolutionary analysis might accurately outline their behavior. … [But] imagine that a strong stable central government ensured for a million years that colonists spreading out from Earth all had nearly the same standard personality, with each colonist working hard to successfully prevent any wider personality variations in their neighbors, descendants, or future selves. In such a situation, the standard personality might control colonization patterns. … 
+The crucial era for such coordination starts when competitive interstellar colonization first becomes possible. As long as the oasis near Earth is growing or innovating rapidly, any deviant colonization attempts could be overrun by later, richer, more advanced reprisals. But as central growth and innovation slows, such reprisals would become increasingly difficult. … Thus, once enough colonists with a wide-enough range of personalities are moving away rapidly enough, central threats and rewards to induce coordination on frontier behavior would no longer be feasible. The competition genie would be out of the bottle. 
+
+If we risk totalitarian outcomes via a strong long-lasting enough central "government," we might prevent evolvable variation in colonization strategies, and thus stop a "cosmic wildfire."  This may be worth the risk, but I am far from sure: 
+
+I am not praising this possible future world to encourage you to help make it more likely, nor am I criticizing it to warn you to make it less likely. It is not intended as an allegory of problems or promises for us, our past, or our near future. It is just my best-guess description of another section of spacetime. I can imagine better worlds and worse worlds, so whether I am repelled by or attracted to this world must depend on the other realistic options on the table.
+
+Added 16Jun: John Horgan reviewed the book in the Wall Street Journal here.
+
+
+title: Biting Evolution Bullets
+
+date: May 19, 2008 6:00 am
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Some problems are often mentioned in media, such as global warming, war, medical funding, political conflicts. Some problems are less often mentioned in media, but still often discussed in academic publications: encouraging innovation, managing large organizations, extending lifespans, and setting the right amount of regulation. But some problems are obviously big, yet rarely much discussed in media or academia as problems to solve. They are neglected. Oh people on occasion lament such problems, but they don’t often talk seriously about how we might think systematically about solving or mitigating them.
+In this post I’d just like to remind folks of a few big neglected problems. I’m not going to propose solutions to them here, though I wouldn’t mind inspiring others to think more about them. Most of them have to do with ancient inherited habits that don’t seem to work that well in the modern world.
+Relearn Every Generation – We must each relearn many basic life lessons during our individual lifetimes, lessons that millions or billions of others already learned in their previous lifetimes, or that millions or billions of others are currently learning in parallel with us. There seem huge potential gains from finding better ways to learn from our ancestors and colleagues.
+Changing World – Early in life we read the world around us and choose life plans and paths matched to that world. During our life the world around us changes, and we make some adaptations to that, but they seem insufficient. For example, we often seek to achieve in ways that were awarded with high status when we were young, to find that our achievements are much less valued by the new world.
+Poor Matching – We match people as friends, lovers, spouses, and workers. Our distant ancestors only had a few available options for matches, and we inherited many intuitive mechanisms appropriate for that situation. But we now have a vast world with far more matches possible, and it seems like we don’t use that larger scope very well. We still rely heavily on inherited informal mechanisms. I see so many lonely and otherwise mismatched people.
+Varied Commitment – We must each choose how much to commit to our careers, friends, lovers, neighborhoods, brands, etc. We do commit somewhat, but we also switch on occasion. And it isn’t remotely clear that we do this well. We must each match our commitment to the commitment choices of folks around us, and we often lack ways to commit to avoid temptations. We could also do a lot better at predicting the future, to better inform our commitment choices.
+
+
+title: Neglected Big Problems
+
+date: February 5, 2017 9:40 am
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+We have a love-hate relation with the division of labor.  On the one hand, we treasure our individuality and autonomy; we often do things differently just to show that we can.  On the other hand, we know that the division of labor, with its regimentation and standardization, is what lets us be amazingly rich.  But I wonder: why do we accept borg-like regimentation more at work than at home?
+We produce both at home and on at work.  At home we make meals, clean clothes, entertainment events, etc., while at work we make many other things, like pots, t-shirts, TVs, etc that are useful inputs into home production.  Yet while scale economies are possible with both kinds of production, we are more reluctant to use scale economies in home production.
+Most workplaces lower costs by regimenting and standardizing routines.  Employees show up at standard times, wear standard uniforms, write formula memos by scheduled deadlines, and so on.  Communities with limited budgets, like orphanages, military barracks, or school dorms, know that cheap ways to manage home life also involve a lot of centralization and standardization.   For example, one can feed lots of folks cheaper if they will eat the same food at the same time, and clothe lots of folks cheaper if they will wear the same kind of clothing centrally cleaned.
+Yes, the more we differ the less enamored we are of communal efficiencies, and the richer we are the more we can indulge such differences.  We are willing to live in smaller homes, with food and clothing of lower quality ingredients, in order to eat our own different food wearing our own different clothes in our own different home.
+But the same logic should apply at work as well.  In trade for lower wages, employers should allow us more variation in work habits, forms, dress, hours, etc.  And while we probably do see more of this with increasing wealth, it seems clear that we accept more regimentation in work production, relative to home production.  Why?
+If you’ve been reading this blog for a while you won’t be surprised to see me consider a signaling explanation.  🙂  Here goes.
+Movies and TV sitcoms focus overwhelmingly on non-work life.   I suspect we see our work life as being less visible than non-work social life to the people we most care about impressing; the money we make from our work life, and the overall status of our job, seems more visible.   Also, at home and at leisure, the uniqueness of our behavior seems no less visible than the quality of its ingredients.
+So to a first approximation, what others mainly see about us is the status of our job type, the income we have to spend, and the distinctive ways we spend our money and non-work social time; they don’t see as much of our distinctive job habits.  Thus we focus on signaling our autonomy, identity, taste, style etc. via non-work individuality, and at work focus more on money and job type status.   We are willing to be borgs at work so that we can afford to be all the more distinctive divas at home.
+Added: Rather than admit we borg at work to better signal, we’d rather blame it on evil “power hungry” work organizations and leaders.  This may be a big part of why folks see for-profit work firms as evil, relative to non-profit leisure organizations like clubs, churches, families, etc.  My wife works for a non-profit whose mission she celebrates, while still loathing the executives who run it.
+
+
+title: Why Borg At Work, Not Home?
+
+date: October 21, 2009 11:30 pm
+

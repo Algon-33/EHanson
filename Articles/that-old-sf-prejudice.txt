@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Back when I was a physics student in the late 1970s, my physics teachers were pretty unified in and explicit about their dislike for so-called social “sciences.” Not only is there no science there, they said, there is no useful knowledge of any sort – it was all “pseudo” science as useless as astrology. Lots of “hard” scientists are taught to think pretty much the same thing today, but since our world is so much more politically sensitive, they also know to avoid saying so directly.
+Old school science fiction authors were taught pretty much the same thing and sometimes they say so pretty directly. Case in point, Arthur C. Clarke [ACC]:
+TM: Why has science fiction seemed so prescient?
+ACC: Well, we mustn’t overdo this, because science fiction stories have covered almost every possibility, and, well, most impossibilities — obviously we’re bound to have some pretty good direct hits as well as a lot of misses. But, that doesn’t matter. Science fiction does not attempt to predict. It extrapolates. It just says, “What if?” not what will be? Because you can never predict what will happen, particularly in politics and economics. You can to some extent predict in the technological sphere — flying, space travel, all these things, but even there we missed really badly on some things, like computers. No one imagined the incredible impact of computers, even though robot brains of various kinds had been — my late friend, Isaac Asimov, for example, had — but the idea that one day every house would have a computer in every room and that one day we’d probably have computers built into our clothing, nobody ever thought of that. …
+To be a science fiction writer you must be interested in the future and you must feel that the future will be different and hopefully better than the present. …
+TM: What’s a precondition for being a science fiction writer other than an interest in the future?
+ACC: Well, an interest — at least an understanding of science, not necessarily a science degree but you must have a feeling for the science and its possibilities and its impossibilities, otherwise you’re writing fantasy. …
+TM: Is it fair to call some science fiction writers prophets in a way?
+ACC: Yes, but accidental prophets, because very few attempt to predict the future as they expect it will be. They may in some cases, and I’ve done this myself, write about — try to write about — futures as they hope they will be, but I don’t know of anyone that’s ever said this is the way the future will be. …. I don’t think there is such a thing as as a real prophet. You can never predict the future. We know why now, of course; chaos theory, which I got very interested in, shows you can never predict the future. (more)
+You see? The reason to be interested in science fiction is an interest what will actually happen in the future, and the reason fantasy isn’t science fiction is that gets the future wrong because it doesn’t appreciate scientific possibilities like flying, space travel, and computers. But chaos theory says you can’t predict anything about politics or economics because that’s all just random. Sigh.
+Of course folks like Doug Englebart were in fact predicting things about the social implications of computers back when Clarke made his famous movie 2001, but Clarke apparently figures that if the physics and sf folks he talked to didn’t know something, no one knew. Today’s science fiction authors also know better than to say such things directly, but it is really what many of them think: our tech future is predictable, but our social future is not, because physical science exists and social science does not.
+Added 10a: Note how it is easy to entice commenters to say they agree with the claim that there is no social science, but it is much harder to get a prominent physics or sf blogger to say so in a post. Lots of them think similarly, but know not to say so publicly.
+
+
+title: That Old SF Prejudice
+
+date: July 29, 2013 7:40 pm
+

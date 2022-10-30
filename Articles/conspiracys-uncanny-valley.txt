@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+A few weeks ago someone [added: Sun Cho] pointed me to the popular internet movie Loose Change, which casts doubts on standard 9-11 accounts.  The movie was more persuasive than I had expected, which put me in an odd position.  
+ My guess is that standard stories about events like 9-11 are quite wrong about one time in a hundred or thousand, and that due to mole effects they are probably wrong more often on the very largest events.  Loose Change being surprisingly persuasive then had me estimating about a one in ten to thirty chance standard 9-11 accounts were quite wrong on an important point.  And this put me uncomfortably in conspiracy’s "uncanny valley".
+ Robots that look pretty similar, but not very similar, to humans are said to be in an "uncanny valley" that makes people feel weird.  Similarly, it seems to me that, relative to intermediate confidence levels, we prefer either to be confident a conspiracy theory is false, or to think it pretty likely to be true.  We really want to "pick sides."  
+ I finally found some time this weekend to review the case of critics, such as the anti-movie Investigate Loose Change.  On reflection I found the critics pretty persuasive, and so now I’m comfortably back to assigning a pretty low probability (say ~1/100).  But I worry that I have rushed this judgment, since I was so uncomfortable in conspiracy’s uncanny valley.  And I vow to be a bit less persuadable by smooth videos. 
+Added 16Oct:  Sigh.  I must admit that digging a bit more again finds surprisingly persuasive material, moving my estimate up to about 2%, back up into uncanny valley land. 
+
+
+title: Conspiracy’s Uncanny Valley
+
+date: October 15, 2008 6:00 am
+

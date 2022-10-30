@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+I have suggested that long run growth can be described as a sequence of exponential growth modes, from primates to foragers to farmers to industry, where mode transitions are similar in their degree of suddenness and growth rate change factors. This model will be tested in the future – it suggests that within a century or so we’ll see a change within five years to a new mode where the economy doubles every month or faster.
+But my model can also be tested against the past. Our data on the animal, forager, and early farming eras is pretty poor. My hypothesis suggests that the forager era was one big growth mode similar to the farming or industry eras, with a relatively smooth rate of growth in capacity (even if rare disasters temporarily disrupted the use of that capacity), and that the forager to farming transition has a level of smoothness similar to that of the farming to industry transition.
+Contrary to my model, many have suggested there was an important comparable revolution in human behavior around 50,000 years ago. My model predicts that growth accelerated smoothly from around 100,000 years ago to the near full speed farming world of about 5000 years ago, similar to the way growth accelerated from 1600 to 1900.
+The latest results seem to support my model:
+Back in 2000, a now famous scientiﬁc paper called “The Revolution That Wasn’t” argued that the then-conventional wisdom that modern human behavior had erupted in a “creative explosion” about 50,000 years ago in Europe was wrong. Rather, anthropologists Sally McBrearty and Alison Brooks contended that modern behavior, including creativity, has deep and ancient roots, going back some 300,000 years ago in Africa (Science, 15 February 2002, p. 1219).
+At a meeting here last month, researchers heard new evidence that human evolution took a gradual, rather than revolutionary, course during two other key junctures in prehistory. A study of ancient stone tools from South Africa concludes that hunters manufactured spears with stone points—a sign of complex behavior—200,000 years earlier than had previously been thought. And new excavations at a 20,000-year-old settlement in Jordan, laden with artifacts typical of much later sites, suggest that the dramatic rise of farming villages in the Near East also had early and deep roots. … Many archaeologists now think that apparent “revolutions” are due to gaps in the record or to behavioral shifts triggered by changing conditions, rather than sudden advances in cognition. What appear to be precociously sophisticated behaviors are really reﬂections of what prehistoric humans were capable of all along. (more)
+
+
+title: Testing My Growth Model
+
+date: May 8, 2012 10:00 am
+

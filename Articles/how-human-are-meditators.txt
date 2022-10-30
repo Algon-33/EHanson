@@ -1,0 +1,35 @@
+author: Robin Hanson
+
+text: 
+Someday we may be able to create brain emulations (ems), and someday later we may understand them sufficiently to allow substantial modifications to them. Many have expressed concern that competition for efficient em workers might then turn ems into inhuman creatures of little moral worth. This might happen via reductions of brain systems, features, and activities that are distinctly human but that contribute less to work effectiveness. For example Scott Alexander fears loss of moral value due to “a very powerful ability to focus the brain on the task at hand” and ems “neurologically incapable of having their minds drift off while on the job”.
+A plausible candidate for em brain reduction to reduce mind drift is the default mode network:
+The default mode network is active during passive rest and mind-wandering. Mind-wandering usually involves thinking about others, thinking about one’s self, remembering the past, and envisioning the future.… becomes activated within an order of a fraction of a second after participants finish a task. … deactivate during external goal-oriented tasks such as visual attention or cognitive working memory tasks. … The brain’s energy consumption is increased by less than 5% of its baseline energy consumption while performing a focused mental task. … The default mode network is known to be involved in many seemingly different functions:
+It is the neurological basis for the self:
+Autobiographical information: Memories of collection of events and facts about one’s self
+Self-reference: Referring to traits and descriptions of one’s self
+Emotion of one’s self: Reflecting about one’s own emotional state
+Thinking about others:
+Theory of Mind: Thinking about the thoughts of others and what they might or might not know
+Emotions of other: Understanding the emotions of other people and empathizing with their feelings
+Moral reasoning: Determining just and unjust result of an action
+Social evaluations: Good-bad attitude judgments about social concepts
+Social categories: Reflecting on important social characteristics and status of a group
+Remembering the past and thinking about the future:
+Remembering the past: Recalling events that happened in the past
+Imagining the future: Envisioning events that might happen in the future
+Episodic memory: Detailed memory related to specific events in time
+Story comprehension: Understanding and remembering a narrative
+In our book The Elephant in the Brain, we say that key tasks for our distant ancestors were tracking how others saw them, watching for ways others might accuse them of norm violations, and managing stories of their motives and plans to help them defend against such accusations. The difficulty of this task was a big reason humans had such big brains. So it made sense to design our brains to work on such tasks in spare moments. However, if ems could be productive workers even with a reduced capacity for managing their social image, it might make sense to design ems to spend a lot less time and energy ruminating on their image.
+Interestingly, many who seek personal insight and spiritual enlightenment try hard to reduce the influence of this key default mode network. Here is Sam Harris from his recent book Waking Up: A Guide to Spirituality Without Religion:
+Psychologists and neuroscientist now acknowledge that the human mind tends to wander. .. Subjects reported being lost in thought 46.9 percent of the time. .. People are consistently less happy when their minds wander, even when the contents of their thoughts are pleasant. … The wandering mind has been correlated with activity in the … “default mode” or “resting state” network (DMN). .. Activity in the DMN decreases when subjects concentrate on tasks of the sort employed in most neuroimaging experiments.
+The DMN has also been linked with our capacity for “self-representation.” … [it] is more engaged when we make such judgements of relevance about ourselves, as opposed to making them about other people. It also tends to be more active when we evaluate a scene from a first person point of view. … Generally speaking, to pay attention outwardly reduces activity in the [DMN], while thinking about oneself increases it. …
+Mindfulness and loving-kindness mediation also decrease activity in the DMN – and the effect is most pronounced among experienced meditators. … Expert meditators … judge the intensity of an unpleasant stimulus the same but find it to be less unpleasant. They also show reduced activity in regions associated with anxiety while anticipanting the onsite of pain. … Mindfulness reduces both the unpleasantness and intensity of noxious stimuli. …
+There is an enormous difference between being hostage to one’s thoughts and being freely and nonjudgmentally aware of life in the present. To make this shift is to interrupt the process of rumination and reactivity that often keep us so desperately at odds with ourselves and with other people. … Meditation is simply the ability to stop suffering in many of the usual ways, if only for a few moments at a time. … The deepest goal of spirituality is freedom from the illusion of the self. (pp.119-123)
+I see a big conflict here. On the one hand, many are concerned that competition could destroy moral value by cutting away distinctively human features of em brains, and the default net seems a prime candidate for cutting. On the other hand, many see meditation as a key to spiritual insight, one of the highest human callings, and a key task in meditation is cutting the influence of the default net. Ems with a reduced default net could more easily focus, be mindful, see the illusion of the self, and feel more at peace and less anxious about their social image. So which is it, do such ems achieve our highest spiritual ideals, or are they empty shells mostly devoid of human value? Can’t be both, right?
+By the way, I was reading Harris because he and I will record a podcast Feb 21 in Denver.
+
+
+title: How Human Are Meditators?
+
+date: February 10, 2018 8:40 pm
+

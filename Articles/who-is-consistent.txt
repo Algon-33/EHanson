@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Young rich well-educated men make more consistent choices. Family structure, risk tolerance and personality type don’t matter:
+We conduct a large-scale field experiment … to test subjects choices for consistency with utility maximization. … High-income and high-education subjects display greater levels of consistency …, men are more consistent than women, and young subjects are more consistent than older subjects. We also find that consistency with utility maximization is strongly related to wealth: a standard deviation increase in the consistency score is associated with 15-19 percent more wealth. This result conditions on socioeconomic variables including current income, education, and family structure, and is little changed when we add controls for past income, risk tolerance and the results of a standard personality test used by psychologists. (more)
+
+
+title: Who Is Consistent?
+
+date: June 28, 2011 1:50 pm
+

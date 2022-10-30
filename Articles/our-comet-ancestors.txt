@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+A few years ago PCW Davies persuasively argued that Earth life more likely started on Mars.  Last year, Napier and coauthors argued that comets are an even more likely source: 
+
+ The recognition that life has an information content too vast to be assembled by random processes has led to many discussions of possible evolutionary routes, starting from a simpler self-replicating organic system and ultimately leading to the present-day protein- DNA-based life. … The clay model … uses the repeating lattice structures of clay particles and their catalytic properties of converting simple organic molecules in aqueous solution into complex biopolymers. … 
+ The volume of clay on the Earth is vastly surpassed by that in comets. A single comet of radius 10 km and 30% volume fraction of clay contains as much clay, to within a factor of around 10, as that of the early Earth. However, our Solar System is surrounded by about 10^11 comets forming the Oort cloud …  Whereas the average persistence of shallow clay pools and hydrothermal vent concentrations of clay on the Earth can range from 1 to around 100 years, a cometary interior provides a stable, aqueous, organic-rich environment for around 10^6 years.  … mechanisms for interstellar panspermia have recently been identified, and we may have to multiply this number by the number of Oort cloud analogues in the Galaxy.
+
+ (See also comments.)  The entire paper is very short and qualitative – I’d have preferred quantitative discussion of rates of comet collisions with each other and with early Earth, to help us estimate how fast comet life could spread across comets, and how far it would have needed to spread to give it a decent chance of spreading to Earth.  
+ But my core reaction is to marvel at how little work like this gets done.  Figuring out the origins of life usually comes near the top of important scientific questions, yet in fact few resources go into this area.  One reason, I suspect, is that for now the best way to approach this subject is qualitative and integrative, while academia mainly rewards impressive displays of ways with words, math, and tech.  Does the topic also just seem silly? 
+
+
+title: Our Comet Ancestors?
+
+date: August 7, 2008 6:00 am
+

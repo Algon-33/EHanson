@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+What, really, is politics about?  Yes, in principle it is about all possible social choices.  But in each society people usually seem to line up along one main political axis; just one ideological parameter predicts many opinions well.
+One reason is a general tendency for coalitions within a society to support and ally with other coalitions on “their side.”  This tends to produce a common one-dimensional axis that people bicker about.  But there also seem to be many common themes in the issues different societies and eras choose for their one-dimensional bickering.  For example, the World Values Survey found that two factors explain much of the cross-national variation in opinion (more about those soon).
+If there are certain innate political dimensions, where could they have come from.  And why would political positions be correlated with genes?  I can see three general possibilities:
+
+Frequency-dependent fitness – there may have evolved (genetically or culturally) a mixed strategy equilibrium where all political strategies are on average equally effective.  Or at least they might have been equal in some past environment.  These could either be strategies for dealing with politics in particular, or general personality strategies as they happen to apply to politics.
+Context-dependent strategies – we may be seeing different realizations of common context-dependent strategies, different because people grow up in different environments.  For example, humans could have evolved to have their political opinions depend on personal or local wealth, health, density, etc.
+Evolution in action; in response to recent innovations or environmental changes, some tendencies may be winning out.  But if the process is slow enough, we may still see both the old and the new ways of thinking represented in the population.
+
+We have lots of data relevant to these theories.  We know many things about the correlates of personal political opinion, and about general trends across nations and across time.  But oddly, I don’t know of any general review that summarizes that data for the purpose of choosing between the above categories of possibilities.  Does anyone know of such a thing?
+
+
+title: What Is Politics About?
+
+date: August 27, 2010 7:00 pm
+

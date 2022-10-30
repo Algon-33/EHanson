@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Me:
+Our finite universe simply cannot continue our exponential growth rates for a million years. For trillions of years thereafter, possibilities will be known and fixed, and for each person rather limited.
+Bryan Caplan:
+He’s probably right for physical goods.  But why couldn’t the quality of life in virtual reality grow at 4% [per year] for ever?  Serious virtual reality wouldn’t be like toothpicks; it would be a vast array of virtual goods and experiences.  And since these goods and experiences would be imaginary, there’s no reason they couldn’t grow forever.  Laugh if you must: Imagination really is infinite!
+Let me try to explain (again).
+Imagine that in a million years, our descendants occupy all the 1070 atoms in our galaxy and its surrounding volume, and that it will take another million years to grow that number by a factor of ten, to 1071.  They’ve spend a million years searching the space of possible physical devices: signal senders & processors, radiators, nuke & black hole power plants, etc. They’ve found some very good designs, and in another million years of searching don’t expect to find designs that are overall a hundred times more efficient. Even if computational capacity grew as the square of available mass (such as might be possible with black holes), for the next million years they expect their total computational capacity to grow by less than a factor of ten thousand, or 0.001% per year.
+Over the last million years they’ve also been searching the space of enjoyable virtual reality designs. From the very beginning they had designs offering people vast galaxies of fascinating exotic places to visit, and vast numbers of subjects to command. (Of course most of that wasn’t computed in much detail until the person interacted with related things.) For a million years they have searched for possible story lines to create engaging and satisfying experiences in such vast places, without requiring more computational resources behind the scenes to manage.
+Now in this context, imagine what it means for “imagination” to improve by 4% per year. That is a factor of a billion every 529 years. If we are talking about utility gains, this means that you’d be indifferent between keeping a current virtual reality design, or taking a one in a two billion chance to get a virtual reality design from 529 years later. If you lose this gamble, you have to take a half-utility design, which gives you only half of the utility of the design you started with.
+If you spend all your time in virtual reality, and if your utility were your years of life times the virtual reality design quality, then you’d be indifferent between a 310 year life in your current design or a ten second life in the 529 year future design.
+And 529 years is tiny on a cosmological scale. Over a million years 4% annual growth produces a factor of 1017,000. Could you really be indifferent between taking that infinitesimally small a chance of moving to a million year future virtual reality, where if you lose the gamble you have to accept a half-utility virtual reality?  Would you really keep repeating this gamble as your utility fell to zero? And the universe will survive for many trillions of years — in a trillion years 4% annual growth gives a factor of over 101010.
+It may be possible to create creatures who have such strong preferences for subtle differences, differences that can only be found after a million or trillion years of a vast galactic or larger civilization searching the space of possible designs. But humans do not seem remotely like such creatures. We like stories, to be sure, but most of us are pretty satisfied with simple variations on standard story lines – we just don’t get billions of times more value from the very best stories, over pretty good stories.
+It is also very hard to see how creatures with such subtle preferences would have adaptive advantages in a competitive future scenario. And in a non-competitive scenario I for one don’t see much point in trying to populate our universe with such extremely picky creatures.
+
+
+title: Limits of Imagination
+
+date: October 20, 2011 9:45 am
+

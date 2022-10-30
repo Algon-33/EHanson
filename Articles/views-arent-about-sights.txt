@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Regarding window/patios with nice beach or city views, and days when those views are nice, in two polls respondents estimate that at any given time 1.3% and 0.8% of such places are actually occupied by people enjoying these views. Which makes one wonder why people bother to buy exclusive use, instead of sharing them. For example, ten tenants could share a single view spot for a tenth the price, and hardly ever have conflicts over who uses it when. We similarly see people owning boats and RVs that they hardly ever use and could instead rent more cheaply.
+A related phenomenon is that most people strongly prefer to pay a monthly or annual fee for phones or internet, instead of paying per minute of use. Even though per usage payment can give better incentives for thriftiness. Similar for movies and TV shows. And, recently, e-books. And country clubs. Also, apparently a secret to Amazon’s success was that people much prefer to pay for shipping once per year than to pay each time they ship.
+Many justifications are offered for these habits, some of them sensible. But surely a big fraction of all this is explained by signaling; people want others to know of and envy that they can afford to buy a view instead of renting it, and can afford the monthly phone fee, instead of having to worry about each call.
+But if so, why don’t we buy more things via all-you-want-for-an-annual-fee? Like food or clothes or planes. You might say that these have high marginal costs, but then so do views and boats and RVs and country clubs.
+I suspect part of the problem is that it just takes time to build up the scale required for the business arrangements which let people buy many things at marginal cost for an annual fee. Which makes me more optimistic about the future prospects for such programs. Places like Costco go somewhat in that direction, but we could go a lot further.
+Imagine large menus of products where you can get as much of each one as you want (for personal use only) at their marginal cost, if you pay a corresponding annual fee. The higher an annual fee you pay, the larger a menu of things you can get at marginal cost. This arrangement not only gets you stuff more efficiently, grabbing anything that’s worth more to you than its marginal cost, but this also lets you signal your wealth by the menus you can afford.
+It may take a lot of coordination to get all these suppliers to agree to deals where they sell stuff at marginal cost and get some fraction of the annual feel. And it takes some enforcement to prevent reselling. A single org that tries to arrange all this will face the usual scale diseconomies due to internal coordination costs. But I still think more of this is coming.
+Added 23May: Many saying that they feel psychological aversions to renting, sharing, or paying per usage, aversions that go beyond concrete time and effort costs. They say this implies we aren’t avoiding these things to signal wealth. But that confuses different levels of causation. It could be that the way that our minds induce us to signal wealth is via making us feel these aversions.
+
+
+title: Views Aren’t About Sights
+
+date: May 22, 2021 3:24 pm
+

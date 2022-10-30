@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Anders Sandberg has posted a nice paper, Monte Carlo model of brain emulation development, wherein he develops a simple statistical model of when brain emulations [= “WBE”] would be feasible, if they will ever be feasible:
+The cumulative probability gives 50% chance for WBE (if it ever arrives) before 2059, with
+the 25% percentile in 2047 and the 75% percentile in 2074. WBE before 2030 looks very unlikely and only 10% likely before 2040.
+My main complaint is that Sandberg assumes a functional form for the cost of computing vs. time that requires this cost to soon fall to an absolute floor, below which it will never fall, relative to the funding ever available for a brain emulation project. His resulting distribution has costs approaching this floor by about 2040:
+
+As a result, Sandberg finds a big chance (how big he doesn’t say) that brain emulations will never be possible – for eons to follow it will always be cheaper to compute new mind states via floppy proteins in huge messy bio systems born in wombs, than to compute them via artificial devices made in factories.
+That seems crazy implausible to me. I can see physical limits to physical parameters, and I can see the rate at which computing costs fall slowing down. But having the costs of artificial computing soon stop falling forever is much harder to see, especially with such costs remaining far higher than the costs of natural bio devices that seem pretty far from optimized. And having the amount of money available to fund a project never grow seems to say that economic growth will halt as well.
+Even so, I applaud Sandberg for his efforts so far, and hope that his or others’ successor models will be more economically plausible. It is an important question, worthy of this and more attention.
+
+
+title: Computing Cost Floor Soon?
+
+date: March 22, 2014 11:00 am
+

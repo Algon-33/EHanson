@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Our choices of the areas of life where governments will more regulate or directly provide services are some of our most important policy choices. But while on the surface we hear a great many different arguments on these topics. and awful lot of them seem to come down to this claim:
+Government agencies can do better than private orgs because (A) they are more accountable to citizens via the voting channel, and (B) their employees more prioritize public welfare, due both to selecting nicer people, and to embedding them in a supportive work culture.
+My Caltech Ph.D. in formal political theory prepared me to dispute the (A) part, but I honestly haven’t paid that much attention to the (B) part. Until now. Here is what I’ve just learned from a quick search about how civil servants differ from other workers.
+First, I couldn’t quickly find stats on how govt workers differ from others in age, gender, race, or political orientation. (If someone can find those, I’ll edit this to include those here.) But I did find that they are better educated than other workers, and even controlling for that they are paid more. Furthermore, public sector workers had a median 6.5 years tenure, compared to 3.7 years in the private sector.
+Its not crazy to think that having a relatively secure well-paid job for an employer with a noble mission might incline one toward being a better person who makes job decisions more generously, i.e., more for the public good. But if that were true, what would you predict about their relative rates of workplace absenteeism, fraud, bullying, and violent events at work? You’d predict those to be lower, right?
+Across nations, government workers have 10% to 84% higher work absenteeism rates; 40% for the U.S. Out of 22 industries, govt workers are #2 in work fraud rates. While govt workers are only 15% of U.S. workers, they were reported to have 24.7% and 26% of fraud cases. And while bullying and violent victimizations happen respectively at rates of  3.7% and 0.47% in private jobs, they happen at rates of 5.6% and 0.87% in public jobs.
+This looks pretty damning so far. But what about direct measure of productivity, comparing public and private orgs doing this same task? It seems they do about the same on prisons, and private does better on schools and catching fugitives, In medicine, they do about this same re health and cost, but private seems better on timing and satisfaction. Even private military contractors seem to perform similarly.
+Bottom line: I find little support for the idea that we can trust govt agencies more than private orgs due to their having or inspiring more trustworthy employees.
+
+
+title: A Portrait of Civil Servants
+
+date: August 8, 2022 6:15 pm
+

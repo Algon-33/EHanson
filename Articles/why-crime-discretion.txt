@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Our criminal law system gives discretion to many actors, in effect, pardon criminals, vary their punishment. Police officers and their bosses can choose not to arrest, or to charge with a lower crime, prosecutors and their bosses can choose not to prosecute, to prosecute for a lower crime, or to settle on a lower crime, judges and juries can choose not to convict and to make mild or severe sentences, and governors and presidents can pardon them, and prisons can parole them.
+If you were the victim of a crime, you might be disturbed to see that so many people can in effect pardon the criminal who hurt you. Also, as these parties are paid far less to deal with that criminal than how much that criminal could suffer, you could reasonably be worried about bribes and other forms of bias and corruption. Even if you think there should be some discretion in the system, you might think that should be limited more, such as to only the judge. Why do we have so much discretion in our system?
+To find out, I did this Twitter poll:
+
+If police have discretion on who they arrest for speeding, do you think they will on average use that discretion to arrest those who actually do more net social harm? Do you think that you will tend to be favored by this discretion?
+— Robin Hanson (@robinhanson) May 6, 2019
+
+I also did two other polls, the same except “speeding” was replaced by “trespassing” and “in general”. In all three polls, by a roughly 3-1 ratio respondents thought that discretion would favor them personally. And in all cases, there is a substantial correlation between thinking that correlation benefits you and that it benefits society. However, for speeding, which is the case where they should have the most personal knowledge on the consequences of discretion, they were split evenly, about 1-1, on if discretion helps cut net social harm. And in the other two cases, where they personally know much less, they guessed about 3-2 that discretion cut net social harm.
+To me, the obvious interpretation here is this: the main reason most people favor crime law discretion is that they expect to personally benefit from it. They are willing to presume that it benefits society in areas they don’t know much about, but they admit that it doesn’t in the areas they know best. This seems analogous to people estimating much higher accuracy for media reports in areas they don’t know about, compared to areas in which they’ve seen how media coverage compares to personal knowledge.
+
+
+title: Why Crime Discretion?
+
+date: May 7, 2019 12:00 pm
+

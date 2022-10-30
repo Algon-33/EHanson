@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+The Sleeping Beauty problem:
+Sleeping Beauty goes into an isolated room on Sunday and falls asleep. Monday she awakes, and then sleeps again Monday night. A fair coin is tossed, and if it comes up heads then Monday night Beauty is drugged so that she doesn’t wake again until Wednesday. If the coin comes up tails, then Monday night she is drugged so that she forgets everything that happened Monday – she wakes Tuesday and then sleeps again Tuesday night. When Beauty awakes in the room, she only knows it is either heads and Monday, tails and Monday, or tails and Tuesday. Heads and Tuesday is excluded by assumption. The key question: what probability should Beauty assign to heads when she awakes?
+The literature is split: most answer 1/3, but some answer 1/2 (and a few give other answers). Here an interesting variation:
+Imagine sleeping beauty has a (perhaps computer-based) assistant. Like Beauty, the assistant’s memory of Monday is erased Monday night, but unlike Beauty, she is not kept asleep on Tuesday, even if the coin comes up heads. So when Beauty is awake her assistant is also awake, and has exactly the same information about the coin as does beauty. But the assistant also has the possibility of waking up to see Beauty asleep, in which case the assistant can conclude that it is definitely heads on Tuesday. The key question: should Beauty’s beliefs differ from her assistant’s?
+Since the assistant knows that she might awake to see Beauty asleep, and conclude heads for sure, the fact that the assistant does not see this clearly gives her info. This info should shift her beliefs away from heads, with the assistant’s new belief in heads being less than half. (If she initially assigned an equal chance to waking Monday versus Tuesday, her new belief in heads is one third.) And since when Beauty awakes she seems to have exactly the same info as her assistant, Beauty should also believe less than half.
+I can’t be bothered to carefully read the many papers on the Sleeping Beauty problem to see just how original this variation is. Katja tells me it is a variation on an argument of hers, and I believe her. But I’m struck by a similarity to my argument for common priors based on the imagined beliefs of a “pre-agent” who existed before you, uncertain about your future prior:
+Each agent is asked to consider the information situation of a “pre-agent” who is not sure which agents will get which priors. Each agent can have a different pre-agent, but each agent’s prior should be consistent with his pre-agent’s “pre-prior,” in the sense that the prior equals the pre-prior conditional on the key piece of information that distinguishes them: which agents actually get which priors. The main result is that an agent can only have a different prior if his pre-agent believed the process that produced his prior was special. (more)
+I suggest we generalize these examples to a rationality principle:
+The Assistant Principle: Your actual beliefs should match those of some imaginable rational (perhaps computer-based) assistant who lived before you, who will live after you, who would have existed in many other states than you, and who came to learn all you know when you learned it, but was once highly uncertain.
+That is, there is something wrong with your beliefs if there is no imaginable assistant who would now have exactly your beliefs and info, but who also would have existed before you, knowing less, and has rational beliefs in all related situations. Your beliefs are supposed to be about the world out there, and only indirectly about you via your information. If your beliefs could only make sense for someone who existed when and where you exist, then they don’t actually make sense.
+Added 8a: Several helpful commenters show that my variation is not original – which I consider to be a very good thing. I’m happy to hear that academia has progressed nicely without me! 🙂
+
+
+title: Sleeping Beauty’s Assistant
+
+date: June 23, 2011 4:00 pm
+

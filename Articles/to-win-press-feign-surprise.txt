@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Fossil hunters have found a winning formula for getting media attention: pretend to believe behavior X appeared around the time of the earliest known fossil evidence for X, and then feign surprise when an earlier fossil overturns such estimates.  Consider these five media stories:
+
+Mammals Linked to Earlier Flight  Mammals may have taken to the skies much earlier than previously believed, … a fossil of a … creature that lived in Mongolia about 125 million years ago. It bears evidence [of] a skin membrane … providing enough lift for it to glide through the air. … lived tens of millions of years before the earliest confirmed record of bats taking wing about 51 million years ago.  
+
+  
+
+Scientists Mystified by 2,100-Year-Old Device The wheel was part of a device so sophisticated that its complexity would not be matched for a thousand years — it was also the world’s first known analog computer. … the device overturned conventional ideas that the ancient Greeks were primarily ivory tower thinkers who did not deign to muddy their hands with technical stuff. 
+Discovery of the World’s Earliest Sculpture … found a set of ivory carvings dating back to 30,000 years ago in … southwest Germany.  …  This discovery completely overthrows the traditional idea that art developed gradually from that of the primitive and rough style to the fine, contemporary craftsmanship today. "It seems that the first modern humans in Europe were astonishingly precocious in their skills," says Sinclair.
+Tools unlock secrets of early man  New research shows early humans were living in Britain around 700,000 years ago, substantially earlier than had previously been thought.  … flint tools unearthed in Pakefield, Suffolk, were 200,000 years older than the previous oldest finds.  … One of the team, … said the discovery …  was startling.  "Until recently I certainly would not have believed that there would have been humans this far back," he said. 
+Earliest fire sheds light on hominids   There is already good evidence for hearths that are 250,000 years old, and it was widely believed that the first controlled handling of fire occurred 400,000 to 500,000 years ago.  But an analysis of burned remains … now proves that fire was tamed at least 300,000 years earlier than that. …a breakthrough in terms of understanding the evolution of hominids: the fact that they were using fire so early tells scientists a great deal about their abilities and behaviour at the time.
+
+The public loves to hear a story of academics shocked, just shocked, by new findings.   But there is an obvious bias: we hear lots of stories about data forcing estimates to be earlier, but hardly ever stories about data forcing estimates to be later.  
+Given continued new earliest fossil finds, it is quite unreasonable to estimate that the earliest behavior started about the time of the earliest known fossil.  Either an academic ban on "speculation" creates a bias in academic estimates, or fossil hunters allow misleading media impressions, thereby gaining media attention.  In either case this would be a great application for betting markets on science, to give the public a more accurate consensus.
+Addendum:  I should note that our best estimate for anything should always follow a random walk; any systematic deviation from such a random walk suggests bias.  
+
+
+title: To Win Press, Feign Surprise
+
+date: December 19, 2006 6:00 am
+

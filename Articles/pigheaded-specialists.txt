@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Kumar: “Excuse me, Professor Jones, could you explain why I was rejected for graduate study in your illustrious science program. I’m Vinay Kumar.”
+Jones: “Ah yes, Mr. Kumar. You had excellent grades and test scores, and your teachers testified to your intelligence and work habits. However, you scored poorly on our new `scientist’ personality test – your pigheadedness score was near the bottom. We are sorry, but the NSF’s new rules for promoting progress give us no choice but to reject you.”
+Kumar: “So I’m too pigheaded to be a scientist?”
+Jones: “No, you are not pigheaded enough. You are too likely to objectively evaluate research on its methods, rather than on whether its conclusions match your previous positions. You are too willing to change your mind when evidence changes.”
+Kumar: “But isn’t such objectivity a scientific ideal?”
+Jones: “Well some say so, but the wise know otherwise. If all scientists were like you, they’d agree too much, and all work on the same projects. For robust scientific progress, we need different scientists to work on different projects. And to get that, we need them to pigheadedly draw different conclusions from the same data.”
+Kumar: “But our modern economy is based on a vast specialization of labor. Are you saying that modern economies would be impossible without us all being pigheaded, because otherwise we’d all do the same job? Can’t we just pay people to do different jobs?”
+Jones: “Money might motivate ordinary people to do different jobs, but in the magestarium of science money matters not. Scientists only pick research topics based on scientific beliefs. So to get different research, we need different beliefs.”
+Pretty crazy, right? Behold this oped by Cordelia Fine in Saturday’s New York Times:
+Scientists … rated the paper’s methodology, data presentation and scientific contribution significantly more favorably when the paper happened to offer results consistent with their own theoretical stance. … This is a worry. Doesn’t the ideal of scientific reasoning … shun the ego-driven desire to prevail over our critics … ? Perhaps not. Some academics have recently suggested that a scientist’s pigheadedness and social prejudices can peacefully coexist with — and may even facilitate — the pursuit of scientific knowledge. …
+An irrational tendency like pigheadedness can be quite an asset in an argumentative context. A engages with B and proposes X. B disagrees and counters with Y. Reverse roles, repeat as desired — and what in the old days we might have mistaken for an exercise in stubbornness turns out instead to be a highly efficient “division of cognitive labor” with A specializing in the pros, B in the cons. It’s salvation of a kind: … by way of positive side effect, these heated social interactions, when they occur within a scientific community, can lead to the discovery of the truth. (more; HT Eric Schliesser)
+This idea that humans disagree because disagreement is good for society, by getting people to take different actions, is an old one. I’m rather skeptical about it in general, and especially regarding academic research. Academics are easily motivated by money and other personal perks, and if such payments are insufficient, I see no advantages to a diversity of beliefs that a diversity of values can’t supply. Given enough value diversity, I see no net social gain from folks being unwilling to update based on evidence.
+
+
+title: Pigheaded Specialists
+
+date: August 1, 2011 11:15 am
+

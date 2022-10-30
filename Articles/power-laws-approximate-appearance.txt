@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Feb. 1, we posted our first grabby aliens working paper, and yesterday we just posted our first revision, which is 85% longer:
+If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare
+Robin Hanson, Daniel Martin, Calvin McCarter, Jonathan Paulson
+The hard-steps model of advanced life timing suggests humans have arrived early. Our explanation: “grabby” civilizations (GC), who expand fast and long, and change their volumes’ appearances, set an early deadline. If we might soon become grabby, today is near a sample GC birthdate. Fast GC expansion explains why we do not see them. Each of our three model parameters is estimable from data, allowing detailed GC predictions. If GCs arise from non-grabby civilizations (NGCs), a depressingly low transition chance (~10^-4) seems required to expect even one other NGC ever active in our galaxy.
+After we learned that Jay Olson had previously said many of the things that we said, we went looking for new things to say. One of them is results on the tension between optimism for our future and optimism for SETI. I’ll describe some more additions in posts soon.
+We also fixed some minor errors. And while before we just claimed that a simple power law well approximates the appearance function for advanced life, this time we got around to showing it:
+These graphs show the % error between a more realistic model for the timing of advanced life, and a best approximating power law. That % error is averaged over the actual times when grabby aliens would appear according to that power law, assuming that humans today have a certain rank within that distribution. The error seems quite acceptable, <~10%, for powers of 2 or more.
+
+
+title: Power Laws Approximate Appearance
+
+date: March 26, 2021 12:00 pm
+

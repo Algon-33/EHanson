@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+James Miller, who posted once here at OB, has a new book, Singularity Rising, out Oct 2. I’ve read an advance copy. Here are my various reactions to the book.
+Miller discusses several possible paths to super-intelligence, but never says which paths he thinks likely, nor when any might happen. However, he is confident that one will happen eventually, he calls Kurzweil’s 2045 forecast “robust”, and he offers readers personal advice as if something will happen in their lifetimes.
+I get a lot of coverage in chapter 13, which discusses whole brain emulations. (And Katja is mentioned on pp.213-214.) While Miller focuses mostly on what emulations imply for humans, he does note that many ems could die from poverty or obsolescence. He make no overall judgement on the scenario, however, other than to once use the word “dystopian.”
+While Miller’s discussion of emulations is entirely of the scenario of a large economy containing many emulations, his discussion of non-emulation AI is entirely of the scenario of a single “ultra AI”. He never considers a single ultra emulation, nor an economy of many AIs. Nor does he explain these choices.
+On ultra AIs, Miller considers only an “intelligence explosion” scenario where a human level AI turns itself into an ultra AI “in a period of weeks, days, or even hours.” His arguments for this extremely short timescale are:
+
+Self-reproducing nanotech factories might double every hour,
+On a scale of all possible minds, a chimp isn’t far from von Neuman in intelligence, and
+Evolution has trouble coordinating changes, but an AI could use brain materials and structures that evolution couldn’t.
+
+I’ve said before that I don’t see how these imply a weeks timescale for one human level AI to make itself more powerful than the entire rest of the world put together. Miller explains my skepticism:
+As Hanson told me, the implausibility of some James Bond villains illustrates a reason to be skeptical of an intelligence explosion. A few of these villains had their own private islands on which they created new powerful weapons. But weapons development is a time and resource intensive task, making it extremely unlikely that the villains small team of followers could out-innovate all of the weapons developers in the rest of the world by producing spectacularly destructive instruments that no other military force possessed. Thinking that a few henchmen, even if led by an evil genius, would do a better job at weapons development than a major defense contractor is as silly as believing that the professor on Gilligan’s Island really could have created his own coconut based technology. …
+Think of an innovation race between a single AI and the entirety of mankind. For an intelligence explosion to occur, the AI has to not only win the race, but finish before humanity completes its next stride. A sufficiently smart AI could certainly do this, but an AI only a bit brighter than von Neumann would not have the slightest chance of achieving this margin of victory. (pp.215-216)
+As you can tell from this quotation, Miller’s book often reads like the economics textbook he wrote. He is usually content to be a tutor, explaining common positions and intuitions behind common arguments. He does, however, explain some of his personal contributions to this field, such as his argument that preventing the destruction of the world can be a public good undersupplied by private firms, and that development might slow down just before an anticipated explosion, if investors think non-investors will gain or lose just as much as investors from the change.
+I’m not sure this book has much of a chance to get very popular. The competition is fierce, Miller isn’t already famous, and while his writing quality is good, it isn’t at the popular blockbuster popular book level. But I wish his book all the success it can muster.
+
+
+title: Miller’s 
+
+date: September 29, 2012 5:15 pm
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+I recently explained why The Future Seems Shiny:
+Since we expect far away things to have less detail, we tend to imagine them with fewer parts and flourishes, and less detailed textures and patterns. The future is not paisley. And in fact, if you Goggle “futuristic style” images, you’ll tend to see images like those in this post – simple, smooth, cool, blue, and sky/spacy.  In a word, “shiny.”
+Virginia Postrel elaborates on how this distorts policy:
+When Robert J. Samuelson … [argued] that high-speed rail is “a perfect example of wasteful spending masquerading as a respectable social cause,” he … [calculated] that even the rosiest scenarios wouldn’t justify the investment. He made a good, rational case—only to have it completely undermined by the evocative photograph … to accompany the article.
+The picture showed a sleek train bursting through blurred lines of track and scenery, the embodiment of elegant, effortless speed. … It was beautiful, manipulative and deeply glamorous.  The same is true of photos of wind turbines adorning ads. … These graceful forms have succeeded the rocket ships and atomic symbols of the 1950s to become the new icons of the technological future. …
+Glamour always contains an element of illusion. … It offers an escape from the compromises, flaws and distractions of real life. It shows no bills on the kitchen counter, no blisters under the high heels, no pimples on the movie star’s face.  In those glamour shots, wind power seems clean, free and infinitely abundant. Turbines spin silently … The sky is unfailingly photogenic, … The landscape is both empty and beautiful. … The image of a speeding train, meanwhile, invites you to imagine taking it when and where you want, with no waiting, no crowds and no expensive tickets … no visible source of fuel. …
+For at least some technophiles, in fact, the trains and windmills are goods in and of themselves, with climate change providing a reason to force the development and adoption of cool new machines that wouldn’t otherwise catch on. … The problems come, of course, in the things glamour omits, including all those annoyingly practical concerns the policy wonks insist on debating.
+It seems that [at least one key kind of] glamour is far. Glamour presents a simplified idealized image, which appeals most when thinking about the glamorous object from a distance.  Such images tend to be targeted at observers who are socially far, and often physically far.
+
+
+title: Postrel on Shiny Futures
+
+date: November 22, 2010 5:00 pm
+

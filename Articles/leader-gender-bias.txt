@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+
+In an experiment on gender perceptions, psychologists Cameron Anderson and Francis Flynn gave one group of MBA students the original Heidi Roizen case for later in-class discussion, while the other half received a copy that was identical in every way, except that "Heidi" became "Howard."  In a study currently under review, Anderson and Flynn report that while both Howard and Heidi were rated as equally competent (they were the same person, after all), students described the female version of the character as overly aggressive, and were much less likely to want to work with or hire her.
+
+That was from Slate.  Here is the New York Times:  
+  
+
+In 2006, Catalyst looked at stereotypes across cultures … and found that while the view of an ideal leader varied from place to place – in some regions the ideal leader was a team builder, in others the most valued skill was problem-solving. But whatever was most valued, women were seen as lacking it.  Respondents in the United States and England, for instance, listed "inspiring others" as a most important leadership quality, and then rated women as less adept at this than men. In Nordic countries, women were seen as perfectly inspirational, but it was "delegating" that was of higher value there, and women were not seen as good delegators. ….
+ Study participants were shown videos of a job interview, after which they were asked to rate the applicant and choose their salary. The videos were identical but for two variables – in some the applicants were male and others female, and the applicant expressed either anger or sadness about having lost an account after a colleague arrived late to an important meeting.  The participants were most impressed with the angry man, followed by the sad woman, then the sad man, and finally, at the bottom of the list, the angry woman. 
+
+I expect gender biases are only a tip of our iceberg of biases on who are good leaders.  It seems we use leaders less for making good decisions, and more for inspiring, motivating, and comforting.   As they say:
+
+To be a leader, find a parade and get out in front. 
+
+ Decision markets (such as fire-the-CEO markets) can help overcome biases about which leaders make good decisions.  But they can’t help as much with biases in who people let themselves be inspired or motivated by.  Anyone have a better idea?  
+
+
+title: Leader Gender Bias
+
+date: November 30, 2007 6:00 am
+

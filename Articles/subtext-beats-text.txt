@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+We typically pay more attention to subtext than to text. For example, when we hear someone answer a question, we usually won’t notice if they actually answer a somewhat different question than the one that was asked. Oh we can tell the difference, if we pay attention, but we are usually too busy considering social subtext:
+What happens when speakers try to “dodge” a question they would rather not answer by answering a different question? In 4 studies, we show that listeners can fail to detect dodges when speakers answer similar—but objectively incorrect—questions (the “artful dodge”), a detection failure that goes hand-in-hand with a failure to rate dodgers more negatively. We propose that dodges go undetected because listeners’ attention is not usually directed toward a goal of dodge detection (i.e., Is this person answering the question?) but rather toward a goal of social evaluation (i.e., Do I like this person?). Listeners were not blind to all dodge attempts, however. Dodge detection increased when listeners’ attention was diverted from social goals [or if listeners were given no goal] toward determining the relevance of the speaker’s answers, when speakers answered a question egregiously dissimilar to the one asked, and when listeners’ attention. … When listeners were guided to detect dodges, they rated speakers more negatively, and listeners rated speakers who answered a similar question in a fluent manner more positively than speakers who answered the actual question but disfluently. (more)
+This raises the question: why is modest question-evasion so often tolerated in TV and radio interviews? Three possibilities:
+
+Interviewers are usually too stupid to notice modest evasions.
+Interviewees would refuse to appear on shows that highlighted evasions.
+Viewers would avoid shows where interviewee evasions were highlighted.
+
+I lean toward #3 — viewers may watch such shows to affiliate with high status interviewees, but such affiliations seem weaker if interviewee evasions are challenged. Reporters seem plenty smart and attentive enough to notice the evasions, and interviewees seem eager enough to be interviewed. Viewers are the picky party.
+
+
+title: Subtext Beats Text
+
+date: June 2, 2011 11:25 pm
+

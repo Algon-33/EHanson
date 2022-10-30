@@ -1,0 +1,40 @@
+author: Robin Hanson
+
+text: 
+Hal Finney made 33 posts here on Overcoming Bias from ’06 to ’08. I’d known Hal long before that, starting on the Extropians mailing list in the early ‘90s, where Hal was one of the sharpest contributors. We’ve met in person, and Hal has given me thoughtful comments on some of my papers (including on this, this, & this). So I was surprised to learn from this article (key quotes below) that Hal is a plausible candidate for being (or being part of) the secretive Bitcoin founder, “Satoshi Nakamoto”.
+Arguments for this conspiracy theory:
+
+Hal lives a few miles from the guy Newsweek recently claimed was Nakamoto, and who admitted to being involved somehow.
+Bitcoin is very carefully thought out and implemented, and Hal is one of the top few people in the open crypto world who have demonstrated this capacity. For example, Hal did most of the work behind PGP 2.0, perhaps the most successful open crypto predecessor to Bitcoin.
+Hal is on record as the first guy besides Nakamoto to use Bitcoin software, he got the first coin transfer from Nakamoto, and he made some key software improvements.
+Hal’s writing style is much closer to Nakamoto’s than anyone else who the many reporters digging into this have suspected of being Nakamoto.
+
+The arguments against this conspiracy theory:
+
+In a world has seven billion people, the prior on Hal being Nakamoto has be rather low.
+Hal says he isn’t Nakamoto, and seems sincere.
+Hal says Nakamoto understands C++ better than he does.
+Hal’s son showed a reporter some gmails between Hal and Nakamoto. The reporter says:
+
+The notion that Finney alone might have set up the two accounts and created a fake conversation with himself to throw off snoops like me, long before Bitcoin had any measurable value, seemed preposterous.
+That last point seems pretty weak. We already know that the Bitcoin founder wants to be hidden. If Hal really created Bitcoin, he is plenty smart enough to think that Bitcoin might succeed, and to think of and implement the idea of creating fake conversations to cover his tracks. In this case Hal would also plausibly lie about his C++ skills, or maybe he got C++ help from someone else. In any case the probability of seeing those things conditional on Hal actually being Nakamoto seem pretty high.
+It seems to me that the question comes down to your prior expectation on whether the person who did such a careful expert job on something so hard would be one of the few people in the field most known to be capable of and to have actually done such things, or whether it would be a new largely unknown person. And thinking about it that way I have to put a pretty large weight on it being someone known. And conditional on that it is hard for me not to think that yeah, there’s at least a 15% chance Hal was more involved than he’s said. And if so, my hat’s way off to you Hal!
+But I also figure I’m not paying nearly as close attention to this bitcoin stuff as many others. Google doesn’t find me any other discussion of the Hal as Nakamoto theory, but surely if I wait a few weeks others who know more will weigh in, right? And since I can’t think of any actions of mine that depend on this issue, waiting is what I’ll do. Your move, internet.
+Added 8a 26Mar: In the comments, Gwern points to further reasonable indicators against the Hal as Nakamoto theory.  I accept his judgement.
+Those promised quotes:
+March 6th, the day that Newsweek released its bombshell cover story on the man who it claimed had invented Bitcoin: Dorian Prentice Satoshi Nakamoto, a 64-year old ex-engineer and programmer living in the small exurb of Los Angeles known as Temple City. Nakamoto had even seemed to give Newsweek a tacit confirmation of its theory when he told the magazine’s reporter that he was “no longer involved in that,” a quote confirmed in essence by local police who witnessed the interaction. …
+Just hours after Newsweek‘s story hit the Web, I received an email from an old cryptography community acquaintance of Finney’s, … [who] pointed out that Hal Finney had lived for almost a decade in Temple City, the same 36,000 person town where Newsweek found Dorian Nakamoto. Finney had lived only a few blocks away from Nakamoto’s family home. …
+I collected a 20,000 character sample of Finney’s writing from various forums and mailing lists and sent it to Juola & Associates for analysis…. I received the results from the writing analysis from Juola & Associates. The firm, its chief scientist John Noecker explained in a phone call, had previously tried analyzing candidates for Satoshi Nakamoto named by older investigations performed by the New Yorker, Fast Company, and various Bitcoin enthusiasts. None of the results had been promising enough to publish, according to Noecker. …
+Finney contacted Zimmermann and became one of his earliest collaborators. He worked almost a full-time job’s worth of hours developing PGP 2.0, widely considered to be the first truly secure version of the program, and pioneered its “web of trust” model of key-signing, … Though Finney told me that he worked closely with Zimmermann to code “the bulk of the changes” from PGP 1.0 to PGP 2.0, he’s rarely been fully credited for that work. As PGP’s usage spread, Finney was also the first to integrate the encryption software into “remailers”–free services that acted as proxy servers for email, bouncing messages among third parties so that they couldn’t be traced to their source. …
+Finney is known to be the second-ever user of Bitcoin after Satoshi Nakamoto himself. He had been one of the first supporters of the idea when Nakamoto floated it on a cryptography mail list, and even received the first Bitcoin test transaction from Nakamoto in early 2009. … Finney downloaded the early Bitcoin code and began running it on an IBM Windows desktop tower machine. He’s widely believed to be the first person other than Nakamoto himself to do so. He kept it running for weeks–just how long, he declined to tell me. With no competition, he was able to mine as much as a hundred coins a day using only his old PC’s off-the-shelf CPU. … His doctor diagnosed him with ALS in August of 2009. …
+As Finney’s muscle control declined over the next years, he continued to write code for Bitcoin. At one point he wrote up an improvement to its elliptic-curve cryptography that would speed up its transactions by as much as 20%. Even after he lost the ability to type with both hands, and then to type at all, he continued to use eye-tracking software to write code, including a program called bcflick aimed at better securing Bitcoin wallets. …
+Then Jason Finney brought me over to a computer to show me what he’d prepared: It was Finney’s Gmail account, opened to a January 2009 conversation between Finney and someone named Satoshi Nakamoto—clearly, the Satoshi Nakamoto. They had exchanged about fifteen emails, in which Finney described bugs he’d found in the early Bitcoin code and Nakamoto responded with fixes and notes of thanks.
+The Nakamoto on the other end of the conversation wrote in fluent, colloquial English, not at all like Dorian Nakamoto. (I would later forward the emails to the same linguistics analysis firm who had earlier analyzed Nakamoto’s writings, Juola & Associates, and they confirmed that the new emails matched the style of the Bitcoin whitepaper more closely than Finney’s writing, and far more closely than Dorian Nakamoto’s.)
+Jason Finney also let me see the transaction record for his father’s Bitcoin wallet from 2009, which clearly showed that Finney had received Nakamoto’s ten-bitcoin test transaction on January 11th, 2009. The wallet evidence, along with the Gmail timestamps, would have been very difficult to forge. And the notion that Finney alone might have set up the two accounts and created a fake conversation with himself to throw off snoops like me, long before Bitcoin had any measurable value, seemed preposterous. (more)
+Added 28Aug2014: Hal Finney was cryogenically frozen today.
+
+
+title: Conspiracy Theory, Up Close & Personal
+
+date: March 25, 2014 8:35 pm
+

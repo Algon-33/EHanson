@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+In Jan ’09 I wrote:
+This is now my best account of disagreement.  We disagree because we explain our own conclusions via detailed context (e.g., arguments, analysis, and evidence), and others’ conclusions via coarse stable traits (e.g., demographics, interests, biases).  While we know abstractly that we also have stable relevant traits, and they have detailed context, we simply assume we have taken that into account, when we have in fact done no such thing.
+New data suggests a different view:
+The results of 4 studies suggest that when individuals mentally construe an attitude object concretely, either because it is psychologically close or because they have been led to adopt a concrete mindset, their evaluations flexibly incorporate the views of an incidental stranger. However, when individuals think about the same issue more abstractly, their evaluations are less susceptible to incidental social influence and instead reflect their previously reported ideological values. …
+The results of these four studies appear quite robust: They held for a variety of political and social attitude objects (including general issues and specific policies related to four different and important topics: organ donation, euthanasia, illegal immigration, and universal health care), and they emerged across different types of evaluative responding (overall attitudes, voting intentions, and elaboration positivity) as well as different manipulations (temporal distance and two direct manipulations of construal level). …
+Whereas local evaluations serve to guide responding in the here and now by flexibly incorporating incidental contextual details, global evaluations can help to guide action at a distance by consistently reflecting a person’s core values and ideals, which are likely to be shared within important relationships or groups. (more)
+Here’s my tentative reading of this.  We pay more attention to messy detail in near far, relative to far view. On any given topic, we see our core values and explicit reasons as big important central influences on our opinions, whereas we see the opinions of others more as incidental detail.  So we think we should listen to random other people more on small detail topics, and less on big important topics.
+Random others are little people, you see, which are fit for little topics.  But they are just not big and important enough to influence us on big important topics; only big important things should do that. Like big explicit reasons. This makes us tend to disagree greatly with most others on what we see as big topics, though much less on millions of small detail topics, like “there’s another tree.”
+Perhaps it makes sense to keep random others from influencing our core values (which are about us), but on questions of fact (which are about the world out there), most folks seem to make the huge mistake of vastly underestimating the info contained of others’ opinions, relative to the info contained in their own explicit reasons. Yes there may be people and times when others’ opinions really do contain relatively little info, but most folks are far too quick to assume that this applies to them now.
+
+
+title: Others’ Views Are Detail
+
+date: July 29, 2010 7:20 pm
+

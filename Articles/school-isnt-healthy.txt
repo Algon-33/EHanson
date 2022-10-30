@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+The schooled are healthier, but school doesn’t make folks healthy:
+There is a strong, positive and well-documented correlation between education and health outcomes. … [We study] two changes to British compulsory schooling laws that generated sharp differences in educational attainment among individuals born just months apart. … The cohorts just affected by these changes completed significantly more education than slightly older cohorts subject to the old laws.  However, we find little evidence that this additional education improved health outcomes or changed health behaviors. (more)
+The latest AER has two empirical papers (here, here) purporting to show that school does cause health. They use fancier, but in my opinion less reliable techniques.
+
+
+title: School Isn’t Healthy
+
+date: May 29, 2010 12:00 pm
+

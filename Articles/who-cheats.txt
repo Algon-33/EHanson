@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Many folks just love to hear that, among heterosexual men, it is homophobic men who are most aroused by gay male porn. “They are just trying to deny their feelings,” they might say. I’ll bet such folks will similarly love to hear that men who feel more sexual performance anxiety tend to cheat more on their spouses. “For women its about feeling connected, but for men its all about  ego,” they might also say. The Post:
+For women, they found low relationship satisfaction was often tied to infidelity. Women who were unhappy in their relationships were 2.6 times more likely to cheat than women who were satisfied. And women who reported being incompatible with their partner in terms of sexual values and attitudes were 2.9 times more likely to have an affair.
+One of the findings that surprised Milhausen most was that men who reported higher rates of sexual inhibition because of performance anxiety were more likely to cheat. “If you have sex with someone outside of your relationship, you’ll never have to see them again,” she says. “You won’t have those problems with wounded pride or ego.” …
+Men and women who were less concerned about the consequences of their sexual behavior were more likely to cheat, as were people who could be easily aroused. … Her take-away from the report is that people who want to avoid affairs should be as honest as possible about their needs.
+Now if you look at the actual study, you’ll find some discrepancies with this summary.  Not only won’t you find any support for this last claim about honesty, you’ll also find that easy sexual arousal does not predict cheating in women, and that sexual performance anxiety has exactly the same effect on women as on men. Interesting that the female reporter (Ellen McCarthy) left that last bit out.
+Even more interesting, you’ll find that, after controlling for other factors, none of the following significantly predicts who cheats: age, importance of religion, being married, sexual satisfaction in the relationship, and compatibility on the importance or frequency of sex. When they don’t control for other factors, older, less religious, and fully employed folks cheat more.
+So to sum up, both men and women cheat more when they are less afraid of getting caught, when they tend to do things they later regret, and when performance anxiety tends to inhibit them in sex. For men another cheating predictor is easy sexual arousal, while for women added predictors are overall relationship unhappiness and feeling incompatible on ‘‘attitudes towards (or values and ideas) about sex” (which, after controlling for compatibility on sex frequency and importance, sounds to me like another proxy for relationship unhappiness).
+Some previous results on cheating:
+Extraversion, neuroticism, and openness to experience were positively correlated with short-term mating, while agreeableness and conscientiousness were negatively correlated with short-term mating. … A high self-monitor … easily changes with the situation. … [and] tend[s] to not establish committed relationships. (more)
+He found less cheating on religious people, on older and less agreeable men, and on conscientious and closed-to-experience women. (more)
+Men are more likely to be unfaithful if their fathers had been. (more)
+The lifetime rate of infidelity for men over 60 increased to 28 percent in 2006, up from 20 percent in 1991. For women over 60, the increase is more striking: to 15 percent, up from 5 percent in 1991. (more)
+The more extramarital flings a couple enjoys, the more likely they are to remain together and the happier they will be. … Subjects who had flings with local townsfolk did not enjoy the marital benefits that were realized by those who had flings with people who lived far away. (more)
+Study 1 (N = 375) showed that prayer for the partner predicted lower levels of extradyadic romantic behavior over a 6-week period, over and beyond relationship satisfaction, and initial levels of extradyadic romantic behavior. In Study 2 (N = 83), we used an experimental design to show that participants assigned to pray for each day for 4 weeks engaged in lower levels of extradyadic romantic behavior. (more)
+Men who are completely economically dependent on their female partners are five times more likely to cheat than men in relationships with women who earned similar amounts. (more)
+Some details from the new study.  Abstract:
+506 men and 412 women … indicated they were in a monogamous sexual relationship. … Almost one-quarter of men (23.2%) and 19.2% of women indicated that they had “cheated” during their current relationship. Among men, a logistic regression analysis, explaining 17% of the variance, revealed that a higher propensity of sexual excitation (SES) and sexual inhibition due to “the threat of performance concerns” (SIS1), a lower propensity for sexual inhibition due to “the threat of performance consequences” [e.g., getting caught] (SIS2), and an increased tendency to engage in regretful sexual behavior during negative affective states were all significant predictors of infidelity [= MSQ regret]. In women, a similar regression analysis explained 21% of the variance in engaging in infidelity. In addition to SIS1 and SIS2, for which the same patterns were found as for men, low relationship happiness and low compatibility in terms of sexual attitudes and values were predictive of infidelity.
+Key regressions:
+
+
+
+
+title: Who Cheats
+
+date: September 3, 2011 4:40 pm
+

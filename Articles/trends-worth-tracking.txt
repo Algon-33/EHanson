@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Given our usual way of doing economic analysis, the  question of which institutions will most increase economic welfare rarely depends much on the exact values of the sorts of parameters social scientists and the media track with such enthusiasm and concern. (more)
+I’ve complained before about useless trend tracking, but I don’t mean to suggest that all trends are uninteresting. Some trends tell us about how well our institutions are functioning. For example:
+Accounting statements are getting less and less representative of what’s really going on inside of companies. … The finance industry showed a huge surge in the deviation … from 1981-82, coincident with two major deregulatory acts that sparked the beginnings of that other big mortgage debacle, the Savings and Loan Crisis.  The deviation … reached a peak in 1988 and then decreased starting in 1993 at the tail end of the S&L fraud wave, not matching its 1988 level until … 2008.
+Neither manufacturing nor IT showed the huge increase and decline of the deviation … that finance experienced in the 1980s and early 1990s, further validating the measure since neither industry experienced major fraud scandals during that period.  The deviation for IT streaked up between 1998-2002 exactly during the dotcom bubble. (more; HT Tyler, Thoma)
+Now that’s a trend to make me stand up and take notice! Similar parameters where I’d want to watch trends:
+
+Marriage cheating and cuckoldry
+Biased scientific papers, referee agreement
+Wrongful convictions, faked evidence
+Biased rulings by sports referees
+
+These sort of trends track the health of specific institutions. When such an institution starts failing, we should be especially eager to reform it, using economic theory to suggest which reforms might be most effective.
+
+
+title: Trends Worth Tracking
+
+date: October 12, 2011 11:30 am
+

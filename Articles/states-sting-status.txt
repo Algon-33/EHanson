@@ -1,0 +1,40 @@
+author: Robin Hanson
+
+text: 
+We usually take control as a strong marker of status; those who give orders have higher status than those who take orders.  So, for example, bosses are reluctant to oversee better paid subordinates, and teens chafe under the control of their parents and teachers, even when their lives are otherwise comfortable.
+People care about the form of government they live under not only because different forms of government have different chances of leading to peace, prosperity, etc.  People also care about how governments more directly influences their status.  For example, in addition to or setting aside our beliefs about which forms of government lead to which other outcomes, I suspect most of us prefer:
+democracy to autarchy, as it gives us more illusion of control.
+proportional representation, as gives more control over the person we pick
+equal votes per person, as otherwise others have more votes than you
+the state to be controlled by a group we identify with, so we seem in control
+stigma be attached to welfare given to groups we don’t identify with
+more regulation of competing high status, to bring them down to us
+more support of affiliated high status, to bring us up with as they rise
+laws not treat us like children or fools, as that degrades us
+I suspect such status issues drive our actual choice of government forms more often than we like to admit.
+Thinking along these lines, I was wondering about the status effects of something like futarchy — what if every time the government considered a policy, you had the option to bet for or against that policy, and such bets influenced policy?
+Yes, you might still have to suffer the status-reducing indignity of being ruled by foolish policies chosen by clueless folks who in a just world would be considered your inferiors.  But you would always know that you had the option to have a large influence, via bets, on those policies, an influence far out of proportion to your fraction of the population.  You would also know that you could, via bets, arrange to be paid lots of money when those policies went badly, just as you had predicted.  Would this raise your status, relative to only influencing policy via your tiny fractional vote, and then just having to live with the consequences?
+Setting aside whether this betting system would actually choose good policies producing peace, prosperity, etc., the question I’m asking in this post is if this betting system might substantially shrink the status sting of the state.  Yes this would not fully assuage a libertarian’s outrage at being subject to policies he did not (recently) choose, but would it be a substantial step in that direction?
+We usually see control as a marker of status; those who give orders have higher status than those who take orders.  So, for example, bosses are reluctant to oversee better-paid subordinates, and teens chafe under the control of parents and teachers, even when their lives are otherwise comfortable.  People also hate or love their governments in part because how it makes them feel controlled by others, or in control of others.
+More generally, people care about the governments they live under not only because different types of government have different chances of leading to peace, prosperity, etc. People also care about how governments more directly influence their status. For example, in addition to wanting governments that induce other outcomes like peace or prosperity, I suspect most of us prefer:
+
+governments with forms like those of recent high status regimes,
+to be part of large rich powerful empires, since those are high status,
+democracy over autarchy, as it gives us more illusion of control,
+proportional representation, as we then more control who represents us,
+equal votes per person, as otherwise others have more votes than us,
+states controlled by groups we identify with, so we seem in control,
+stigma attached to assistance given groups we don’t identify with,
+more regulation of competing high status folks, to bring them down to us,
+more support of affiliated high status folks, to lift us as they rise, and
+laws that treat them but not us like children, as that degrades folks.
+
+Such status issues may drive our choice of government forms more often than we like to admit.  So when trying to design good government, we need to take such status affects into account, so that our designs can be attractive and stable.  Thinking along these lines, I was wondering about the status effects of something like futarchy — what if every time the government considered a policy, you had the option to bet for or against that policy, and such bets influenced policy?
+Yes, you might still have to suffer the status-reducing indignity of being ruled by foolish policies chosen by dimwits who in a just world would be considered your inferiors. But you would always know that, via bets, you had the option of a large influence on those policies, far out of proportion to your fraction of the population.  You would also know that you could, via bets, arrange to be paid lots when those policies went badly, just as you had predicted.  Would this raise your status, relative to only influencing policy via your tiny fractional vote, and then just having to live with the consequences?
+Setting aside whether this betting system would actually choose good policies producing peace, prosperity, etc., the question I’m asking in this post is if this betting system might substantially shrink the status sting of the state.  Yes this would not fully assuage a libertarian’s outrage at being subject to policies he did not (recently) choose, but would it be a substantial step in that direction?
+
+
+title: States Sting Status
+
+date: January 13, 2010 9:45 am
+

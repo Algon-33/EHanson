@@ -1,0 +1,14 @@
+author: Nick Bostrom
+
+text: 
+Perhaps we need a new field of "cognitive forensics" for analyzing and investigating motivated scientific error, bias, and intellectual misconduct. The goal would be to develop a comprehensive toolkit of diagnostic indicators and statistical checks that could be used to detect acts of irrationality and to make it easier to apprehend the culprits. (Robin’s recent post gives an example of one study that could be done.) Another goal would be to create a specialization, a community of scholars who had expertise in this subfield, who could apply it to various sciences, and who could train students taking advanced methodology classes.
+Of what components would cognitive forensics be built? I’d think it would have a big chunk of applied statistics, but also contributions from cognitive and social psychology, epistemology, history and philosophy of science, sociology of science, maybe some economics, data mining, network analysis, etc.
+Compared to this blog, the field could have somewhat narrower scope, focusing primarily on empirical scientific research rather than on rationality in general. It might also focus primarily on statistical tests rather than on wider issues such as institution design (although ideas for institutional reform might emerge as a side product). It might be driven more by statistical analysis of particular data sets than by big theories of common human cognitive biases (although the latter would serve as a source of inspiration for hypotheses to test).
+The time might be ripe for this sort of endeavor. I have the impression that scattered articles on the problems of peer review and on possible statistical biases in scientific research (e.g. by funding source, file drawer effect etc.) are now appearing fairly regularly in Science and Nature.
+Three questions I have are: (1) to what extent would it make sense to study *motivated* scientific error semi-separately (as a sub-discipline) rather than as part of the course of statistics and scientific methodology in general? (2) to what extent does such a sub-discipline already exist today? (3) if there is a need for a new sub-discipline, should it be as envisaged here or should it be constructed in a different way? 
+
+
+title: Needed: Cognitive forensics?
+
+date: February 6, 2007 12:30 pm
+

@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+In the May ‘014 American Economic Review, Fernald & Jones mention that having computers and robots replace human labor can dramatically increase growth rates:
+Even more speculatively, artificial intelligence and machine learning could allow computers and robots to increasingly replace labor in the production function for goods. Brynjolfsson and McAfee (2012) discuss this possibility. In standard growth models, it is quite easy to show that this can lead to a rising capital share—which we intriguingly already see in many countries since around 1980 (Karabarbounis and Neiman 2013)—and to rising growth rates. In the limit, if capital can replace labor entirely, growth rates could explode, with incomes becoming infinite in finite time.
+For example, drawing on Zeira (1998), assume the production function is
+
+Suppose that over time, it becomes possible to replace more and more of the labor tasks with capital. In this case, the capital share will rise, and since the growth rate of income per person is 1/(1 − capital share ) × growth rate of A, the long-run growth rate will rise as well.6 …
+
+Of course the idea isn’t new; but apparently it is now more respectable.
+
+
+title: Robot Econ in AER
+
+date: May 18, 2014 3:00 pm
+

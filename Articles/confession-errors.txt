@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Today’s Post suggests we rely too heavily on legal confessions:  
+
+ In one experiment, Kassin asked volunteers to perform a challenging task on a computer but warned them not to touch the "Alt" key or risk damaging a computer. Volunteers were told that the computer had been damaged and were asked whether they hit the banned key. In reality, the volunteer did nothing wrong. Most volunteers denied it, but as the initial task they were given was made difficult, they became less sure because they were distracted. When researchers had confederates lie about having seen the volunteers hit the Alt key, the number of people who confessed went up to 100 percent. Every stage of increased pressure led ever larger numbers of volunteers to believe they were really guilty. 
+
+
+
+title: Confession Errors
+
+date: October 1, 2007 1:00 pm
+

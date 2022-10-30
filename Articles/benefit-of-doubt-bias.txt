@@ -1,0 +1,35 @@
+author: Robin Hanson
+
+text: 
+One dictionary defines "to give the benefit of the doubt" as
+
+ To believe something good about someone, rather than something bad, when you have the possibility of doing either.
+
+ That is, assume the best.  This may be better than assuming the worst, but honesty requires you to instead remain uncertain, assigning chances according to your evidence.   Does this mean we should stereotype people?  After all, M Lafferty commented:  
+
+To make assumptions about an individual based on a stereotype is wrong, even if the stereotypical view is broadly accurate. 
+
+ To the contrary, I say honesty demands we stereotype people, instead of giving them "the benefit of the doubt."  Bryan Caplan has emphasized to me that most stereotypes are on average accurate: 
+
+Obviously, every stereotype has exceptions; stereotypes are useful because they are better than nothing, not because they are infallible.
+
+  
+For more, see John Ray’s, "Do We Stereotype Stereotyping?"   I suspect people justify the usual dictum against stereotypes as countering a human tendency to assume the worst about outsiders.  But until I see evidence of this, I’ll classify this as a seen bias justified by an unseen one. 
+ Consider Perry Metzger’s recent comment:
+
+What you are saying, essentially, is that after seeing that a number of estimates of some constant do not fall within each other’s error bars, physicists should then increase the size of the error bars. I don’t think that is reasonable.  Not all methods of measurement are identical, and different groups use different instruments, so the systematic errors made by different groups are different. That means that it is not necessarily the case that all groups are underestimating their errors — in fact, it is most likely that only some of them are underestimating error. 
+
+Yes, a set that is biased overall may be include subsets which are less biased.  And by adjusting to correct for the overall bias we may increase the error in the less-biased subset.  Nevertheless, unless we can distinguish the subsets that are more vs. less biased, we must accept this outcome 
+ The general principle is:  you need a better than average reason to think something is better than average.   A physicist might say "I don’t need to adjust as much because I’m measuring voltage, where systematic bias is less a problem," or "I’m from Harvard, where we are more careful."  But he needs to actually have evidence that there is less bias with voltage or at Harvard; no fair just giving himself "the benefit of the doubt."  
+Furthermore, since our minds are good at selectively attending to factors favoring us, we must realize that others’ minds will attend to other factors, such as their years of experience or their IQ.   To decide if you are less biased than average, you must consider the sorts of reasons that will occur to others, and ask if your reasons are better than those.  Furthermore, if you are better in general at coming up with reasons for things, you must count that against yourself.  
+ Finally, consider Eliezer Yudkowsky’s complaint about modesty: 
+
+How can you know which of you is the honest truthseeker, and which the stubborn self-deceiver?  The creationist believes that he is the sane one and you are the fool.  Doesn’t this make the situation symmetric around the two of you?  … "But I know perfectly well who the fool is.  It’s the other guy.  It doesn’t matter that he says the same thing – he’s still the fool."  This reply sounds bald and unconvincing when you consider it abstractly.  But if you actually face a creationist, then it certainly feels like the correct answer. … Those who dream do not know they dream; but when you wake you know you are awake.   
+
+The key question is: what concrete evidence can you cite that you are more sane than a creationist, or more awake than a dreamer?   Perhaps you know more biology than a creationist, and you are more articulate than a dreamer.  But the mere feeling that you are right does not justify giving yourself "the benefit of the doubt."   
+
+
+title: Benefit of Doubt = Bias
+
+date: December 29, 2006 6:00 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+It is a simple point: mechanisms give outputs from inputs.  With more inputs, we expect more outputs.  So when comparing mechanisms, correct for input variation.  
+ For example, over $100 million was spent trying to win the $10 million Ansari prize, as competitors also wanted credibility in the near-Earth space market.  So now the Google moon X-Prize offers $30 million, seemingly far too little for such an effort, as there is no moon market to win.  I worry that when the prize is not won, people will take this as a failure of the prize mechanism, rather than as a failure of the prize amount offered.
+ Also, every week I see another startup whose business model is to sell info from play money "competitive forecasting" (like prediction markets).  (E.g., see yesterday’s New York Times article where I’m quoted).  Professionals who would otherwise charge for their insight will supposedly instead tell all for the "community" of a few token prizes, chat rooms, comment sections, leader boards, and social networking.  "Crowd-sourcing" software experts have assured them this, and a marketing budget, is all it takes to make a volunteer community they can sell.  (Curiously, these software experts have not suggested replacing themselves with free open source volunteers.)
+I worry that when these businesses fail, people will take this as a failure of mechanisms like prediction markets, rather than as a failure to get people to work for free.  Prizes are a promising way to induce research or development, and prediction markets are a promising way to gain information, even when you must on average pay contributors market wages for their time and efforts.  
+Added:  InTrade now lets you bet on whether the Google Moon prize will be won.   
+
+
+title: Outputs Require Inputs
+
+date: September 18, 2007 6:00 am
+

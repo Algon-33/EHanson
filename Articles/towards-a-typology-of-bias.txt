@@ -1,0 +1,19 @@
+author: Nick Bostrom
+
+text: 
+It seems to me that we have reached a stage in our discussions on this blog, and in the field of bias studies more generally, where it would be useful to begin to develop a more systematic typology.  There are so many different alleged biases that without some unifying framework it is easy to get lost in the details.  Finding the right categories would also help us theorize better about bias.
+To this end, let me tentatively propose a classification scheme, organized around the sources of bias:
+Type-I biases arise from the fact that our beliefs sometimes serve functions – such as social signaling – that can conflict with their navigational (truth-tracking) function.  For example, our tendency to overestimate our own positive attributes may be an example of a Type I bias.
+Type-II biases arise from the shortcomings and flaws of our minds.  We are subject to various kinds of processing constraints, and even aside from these hard limitations we weren’t very successfully optimized for efficiency in abstract rationality even in contexts where no adaptive function interferes with the navigational function of our beliefs.  Type II biases can result from fast-and-frugal heuristics that compromise accuracy for speed and ease of use, or from various idiosyncratic features of our brains and psyches.  We can distinguish subtype-II(a) biases deriving from shortcomings general to the human psyche (availability bias?), and subtype-II(b) biases deriving from shortcomings specific to some individual or group (beliefs about being danger among the paranoid?)
+Type-III biases arise from our avoidable ignorance of facts or lack of insights, the possession of which would have improved our epistemic accuracy across a broad domain.  (Many of Eliezer’s recent postings appear to aim to overcome Type III bias, for example by explaining important facts about evolution, which would help us form more accurate belief about many specific issues that are illuminated by evolutionary biology.)  We distinguish subtype-III(a) resulting from lack of (procedural) insights about methodology, logic, or reasoning principles (e.g. anthropic bias), and subtype-III(b) resulting from lack of (substantial) knowledge about theoretical or concrete facts (e.g. errors resulting from ignorance about the basic findings of evolutionary psychology).
+  
+The distinctions between these different types are not always clear-cut.  For example, biases of Type I and II may often be overcome by the right kind of information: does not this mean that they are really Type III biases?  But I think in many cases we can reasonably judge what the principal source of the error is: just as when somebody comes down with pneumonia we can point to bacterial infection as the principal cause, not their failure to take a prophylactic dose of antibiotics, even though antibiotics would have prevented and may now be the way to overcome the disease.
+Type III bias fades into simple error from unsystematic ignorance.  I think the most paradigmatic kind of bias is Type I bias.
+If we consider the statements in addition to beliefs, we can add a fourth type of bias: misrepresentation.  This type of bias occurs when an individual or organization makes statements that systematically misrepresent its real beliefs.
+We can further expand the concept so that it can be applied to objects that are neither beliefs nor statements.  We could say that a body of data is biased, for example, if the most straightforward interpretation of it gives a systematically misleading picture of reality.  Similarly, a scientific instrument could be biased if it tends to deliver biased data.
+
+
+title: Towards a typology of bias
+
+date: November 18, 2007 12:40 pm
+

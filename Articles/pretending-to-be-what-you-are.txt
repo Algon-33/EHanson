@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Which is harder: pretending to be what you are, or to pretending to be what you are not?   For example, imagine you are a news reporter, and want to, via your style and manners, convince typical folks that you are a) a reporter, or b) a stuntman.  Which task would be easier?   Which task would be easier for the stuntman?  We could ask such questions about not just reporters and stuntmen, but about a wide range of other roles.
+The way to convince the public that you are an X is to act the way the public thinks that X folks act.  And the more vivid an image X folks have in the public mind, and the fewer real X the public know in person, the more the way X folks are will diverge from how the public thinks they are.  And so the more work it would be for X folks to convince the public, via their manner and style, that they are in fact X.
+So while it is probably easier for a shoe salesman to convince folks that they sell shoes than that they are a private investigator, I'm guessing that it is harder for a P.I. to convince folks they are a P.I. than that they sell shoes.  
+
+
+title: Pretending To Be What You Are
+
+date: May 8, 2009 2:00 pm
+

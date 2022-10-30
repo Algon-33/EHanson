@@ -1,0 +1,16 @@
+author: Nick Bostrom
+
+text: 
+Hal Finney wrote: "…reminds me of my justification for not being religious: the majority of people in the world are not Christian, the majority of people in the world are not Muslim, the majority of people in the world are not Hindu, the majority of people in the world are not Buddhist, etc… So I can’t pick any religion without being in a minority! I’m not sure the conclusion really follows though. Something I’m still working on."
+Also, the majority of people in the world are not atheist (or non-religious, or secular). Absent reasons to weight some opinions more, what should one believe when there are several inconsistent views, none of them commanding majority support?
+I think in such a case one should believe a superposition of the views, i.e. one assigns a probability measure over the alternatives that reflects the degree of support they each have from their various constituencies. In the unrealistic, simplest case, where everyone’s reliability is the same and errors are uncorrelated, this might perhaps amount to assigning probability proportional to number of proponents.
+Assuming the unrealistic simplifying premiss, in Hal’s case this would amount to being uncertain but not dismissive about spiritual matters, say being an agnostic who tends to believe that some existing religion is probably right, but not sure which one although more likely one of the big ones than some minor cult.
+Of course, you might find that almost everybody would agree that such agnosticism is wrong, and you would find yourself in disagreement with this overwhelming majority. But it would nevertheless seem to be the position that would minimize disagreement.
+A separate problem is what you should do if you end up with this belief. Suppose each religion claims that you will go to hell unless you believe that particular religion with all your heart. In that case, your rational course of action might be to pick the most likely religion and then do what you can to try to become a full convert to it.
+The existence of such extreme disagreements as in the religious case, however, strongly suggests that not everybody involved is unbiased an in honest pursuit of objective truth. Some other factors must play a huge role in determining religious belief. So you might also think that by carefully examining what those non-rational factors are, you may be able to do better than minimizing disagreement; you might reach some insights that would make it rational for you to take sides. Of course, it is easy to delude oneself into thinking that one has such special insights, so one should be cautious.  
+
+
+title: Multipolar disagreements (Hal’s religious quandry)
+
+date: March 16, 2007 10:05 pm
+

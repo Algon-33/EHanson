@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Back on Dec. 16, I began a great intellectual adventure, one which reaches a climax today as we post our preprint:
+
+A Simple Model of Grabby Aliens
+Robin Hanson, Daniel Martin, Calvin McCarter, Jonathan Paulson
+According to a hard-steps model of advanced life timing, humans seem puzzlingly early. We offer an explanation: an early deadline is set by “grabby” civilizations (GC), who expand rapidly, never die alone, change the appearance of the volumes they control, and who are not born within other GC volumes. If we might soon become grabby, then today is near a sample origin date of such a GC. A selection effect explains why we don’t see them even though they probably control over a third of the universe now. Each parameter in our three parameter model can be estimated to within roughly a factor of four, allowing principled predictions of GC origins, spacing, appearance, and durations till we see or meet them. (more)
+Back on Dec. 16, I envisioned the basic “grabby aliens” model, and found a simple math model to express its key symmetries. At which point I went into “manic mode”, forsaking most else in a push to “do this”, cutting way back on blogging, tweeting, reading emails, etc. (My few blog posts were mostly on this, two on Dec. 21, another Dec. 23, then one Jan. 3 and Jan. 8.)
+On Dec. 28, I asked random strangers to help:
+
+Anyone w/ sci computing expertise want to collaborate (& coauthor) w/ me to sim my new model of grabby aliens? It isn’t that complex, & I could do it myself, but I’d rather not. On other hand, can be hard to judge quality of potential collaborators. Msg me if interested.
+— Robin Hanson (@robinhanson) December 28, 2020
+
+I quickly took on three collaborators (Daniel Martin, Calvin McCarter, Jonathan Paulson) who I knew little about other than that they had each quickly done something helpful to the project, and they were each willing to work for just coauthorship. I then rejected all others, and we began from a plan I’d sketched out. You might think this strategy quite risky, but it has in fact worked out.
+Jan. 3-24 I visited Texas, and caught covid that last day Jan. 24, which has slowed me down a bit. Even so, we have pushed to get to this key milestone: a working paper to share with the world. So now I can catch my wind, get well, read old emails, etc. I’m quite proud of what we’ve done in such a short time. And I expect to be rejoining the world soon. though slowly. But I also expect to long remember this latest great adventure.
+Added: More posts of mine, and one by Scott Aaronson, and discussion of that.
+
+
+title: An Adventure
+
+date: February 2, 2021 9:00 pm
+

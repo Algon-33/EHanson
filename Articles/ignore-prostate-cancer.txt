@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+A US task force says don’t bother with prostate cancer tests:
+
+The blood test that millions of men undergo each year to check for prostate cancer leads to so much unnecessary anxiety, surgery and complications that doctors should stop testing elderly men, and it remains unclear whether the screening is worthwhile for younger men, a federal task force concluded yesterday. …  The 16-member U.S. Preventive Services Task Force … published the new guidelines today in the Annals of Internal Medicine. …
+
+  
+
+ Each year, prostate cancer is diagnosed in more than 218,000 U.S. men. About 28,000 die of it, making it the most common cancer and second-leading cancer killer among men.  The PSA test, which measures a protein in the blood produced by prostate tissue, has significantly increased the number of prostate cancer cases being diagnosed at very early stages. …
+ Many men experience stressful false alarms that lead to unnecessary surgical biopsies to make a definitive diagnosis, which can be painful and in rare cases can cause serious complications.  Even when the test picks up a real cancer, doctors are uncertain what, if anything, men should do about it. Many men simply are monitored closely … Others undergo surgery, radiation and hormone treatments, which often leave them incontinent, impotent and experiencing other complications. …
+ Since the task force issued its previous recommendations in 2002, at least eight new studies have been published. Among them was a large Swedish review that found that men age 65 and older who were treated for prostate cancer were no more likely to survive than those who were not. …
+ Others were highly critical, noting that prostate cancer death rates have plummeted in many countries after they instituted widespread PSA screening.  "We have seen a dramatic drop in mortality," said … a spokesman for the American Urological Association. "They’re not paying attention to that."  Others objected to setting an age cutoff, saying men should be evaluated individually. 
+
+ Here the usual medical debate is repeated.  One side says specific studies find no benefit, while the other side says falling mortality must be due to medicine, and we must treat patients as individuals, not like groups as in those studies.  Alas hope, deadly hope, springs eternal.  
+
+
+title: Ignore Prostate Cancer
+
+date: August 6, 2008 8:30 am
+

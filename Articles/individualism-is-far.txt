@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Four studies show that an independent self-view is associated with abstract representations of future events and with perceiving these events as happening in the more distant future, whereas an interdependent self-view is associated with concrete representations of future events and with perceiving these events as happening in the more proximal future. …
+Individuals with an accessible independent self-view (a characteristic of members of most Western cultures) place high values on self-reliance and autonomy. They strive toward being unique, different, and separate from others. Of key importance to the independents is the “inner core” of the self—internal attributes and traits that are enduring and invariant over time and context. In contrast, individuals with a more accessible interdependent self-view (a characteristic of members of many Eastern cultures) value relationships with others and interpersonal harmony. They view the self as part of a social group and strive toward blending and fitting in. …
+There are reasons to believe that the two distinct self- views are associated with different levels of construal and psychological distances. First, interdependents are concerned about relationship harmony and are sensitive to the interconnectedness between people and events. From this perspective, it is both desirable and necessary that they pay close attention to the immediate environment to ensure that relationship harmony is attained and preserved. This attention to the “here” and “now” likely prompts a low-level construal and its corresponding proximal temporal perspective. Second, feelings of agency and control may also lead to higher construal levels among those with an independent self-view. (more)
+This suggests that westerners tend to think more in a far view, which suggests that they are more idealistic, plan further into the future, are more socially inclusive, and think more via analogy.
+
+
+title: Individualism Is Far
+
+date: May 28, 2013 1:30 pm
+

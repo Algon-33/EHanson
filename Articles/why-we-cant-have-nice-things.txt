@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+The world has many problems and some of them are global. That is, some problems like war, global warming, and promoting innovation can benefit substantially from large scale coordination to address them. To judge from my Facebook feed, many think the main thing we need to solve such problems is more preaching – if only more folks would rail against the immorality of those who opposed their favored solutions. Another widely held view, expressed in a great many inspirational TED talks, is that we need more smart emphatic activists and inventors. But the following take is a more expert and believable:
+Addressing Global Environmental Externalities: Transaction Costs Considerations. Is there a way to understand why some global environmental externalities are addressed effectively whereas others are not? … Property rights are supplied by international agreements that specify resource access and use, assign costs and benefits including outlining the size and duration of compensating transfer payments and determining who will pay and who will receive them. Four factors raise the transaction costs [and hence the difficulty] of assigning property rights: (i) scientific uncertainty regarding mitigation benefits and costs; (ii) varying preferences and perceptions across heterogeneous populations; (iii) asymmetric information; and (iv) the extent of compliance and new entry. (more)
+While this paper doesn’t discuss it, another big issue is the strength and capacity of our institutions of global governance. For example, a lot of these problems would get solved a lot better with a high capacity world government. Such a government could better reduce uncertainty and secrets, enforce compliance, and promote compromises between conflicting interests.
+If just you want to show off your moral outrage that problems aren’t being solved, by all means continue to preach that we must do better. But if you actually want to solve these problems, you should focus on identifying and dealing with their fundamental causes. Especially including the development of better mechanisms of global governance, and working to better understand what limits their deployment.
+Btw, I tend to think that we hear the most preaching not about the problems that cause the most damage, but about those that best fit our schemas for moral outrage. For example, I tend to agree with Matt Ridley that global warming is a relatively minor problem, compared with for example overfishing and innovation promotion.
+
+
+title: Why We Can’t Have Nice Things
+
+date: June 22, 2014 2:20 pm
+

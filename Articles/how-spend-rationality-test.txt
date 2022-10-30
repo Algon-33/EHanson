@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+To learn to be more (epistemically) rational,  i.e., to better discern and tell the truth, it would sure help to have good ways to regularly test ourselves.  Eliezer and I have both requested folks to give thought to how we could better test our (epistemic) rationality.
+It seems relatively easy to test someone's ability to make accurate and calibrated forecasts in novel contexts.  Given them some info on a new topic, limited time and resources to make estimates, and then evaluate their accuracy.  We might presume that any residual after controlling for IQ, info, effort, and related expertise was (epistemic) "rationality."  
+My main worry about this approach is it doesn't get at the fact that some topics test one's rationality more severely than others.  It can be much harder to be honest when you care a lot about a topic, when others care about your opinion, or when you don't expect your opinions to be scored against reality anytime soon. How can we test rationality in these cases?
+Over twenty years ago some psychologists worked out a twenty item questionnaire for evaluating how much people lie to themselves to look good, on topics important to them.  (A related twenty question survey looks at lies to others.)  They "validated" these "scales" by running a lot of tests comparing them to other scales.  
+Alas, I doubt that these tests would work as well if respondents knew that they were being tested for rationality.  And surely couldn't tell someone their score and then give them the test again and expect it to be as informative.  So these tests are a valuable but limited resource.
+Which is why I haven't linked to them here in this post, yet.  First I want folks to ponder:  how best could we spend this limited resource to test our rationality?
+Added 1Apr: The test is in here; don't look unless you've thought about whether waiting might be better. 
+
+
+title: How Spend Rationality Test?
+
+date: March 31, 2009 9:00 pm
+

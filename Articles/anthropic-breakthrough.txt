@@ -1,0 +1,32 @@
+author: Robin Hanson
+
+text: 
+If the universe is extremely large, with effective physics and cosmological conditions varying widely from place to place, how can we predict the conditions we should expect to see?  In principle we can use anthropic reasoning, by expecting to see conditions that give rise to observers, and perhaps expecting more conditions that give more observers.  But how can we apply this theory when we know so little about the sorts of conditions that produce observers?
+Two recent papers suggest a simple but powerful solution:
+
+ “Predicting the cosmological constant from the causal entropic principle” (Phys Rev 8/07, ungated here) 
+ “Predictions of the causal entropic principle for environmental conditions of the universe” (Phys Rev 3/08, ungated here)
+
+This causal entropic principle so far successfully predicts dark energy strength, matter fluctuation ratio, baryonic to dark matter ratio, and baryonic to photon matter ratio!  I’m struggling to understand it though.
+A simple reading of the principle is that since observers need entropy gains to function physically, we can estimate the probability that any small spacetime volume contains an observer to be proportional to the entropy gain in that volume.  Note:
+
+
+They explicitly exclude entropy of cosmic and black holes horizons.
+ They implicitly ignore future (e.g. Year Million) observers getting far more efficient and aggressive in using entropy.
+They estimate that, aside from decaying dark matter, near us most entropy is made by starlight hitting dust, and most of that is in the past.
+
+If decaying dark matter can support observers, then the principle predicts such decay will either make much less entropy than dust, or that its entropy gains will be distributed similarly to dust.
+The intuition behind excluding cosmic and black hole entropy seems to be that those entropy gains don’t tend to create observers from scratch, which seems plausible to me.  Can we make sense of this and ignoring future observer efficiency if we see this whole approach as just predicting what early observers like us will see?
+My doubt about the simple reading of the principle comes because its authors express it in terms of “causally connected regions.”  To find a causally connected region of spacetime, you start with a possible particle path through spacetime and then you collect all spacetime points which can get a causal influence both from and to somewhere on that line.  The principle seems to say the observer weight for a large volume is proportional to the entropy made within the largest causally connected region  corresponding somehow to that volume.
+If the simple reading is wrong, then the principle seems to me to say not just that observers run on entropy gains, but that creating observers from scratch requires a large spacetime region of entropic processes with causal influences going back and forth over the whole region.  If so, this suggests that Earth life came neither from near Sol nor from before the last inflation — any seeding from before had a low probability of success.
+Any physicists out there care to clarify all this?
+Added: I wonder if this can be thought of as a world count prior, having nothing to do with observers?
+Added 23May: Apparently half of all starlight is blocked by dust.
+Added 24 May: Scott Aaronson weighs in.
+Added 3Mar 2010: A big new advance!
+
+
+title: Anthropic Breakthrough
+
+date: May 21, 2008 6:00 am
+

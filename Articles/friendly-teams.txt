@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Wednesday I described UberTool, an imaginary firm planning to push a set of tools through a rapid mutual-improvement burst until they were in a position to basically “take over the world.”  I asked when such a plan could be reasonable.
+Thursday I noted that Doug Engelbart understood in ’62 that computers were the most powerful invention of his century, and could enable especially-mutually-improving tools.  He understood lots of detail about what those tools would look like long before others, and oversaw a skilled team focused on his tools-improving-tools plan.  That team pioneered graphic user interfaces and networked computers, and in ’68 introduced the world to the mouse, videoconferencing, email, and the web.
+I asked if this wasn’t ideal for an UberTool scenario, where a small part of an old growth mode “takes over” most of the world via having a head start on a new faster growth mode.  Just as humans displaced chimps, farmers displaced hunters, and industry displaced farming, would a group with this much of a head start on such a general better tech have a decent shot at displacing industry folks?  And if so, shouldn’t the rest of the world have worried about how “friendly” they were?
+In fact, while Engelbart’s ideas had important legacies, his team didn’t come remotely close to displacing much of anything.  He lost most of his funding in the early 1970s, and his team dispersed.  Even though Engelbart understood key elements of tools that today greatly improve team productivity, his team’s tools did not seem to have enabled them to be radically productive, even at the task of improving their tools.
+It is not so much that Engelbart missed a few key insights about what computer productivity tools would look like.  I doubt if it would have made much difference had he traveled in time to see a demo of modern tools.  The point is that most tools require lots more than a few key insights to be effective – they also require thousands of small insights that usually accumulate from a large community of tool builders and users.
+Small teams have at times suddenly acquired disproportionate power, and I’m sure their associates who anticipated this possibility used the usual human ways to consider that team’s “friendliness.”  But I can’t recall a time when such sudden small team power came from an UberTool scenario of rapidly mutually improving tools.
+Some say we should worry that a small team of AI minds, or even a single mind, will find a way to rapidly improve themselves and take over the world.  But what makes that scenario reasonable if the UberTool scenario is not?
+
+
+title: Friendly Teams
+
+date: November 15, 2008 12:15 pm
+

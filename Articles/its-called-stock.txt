@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+There’s something the federal government can do right now to help students caught by our terribly unjust higher-education financing system. … Under an income-contingent loan system, … students pay a fixed percentage of their income toward their loans. Payments are automatically deducted from their paychecks by the IRS. .. After an extended time period of 20 or 30 years, any remaining debt is forgiven. … The concept has been proven to work—Australia and Britain have used it for years— and … the Nobel Prize-winning economist Milton Friedman proposed the idea all the way back in 1955. …
+Because student loans can almost never be discharged in bankruptcy, defaulted loans can haunt students for a lifetime. … That is insane. A similar-sounding federal program, called income-based repayment, is now on the books and is scheduled to become somewhat more generous starting in 2014. But the program is administratively complicated, involving income-eligibility caps and requiring students to reapply every year. (more)
+Yup, it can be easier to fund investments via “loans” whose repayment amounts are set to be a proportion the venture’s net income. This is usually called “stock,” however, and proposals for private sector stock in individual future income are usually criticized as “slavery.” Especially if such stock claims on income are exempt from the usual bankruptcy evasions. But to most folks the same policy doesn’t seem like slavery if the government does it, just like we refuse to call conscription slavery.
+Some argue that the government needs to make student loans because private loan markets fail in this case. But if they fail, it is mainly because we purposely hobble private investors by not allowing them the tools we are allow governments to ensure a return on their investment. This is how a lot of market failures go these days – they are real failures, but failures caused in large part by refusing to allow private actors all the tools we allow governments.
+
+
+title: It’s Called “Stock”
+
+date: October 24, 2011 10:49 am
+

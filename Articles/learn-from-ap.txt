@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Law and policy matters for innovation.  Sometimes it matters by promoting innovation, and someday I hope we’ll have better intellectual property rights to better promote innovation. But today, and for much of history, law and policy has mattered mostly by hindering innovation. For example:
+In a new book, Levinson explains how local mom-and-pop stores — with their limited selections, high prices and nonstandard packaging — paved the way for national chains like the A&P to swoop in and dominate the grocery industry. … “People get misty-eyed at the thought of the independent store — maybe it had some unique product, maybe we had more choices than we have today — but the truth was exactly the opposite.” ….
+A&P … opened its first small grocery store in 1912. Unlike traditional mom-and-pop stores, the A&P had no telephone, no credit lines and no delivery options. They also had lower prices. .. “It stocked only items that were fast-sellers. … It had limited hours. It had a single employee. … Within eight years, this approach turned their company into the largest retailer in the world.” … Controlling both the retail store and the supply chain gave the A&P a huge advantage over corner grocery stores because the A&P could run the factories at a lower cost. In addition, the A&P started to bypass wholesalers and go directly to distributors for various products. …
+Competitors were not happy. Efforts to limit chain stores grew in the 1920s, when states and localities began passing laws designed to help independent merchants. … “Now, you’ve got these gigantic companies like A&P dominating retailing and wholesaling and not leaving a chance for the average guy. That was the basis of the complaint.”
+State laws were passed to force manufacturers to sell to all stores at the same price and to tax merchants with multiple stores in a case. An antitrust suit was also filed against the A&P, claiming that it had become a food monopoly because it controlled all aspects of manufacturing, retailing and wholesaling. But the movement lost steam in the late 1930s, when the economy started to pick up. (more)
+A&P introduced major innovations, and was punished for it by the regulatory system. For now, law and policy can most help innovation by getting more out of the way. Whether it will actually do so, however, is far from obvious.
+
+
+title: Learn From A&P
+
+date: August 25, 2011 7:10 pm
+

@@ -1,0 +1,18 @@
+author: Adrian Tschoegl
+
+text: 
+We frequently encounter competing estimates of politically salient magnitudes. One example would be the number of attendees at the 1995 “Million Man March”.  Obviously, frequently the estimates emanate from biased observers seeking to create or dispel an impression of strength.  Someone interested in generating a more neutral estimate might consider applying what I would call the Malatesta Estimator, which I have named after its formulator, the 14th Century Italian mercenary captain, Galeotto Malatesta of Rimini (d. abt. 1385). His advice was: “Take the mean between the maximum given by the exaggerators, and the minimum by detractors, and deduct a third” (Saunders 2004).  This simplifies into: the sum of the maximum and the minimum, divided by three.  It adjusts for the fact that the minimum is bounded below by zero, while there is no bound on the maximum.  Of course, it only works if the maximum is at least double the minimum.
+
+In the case of the Million Man March, supporters from the Nation of Islam claimed attendance of 1.5 to 2 million.  The Park Service suggested initially that 400,000 had participated.  The Malatesta Estimator therefore yields an estimate of 800,000.  We can calibrate this by comparing it with an estimate by Dr. Farouk El-Baz and his team at the Boston University Remote Sensing Lab.  Dr. El-Baz and his team used samples of 1 meter square pixels from a number of overhead photos to estimate the density per pixel, and then calculated an estimate for the entire area.  Their estimate was 837,000, with 20% error bounds giving a range from 1 million to 670,000.
+
+
+Saunders, Frances Stonor. 2004. The Devil’s Broker: Seeking Gold, God, and Glory in Fourteenth-Century Italy. (New York: HarperCollins), p. 93. 
+
+BU Remote Sensing Lab Press Release: http://www.bu.edu/remotesensing/Research/MMM/MMMnew.html
+Accessed 14 December 2006.
+
+
+title: Malatesta Estimator
+
+date: December 14, 2006 1:48 pm
+

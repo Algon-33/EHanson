@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Eliezer a week ago:
+
+At the frontier of scientific chaos and scientific confusion, you find problems of thinking that are not taught in academic courses, and that have not been reduced to calculation. … It will seem that you must do philosophical thinking in order to sort out the confusion.  But … it is usually not a professional philosopher who wins all the marbles – because it takes intimate involvement with the scientific domain in order to do the philosophical thinking. … There is … [a] place for professional philosophers in the world.  Some problems are so chaotic that there is no established place for them at all in the halls of science.  But those "professional philosophers" would be very, very wise to learn every scrap of relevant-seeming science that they can possibly get their hands on. 
+
+Once upon a time all academia was "philosophy", all using the same method of informal argument.  One by one groups focusing on particular topics developed specialized methods, and split off to form new disciplines.  Philosophy is now the "miscellaneous" discipline, the only one left engaging many big hard questions. Philosophers mostly use this method: 
+
+Compare intuitions about selected cases with general principles expressed in words.  Discuss wording ambiguities and find extreme case-principle conflicts.  Suggest new wordings for better matches.
+
+ Being drawn to big hard questions, I love that philosophers engage those questions.  My main lament is philosophers’ reluctance to calculate; they mostly use their standard method, even when very-well-established more-exact formal models are available.  Two examples: 
+  
+
+Born rule in many worlds — physicists mostly punt to philosophers, who use flimsy excuses to declare meaningless the use of specific quantum models to calculate the number of worlds that see particular experimental results.  This leaves them free to settle the question by proposing abstract principles that imply the Born rule.  (At least a few do this semi-formally.)  Two recent workshops here and here, my stuff here.
+ Rationality of disagreement 
+
+title: On Philosophers
+
+date: April 20, 2008 6:00 pm
+

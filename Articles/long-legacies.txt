@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+How might what we do today influence the lives of our distant descendants, slowly-changing lives well adapted to their world, long after our dreamtime has passed?  I see seven long LEGACIES:
+
+L – Lag – We can delay when that future begins in full.  A slower economic growth rate, or a lack of early investment in pivotal techs, could delay by a few decades, while a drastic but not total collapse could delay it for longer.
+E – Existence – We can do things now to reduce the chance of a full and permanent civilization collapse.  Even if this chance is only 1%, reducing that chance to 0.5% would be a huge benefit our descendants.
+G – Government – Our institutions of global governance may grow, follow us as we expand, and entrench themselves forever.  On the downside, they might perpetuate themselves even if they hurt our descendants on net.  On the upside, we might use them to overcome key coordination failures.
+A – Ancients – Particular entities, such as particular people, races, cities, or planets, may over time collect enough resources to perpetuate themselves indefinitely.  If only modestly less efficient than newer substitutes, saved resources could make up for this deficit.  They might hold physical resources with a defensive military advantage, or might own property protected by a shared entrenched legal system.
+C – Crossroads – We can become so invested in the particular spatial arrangements we use to coordinate our activities, such as particular roads, cities, or communication lines, that we can’t afford to individually switch to more efficient arrangements, and can’t manage to coordinate to switch together.  For example, Earth’s first space elevator location might retain the most off-planet transport, or Sol might remain a hub of galactic fashion news.
+I – Info – We can save info for them about what actually happened during our epically strange dreamtime era.   They can run sims to guess, but would really want to know. 
+
+E – Existence – This is mentioned twice, as it matters more than any other.
+
+S – Standards – We can become so invested in the conventions, interfaces, and standards we use to coordinate our activities that we each can’t afford to individually switch to more efficient standards, and we also can’t manage to coordinate to switch together. Conceivably, the genetic code, base ten math, ASCII, English language and units, Java, or the Windows operating system might last for trillions of years.
+
+I’ll post more about these over the next few days.
+
+
+title: Long Legacies
+
+date: December 23, 2009 2:00 pm
+

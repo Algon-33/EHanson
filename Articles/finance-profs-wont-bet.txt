@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Feel tempted to play the markets?  How much more tempted would you be if you were a professor of finance, certified as an expert whose main job was to study such markets?  Turns out, most finance profs know enough to know they don’t know enough to bet:
+Employing a survey distributed to over 4,000 [finance] professors, we obtain four main results. First, most professors believe the market is weak to semi-strong efficient. Second, twice as many professors passively invest than actively invest. Third, our respondents’ perceptions regarding market efficiency are almost entirely unrelated to their trading behavior. Fourth, the investment objectives of professors are, instead, largely driven by the same behavioral factor as for amateur investors – one’s confidence in his own abilities to beat the market, independent of his opinion of market efficiency.
+If finance profs are this reluctant to disagree with market prices, perhaps you should be even more reluctant to disagree, and just take that index fund?
+
+
+title: Finance Profs Won’t Bet
+
+date: October 20, 2009 11:20 pm
+

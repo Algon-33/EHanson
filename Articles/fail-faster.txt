@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+It looks bad for a manager to have one of his projects fail. So to “cover his ass”, such a manager often tries to prevent any records showing that people saw failure coming. After a failure, he wants to say “this was just random bad luck; no one could have foreseen seen it.” His bosses up the chain of command tend to allow this, because they also want to avoid being held responsible for failures during their watch. So they also prefer the random back luck story.
+Unfortunately, this approach tends to prevent organizations from getting signals that would let them mitigate failures, such as by quitting projects earlier. For example, most startup firms don’t fail until they have spent nearly all of the cash they were given. It is rare for a startup to admit it isn’t going to work out, and give some cash back to investors. Similarly, government agencies created to achieve some purpose rarely recommend to legislatures that they be eliminated when their find that they aren’t achieving their intended purposes.
+Of course bosses don’t want to be too obvious about silencing possible signals of failure. They find it hard to silence what have become standard signals, like cost accounting measures.
+A great application of prediction markets is to give better and clearer warnings of upcoming failure, to enable better mitigation, such as quitting. Of course project bosses anticipate this, and oppose prediction markets on their projects, for exactly this reason. But we can still hope that prediction market warnings may someday become a standard signal, and thus hard to silence:
+I hope prediction markets within firms may someday gain a status like cost accounting today. In a world were no one else did cost accounting, proposing that your firm do it would basically suggest that someone was stealing there. Which would look bad. But in a world where everyone else does cost accounting, suggesting that your firm not do it would suggest that you want to steal from it. Which also looks bad.
+Similarly, in a world where few other firms use prediction markets, suggesting that your firm use them on your project suggests that your project has an unusual problem in getting people to tell the truth about it via the usual channels. Which looks bad. But in a world where most firms use prediction markets on most projects, suggesting that your project not use prediction markets would suggest you want to hide something. (more)
+
+
+title: Fail Faster
+
+date: February 28, 2014 8:30 am
+

@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+Betting markets have been around for a long time, and as far as I know, until recently they were all created to help traders achieve goals such as hedging, gambling, proving themselves, and so on.  What appears to be new is that non-traders are now creating and subsidizing some markets, in order to gain information by believing the market prices.  Such price estimates are remarkably robust against biases, making this a promising approach to reducing bias. 
+The earliest such market that I know of was one I helped create at Xanadu, Inc. in 1990.  
+  
+Xanadu, then owned by Autodesk, was working on what would have been a different kind of world wide web.   I consulted for them, and had been telling them about my idea futures concept.   In April 1989 the "cold fusion" controversy erupted, and I created a market for Xanadu employees and consultants to bet on this claim:
+
+By 1/1/91 a <1 liter device will have generated over 1 watt of power output more than input from room-T fusion, including amortized power to create/separate components.
+
+This market used a paper-based mechanical market-maker (which loses money on average) placed on a wall of the main common room.  18 people participated, and everyones current stakes were posted for all to see.   The price slowly fell, reaching 7% in May 1990.   At this time the fusion market was replaced with a market on this claim:  
+
+Xanadu will deliver its product before Premier Deng of China dies.  
+
+(They hoped that their product could help China through a post Deng-transition to democracy.)  This market started at a price around 70%, and continued until Xanadu lost its Autodesk support in 1992 (the same year Tim Berners-Lee introduced his version of the web).   Deng died before the product was delivered.  
+Support from the Xanadu manager, Marc Stiegler, was crucial.  His goal was to focus employee attention on the risk that Xanadu might not deliver its product soon.  Does anyone know of an earlier example of a speculative market which existed primarily because non-traders wanted to use the information in its prices? 
+Thanks to Roger Gregory for archiving his email.  
+Addendum: The Deng market was Marc Stiegler’s idea; he also authored a 1999 science fiction novel, EarthWeb, wherein prediction markets help humans to fend off aliens.  
+
+
+title: A 1990 Corporate Prediction Market
+
+date: November 23, 2006 6:00 am
+

@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+I’ve argued that if future tech and law enable a supply-and-demand economy of creature creation, it will enforce a good simple principle of existence:
+Creature X should exist if it wants to exist [i.e., would want to exist if it existed] and it can pay for itself. … Most new creatures would have designs near the peak of factory profitability, and own little surplus relative to their cost. Residual control rights (e.g., “are they slaves?”) would rest in the hands of whomever could squeeze the most market value from them.
+Control rights deal with a central conflict in factory-creature relations.  Factories must pay up front to make creatures, but the value that creatures may create appears later. So how can factories assure they get paid?  Some possible answers:
+
+Slavery –  Factories could take direct physical control of new creatures, or sell such control to others.  This is a simple and robust approach, but it can also be wasteful, by reducing creature incentives to be productive.
+Debt – A creature could be in debt for its creation costs, to be recycled or sold into slavery unless it repays via a set schedule.  Inflexible payments can induce recycling needlessly often.  Such waste can be reduced by adjusting payments to market context.  Debt holders may have some controls on activities or spending.
+Stock – Others might own shares in a creature’s income, net of debt and certain specific expenses. Stock owners might voter to exercise limited control rights. Shares adjust more flexibly to changing conditions, and leave some creature incentives to find ways to be more productive.
+Contract – A creature might be obligated by contract to work to achieve certain non-financial factory goals.  This requires goals that cannot be as well achieved by the factory itself, and requires relevant creature effort which can be monitored by courts.
+Gratitude –  A creature might have a strong preference for repaying its creator.  This preference could be built into core values, or imprinted via something like education and acculturation, and encouraged via social norms.
+Shared Goals – A factory might know how to make creatures that roughly shared certain of its broader goals. These might the creature’s core values or values imprinted via education or social norms. This approach requires factories with broad goals that can be better achieved by such delegates.
+Reproduce – A factory may have a strong preference to make and support creatures like itself.  If it can actually make such, this process can be self-sustaining, and select for creatures who are effective at reproducing.
+
+In practice, all of these approaches can be mixed, and I find it hard to say with much confidence which mixtures will be used more heavily, or be more profitable.  Mainly-slavery, however, seems pretty unlikely dominant long-run approach. I also find it hard to complain much about the ethics of using whatever turn out to be the most efficient mixtures.  After all, using any other process would mean not creating creatures who could pay for themselves, or creating creatures who are a net burden to others.
+While today’s creation practices include elements of all these approaches, we clearly lean most heavily on reproduction, and many of us are horrified at the prospect that future folk might not act similarly. For example, some libertarians tell me it is a basic ethical fact that no person should be born with debt, stock, or physical restraints. But I fear this is merely arrogant presumption that our ways must be best.
+
+
+title: Ways To Pay To Exist
+
+date: September 3, 2010 6:30 am
+

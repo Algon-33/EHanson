@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Here is a simple model that suggests that non-conformists can have more influence than conformists.
+Regarding a one dimensional choice x, let each person i take a public position xi, and let the perceived mean social consensus be m = Σiwixi, where wi is the weight that person i gets in the consensus. In choosing their public position xi, person i cares about getting close to both their personal ideal point ai and to the consensus m, via the utility function
+Ui(xi) = -ci(xi-ai)2 – (1-ci)(xi-m)2.
+Here ci is person i’s non-conformity, i.e., their willingness to have their public position reflect their personal ideal point, relative to the social consensus. When each person simultaneously chooses their xi while knowing all of the ai,wi,ci, the (Nash) equilibrium consensus is
+m = Σi wiciai (ci + (1-ci)(1-wi))-1 (1- Σjwj(1-cj)(1-wj)/(cj + (1-cj)(1-wj)))-1
+If each wi<<1, then the relative weight that each person gets in the consensus is close to wiciai. So how much their ideal point ai counts is roughly proportional to their non-conformity ci times their weight wi. So all else equal, non-conformists have more influence over the consensus.
+Now it is possible that others will reduce the weight wi that they give the non-conformists with high ci in the consensus. But this is hard when ci is hard to observe, and as long as this reduction is not fully (or more than fully) proportional to their increased non-confomity, non-conformists continue to have more influence.
+It is also possible that extremists, who pick xi that deviate more from that of others, will be directly down-weighted. (This happens in the weights wi=k/|xi-xm| that produce a median xm, for example.) This makes more sense in the more plausible situation where xi,wi are observable but ai,ci are not. In this case, it is the moderate non-conformists, who happen to agree more with others, who have the most influence.
+Note that there is already a sense in which, holding constant their weight wi, an extremist has a disproportionate influence on the mean: a 10 percent change in the quantity xi – m changes the consensus mean m twice as much when that quantity xi – m is twice as large. 
+
+
+title: Non-Conformist Influence
+
+date: November 10, 2018 11:30 am
+

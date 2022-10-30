@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Back in November I read this Science review by Nira Liberman and Yaacov Trope on their awkwardly-named "Construal level theory", and wrote a post I estimated "to be the most dense with useful info on identifying our biases I've ever written": 
+
+[NEAR] All of these bring each other more to mind: here, now, me, us; trend-deviating likely real local events; concrete, context-dependent, unstructured, detailed, goal-irrelevant incidental features; feasible safe acts; secondary local concerns; socially close folks with unstable traits.  
+
+title: Disagreement Is Near-Far Bias
+
+date: January 14, 2009 10:30 am
+

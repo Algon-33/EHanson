@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Robert Samuelson:
+The uninsured, it’s said, use emergency rooms for primary care. That’s expensive and ineffective. Once they’re insured, they’ll have regular doctors. Care will improve; costs will decline. Everyone wins. Great argument. Unfortunately, it’s untrue.  A study by the Robert Wood Johnson Foundation found that the insured accounted for 83 percent of emergency-room visits, reflecting their share of the population. After Massachusetts adopted universal insurance, emergency-room use remained higher than the national average, an Urban Institute study found. More than two-fifths of visits represented non-emergencies. Of those, a  majority of adult respondents to a survey said it was “more convenient”  to go to the emergency room or they couldn’t “get [a doctor’s]  appointment as soon as needed.” … Medicare’s introduction in 1966 produced no reduction in mortality; some  studies of extensions of Medicaid for children didn’t find gains.
+HT Tim Starr.
+
+
+
+title: Uninsured ER Fallacy
+
+date: March 16, 2010 9:20 am
+

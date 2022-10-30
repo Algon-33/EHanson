@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+My recent exchange with Tyler highlighted a common bias:  people presume that policy proposal authors claim high success probabilities.  
+ Because I had written sympathetically about futarchy (public policy decision markets) and private law, Tyler presumed that I assigned high probabilities to the success of such alternatives.  I countered:  
+
+I think Tyler and I both agree that private law and decision markets are among the twenty most interesting big potential policy ideas in the last few decades, that such big ideas have little chance of being adopted wholesale and even then would work out very differently than anticipated, but that such ideas are nevertheless well worth exploring and trying out first on small scales.  
+
+A novel approach to policy deserves more attention, including sympathetic discussions, when there is a positive expected payoff from further explorations of it.   Such explorations can include math models, lab experiments, and field experiments.  A positive payoff comes if such explorations can refine the approach into useful fielded implementations, while a negative payoff comes from wasted effort and harmful implementations.  If the cost of experimenting is low and the final positive payoff could be very high, a novel policy approach can be worth exploring even with a very low probability of success.
+
+
+title: Confident Proposer Bias
+
+date: August 12, 2007 6:00 am
+

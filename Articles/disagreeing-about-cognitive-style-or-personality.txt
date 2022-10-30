@@ -1,0 +1,16 @@
+author: Nick Bostrom
+
+text: 
+I think I can understand what Tyler is getting at when he accuses Robin of a penchant for "logical atomism".  In the present context, I interpret Tyler’s claim as a plea for greater appreciation of the messiness and ambiguity of evidence when looked at closely, more toleration for different modes of consideration, and less eagerness to embrace a few "stylized facts" and use them to draw bold, sweeping, shocking conclusions; and less faith in the fact/value distinction.  
+One might think that cognitive style a purely matter of taste, with no right or wrong.  Alternatively, one might think that different people have different strengths and weaknesses, and that it makes sense for individuals to adopt a cognitive style that makes the best use of the cognitive resources they have.  For example, somebody who is good at numbers should make more use of numerical data; while someone who is weak in math should employ more qualitative or narrative modes of cognition.  On this view, there is right and wrong, but it is relative: different for different people.   
+A third alternative is that there is an optimal cognitive style that we should all attempt to approximate.  Through accidents of genetics and development, we diverge from this ideal in different directions.  But we can learn from others and from our own experience to calibrate our tendencies to better resemble the ideal human epistemic agent.  (A similar set of views could be formulated about emotional style, or personality.)
+  
+It seems to me that the true picture is a mixture of these three extreme alternatives.  Robin’s penchant for what Tyler calls “logical atomism” might be, in part, simply reflecting Robin’s subjective taste, in part a strategy to optimize the use of Robin’s talents, and in part a specific approximation to a universal human epistemic ideal – an approximation which perhaps Tyler believes would be improved if Robin became less “atomistic” (more like Tyler?).  
+When I think about how I ought to try to change myself, I can see that I am different in some respects from most other people. I think some of these differences are for the better, others for the worse. But often I don’t know which are which!  
+Perhaps I ought to divide the differences into the three classes described above. Then I could be happy to remain the way I am with regard to differences that are either a matter of pure taste, or a matter of optimizing the use of my idiosyncratic endowments. With regard to the third class, though, should I be as reluctant to remain unique as I should be (under certain conditions) about disagreeing with others about narrowly factual propositions? And in concrete terms, which of our personality traits fall into this third class? 
+
+
+title: Disagreeing about cognitive style (or personality)
+
+date: August 5, 2007 2:55 pm
+

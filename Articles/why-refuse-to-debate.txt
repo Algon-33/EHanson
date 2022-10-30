@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+In my debate with Bryan Caplan (vid here), his position was a strong audience favorite before, and less so after.  When I heard that Tyler Cowen just had the same experience in his debate, I suggested to the lunch crowd that maybe in general debates move audiences toward a 50/50 opinion split.  The org that sponsored Tyler’s debate has done 27 of them so far, so I typed that data in and it is easy to see that their data supports my hypothesis:
+
+ 
+The initially disfavored side almost always gains a lot (vs. the zero gain red line).  Alex Tabarrok weighs theories to explain this; my guess is that hearing half of a long hi-profile argument time devoted to something makes it seem more equally plausible.
+But whatever the cause, one implication seems clear: if your side is currently favored, you don’t want to debate the other side!  At least you don’t if your refusal to debate can’t be too easily made public to be held against you.  If we could somehow overcome this problem, we could get a lot more debates, and substantially improve public opinion.  Any ideas?
+ 
+
+Here is the analogous before/after chart for the favorite side:
+
+
+
+title: Why Refuse To Debate
+
+date: April 24, 2009 3:30 pm
+

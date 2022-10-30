@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+The simulation argument says that IF you:
+
+expect a substantial chance Q of our civilization surviving a long time,
+given survival, expect a vast number V of subjective years of experience by future descendants, in total across the whole future,
+expect them to spend a substantial fraction F of their per-person-subjective-year resources R running simulations of their distant past, for entertainment, research, or other purposes,
+expect a fraction A of such sim resources to go to sim this our current year, 2010, on Earth, and
+expect a fraction B of these 2010 sim resources to go to sim fully conscious humans unaware they are in a sim, where each such creature costs on average C per subjective year of experience.
+
+THEN you should expect there will be on average of N = A*B*Q*V*F*R/C sim creatures who assume they are humans living in 2010.  If your N >> 1010 (current human population), then unless there is some particular reason to think your life is much less likely than average to be the sort of life that a sim lives, you should strongly expect that you are such a creature; you are a sim.  (Of course you should then question how much you know about the sort of universe you live in, which may change your N estimate. Even so that probably won’t drastically reduce your estimated chance you are a sim.)
+For example, if Q = 10-2, V = 1030, F = 10-4, A = 10-9, B = 10-2, R/C = 101, then N = 1014; you are a sim.
+While I published back in ’01 on how to live your life differently if you might be a sim, it took Charlie Stross pondering the topic recently to remind me that I’ve never fully engaged the argument, by trying to come up with my own best estimate of N.  So what do I think?
+Let’s break it down by purpose.  First, consider entertainment.  Even compared to other humans, we today spend record large fractions of our income on tv, movies and video games; we are in the process of reacting to the development of unprecedented hyper-stimuli.  Humans in general are also clearly unusual compared to other animals, who spend almost nothing on anything sim-like.  And humans are mainly interested in simulations of other humans; we hardly have movies or games about monkey life.
+So if our descendants become better adapted to their new environment, they are likely to evolve to become rather different from us, so that they spend much less of their income on sim-like stories and games, and what sims they do like should be overwhelmingly of creatures much like them, which we just aren’t. Furthermore, if such creatures have near subsistence income, and if a fully conscious sim creature costs nearly as much to support as future creatures cost, entertainment sims containing fully conscious folks should be rather rare.
+Now, consider academic study of history.  Once economic growth and tech innovation slows to a near halt, I expect far less interest in learning new things, which includes learning new history.  The little learning that remains should mostly be done to signal future folk good features, and so they’ll much prefer to pay one future person to think carefully about the past, rather than spend similar resources to sim one person from the distant past.
+Full scale simulations of the entire Earth over many years should be very rare, and perhaps non-existent. Similar understanding would come much cheaper from sims that only model a few people in enough detail to make them fully conscious.  Modeling a few such folks in detail and then having most other modeled folks just act in ways that are statistically similar to those few detailed folks is probably good enough for most purposes. Perhaps there will be other reasons to run sims containing fully conscious creatures, but I expect those to be even more rare.
+Bottom line: I expect R/C near one, even if Q=1, and expect A*B*F to be smaller than 1010/V. So, I’m probably not a sim.
+
+
+title: Am I A Sim?
+
+date: August 3, 2010 5:30 pm
+

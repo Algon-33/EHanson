@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Barkley Rosser pointed to me to an ’05 meta-analysis of tail-power estimates for city distributions:
+The estimated [power α] is on average not 1.0. If the regression is properly specified in the Pareto form, the pooled estimate of α is considerably larger than one, close to 1.1. … Point estimates of α are significantly smaller if the estimate is based on population data for metropolitan areas (instead of inner cities), the estimate is based on data for recent years, the estimate is for the US city size distribution, the sample comprises only a small number of observations, and the study reports only a single estimate.
+So while this confirms that for US cities recently the tail-power is close to one (as I had cited before), it is higher in the rest of the world, and in the past. See this graph of power vs. year AD:
+Inequality in cities has indeed been increasing over the last few centuries. And it may well increase more in the future.
+So who bemoans increasing city inequality? Who wants to redistribute success from the 1% of cities, e.g., Tokyo and New York, to the many smaller cities? Few it seems, because while many dislike inequality in wealth or firm size, most seem to like city inequality.
+
+
+title: Rising City Inequality
+
+date: January 31, 2012 3:15 pm
+

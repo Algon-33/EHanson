@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident. Schopenhauer, 1788-1860.
+My next book won’t come out until January, and reviews of it will appear in the weeks and months after that. But now, a year in advance, I want to make a prediction about the main objections that will be voiced. In particular I predict that two of the most common responses will a particular opposing pair.
+If you recall, our book is about hidden motives (a.k.a., “X is not about Y):
+We’re afraid to acknowledge the extent of our own selfishness. .. The Elephant in the Brain aims to .. blast floodlights into the dark corners of our minds. .. Why do humans laugh? Why are artists sexy? Why do people brag about travel? Why do we so often prefer to speak rather than listen?
+Like all psychology books, The Elephant in the Brain examines many quirks of human cognition. But this book also ventures where others fear to tread: into social critique. The authors show how hidden selfish motives lie at the very heart of venerated institutions like Art, Education, Charity, Medicine, Politics, and Religion.
+I predict that one of the most common responses will be something like “extraordinary claims require extraordinary evidence.” While the evidence we offer is suggestive, for claims as counterintuitive as ours on topics as important as these, evidence should be held to a higher standard than the one our book meets. We should shut up until we can prove our claims.
+I predict that another of the most common responses will be something like “this is all well known.” Wise observers have known and mentioned such things for centuries. Perhaps foolish technocrats who only read in their narrow literatures are ignorant of such things, but our book doesn’t add much to what true scholars and thinkers have long known.
+These responses are opposing in the sense that it is hard to find a set of positions from which one could endorse both responses.
+I have not phrased this prediction so as to make it very easy to check later if its right. I have also not offered a specific probability. Given the many ambiguities here, this seems right to me.
+
+
+title: A Book Response Prediction
+
+date: March 26, 2017 12:10 pm
+

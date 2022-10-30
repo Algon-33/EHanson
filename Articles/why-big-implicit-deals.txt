@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+It takes some effort to formally write, review, and sign contracts. And to have courts enforce them. So it makes sense to not bother for deals that are too small, or that are observed and repeated enough for reputation or repeated play incentives to be sufficient. But we have a few big deals in life where these don’t apply, and yet we still don’t tend to write explicit formal contracts, nor allow negotiated exceptions. 
+For example, when getting married, joining a religion, joining a profession, or becoming a citizen. We tend to talk about such things as if they were deals, especially when criticizing folks who seem to have reneged. But we aren’t very formal or clear about what exactly one is agreeing to in such cases, and we discourage the negotiation of variations on standard deals. Marriage prenups are frowned on, and often not enforced by courts. Even though people sometimes pray “God, please, if you’ll do this, then I’ll do that,” theologians offer little hope for such deals. And professions and states almost never allow negotiated alterations to their standard deals.
+Yes, these can be complex relations, and it is hard for explicit contracts to cover all relevant cases or details. But that is also true for business deals, where we do typically make explicit, if far from complete, contracts. Yes, by forgoing formal contracts we can signal confidence in our shared good will and emotional inclinations to make good on our promises. But that is also true about business deals. 
+Yes, implicit deals better support hypocrisy, wherein we pretend to promise things that we probably won’t deliver. But there is much hypocrisy in business too. Yes, by preferring standardized conformist deals, we tend to avoid non–conformists, who on average are more error-prone and less capable. But that is also true in business.
+The biggest difference I see between typical business and other deals is that business relations often have a lot more contextual variation that can be usefully addressed via explicit negotiated contract terms. There are so very many kinds of business deals for so many different situations. In contrast, marriages are more alike; the couples I see making explicit marriage contracts are those with unusual tastes or situations. Religions, professions, and states have less need of differing deals for differing members, and they fear some secretly getting better deals than others.
+Thus it makes sense that it is mainly in business relations that we usually pay the many real costs to create formal explicit contracts. Thus people who want to disrespect, hurt and tax business can more safely achieve that via adjusting contract law, without risking much harm to these other types of deals, for which they have more respect. 
+
+
+title: Why Big Implicit Deals?
+
+date: February 28, 2020 12:40 pm
+

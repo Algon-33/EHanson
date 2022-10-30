@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Oedipus famously answered this riddle:
+What goes on four feet in the morning, two feet at noon, and three feet in the evening?
+The answer: people crawl when babies, walk as adults, and use a cane when old. It seems natural to divide lives into three parts: young, middle, and old. But where exactly should the boundaries fall? One tempting approach comes from the facts that in the US today lifespans average about 29000 days, and people typically marry and have kids at about 10000 days. So maybe we should split life into the first, second, and third 10000 days.
+If we split life into 5000 days units, we get:
+
+0 days; 0 years – Birth
+5000 days; 13.7 years – Mid-puberty
+10000 days; 27.4 years – First marriage & kids
+15000 days; 41.1 years – Start to notice body decline
+ 20000 days; 54.8 years – Near kids’ first marriage & kids, own peak of relative income, productivity, 90% still alive
+25000 days; 68.5 years – Near when most retire, 75% still alive
+30000 days; 82.1 years – Typical death age, 42% still alive
+35000 days; 95.8 years – Only 4% still alive
+
+Note that 5000 days is near the doubling time of the world economy.
+In my life, I married at 10250, had my first kid at 11500, started grad school again at 12400, started at GMU at 14600, and was tenured at 16540. And today I am 20,000 days old, within a few days of all my kids being employed college graduates. So a lot happened to me in that third 5000 days, and I now enter the last third of a typical lifespan, with expected declining (but hardly zero) relative productivity. Of course if cryonics works I might live lots longer.
+
+
+title: Days Of Our Lives
+
+date: May 31, 2014 6:20 am
+

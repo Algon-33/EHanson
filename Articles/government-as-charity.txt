@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Matt Zwolinski:
+About $3.2 million was given to reduce the [US] debt in 2011. … Why so little? One possible explanation is that people are selfish. … But this explanation is difficult to square with the large amounts of money that Americans give to charity each year – over $300 billion in 2009. … I suggest … most people know that there are better and more efficient ways of using their money to help other people than giving it to government.
+The usually sharp Will Wilkinson invokes free rider problems, and misses the point. But like Arnold Kling, Bryan Caplan gets it:
+Despite widespread nationalist and statist sentiments, Uncle Sam’s share of the charity market is microscopic – less than .001%.  How very odd. … If you ask “Why don’t people give more money to my charity?,” the best answer is that people hold your charity in low esteem. Similarly, if total donations to the U.S. government add up to a few million dollars a year, the best explanation is that people see lots of better ways to spend not just their dollars, but their charitable dollars. I do wonder, though: Could the U.S. government attract a lot more donations with better marketing? … What if Congress publicly acknowledge the ten biggest donors in an annual ceremony?
+That 0.001% stat is striking, and worth pondering. Most tiny charities can say their donations are low because few have heard of them, or because most who have don’t have a visceral scene of what they really do. But everyone knows about government debt, and a lot about what it pays for.
+Now if we counted the value of time donated, we’d get a bigger figure, as many donate time to local government-run schools, sport leagues, hospitals, police, and roads. So it seems to be non-local government that donors neglect. For some perspective, here is a breakdown of annual US donations:
+
+Money: 300B$: Religion 33%, Educational or youth service 26%, Social or community service 14%, Health 8%, Civic, political, professional, or international 5%, Sport, hobby, arts 4%, Environment/animal 2%.
+Time: ~3B hrs: Religion 35%, Education 14%, Foundations 11%, Human services 9%, Health 8%, Public-society benefit 8%, Arts, culture, humanities, 5%, International affairs, 5%, Environment/animal 2%.
+
+Admittedly, charity donations are far from a direct measure of people’s estimates of social value – charity isn’t about helping, after all. People like to meet and associate with others who donate to the same cause. Even so, it is worth pondering why non-local government gets so few donations of time or money.
+
+
+title: Government As Charity
+
+date: April 24, 2012 4:50 pm
+

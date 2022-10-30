@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Here is my entire 300 word NYT oped:
+Medicare should stop paying for treatments that the British Medical Journal says probably don’t work.
+Today, United States agencies that try to not pay for ineffective treatments face the wrath of Congress, egged on by the surgeons and drug companies whose revenue is threatened. So far, U.S. agencies have pretty much always backed down, and just paid for everything.
+The United Kingdom, where, on average, people live longer than in the U.S., spends only about 9 percent of gross domestic product on medicine, compared with our 18 percent. The British control costs in part by having the will to empower a hard-nosed agency, the National Institute for Health and Clinical Experience (N.I.C.E.), to study treatments and declare some ineffective. Some hope the United States will create a similar agency, but I fear it would be hopelessly politicized and declawed.
+My solution: admit we are cost-control wimps, and outsource our treatment evaluation to the U.K. Pass a simple law saying Medicare (and Medicaid) won’t cover treatments considered but not positively appraised by the Britain’s national health institute.
+Even better, use clinical evidence evaluations of the British Medical Journal. They’ve classified more than 3,000 treatments as either unknown effectiveness (51 percent), beneficial (11 percent), likely to be beneficial (23 percent), trade-off between benefits and harms (7 percent), unlikely to be beneficial (5 percent) and likely to be ineffective or harmful (3 percent). Let’s at least stop paying for these last two categories of treatments! And to put pressure on doctors to collect evidence, let’s stop paying for “unknown effectiveness” treatments after 10 years of use.
+Yes, eventually, this evaluation source would become corrupted, as were the asset risk rating agencies that contributed to the recent financial meltdown. But we’d at least have a few more years to come up with a better solution.
+Interestingly, two of the nine other opeds on “What Medicare Services to Cut, Now” wanted more hospice care.
+Added 4June: Will Wilkinson:
+This reminds me of another proposal, similar in spirit, to de-nationalise the drug-approval process … [by] Daniel Klein …:
+One idea is to recognize the drug approvals of, say, 15 other governments. That is, we reform the U.S. system so that if the drug-approval agency of even one of those 15 countries approves a drug for that country, then the drug is automatically approved in the United States.
+
+
+title: Let Brits Do US Med Eval
+
+date: June 1, 2011 9:00 pm
+

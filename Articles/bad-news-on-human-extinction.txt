@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Disasters that destroy all but a thousand humans are more likely than disasters that destroy all but a hundred humans.  So this news says human extinction is more likely than we thought:
+Conservation biologists may be deluding themselves. An analysis of the minimum number of individuals needed for a species to survive in the long term has found that current conservation practices underestimate the risk of extinction by not fully allowing for the dangers posed by the loss of genetic diversity. If correct, it means the number of individuals in endangered species are being allowed to dwindle too far.
+Lochran Traill at the University of Adelaide, Australia, and colleagues found that for thousands of species the minimum viable population size (MVP) – where a species has a 90 per cent chance of surviving the next 100 years – comes in at thousands rather than hundreds of individuals. Many biologists, Traill says, work with lower numbers and so allow unacceptably high extinction risks.
+
+
+title: Bad News On Human Extinction
+
+date: October 23, 2009 2:15 pm
+

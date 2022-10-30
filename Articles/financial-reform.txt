@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Hollywood Stock Exchange (HSX.com) laid off the majority of its staff [last] Thursday. … The move comes as HSX’s parent company Cantor Fitzgerald’s long-gestating plans to sell shares of box-office earnings hit a legislative roadblock last week. Bowing to pressure from big studios, the House of Representatives and Senate have included a ban on movie box-office futures trading in their proposed financial reform legislation. (more)
+While the US Congress has found time to “reform” finance by preventing movie futures, they have not found time to regulate insider trading by Congress.
+Ordinary folks are banned from “insider trading.” For example, someone who noticed a factory fire via an airplane window was convicted of insider trading for trading on this info before it was publicly announced.  But Garrett Jones tells me that US Congressional representatives, and all their staffers, have long been explicitly exempt from these rules – the SEC is not authorized to regulate Congress, and Congress has not chosen to regulate itself.   So Congress-folk regularly profit by trading on inside info they gain from interactions with industry representatives.  So much so that their average return on investment (ROI) is far larger than the public’s.
+The logic under which ordinary insider trading is harmful while this is not escapes me.  Alas, Congress is just too busy banning movie futures to deal with this “problem.” Sigh.
+
+
+title: Financial Reform
+
+date: July 9, 2010 4:30 pm
+

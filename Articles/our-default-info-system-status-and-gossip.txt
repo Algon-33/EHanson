@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Around 1988-1990, I was working on the idea of “hypertext publishing”, which today we call the web. I was invited to give a talk to a few (<10) academics working on computer based info systems, I think at Xerox PARC. I argued that we then were hampered by our poor systems for finding out what other people had done and said.
+One of the audience members said that, via gossip, he had no problem finding out what others were doing in his field. If anything was important, he’d hear about it via gossip, and if someone didn’t have enough status to get people to gossip about his work, it couldn’t be important enough for him to attend to.
+Today, a physics academic told me (and a few others) that it isn’t a problem that physicists can’t be persuaded by contrarian arguments published in respectable peer reviewed physics journals, as they won’t read or consider it if it goes against their prior expectations. He said what really matters is your status, not whether you’ve published or where. Gossip about high status people gets their arguments considered even without publication, and no one else’s arguments matter anyway. Low status people can contribute by working out the details of high status people’s arguments.
+And from a sociological point of view, of course, they are both correct. In a world that has decided that only arguments from high status people are worthy of considering, each one of them can safely ignore all the others. Even if some low status person somehow forces the world to hear and be persuaded by their argument, the high status people can and will close ranks to ensure that this low status person gains minimal concrete advantages from it, to make sure everyone learns the lesson about going through proper channels.
+I presume you can see the social problem here, of insufficient information aggregation and intellectual progress. They can probably see it too, if forced to think on it. But why should they, and even if they saw the problem why should they risk personal prestige to change things, as success just makes it easier for others to compete with them.
+
+
+title: Our Default Info System: Status And Gossip
+
+date: March 16, 2021 10:05 am
+

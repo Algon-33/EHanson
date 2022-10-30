@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+
+Those who cannot remember the past, are condemned to repeat it. Santayana
+
+I once said:
+
+ I’d guess you can get 80% of the improvement that predict markets offer by using a much simpler solution: collect track records. 
+
+Case in point – stock investors:
+
+ Based on the answers of 215 online broker investors to an Internet questionnaire, we analyze whether investors are able to correctly estimate their own realized stock portfolio performance. We show that investors are hardly able to give a correct estimate of their own past realized stock portfolio performance and that experienced investors are better able to do so. 
+
+ It is hard to learn from experience if you don’t remember what you did and how well that worked.  
+
+
+title: Condemned to Repeat Finance Past
+
+date: May 12, 2008 6:00 am
+

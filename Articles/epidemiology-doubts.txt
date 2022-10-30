@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Sunday’s New York Times Magazine: 
+
+In January 2001, the British epidemiologists … Davey Smith and … Ebrahim … noted that those few times that a randomized trial had been financed to test a hypothesis supported by results from these large observational studies, the hypothesis either failed the test or, at the very least, the test failed to confirm the hypothesis: antioxidants like vitamins E and C and beta carotene did not prevent heart disease, nor did eating copious fiber protect against colon cancer.   
+ The Nurses’ Health Study is the most influential of these cohort studies, and in the six years since the Davey Smith and Ebrahim editorial, a series of new trials have chipped away at its credibility. … The implication of this track record seems hard to avoid. "Even the Nurses’ Health Study, one of the biggest and best of these studies, cannot be used to reliably test small-to-moderate risks or benefits," says Charles Hennekens, a principal investigator with the Nurses’ study from 1976 to 2001. "None of them can."  …
+ But clinical trials also have limitations beyond their exorbitant costs and the years or decades it takes them to provide meaningful results. They can rarely be used, for instance, to study suspected harmful effects. Randomly subjecting thousands of individuals to secondhand tobacco smoke, pollutants or potentially noxious trans fats presents obvious ethical dilemmas … randomized trials "are very good for showing that a drug does what the pharmaceutical company says it does … but not very good for telling you how big the benefit really is and what are the harms in typical people. Because they don’t enroll typical people." …
+
+  
+
+The effect of healthy-user bias has the potential for "big mischief" throughout these large epidemiologic studies. … At its simplest, the problem is that people who faithfully engage in activities that are good for them – taking a drug as prescribed, for instance, or eating what they believe is a healthy diet – are fundamentally different from those who don’t. … wealth associates with less heart disease and better health, at least in developed countries. …
+ [There is also] the compliance or adherer effect. Quite simply, people who comply with their doctors’ orders when given a prescription are different and healthier than people who don’t. … the prescriber effect. The reasons a physician will prescribe one medication to one patient and another or none at all to a different patient are complex and subtle. … "A physician is not going to take somebody either dying of metastatic cancer or in a persistent vegetative state or with end-stage neurologic disease and say, `Let’s get that cholesterol down, Mrs. Jones.’ …
+ We can fall back on several guiding principles, these skeptical epidemiologists say. One is to assume that the first report of an association is incorrect or meaningless, no matter how big that association might be.  … If the association appears consistently in study after study, population after population, but is small – in the range of tens of percent – then doubt it. … If the association involves some aspect of human behavior … then question its validity. … it’s never a bad idea to remain skeptical until somebody spends the time and the money to do a randomized trial and, contrary to much of the history of the endeavor to date, fails to refute it.
+
+ For the record, I’m all in favor of randomly subjecting people to harm, as long as they have been paid enough for participation.  We should just be doing lots more randomized trials of important influences. 
+   
+
+
+title: Epidemiology Doubts
+
+date: September 17, 2007 6:00 am
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Bayesian probability is a great model of rationality that gets lots of important things right, but there are two ways in which its simple version, the one that comes most easily to mind, is extremely misleading.
+One way is that it is too easy to assume that all our thoughts are conscious – in fact we are aware of only a tiny fraction of what goes on in our minds, perhaps only one part in a thousand.  We have to deal with not only “running on error-prone hardware”, but worse, relying on purposely misleading inputs.  Our subconscious often makes coordinated efforts to mislead us on particular topics.
+But at least many folks are aware of and try to deal with this; for example, I’ve seen a lot of good related posts on this at Less Wrong lately.  There is, however an even bigger way in which the simple Bayesian model is extremely misleading, and I’ve seen no discussion of it at Less Wrong.  We may see one part in a thousand of our minds, but that fraction pales by comparison to the fact that we are each only one part in seven billion of living humanity.
+Taking this fact seriously requires even bigger changes to how we think about rationality.  OK, we don’t need to consider it for topics that only we can influence.  But for most interesting important topics, it matters far more what the entire world does than what we personally do.  For such topics, rationality consists mainly in the world having and using good systems (academia, news media, wikipedia, prediction markets, etc.) for generating and distributing reliable beliefs on which everyone can act.
+When seven billion minds are involved, the overwhelming consideration must be managing a division of labor, so that we don’t each have to redo the same work.  Together we must manage systems for deciding who should be heard on what.  Given such systems, each of us will make our strongest contributions, by far, by fitting into these systems.
+So to promote rationality on interesting important topics, your overwhelming consideration simply must be:  on what topics will the world’s systems for deciding who to hear on what listen substantially to you?   Your efforts to ponder and make progress will be largely wasted if you focus on topics where none of the world’s “who to hear on what” systems rate you as someone worth hearing.  You must not only find something worth saying, but also something that will be heard.
+Yes, existing who-to-hear systems are far from perfect, but that fact simply does not make it rational for you to work on topics where a better system would approve you, if only such systems existed.   Wishes are not horses.  It might make sense for you to work on reforming our systems, but even then your best efforts will work through channels where current systems can rate you as a person to hear on that meta topic.
+When what matters is how the world acts, not how you act, rationality on your part consists mainly in improving the rationality of the world’s beliefs, as determined by its main systems for deciding who to believe about what.  Just wishing we had other systems, or acting as if we had them, is delusion, not rationality.
+From a conversation with Steve Rayhawk.
+
+
+title: Real Rationality
+
+date: January 20, 2010 12:15 am
+

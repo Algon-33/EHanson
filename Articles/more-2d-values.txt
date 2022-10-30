@@ -1,0 +1,38 @@
+author: Robin Hanson
+
+text: 
+Back in ’09 I posted on the 2D map of values from the World Values Survey, and how nations are distributed in that 2D space. A related 2D space of values is detailed in this new JPSP paper. Apparently 19 different values fall naturally on a circle:
+
+Here are more detailed descriptions of these values:
+
+Self-direction–thought: Freedom to cultivate one’s own ideas and abilities
+Self-direction–action: Freedom to determine one’s own actions
+Stimulation: Excitement, novelty, and change
+Hedonism: Pleasure and sensuous gratification
+Achievement: Success according to social standards
+Power–dominance: Power through exercising control over people
+Power–resources: Power through control of material and social resources
+Face: Security and power through maintaining one’s public image and avoiding
+humiliation
+Security–personal: Safety in one’s immediate environment
+Security–societal: Safety and stability in the wider society
+Tradition: Maintaining and preserving cultural, family, or religious traditions
+Conformity–rules: Compliance with rules, laws, and formal obligations
+Conformity–interpersonal: Avoidance of upsetting or harming other people
+Humility: Recognizing one’s insignificance in the larger scheme of things
+Benevolence–dependability: Being a reliable and trustworthy member of the ingroup
+Benevolence–caring: Devotion to the welfare of ingroup members
+Universalism–concern: Commitment to equality, justice, and protection for all people
+Universalism–nature: Preservation of the natural environment
+Universalism–tolerance: Acceptance and understanding of those who are different from oneself
+
+Of course since they are based on surveys, these are probably mostly about values as seen in a far-view.
+Added 21Aug: The upper values on the circle are those celebrated more by richer societies like ours, relative to poorer societies like our farmer ancestors. (Foragers were more in the middle.) In older societies, the upper values are also more celebrated by the rich. The left-side more-community-oriented are also more common in the “East,” which I’ve suggested were centrally located places more often conquered by invaders. The more peripheral “West” tended more to emphasize right-side family and individual values.
+Added 24 Aug: Far mode emphasizes the positive over the negative, and the social over the personal. So the upper left area of the circle are the most far values, and the lower right the most near values. This also seems to map onto the (near) things that we actually want, and the (far) things we want others to think that we want.
+ 
+
+
+title: More 2D Values
+
+date: August 20, 2012 10:30 pm
+

@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Our forager ancestors developed a strong aversion to inequality, for good functional reasons. Norms against dominance were humanity’s first strong social norms. But our world is a very different place now, and other than our inherited dislike of inequality, it is not clear that inequality is on net good or bad. Since researchers are intuitively so averse to inequality, however, they are reluctant to publish on inequality’s advantages.  So it is worth paying attention when they do:
+Using the Chinese Urban Household Survey data between 1997 and 2006, we find that income inequality has a negative (positive) effect on household consumption net of education expenditures (savings) even after we control for household income. We argue that people save to improve their social status when social status is associated with pecuniary and non-pecuniary benefits. Rising income inequality can strengthen the incentives of status-seeking savings by increasing the benefit of improving status, and by enlarging the wealth level required for status upgrading. We also find that the negative effect of income inequality on consumption is stronger for poorer and younger people and that income inequality stimulates more education investment, which are consistent with the status-seeking hypothesis. (more)
+
+
+title: Unequal Folks Save
+
+date: January 8, 2011 9:35 am
+

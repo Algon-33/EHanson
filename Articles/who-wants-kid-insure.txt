@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Financial inequality seems to be shaping up as a central issue in the US presidential campaign. (Other sorts of inequality, not so much.) Many note that such inequality has increased in recent decades. But let me repeat my anti-trend-tracking matra: if what matters is the efficiency of our institutions, trends are irrelevant unless they reveal such inefficiencies. So are the institutions that influence our financial inequality inefficient?
+Probably the simplest and strongest argument is insurance market failure: being risk-averse, we want to insure against variations in our distant future income, but since this insurance is not available privately, governments must provide it.  Why exactly this is not available privately if customers want it isn’t usually clarified. And it could be that the incentive costs of the insurance outweigh its risk-reduction benefits. But this is at least in the ballpark of a plausible institutional argument.
+However, it seems to me that as a parent I wouldn’t have wanted to insure against any but the very low tail of possibilities of for my kids future income. I like the idea that one of my kids might someday be very successful or famous. And asking this of my undergrads consistently gets the same answer – very few want such insurance for their own or their kids’ future. Furthermore, parents do not much use the one clear insurance option they have – to teach their kids to share their future income with each other. Most societies used to do this, and our culture evolved away from that. So while teaching kids to share income is both personally and culturally possible, we just don’t do it.
+Now you might argue that this is a signaling failure – that we would each in fact like such insurance, but dislike what our willingness to take it would say about us. But you could also tell your kids to keep this income-sharing policy a family secret, only to tell potential spouses. And once such sharing became a long family tradition then continuing it would say much less about personal features. But it seems to me that even if given the option to legally commit all their descendants to such a policy, to prevent all future signaling about it, most folks would still reject such insurance.
+Thus it seems to me that most folks think the incentives costs outweigh the risk-reduction gains for such insurance, and do not want it. Thus the insurance market failure rationale for taxing the rich extra just fails.
+
+
+title: Who Wants Kid $ Insure?
+
+date: January 25, 2012 11:00 am
+

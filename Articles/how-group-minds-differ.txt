@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+We humans have remarkable minds, minds more capable in many ways that in any other animal, or any artificial system so far created. Many give a lot of thought to the more capable artificial “super-intelligences” that we will likely create someday. But I’m more interested now in the “super-intelligences” that we already have: group minds.
+Today, groups of humans together form larger minds that are in many ways more capable than individual minds. In fact, the human mind evolved mainly to function well in bands of 20-50 foragers, who lived closely for many years. And today the seven billion of us are clumped together in many ways into all sorts of group minds.
+Consider a four-way classification:
+
+Natural – The many complex mechanisms we inherit from our forager ancestors enable us to fluidly and effectively manage small tightly-interacting group minds without much formal organization.
+Formal – The formal structures of standard organizations (i.e., those with “org charts”) allow much larger group minds for firms, clubs, and governments.
+Mobs = Loose informal communities structured mainly by simple gossip and status, sometimes called “mobs”, often form group minds on vast, even global, scales.
+Special – Specialized communities like academic disciplines can often form group minds on particular topics using less structure.
+
+A quick web search finds that many embrace the basic concept of group minds, but I found few directly addressing this very basic question: how do group minds tend to differ from individual human minds? The answer to this seems useful in imagining futures where group minds matter even more than today.
+In fact, future artificial minds are likely to be created and regulated by group minds, and in their own image, just as the modularity structure of software today usually reflects the organization structure of the group that made it. The main limit to getting better artificial minds later might be in getting better group minds before then.
+So, how do group minds differ from individual minds? I can see several ways. One obvious difference is that, while human brains are very parallel computers, when humans reason consciously, we tend to reason sequentially. In contrast, large group minds mostly reason in parallel. This can make it a little harder to find out what they think at any one time.
+Another difference is that while human brains are organized according to levels of abstraction, and devote roughly similar resources to different abstraction levels, standard formal organizations devote far fewer resources to higher levels of abstraction. It is hard to tell if mobs also suffer a similar abstract-reasoning deficit.
+As mobs lack centralized coordination, it is much harder to have a discussion with a mob, or to persuade a mob to change its mind. It is hard to ask a mob to consider a particular case or argument. And it is especially hard to have a Socratic dialogue with a mob, wherein you ask it questions and try to get it to admit that different answers it has given contradict each other.
+As individuals in mobs have weaker incentives regarding accuracy, mobs try less hard to get their beliefs right. Individual in mobs instead have stronger incentives to look good and loyal to other mob members. So mobs are rationally irrational in elections, and we created law to avoid the rush-to-judgment failures of mobs. As a result, mobs more easily get stuck on particular socially-desirable beliefs.
+When each person in the mob wants to show their allegiance and wisdom by backing a party line, it is harder for such a mob to give much thought to the possibility that its party line might be wrong. Individual humans, in contrast, are better able to systematically consider how they might be wrong. Such thoughts more often actually induce them to change their minds.
+Compared to mobs, standard formal orgs are at least able to have discussions, engage arguments, and consider that they might be wrong. However, as these happen mostly via the support of top org people, and few people are near that top, this conversation capacity is quite limited compared to that of individuals. But at least it is there. However such organizations also suffer from main known problems, such as yes-men and reluctance to pass bad news up the chain.
+At the global level one of the big trends over the last few decades is away from the formal org group minds of nations, churches, and firms, and toward the mob group mind of a world-wide elite. Supported by mob-like expert group minds in academia, law, and media. Our world is thus likely to suffer more soon from mob mind inadequacies.
+Prediction markets are capable of creating fast-thinking accurate group minds that consider all relevant levels of abstraction. They can even be asked questions, though not as fluidly and easily as can individuals. If only our mob minds didn’t hate them so much.
+
+
+title: How Group Minds Differ
+
+date: December 14, 2021 12:10 pm
+

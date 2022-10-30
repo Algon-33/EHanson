@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Many firms fail to pass bad news up the management chain, and suffer as a result, even though simple fixes have long been known:
+Wall Street Journal placed the blame for the “rot at GE” on former CEO Jeffrey Immelt’s “success theater,” pointing to what analysts and insiders said was a history of selectively positive projections, a culture of overconfidence and a disinterest in hearing or delivering bad news. …The article puts GE well out of its usual role as management exemplar. And it shines a light on a problem endemic to corporate America, leadership experts say. People naturally avoid conflict and fear delivering bad news. But in professional workplaces where a can-do attitude is valued above all else, and fears about job security remain common, getting unvarnished feedback and speaking candidly can be especially hard. …
+So how can leaders avoid a culture of “success theater?” … They have to model the behavior, being realistic about goals and forecasts and candid when things go wrong. They should host town halls where employees can speak up with criticism, structuring them so bad news can flow to the top. For instance, he recommends getting respected mid-level managers to first interview lower-level employees about what’s not working to make sure tough subjects are aired. …
+Doing that is harder than it sounds, making it critical for leaders to create systemic ways to offer feedback, rather than just talking about it. She tells the story of a former eBay manager who would leave a locked orange box near the office bathrooms where people could leave critical questions. He would later read them aloud in meetings — with someone else unlocking the box to prove he hadn’t edited its contents — hostile questions and all. “People never trusted anything was really anonymous except paper,” she said. “He did it week in and week out.”
+When she worked at Google, where she led online sales and operations for AdSense, YouTube and Doubleclick, she had a crystal statue she called the “I was wrong, you were right” statue that she’d hand out to colleagues and direct reports. (more)
+Consider what signal a firm sends by NOT regularly reading the contents of locked anonymous bad news boxes at staff meetings. They in effect admit that they aren’t willing to pay a small cost to overcome a big problem, if that interferes with the usual political games. You might think investors would see this as a big red flag, but in fact they hardly care.
+I’m not sure how exactly to interpret this equilibrium, but it is clearly bad news for prediction markets in firms. Such markets are also sold as helping firms to uncover useful bad news. If firms don’t do easier simpler things to learn bad news, why should we expect them to do more complex expensive things?
+
+
+title: Bad-News Boxes
+
+date: February 27, 2018 2:34 pm
+

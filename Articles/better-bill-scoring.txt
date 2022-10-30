@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Megan McArdle says med reform will pass, via bills exploiting CBO budget scoring errors:
+I now put the chances of a substantial health care bill passing at 75%, and the chances of the Democrats losing the house in 2010 at about 66%. … The real game changer is that the CBO is willing to score health care savings on the grounds that the bill contains automatic spending cuts.
+Conservatives are filled with rage and anguish. …  They are absolutely right:  the savings cuts will not be made, and I doubt that many in the Democratic party leadership, or the liberal wonkosphere believe that they will. …  The fact that the CBO has minimal discretion and uses roughly the same standards for every analysis is, despite its problems, a feature rather than a bug.  We may not like the fact that the CBO scores what’s in the law, rather than what is most likely to happen.  But the alternative is what?  An agency that can give the thumbs up or thumbs down according to how it feels about the legislators? …
+This will make it very hard to keep the bill from passing, because legislators are, natch, more concerned about the appearance of fiscal rectitude than actual conservative budgeting.  … The public is probably going to accept the CBO numbers.
+The alternative is prediction markets.  Compared to the value of making good decisions on these bills, or to the effort spent in “rage and anguish” on them, the cost to create prediction markets giving quality unbiased estimates of actual bill budgets would be small.
+So why don’t now-loudly-wailing conservatives direct some of their energy to creating and promoting bill-scoring prediction markets?  Because they expect better bill budget estimates to make their positions look worse as often as better.  Sure, better estimates would help conservatives in this particular case, but they aren’t fool enough to think liberals lie about budgets more often than conservatives.
+But aren’t there substantial organized political groups dedicated to uncovering and promoting the best policies, no matter whose ox they gore?  Apparently not.
+
+
+title: Better Bill Scoring
+
+date: September 19, 2009 12:15 pm
+

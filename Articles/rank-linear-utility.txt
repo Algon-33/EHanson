@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Just out in Management Science, a very simple, general, and provocative empirical theory of real human decisions: in terms of time or money or any other quantity, utility is linear in rank among recently remembered similar items. There is otherwise no risk-aversion or time-discounting, etc. This makes sense of a lot of data. Details:
+We present a theoretical account of the origin of the shapes of utility, probability weighting, and temporal discounting functions. In an experimental test of the theory, we systematically change the shape of revealed utility, weighting, and discounting functions by manipulating the distribution of monies, probabilities, and delays in the choices used to elicit them. The data demonstrate that there is no stable mapping between attribute values and their subjective equivalents. Expected and discounted utility theories, and also their descendants such as prospect theory and hyperbolic discounting theory, simply assert stable mappings to describe choice data and offer no account of the instability we find. We explain where the shape of the mapping comes from and, in describing the mechanism by which people choose, explain why the shape depends on the distribution of gains, losses, risks, and delays in the environment. …
+People behave as if the subjective value of an amount, risk, or delay is given by its rank position in the context created by other recently experienced amounts, risks, and delays. … To summarize the above studies, people behave as if the subjective value of an amount (or probability or delay) is determined, at least in part, by its rank position in the set of values currently in a person’s head. So, for example, $10 has a higher subjective value in the set $2, $5, $8, and $15 because it ranks 2nd, but has a lower subjective value in the set $2, $15, $19, and $25 because it ranks 4th. …
+Rather than supporting a change in the shape of a utility, weighting, or discounting function, or a change in the primitives which people process, our data suggest that the whole enterprise of using stable functions to translate between objective and subjective values should be abandoned. …. There is no method which gives, even with careful counterbalancing, the true level of risk aversion or the true shape of a utility function. In any given situation, one can observe choices and infer a shape or level of risk aversion. But as soon as the context changes—that is, as soon as the decision maker experiences any new amount—the measured shape or level of risk aversion will no longer apply. (more; ungated;also)
+
+
+title: Rank-Linear Utility
+
+date: April 25, 2014 6:50 pm
+

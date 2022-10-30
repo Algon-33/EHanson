@@ -1,0 +1,48 @@
+author: Hal Finney
+
+text: 
+A recent comment here by Brian expressed amusement at a citation of CBS news. Indeed, if you talk to a lay person about bias, one of the first examples that will come up is bias in the news media. A recent Zogby poll confirms widespread belief in the existence of such bias:
+
+The vast majority of American voters believe media bias is alive and well – 83% of likely voters said the media is biased in one direction or another, while just 11% believe the media doesn’t take political sides…
+
+I had a preconception that most people perceive bias as a function of difference from their own beliefs. Conservatives complain about liberal bias, while liberals complain about conservative bias. However the Zogby poll revealed that things are not as symmetrical as I had assumed:
+
+While 97% of Republicans surveyed said the media are liberal, two-thirds of political independents feel the same, but fewer than one in four independents (23%) said they saw a conservative bias. Democrats, while much more likely to perceive a conservative bias than other groups, were not nearly as sure the media was against them as were the Republicans. While Republicans were unified in their perception of a left-wing media, just two-thirds of Democrats were certain the media skewed right – and 17% said the bias favored the left.
+
+Overall, 64% perceived a liberal bias compared to 28% who see conservative bias.
+  
+In thinking about these results, it occurs to me that when liberals complain about conservative bias, they often focus their attention on just a few media outlets. The worst offender is Fox News, a network which advertises their "Fair and Balanced" coverage but which is widely perceived among liberals as being strongly biased to the right. It appears from these poll results that liberals are not as unhappy about opposing bias among the broad range of media.
+An academic analysis of media bias from UCLA a couple of years ago attempts to offer a more objective appraisal (PDF preprint available here). This is of course a highly controversial topic and at first it might seem impossible to fairly quantify media bias. The methodology they developed is to study media sources, including newspapers, TV shows and web sites, and to look at how often they cite various think tanks and other policy groups. The idea would be that if they consistently cite liberal groups they are showing a liberal bias, and similarly for conservative groups.
+But how to measure the groups, objectively?  Here is the real novelty. The study looks at how often members of Congress of various political views cite the same groups, and correlate those rates with the Congressperson’s scores from the ADA, a liberal group. ADA like other such groups gives Senators and Representatives numerical scores showing where they are on the liberal-conservative spectrum, and I understand that these ratings are generally considered to be reasonably objective and not too controversial.
+By comparing the citation rates from the media with those from members of Congress with various ADA scores, the researchers come up with an equivalent ADA score for each media source. This then measures where they are on the political spectrum, compared to the average scores for Congressional representatives (the average ADA for Congress at the time was 50.1 on a scale from 0 to 100).
+Although this methodology sounds reasonable, the results were surprising to me. The bottom line is that, of the 20 media outlets studied, almost all were had ADA scores above 50, putting them on the liberal side of the spectrum. Here are the results from Table IV of the paper, ranking media outlets in order of distance from the center, i.e. from least to most biased by the methodology of the study. For reference, the average ADA score for Congressional Democrats was 84.3:
+
+55.8    Newshour with Jim Lehrer
+56.0    CNN NewsNight with Aaron Brown
+56.1    ABC Good Morning America
+60.4    Drudge Report
+39.7    Fox News’ Special Report with Brit Hume
+61.0    ABC World News Tonight
+61.6    NBC Nightly News
+63.4    USA Today
+64.0    NBC Today Show
+35.4    Washington Times
+65.4    Time Magazine
+65.8    U.S. News and World Report
+66.3    NPR Morning Edition
+66.3    Newsweek
+66.6    CBS Early Show
+66.6    Washington Post
+70.0    LA Times
+73.7    CBS Evening News
+73.7    New York Times
+85.1    Wall Street Journal
+
+If we accept these results at face value, Brian is right to be skeptical about the use of CBS news as a factual source, especially on a matter which reflects badly on a conservative administration. CBS Evening News was tied for the 2nd most biased source in the study. We also note that the one Fox News program does perhaps surprisingly well given the criticism the network often receives, coming in as the fifth least biased.
+Granted, the study’s methodology is somewhat unorthodox and indirect. It occurs to me that the same results could occur if liberals and the media both cite mostly factual, unbiased sources (in keeping with the liberal claim to be the "reality based community") while conservatives and conservative media cite sources that have strong biases. On the other hand, the consistency between the results of this study and public polling results suggests that the reality is what we see here, a widespread if modest liberal bias in the media which is recognized accurately by the public.
+
+
+title: Media Bias
+
+date: April 5, 2007 3:09 pm
+

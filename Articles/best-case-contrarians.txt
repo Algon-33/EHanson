@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Consider opinions distributed over a continuous parameter, like the chance of rain tomorrow. Averaging over many topics, accuracy is highest at the median, and falls away for other percentile ranks. This is bad news for contrarians, who sit at extreme percentile ranks. If you want to think you are right as a contrarian, you have to think your case is an exception to this overall pattern, due to some unusual feature of you or your situation. A feature that suggests you know more than them.
+Yet I am often tempted to hold contrarian opinions. In this post I want to describe the best case for being a contrarian. I’m not saying that most contrarians are actually in this best case. I’m saying that this is the case you most want to be in as a contrarian, as it can most justify your position.
+I recently posted on how innovation is highest for more fragmented species, as species so often go wrong via conformity traps. For example, peacocks are now going wrong together with overly long tails. To win their local competitions, each peacock needs to have and pick the tails that are sexy to other peacocks, even if that makes them all more vulnerable to predators.
+Salmon go wrong by having to swim up hard hazard-filled rivers to get to their mating groups. Only a third of them survive to return from that trip. Now imagine a salmon sitting in the ocean at the mouth of the river, saying to the other salmon:
+We are suffering from a conformity trap here. I’m gonna stay and mate here, instead of going up river. If you stay here and mate with me, then we can avoid all those river hazards. We’ll survive, with more energy to help our kids, and win out over the others. Who’s with me?
+Now salmon listening to his should wonder if genetic losers are especially likely to make such contrarian speeches. After all, they are the least likely to survive the river, and so the most desperate to avoid it. For all its harms, the river does function to sort out the salmon with the best genes. If you make it to the end, you know your mating partner will also be unusually fit.
+So yes, those less likely to pass the river test are more likely to become salmon contrarians. But they aren’t the only ones. Also more likely are:
+A) those who can better sort good from bad mates in other ways,
+B) those who can better see the conformity traps, and see they are especially big,
+C) those who can better see which are the best places to start alternatives to the conformity traps, and
+D) those who happen to have invested less in, and thus are less tied to, existing traps. Like the young.
+Our world suffers from myriad conformity traps. Like investors who must coordinate with other investors (e.g., via the different levels of venture capital), may feel they must do crypto, as that’s what the others are doing. Even if they don’t think that much of crypto. Like academics in fields that use too much math feel they also need to do too much math if they are to be respected there. Like journalists and think tank pundits feel they must write on the topics on which everyone else is talking, even if other topics are more important.
+In all of these cases, it can make sense to try to initiate a contrarian alternative. If many others know about the existing conformity traps, they may also be looking for a chance to escape. The questions are then: when is the right time and place to initiate a contrarian move to escape such a trap. Who is best place to initiate, and how? And, what is the ratio of the gains of success to the costs of failure?
+In situations like this, the people who actually try contrarian initiatives may not be at all wrong on their estimates about the truth. They will be different in some ways yes, but not necessarily overall on truth accuracy. In fact, they are likely to be more informed on average in the sense of being better able to judge the overall conformity trap situation, and to evaluate partners in unusual ways.
+That is, they can better judge how bad is the overall conformity trap, where are promising alternatives, and who are promising partners. Even if, yes, they are also probably worse on average at winning within the usual conformity-trapped system. Compared to others, contrarians are on average better at being contrarians, and worse at being conformists. Duh.
+And that’s the best case for being a contrarian. Not so much because you are just better able to see truth in general. But because you are likely better in particular at seeing when it is time to bail on a collective that is all going wrong together. If the gains from success are high relative to the costs of failure, then most such bids should fail, making the contrarian bid “wrong” most of the time. But not making most bids themselves into mistakes.
+
+
+title: Best Case Contrarians
+
+date: January 16, 2022 4:10 pm
+

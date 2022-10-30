@@ -1,0 +1,47 @@
+author: Robin Hanson
+
+text: 
+In February 2020, I made many bets on Covid19, including 11 bets at ten to one odds on if it would cause 10 million deaths worldwide by 2022, as estimated by WHO.
+WHO has a Q&A page on Covid excess deaths that includes this section:
+Why is excess mortality the preferred measure? … aggregate COVID-19 case and death numbers … being reported to WHO … under-estimate the number of lives lost due to the pandemic … In light of the challenges posed by using reported data on COVID-19 cases and deaths, excess mortality is considered a more objective and comparable measure that accounts for both the direct and indirect impacts of the pandemic.
+This WHO page, updated daily, lists reported deaths. This WHO page estimated “The true death toll of COVID-19”, or world covid excess deaths, as of Dec. 31, 2020. I expect them to post a page like it soon with death estimates as of Dec. 31, 2021. But I doubt those estimates will differ much from The Economist, which as of Dec. 30, 2021 said:
+The pandemic’s true death toll; Our daily estimate of excess deaths around the world … Although the official number of deaths caused by covid-19 is now 5.4m, our single best estimate is that the actual toll is 18.6m people. We find that there is a 95% chance that the true value lies between 11.6m and 21.6m additional deaths.
+
+For many bets we agreed that if there were two number estimates instead of one, we’d go with a geometric mean of them. The geometric mean of 5.4 and 18.6 is 10.02.
+Here is the current status of my 11 bets, with a link to the bets and the amount I’m owed. (I’ll update this as things change.)
+These claim to win, say I should pay them:
+
+https://twitter.com/sspencer_smb/status/1233927133753479169, $10,000
+https://twitter.com/isajun1/status/1230371986267725825, $200
+
+No response since 31Dec:
+
+A Twitter msg bet that I’m keeping private for now, $5000
+
+Paid to me:
+
+https://twitter.com/entirelyuseles/status/1234132684521082882, $500
+https://twitter.com/KyleBogosian/status/1230339600171716613, $500
+https://twitter.com/guillecosta6/status/1230302275136086016, $50
+https://twitter.com/planes_great/status/1230517106254516225, $1000
+https://twitter.com/daveworld4000/status/1233920627603582976, $500
+https://twitter.com/gojomo/status/1230329263498248193, $400
+https://twitter.com/Glossophiliac75/status/1230529156691177472, $150
+https://twitter.com/pstrandmark/status/1230612801405755393, $100
+
+Some say that it is rude of me to brag about winning. But I need to make this bet situation public in order to pressure bettors to make good on their promises.
+Some say it is immoral to bet on death. But I didn’t cause these deaths, and my public bets helped convince many to take this problem more seriously, for which they’ve thanked me.
+Added 12Jan: Many are talking as if the issue is direct vs. indirect deaths, but I’d be very surprised if more than a third of excess deaths are indirect. Most of them were caused directly by covid, but just not caught by official testing and diagnosis systems.
+Added 18Jan: Nature article:
+Demographers, data scientists and public-health experts are striving to narrow the uncertainties for a global estimate of pandemic deaths. … Among these models, the World Health Organization (WHO) is still working on its first global estimate, but the Institute for Health Metrics and Evaluation in Seattle, Washington, offers daily updates of its own modelled results, as well as projections of how quickly the global toll might rise. And one of the highest-profile attempts to model a global estimate has come from the news media. The Economist magazine in London has used a machine-learning approach to produce an estimate of 12 million to 22 million excess deaths.
+That IHME 95% confidence interval is 9 to 18 million deaths.
+Added 26Jan: This Sept. 2021 PLOS paper says
+[In] the United States … in 2020 … there were 375,235 excess deaths, with 83% attributable to direct, and 17% attributable to indirect effects of COVID-19.
+Added 9May: WHO finally speaks on 2021 excess deaths:
+ 
+
+
+title: My 11 Bets at 10-1 Odds On 10M Covid deaths by 2022
+
+date: January 10, 2022 7:34 pm
+

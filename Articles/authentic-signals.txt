@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+Many people (including me) claim that we eat food and drink water because without nutrition and fluids we would starve and dehydrate. Imagine this response:
+No, people eat food because they are hungry, and drink water because they are thirsty. We don’t need abstract concepts like nutrition and dehydration to explain something so elemental as following our authentic feelings and desires.
+Yes hunger and thirst are direct proximate causes of eating and drinking. But we are often interested in finding more distal explanations of such proximate causes. So almost no one objects to the nutrition and dehydration explanations of eating and drinking.
+However, one of the most common criticisms I get about signaling explanations of human behavior is that we are instead just following authentic feelings and desires. As in this exchange:
+
+If you are high status, others care about your views on wide range of topics. If low status, hard to get them to listen even on the topics on which you are most expert. So folks often express opinions on many topics, to try to seem high status.
+— robin hanson (@robinhanson) November 14, 2017
+
+
+No, people just naturally care about a lot of shit. It takes discipline to focus tweets on just one subject. https://t.co/qXzVDPPV82
+— jwindz (@jwindz) November 15, 2017
+
+Yes, people don’t need to consciously force themselves to express opinions on many topics. That habit comes quite naturally. Even so, we might want to explain that habit in terms of more basic distal forces.
+I’m an economics professor, and the vast majority of economic papers and books that offer explanations for human behaviors don’t bother to distinguish if their explanations are mediated by conscious intentions or not. (In fact, most papers on any topic don’t take a stance on most possible distinctions related to their topic.) Economics are in fact famously wary (too wary I’d say) of survey data, as they fear conscious thoughts can mislead about economic behaviors.
+Yet I’ve had even economics colleagues tell me that I should take more care, when I point out possible signaling explanations, to say if I am claiming that such signaling effects are consciously intended. But why would it be more important to distinguish conscious intentions in this context, compared to the rest of economics and social science?
+My best guess is that what is going on here is that our social norms disapprove mildly of consciously intended signaling. Just as we aren’t supposed to brag, we also aren’t supposed to do things on purpose to make ourselves look good. It is okay to look good, but only as a side effect of doing things for other reasons. And as we usually claim other reasons for these behaviors, if we are actually doing them for signaling reasons we could also be accused of lying, which is also a norm violation.
+Thus many see my signaling explanation proposals as accusing them personally of norm violations. At which point, they become vastly more interested in defending themselves against this accusation than in evaluating my general claims about human behavior. Perhaps if I were a higher status professor publishing in a prestigious journal, they might be reluctant to publicly challenge my claimed focus on distal explanations of general behavior patterns. But for mere tweets or blog posts by someone like me, they feel quite entitled to read me as accusing them of being bad people, unless I explicitly say otherwise. (And perhaps even then.) Sigh.
+For the record, the degree of conscious intent of any behavior is a mildly interesting facet, but I’m less interested in it than are most people. This is in part because I’m inclined to give people less of a moral or legal pass on the harms resulting from behaviors if people do not consciously intend such consequences. It is just too easy for people to not notice such consequences, when they find it in their interest to not notice.
+
+
+title: Authentic Signals
+
+date: November 18, 2017 3:35 pm
+

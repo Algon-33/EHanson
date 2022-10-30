@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Today begins a conference on Global Catastrophic Risk I’m attending.  Coincidentally, Bryan Caplan recently pointed us to a new paper by Andrew Healy:
+
+Using comprehensive data on natural disasters, government spending, and election returns, I show that voters reward disaster relief spending but not disaster prevention spending. This aspect of voter behavior creates a large distortion in the incentives that governments face, since the data show that prevention spending substantially reduces future damage. … Given mean annual prevention spending of $195 million and mean disaster damage of $16.5 billion, the regression estimates that a $1 increase in prevention spending resulted in a $8.30 decrease in disaster damage, and this estimate captures only benefits that occur in the five years from 2000-2004.
+
+My and other conference presentation describe other disaster biases, such as not paying due attention to the very largest possible disasters, and not make extra preparations against human extinction.  
+
+
+title: Disaster Bias
+
+date: July 17, 2008 6:00 am
+

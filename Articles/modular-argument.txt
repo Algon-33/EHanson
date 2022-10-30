@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Even in supposedly serious and noble-minded web conversation, an awful lot of it seems to add little to understanding.  Yes, at times, even at Overcoming Bias.  I have long wondered what the core problem is, and how to make it clear to these authors.  Here is my best shot: good arguments try to be modular.  
+ When I moved from physics to software long ago, I learned the overwhelming importance of modularity; you must write complex software in a way that lets you test and change one small part with minimal attention to other parts.  When I became an academic I learned that academia gains its power similarly.  Academics specialize, and write so related specialists can understand each contribution with a minimal understanding of other contributions.
+ A good arguer considers what his audience knows, and what sort of evidence or analysis they find persuasive.  A good arguer may have some big final conclusions he wants his audience to reach, but he will usually not try to argue for them in one step.   Instead, he breaks his argument into small modular parts, each of which is pretty likely to convince most of an open-minded audience of one small new conclusion in a relatively short time.  He takes care to explain what he means in terms they understand, and to summarize his new small conclusion so that it can be ready to build on in future arguments.  
+ Of course sometimes he will over or under estimate such tasks, his audience will find flaws in his argument, or he will probe to see what future arguments may require.   And sometimes the reward will not seem worth the effort.  
+ In useless arguments, people often just state strong claims, daring others to prove them wrong.  Such a position taker often does not even bother to make his claim clear, daring others to prove that nothing he could mean could be true.  Such bad arguers are more often unwilling to respond to questions asking them to clarify their claim, or to outline what argument path could support their claim.
+ Of course not every audience is worth the effort to craft an argument to convince them, and there can be a point to just making clear to some audience that there are people who disagree with them.  But if you bother to talk a lot to some audience not yet convinced of your views, yet you do not pursue a path of modular arguments to convince them, ask yourself: just why are you talking to them?
+
+
+title: Modular Argument
+
+date: April 8, 2007 8:37 pm
+

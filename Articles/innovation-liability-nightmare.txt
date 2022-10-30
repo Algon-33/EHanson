@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+When I try to imagine how our civilization might rot and decline over the coming millennia, my thoughts first go to innovation, as that has long been our main engine of growth. And while over the years I’ve often struggled to think of ways to raise the rate of innovation, it seems much easier to find ways to cut it; in general, it is easier to break things than improve them.
+For example, we might press on one of our legal system’s key flaws. Today, law does far more to discourage A from harming B than to encourage A to help B. B can often sue A for compensation when A harms B, but A can rarely sue B for compensation when A helped B. Law. Today is mostly a system of brakes, not of engines or accelerators.
+This is less of a problem for auto accidents or pandemics, where the most important effects of the most important actions are indeed harms. But it is a much bigger problem in innovation, where the main problem is too little incentive to help. In general, society gains far more from innovations than do the people who push for them. So innovation needs engines, not brakes.
+The problem is that even events whose effects are overall beneficial will still have some harmful effects. For example, if you invent a new better mousetrap, you may displace previous mousetrap makers. Or by introducing cars, you may hurt people who supplied or managed horses. So what if our legal system makes it easier to sue people for the harms caused by their innovations?
+For example, many have complained lately of negative effects of social media, such as increasing anxiety, decreasing privacy, and passing on “fake” news. And just as legal liability has been a big weapon in recent campaigns against harms from tobacco and pain-killers, liability may well also become a big weapon against social media. Wielded especially strongly against those who have most innovated and developed social media.
+Imagine that holding innovators liable for the negative effects of their innovations became more widespread. But without increasing the rewards we allow to innovators for the benefits that they bestow. Together with the trend to increased regulation, this might just become enough to kill the innovation goose that lays our golden egg of growth.
+
+
+title: Innovation Liability Nightmare
+
+date: December 26, 2021 1:10 pm
+

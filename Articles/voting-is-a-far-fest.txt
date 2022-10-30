@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+In 6 experiments, … priming high power led to more abstract processing than did priming low power. (more)
+To many of us it seems obvious that collective choice often goes very wrong. Yes there are many real and serious coordination problems, and yes collective choice institutions can and do often address such problems. Even so, democratic policy often seems quite dysfunctional.
+There have been many attempts to account for democracy’s dysfunction, but it has turned out to be hard to make much sense of such accounts via formal game theoretic models using selfish rational agents. Bryan Caplan’s celebrated book The Myth of the Rational Voter, argues instead that voters are “rationally irrational,” indulging in varied irrationalities regarding their political beliefs, because their very low chance of being pivotal (i.e., decisive) in an election means each voter’s vote matters to them mainly for non-outcome reasons, such as personal identity, group loyalty, personality signaling, etc.
+While Caplan is insightful, Tyler Cowen once noted that democracy skeptics tend to distrust policy decisions made by randomly selected voters, even though such voters could be confident that their choices matter. You might think that random voters deciding would be better than ordinary democracy.  Even so, if you’d also be wary of policy choices by random decisive voters, then you must think something else goes wrong with democracy besides a low chance of voters being pivotal. But what?
+Longtime readers should not be surprised to hear my suggestion: even random pivotal voters tend to think in a far mental mode. When we make concrete choices about our own immediate lives, especially for our private consumption, we are in a pretty near mental mode.  Since near-far depends on distance in time, social distance, and unlikeliness, our mental mode becomes farther when our choices are about a more distant future, are about a wider scope of people, are seen by more people, are about more unlikely situations, or are unlikely to matter. So citizen votes in a democracy are pretty much a far fest (especially regarding unlikely far future techs).
+Of course this analysis suggests that autocratic rulers also think in a rather far mode, suggesting that choices by random voters wouldn’t be much worse than those by a randomly selected king. Autocratic rulers selected via a vicious and ruthless contest for power might think in a more near mode, but more serving their own private ends, which might deviate greatly from ours. Ideally we’d select firm CEOs in part for their ability to maintain a nearer mental mode, while adhering to rules limiting their ability to exploit firms for personal gain.
+Futarchy’s slogan, “vote on values, but bet on beliefs,” suggests that it might encourage collective choices based on more realistic near-mode evaluations of policy consequences, though voting on values would still retain a far fest of values.  I’m not sure how best to deal with that.
+
+
+title: Voting Is A Far Fest
+
+date: January 20, 2011 10:00 am
+

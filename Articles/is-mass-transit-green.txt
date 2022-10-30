@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Brad Templeton:
+That transit is a significantly greener way to get around than private car travel almost goes without saying in our thoughts and discussions.  Disturbingly, this simply isn’t true. … City diesel buses and electric trolley buses are both mildly worse than the car in energy efficiency.  Light rail systems are also slightly worse, on average, though it varies a lot from city to city.  Commuter rail and subway (heavy rail) trains tend to be a bit better, but not a lot better.
+Passenger Miles Per Gallon
+What’s not in these numbers … energy to make and recycle cars and transit vehicles. … to build and maintain roads … and tracks … to extract, refine and ship fuel …
+In spite of [these numbers], it is always the green move for any individual to take existing mass transit over their car. That’s because the transit is running anyway, so the incremental cost of carrying one more passenger is indeed less than just about any private vehicle.
+This is a common way to analyze marginal costs, but I wonder.  When one rides mass transit one not only makes the train a bit heavier, one also makes it a bit more crowded, discouraging other passengers.  Worse, one makes all future transit planners estimate that a slightly higher fraction of the population is willing to ride mass transit, encouraging them to build more and large transit systems.  It seems to me that this last effect could bring the marginal cost of using mass transit back up to near its observed average cost, i.e., about the same than cars.
+
+
+title: Is Mass Transit Green?
+
+date: October 12, 2009 6:00 am
+

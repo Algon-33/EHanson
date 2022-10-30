@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+   
+In their recent Science article reviewing near-far findings (which I discussed here), Liberman and Trope illustrated their concepts with Elder’s painting Landscape with the Fall of Icarus:
+[An] intriguing mixture of high-level, abstract features, and low-level, concrete features. … In this painting, the ploughman witnesses the fall of Icarus. However, as he is immersed in the details of his immediate chore, he is oblivious to the significance of the event.
+ 
+Like many others I enjoyed the new Star Trek movie, even if I don’t especially respect myself for that, and recently just rewatched Star Wars episodes II,III.  And the most compelling visuals and scenes in those movies were similar, in that they combined familiar and emotionally-true foregrounds with dramatic symbolically-meaningful backgrounds which often made little sense if you thought much about them.  For example, in Star Trek isolated crowded shipyards are shown scattered in simple farmland, wildly violating economies of agglomeration: 
+  
+ 
+This SF film scene pattern not only makes sense in terms of near-far theory, but it also illuminates how science fiction fits as a genre serving the functions of fiction.  
+I have suggested that fiction mostly functions to let us show our associates what we think about who should be praised and reviled, or rewarded and punished, in what situations.  In the ethos of science fiction (as in its co-genre fantasy), people are to be praised or reviled in substantial part for their relation to the grand arc of history.  After all, the (basically-false) core conceit of science fiction is that scientists are heroic because it is they who most make our modern world powerful. 
+So it is important that major SF story characters do actually have substantial connection to or influence on the grand arc of history, however implausible that may be.  Grand historical arcs must be described in the story, but since they are processed by readers mostly in far mode, readers are not very critical about how plausible are those arcs.  The near details of the lives of the major characters, in contrast, are processed more in near mode, so SF writers must make those seem more realistic.  (Of course we don’t process even these in as near a mode as details of our own lives now – it is still fiction after all.)
+This all supports my detached detail warning: don’t assume that because the character lives described are compelling, the historical arcs are as plausible. 
+
+
+title: Near Far In Science Fiction
+
+date: May 14, 2009 7:30 am
+

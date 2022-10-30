@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Over the last month I’ve sketched how decision markets might inform choices in marriage, college, college admissions, and medical treatment.  Today I consider development, i.e., advising governments and non-profits trying to improve "developing" nations and societies.  Rick Davies, Michael Strong (here and here), and Robert Hahn and Paul Tetlock have written already about this to varying degrees, but let me say it my way.  
+Decision markets are markets where speculators set prices that estimate the consequences of a decision. The big win here would be decision markets estimating envisioned outcomes of proposed development projects.  Imagine that before the World Bank, IMF, or Gates Foundation approved a particular development project, we could learn of the discrete alternatives being considered, and of the measurable outcomes they planned to publish and use to evaluate success or failure.   
+ For example, there might be several Malaria-reduction projects being proposed, each of which will be evaluated later by the actual rate of Malaria in some area.  AIDS projects might be evaluated via later rates of infection.  Education projects might be evaluated later by literacy rates, while national investment or loan projects might be evaluated on growth rates of GDP.
+Development futures could directly evaluate expected outcomes both given that a project was approved, and given that the project was not approved.  The difference between these numbers is the expected effect of the project.  Development futures could tell everyone that the Gates Foundation’s malaria project is not expected to change malaria rates, or that a World Bank loan to Mongolia would dramatically improve growth rates there.  
+The cooperation of the Gates Foundation or the World Bank would not be required (beyond revealing projects considered and evaluation criteria).  Any other interested organization could create markets allowing anyone they approved to trade.  Ideally someone would subsidize cash markets where anyone could trade.   
+ Once development futures had built up a track record of unprecedented accuracy, they could cut through poisonous biases on both sides – to expose both wasteful projects built on wishful thinking, and insincere skepticism used as an excuse to do nothing.  Let’s find out what really works, and then let’s really do it.  
+
+
+title: Development Futures
+
+date: November 19, 2007 6:00 am
+

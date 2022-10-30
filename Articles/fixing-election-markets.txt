@@ -1,0 +1,44 @@
+author: Robin Hanson
+
+text: 
+One year from now the US will elect a new president, almost surely either a Republican R or a Democrat D. If there are US voters for whom politics is about policy, such voters should want to estimate post-election outcomes y like GDP, unemployment, or war deaths, conditional on the winning party w = R or D. With reliable conditional estimates E[y|w] in hand, such voters could then support the party expected to produce the best outcomes.
+Sufficiently active conditional prediction markets can produce conditional estimates E[y|w] that are well-informed and resistent to biases and manipulation. One option is to make bets on y that are called off if w is not true. Another is to trade assets like  “Pays $y if w” for assets like “Pays $1 if w.” A basic problem this whole approach, however, is that simple estimates E[y|w] may reflect correlation instead of causation.
+For example, imagine that voters prefer to elect Republicans when they see a war looming. In this case if y = war deaths then E[y|R] might be greater than E[y|D], even if Republicans actually cause fewer war deaths when they run a war. Wolfers and Zitzewitz discuss a similar problem in markets on which party nominees would win the election:
+It is tempting to draw a causal interpretation from these results:  that nominating John Edwards would have produced the highest Democratic vote share. …The decision market tells us that in the state of the world in which Edwards wins the nomination, he will also probably do well in the general election.  This is not the same as saying that he will do well if, based on the decision market, Democrats nominate Edwards. (more)
+However, this problem has a solution: conditional close-election markets — markets that estimate post-election outcomes conditional not only on which party wins, but also on the election being close. This variation not only allows a closer comparison between candidates’ causal effects on outcomes, but it is also more relevant to an outcome-oriented voter’s decision. After all, an election must be close in order for your vote to influence the election winner.
+To show that conditional close markets estimate causality well, I’ll need to get technical. And use probability math. Which I do now; beware.
+
+First let me introduce some notation. Here are some relevant variables:
+x = context before the election
+v = sum of votes, each +1 or -1,  in election
+w = R if v>0, D if v<0, the election winner
+y = an outcome influenced by election winner
+Assume ties v=0 are decided by a coin flip. Let the estimates of a consistent market reflect consensus beliefs given by a joint probability distribution p(y,w,v,x). Assume traders know that this joint must satisfy a causality relation:
+p(y,w,v,x) = [R(y|vx)*(1[v>0]+½*1[v=0]) +
+ D(y|vx)*(1[v<0]+½*1[v=0])]*q(vx)
+where R(y|v,x), D(y|v,x) describe expected causal results of parties R,D on outcome y, which may depend on context v,x, and where q(v,x) describes expectations for that context. (The form 1[claim] is 1 if claim is true, else 0.)
+Let us approximate v as being distributed continuously.  If so, here are integral expressions for naive conditional estimates, the ones that simple conditional prediction markets would give:
+E[y|R] = ∫_{v>0} y R(y|vx) q(vx) dydvdx / 
+ ∫_{v>0} R(y|vx) q(vx) dydvdx
+E[y|D] = ∫_{v<0} y D(y|vx) q(vx) dydvdx /
+ ∫_{v<0} D(y|vx) q(vx) dydvdx
+Note that while the difference between E[y|R] and E[y|D] does reflect differences between causal effects R(y|vx) and D(y|vx), it can also give a misleading comparison as these expressions integrate over quite different ranges of v.
+Consider in contrast outcome estimates conditional on an exactly tied election, where everyone’s vote matters:
+E[y|R,v=0] = ∫ y R(y|0x) q(0x) dydx / 
+ ∫ R(y|0x) q(0x) dydx
+E[y|D,v=0] = ∫ y D(y|0x) q(0x) dydx / 
+ ∫ D(y|0x) q(0x) dydx
+Since both these expressions integrate over exactly the same range for all parameters, a comparison between these estimates gives a direct comparison between the causal effects R(y|vx) and D(y|vx) of the different parties.
+Of course prediction markets may not give meaningful for very unlikely conditions like a tie v=0. A reasonable compromise with practicality would be to condition on close elections, won by e or fewer votes:
+E[y|R,|v|<e] = ∫_{v in [0,+e]} y R(y|vx) q(vx) dydvdx /
+∫_{v in [0,+e]} R(y|vx) q(vx) dydvdx
+E[y|D,|v|<e] = ∫_{v in [-e,0]} y D(y|vx) q(vx) dydvdx / 
+ ∫_{v in [-e,0]} D(y|vx) q(vx) dydvdx
+If we assume that averages of R(y|vx), D(y|vx) over yx are continuous in v, then these close election estimates must approach the ideal tied election estimates in the limit as the allowed vote margin e goes to zero.
+In six of the 57 US presidential elections where the public voted, the election was won by less than 1% of the vote. (They were: Bush II, Nixon, Kennedy, Harrison, Clevenland, Garfield.) So prediction markets on post election outcomes that are conditional both on a particular party winning, and on a 1%-close election, should have a roughly 5% chance of paying off. That seems feasible, at least given sufficient market subsidies.
+
+
+title: Fixing Election Markets
+
+date: November 4, 2011 10:00 am
+

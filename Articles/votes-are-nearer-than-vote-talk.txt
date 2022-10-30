@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Bob Sutton on an ’09 near-far paper:
+A traveler preparing to leave for a vacation to Cancun the following morning is more likely to process information about speedy check-in for international flights – a low-level, concrete piece of information that is related to the feasibility of the vacation, as opposed to information about the quality of sunsets on the East Coast of Mexico – a high-level, abstract piece of information that is related to the desirability of the vacation. …
+They used this kind of logic to design a series of laboratory experiments where subjects were exposed to vague versus concrete messages from hypothetical U.S. Senate candidates and asked them to evaluate how positively or negatively they viewed the candidate.  The key  manipulation was whether the election was far off (six months away) or looming soon (one week).  As predicted, abstract messages were more persuasive (and promoted more liking) when the election was six months away and concrete message were more persuasive when it was one week away.
+This study has some fun implications for the upcoming elections.  Let’s watch Obama and Romney to see if they keep things vague and abstract until the final weeks of the campaign, but then turn specific in the final weeks.  But I think it also has some interesting implications for how leaders can persuade people in their organizations to join organizational change efforts.  The implication is that when the change is far off, it is not a good idea to talk about he nuts and bolts very much — a focus on abstract “why” questions is in order.  But as the change looms, specific details that help people predict and control what happens to them are crucial to keeping attitudes toward the change and leaders positive. (more; HT Hendrick lee)
+Another implication: even those most political rhetorical is about abstract far principles, actual votes tend more to be based on concrete near considerations. This is a reason democracies aren’t as bad as you’d think looking at typical voter opinions and election rhetoric. The paper also says:
+[This] effect was observed primarily among inexpert respondents, who are more likely to correspond to swing voters.
+
+
+title: Votes Are Nearer Than Vote Talk
+
+date: April 29, 2012 9:15 am
+

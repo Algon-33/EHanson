@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+James Surowiecki says U.S. voters should support a new Consumer Financial Protection Bureau (C.F.P.B.) because consumers make finance mistakes:
+Many Americans are ill informed about financial products. … You might think that businesses offering better products would have an incentive to make sure that potential customers were able to distinguish between ripoffs and good deals, but … there’s “a limit to how much explaining a creditor can do before losing the attention of its customers.” … Warren … talked to a number of banks about introducing a credit card with a higher up-front interest rate but lower penalty fees—a cost-effective arrangement for many people. But … there was no way to convince consumers that it was a good deal. In a world where marketing is all about the lowest teaser A.P.R., … you end up with a race to the bottom. …
+The C.F.P.B. hopes to change this, largely by insuring that consumers will be told the true terms of a deal, in a simple and clear fashion. … Some bankers … maintain that the C.F.P.B. will go too far and end up strangling financial innovation. But, over the past century or so, new regulatory initiatives have inevitably been greeted with predictions of doom from the very businesses they eventually helped. … History suggests that business doesn’t always know what’s good for it. (more)
+Let’s see, banks offer bad products, because many consumers are too lazy to notice and choose good products. So voters should empower regulators to make rules banning bad products, or at least overly hidden products. But isn’t it also possible that regulators might offer bad regulations, because voters are too lazy to notice and choose politicians who support good regulations? Why would voters pay more attention to choosing regulators than banking customers pay in choosing banks?  And if voters pay less attention, how does adding this extra layer of choice improve the overall situation?
+You might argue that when choosing their votes, ignorant voters can rely on interest groups and better informed elites, who share their interests. But banking customers could also rely on interest groups and informed elites in deciding where to bank. Yes, banks often try to create and buy off apparently independent groups and elites that pretend to offer neutral informed advice, to fool uninformed customers into buying bad products. But the same thing can happen at the political level – how can voters know which organized groups and elites are actually informed and share their interests?
+It would seem that any process that ignorant voters could use to decide who to trust on regulations could also be used by ignorant consumers to decide which banks to patronize. Since banking consumers have far stronger incentives to choose well on banks than voters have to choose well on politicians, how can it help to replace a possibly quite severe ignorant banking consumer problem with an even more severe ignorant voter problem?
+
+
+title: Who Watches Watchers?
+
+date: June 9, 2011 9:00 pm
+

@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+As I'll be in New York City for a conference, let's have a meetup there this Friday.  We'll start 7pm at Georgia's Cafe & Bake Shop, 2418 Broadway.  When that closes at 9:30pm, we'll head somewhere else mutually agreeable. 
+
+
+title: NYC Meetup Friday 7pm
+
+date: April 22, 2009 12:00 pm
+

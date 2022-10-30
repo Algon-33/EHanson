@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+The main justification offered for government is coordination – that governments help us to coordinate. Yes, many suspect that governments exist primarily to perpetuate and enrich themselves and their controllers at the expense of others. But defenders counter that governments are uniquely able to produce net benefits via coordination, and have historically often realized this potential.
+This dispute can be illuminated by considering missing coordinations: the many possible coordinations that seemingly offer large gains, yet receive little government attention:
+
+Zoning – There are often high gains to coordinating how neighboring lands are used. Cities use this to justify zoning regulations, but these regulations often inefficiently push growth and the poor away to other regions. Larger scale governments could coordinate to discourage such inefficiencies, but they rarely do.
+Language – Since it is much easier to interact and trade with folks who speak the same language, there are huge gains to coordinating to speak the same language. National governments once devoted large efforts to internal coordination, but there is little effort to coordinate languages across nations.
+Innovation – Since innovators personally gain only a small fraction of the social returns to their innovation, the world could gain from subsidizing innovation.  Many nations and subunits invoke this rationale and pay directly for research. But there is little effort to coordinate research spending or innovation subsidies on larger scales.
+Migration – Huge gains are possible via moving willing labor from places where wages are low to where wages are high. The attempts to realize these games across nations seem remarkably weak compared to the possible gains.
+Move South – The locations of our major cities once made sense in terms of major transportation routes and nearby resources, but those reasons are far weaker today.  Since air conditioning has made southern climes much more attractive, northern city residents could benefit by coordinating to all move south together. This isn’t done.
+Genre Sharing – The more folks who like a genre of music, the more examples of that genre they can each enjoy.  This suggests coordination gains from acclimating folks to like the same few genres of music. Similar gains seem possible whenever there are divergent genres, and tastes can be influenced by what folks are exposed to.  Yet governments rarely attempt such coordination.
+Future Creatures – Familiar interest rates say we can give huge gains to distant future folks, if only there were things they could do for us. Yet we fail to enforce most terms in wills, and won’t let parents charge kids for creating them.
+Aliens – By allowing anyone who wants to send signals to aliens, we risk hostile aliens destroying us all.  Yet even though the cost to discourage such signals seems trivial, we show little interest in doing so.  We also show little interest in coordinating to prevent asteroid strikes.
+
+Now we might not always expect to see successful coordination in these areas.  But we might at least expect to see many attempts at such coordination. If governments exist to coordinate, why do they show so little interest in attempting to realize such gains?
+
+
+title: Missing Coordination
+
+date: March 24, 2011 9:50 pm
+

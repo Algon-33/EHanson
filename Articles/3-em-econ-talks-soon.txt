@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Instead of my usual scattershot, these days I’m successfully focusing. My next three talks:
+
+Sept. 26, 6-7:30p, GMU Econ Society, Student Union II (= Hub) front ballroom, GMU, Fairfax, VA (audio, slides)
+Oct. 2, 6-7:30p, Pittsburgh Less Wrong, Baker Hall 150, CMU, Pittsburgh, PA (audio, slides)
+Oct. 14, 11:00-30a, Singularity Summit, 1111 Calif. St., San Fran., CA. ($100 off code: OVERCOMINGBIAS ) (video; slides)
+
+All three will be on:
+Em Econ 101: An Economic Analysis of Brain Emulation
+The three most disruptive transitions in history were the introduction of humans, farming, and industry. If another transition lies ahead, a good guess for its source is artificial intelligence in the form of whole brain emulations, or “ems,” sometime in the next century. I apply standard social science to this unusual situation, to identify a relatively-likely reference scenario set modestly far into a post-em-transition world. I consider families, reproduction, life plans, daily activities, inequality, work training, property rights, firm management, industrial organization, urban agglomeration, security, and governance.
+
+
+title: 3 Em Econ Talks Soon
+
+date: September 18, 2012 9:00 pm
+

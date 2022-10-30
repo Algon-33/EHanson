@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+In 2010 I explained why I guess I’m not in a sim.  In 2011 I explained why sims should be small, and focus on “interesting” folks. In 2001 I explained why it matters if you live in a sim.
+Here is Tyler today:
+If we are living in a simulation, does that resolve the Fermi paradox?  I would think so.  The “aliens” would be here, we just would not “see” them as such. … Should we expect to find alien civilizations in a simulation? The priors are not so clear. … For the time being, we are still in a “no aliens” do loop. … The Fermi paradox raises the likelihood that we are living in a simulation.
+I don’t buy it. Let’s try two extreme cases. First, assume that the creatures who make your sim copy their own universe in the sim – if it has aliens, then you get aliens; if not, not. Here not seeing aliens says nothing about if you are in a sim.
+Now assume the opposite, that whether the creatures running your sim give you aliens has no relation to whether or not they have aliens in their world. They decide whether to give you aliens based on the “story” (= useful sim) value of aliens, regardless of how realistic that seems to them. In this case if the scenario of your world seems to have especially high story value (relative to a real scenario), you should increase your suspicion that you are in a sim. And if your scenario seems to have an especially low story value, you should reduce your suspicion that you are in a sim.
+It seems to me that if anything aliens would add to a story value. So not seeing aliens should lower your suspicion you are in a sim. And if you can’t tell if aliens help or hinder a sim story, then not seeing aliens gives no info about if you are in a sim.
+
+
+title: Silence Suggests Sim?
+
+date: January 20, 2012 11:25 am
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+My proposal is that we give every American 100 democracy dollars that you can only give to candidates and causes that you like. This would washout the lobbyist cash by a factor of eight to one. (Yang in Thursday debate)
+Gillibrand proposed this also, as have some law profs, and its been tried in Seattle. In my Twitter poll, the main concern people express re private firms doing things instead of government is that firms might lobby to change policy. I’m personally not so concerned about firm lobbying, as public employees and agencies also lobby, and as academics find it hard to see any substantial effects of lobbying. But there does seem to be a perception problem and $100 a person per year seems to me a small price to pay to address it.
+Reading up on this idea, I see that many try to tie it to other policies they want, and so try to require politicians to accept no other money if they accept this, or only allow it to be spent in your state or only at particular points in the election cycle. Yang seems to have it right; spending constraints are mistakes. As Yang says, let people use the money at any time for any political organization, lobbyist, or candidate.
+The only criticism I can find online, beyond harms from spending constraints, is this complaint that it might make politicians listen more to the public:
+It would simply multiply the amount of money in politics by an order of magnitude, with effects that wouldn’t be good for the political system at large, but would be good for ad buyers and PR flacks and political operatives. … Citizens have no reason to think too hard about how they spend. … Will politicians get more populist or less? Will voters gravitate towards visionary leaders making hard decisions about confounding policy issues? Or will they pick whoever tells the most flattering lies in the most entertaining way? Because we know what that looks like. It’s ugly, and it’s orange. (More)
+Yes, overall I might rather slant the system toward the better informed, and elite money in politics might be seen as doing that. But if that’s going to push people to avoid substituting firms for government, I’d rather use some other method to promote informed voters.
+
+
+title: Yay Democracy Dollars
+
+date: September 14, 2019 11:00 am
+

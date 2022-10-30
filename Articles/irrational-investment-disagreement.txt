@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The Spring Journal of Economic Perspectives reviews how many investment puzzles can be explained by irrational disagreement: 
+
+One should not be able to forecast a stock’s return with anything other than … riskiness … Yet … a large catalog of variables with no apparent connection to risk have been shown to forecast stock returns, …. stocks that have had unusually high past returns or good earnings news to continue to deliver relatively strong returns over the subsequent six to twelve months … "glamour" stocks with high ratios of market value to earnings, cashflows or book value to deliver weak returns over the subsequent several years … many of the most interesting patterns in prices and returns are tightly linked to movements in volume … 
+ We … argue in favor of… "disagreement" models. … encompassing … the following underlying mechanisms: i) gradual information flow; ii) limited attention; and iii) heterogeneous priors. … this class of models is at its heart about the importance of differences in the beliefs of investors. …
+ Gradual information flow by itself can be entirely consistent with a rational model … What is also required… is that, … investors do not fully take into account the fact that they may be at an informational disadvantage, … limited attention needs to be combined with the assumption that …  when trading with others, they do not adjust for the fact that they are basing their valuations on only a subset of the relevant information. … one needs to combine heterogeneous priors with an assumption that the investors do not fully update their beliefs based on each other.
+
+
+
+title: Irrational Investment Disagreement
+
+date: August 20, 2007 6:00 am
+

@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+In the last week I found three top academic journal articles on how the key difference between societies today is whether they emphasize conformity to social rules/norms, or individual initiative and responsibility. Poor scared societies tend toward a farming-style big-on-rules approach that today makes people less happy and also innovate and grow more slowly. But more secure comfortable societies tend toward a forager-style reduced rules and more individualism approach that leads to happiness and faster innovation and growth.
+Science: 
+[Researchers] found that societies exposed to contemporary or historical threats, such as territorial conﬂict, resource scarcity, or exposure to high levels of pathogens, more strictly regulate social behavior and punish deviance. These societies are also more likely to have evolved institutions that strictly regulate social norms. At the psychological level, individuals in tightly regulated societies report higher levels of self-monitoring, more intolerant attitudes toward outsiders, and paying stricter attention to time …
+The substantial variation in religious involvement among nations can be explained, in large part, by perceived levels of security. Religion thrives when existential threats to human security, such as war or natural disaster, are rampant, and declines considerably in societies with high levels of economic development, low income inequality and infant mortality, and greater access to social safety nets.
+American Economic Review:
+The  individualism score … measures the extent to which it is believed that individuals are supposed to take care of themselves as opposed to being strongly integrated and loyal to a cohesive group. The individualism component loads positively on valuing individual freedom, opportunity, achievement, advancement, and recognition; and negatively on valuing harmony, cooperation, and relations with superiors. … The individualism-collectivism dimension is the central cultural variable that matters for long-run growth. Other cultural variables may of course affect other aspects of economic behavior and economic performance, but they do not appear to robustly influence long-run growth.
+Journal of Personality and Social Psychology:
+What is more important: to provide citizens with more money or with more autonomy for their subjective well-being? … [We] examined national levels of well-being on the basis of lack of psychological health, anxiety, and stress measures. Data are available for 63 countries, with a total sample of 420,599 individuals. … Individualism was a consistently better predictor [of well-being] than wealth, after controlling for measurement, sample, and temporal variations. … Wealth may influence well-being only via its effect on individualism. …
+Among the more traditional and collectivistic societies, increases in individualism were associated with increased levels of negative well-being. Among more individualistic European societies, increasing individualism was associated with increasing well-being. …
+The only study-level variable that significantly predicted mean state anxiety was whether the population was composed of students (vs. general population). Students had significantly higher state anxiety means. Both greater wealth and greater individualism were associated with less anxiety, when entered individually. When entered together, only individualism remained significant, but wealth was not significant.
+
+
+title: Rich Happy Individualists
+
+date: June 13, 2011 12:00 pm
+

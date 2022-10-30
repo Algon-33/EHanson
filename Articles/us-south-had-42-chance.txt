@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Hindsight bias tricks us into thinking familiar war outcomes were inevitable.  So it is good to remind ourselves how easily things could have been different.  Marc Weidenmier and Kim Oosterlinck argue that "European investors gave the Confederacy approximately a 42 percent chance of victory prior to the battle of Gettysburg/Vicksburg":
+
+Historians have long wondered whether the Southern Confederacy had a realistic chance at winning the American Civil War. We provide some quantitative evidence on this question by introducing a new methodology for estimating the probability of winning a civil war or revolution based on decisions in financial markets. Using a unique dataset of Confederate gold bonds in Amsterdam, we apply this methodology to estimate the probability of a Southern victory from the summer of 1863 until the end of the war. Our results suggest that European investors gave the Confederacy approximately a 42 percent chance of victory prior to the battle of Gettysburg/Vicksburg. News of the severity of the two rebel defeats led to a sell-off in Confederate bonds. By the end of 1863, the probability of a Southern victory fell to about 15 percent. Confederate victory prospects generally decreased for the remainder of the war. The analysis also suggests that McClellan’s possible election as U.S. President on a peace party platform as well as Confederate military victories in 1864 did little to reverse the market’s assessment that the South would probably lose the Civil War. 
+
+
+
+title: US South Had 42% Chance
+
+date: November 18, 2007 1:00 pm
+

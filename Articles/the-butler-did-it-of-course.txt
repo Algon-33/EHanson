@@ -1,0 +1,12 @@
+author: Anders Sandberg
+
+text: 
+Here is a paper showing the potential practical utility of detecting and reducing biases: Confirmation bias in criminal investigations by O’Brien and Ellsworth. In an experiment subjects read a police file and were asked halfway through about their hypotheses of who the murderer was; practically everybody named the obvious suspect. On completing the entire file, where a second and stronger suspect emerges in the later half, they still tended to suspect the first guy. In a second experiment the subjects were asked to generate counter-hypotheses about why their suspect might be innocent, and this reduced the confirmation bias.
+Another troubling source of bias is false confessions triggered by this confirmation bias and then strongly supporting the erroneous conclusion. The Psychology of Confessions by Kassin and Gudjonsson reviews this. During the preinterrogation review police, believing themselves to be better at detecting deception than they are, tend to confidently make false positive detections of deception in innocent people. Once they have convinced themselves they have caught a suspect a police interrogation then becomes guilt-presumptive and rather effective in generating false confessions, in particular in cognitively challenged people. And finally, juries and judges are easily convinced by the confessions. 
+Nothing of this may be total news to anybody on this blog, but it is still rather worrying how strong biases are accepted in police investigations and the legal system. Maybe the counter-hypothesis trick at least could be made part of police procedure: at certain points during investigations the investigators have to state possible disconfirming hypotheses for the record.
+
+
+title: The Butler Did It, of Course!
+
+date: January 24, 2007 4:28 pm
+

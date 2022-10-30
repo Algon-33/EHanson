@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+If you imagine that a 25% cost advantage would let your firm quickly displace all rivals, think again. Yes more efficient firms and plants eventually displace less efficient ones, but it is easy to overestimate the strength and speed of this effect. For example, in a US manufacturing industry with five plants in use, the best plant will typically produce about twice as much with the same inputs (including materials, land, labor, etc.) as the worst plant. In India and China, it will make five times as much:
+[The median] four digit SIC industr[y] in the U.S. manufacturing sector [has] a TFP ratio of … 1.92. … This … says … the plant at the 90th percentile of the productivity distribution makes almost twice as much output with the same measured inputs as the 10th percentile plant. Note that this is the average 90–10 range; … several industries see much larger productivity differences among their producers. U.S. manufacturing is … if anything … small relative to the productivity variation observed elsewhere. … [Researchers] find even larger productivity differences in China and India, with average 90–10 TFP ratios over 5:1.
+These figures are for revenue-based productivity measures; i.e., where output is measured using plant revenues (deflated across years using industry-specific price indexes). TFP measures that use physical quantities as output measures rather than revenues actually exhibit even more variation than do revenue-based measures as documented. …
+Another robust finding in the literature—virtually invariant to country, time period, or industry—is that higher productivity producers are more likely to survive than their less efficient industry competitors. …
+Aggregate productivity growth in the U.S. retail sector is almost exclusively through the exit of less efficient single-store firms and by their replacement with more efficient national chain store affiliates. … Why is within-store productivity growth so small on average in retail, but not manufacturing? (more)
+Yes, some of these large differences may be due to unmeasured quality differences.
+
+
+title: Selection Is Slow
+
+date: June 25, 2011 3:25 pm
+

@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+Key sources of disagreement among economic forecasters are identified by using data on … forecasters’ long- and short-run predictions of macroeconomic variables. Dispersion among forecasters is highest at long horizons where private information is of limited value and lower at short forecast horizons. Moreover, differences in views persist through time. Such differences in opinion cannot be explained by differences in information sets; our results indicate they stem from heterogeneity in priors or models. Differences in opinion move countercyclically, with heterogeneity being strongest during recessions where forecasters appear to place greater weight on their prior beliefs. (more)
+These authors speak sloppily.  Their results suggest that disagreements on the state of the economy cannot be attributed much to differing “near” late-breaking info of the sort one usually feeds into models that predict the state of the economy.  But they could be due to differing “far” big-picture info of the sort that leads one to prefer some such models over others.  Disagreement is indeed far.
+
+
+title: Disagreement Is Far
+
+date: August 13, 2010 10:20 am
+

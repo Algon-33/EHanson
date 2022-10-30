@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Comments on Tuesday’s post itemizing medical market failures suggest that many think private insurance fails via excess administrative costs, and via excess costs of enforcing contact details.  Private insurers, many think, charge too much and try too hard to renege on their promises.  Let me explain why this sounds odd to an economist.
+In a typical industry, producers use tech to convert inputs into outputs, and price those outputs to induce consumers to buy them.  Markets typically fail by inducing consumers to buy the wrong product mix, and inducing producers to make the wrong product mix.  In such cases we consider regulating prices and/or product mixes to mitigate this failure.  In principle, a market could also fail if private producers only had inferior tech available to them, while the government had superior tech only usable via direct government production.  In such an apparently odd hypothetical case one might prefer direct government production.
+Strangely enough, this possibility seems to be the reason many want government provided medical insurance.  Let me elaborate.  There are usually many trade-offs to make between costs and various product features and methods of production.
+In medical insurance, the cost to estimate customer risk is reduced if all customers must buy your product.  That and other administrative costs are also reduced when the insurance is renegotiated less often, and when one insures a large group at once instead of one at a time.  The cost of enforcing contract details, such as what treatments are covered in what situations, is higher when the contract is complex, excluding many particular things while including many others.  Contract enforcement is also harder when the agents who are supposed to comply with the contract have strong contrary financial incentives.
+Many think that government provided insurance would be cheaper and more dependable.  But the question is: would this be because the government would choose a different product mix, using the same insurance-making technology available to the private sector, or is this because the government is assumed to have some superior tech for making insurance?
+If government insurance is better because it is infrequently renewed, is required to all or offered to large groups, has simple coverage definitions, or is implemented by agents with weak financial incentives, then we must wonder: why couldn’t private insurers make those same production choices?  If they could have done so, but didn’t expect consumers to want such a product, then there would have to be some market failure that induces a bad product mix.   If they could not have done so, then we have to postulate some extra insurance technology only available to government insurers.  But what could that extra tech be?
+
+
+title: Government Insurance Advantage?
+
+date: July 23, 2009 12:15 am
+

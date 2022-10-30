@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Consider choices like:
+
+ Do I push folks at my large company to hire my son?
+ Do I spend college money from my parents to pursue an acting career?
+ Do cut open this patient to try my new surgical technique?
+
+ Such choices might be justified if, for example,
+
+ My son is really good fit for the job opening. 
+ I have an excellent chance to succeed in acting.
+ This is a very promising surgical technique.
+
+ But when am I justified in having such beliefs?  Most people think they are justified in acting on a belief if that belief is "sincere."  And by "sincere" they mean they are not conscious of just pretending to believe.  When they go to the shelf in their mind where that belief is suppose to sit, this is what they find.  And they don’t remember anything illicit about how that belief got there. 
+ But sincerity is way too low a standard!  Since humans have an enormous tendency toward self-deception, wishful thinking, and so on, we are clearly "sincerely" biased in many ways.  So to be justified in acting on a belief, you must have tried to identify and overcome relevant biases.  Furthermore, your efforts should be proportionate to the magnitude of the actions being considered, and to the magnitude of the biases that could distort your beliefs.  For important actions where biases tend to be large, you must try very hard to consider what you might have seen and felt if the world were other than you think it is.  
+
+
+title: Sincerity Is Overrated
+
+date: March 19, 2008 6:00 am
+

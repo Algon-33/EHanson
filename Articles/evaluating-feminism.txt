@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+My close friend and colleague Bryan Caplan has a new book, “Don’t Be a Feminist”. In general, I’m reluctant to embrace or oppose vague political slogan terms like “feminist”, preferring instead to stick to terms that are better defined. But I accept that his definition isn’t greatly wide of how I’ve seen the term usually used:
+Feminism is the view that society generally treats men more fairly than women.
+His summary assessment on fairness is:
+What then is the big picture? The fairness of the treatment that men and women receive in our society is remarkably equal. And if there is a disparity, it is probably in women’s favor. This is especially true if we ponder one last gender gap: Men endure far more false accusations of unfairness than women do.
+Caplan’s essay seems to reasonably summarize what we know about the ways in which men and women are favored or not, and I agree that over all things look roughly equal. I’m more skeptical that including false accusations against men changes this overall assessment; I’d say we still don’t know which side is favored more overall. And given how close things seem, I find it hard to care much about the overall sign.
+Here’s another key Caplan claim:
+Feminism is so rhetorically dominant that critics fear opening their mouths. … Most intellectual movements make an effort to distinguish wrong-doers from bystanders. … Feminist thinkers, in contrast, routinely and self-righteously do otherwise. … Most self-identified feminists are probably just regular people … Unfortunately, most vocal feminists are fanatics – and rank-and-file feminists tend to defer to them.
+Here I also mostly agree, and can in fact attest via personal experience. Most of my “cancellation” (which has substantially harmed my career) has been due to people who saw themselves as feminists aggressively misinterpreting a few neutral things I said as anti-feminist, and most observers going along with that move. A great many have disagree with me over the years, but few others have treated me this way.
+Caplan didn’t directly address what I see as the most common “feminist” issue raised: is it okay to have, and act on, gender-conditional expectations about behavior? Seems to me that this is okay when such expectations are based primarily on observed behaviors. This implies that it can be okay to have gender roles, if these result from gendered expectations.
+Yes, one should be open to the possibility of seeing outlier cases, of behaviors changing with time or context, and that gender-behavior correlations might result from gendered-expectations. That is, we should look out for ways to change our matching sets of behaviors and expectations. Which is to say, we should look for ways to switch to superior game theory equilibria.
+But that needn’t require us denying observed facts about behaviors in the equilibria that we have seen so far. Bryan is roughly right, both on the overall balance of gender unfairness, and on feminist rhetorical aggression.
+
+
+title: Evaluating “Feminism”
+
+date: September 20, 2022 11:10 am
+

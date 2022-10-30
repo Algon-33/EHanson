@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Karl Smith of Modeled Behavior and I did a blogging heads tv show on the economics of artificial intelligence:
+
+It was a pleasure to talk Karl, since he is that rare combination: someone who both takes powerful future technologies seriously, and who understands social science. (Watching it now, I suspect that if you counted minutes you’d find I talked too much – sorry Karl.)
+I made an analogy between three ways to grow a nation, and to grow a mind. Growing nations:
+
+Play the usual game of trading with other nations, etc.
+Develop good internal support for investment & innovation.
+Move all your people to become part of a rich nation.
+
+Growing minds:
+
+Play the usual game of writing code to do more things well.
+Develop a super learning algorithm to grow from “scratch.”
+Copy an existing human brain, via whole brain emulation.
+
+When possible, I favor approach #3.
+I also made the point that while people like to justify having fewer kids in terms giving each kid more help, the factors that seem to influence the choice of zero vs. one kid seem pretty similar to the factors that influence some vs. more kids.  This fits better with the choice really being about more for parents vs. more for the kids. Anyone know of hard data on factors that influence zero vs. one kid relative to some vs. more kids?
+
+
+title: Econ of AI on BHTV
+
+date: March 5, 2011 9:05 am
+

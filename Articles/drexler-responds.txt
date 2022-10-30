@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+Three weeks ago I critiqued Eric Drexler’s book Radical Abundance. Below the fold is his reply, and my response:
+————————-
+Hi Robin,
+While criticism is great, I was surprised by the specifics of your recent critique of my new book, Radical Abundance. The book centers on prospects for high-throughput atomically precise manufacturing, and because it raises some urgent questions, I would very much like for its message to be understood.
+As I see it, your review primarily criticizes me for saying something I didn’t (and wouldn’t) say about material wealth and human satisfaction, and for not explaining what I did in fact explain regarding the likely pace of particular technological advances given a particular set of technological preconditions.
+Regarding what I didn’t say, your post states that
+Drexler thinks most would feel this new income to be “enough,” and so care little about income differences, and have little reason to conflict…
+and in support of this, quotes my statement that
+[Particular conditions] would decrease pressures to compete for access to markets and natural resources simply because there can be no vital interest in resources that are no longer scarce or important, nor a vital interest in export markets once imports and trade balances are no longer essential to material well-being. [emphasis added]
+I made this remark in the context of international conflict, where “vital [national] interests” are something quite different from individual human desires. Since my vocabulary includes the term “positional goods”, it would be hard for me to make the mistake of thinking that “most would feel this new income to be ‘enough’” (and note that “enough” shouldn’t be in quotes here).
+Regarding scenarios that involve a sharp acceleration of progress in the wake of a relatively accessible technology threshold, I’ve already attempted to address the concerns you raise. In particular, to extrapolate from progress to date in “nanotechnology” is to mistake a marketing label for a research program. Work funded under that label has been directed overwhelmingly to materials science, and for peculiar historical reasons that I describe in “A Funny Thing Happened on the Way to the Future… ”, US programs were quietly but deliberately directed away from atomically precise manufacturing. Thus, extrapolations from from past progress in “nanotechnology” are misleading, a bit like trying to project passenger aircraft capabilities from progress in catapult technology.
+What is far more relevant is the enormous, largely unrecognized, and hence surprising progress in atomically precise fabrication through research in the molecular sciences. From the time when I wrote Engines of Creation, the scale of three-dimensional atomically precise fabrication has expanded from hundreds of atoms to many millions. Barriers to more rapid exploitation of these capabilities are largely conceptual and institutional.
+Your post says that “when [Drexler] moves outside his tech expertise he succumbs to seriously wishful thinking in expecting [what had been called] nanotech to come soon and suddenly”. When I discuss the the pace of progress, I am careful to speak in terms of potential rather than prediction,and I am careful to distinguish between physics-based engineering analysis and speculations regarding future human actions. The potential for sharply accelerating progress, given particular technological preconditions, has a concrete, technical basis that is discussed in the main text and further explored in Appendix II. As for timing of all this (soon?), I don’t recall stating an expectation — again, I only describe potential.
+I look forward to seeing you again on your next visit to Oxford, when we can have another go at hashing out some of these important questions.
+With my best regards,
+— Eric
+————————-
+My (Robin’s) response:
+ 
+Hey Eric,
+I accept that you talked about natural resources no longer being scarce or important in the context of international conflict, though I find it hard to imagine nations not caring about resources if their citizens still care greatly. You also talked about “breaking the link between human development and material economic progress,” which I also found hard to imagine if more developed humans still cared greatly about having more and better stuff.
+I also accept that while you did at times suggest nanotech might come soon, you didn’t push this point. But on suddenness I thought you did much more than merely point out the possibility of nanotech appearing suddenly; you consistently relied on that scenario in your analysis of social consequences. I gave many quotes in my post. Yet in your analysis of nanotech, I didn’t see much on why a sudden scenario is likely, beyond it being possible.  You certainly didn’t focus on making clear your arguments on that issue within anything like the energy and clarity you put into arguing that nanotech will eventually be possible.
+The main argument you gave for why a nanotech revolution could happen suddenly is that new nanotech designs could “unfold at the speed of new digital media”, i.e., we could sent such designs around fast as digital files. But if this were all that was needed for a technology to improve rapidly we should now see rapid gains in the design of novels, music, and software.  Yet we don’t see such gains in novels or music, and what gains we see in software are likely because of hardware gains, not because we can share software files fast. Similarly, the mere ability to share nanotech designs fast hardly suggests that such designs will improve rapidly.
+yours, Robin
+
+
+title: Drexler Responds
+
+date: July 5, 2013 2:55 pm
+

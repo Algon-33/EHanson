@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+At a space conference this last weekend, I was inspired to ponder the key problem I see regarding space colonization: how to recruit the great passion among so many to support and participate somehow in the topic today, while avoiding the vast waste that most likely results when that passion is directed to greatly premature near term projects.
+Someday humans will colonize Antartica, the top of the Himalaya mountains, and the bottom of Earth oceans. But this won’t happen until these colonies are in the ballpark of cost-effective relative to more familiar locations. Quirky preferences or religious devotion can make a modest difference, but can’t overcome huge cost differences.
+The same applies to colonization of space, a place much harder to colonize. While extra passion and quirky preferences can make a modest difference, mostly space colonization just can’t happen until near when it would be feasible given more ordinary motives. Efforts spent well before that time are mostly wasted, unless they are especially well targeted toward easing later efforts when such colonization is nearly feasible.
+Here’s my decision-market idea for tying current passion to useful future efforts:
+
+Create a space fund that passively reinvests its assets to grow over a long period, a fund to which anyone can donate,
+Define an ex-post measure of successful space colonization. For example, LNYD = Log of number N people living in space for at least Y years by date D.
+For a modest fee, let anyone at anytime submit a proposal for how to spend the entire space fund. Any proposal is fair game, including transferring all of this fund to a new fund managed a new way.
+Create financial assets $LNYD that pay in proportional to this measure LNYD. (This may require setting a min & max value for the measure.) Let people trade these assets for cash, creating a LNYD market price.
+Each proposal submission is evaluated via a LNYD-based decision market. That is, for each proposal, on a particular unique pre-announced date, market speculators may trade LNYD assets for cash, in trades that are called off if (or if not) this proposal is approved. If the LNYD price difference between approval and non-approval is clearly positive, the proposal is approved. (The price difference threshold used here should reflect the fact that this system should reject a great many proposals, and approve only one.)
+
+Under this system, people today who want to feel involved with space colonization can do so in three ways: 1) donate to the space fund, 2) develop and submit proposals for approval, or 3) trade in the markets that decide if to approve proposals. Later, when space colonization is nearly feasible, so that money spent can actually make a difference, these decision markets should make good choices about when and how to spend this fund to best create maximal colonization, according to the initially- chosen measure.
+That’s the basic idea. Now here’s a variation, designed to avoid incentives for sabotage. When a donor donates $2 to the space fund, $1 goes into the fund, and this donor gets back a $LNYD asset whose value is guaranteed to fall within [$0,$1]. They can then trade this $LNYD asset in the decision markets. The remaining $(1-LNYD) asset is put into in a new space fund tied to a new goal defined regarding some date D’ after date D. In this system, only this new fund holds the $(1-LNYD) assets that might tempt a holder to sabotage the space colonization effort.
+
+
+title: Space Fund
+
+date: April 9, 2019 5:00 pm
+

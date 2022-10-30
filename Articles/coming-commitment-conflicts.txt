@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+If competition, variation, and selection long continues, our worlds will become dominated by artificial creatures who take a long view of their future, and who see themselves as directly and abstractly valuing having more distant descendants. Is there anything more we robustly predict about them?
+Our evolving descendants will form packages wherein each part of the package promotes reproduction of other package parts. So a big question is: how will they choose their packages? While some package choices will become very entrenched, like the different organs in our bodies, other choices may be freer to change at the last minute, like political coalitions in democracies. How will our descendants choose such coalition partners?
+One obvious strategy is to make deals with coalition partners to promote each other’s long term reproduction. Some degree of commitment is probably optimal, and many technologies of commitment will likely be available. But note: it is probably possible to over-commit, by committing too wide a range of choices over too long a time period with too many partners, and to under-commit, committing too few choices over too short a time period with too few partners. Changed situations call for changed coalitions. Thus our descendants will have to think carefully about how strongly and long to commit on what with whom.
+But is it even possible to enforce deals to promote the reproduction of a package? Sure, the amount of long-term reproduction of a set of features or a package subset seems a clearly measurable outcome, but how could such a team neutrally decide which actions best promote that overall package? Wouldn’t the detailed analyses that each package part offers on such a topic tend to be biased to favor those parts? If so, how could they find a neutral analyses to rely on?
+My work on futarchy lets me say: this is a solvable problem. Because we know that futarchy would solve this. A coalition could neutrally but expertly decide what actions would promote their overall reproduction by choosing a specific ex-post-numeric-measure of their overall reproduction, and then creating decision markets to advise on each particular decision where concrete identifiable options can be found.
+There may be other ways to do this, and some ways may even be better than decision markets. But it clearly is possible for future coalitions to neutrally and expertly decide what shared actions would promote their overall reproduction. So as long as they can make such actions visible to something like decisions markets, coalitions can reliably promote their joint reproduction.
+Thus we can foresee an important future activity: forming and reforming reproduction coalitions.
+
+
+title: Coming Commitment Conflicts
+
+date: December 7, 2021 10:45 am
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+From Triver’s book Folly of Fools:
+When a person is placed under cognitive load (by having to memorize a string of numbers while making a moral evaluation), the individual does not express the usual bias toward self.  But when the same evaluation is made absent cognitive load, a strong bias emerges in favor of seeing oneself acting more fairly than another individual doing the identical action. This suggests that build deeply in us is a mechanism that tries to make universally just evaluations, but that after the fact, “higher” faculties paint the matter in our favor. (p.22)
+This suggests an interesting way to avoid bias – make judgements fast under distracting cognitive load.
+
+
+title: Honesty Via Distraction
+
+date: November 5, 2011 3:50 pm
+

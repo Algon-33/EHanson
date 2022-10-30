@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Sunday’s New York Times told of an experiment on music popularity randomness:
+
+In our study, … 14,000 participants … were asked to listen to, rate and, if they chose, download songs by bands they had never heard of.  Some of the participants saw only the names of the songs and bands, while others also saw how many times the songs had been downloaded by previous participants. This second group – in what we called the "social influence" condition – was further split into eight parallel "worlds" such that participants could see the prior downloads of people only in their own world. …
+In all the social-influence worlds, the most popular songs were much more popular (and the least popular songs were less popular) than in the independent condition. At the same time, however, the particular songs that became hits were different in different worlds, just as cumulative-advantage theory would predict. …
+In fact, intrinsic "quality," which we measured in terms of a song’s popularity in the independent condition, did help to explain success in the social-influence condition. …. But the impact of a listener’s own reactions is easily overwhelmed by his or her reactions to others. The song "Lockdown," by 52metro, for example, ranked 26th out of 48 in quality; yet it was the No. 1 song in one social-influence world, and 40th in another. Overall, a song in the Top 5 in terms of quality had only a 50 percent chance of finishing in the Top 5 of success. 
+
+No doubt this also applies to many other kinds of popularity, including in blogs or academia.  Beware of overconfidence about how good is the popular, or bad the unpopular.   
+
+
+title: Popularity Is Random
+
+date: April 19, 2007 6:00 am
+

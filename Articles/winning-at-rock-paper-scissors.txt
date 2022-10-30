@@ -1,0 +1,14 @@
+author: James Miller
+
+text: 
+Rock, Paper, Scissors is a simple game whose winner should be determined completely by luck. Yet here is a guide to winning at the game. (HT Andrew Sullivan.)
+
+ 
+Against a rational player you should randomize and play Rock, Paper and Scissors each with 1/3 probability. If your opponent does this you can never come up with a strategy that will give you an advantage over him. But, as the guide says, “Humans, try as they might, are terrible at trying to be random, in fact often humans in trying to approximate randomness become quite predictable.” For example, according to the guide, an inexperienced player will never play the same thing three times in a row. Taking advantage of this, you can gain an edge over your opponent.
+
+
+
+title: Winning at Rock-Paper-Scissors
+
+date: May 23, 2007 10:08 pm
+

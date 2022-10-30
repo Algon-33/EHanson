@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Some think that if only we could teach more history to screenwriters, we’d get more realistic historical movies. Or if only we could teach rationality to journalists, we’d get less fake news. Or if only we could teach ad writers more about products features and prices, we’d get more informative ads. Or teach charity workers about effectiveness. Or teach statistics to scientists. 
+But in these cases, and many more, expert incentives are usually not sufficiently aligned with such objectives for these experts to listen well to such teaching. They often have long been well aware of such issues. 
+Some see the fix in teaching about these incentive problems to the leaders of movie studios, newspapers, and ad firms, or to the patrons of charity and science. As then they’d know to create better incentives for the experts they lead. But their incentives are also usually not sufficiently aligned with these objectives for them to change their ways. They also have often long been well aware of such issues. 
+Every expert has ultimate customers, though the chain between them is longer in some cases, with many intermediaries. You can’t change expert behavior without convincing some intermediary, or the ultimate customer, that it is in their interest to promote such change. Either they have misjudged their interests and incentives, or you can somehow change their environment to change their incentives. 
+For example, imagine that doctors pretend to be effective at improving health, but mainly give customers the affiliation with prestige that they crave, to let them show they care about each other via paying much for prestige. But perhaps customers don’t want to admit this fact, and instead want to pretend to be buying health improvements. Then there’s a chance you could create data showing that their choices are not effective, and also create widespread common knowledge about which other choices would be more effective, at least at that moment.
+In this case you might shame customers into demanding that intermediaries (e.g., insurers, regulators, NHS, Medicare) demand that doctors actually do the health-effective things. But you will likely be opposed by inertia and by doctors, intermediaries, and customers who are not eager to expose their prior incompetence and hypocrisy. They might even relent now and do what your data suggest, but then coordinate vigorously to crush you and any who might try later to emulate your approach, to make sure this never happens again.
+This is the world you live in, and the problem we face.
+
+
+title: The Real Problem
+
+date: November 15, 2020 11:05 am
+

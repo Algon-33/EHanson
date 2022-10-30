@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Humans have long lives. We are unusually dependent on our parents when young, and we then slowly gain competence over a lifetime, usually reaching peak productivity in our forties and fifties. Most of the time we are aware of this. For example, we count on our peak earning years by taking out loans as young students, and later saving for retirement. And we prefer leaders at those peak ages.
+But when people get idealistic, they tend to forget this. Young idealists often ask me and others what they can do to most help the world. Which is a fine question. But such folks tend to be impatient – they want to know how to most help the world in the next few years, not over their lifetime. So when they consider joining an idealistic project, they focus more on whether the project will succeed than on what skills and contacts they would acquire.
+Yet young folks shouldn’t expect to have their biggest influence when young. Yes young folks have higher variance, and so sometimes get very lucky, but they should expect to prepare and learn while young, and then have their biggest influence in their peak years. Why such a short term focus? Especially since idealism should if anything induce a far view. Yes young folks are often short-sighted, but why be more so about altruism than about school, relationships, etc.?
+This seems related to the puzzle of why people don’t leverage the power of compound interest to donate to help the future needy, instead of today’s needy. Some argue that the future won’t have any needy, or that helping today’s needy automatically helps future needy, at a rate growing faster than investment rates of return. I’m pretty skeptical about both of these claims.
+One plausible explanation is that a habit of extra youthful altruism evolved as a way to signal one’s attractiveness to potential associates. People tend more to form associations when young, associations that they tend more to rely on when old. And potential associates like to see altruism, because it correlates with generosity and cooperation (as near-far theory predicts). But if you save money to help the future needy, or if you invest now in skills useful in future idealistic projects, that is less clearly a signal of altruism, because you might later change your mind and use that money or those skills for other purposes.
+So to signal your youthful idealism to potential associates, you must spend the money and time now, even if such spending is less effective toward the idealistic cause. But hey, at least the cause gets something.
+
+
+title: Impatient Idealism
+
+date: October 31, 2012 8:00 am
+

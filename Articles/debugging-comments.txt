@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Back in October, Greg Mankiw cancelled comments at his blog: 
+
+Unfortunately, a few (usually anonymous) commenters too often crossed the line.  I just don’t have the time to police comments and enforce good behavior, especially since some posts were generating more than 100 comments. And I don’t want to host a party in which a small vitriolic minority consistently tries to ruin the event for everyone else. So I decided to turn the comments feature off. 
+
+Xeni Jardin acted similarly:
+
+When our audience was small in the early days, interacting was simple. … No moderation, no complication, come as you are, anonymity’s fine. … The audience grew. Fast. And with that, grew the number of antisocial actors, "drive-by trolls," people for whom dialogue wasn’t the point. … With much regret, we removed the comments feature entirely. …
+
+  
+
+ We observed other big sites that included some kind of community forum or comments feature. Some relied on voting systems to "score" whether a comment is of value – this felt clinical, cold, like grading what a friend says to you in conversation. Dialogue shouldn’t be a beauty contest. Other sites used other automated systems to rank the relevance of a speech thread. None of this felt natural to us, or an effective way to prevent the toxic sludge buildup. …  Finally, this year, we resurrected comments on the blog, with the one thing that did feel natural. Human hands.  We hired a community manager.  
+
+I feel Greg and Xeni’s pain; blog comments vary widely in quality, mainly because commentors vary widely.  But I am also deeply attached to the idea that intellectuals should open themselves up to challenge by a large able diverse community.  If you write something you want others to take seriously, readers should see that many diverse able people could challenge what you say, in a way that so that you would see their challenges and feel obligated to respond.  The lack of effective challenges can be your strongest endorsement.  
+ Unfortunately, for blog posts this community of challengers cannot usually be everyone who might want to comment on it.  If the author of a popular blog felt committed to give detailed responses to all challenging comments, the low average quality would produce a spectacular waste of his time.  
+ Of course we do now see bloggers who feel they should respond to challenges from similarly (or more) popular blogs.  But this seems far too few challengers to me.  So I have two half-baked ideas for allowing a wider circle of high-quality challengers:
+
+Define a set of elite commentors for your blog.  The blog author could flag some commentors as elite, either because he knows them from elsewhere, or because he was impressed by their previous comments.  Elite comments could be distinguished, such as by having their own section at the top, or a boldface heading.  If you saw many able diverse comments flagged as elite at a blog, you could believe the author had opened himself up to many challenges.
+Create a duel system where anyone could flag a specific claim in their comment as a "challenge", backed by some things they each valued.  If the author accepted the challenge, the two of them would conduct a debate, which then had some known (perhaps 10%) chance of being evaluated by some jury.  If the jury thought the challenger had sufficiently supported his challenge, the author would lose his valued items, while otherwise the challenger would lose his items.   
+
+Of course Overcoming Bias won’t be implementing any such features unless someone  volunteers to create the software.
+
+
+title: Debugging Comments
+
+date: January 3, 2008 6:00 am
+

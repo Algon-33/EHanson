@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Two weeks ago I posted on the idea of quadratic voting, where voters pay a cost to buy votes, a cost that goes as the square of the number of votes they buy. Under certain reasonable assumptions, this voting system should produce economically efficient outcomes! Since so many get so obsessed with the objection that the rich might buy more votes, I focused on a “voting quarks” variation, wherein everyone gets the same number of points to spend across many elections.
+I mentioned that this system could make agenda-setting more important. And if we did not ensure anonymous voting, there could also be a problem with some paying others to vote certain ways. On reflection, however, what I most worry about is that collusive voting becomes a bigger issue under quadratic voting, relative to ordinary voting.
+How strongly you care about an election outcome depends on how much of a difference it makes to outcomes you care about, and on your chance of being pivotal, so that the election turns on your vote. Under ordinary voting, how much you care influences 1) if you bother to vote at all, and 2) how much effort you put into getting relevant info. But under quadratic voting, we must also add 3) how many votes you buy.
+Without collusion, i.e., with each voter choosing independently, then under ordinary voting everyone has the same chance to be pivotal. So then if voting were mainly done to influence election outcomes, the election outcome would become a weighted average, among those who care enough to bother to vote, of how well informed each voter is, times the sign of their preference on the election. Note that the weights satiate, however; once you care enough to bother and are well informed, it doesn’t matter if you care a lot more or get much better informed.
+When a group of voters colludes to vote as a block, then their chance of being pivotal is roughly proportional to the number of votes that their block controls. This proportionally increases their collective interest in bothering to vote, and in getting info. So they have a stronger interest in getting themselves to vote, and in getting info about which way to vote. But, this effect satiates at the point where they will pretty surely vote and are pretty sure which way to vote. So the possibility of block voting does end up adding an additional weight favoring groups who can coordinate, but all groups who can coordinate above some level count the same.
+Under quadratic voting, colluding groups acquire an additional advantage, because they also have a stronger group interest in buying more votes. And importantly, this advantage does not satiate, but continues to grow with the size of the group. So the election outcome much more strongly weighs the ability of people to form larger groups that coordinate to vote as a block. I’m not at all sure this would be a good thing.
+Added 5a: I was wrong to say that collusion gains satiate once a group is sure to vote and sure how they want to vote. A group also gains from internal vote trading, and this gain continues to larger groups. This gain happens in both ordinary and quadratic voting.
+
+
+title: Collusion In Quadratic Voting
+
+date: January 22, 2015 3:00 pm
+

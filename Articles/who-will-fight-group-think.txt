@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+At TierneyLab, Nickolas Wade complains about groupthink:
+Conformity and group-think are attitudes of particular danger in science, an endeavor that is inherently revolutionary because progress often depends on overturning established wisdom. … If the brightest minds on Wall Street got suckered by group-think into believing house prices would never fall, what other policies founded on consensus wisdom could be waiting to come unraveled? Global warming, you say? You mean it might be harder to model climate change 20 years ahead than house prices 5 years ahead? Surely not – how could so many climatologists be wrong?
+Wade cites Shiller on group think at the Fed:
+Alan Greenspan, the former Federal Reserve chairman, acknowledged in a Congressional hearing last month that he had made an “error” … Mr. Greenspan’s comments may have left the impression that no one in the world could have predicted the crisis. Yet … lots of people were worried about the housing boom and its potential for creating economic disaster. It’s just that the Fed did not take them very seriously.  …
+In his classic 1972 book, “Groupthink,” Irving L. Janis, the Yale psychologist, explained how panels of experts could make colossal mistakes. People on these panels, he said, are forever worrying about their personal relevance and effectiveness, and feel that if they deviate too far from the consensus, they will not be given a serious role. … People compete for stature, and the ideas often just tag along. Presidential campaigns are no different. Candidates cannot try interesting and controversial new ideas during a campaign whose main purpose is to establish that the candidate has the stature to be president. Unless Mr. Greenspan was exceptionally insightful about social psychology, he may not have perceived that experts around him could have been subject to the same traps.
+Wade and Shiller both mistakenly assume that what we mainly need is to be aware of group think.  Wade thinks this awareness will make us question global warming consensus, while Shiller thinks it should have made Greenspan see the housing bubble.  But after 37 years, the group think idea is pretty well known.  The problem is that simply knowing that the group might be wrong is very different from knowing where in particular they are wrong.
+Most groups have a long queue of contrarian ideas they are neglecting.  What groups need are ways to get them to devote more resources to this entire contrarian set, especially the true parts of the set.  Like, say, prediction markets.  But if instead of proposing some structural, cultural, or institutional reform to achieve this, you just argue “there can be group think, so my contrarian view deserves more attention” you are really just using group think as an excuse to try to jump the queue.  You aren’t really fighting group think at all.
+Far more people like to complain about group think when they think their contrarian ideas neglected, than are willing to support prediction markets or other reforms to encourage attention overall to more and better contrarian ideas. Who will really fight group think?
+Hat tip to Steven Hsu and J Storrs Hall.
+
+
+title: Who Will Fight Group Think?
+
+date: July 26, 2009 9:00 am
+

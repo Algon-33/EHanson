@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Greg Clark:
+[Bryan] Caplan [says] … children impose not costs, but benefits, on the rest of society. ….  I think Caplan’s … proposition will soon prove to have applied only in a limited historical window. Future population increases will likely exert substantial downward pressure on the growth of living standards. … There is thus a race between resource costs and scale economies as population grows. … For 99.9% of human history, up till 1800, the winner in that competition was resource scarcity. …
+The downward march of food and energy prices since 1800 may well end soon. Current high prices may presage a food scarce-energy scarce future. … Population will again be an important determinant of income. This implies a negative externality associated with fertility, with all the unpleasant implications this holds for those of libertarian persuasion.
+Caplan responds:
+Clark is right to name economies of scale as one social benefit of population. But he neglects the far more important effect on innovation. … As long as parents are financially responsible for their children, any negative effect of population on living standards is internal to the family. … If parents didn’t care about their already existing children … there might still be a problem. But parents do care about their already existing children. … So it’s unclear whether a problem even exists. … Are you actually willing to bet that global real per-capita GDP will be lower in 2020 than it is today? How about 2030? 2050?
+Clark is right that in the long run resource scarcity dominates living standards – that applied for most of human history, and will apply to most of our descendants. Our special dreamtime era of rapid growth and rising living standards can’t last long – probably within a few centuries (and certainly within ten millenia), average consumption will be way down from today.
+But Caplan is right that fertility has a net positive externality.  Yes property rights are not perfect, so people can hurt each other.  But people help each other far more via innovation and scale economies. Yes those will dwindle in the long run, but so will property rights violations.
+Of course if you are willing to look only at tiny elites, you can find high average consumption in both the distant past and future.  The tiny fraction of future humans who are not robots might well manage to keep a high living average living standard.  But most creatures recognizably decended from us will have near subsistence consumption.  And that, I think, will mostly be a good thing.
+Added 8a: Bryan responds; Tyler comments.
+
+
+title: On Clark And Caplan
+
+date: May 18, 2011 8:15 pm
+

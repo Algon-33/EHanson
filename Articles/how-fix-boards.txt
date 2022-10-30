@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+In his book The Wisdom of Crowds, James Surowiecki held out hope that prediction markets could reform corporate information flows, and he was kind enough to mention me as an early innovator.  In his New Yorker column recently, he discussed fixing corporate boards:
+Over the past couple of decades, a tremendous amount of attention has been devoted to improving corporate boards. New regulations, along with pressure from big investors, have forced companies to appoint more independent directors—people who have no direct connection to the company—and have tightened the definition of independence.  … All these changes, though, have had a much smaller impact than expected. …
+There are ways to make boards proactive and more than nominally independent. Investors need to be able to play a much bigger role in determining who ends up on boards, nominating candidates themselves, instead of choosing among the C.E.O.’s picks. … On top of that, … big institutional investors [should] create a cadre of full-time directors, people whose only job would be to sit on corporate boards and look after shareholder value.
+Problem is, investors need to own non-trivial fractions of companies to make this worth their while, and so this proposal needs a lot more concentration among investors than we have now, and probably more than most folks are comfortable with.   In contrast, my proposal to use prediction markets to advise key board decisions like firing a CEO requires no investor concentration.
+I don’t really know if Surowiecki likes my proposal, or even knows of it.  He’s never returned my emails, though maybe he’ll see this post.  I suspect that he sees my proposal is too “out there” to befit a respected New Yorker columnist, and so wouldn’t endorse it even if he knew of and privately liked it.
+
+
+title: How Fix Boards?
+
+date: June 24, 2009 6:00 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+The brilliant quantum computing theorist Scott Aaronson just got an MIT job offer, and points us to a cartoon on conspiracy:
+
+Conspiracy theories represent a known glitch in human reasoning.  The theories are of course occasionally true, but their truth is completely uncorrelated with the  believer’s certainty.  For some reason, sometimes when people think they’ve uncovered a lie, the raise confirmation bias to an art form.  They cut context away from facts and arguments and assemble them into reassuring litanies.  And over and over I’ve argued helplessly with smart people consumed by theories they were sure were irrefutable, theories that in the end proved complete fictions.
+
+Passionately expressed, but it is really clear that people suffer more from overconfidence and confirmation bias in their beliefs about lies than in other beliefs? 
+
+
+title: The Conspiracy Glitch
+
+date: May 8, 2007 7:58 pm
+

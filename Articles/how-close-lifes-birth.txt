@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Did life here begin on Earth, or did it start elsewhere in our solar system, the galaxy, or further?  Polymaths like myself love big questions like this, where many disciplines are relevant.  This particular question is also a good test case for the "absurdity heuristic."   Intuitively to most people the scenario where life here started elsewhere seems radical and weird.  But stepping back it is not at all obvious why we should think such a scenario unlikely, especially since most now accept that single cells can survive long journeys in space.  
+A recent Washington Post reported life that seems well-adapted to space, offering further support:  
+
+ An electron beam meant to clean up a bioterrorism site transforms a mild-mannered microbe into a life form able to withstand radiation doses hundreds of times stronger than would kill a person.
+Altered by the absence of gravity, an everyday bacterium aboard a spacecraft mutates into a highly lethal bug that poses a surprise threat to astronauts. … 
+
+  
+
+Astronaut[s] … grew salmonella bacteria, …  Back on Earth, the space-grown bugs were fed to mice. They proved to be nearly three times as likely to cause disease and about twice as deadly as they were before the flight, the team reports in this week’s online edition of the Proceedings of the National Academy of Sciences, released yesterday.  Tests found 167 genes that were either more or less active in the shuttle bugs than in their earthbound counterparts — including many under the control of a single genetic regulator called Hfq. …
+ A second study, described in the October issue of Radiation Research, involves single-cell organisms known as archaea, which share some traits of bacterial and human cells. …  Scientists have long been aware that some bacteria are remarkably resistant to radiation. The most resilient of all, Deinococcus radiodurans, grows happily while basking in gamma-ray doses of 5,000 grays, hundreds of times as high as a common E.coli bacterium can handle. (One gray is the amount of radiation in about 5,000 chest X-rays.)  … [They] took cultures of an archaeon called Halobacterium and exposed it to the 20 million-electron-volt Idaho [accelerator] beam. … The mutant microbes that survived that experiment are unfazed by doses exceeding 11,000 grays.
+
+
+
+title: How Close Life’s Birth?
+
+date: October 21, 2007 6:00 am
+

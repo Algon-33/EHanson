@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Plan A is how to contain Covid19 until a vaccine or other strong treatment shows up. Plan B is how to deal with Plan A failing, and a substantial fraction (>20%) of the population getting infected.
+While I’ve mostly focused on Plan B analysis, many nations and sub-regions seem to be doing okay so far at Plan A, keeping infections low and now declining in rate. It isn’t at all clear that they can maintain this until a vaccine arrives, but it is clear that they will keep trying for a while. And most other places have been shamed into giving lip service to Plan A. So much so that they may well induce much more damage from such efforts than they’d suffer from quitting and moving on to Plan B.
+Soon the places that are doing well under Plan A will consider carefully relaxing their controls, while standing ready to reassert them should infections rise. And one of their key choices will be how much contact to have with other places. They will be much more willing to interact with places that also seem to be doing well at Plan A.
+If X opens to Y who opens to Z, that makes X vulnerable to Z. Thus a winner’s circle of places doing well at Plan A will want to coordinate on who opens to who. They may want to share monitoring efforts re who is worthy to join their circle, and standards re how to grade their openings. And how to prevent hidden openings to the contagious centers that are failing at Plan A. And eventually, how if at all to open to places that fail so much as to achieve local “herd immunity”.
+I’m not sure what names people will give to these two groups. Competent circle versus incompetent basket case centers? Clean versus unclean? High vs low state capacity? But whatever they are called, the US seems a likely candidate to stay in the bad group, with Europe a close second, and US rivals will eagerly push for a new international alignment that keeps them there.
+US and European prestige will take a huge hit if this situation persists long. You might think this would shame us into reorganizing better to succeed, but apparently not. Yet we seem inclined to pay large costs to pursue plan A with our poor organization. So we risk the worst of both: trashing our economy far more than do they, and yet still ending up excluded from the winner’s circle.
+Of course if success at Plan A is only temporary, and infections from the contagious centers infect most of the world before vaccines arrive, it will be the Plan B places who achieve herd immunity that will form the growing and relatively successful alliance. In that case, the Plan A alliance will shrink and suffer while they limit their connections to the Plan B group.
+Note that places that achieve herd immunity have less need to coordinate on who they open to. And if these really organized into hostile alliances of nations, some may be willing to do the extreme things that nations have long done against competing alliances. The Plan A alliance may accuse the Plan B group of trying to infect them on purpose, and in at least some cases, they may be right.
+Added 2May: Here’s an article on a Plan A alliance.
+
+
+title: The Plan A Winner’s Circle Alliance
+
+date: May 2, 2020 9:40 am
+

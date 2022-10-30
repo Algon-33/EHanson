@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+On average, contrarian views are less accurate than standard views.  Honest contrarians should admit this, that neutral outsiders should assign most contrarian views a lower probability than standard views, though perhaps a high enough probability to warrant further investigation.  Honest contrarians who expect reasonable outsiders to give their contrarian view more than normal credence should point to strong outside indicators that correlate enough with contrarians tending more to be right.
+Most contrarians, however, prefer less honest positions, like:
+
+“They Laughed At Galileo Too”  Many contrarians seem content merely to point out that contrarian views have sometimes turned out to be right.  Have they no higher aspirations?
+“Standard Experts Are Biased” Yes of course we can identify many biases that plausibly afflict standard experts.  But we can also see at least as many biases that plausibly afflict contrarians.  No fair assuming you are less biased just because you feel that way.
+“We’ve More Detail Than Critics” Some contrarians say that only explicitly offered detailed arguments and analysis should count; it shouldn’t matter who agrees or disagrees.  And since advocates usually offer more detail in support of their specific arguments than critics offer in response, they automatically win.  They may not have written up their arguments in a standard or accessible style, or published them in standard places, or even submitted them for publication.  But by their “how much stuff we’ve written/done” standard, they win.
+“Few Who Study Us Disagree” Some contrarians accept that who agrees or disagrees matters, but say only those who have reviewed most available detail should count.  Since critics have less patience than advocates for studying advocate detail, advocates win.  If many critics do read and reject them, advocates can just add more detail and then complain critics haven’t read that.  If critics do read more advocates can complain critics aren’t of the right sort, e.g., not enough math, sociology, or whatever.  There is usually some way to define “valid” critics so they are outnumbered by advocates.
+
+If you want outsiders to believe you, then you don’t get to choose their rationality standard.  The question is what should rational outsiders believe, given the evidence available to them, and their limited attention.  Ask yourself carefully:  if most contrarians are wrong, why should they believe your cause is different?
+(Inspired by this recent argument with Eliezer Yudkowsky.)
+
+
+title: Contrarian Excuses
+
+date: November 15, 2009 7:45 pm
+

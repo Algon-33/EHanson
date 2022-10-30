@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Medical Hypotheses was established with the express intent of allowing ideas outside the mainstream to be aired so that they could be debated openly.
+My article on medicine as a way to show we care was published in this (not especially prestigious) academic journal.  Alas its editor Bruce Charlton has been sacked, its editorial policy ended, and two papers withdrawn, because it published a paper by UC Berkeley’s Peter Duesberg’s saying official South African mortality statistics seem at odds with a particular previous study’s estimates of the harm of their not using anti-HIV drugs. (The author of that previous study responded, suggesting official statistics are unreliable, and citing other sources that agreed with him.)  Duesberg’s inexcusible crime was suggesting at the end of his article that available data might be better explained if HIV is not the main cause of AIDS:
+“Is academic freedom such a precious concept that scientists can hide behind it while betraying the public so blatantly?” asked John Moore, an Aids scientist at Cornell University, on a South African health news website last year. Moore suggested that universities could put in place a “post-tenure review” system to ensure that their researchers act within accepted bounds of scientific practice. “When the facts are so solidly against views that kill people, there must be a price to pay,” he added.
+So how sure would we have to be of an academic claim for it to be reasonable to ban any academic publications offering evidence questioning that claim?  And how sure would be have to be before we could reasonably revoke the tenure of any academic who attempted such a publication?  I doubt we are that confident in the HIV-AIDS connection, and would love to see prediction market odds here.  Are there any offers to bet on record here?
+HT Arnold.
+
+
+title: RIP Medical Hypotheses
+
+date: May 9, 2010 5:15 pm
+

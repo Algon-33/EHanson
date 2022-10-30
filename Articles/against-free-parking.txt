@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Tyler’s latest NYT column describes the inefficiencies of “free” parking.  I didn’t think I’d have much to say on it, because he’s just using standard microeconomics, and pretty obviously right.  But then I saw two econobloggers disagree!
+Mark Thoma:
+[Sometimes] we choose to allocate goods by other means than the price system, [such as] lotteries, waiting time, random draws, that sort of thing. It generally occurs when we think … everyone should have a relatively equal shot at consuming a good or service.  For example, suppose we believe that everyone should at least have a chance to swim in the ocean. … Willingness to circle for a period of time looking for a parking place so you can go to the beach … has desirable allocative properties — and we can eliminate the externalities Tyler is worried about through a tax on carbon and congestion at the pump. The supply of parking … could be determined by the carrying capacity of the beach, which is itself influenced by considerations such as habitat protection that private markets may not handle well in any case.
+Arnold Kling:
+I am not sure that the argument is correct. I worry that there is a lot of confusion between fixed costs and marginal costs. … If the price of parking went up, … maybe the total number of parking places would decline (it depends on elasticities), but … the number of unused parking places would go up. Is that necessarily welfare-improving? … Once I have decided to use land as a parking place (say, land in front of a store), then there is no reason for me to want to deter people from parking in empty spaces. That suggests charging a price of zero other than at peak times.
+These seem to me to be weak status-quo-bias-driven attempts to evade simple microeconomic conclusions.
+Re Mark Thoma, if we were concerned about overall equity of utility, we’d just give the poor more money and let them buy what beach trips they wanted.  If we paternalistically thought poor folk irrationally buy too few beach trips (why?!), we might give them beach travel vouchers.  But surely the vast majority of free parking is not well explained by our thinking the poor irrationally take too few car trips.
+Re Arnold Kling, I didn’t see Tyler saying to force prices above marginal cost; he just opposed laws requiring excess supply.  Why should we treat parking spots much different than thousands of other familiar products whose average costs are often above marginal costs?  Should we require every mall to have enough movie theaters seats to handle the premier of a record blockbuster, all because since theatres are rarely full their marginal cost is near zero?  How about similarly requiring a vast supply of restaurant tables which would then rarely be full?
+Sometimes good economic analysis says that the world should be different than it is.  Yes you should wonder if such an analysis is missing something important. But you shouldn’t strain too much just to justify the status quo.  We require the creation of way too much parking, and we’d be better off to coordinate to stop it.
+Added 5a: Arnold Kling responds, and Mark Thoma approves. Arnold again notes that when average costs are above marginal costs, free market prices may inefficiently deter usage.  Arnold doesn’t at all address my question: “Why should we treat parking spots much different than thousands of other familiar products whose average costs are often above marginal costs?”
+
+
+title: Against Free Parking
+
+date: August 15, 2010 1:30 pm
+

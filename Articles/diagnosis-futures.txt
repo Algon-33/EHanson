@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+From ’97 to ’99 I was a RWJF Health Policy Scholar (at UC Berkeley), and my final project and presentation was on what I called “treatment futures”, i.e., the idea of using decision markets to forecast treatment-conditional health outcomes for individual patients. I proposed:
+
+At major treatment decision point, post sanitized medical record & options to web.
+Subsidize [betting] markets estimating treatment-conditional outcomes (e.g. lifespan).
+Anyone can trade or add treatment options.
+Market estimates inform treatment choice.
+Outcome determines market asset values.
+
+I also posted on this in ’07. Yesterday I learned that a new startup, CrowdMed, is spending $1.1M to try a related idea. They will have ordinary people “bet” on particular patient diagnoses. I put “bet” in quotes because they only bet donations, and they don’t tell users how individual predictions, individual winnings, and consensus estimates on patients are related. That is apparently part of their patented secret sauce – you’ll just have to trust them.
+A patient pays $200 to post their problem, and promises to eventually declare a “correct” diagnosis. Each player is given $5 to start, and can only spend winnings on donating to Watsi patients. So if after several years hard work, you do much better than average, and end up with $20, you might donate that much – woo hoo! Player incentives to diagnose correctly are diluted further by the fact that they only predict what the patient will say is their diagnosis, not the true diagnosis. And players don’t get to look at a full medical history, just a few paragraphs of description.
+Patients mainly pay for possible diagnoses to suggest to their doctor to consider, diagnoses that players believe might find supporting evidence, if only the patient’s doctor would consider them. So patients have to believe that their doctor will believe that these volunteer amateur detectives have useful diagnosis suggestions to pursue, ones the doctor would not have otherwise considered. Seems a pretty high bar to me.
+My conditional forecasting concept could help patients even if patient doctors don’t believe in it, but it does require players to wait longer to find out if they win. And I think that players deserve a much higher fraction of the patient payments than this startup seems willing to give them — I expect CrowdMed incentives are way too weak. Many seem to have decided that the big idea in “crowd-sourcing” is getting amateurs to do for free what you’d otherwise have to pay professionals to do. Me, I think you usually need to pay good money to get good info, even when you do it right.
+Added 3p: The CrowdMed founder replies in the comments; I respond also.
+
+
+title: Diagnosis Futures
+
+date: April 24, 2013 10:00 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+We tend to think of coalitions and conspiracies failing via betrayal. But in fact, I’d guess, they usually fail by excess loyalty signaling: members prefer to do what other members think is good for the group, rather than what private info could suggest is actually good for their group. Even in business. Karl Smith:
+I see the back rooms of opposing lobbyists all the time. Here at the state level I can safely say that virtually no one has any idea what they are doing. That is, for the most part the lobbyist do not know and indeed are not particularly interested in what is in the best interest of their clients.
+Further, this seems to stem from the fact that the clients are not particularly interested in what is in their best interests. What they are very interested in is whether legislation is pro them or anti them. However, if you begin to talk about the economy as a complex system full of unintended consequences where anti legislation could be in their best interests their eyes glaze over.
+Moreover, a very large number of business lobbyists are not even that interested in efforts that are pro or anti their business. They are more interested in legislation that is pro-business in general and that they perceive as being fair. (more; HT Tyler)
+A business group that used decision markets to estimate what would actually help them most might profit greatly thereby. But suggesting this change might signal disloyalty, at it suggests mismanagement by current group leaders.
+
+
+title: Excess Loyalty Signals
+
+date: December 22, 2011 10:20 am
+

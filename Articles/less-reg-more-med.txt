@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Iwona Kicinger, the first PhD student whose thesis committee I have chaired, defends her dissertation tomorrow morning.  One part finds that US firms that self-insure, thereby avoiding many health insurance regulations, spend 18-25% more per employee on medicine:
+Self-insured plans are characterized by higher [health insurance] employer’s contribution compared to traditional plans. … They do so … because they do not have to obey various laws and regulations, do not have to hold reserves, and have greater flexibility over the plan design … This result is highly statistically significant in all [five] models specified (pvalue<0.0001). Its magnitude is estimated to be 18-25% (depending on the model specification).
+She controls for age, gender, race, poverty level, income, education, geographic region, firm size, industry, other benefits, unions, single vs. family coverage, and profit vs nonprofit. Her data is from 1987:
+The original [USA] NMES sample covers 165 geographic areas as primary sampling units that represent 127 distinct geographic regions, in which around 15,000 households were interviewed on their health insurance during 1987.  After interviewing households, 11,422  employers (with the response rate of 85.5%), 353 unions (with the response rate of 76.7%), and 745 insurance companies (where 75.6% of them responded) were contacted in order to verify the information on the plan, including enrollment,  premiums, and payment sources.
+(Iwona hopes to have her dissertation online for public perusal this weekend.)  For those who think med is great, this seems a strong argument for reducing med regulation; burdensome regulations seem to get in the way of folks buying the med they want.  Those like me who think we are over-treated should admit this may favor more regulation; burdensome regulation makes medicine seem less valuable, and so folks buy less of it.
+FYI, the Self-Insurance Institute of America says the Senate reform plan would increase regulation of self-insurance.
+Added 16Dec: Iwona’s disseration is now available here.
+
+
+title: Less Reg = More Med
+
+date: December 7, 2009 7:50 pm
+

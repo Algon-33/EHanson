@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+A firm that uses prediction markets to get info from its employees to forecast sales or deadline success is in essence saying:
+
+Don’t just give us cheap talk for a flat fee; signal your confidence by risking a loss if you are wrong, in return for a gain if you are right.
+
+ Salesman and consultants like myself who try to convince firms to adopt prediction markets have so far mainly sought a flat fee for their advice or software.   But to drink our own Kool Aid we should say:
+
+ Pick some parameters that you estimate now, but where you want more accurate estimates.  Show us the track record of your current estimation process and then declare two values:
+
+ Your dollar value for more accurate estimates of these parameters.
+Your dollar value of time for employees who might join our markets. 
+
+ Then you and we will together track the time your employees spend in our markets, and judge the relative accuracy of our new process, compared to your current process.  Our fee will just be your declared value for the improved accuracy we achieved, minus your declared value for the employee time we used.  (We might have to pay you.)  Deal? 
+
+Added:  We’ll help you look for good candidate parameters of course.   
+
+
+title: Drinking Our Own Kool-Aid
+
+date: September 26, 2007 6:00 am
+

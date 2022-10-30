@@ -1,0 +1,35 @@
+author: Robin Hanson
+
+text: 
+I recently heard talks by Ryan Avent, author of “The Gated City”; and Matt Yglesias, author of “The Rent Is Too Damn High.” Both agreed that the inefficiency of urban land use has increased greatly in the last few decades, at least in the biggest US cities like New York. Most of the infrastructure that makes such cities great was made during the era of political machines, when a dominant party had great power to coordinate activities city wide.
+We dismantled political machines out of revulsion for unchecked power. But now our cities fail to coordinate. Local zoning boards may often coordination to benefit local interests, but they also often fail to coordinate with distant boards to achieve city-wide gains. For example, when each area limits density to keep out poor folks, such as via lot size and height rules, the city fails to provide a place for needed poor workers. How can cities better coordinate, without the vast corruptible discretion of political machines?
+Imagine for simplicity that we are starting a new city, or at least a new city area, from scratch. Some developers are thinking about building various types of housing, targeted at various types of residents. National chains are considering locating stores and food outlets. Employers and private schools are thinking of locating there as well. The question is: who will build where, and what utilities such as roads, power, water, sewer, internet will be built where to supply this new area?
+One solution is to have a single developer initially own the entire area, and negotiate directly with all these parties. Political machines once filled a similar role. Today politicians and boards for zoning and utilities try to fill such roles. But there are other options. Yesterday I explained the concept of a combinatorial auction, using the example of assigning offices when moving to a new office building.  Today I’d like to elaborate on how such a mechanism could be used to coordinate urban land use and utilities.
+It would look a lot like the scenario I outlined yesterday for allocating offices. Just on a bigger scale. Each party would submit bids describing their willingness to pay for various combinations of land features. Bids could specify:
+
+Land area, soil type, topography.
+Views (or not) of mountains, ocean, factories, etc.
+Distance (meters or road time) from residents, shopping, jobs, schools, parks.
+Local limits on ambient sound, smells, light, etc.
+Limits on nearby resident demographics, and the “class” of shops.
+Limits you are willing to supply for own sound, smell, demographics, class.
+Utility services (e.g., power, water, internet, trash) required, at what prices.
+
+A computer could then search for a max value set of mutually compatible bids. The winning assignment might specify:
+
+Which parties get what land for which uses.
+Local limits on building heights and appearances.
+What land is used for utilities such as roads, power generation, etc.
+What utility capacity is supplied at each place, and related price limits.
+Local policies limiting local behavior making sound, smell, light, etc.
+
+Revenue from winning bids could help pay for city services. The cost of utility services could be included either via a cost model, or via bids from competing service suppliers. Adjustments might be made for an expected underbidding for shared resources. Bidding assistants and iterative bidding might keep bid elaboration efforts manageable. Calculation of max value bid sets might even be farmed out to competing calculators (who keep bids secret).
+Now of course real cities are not usually built all at once, so we’d need to adapt the above process to incremental city change. Bids for each new time period could request options for similar future use at the same price, and specify a compensation due if that option is revoked. Futures markets estimating future winning bids might help determine the opportunity cost of awarding such commitments.
+Yes there might still be opportunities for corruption and favoritism in this system, such as by leaking secret bids, and biasing the auction rules. But this still seems far less corruptible than today’s system. And we might use futarchy to take away even more opportunities for corruption.
+Yes, it would be very hard to get agreement to change to this system from today’s system of property rights and regulatory restrictions. I despair of it happening in our comfortable and change-averse cities.  So we might have to wait until a big disruption creates lots of other change. More about that tomorrow.
+
+
+title: City By Combo Auction
+
+date: November 30, 2011 9:00 pm
+

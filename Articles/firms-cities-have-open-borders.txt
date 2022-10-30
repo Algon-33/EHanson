@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Cities usually don’t much limit who can move there. If you can find someone in a city to give you a job, to rent you an apartment, to sell you food and other stuff, and to be your friends, etc. and if you can pay for your move, then you can move to that city from anywhere in a much larger region. Of course individual employers, landlords, and stores are mostly free to reject you, but the city doesn’t add much in the way of additional requirements. Same for other units smaller than a nation, such as counties and states.
+Large firms also don’t usually much limit who can work there. Oh each particular small work group is usually particular about who works there, but the larger firm will mostly defer to local decisions about hires. Yes, if the larger firm has made commitments to trying never to fire anyone, but to always find someone another place in the firm when they are no longer wanted in any one part, then that larger firm may put more limits on who and how many folks can be hired by any one small group. But when the larger firm has few obligations to local workers, then local groups are also mostly free to hire who they want.
+The obvious analogies between cities, firms and nations make it somewhat puzzling that nations are much more eager to limit who can enter them. The analogy is strongest when those who enter nations can only do so in practice if they can find local employers, landlords, suppliers, friends, etc. willing to deal with them. And when the nation assigns itself few obligations to anyone who happens to live there.
+Yes, in principle there can be externalities whereby the people who enter one part of a nation effect the enjoyment and productivity of people in other parts of a nation. But those same sort of effects should also appear within parts of a city or of a firm. So why don’t cities and firms work harder to limit local choices of who can enter them?
+You might claim that cities and firms don’t need to attend to limiting entry because nations already do it for them. But most nations already have a lot of internal variation; why is none of that variation of interest to cities and firms, yet the variation between nations would supposedly be of huge interest, if nations were not handling that? And firms and cities within the nations that hold all those bad people that you think good nations are focused on excluding don’t have firm- or city-wide exclusion policies either.
+Furthermore, many multinational firms today already have employees who are spread across a great many nations, nations that vary a lot in wealth, development, etc. Yet such multinationals usually don’t have much in the way of centralized limits on who can be hired by their divisions in different firms, nor on who can be transferred between such divisions. These firms may face limits imposed by nations, but they seem to mostly lament such limits, and aren’t eager to add more.
+Firms and cities live in more competitive environments than do nations. So we should expect their behavior to be shaped more by competitive pressures. Thus we can conclude that competitive entities tend not to create entity-wide limits on who can enter them; they are mostly content to let smaller parts of them made those decisions.
+So if nations act differently from firms and cities, that should be because either:
+1) there are big important effects that are quite different at the national level, than at firm and city levels, or
+2) nations are failing to adopt policies that competition would induce, if they faced more competition.
+My bet is on the latter. In that case, the key question is: is there a market failure that makes the entry policies that competition pushes lamentable? If not, we should lament that competition isn’t inducing more free entry into nations. That is, we should lament that competition isn’t inducing national open borders, like we mostly have for cities and firms.
+
+
+title: Firms & Cities Have Open Borders
+
+date: November 1, 2019 5:00 pm
+

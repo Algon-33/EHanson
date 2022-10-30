@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+The latest Journal of Prediction Markets describes lab experiments comparing prediction markets to deliberation.  They collected 24 groups of four people to forecast a survey on the popularity of five cell phone designs.  Half the groups talked among themselves and then made a group forecast, with prizes going to the best groups.  In the other half of the groups the individuals rotated trading with an automated market maker, with prizes going to the best individual forecasters.  They found:
+
+The direct comparison of the two group mechanisms shows that the variation across the twelve estimates is much lower for the Traders with an average standard deviation of 3.2 percent compared to 7.9 percent for the Talkers.  
+
+I expect talking groups to do even worse when members have differing interests to manipulate the group conclusion.  Since prediction market accuracy seems to not be hindered by such manipulation, the difference between the two mechanisms should be even larger in that case.   
+
+
+title: Talking Versus Trading
+
+date: February 16, 2008 6:00 am
+

@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+The team studied 2238 women who had passed menopause and so completed their reproductive lives. For this group, Stearns’s team tested whether a woman’s height, weight, blood pressure, cholesterol or other traits correlated with the number of children she had borne. They controlled for changes due to social and cultural factors to calculate how strongly natural selection is shaping these traits.
+Quite a lot, it turns out. Shorter, heavier women tended to have more children, on average, than taller, lighter ones. Women with lower blood pressure and lower cholesterol levels likewise reared more children, and – not surprisingly – so did women who had their first child at a younger age or who entered menopause later. Strikingly, these traits were passed on to their daughters, who in turn also had more children.
+If these trends continue for 10 generations, Stearns calculates, the average woman in 2409 will be 2 centimetres shorter and 1 kilogram heavier than she is today. She will bear her first child about 5 months earlier and enter menopause 10 months later.
+More here. And this is just for the few parameters tested in this study; no doubt many more features are evolving as well.
+Our culture respects taller thinner women who wait longer before having kids, but in fact we are evolving short heavy women who have kids earlier.  Shades of Idiocracy – in many ways we are evolving to become less of what we now respect.
+In principle humans could implement strong central regulations to ensure that they evolved to become the sort of creatures they respect, at least regarding a few features of regulatory focus.  But it is far from clear that we are willing, or even able, to achieve this.  And it is far from clear to me that we would be better off achieving such far ideals. Perhaps short plump early moms are happier, after all.
+Of course I expect that within a century the main dynamic will be even faster robot evolution, but the same principle will apply – without strong central coordination they are unlikely to evolve to become what we or they most respect.
+
+
+title: Humans Are Evolving
+
+date: November 14, 2009 10:20 am
+

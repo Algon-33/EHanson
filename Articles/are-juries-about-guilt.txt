@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+12 Angry Men is a classic movie that for many presents the ideal of a jury system of law.   An excellent Russian remake, 12, also seems to many re-affirm this idea.  The New York Post says “This is the rare remake that does honor to the spirit of the original” while the Austin Chronicle says:
+12 is very bit as much of a moral powerhouse as its predecessors but with the added bonus of being simultaneously intellectually riveting and, at times, almost indescribably poetic.
+It is indeed a good movie, and even reasonably true to human nature.  But if it presents an ideal jury, then it suggests juries are not about guilt.  To explain, I’ll need spoilers, which are below the fold.
+The film begins with only one juror voting against guilt, and ends with them all voting against.  Along the way every vote change but one is toward a not-guilty verdict, and the one change toward guilty is very clearly not based on any evidence about the guilt of the accused.  This pattern is very suspicious.  Even setting aside the issue of a lack of Aumann-like agreement based on being persuaded by others’ opinions, a Bayesian’s opinion path should be a random, not a linear, walk.
+The first piece of even indirectly relevant evidence about the guilt of the accused is not mentioned until a half hour into deliberation, and that evidence is that the defending attorney does not seem very competent.  It takes a full hour of deliberation to finally mention some directly relevant evidence, which is that the murder weapon isn’t as rare as the prosecution claimed.
+So what do they talk about if not evidence relevant to guilt?  The main dynamic seems to be shifting coalitions based on various kinds of ethnic and group identities, and based on specific dominance and submission status moves within the jury.   The accused is mainly a canvas on which jurors can negotiate to paint a group portrait of themselves.
+We are proud of juries because they show that “we” are in charge, even if we have to negotiate who “we” are.  Our power over the accused validates our authority, and the accused can be declared guilty or innocent depending how close and loyal they are to “us.”  If 12 is a guide, juries about about group identity, not guilt.
+Added:  I’m talking about the ideal of a jury – why people think it is a good system.  I can believe most real juries spend most of their time discussing relevant evidence.
+
+
+title: Are Juries About Guilt?
+
+date: July 29, 2009 6:00 am
+

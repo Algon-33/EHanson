@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Scott Lilienfeld asks "Can psychology save the world?":
+
+Premise #1: The greatest threat to the world is ideological fanaticism. …Premise # 2. Biased thinking is a necessary, although not sufficient, condition for ideological fanaticism. … Among the most malignant biases, and those most relevant to ideological fanaticism, are: (1) … the assumption that "because I perceive reality objectively, others who disagree with me must be foolish, irrational, or evil" (see Pronin, Puccio, & Ross, 2002); (2) Bias blind spot ("not me" bias): the erroneous belief that we are not biased, although others are (Pronin, Gilovich, & Ross, 2004); and (3) Confirmation bias: the tendency to selectively seek out information consistent with one’s beliefs and to ignore, minimize, or distort information that is not (Nickerson, 1998). Premise # 3: Critical thinking is the most effective (partial) antidote against ideological fanaticism. By critical thinking, I mean thinking designed to overcome one’s biases, especially the three aforementioned biases. 
+
+  
+
+ So, the most important psychological experiment never done would (1) begin with the construction of a comprehensive evidence-based educational programme of debiasing children and adolescents in multiple countries against malignant biases, (2) randomly assign some students to receive this program and others to receive standard educational curricula, and (3) measure the long-term effects of this debiasing program on well-validated attitudinal and behavioural measures of ideological fanaticism. …The greatest obstacle to conducting this experiment … is the surprising paucity of research on effective debiasing strategies. Nevertheless, at least some controlled research suggests that encouraging individuals to seriously entertain viewpoints other than their own (e.g., "considering the opposite") can partly immunize them against confirmation bias and related biases (Kray & Galinsky, 2003; Wilson, Centerbar, & Brekke, 2002). 
+
+   It would be great to develop methods that debias students, and to test those methods in randomized experiments.  The benefits would go far beyond less ideological fanaticism.  But I suspect the greatest obstacle to this vision is that parents and the public do not especially want debiased children.  Hat tip to Tyler Cowen and Timothy Terhaar. 
+
+
+title: Can School Debias?
+
+date: October 2, 2007 6:00 am
+

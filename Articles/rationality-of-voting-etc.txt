@@ -1,0 +1,23 @@
+author: Andrew
+
+text: 
+I was going to respond to this post by Philip Goetz (who writes that "voting kills") but I thought it would make more sense to summarize in a post of my own.  Even if you don’t care about voting, these issues–how to compute probabilities of extremely rare events–are relevant in other decision settings.
+Goetz reports an estimate by Donald Redelmeier that there is an 18% increase in motor vehicle deaths on election day, corresponding to an average of 24 deaths per year and compares it to the 1 in 60 million probability of decisive vote estimated a few days before the election by Aaron Edlin, Nate Silver and myself.  (If anyone is interested in the details of our calculations, they are in this article.)
+So the quick calculation goes like this:  24 out of 300 million is about five times 1 in 60 million.  So, according to these numbers, the chance of your vote making a difference is about five times, on average, as being killed in a car accident on the way to the polls.  On the other hand, people notoriously behave as to underestimate the risk of car crashes, so it’s not quite clear what to make of this.
+Some other quick calculations might help make sense of this.  The probability that your vote will swing the election is essentially equal to 1/10,000 times the probability that a change of 10,000 votes will swing the outcome.  This has an average probability of about 1 in 6000, which is a little easier to grasp.
+  
+Or you can think about Congress.  There were about 20,000 elections for the House of Representatives in the twentieth century.  None were tied, but about 50 of them were within 100 votes.  (See Exercise 1.5 of Bayesian Data Analysis.)  So the probability your vote is decisive in a random congressional election is about 1 in 40,000.
+Finally, Goetz comes back to the argument in my article with Edlin and Kaplan in the journal Rationality and Society on the rationality of voting: voting can be rational for people who care about others.  And, conversely, if you do vote, it is rational to choose the candidate whom you think is best for the country as a whole rather than who you think would happen to benefit you personally.
+Goetz also writes, "Rationally, people should be much more interested in local elections, which they have a much greater chance of affecting."  I disagree, and this is actually something we discuss in our Rationality and Society article:  yes, the chance of your vote being decisive is much higher (on average) in a local election, but the stakes are lower.  And it is the product–the probability times the stakes–that is relevant.
+None of this explains why people voted in New York (where the probability of a decisive vote was essentially zero) but it gives a reasonable justification for voting as a general habit.
+Also–because this point always comes up–let me link to my note on why we can compute the probability of a decisive vote, even though the election might be decided by a recount.
+Finally, in response to some of the discussion in the comments about rationality and behavior, I’d like to point you to a wonderful article, The Norm of Self-Interest, by psychologist Dale Miller, in which he argues the following:
+
+A norm exists in Western cultures that specifies self-interest both is and ought to be a powerful determinant of behavior. This norm influences people’s actions and opinions as well as the accounts they give for their actions and opinions. In particular, it leads people to act and speak as though they care more about their material self-interest than they do.
+
+
+
+title: Rationality of voting etc.
+
+date: December 3, 2008 6:00 pm
+

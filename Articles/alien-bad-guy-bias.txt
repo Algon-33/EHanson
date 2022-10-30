@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+The Bad Guy Bias applies to Earth signals to aliens.  From the NYT: 
+
+The makers of the new movie “The Day the Earth Stood Still” have arranged for it to be beamed into space on … the same day the movie opens here on planet Earth. … Dr. Shostak, who was a consultant for the new movie … [says] there are some people, he acknowledges, who might worry that broadcasting “The Day the Earth Stood Still” could be inimical to our interests. He added, “I think that if these people are truly worried about such things, they might best begin by shutting down the radar at the local airport.” 
+
+Shostak is right; compared to intentional signals, unintentional signals are a million times larger:
+
+ There are three large-dish instruments in the world that are currently employed for doing radar investigations of planets, asteroids and comets: ART (Arecibo Radar Telescope), GSSR (Goldstone Solar System Radar), and EPR (Evpatoria Planetary Radar). Radiating power and directional diagram of these instruments is so outstanding that it also allows us to emit radio messages to outer space, which are practically detectable everywhere in the Milky Way. This dedicated program is called METI (Messaging to Extra-Terrestrial Intelligence) …  
+
+  
+Over all the radar astronomy history … The total area of the sky illuminated by [radar] transmissions is about 0.022 steradians (sr). … The total area of sky illuminated by the METI transmissions is … 2000 times less … Total duration of time of radar transmissions exceeds the overall time interval of the METI transmissions by a factor of 500. Therefore, we can conclude that the probability to detect the radar astronomy transmissions by a hostile super-civilization is 2000 x 500 = 1,000,000 times higher than that of the METI transmissions. 
+So, if someone is concerned about our detection by an aggressive super-civilization (so-called METI-phobia), first of all one has to prohibit not the METI, but the radar astronomy. However, one can not prohibit it because the radar astronomy is an important and indispensable component of the asteroid hazard and defense system. But most radar astronomy has little to do with asteroid defense.
+Seems to me we should be more explicitly considering these negative costs of radar astronomy.  Some argue we shouldn’t worry about radar astronomy because Earths O2 spectral line has emitted a signal hundred billion times stronger.  But life be far far more common in the universe than radar astronomy capable life.
+
+
+title: Alien Bad Guy Bias
+
+date: December 25, 2008 8:30 pm
+

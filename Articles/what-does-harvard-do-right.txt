@@ -1,0 +1,40 @@
+author: Robin Hanson
+
+text: 
+Is Harvard the top rated college because it is the most clever in deciding who to admit? Not obviously. Instead, in the short run Harvard can gain plenty from a positive feedback loop: the best people apply and prefer to go there, which adds a glow to those who graduate from there, which makes the best want to apply, and so on.
+While this seems an obvious and simple story, I must admit I haven’t been thinking enough in such terms, probably in part because I haven’t seen formal economic models that capture this story well. I thank venture capital (VC) titan Marc Andreessen for clarifying. Here is part of a 14 May twitter chat between him (MA) and myself (RH):
+RH: VC is dominated by a few firms. What is the scale economy? Few geniuses? Info of seeing most pitches? Ability to create new fashions? Other?
+MA: Core dynamic: A few firms have positive selection on their side; the other firms have adverse selection working against them.
+The battle among VC firms is less “who is smarter?” than “who do the best founders approach first?”.
+RH: OK, but why approach the top few first? What is more attractive about being funded by them vs others?
+MA: Founders care about the VC brand halo because potential employees, potential customers, and other potential investors care.
+RH: Is it just that top VC get first pick, so they are better picks, so their picks get halo by being in that pool, rinse & repeat?
+MA: Yes, that’s the core positive feedback loop. How it starts is less meaningful than how it perpetuates.
+Core dynamic: A few firms have positive selection on their side; the other firms have adverse selection working against them.
+The battle among VC firms is less “who is smarter?” than “who do the best founders approach first?”.
+The main historical driver of positive selection is prior success: a halo branding effect that new startups seek.
+In essence, a new startup uses its VC’s brand as a credibility bridge until the startup establishes its own brand.
+RH: Sure, but the question is why some VC brands shine brighter. Their money isn’t any more green.
+MA: They have an aura of success as a consequence of having previously funded successful startups.
+Arguably these dynamics are changing in real time in some interesting ways:
+RH: Is there a prediction on if VC industry will become more or less concentrated as result of these changes?
+MA: My belief is that VC is restructuring the same way retail stores, law firms, accounting firms, and investment banking did:
+This seems to be the hallmark of a professionalizing industry being run properly. You either go big or you go specialist.
+RH: I guess the key idea is that there are big scale economies with doing standard tasks, but big diseconomies for specialized tasks.
+MA: Yes, but with the subtlety that the well-run scale players are also excellent at many of the specialized tasks.
+RH: Many, but not most, or the specialized shops couldn’t exist long.
+MA: This is exactly what happened in the talent agency business in the 1980s and 1990s. The big agencies got great at many things.
+The specialized shops have to stay small and stay laser-focused on particular areas of specialized advanced competency.
+But of course similarly, a scaled franchise firm that gets sloppy runs the same risk, can degrade itself into the middle tier.
+RH: Summary: long trend is to scale given tasks, but also task specialization. Overall scale rises, but falls locally when specialize.
+MA: Right, exactly. And this explains the size distribution — the scaled players have to be big; the boutiques have to stay small.
+You see this in investment banking. You either work with Goldman Sachs or you work with a small boutique specialist bank.
+RH: This makes sense, but I’m not sure we have any formal models that predict this correlation nicely.
+This same sort of story also seems to work in the short run to explain why some journals have higher prestige. It is not so much that top journal editors are more clever, or use a smarter system to review submissions. It is just that the best papers are submitted there first, which makes the average quality of their publications higher, and so on.
+In the long run, we see changes in the prestige rankings of these colleges, journals, investment banks, and venture capital funds. The key question is: what determines those long run changes? Do competitors with slightly better ways to evaluate or help submissions slowly win out over others? Or do other factors dominate?
+
+
+title: What Does Harvard Do Right?
+
+date: May 17, 2015 7:50 pm
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+When should you seek decision advice?  One factor is decision size: the bigger the decision, the more effort you should devote, including effort to get advice.  Oddly, on our biggest decisions, other people seem to go out of their way to offer us advice that we don’t want to hear or follow.  We rarely seek out advice, and when we do it is usually on much smaller decisions.  
+ For example, we like HowTo books, but not WhatTo books.  How to manage your computer, not what machine to manage.  How to please your partner, not what partner to please.  How to fix your house, not where to live.  How to drive fast, not what speed to drive.  How to get promoted, not what job to work at.  How to raise your kids, not how many kids to raise.  And so on.
+ One reason we avoid getting advice is that it lowers our status relative to those who give advice.  Of course this is also makes asking for advice a good way to flatter and supplicate.  Not sure if this explains the puzzle though.  But all this doesn’t seem to bode well for fielding decision markets on the biggest organizational decisions.  
+
+
+title: How To Vs. What To
+
+date: April 14, 2008 6:00 am
+

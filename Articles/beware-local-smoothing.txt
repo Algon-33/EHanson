@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+In simple cultures, folks mostly have simple intuitive accounts of why people do things, and what is forbidden or required. Kids may be told stories about the origin or justification of various elements, but those stories are shallow and poorly integrated.
+Attending an Episcopal wedding Saturday, I noticed how big an advance such churches represented. Their rules are more easily found and better standardized. And they come with larger more integrated stories about their origins and justifications.
+Of course that larger story isn’t fully integrated, not by a long shot. But you do have to look at it on somewhat larger scales, or ask “why?” a few more levels deeper, to see the incoherences.  I didn’t notice them much as a child, but by college they loomed larger.
+Today, academia is treated by many as a standard source for official explanations and justifications. Academic explanations aren’t as entertaining or accessible as Episcopal stories, but they offer more coherence on why folks should believe what academics say, some mix of experiments and peer review. And academic stories are coherent on yet larger scales – you have to know more and look deeper to see the incoherences.
+The general approach has been to smooth out local wrinkles, relative to distant reference points. In each topic area, one assumes the validity of some distant standard assumptions or beliefs, and then seeks local conclusions that more simply and reliably cohere both with local evidence and those more distant assumptions.  For example, one might assume that medicine helps health, and that people prefer to insure against risks, and calculate co-insurance levels to recommend.
+This sort of local-smoothing isn’t obviously likely to move much further away from the truth. But I worry that it better hides our ignorance when initial assumptions are pretty far from the truth. It has taken me twenty years in social science to become solidly convinced that there are huge incoherences in our standard accounts of human behavior. On the largest scales, our stories are quite jagged, and far from smooth. Many of the 2600 posts on this blog have been my attempts to point out such jags.
+To me, humans seem quite mistaken about the main functions driving a great many important areas of human behavior. Yet because so many have worked so hard at local smoothing, it is now rather hard for college kids to see these broader incoherences. Also, local academic incentives mainly reward better local smoothing, and overconfidence in the insights that result. And our delusions may well have functions, so that we are built to punish those who try to expose or deny them.
+Could it be that the main folks able to see the problem, and interested in solving it, are senior academics who are less inspired by local academic incentives, and in a mood to expose human delusions, even if they offend many by doing so? I despair, but will not yet quit hope.
+Instead, I call out to capable intellectuals: join me in this holy and oh so neglected crusade, to understand who and what we are. Let us doubt as many standard assumptions as possible on why we do what we do. Let us stay close to evidence, and to basic solid conclusions such as standard statistics, physics, and that we evolved from other animals. Let us collect otherwise-puzzling stylized facts, and seek simple theories to simultaneously account for many such facts via a few new assumptions. Let us seek an account of what we are that is at least not so jagged on the very largest scales, and let us find better ways, like prediction markets, to coordinate to give ourselves incentives to reward large scale smoothness.
+And let us steel ourselves to hold our gaze upon whatever we are, however pretty or ugly that may be.
+
+
+title: Beware Local Smoothing
+
+date: February 28, 2011 9:25 pm
+

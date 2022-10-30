@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+A society’s history of climatic shocks shaped the timing of its adoption of farming. Specifically, as long as climatic disturbances did not lead to a collapse of the underlying resource base, the rate at which foragers were climatically propelled to experiment with their habitats determined the accumulation of tacit knowledge complementary to farming. Thus, differences in climatic volatility across hunter-gatherer societies gave rise to the observed spatial variation in the timing of the adoption of agriculture. ….
+Conducting a comprehensive empirical investigation at both cross-country and cross-archaeological site levels, the analysis establishes that, conditional on biogeographic endowments, climatic volatility has a non-monotonic effect on the timing of the transition to agriculture. Farming was adopted earlier in regions characterized by intermediate levels of climatic volatility, with regions subject to either too high or too low intertemporal variability systematically transiting later. Reassuringly, the results hold at different levels of aggregation and using alternative sources of climatic sequences. (more)
+For the industrial revolution, the analogous disturbance might have been war and invasion. Were the first adopters of the industrial revolution the places that suffered an intermediate level of war and invasion? Enough to keep folks from getting too comfy in their old ways, but not so much that everything gets destroyed all the time. I’m not sure, but it sounds plausible.
+Today the main disruptions are economic; societies rise and fall due to changes in the economic fortunes of particular industries or economic styles. Thus a lesson for the next great revolution might be that it will first benefit the societies that have adapted to dealing with an intermediate level of economic disruption. Which ones are those?
+
+
+title: Goldilocks Disruptions
+
+date: February 25, 2013 12:00 pm
+

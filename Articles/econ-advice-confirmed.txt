@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+We … construct management data on over 10,000 organizations across twenty countries, … [and] use a new double-blind survey tool. … We define “best” management practices as those that continuously collect and analyze performance information, that set challenging and interlinked short-and long-run targets, and that reward high performers and retrain/fire low performers. … Our management scoring grid … was developed by McKinsey as a first-contact guide to firms’ management quality. … We also test (and confirm) that these practices are indeed strongly linked to higher productivity, profitability, and growth. (more)
+Not a bad quick measure of the quality of management practices. They find:
+In manufacturing American, Japanese, and German firms are the best managed. Firms in developing countries, such as Brazil, China and India tend to be poorly managed.  American retail firms and hospitals are also well managed by international standards, although American schools are worse managed than those in several other developed countries.  We also find substantial variation in management practices across organizations in every country and every sector, mirroring the heterogeneity in the spread of performance in these sectors.  One factor linked to this variation is ownership. Government, family, and founder owned firms are usually poorly managed, while multinational, dispersed shareholder and private-equity owned firms are typically well managed. Stronger product market competition … [is] associated with better management practices. Less regulated labor markets are associated with improvements in incentive management practices such as performance based promotion. …
+Publicly (i.e., government) owned organizations have worse management practices across all sectors we studied. … Multinationals appear able to adopt good management practices in almost every country in which they operate. … The level of education of both managers and nonmanagers is strongly linked to better management practices.
+So, the world would get more productivity and growth if it had fewer government-owned organizations, less labor regulation, stronger product market competition, and more things run by multinational firms. Gee, sounds a lot like standard economists’ advice.
+
+
+title: Econ Advice Confirmed
+
+date: February 24, 2012 11:00 pm
+

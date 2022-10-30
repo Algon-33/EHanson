@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+There have been three major eras of human history: foraging, farming, and industry. During each era our economy has grown at a roughly steady exponential rate, and I’ve written before about some intriguing patterns in these growth eras: eras encompassed a similar number of doublings (~7-10), transitions between eras were much shorter than prior doubling times, and such transitions encompassed a similar number of growth rate doublings (~6-8). I’ve also noted that transition-induced inequality seems to have fallen over time.
+I just noticed another intriguing pattern, this time in community sizes. Today in industrial societies roughly half of the population lives in metropolitan areas with between one hundred thousand and ten million people, with a mid size of about a million. While good data seems hard to find, during the farming era most people seem to have lived in communities (usually centered around a village) of between roughly three hundred and three thousand people, with a mid size of about a thousand. Foragers typically lived in mobile bands of size roughly twenty to fifty, with a best size of about thirty.
+So community sizes went roughly from thirty to a thousand to a million. The pattern here is that each new era had a typical community size that was roughly the square of the size during the previous era. That is, a city is roughly a village of villages, and a village is roughly a band of bands. We could extend this patter further if we liked, saying that an extended family group has about four to eight members, with a mid size of six, so that a band is a family of families. (We might even go further and say that a family is a couple of couples, where a couple has two or so members.)
+If previous growth patterns were to continue, I’ve written before that a new growth era might appear sometime in roughly the next century, and over a few years the economy would transition to a new growth rate of doubling every week to month. If this newly-noticed community size pattern were to continue, the new era would have communities of size roughly a trillion, perhaps ranging from ten billion to a hundred trillion.
+Admittedly, after a year or two of this new era, things might change again, to yet another era. And the growth and community size trends couldn’t both continue to that next era, since a community size of a trillion trillion would require much more than twenty doublings of growth. So these trends clearly have to break down at some point.
+I’ve been exploring a particular scenario for this new era: it might be enabled and dominated by brain emulations, or “ems.” Interestingly, I had already estimated an em community size of roughly a trillion based on other considerations. Ems could take up much less physical space than do humans, and since ems could visit each other in virtual reality without moving physically, em community sizes would be less limited by travel congestion costs.
+So what should one call a city of cities of a trillion souls? A “world”?
+
+
+title: A City Is A Village Of Villages
+
+date: April 2, 2013 8:45 am
+

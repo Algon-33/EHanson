@@ -1,0 +1,10 @@
+author: Eric Schliesser
+
+text: 
+A while back Robin Hanson mentioned that somebody should design a mechanism keep to track of pundits’ ‘scores’. Robin notes that there is no feedback mechanism to help the public figure out how accurate pundits’ predictions have been. Moreover, given the way the media works, it’s not clear they have an incentive to find accurate/reliable pundits, rather than entertaining and/or provocative ones. Currently, ‘pundits’ don’t suffer a reputational cost for their blunders. (Anybody recall weapons of mass destruction?) An academic way to go, of course, is to write a critical journal article (also nice at tenure time). For example, the economist/philosopher Erik Angner has written a very nice paper (2006), ‘Economists as Experts: Overconfidence in theory and practice,’ Journal of Economic Methodology 13(1): 1-24 [Fulltext (subscription required); Penultimate draft] in which he analyzes the (somewhat un-inspiring) track-record of Anders Aslund. (Aslund, you may recall, was the Swedish economists that suggested ‘shock therapy’ when he acted as an advisor to the Russian government between 1991 and 1994.) Of course, few pundits deserve such thorough treatment. So, we still await a nice mechanism to ‘score’ and aggregate pundits’ track-records (in the way, say, Ebay merchants are scored). Given the role pundits & talking-heads play in validating (and creating a narrative for) important public policy decisions, this could perform an important public service role. Of course, there is a catch-22 lurking here because it probably requires ‘experts’ to rate/score the ‘experts.’ But given that various foundations are willing to spend serious money on tracking media bias, why not fund a pundit score-keeping institute? In a future post, I’ll discuss the ‘serious’ business of science–and the need for score-keeping in it.
+
+
+title: Keeping score
+
+date: January 28, 2007 10:59 am
+

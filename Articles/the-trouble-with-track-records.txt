@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+In December I argued:
+
+I’d guess you can get 80% of the improvement that predict markets offer by using a much simpler solution: collect track records.  … When people make forecast-like-statements, write them down in a clear standardized form, and then check back later to see who was more accurate.   Along the way, create a consensus forecast by averaging recent forecasts, …  If you collect enough forecasts to evaluate accuracy, and reward accuracy well enough, people will try hard to be right, and you’ll learn what kinds of people to listen to. 
+
+ Stock analysts are one of the few professions where we do keep track records.  But it appears that in the main clearinghouse for stock analyst picks, history has been edited to make favored analysts look better.   This illustrates an important advantages of betting markets over simple track records:  one side will complain loudly if the bet is edited to favor the other side.
+ Managers often accept that betting markets would give them more accurate organization forecasts, but complain that such markets are too complex, too disrupting of local culture, and leak info to outsiders.   So many are exploring various forms of "competitive forecasting," where people send their forecasts and updates to a black box than tells each person how well they are doing and whatever they need to know about the consensus.  This might work well if the people running the box can be trusted.   But I worry that black box bosses may have these biases:
+
+Choose and change the consensus measures to get the forecasts they want.
+Choose and change evaluation measures to make favored people look good.
+Let favored people better see the consensus, to make their forecasts better.
+Edit all the histories to make history appear they way they want.
+
+ It is much harder to bias real money betting markets in such ways, especially several independent markets connected via arbitrage.   
+
+
+title: The Trouble With Track Records
+
+date: March 15, 2007 6:00 am
+

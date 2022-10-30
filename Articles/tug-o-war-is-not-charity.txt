@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Arnold Kling:
+Ezra Klein thinks that political organizations are worthwhile charities.
+If you donate money to a food bank, it can provide only as much food as your money can buy. If you donate it to a nonprofit that specializes in food policy issues, it can persuade legislators to pass a new program – or reform an existing one – that can do much more than any single food bank.
+So he winds up giving his money to support a think tank whose employees are somewhere around the 95th percentile of the income distribution, in the hope that they will help tilt the rent-seeking in Washington in a direction that he likes. … It is actually sort of sad for a policy wonk to settle on the idea of making donations to an organization of policy wonks.
+If public policy is a point in a high dimensional space, then every policy change has two components: a partisan and a non-partisan change. Partisan changes are along standard partisan axes, where people are lined up in a tug-o-war on different sides pulling in different directions. Non partisan changes, in contrast, are not seen as a win for one side relative to others. Technically, partisan changes project total changes into the partisan subspace.
+Assuming all parties think they seek good, partisan changes can only be good if some parties are right while others are wrong about what is good. In contrast, you can be right about a non-partisan change without others being wrong. Since the total space has a far larger dimension that the partisan space, there is a huge scope for searching in that larger space for changes that all sides could see as good. And donations to encourage such efforts can indeed consistently produce large social gains relative to their costs.
+Donations to change policy within the partisan subspace, however, only achieve good when they happen to be on the right side of partisan disagreements. Averaged over the disagreeing parties, such donations cannot on average achieve good unless there is a correlation between between donations, or donation effectiveness, and which sides are right.  Even if you think you are right at the moment on your particular partisan policy opinions, you can’t think it good on average to encourage partisan donations, unless you think donations tend overall to go to the good or more donation-effective sides.
+Unfortunately most thinktank efforts go into pushing for their sides within the partisan subspace, because that is what most donors care about. For example, Ezra’s two concrete policy examples, of “the need for food banks and homeless shelters and social services” and “repeal the 2010 health-care reform legislation,” are both clearly partisan.
+Humans clearly tend to be overconfident about politics. Since you are human, that tendency is a likely cause of your confidence in your political opinions. If your politics were about doing good with policy, you should correct for that overconfidence, and that correction would on average move folks to have little interest in partisan pushes.  Of course if your politics is not about policy, but about showing loyalty, how clever or informed you are, etc., well then go right ahead and be partisan. But don’t tell me that is generally beneficial charity.
+
+
+title: Tug-O-War Is Not Charity
+
+date: November 24, 2010 9:45 am
+

@@ -1,0 +1,59 @@
+author: Robin Hanson
+
+text: 
+Tyler recently reminded me of a key institution design problem:
+There is an entire category of American adults being denied almost all of their basic legal rights: to hold a job, choose a residence, determine their health care, enter into contracts and even decide what to do with their own body. These are adults under legal guardianship — a court-imposed process, in Ohio as elsewhere, “by which a person is relieved of the right to make personal life decisions and another is appointed to make those decisions on that person’s behalf.” (more)
+Claiming that some people can’t be trusted to run their own lives, legal judges give other people great power to run their lives for them:
+In the United States, a million and a half adults are under the care of guardians, either family members or professionals, who control some two hundred and seventy-three billion dollars in assets, … states do not keep complete figures on guardianship cases—statutes vary widely—and, in most jurisdictions, the court records are sealed. …
+In Nevada, as in many states, anyone can become a guardian by taking a course, as long as he or she has not been convicted of a felony or recently declared bankruptcy. …
+court placed no limits on guardians’ fees, as long as they appeared “reasonable.” … a quarter of guardianship petitions in New York were brought by nursing homes and hospitals, sometimes as a means of collecting on overdue bills. … Approximately ten per cent of people older than sixty-five are thought to be victims of “elder abuse” …
+When a friend tried to take him shopping, [his guardian] Parks prevented the excursion because she didn’t know the friend. [His wife] Rennie [North] had also tried to get more clothes. “I reminded ward that she has plenty of clothing in her closet,” Parks wrote. “I let her know that they are on a tight budget.” The Norths’ estate was charged $180 for the conversation. (more)
+428,000 children are in foster care in the United States. 135,000 children are adopted in the United States each year. (more)
+If you worry about the accountability and wisdom of government officials who regulate what ordinary folks can do, you should worry more about such things regarding legal guardians, and those who pick them.
+The court will review the compensation paid to the guardian in the annual account filed by the guardian. … A guardian is generally paid an amount which is not more than 5% of the ward’s yearly income. (more)
+Certain people, with ties to the ward, are preferred by courts as possible guardians. These include the person designated by the ward, before the period of incapacity occurred … In selecting the guardian, the court considers the prospective guardian’s character, history, physical capacity, and other relevant attributes. A potential guardian’s limited education or financial resources are not disqualifying conditions in and of themselves. …
+Absent negligence or conflict of interest, the guardian is generally not personally liable for any of the actions taken on behalf of the ward. In addition, the guardian is not liable for managing the ward’s estate if the guardian has acted as a prudent person would in dealing with the property of another. However, the guardian may be held liable for his/her actions where the ward’s property is damaged due to the careless acts of the guardian or if the guardian is personally at fault. …
+In some cases, the court will require a bond from the guardian to protect the ward financially. The bond is paid for by the ward’s estate and it protects the ward in the event the guardian’s mistake causes the estate to lose money. The amount of the bond is generally fixed at the total value of the estate property over which the guardian has unsupervised control, plus one year’s estimated income. …
+Guardian is not required to have any special skills. … A guardian is not required to expend his/her own funds on behalf of a protected person. However, a guardian may be held liable if they have failed in taking reasonable steps to assure that the protected person receives proper care and services, or the guardian has improperly managed the protected person’s property or finances. (more)
+Yes, it can make sense to fill the guardian role with someone, like a parent, who seems to care greatly about the ward (i.e., person guarded). But if such a person is not available, the above procedures and precautions seem to me rather weak. We should consider giving guardians stronger incentives to do well for wards.
+It occurs to me that variations on vouching and other incentivized agent that I’ve been considering lately might go a long way. First, lets consider what are the important outcomes here:
+There are five questions a judge will ask when a psychiatrist tries to put a patient on an involuntary hold for treatment:
+(1) Are you able to provide yourself with food? (The individual only need answer that they know how to dumpster dive and they know where the local soup kitchen is.)
+(2) Do you have shelter or a place to live? (“I have a tarp for when it rains and a blanket under an overpass for when it’s cold” is sufficient here.)
+(3) Do you have clothing? (If the individual is dressed, this is largely answered. If they know indicate they know where to find a coat in cold weather, the they get bonus points.)
+(4) Do you have the current urge to kill yourself and a plan to carry that out? (Pervasive depression, chronic suicidal thoughts, or previous suicide attempts are the same as a ‘no’ answer.)
+(5) Do you have the urge to attack or kill any specific person and the means to do so? (History of violence, unfocused homicidal thoughts such as ‘sometimes I feel like killing people’ or hyper-vigilant aggression ‘I’ll smash anyone who messes with my tarp or blanket’ are the same as a ‘no’ answer.) (more)
+For Guardians Over the Person:
+
+Provide proper care, maintenance, education, and support.
+Supply food, clothing, shelter, and necessaries.
+Authorize medical, surgical, dental, psychiatric, and psychological care (although some medical treatments, such as experimental treatments, require court approval).
+Making sure the protected person is properly trained and educated, and that the person has the opportunity to learn a trade, occupation, or profession.
+
+For Guardians Over the Estate:
+
+Protect, preserve, manage, and dispose of the estate according to law and for the best interest of the protected person.
+Use the protected person’s estate for the proper care, maintenance, education, and support of the protected person and anyone to whom the protected person owes a legal duty of support (more)
+
+
+I’ll summarize this as: we want to incentivize guardians to achieve these five outcomes for their wards:
+
+Preserve assets
+Earn a living
+Don’t get dead, disabled, or in pain.
+Don’t commit crimes or cause other legal harm.
+Indulge the ward’s desires and whims
+
+The easiest of these outcomes to incentivize is asset preservation. Just require the ward’s liquid assets to be sold at auction in trade for some mix of index funds and very low risk assets like Treasury bonds. Don’t tolerate guardians making investment bets using ward assets. Especially frequent changing bets that run up lots of transaction fees. Perhaps adjust asset mix for tax advantage if simple cheap objective ways can be found to choose that well.
+Regarding earning a living, it would be straightforward to create a job voucher who is paid the guarded’s wages, must pay for their training and job commute, and who gets to choose the guarded’s schools and jobs. You could select this job voucher via auction as whomever is willing to pay the most to take on the role. Perhaps the voucher’s choices of schools, jobs would be constrained via limited work hours, etc.
+Another outcome that seems quite feasible to incentivize is health. Using my proposed health vouchers (a.k.a. “life maintenance organizations”), for any given budget you could hold an auction to see who is willing to be that ward’s voucher using the highest health value. You’d just need to specify a few key parameters, such as values of death relative to pain and disability. A health voucher who also served as a job voucher would internalize the health-risking job dangers.
+Avoiding crime and other legal liabilities can be incentivized via my proposed law vouchers. An auction could find the voucher willing to vouch for a ward for the lowest price. For this we’d just need to set a few parameters regarding the ward’s relative aversion to different forms of punishment, and relative values of privacies and freedoms.
+The simplest way to indulge the ward’s desires and whims is to give them a monthly or daily budget to spend as they like, including upgrading their entertainment, clothes and housing. Another approach would be for the guarded to regularly (monthly?) set a satisfaction rating in the [0,1] range, and pay the guardian that fraction of some set amount. This gives the guardian an incentive to induce high satisfaction ratings from their ward. However if the guardian gets to see that number immediately, I fear they may use the threat of retaliation to induce high ratings. So maybe make it so guardians don’t hear about ward ratings for many years.
+Instead of using auctions to select vouchers for each of these roles separately, it might make more sense to use an auction to select a single guardian who embodies all of these roles. All that is needed is for each of these roles to be legally allowed, and to set a few key parameters re ward risk-aversion, and values relative to income of punishments, privacy, freedoms, whims, leisure, life, disability, and pain. Plausibly, the system could let the ward pick values for these parameters within allowed ranges. We might also let the ward choose the duration of guardian contracts, again within an allowed range.
+Yes, if available we might prefer the guardian be a parent or other person who really cares about the ward. And yes of course this won’t create a perfect agent, who cares exactly about each issue in the same way that their ward does. But compared to our current system, incentivized guardians could be a big improvement.
+
+
+title: Incentivized Guardians
+
+date: July 30, 2020 1:40 pm
+

@@ -1,0 +1,16 @@
+author: Paul Gowder
+
+text: 
+Often, I hear claims like the following: "too many people are cynical about electoral politics."  It’s hard to know just what to make of that sort of assertion.  For cynicism is most likely true about electoral politics, and, moreover, as a good little Bayesian, I should count the cynicism of just about everyone else as evidence to strengthen that belief.  
+"But!," the anticynic might say, "cynicism is a self-fulfilling prophecy!  If we all believe that politics is run by crooks, we won’t demand better at the voting booth [for example, because we vote strategically for the least offensive guy we think can win rather than the one we trust]!  If enough people are optimistic, your optimism will be self-fulfilling too!"  
+So imagine the following belief/payoff correspondences.  If you hold a true cynical belief, you get payoff A.  If you hold a false cynical belief (cynicism in a nice world), you get payoff B.  If you hold a true optimistic belief, you get payoff C, and if you hold a false optimistic belief, you get payoff D.  Suppose C>A>B>D (or C>A>D>B — it doesn’t matter.)  And suppose that the world is nice if M people are optimistic (where N is the number of people in the world, and N>M>1) and nasty otherwise.
+Anyone who knows game theory will immediately see that this world amounts to a coordination game with two nash equilibria: everyone optimistic in a nice world and everyone cynical in a nasty world.  And the nice world equilibrium has higher payoffs for all.
+Now suppose we’re in a nasty world.  How do we get to the nice world?  It seems like we’d do best if someone came along and deceived at least M people into thinking we’re in the nice world already!  
+This shows us that not only can individually rational behavior be collectively suboptimal, so can individually rational (truth-maximizing) belief.  Should we support demagoguery?  
+I imagine the self-fulfilling false belief problem works on some individual cases too.  For example, suppose I have more success in dating if I’m confident?  Suppose I’m a person who has poor success in dating.  True beliefs for me are not confident ones, but I’ll do better if I adopt falsely confident beliefs, which will then be retroactively justified by the facts.  Should I engage in self-deception?  
+
+
+title: If Self-Fulfilling Optimism is Wrong, I Don’t Wanna be Right
+
+date: February 23, 2008 6:00 am
+

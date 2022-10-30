@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+To my surprise, thrice in his recent 80,000 hours podcast interview with Robert Wiblin, Glen Weyl seems to point to me to represent a view that he dislikes. Yet, in all three cases, these disliked views aren’t remotely close to views that I hold.
+
+Weyl: The Vickrey Auction, … problem is he had this very general solution, but which doesn’t really make any sense like in any practical case. And he pointed out that that was true. But everybody was so enamored of the fact that his was generally correct, that they didn’t try to find like versions of it that might actually make sense. They basically just said, “Oh, that’s correct in general,” and then either you were like Tyler and you’re like … just dismiss that whole thing and you’re like, “Ah, too abstract.” Or you were like, you know, Robin Hanson and you just said, “Let’s just do it! Let’s just do it!” You know? And like neither of those was really convincing.
+
+The Vickrey auction was taught to me in grad school, but I’ve never been a big fan because it looked vulnerable to collusion (also a concern re Weyl’s quadratic voting proposals), and because I’d heard of problems in related lab experiments. I’ve long argued (e.g. here) for exploring new institution ideas, but via working our way up from smaller to larger scale trials, and then only after we’ve seen success at smaller scales. Theory models are often among the smallest possible trials. 
+
+Weyl: What I definitely am against … is something which builds a politics that only wants to speak or only respects nerdy and mathematically inclined ways of approaching issues. I think that’s a huge mistake. … the rationalist community … has … obsessive focus on communicating primarily with and relating socially primarily to people who also agree that whatever set of practices they think defined rationality are the way to think about everything. And I think that, that is extremely dangerous … because I think A, it’s not actually true that most useful knowledge that we have comes from those methods. … And B, it’s fundamentally anti-democratic as an attitude … because if you think that the only people who have access to the truth are philosopher kings, it becomes hard to escape the conclusion that philosopher kings should rule. …
+Weyl: So, Robin Hanson has this book, Elephant In The Brain, which has some interesting things in it, but I think ultimately is a long complaint that people aren’t interested in talking about politics in the way that I am interested in talking about politics. And that really annoys me. I would submit that, to someone that has that attitude, you should say, “Perhaps consider talking about politics in a different way. You might find that other people might find it easier to speak to you that way.” 
+Weyl: There’s something called neo-reaction, … a politics that is built around the notion that basically there should be a small elite of people who own property and control power through that property. … Even though most people in this rationalist community would reject that kind of politics, I think there’s a natural tendency, if you have that set of social attitudes, to have your politics drift in that direction.
+
+Our book, The Elephant in the Brain, has ten application chapters, only one of which is on politics, and that chapter compares key patterns of political behavior to two theories of why we are political: to change policy outcomes or to show loyalty to political allies. Neither theory is about being nerdy, mathematical, or “rational”, and most of the evidence we point to is not on styles of talking, nor do we recommend any style of talking.
+Furthermore, every style of thinking or talking is compatible with the view that some people think much better than others, and also with the opposite view.  Nerdy or math styles are not different in this regard, so I see no reason to expect people with those styles of thinking to more favor “anti-democratic” views on thinking eliteness.
+And of course, it remains possible that some people actually are much better at thinking than others. (See also two posts on my responses to other critics of econ style thinking.)
+
+Wiblin: I guess in that case it seems like Futarchy, like Robin Hanson’s idea where people vote for what they want, but then bet on what the outcomes will be, might work quite well because you would avoid exploitation by having distributed voting power, but then you would have these superhuman minds would predict what the outcomes of different policies or different actions would be. Then they would be able to achieve whatever outcome was specified by a broad population. …
+Weyl: I have issues with Futarchy, but I think what I really object to, it’s less even the worldview I’m talking about. I think really, the problem I have is that there is a rhetoric out there of trying to convince people that they’re insufficient and that everything should be the private property of a small number of people for this reason when in fact, if it was really the case that those few people were so important, and great, and powerful, they wouldn’t need to have all this rhetoric to convince other people of it. People would just see it, they would get it. 
+
+Futarchy has nothing to do with the claim that everything should be the private property of a small number of people, nor have I ever made any such claim. Hopefully, this is just a case of a possible misreading of what Weyl said, and he didn’t intend to relate futarchy or myself to such views.
+Added 3p: Weyl & I have been having a Twitter conversation on this, which you can find from here.
+
+
+title: Reponse to Weyl
+
+date: March 5, 2019 3:20 pm
+

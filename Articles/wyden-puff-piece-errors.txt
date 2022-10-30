@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+In the latest New Yorker, Ryan Lizza writes on “State of Deception: Why won’t the President rein in the intelligence community?” Which would be an interesting topic. Alas Lizza says little about it. Instead he summarizes the history of NSA spying on US citizens, supported via misleading statements and tortured legal interpretations, and talks the most about one Senator Ron Wyden’s heroic fight against the NSA.
+Even though Wyden hasn’t actually succeeded at much. Lizza tells us that Wyden attached sunset provisions to the Patriot Act (which he supported), and asked the question at a Senate hearing where the NSA head’s answer was later shown to be misleading. Lizza speculates that Wyden’s many secret memos “repeatedly challenging the NSA’s contention that [a particular] program was effective” caused the NSA to drop that program. Oh and Wyden voted against some bills that passed, introduced bills that didn’t pass, and argued with Obama.
+Here is the concrete Wyden accomplishement for which Lizza gives the most detail:
+Three months later, the Defense Department started a new program with the Orwellian name Total Information Awareness. T.I.A. was based inside the Pentagon’s Information Awareness Office, which was headed by Admiral John Poindexter. In the nineteen-eighties, Poindexter had been convicted, and then acquitted, of perjury for his role in the Iran-Contra scandal. He wanted to create a system that could mine a seemingly infinite number of government and private-sector databases in order to detect suspicious activity and preëmpt attacks. The T.I.A. system was intended to collect information about the faces, fingerprints, irises, and even the gait of suspicious people. In 2002 and 2003, Wyden attacked the program as a major affront to privacy rights and urged that it be shut down.
+In the summer of 2003, while Congress debated a crucial vote on the future of the plan, Wyden instructed an intern to sift through the Pentagon’s documents about T.I.A. The intern discovered that one of the program’s ideas was to create a futures market in which anonymous users could place bets on events such as assassinations and terrorist attacks, and get paid on the basis of whether the events occurred. Wyden called Byron Dorgan, a Democratic senator from North Dakota, who was also working to kill the program. “Byron, we’ve got what we need to win this,” he told him. “You and I should make this public.” Twenty-four hours after they exposed the futures-market idea at a press conference, Total Information Awareness was dead. Poindexter soon resigned.
+It was Wyden’s first real victory on the Intelligence Committee. (more)
+That “futures market” program mentioned was called the Policy Analysis Market (PAM). As I was a chief architect, I happen to know that this discussion is quite misleading:
+
+TIA was a DARPA research project to develop methods for integrating masses of info; it wasn’t an actual program to handle such info masses.
+I’ve been told by several sources that TIA research didn’t stop, it just moved elsewhere. PAM, in contrast, did stop.
+PAM was not part of TIA; the only relation is that both were among the score of research programs under Poindexter in the DARPA management hierarchy.
+Though Wyden called it “Terrorism Futures,” PAM was mainly about forecasting geopolitical instability in the MidEast. The basis for the claim that it was about terrorism was a single website background screen containing a concept sample screen which included a small miscellaneous section listing the events “Arafat assassinated” and “North Korea missile strike.”
+
+All those errors in just two paragraphs of a 12,500 word article. Makes me wonder how many more errors are in the rest.
+It is hard to believe that Lizza’s article didn’t get a lot of input from Wyden. So Wyden is likely responsible for most of these errors. Thus to fight the NSA’s spying supported by lying, Wyden eagerly lied about an unrelated research program, in order to kill a research program with a symbolic tangential relation to NSA spying. Which wasn’t actually killed. Seems a bit underwhelming as a reason to make Wyden the main actor in a story on NSA spying. I see better candidates.
+
+
+title: Wyden Puff Piece Errors
+
+date: December 12, 2013 6:40 am
+

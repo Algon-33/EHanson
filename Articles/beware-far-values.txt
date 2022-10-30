@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+In the last four years I’ve posted often on construal level theory. First discovered in the context of how differently people think about the distant future, construal level theory says that people think either using a near (concrete) mode, or a far (abstract) mode, or some intermediate mix. In far mode we tend to assume things are further away in time, space, social distance, with fewer relevant categories that are each more uniform internally. In near mode we do the opposite. There are lots more correlates.
+I’ve talked before a bit about how this biases our thoughts about the future, and on politics. Today I want to focus on a particularly important element: in far mode we emphasize basic values a lot more, relative to practical constraints; in near mode we do the opposite.
+Consider some very near choices: if to scratch your nose, how soon to browse Facebook yet again, what to eat for lunch, or if to hit that snooze alarm again. Near mode could bias us toward paying too much attention to practical constraints in such choices, relative to basic values. But it is hard for me to see that we actually neglect basic values that much in such choices.
+But if we basically get the practicality vs. values tradeoff right for near choices, and if we pay a lot more attention to basic values for far choices, then either basic values are in fact a lot more important for far choices, or we vastly over-emphasize basic values for far choices. And since I can’t see good reasons why basic values should in fact matter a lot more for far choices, I conclude that in far mode we are greatly biased to attend too much to basic values, and too little to practical constraints.
+This certainly fits my more detailed opinions on large scale policy and the future. You have to pay attention to an awful lot of detail in order to figure out which policies are best, or what is likely to actually happen in the distant future. But most people seem to quickly form opinions on such topics using simple value associations. When they can identify a clear value association, people seem pretty willing to form opinions, which seems to me a vastly overconfident attitude.
+Now when different people have opposing values on some topic, the average of their opinions isn’t necessarily too far in any one value direction. If some folks focus on the value of citizen freedom, while others focus on the value of reducing crime, we don’t necessarily get too much freedom or crime. It is when people largely share the same values that things seem to go the most wrong.
+For example, when everyone agrees on the importance of medicine or education, or military defense, we get way too much of each of them. When futurists generally agree the democracy is good, we get too much confidence that nice futures will be democratic, or that non-democratic futures will be hells.
+Really folks, think about all the details that are relevant for your ordinary near choices of when to knock off of work for the day, whether to plant a garden this year, or who to invite to a party. All those far choices of national policy have just as many if not more relevant details. And if you think about all the details relevant for guessing if you will like taking on a new task at work, realize that there are far more details relevant to deciding if you would like any particular distant future scenario. The world is complicated!
+
+
+title: Beware Far Values
+
+date: February 13, 2013 7:05 pm
+

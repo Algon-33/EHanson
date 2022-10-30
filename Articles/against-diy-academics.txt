@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Vladimir M:
+In many areas, … respectable academic authors are the richest and most reliable source of information, and people claiming things completely outside the academic mainstream are almost certain to be crackpots. … [But] what happens when a field fails both of them, having no clear research directions and at the same time being highly relevant to ideologues and interest groups? Unsurprisingly, it tends to be really bad.
+The clearest example of such a field is probably economics, particularly macroeconomics. … Even a casual inspection of the standards in this field shows clear symptoms of cargo-cult science: weaving complex and abstruse theories that can be made to predict everything and nothing, manipulating essentially meaningless numbers as if they were objectively measurable properties of the real world, experts with the most prestigious credentials dismissing each other as crackpots.
+Now it might be that academics in fields low in ideological conflict tend to accept each other’s work too easily, to protect the reputation of their field.  In this case, fields with more ideological conflict could be more reliable, if that conflict led to more critical examination of results.
+However, let us accept for the sake of argument that all else equal in ideological fields intellectual progress is slower, and claims tend to be make with more overconfidence.  What exactly would this imply for your beliefs about this area?
+It certainly wouldn’t imply that you ignore what experts write. Yes, it makes sense to adjust your beliefs for the average overconfidence there, but even with large adjustments your best estimates should still rely heavily on average expert estimates.  After all, even if they know less than they think, they still know a lot more than you.
+I suspect that what Vladimir and others usually have in mind is Do It Yourself Science:
+
+Looking at the data yourself and drawing your own conclusions.
+Now trying your own hand at the subject can help you to understand most any subject.  It can help you discern who are the real experts, and better understand what they say.  There’s a reason students are asked to do labs and problem sets.
+But if you plan to mostly ignore the experts and base your beliefs on your own analysis, you need to not only assume that ideological bias has so polluted the experts as to make them nearly worthless, but you also need to assume that you are mostly immune from such problems!
+Yes, this is a natural assumption to make, as we rarely feel that we are subject to the biases we suspect we see in others.  But without substantial evidence clearly supporting it, this is mostly just wishful thinking.  If ideology severely compromises others’ analysis on this subject, then most likely it severely comprises yours as well.  You should mostly just avoid having opinions on the subject.  But if you must have reliable opinions, average expert opinions are probably still your best bet.  (Unless of course you have a prediction market available. :))
+
+
+title: Against DIY Academics
+
+date: February 25, 2011 10:35 am
+

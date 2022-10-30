@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+A [literature survey] published last year … and found no empirical support for the idea that diversity training programs change attitudes or behavior. Similarly, a 2008 literature review … found … there were few trustworthy studies – and decidedly mixed results among those. And research by a team of sociologists on more than 800 companies over three decades has found that the best diversity training programs make little difference in who gets hired and promoted, and many programs actually decrease the number of women and minorities in management. …
+Practitioners and some scholars disagree, arguing … the field as a whole has begun to figure out what works. The changes that training triggers can often be subtle, defenders argue, and, in a setting as dynamic and stubbornly multivariate as the workplace, it’s all but impossible to come up with the clear, falsifiable evidence social science demands. The poor results that do show up in broad-based studies, they say, are due to companies whose commitment to diversity training programs is merely pro forma, and who see training as just a way to protect themselves from lawsuits. …
+What worked much better than even the best training … were more structural measures: minority mentoring programs, or designating an executive or a task force with specific responsibility to change promotion practices.
+More here. So if courts would just clearly signal that they will no longer give firms legal credit in bias lawsuits for having diversity programs, firms would quickly stop, and we’d stop wasting billions.  Will courts do this?
+Not anytime soon.  Admitting these programs don’t work would lower the status of legal elites who suggested they would work, and such elites can rationalize this expense as a signal of our society’s commitment to diversity.
+The problem is that while “burning money” can indeed signal values, it can be hard to tell what values exactly it signals.  Elites might say diversity programs show our concern for to minorities, but observers may come to reasonably see them as showing only a concern for the high status of current legal elites.
+
+
+title: Diversity Classes Fail
+
+date: April 2, 2010 12:00 pm
+

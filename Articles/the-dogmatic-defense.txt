@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+The August Journal of Research in Personality says people with worse memory are more dogmatic: 
+
+Two hundred college students completed a working memory span test to measure verbal working memory, and Rokeach’s Dogmatism Scale (1956). … A negative correlation was found between dogmatism scores and working memory scores (p = .002) …. Error analysis … [indicates] capacity limits in verbal working memory, and not processing deficits, were primarily responsible for poor working memory scores. Dogmatism was not found to be related to gender, age, ethnicity, religious affiliation, academic major, or level of education.
+
+ BPS-Digest elaborates:
+
+ The students listened to several sentences that had a word missing at the end, then after hearing all the sentences they had to propose words to fill in the gaps, in the right order.  They also completed a measure of dogmatism which gauged their agreement with statements like: "When it comes to differences in opinion in religion, we must be careful not to compromise with those who believe differently than the way we do."
+
+ Perhaps dogmatism is a defensive strategy, so you don’t have to admit that you can’t follow elaborate arguments by fast talkers.  Alas, smart people will take this as reassurance that they need worry less about their own dogmatism.  Hat tip to Brian Schwartz. 
+
+
+title: The Dogmatic Defense
+
+date: August 2, 2007 6:00 am
+

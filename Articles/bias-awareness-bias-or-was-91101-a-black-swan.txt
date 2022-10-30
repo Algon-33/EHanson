@@ -1,0 +1,18 @@
+author: Andrew
+
+text: 
+The bias I’m talking about here–I’m not quite sure what to call it–is the readiness to assume bias where possibly none exists.  Or, more generally, the overestimation of the magnitude of a bias, or the attribution to bias of a phenomenon that can be explained more directly.  I’m thinking specifically of Eliezer’s entry on hindsight bias where he wrote:
+
+Hindsight bias is when people who know the answer vastly overestimate its predictability or obviousness, compared to the estimates of subjects who must guess without advance knowledge. . . . Shortly after September 11th 2001, I [Eliezer] thought to myself, and now someone will turn up minor intelligence warnings of something-or-other, and then the hindsight will begin. Yes, I’m sure they had some minor warnings of an al Qaeda plot, but they probably also had minor warnings of mafia activity, nuclear material for sale, and an invasion from Mars.
+
+This doesn’t seem quite right to me:  I’d think the FBI and CIA would have the resources to investigate warnings of an al Quaeda plot, mafia activity, and nuclear material for sale (and I think they know enough to ignore warnings of invasions from Mars).  As Alex puts it here,
+
+What about this specific threat, Osama Bin Laden? Well, he did have a past prior for trying to blow up the World Trade Center, didn’t he? I don’t think his past failure would have made it less likely for him to try again, do you?
+
+The comments at that link are also relevant to this discussion.  Anyway, my key point here is that people do make mistakes–people even make mistakes that could’ve been realized ahead of time if proper procedure had been followed.  In these cases, the concept of "hindsight bias" can be used inappropriately as a blanket to cover up all failures.
+
+
+title: Bias-awareness bias, or was 9/11/01 a “black swan”
+
+date: September 15, 2007 6:00 am
+

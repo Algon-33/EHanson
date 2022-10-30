@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Three and a half years ago I proposed results-blind journal review:
+Consider conclusion-blind review.  Authors would write, post, and submit at least two versions of each paper, with opposite conclusions.  Only after a paper was accepted would they say which conclusion was real.
+On reflection, I’d modify that proposal. I’d add an extra round of peer review. In the first found, all conclusions about signs, amounts, and significance would be blanked out. After a paper had passed the first round, the reviewers would see the full paper. While reviewers might then allow the conclusions to influence their evaluation, they could not as easily hide such bias. Reviewers who rejected on the second round after accepting on the first round would feel pressure to explain what about the actual results, over and above the method, suggested that the paper was poor.
+
+
+title: Result Blind Review
+
+date: November 6, 2010 12:00 pm
+

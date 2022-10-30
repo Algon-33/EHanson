@@ -1,0 +1,55 @@
+author: Robin Hanson
+
+text: 
+As I’m often in the habit of proposing reforms, I hear many objections. Some are thoughtful and helpful but, alas, most are not. Humans are too much in the habit of quickly throwing out simple intuitive criticisms to bother to notice whether they have much of an evidential impact on the criticized claim.
+Here are some common but relatively useless objections to a proposed reform. I presume a moment’s reflection on each will show why:
+
+Your short summary didn’t explicitly consider issue/objection X.
+You are not qualified to discuss this without Ph.D.s in all related areas.
+Someone with evil intent might propose this to achieve evil ends.
+You too quickly talked details, instead of proving you share our values.
+Less capable/cooperative folks more like radical proposals; so you too.
+Most proposals for change are worse than status quo; yours too.
+There would be costs to change from our current system to this.
+We know less about how this would work, vs. status quo.
+If this was a good idea, it would have already been adopted.
+We have no reason to think our current system isn’t the best possible.
+Nothing ever changes much; why pretend change is possible?
+No supporting analysis of type X exists (none also for status quo).
+Supporting analyses makes assumptions which might be wrong.
+Supporting analysis neglect effect X (as do most related analyses).
+Such situations are so complex that all explicit analysis misleads.
+A simple variation on proposal has problem X; so must all variations.
+It would be better to do X (when one can do both X and this).
+If this improves X, other bad systems might use that to hurt Y.
+
+Many useless objections begin with “Under your proposal,”:
+
+we might see problem X (which we also see in status quo).
+people might sometimes die, or be unhappy.
+people might make choices without being fully informed.
+poor folks might be worse off than rich folks.
+poor folks may pick more risk or inconvenience to get more $.
+not all decisions are made with full democratic participation.
+governments sometimes coerce citizens.
+some people would end up worse off than otherwise.
+some people would suffer X, so you lack moral standing if you do not immediately make yourself suffer X.
+
+So what do useful objections look like? Try these:
+
+I reject your goals, and so see no value in your method.
+We can only do one thing now, and payoff from fixing this is too small, vs. other bigger easy fix X.
+A naive application of your proposal has problem X; can anyone think of better variations?
+Problem X seems robustly larger given your proposal vs. status quo.
+Benefit X seems robustly smaller given your proposal vs. status quo.
+I’d bet that if we added effect X to your supporting analysis, we’d see your proposal is worse on metric Y.
+According to this analysis I now provide, your proposal looks worse on many metrics, better on only a few.
+Here is why the parameter space where your proposal looks good is unusually small, making it unusually fragile.
+This reform was unusually likely to have been considered and tried  before, making it is especially important to know why not.
+
+
+
+title: Common Useless Objections
+
+date: March 10, 2020 12:00 pm
+

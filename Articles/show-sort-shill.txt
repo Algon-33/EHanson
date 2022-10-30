@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+The point of writing is to help others see, but what exactly do we help others see?  Consider:
+
+Show – Show the world new ideas (or insights).
+Sort – Attach quality signals to shown ideas.
+Shill – Push ideas, via other sorts of influences.
+
+Many new ideas or insights can be expressed clearly in just a few paragraphs.  Others may take a few pages; a few need whole books.  With more work, one can express ideas in different ways, for more chances to connect to different readers, and attach good descriptors and connections, so that folks searching for such things can find your idea.
+The vast majority of intellectual effort, however, is not such “showing”, but instead “sorting” and “shilling.”  Advocates push ideas via repetition, celebrity endorsement, etc., pundits are witty, engaging, elegant, etc, and academics make impressive-looking math models, theorems, data collections, stat studies, prototypes, etc.
+When readers have good reasons to think that ideas with certain associations are objectively more true or valuable, I’ll say efforts to create such associations “sort” ideas.  Otherwise, such efforts “shill”, i.e., they direct attention or belief but not preferentially to objectively better ideas.
+Now sorting is no doubt a required function — we need to know where to focus attention and belief.  But while intellectuals often suggest that their effort is efficiently directed toward this goal, I am skeptical.  Instead, I suspect audiences of pundits and academics mainly want to affiliate with credentialled-as-impressive folks.  Academics are mainly rewarded for doing impressive-looking idea-work, that can be credentialled as such.  Pundits, wonks, columnists, etc. are similarly rewarded for writing that is witty, engaging, elegant, etc.
+Now academics and pundits do sometimes have original ideas and news, and such contributions can add a bit to impressiveness.  And many audiences, all else equal, prefer to hear news.  But mostly the finding and showing of such ideas and news is a side effect of trying to be and affiliate with impressiveness; institutions designed primarily to achieve that function would do it far more effectively.
+To me, the great charm of blogging is that I can think about interesting things, have an apparently-original insight about something, and then in a few paragraphs I can show that insight to the world.  If an idea seems especially valuable, I can re-express it again in future posts, to better explain and index it.
+My great anxiety about blogging is my fear that merely-blogged ideas will not get the attention or belief they deserve, if they do not get the usual quality signals, and that if I don’t give my ideas such quality signals, no one will.
+I could take a ton of time and effort to give very standard quality signals, but I can only do this for a tiny fraction of my ideas and I might really just be trying to seem impressive.  I could work to make more efficient signals of quality for a selection of my ideas, signals that do indicate their truth or value of an idea, but that do less well at showing impressiveness.  But how many would attend to such signals, and would that be worth the neglect of other insights I could instead find and show via more blogging?
+Which of these options is the most fun, and how much do I really care about anything else?  I remain honestly torn and uncertain here.
+Added 8a: Both sorting and shilling both have positional aspects that concern me; they both raise ideas only at the expense of other ideas.  Overconfidence could easily trick one into over-estimating the value of such efforts.
+
+
+title: Show, Sort, Shill
+
+date: February 5, 2010 11:20 pm
+

@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+From a recent Science:
+Agriculture and cities made human life better, right? Wrong, say archaeologists who presented stunning new evidence at the American Association of Physical Anthropologists meeting. They pooled data on standardized indicators of health from skeletal remains, including stature, dental health, degenerative joint disease, anemia, trauma, and the isotopic signatures of what they ate, and gathered data on settlement size, latitude, and socioeconomic and subsistence patterns. They found that the health of many Europeans began to worsen markedly about 3000 years ago, after agriculture became widely adopted in Europe and during the rise of the Greek and Roman civilizations. …
+
+title: Capitas Vs. Per Capita
+
+date: May 16, 2009 8:30 am
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Soon the police will always be watching every public move you make:
+A vast system that tracks the comings and goings of anyone driving around the District. … More than 250 cameras in the District and its suburbs scan license plates in real time. ..
+With virtually no public debate, police agencies have begun storing the information from the cameras, building databases that document the travels of millions of vehicles. … The District [of Columbia] … has more than one plate-reader per square mile, the highest concentration in the nation. Police in the Washington suburbs have dozens of them as well … creating a comprehensive dragnet that will include all the approaches into the District. … The data are kept for three years in the District. … Police can also plug any license plate number into the database and, as long as it passed a camera, determine where that vehicle has been and when. …
+The tag readers … cost about $20,000 each. … The District has 73 readers; 38 of them sit stationary and the rest are attached to police cars. D.C. officials say every police car will have one some day. … The District’s … officers make an average of an arrest a day directly from the plate readers. … There are no laws governing how or when Washington area police can use the tag reader technology. … 37 percent of large police agencies in the United States now use license plate reader technology. (more; also)
+As prices rapidly fall, this will be widely deployed. Unless there is a public outcry, which seems unlikely at the moment, within twenty years most traffic intersections will probably have tag readers, neighboring jurisdictions will share databases, and so police will basically track all cars all the time. With this precedent, cameras that track pedestrians and people in cars via their faces and gaits will follow within another decade or two.
+If firms tried to set up camera networks to collect and sell similar info, I would expect an outcry and regulations to stop them. But police will be not only be allowed to continue, they’ll probably also usually succeed in intimidating citizens away from recording police interactions with citizens, no matter what the official rules say.
+
+
+title: Every Move You Make
+
+date: November 21, 2011 9:30 am
+

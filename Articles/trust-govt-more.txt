@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Way back in ’83, I was excited to read that medical expert systems, developed over the previous two decades of research, could often diagnosis as well as human doctors. I judged that artificial intelligence was ready for the big time, and left grad school for Silicon Valley in the hope of joining this exciting revolution.
+Three decades later, we have over 10,000 times more computing power, yet medical expert systems are rarely used. Doctors say it takes just as long to enter patient info into a computer as it does to diagnose patients themselves, and medical licensing rules prevent selling such software to the public. Absent such licensing restrictions, expert systems might long ago have revolutionized medical practice.
+Similar rules prevent cheaper medicine via nurses directly managing patients, even though randomized trials suggest nurses are just as effective. This all just shows what a strong lock doctors have on medicine right? Well, consider the example of school nurses.
+Most states have special laws allowing school nurses to directly manage students as patients. True, school nurses can’t do everything docs can, but nurses who offered these same services to passersby at a shopping mall, without direct doc supervision, would violate medical licensing laws. Apparently, we like the comfort of knowing that medical help is onsite at school, but know that an onsite doctor would be very expensive, and so compromise with school nurses.
+For soldiers, we similarly like the comfort of having medics available near each soldier, yet know that requiring medics to be full doctors would be very expensive. So we also relax our usual medical rules to let medics to care for soldiers without being doctors, or under their direct supervision. But we refuse to relax such rules elsewhere in society. Why do we allow the exceptions of school nurses and military doctors, but no other exceptions?
+One obvious common element here is that most medics and school nurses are government employees. This seems to be part of a more general pattern, whereby we often relax regulations for the government.  For example, the military is also not subject to OSHA rules on workplace safety, and the worst asbestos and hazardous waste sites have been on government property.  Congress has also exempted itself from rules against workplace discrimination and stock insider trading.
+So why are governments often held to lower standards?  Is it that they hold themselves to lower standards out of self-interest, and voters rarely notice?  Is it that voters like to punish and bring down evil alien corporations, but don’t feel as hostile to governments?
+One might argue that we the public think we can trust our government more because we run it via democracy. But if so why don’t we then also trust ourselves to give government employees fair wages – why think they need unions to protect themselves from our exploiting them?
+Relevant quotes:
+Research conducted [before 1979] at the Stanford Medical School found MYCIN to propose an acceptable therapy in about 69% of cases, which was better than the performance of infectious disease experts who were judged using the same criteria. … MYCIN was never actually used in practice. (more)
+A systematic evaluation [before 1982] of the capabilities of INTERNIST-I … on a series of 19 clinicopathological exercises (Case Records of the Massachusetts General Hospital) published in the Journal appeared qualitatively similar to that of the hospital clinicians but inferior to that of the case discussants. (more)
+Licensed practical or vocational nurses (LPNs) … in 23 states [are] able to provide school health services, although some states limit their scope of practice and the need for RN or physician or chiropractor (MD) supervision depending on the nurse practice act of each state (more)
+Advanced practice nurses are seeking to expand their scope of practice in at least 24 states. New legislature would legally allow nurses more freedom and authority to prescribe narcotics, and also to lead a patient care team, in states where doctors are now legally required to take the lead and supervise the team. Several states already allow prescribing and practice authority to advanced practice nurses. (more)
+Added 11a: Stewart says: “psychologists have to be licensed in private practice, but in many states do not have to be licensed if they work in for a school board, prison, or hospital.”
+
+
+title: Trust Govt More?
+
+date: April 9, 2011 1:00 pm
+

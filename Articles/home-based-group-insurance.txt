@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Today U.S. employees are not taxed for medical insurance obtained through their employer.  Imagine instead that medical insurance only got a tax break if it was obtained through neighborhoods, i.e., groups of contiguous neighbors banding together to deal with medical insurance plans.  
+Disadvantages of this proposal include a substantial cost of change from current arrangements, higher costs of changing homes, and that neighborhood groups formed for this purpose would probably have less expertise than firms in dealing with insurance plans.  Plans would probably offer simpler contracts and wider reputations to compensate for reduced customer expertise.
+Advantages of this proposal include keeping medical insurance when you lose your job, better job-employee matching because job change gets easier, better matching of plan features to more-likely-to-be-similar customer preferences, and that neighbor social pressure might be more effective than coworker pressure in encouraging healthy behavior.  
+Problems with administrative overhead, adverse selection, or a lack of long term insurance wouldn't be obviously any better or worse under this proposal.  
+OK, this doesn't seem a huge win, but it is an interesting alternate, to remind us that things do not have to be as they are.
+
+
+title: Home-Based Group Insurance
+
+date: April 15, 2009 9:10 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+This is our 101st post in the 50 days since we opened November 20.   So it is time to take stock and ask for feedback.  We’ve had 76,436 page views, 33,410 visits, and 1392 comments.   Our visitors come from these time zones:  Eastern 35%, Pacific 19%, Central 14%, Mountain 7%, Greenwich 5%, Berlin 5%, and New Caledonia (near Australia) 5%.  
+Our busiest days overall were last Friday for several posts, December 13 for the post Do Helping Professions Help More?, and Nov. 28 for the post Are The Big Four Econ Errors Biases?
+ I wrote 45 of the posts, and Hal Finney wrote 16.   Eliezer Yudkowsky and David Balan wrote 7, Nicholas Shackel and Peter McCluskey wrote 3, Nick Bostrom and Guy Kahane wrote 2, and Hibbert, Kling, Shulman, Tschoegl and Weeden wrote one.  The top two categories were Disagreement with 19 and Standard Biases with 17.
+My plan was to scale back my contributions once we had enough momentum; I’m not sure we are there yet.   So, what can we do to improve?    
+
+
+title: How Are We Doing?
+
+date: January 8, 2007 1:00 pm
+

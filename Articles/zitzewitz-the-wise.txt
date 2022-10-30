@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Eric Zitzewitz on why the CFTC cracked down on Intrade:
+Why prohibit something so harmless? After all, U.S. policy already allows many forms of gambling that have significant social costs and produce no useful information. The real reason may be found in debate surrounding another recent setback for prediction markets, Congress’ last-minute modification of the Dodd-Frank financial reform bill in 2010 to prohibit markets on box-office receipts planned by the Hollywood Stock Exchange (HSX).
+The plug was pulled after lobbying by the Motion Picture Association of America, which argued that a prediction market forecasting a poor movie box office could lend an “aura of financial authenticity to gossip.” Translation: Even big-budget failures often have one big weekend before word of mouth kicks in, and information aggregated by prediction markets may deprive them of that.
+The bigger threat is to the executives who green-light the flops in the first place. The track record of even the play-money version of HSX is quite good ‑ a real money version would presumably be better. If a prediction market can forecast a poor box office well in advance of production, it raises questions about why an executive cannot. A consultant told me about a software company that ended an internal prediction market that forecast the success of the company’s products. The problem was not that it failed to work ‑ it worked all too well, and that raised awkward questions for the egos involved. (more)
+Yes this is a big reason why most firms don’t want prediction markets on internal issues, and why the film industry lobbied to prevent film futures. But I find it harder to see as a big reason the CFTC prevents Intrade, and earlier Nadex, from betting on elections. That seems more simply explained by a general public aversion to what it sees as “gambling.”
+
+
+title: Zitzewitz The Wise
+
+date: November 29, 2012 2:30 pm
+

@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+New Scientist: 
+
+Blood transfusion became a mainstay of medicine during the two world wars, where it was used as a last resort to save soldiers who had suffered massive blood loss. But now, far from being restricted to catastrophic bleeding, transfusions are routinely used as an optional treatment, most commonly for patients in intensive care or undergoing major surgery. … The rationale behind such blood transfusions seems incontrovertible. Red cells deliver vital oxygen to tissues, and seriously ill patients who are also anaemic fare less well, so a transfusion should help. Those assumptions went untested for the better part of a century.
+ Things started to change in 1999 with a randomised controlled trial on 838 critical care patients in Canada that used haemoglobin levels to determine when a blood transfusion was given. Normal levels of haemoglobin … range from 120 to 170 grams per litre. A normal haematocrit – the proportion of red cells in the blood – ranges from 36 to 50 per cent.  Doctors decide whether to give a transfusion based on a number of factors, including haemoglobin levels and haematocrit, and the patient’s overall robustness. Many guidelines exist, and practice varies from one hospital or doctor to another, but it is common for patients to receive transfusions when their haemoglobin dips to between 70 and 100 g/l or their haematocrit to 21 to 30 per cent.
+ But the Canadian study found significantly fewer patients died in hospital, 22 versus 28 per cent, if they received transfusions only when their haemoglobin fell below 70 g/l rather than when it fell below 100 g/l.
+
+  
+
+ A more recent study has found that in heart attack patients with haematocrits of over 25 per cent, a transfusion is associated with more than three times the risk of death or a second heart attack within 30 days compared with not having a transfusion (Journal of the American Medical Association, vol 292, p 1555).
+ For almost 9000 patients who had heart surgery in the UK between 1996 and 2003, receiving a red cell transfusion was associated with three times the risk of dying in the following year and an almost sixfold risk of dying within 30 days of surgery compared with not receiving one. …
+ "There is virtually no high-quality study in surgery, or intensive or acute care – outside of when you are bleeding to death – that shows that blood transfusion is beneficial, and many that show it is bad for you," says Gavin Murphy, a cardiac surgeon at the Bristol Heart Institute, who ran the UK study.
+
+
+
+title: Beware Transfusions
+
+date: May 3, 2008 6:00 am
+

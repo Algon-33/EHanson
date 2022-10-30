@@ -1,0 +1,57 @@
+author: Robin Hanson
+
+text: 
+These events probably happened in the reverse order, but imagine if humans inventing counting after herding. That is, imagine a community long ago which herded animals, and where having a better herd was a big mark of higher status. Since they could not count, these humans gossiped about who had the better herd. For example, they traded anecdotes about times when someone’s herd had seemed especially awe-inspiring or dingy. And via gossip (and its implicit coalition politics), they formed a rough consensus on who had the best herds. A consensus where the opinions of high status folks tended to count for more.
+Then someone invented counting and said “This will help us ensure that we aren’t missing stragglers when we bring our herds back from grazing”, and “Now we can objectively measure who has the larger flock”. While this community might be grateful for that first feature, I predict that they would hate the second one.
+Folks would point out that size isn’t the only factor that matters for a better herd, that counting mistakes are possible, and that gossip about herd counts might inform herd thieves about who to target. Some say this won’t stop people from gossiping lots about whose herd is better, while others say that it will cut gossiping but that’s bad as gossip is good. Better to ban counting, they all say.
+Don’t believe me? Consider these poll results (and attached comments):
+
+People now show off wealth via cars, clothes, etc., health via sports, hard drinking, etc., & smarts via vocabulary, degrees, etc. Such signaling might happen less if we published easy-found official tests/measures of everyone’s wealth, health, & smarts. Do you support doing so?
+— Robin Hanson (@robinhanson) October 16, 2020
+
+It wouldn’t take much more info than we use to set taxes to estimate net worth, an annual fitness test is enough to estimate health, and regular IQ tests can estimate smarts. We already put great effort into estimating these things in others, and in trying to get others to think well about us re them. Posting such metrics doesn’t require anyone to use them, nor does it prevent us from using other cues. Preventing these measures won’t stop people from judging you harshly based on what they do know. And yet even my Twitter followers are 3-1 against the idea.
+Consider also some related puzzles.
+
+Many hate the very idea of IQ, saying it couldn’t possible encompass most of what we care about re “smarts”.
+Many hate the very idea of a consensus shared ranking of who has what social status, saying it can’t be measured and doesn’t exist.
+Many insist that beauty is only “in the eye of the beholder”, and can’t possibly be measured.
+Many academics really hate the idea of evaluating academics by counting publications or citations, even weighted by other factors. They even put rules against doing that into department by-laws.
+US Colleges a century ago used simple objective measures in admissions, but when Jews started to dominate they added complex “extracurricular” measures to keep Jews out. Today such measures are used to keep out Asians who score well on simple objective measures.
+Recently many have pushed colleges to drop use of SAT and ACT, supposedly because of pandemic-caused inequities in access to testing. Even though there is far more inequality in access to the extracurricular measures that they will use instead.
+People have a suspiciously wide yet symmetric variation regarding what job factors matter most to them.
+We generally prefer authorities to have discretion in which rules are enforced how strictly on who.
+Most orgs prefer to pick new workers based on personal interviews, even though that seems to add little to other measures.
+
+A plausible explanation for these clues so far is that we generally want evaluations of people to be set by our (implicitly political) gossip system, and are wary of having that gossip be overly-pressured by objective measures. As I’ve said:
+The common pattern here seems to me to be a dislike of clear formal overt rules, mechanisms, and criteria, relative to informal decisions and negotiations. Especially disliked are rules based on explicit metrics that might reject or disapprove people.
+Now we do sometimes have relatively objective measures and rules; what explains these exceptions? It seems to me that when authorities push such things (e.g., GPAs, income tax, sport contests) we mostly accept them, to show our submission to authorities. And we are more likely to approve objective measures when facing outside threats. For example, in the recent movie Midway (which I love), Anne Best, wife of super-pilot Dick Best, asks his commander:
+“Why isn’t he commanding a squadron? … I understand before the war, when it was about politics, but now?”
+Our declining reliance on objective measures suggests that we feel safer today, but also that we are a civilization in decline.
+It seems to me another set of puzzles, regarding our attitudes toward variety, is related. Consider:
+
+Many are quite ashamed to live in houses, or wear clothes, that look the same as others.
+Many are deeply offended by potential romantic partners who see their main value as how they rank on a common scale of attractiveness.
+Alcoholics often use their unique situation to excuse continued excess drinking.
+Our preferences for variety are much stronger in things that are more socially visible.
+We seem to have spent most of our increasing wealth over the last century on more variety.
+Marketing’s first rule is “differentiate your product”, and customers often quite gullibly believe that commodities (e.g. gas, water) differ.
+Primitive societies fragmented over a remarkably short distances to differ in languages, rituals, etc.
+We disagree far more than is rational, for example making far more stock trades that is rational.
+Science faced large cultural obstacles to induce a focus on a small number of key stable dimensions of phenomena.
+Many complain bitterly that large markets have cut their negotiating power in labor and other negotiations.
+
+We are each quite eager to present ourselves as unique products, sitting in a high dimensional space of possibilities, well-matched to the demands of unique customers who sit near us in that space. Instead of as generic products that vary mainly along a few key dimensions, for which there are a great many close substitutes. And even if as demanders we actually do see many people as close substitutes, we are eager to go along with this pretense, to project loyalty.
+We affirm our uniqueness by our unique preferences in products and services, and our unique beliefs that produce disagreements. But in fact, we not actually so unique or varied:
+We like to tell ourselves that we [choose variety] because the new products we pick are closer to the ideal points of our complex authentic identity. Marketers like to tell the same thing to us, and to the firms who buy marketing services. But in fact we just want the appearance of having specific feature packages we like that fit who we are; we mostly don’t actually have coherent identities, but instead just wander around in the space of available products.
+(Yes, there are other reasons for variety, including mixed strategies, innovation, a division of labor, and task complexity. These do not seem to me sufficient to explain the above patterns.)
+This desire to present ourselves and our associates as unique well-matched products seems to strongly complement our dislike of simple objective low-dimensional measures to evaluate people, and of simple rules to constrain them. Through these attitudes, we affirm both our loyalty to close associates and to the wisdom of our gossip system (and its leaders) in judging people. We are, however, willing to submit to authorities when they affirm simple objective measures and rules, especially when we see such things as useful in our competition with outsiders.
+If it were not for the threat of war or strong outside economic competition, we’d probably eventually rid ourselves of all objective measures and rules. And if we in the near future continue to feel safe and unthreatened by outsiders, we will probably continue to see movement in this direction.
+Added 4p: Sports seems a big exception, being an area where we are less eager to emphasize variety in ability and preferences, and more willing to publish simple clear low-dimensional comparable measures about individuals. Maybe this is because sports is mainly seen as a proxy for war abilities, where we do care about our overall ability and want potential war rivals to see that.
+We also seem more willing to “publish” individual performance metrics within firms, plausibly because they often face strong competition from other firms.
+Added 11a: Some take me as claiming that there are never any problems using simple metrics, or that we should always prefer simpler ones. I’m making no such claims.
+
+
+title: Contra-Counting Coalitions Value Variety
+
+date: October 18, 2020 1:30 pm
+

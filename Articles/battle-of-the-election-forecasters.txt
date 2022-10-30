@@ -1,0 +1,16 @@
+author: Andrew
+
+text: 
+Douglas Hibbs is a political scientist whose "bread and peace" model forecasts presidential election votes pretty well from the economy alone, with corrections for wartime.  (I don’t know how to upload graphs to this blog so I’ll point you to some pretty pictures of how the model works for the elections from 1952 through 2004.)
+This is interesting in its own right–if elections can be predicted, how do we make sense of fluctuations in the polls–but what I thought would particularly interest the Overcoming Bias community is Hibbs’s discussion, in his recent article, of an article by William Nordhaus that claimed that economic forecasts did not actually work well in 2004.  Nordhaus writes, "the Republican incumbent candidate in 2004 did significantly worse than would be predicted based on economic and political variables such as incumbency and economic performance."  Hibbs, however, makes a convincing case that Nordhaus just looked at some bad models.  Here’s Hibbs’s paper; the discussion of different forecasting models begins on page 5.
+As a bonus, here’s an article by Bob Erikson and Chris Wlezien on why the political markets have been inferior to the polls as election predictors.  Erikson and Wlezien write,
+  
+
+Election markets have been praised for their ability to forecast election outcomes, and to forecast better than trial-heat polls. This paper challenges that optimistic assessment of election markets, based on an analysis of Iowa Electronic Market (IEM) data from presidential elections between 1988 and 2004. We argue that it is inappropriate to naively compare market forecasts of an election outcome with exact poll results on the day prices are recorded, that is, market prices reflect forecasts of what will happen on Election Day whereas trial-heat polls register preferences on the day of the poll. We then show that when poll leads are properly discounted, poll-based forecasts outperform vote-share market prices. Moreover, we show that win-projections based on the polls dominate prices from winner-take-all markets. Traders in these markets generally see more uncertainty ahead in the campaign than the polling numbers warrant—in effect, they overestimate the role of election campaigns. Reasons for the performance of the IEM election markets are considered in concluding sections.
+
+
+
+title: Battle of the election forecasters
+
+date: December 16, 2007 1:00 pm
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Imagine you had a small business or non-profit with various roles to fill.  You might, for example, need an accountant, lawyer, gardener, custodian, cook, driver, and a receptionist. When you filled these roles, you would make two key choices:
+
+Who they are – In addition to judging intelligence and competence, you’d also judge their trustworthiness and loyalty to you and your organization. In roles where mistakes are expensive, you’ll want folks to be extra reliable.  And in roles where betrayal is costly, you’ll want folks to be extra loyal. If you expect to have accounting “irregularities”, for example, you might want to make sure your accountant is a family member.
+How they relate – You’ll decide what incentives to give each person and role.  You might contract each time with the lowest bidder, choose a supplier with a good reputation but be ready to switch easily, develop a long term supplier relation, hire someone paid via piecework or commission, or hire an employee paid via performance reviews and the hope of promotion.  In especially sensitive positions you might hire family members, to pull in stronger family incentives.
+
+Now consider the issue of which industries are nationalized vs. private, and if private how heavily regulated. For example, music is usually private with little regulation, food is private with modest regulation, while medicine is either heavily regulated or provided by government employees. Warriors are mostly government employees, while war machinery comes from private but heavily regulated firms. Teachers are mostly direct government employees. Government employees are rarely paid on commission; they almost always get a straight salary with strong job security.
+A great many clever arguments have been offered over the years to explain why various industries should be nationalized or heavily regulated, and why government employees should have such weak incentives. But overall such explanations seem to me to rather weak; they leave a lot of unexplained variation.  So I’m tempted to consider a simpler story: perhaps the public unconsciously compares national industries to the personal roles in a small organization.
+That is, if security was essential to your small organization, and security folks might need to risk their lives sometimes, you’d want them to be very loyal employees.  So we want national warriors to be very loyal. If you’d insist on treating a live-in nanny “like family”, you might want the nation’s teachers to be government employees with job security. If you’d want a personal doctor committed to ethical norms of careful care, you might want your nation to regulate the medical profession into supporting such norms. And if you don’t mind buying your computers from strangers, maybe you think it ok if the computer industry is mostly private.
+Of course this analogy has some validity; there are some correlations between personal roles in a small org and industrial roles of a nation. But alas, the correlation is weak; how best to manage a national industry can really be quite different from how best to fill a small organization role.  So I fear that a public primed to assume we should treat these similarly leads to a rather inefficient selection of which industries are nationalized and heavily regulated.  Count this as yet another cost of democracy.
+
+
+title: Nation-As-Small-Org Bias
+
+date: December 1, 2010 5:30 pm
+

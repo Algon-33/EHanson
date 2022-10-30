@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Promises can both 1) help others predict and rely on our future behavior, and 2) signal our current feelings to others. The signaling function seems to dominate:
+People who had the most positive relationship feelings and who were most motivated to be responsive to the partner’s needs made bigger promises than did other people but were not any better at keeping them. Instead, promisers’ self-regulation skills, such as trait conscientiousness, predicted the extent to which promises were kept or broken. … Participants who were [caused to] focused on their feelings for their partner promised more, whereas participants who generated a plan of self-regulation followed through more on their promises. …
+When people make promises to address a point of contention with their partner, they seem to get swept up in what they want to do for their partner. A promise situation might appear as an opportunity to be responsive to a partner’s needs and demonstrate the loving feelings they experience for the other person, and it is these feelings they are thinking of when they make promises. … If promised behaviors can be completed immediately after promising rather than be sustained over a longer period of time, then the link between positive relationship feelings and extent of followthrough reemerges. (more)
+If relationship promises mainly function to signal our current feelings, that makes it more plausible that paying and pushing for medicine for our associates serves a similar function of showing that we care. We humans apparently do relatively little checking later of whether promises were kept, or if medicine helped.
+
+
+title: Promises Signal
+
+date: June 6, 2011 10:55 am
+

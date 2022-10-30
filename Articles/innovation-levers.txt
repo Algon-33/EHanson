@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Innovation is terribly important; it is why we are rich.  We know innovation is caused by economic activity, but if we knew which activities more promoted innovation, we’d want to subsidize them.  Three recent papers suggests we should prefer many small industries each dominated by a few firms, and prefer private research in processes of capital intensive industries, especially chem/drug and comp/electronics.
+First, a review article says R&D spending is more effective for process over product, private over public, and basic over applied:
+A distinction is made between R&D directed toward invention of new methods of production (process R&D) and R&D directed towards the creation of new and improved goods (product R&D). … Most studies find a higher rate of return for process as compared to product R&D.  … A lower rate of return (or a less significant one) is reported by many authors to public rather than private R&D, both at the private and social level … A higher return is also generally reported on basic R&D as opposed to applied or development. … Social returns, these are almost always estimated to be substantially greater than the private returns.
+Second, it seems that larger firms are just less efficient at research, especially in drugs and electronics:
+While the empirical literature fails to generate a consensus view, a number of studies report that the patent yield from R&D expenditures falls with firm size.
+Third, Shawn Miller, a student in my I/O class last semester, did a great paper predicting patents by industry.  He found more (patent) innovation in industries that are smaller, more capital intensive, and more concentrated among a few firms.  Chemical, computer, drug, and electronic industries were especially innovative.  Here is Miller’s main table:
+
+
+
+title: Innovation Levers
+
+date: January 14, 2010 6:00 am
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+We seem close to a good account of overconfidence:
+We study a large sample of 656 undergraduate students, tracking the evolution of their beliefs about their own relative performance on an IQ test as they receive noisy feedback. … Subjects (1) place approximately full weight on their priors, but (2) are asymmetric, over-weighting positive feedback relative to negative, and (3) conservative, updating too little in response to both positive and negative signals. These biases are substantially less pronounced in a placebo experiment where ego is not at stake. We also find that (4) a substantial portion of subjects are averse to receiving information about their ability, and that (5) less confident subjects are more likely to be averse. We unify these phenomena by showing that they all arise naturally in a simple model of optimally biased Bayesian information processing … [of] agents who derive utility directly from their beliefs (for example, ego or anticipatory utility). (more; HT Dan Houser)
+They also have results on how overconfidence relates to IQ and gender:
+We show that agents who are of high ability according to our IQ quiz, and hence arguably cognitively more able, are just as conservative and asymmetric as those who score in the bottom half of the IQ quiz. … In our data women diﬀer signiﬁcantly in their priors, are signiﬁcantly more conservative updaters than men while not signiﬁcantly more asymmetric, and signiﬁcantly more likely to be averse to feedback. These gender diﬀerences are consistent with our theoretical framework if a larger proportion of women than men value belief utility.
+
+
+title: Overconfidence Explained
+
+date: December 21, 2011 9:00 am
+

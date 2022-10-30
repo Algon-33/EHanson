@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+We are more overconfident on tasks we don’t actually expect to perform, and when we don’t expect to have to explain our evaluation to others.  On expecting to perform:
+
+Participants made predictions about performance on tasks that they did or did not expect to complete.  In three experiments, participants in task-unexpected conditions were unrealistically optimistic: They overestimated how well they would perform, often by a large margin, and their predictions were not correlated with their performance. By contrast, participants assigned to task-expected conditions made predictions that were not only less optimistic but strikingly accurate. Consistent with predictions from construal level theory, data from a fourth experiment suggest that it is the uncertainty associated with hypothetical tasks, and not a lack of cognitive processing, that frees people to make optimistic prediction errors.  Unrealistic optimism, when it occurs, may be truly unrealistic; however, it may be less ubiquitous than has been previously suggested.
+
+On expecting to explain:  
+
+Accountability … [is] the expectation to explain, justify, and defend one’s self-evaluations (grades on an essay) to another person ("audience"). Experiment 1 showed that accountability curtails self-enhancement. Experiment 2 ruled out audience concreteness and status as explanations for this effect. Experiment 3 demonstrated that accountability-induced self-enhancement reduction is due to identifiability. Experiment 4 documented that identifiability decreases self-enhancement because of evaluation expectancy and an accompanying focus on one’s weaknesses.
+
+It is almost as if we at some level realize that our overconfidence is unrealistic.
+
+
+title: Convenient Overconfidence
+
+date: November 18, 2008 6:00 am
+

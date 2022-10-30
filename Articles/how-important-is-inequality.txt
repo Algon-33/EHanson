@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+My post last August on “Inequality Talk is About Grabbing” got 215 comments, which may be a record. In that post I tried to explain why most inequality talk focuses on the small part of inequality that is financial inequality at a given time between the families of a nation. I suggested that the reason is that we think we could grab lots of money from the rich without much pain to the rest of us.
+Recently Piketty’s book has induced lots of folks to express deep concern about the same sort of inequality. Piketty says rising inequality is due to owners of capital getting higher returns than the economic growth rate, and recommends taxing capital. Yes that would greatly reduce the total amount of capital in the long run, and therefore also cut future wages and wealth, but gosh darn it inequality is harmful enough to be worth paying such a huge price to reduce it. This is a crisis and something must be done! So say Piketty’s loud chorus of fans.
+But consider what a more expert source says is the real reason of rising (between-family within-nation at-a-time) inequality:
+In summary, the authors attribute the growth of household inequality to three interacting forces. The first is rising returns to education. Earnings across educational classes have become more polarized. The second factor is increased positive assortative mating. People with similar socioeconomic backgrounds tend increasingly to marry each other, exacerbating income inequality. Third, the increase in married female labor force participation has heightened inequality, and has also made women’s earnings an increasingly important determinant of household income inequality. (more)
+Do you think those who thought rising inequality was a crisis justifying our destroying lots of long run capital also think it important enough to justify reducing education, assortative mating, and female work, if those are the causes? Yeah, me neither. And that’s what you’d expect if grabbing is more the motive here than cutting inequality.
+
+
+title: How Important Is Inequality?
+
+date: May 1, 2014 6:00 pm
+

@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Matt Yglesias:
+A few points on the insurance status and mortality debate:
+— Normally we require overwhelming empirical data to overturn a principle that has strong theoretical support.
+— The empirical data to support the “insurance status doesn’t impact mortality” conclusion is not overwhelming. [Matt lists contrary studies] …
+— I don’t believe that the people touting these studies really believe them; if widespread beliefs about the desirability of health insurance are totally wrong, this should have dramatic policy implications that should be explored.
+Strong theoretical support?!  Here’s what our theories actually say:
+
+If people buy something, they expect positive net value from doing so.  If they do not buy something, they expect negative net value from buying.
+On average people tend to be right about what gives them net value.  Yes we err, but that isn’t typical.  Theory does not suggest large values gained.
+Insurance is sometimes a good buy, but not always.  Potential insurance customers must weigh moral hazard, admin costs, state-dependent utility, etc.
+People are usually but hardly always honest about why they buy what they buy.
+
+So standard theory suggests that those who buy insurance expect a net value, but that those who would not choose to buy expect a net loss if forced to buy.  When people are forced to buy insurance but have the option to to use such subsidized services, theory also suggests that users expect to gain thereby, ignoring subsidy costs.
+If we ask people why they buy med insurance, or why they use med services, they usually say they buy to gain health, which suggests that those who buy gain more health.  But this theory doesn’t at all suggest that they get a lot of health.  And the data only suggests the effect is weak, not that it is zero.  Also, this expectation of honesty is pretty weak; data can easily overturn it.
+Much of our data on the health effect of med insurance is about forced insurance, which people would not have bought for themselves.  Theory does not at all lead us to expect that this will provide a net gain.  We do expect a net gain from using subsidized services, ignoring the subsidy cost, but not a large gain.  And the only theory that says this would be a health gain, as opposed to some other kind of gain, is the honesty theory, that people are right about why they buy things.
+Matt, many of us really do believe that the health gains of subsidized med are on average small, and that health gains may well not be our main gains from med services.  We may instead gain the comfort of showing and seeing that folks care.  The main theory this conflicts with is our common belief that folks are not usually mistaken about why they buy what we buy.  But that is hardly “a principle that has strong theoretical support,” right?
+I suspect the problem here is that Matt said “theory” when he meant “common sense.”  Yes our society has a common, almost religious, belief that more med is typically very healthy.  But we do not have good theory supporting that belief.
+
+
+title: What Med Theory Matt?
+
+date: February 15, 2010 2:30 pm
+

@@ -1,0 +1,31 @@
+author: Hal Finney
+
+text: 
+Robin asked a series of questions regarding case studies of disagreement. He didn’t get any public responses so I thought I would offer one experience I had.
+I’ll try to answer his questions with regard to a topic where I have had a long-standing disagreement with a pretty smart guy, who undoubtedly knows more about that topic than I do. However his opinion, while shared with a vocal minority, is far outside the scientific mainstream belief. He now works as a professional advocate for his position, traveling all over the world giving talks, so he has very strong reasons to be biased, but we disagreed even before he took this job.
+  
+# Do you conclude just from the fact that they disagree that they must have more defects?
+ Yes, his persistent disagreement with the majority opinion indicates to me that he has more defects than I do, who follow the crowd on this matter.
+ # Do you think they realize that they can have defects, such as thinking errors or knowing less?
+ Undoubtedly.
+ # Should the fact that you disagree be a clue to them about their defects?   Is it a clue to you?
+ I am just one person, and they are fighting a battle with a much larger community, so I wouldn’t expect my individual disagreement to mean much to them. I don’t understand the second part of the question about it being a clue to me.
+ # Do they adjust their estimates enough for the possibility of their defects?  If not, why not?
+ No, they stubbornly cling to their maverick position and do not seriously entertain the likelihood that they are wrong. In part this is because they would lose their livelihood if they did that. Nobody would invite a speaker who gets up and says, I’m probably wrong about everything I say, but here’s a possibility you might want to consider. People want speakers who exude confidence and expertise. Even before he was professionally employed, however, he clung to the same opinion. My guess is that he sees that he is smarter than the average person, he knows more about this topic than many scientists who have commented on it, so he sees himself as in effect one of the world’s leading experts on the matter and does not need to adjust his opinion even in the face of widespread skepticism.
+ # What clues suggest to you that they have more defects, or under-adjust for them?
+ Mainly what I have said above, their clinging to a position that probably 95+% of the relevant scientific community would say is completely unrealistic.
+ # Do they have access to these clues, and if so do they interpret them differently?
+ Yes, they reply first that some scientists secretly support them but don’t want to take a controversial position; and second that critics generally do not have the domain-specific knowledge needed to fairly evaluate their proposals. However what they seem to miss is the feedback effect – that if their counter-arguments were so strong, scientists should be persuaded by them. The fact that the community has continued to hold to a skeptical position even after decades of advocacy should indicate that these counter-arguments are not strong. I don’t think they fully understand the strength of "A knows that B knows that A knows" type of arguments.
+ # If these clues are hidden from them, do they realize you might see hidden clues?
+ I don’t think they respect me very much because of their emphasis on domain specific knowledge.
+ # Does your inability to answer any of these questions suggest you have defects?
+ I am trying not to rely on my own expertise or judgment on this issue. The truth is that I would find their arguments relatively persuasive if I were to evaluate them on my own. But then, I am easily persuaded. I am relying on the integrity of the scientific process to respond to challenges and to evaluate new proposals. While I recognize that science is imperfect, these concepts have been widely publicized for 20 years or more, making few inroads into scientific acceptance.
+ This person I am referring to, and his cohorts, are smart and knowledgeable, but nevertheless there are thousands of scientists working in related areas who are also very smart and would be in a position to evaluate these proposals and work on them if they thought they had merit. Any tangible progress in these areas would be dramatic and potentially revolutionary, bringing great rewards to successful researchers. Self-interest would seem to drive the scientific community to vigorous research on these proposals if they thought the claims of the advocates were likely to be true. Since we don’t see this, my interpretation is that the rejection of these ideas is informed and meaningful.
+ # Consider all these questions again for your meta-disagreement about who has more defects.
+ The paradox, as has been mentioned here before, is that not many people accept my kind of meta-reasoning as a path to truth. Most people prefer to resolve controversial issues by studying the arguments or following a favored expert. I am making a conscious effort to rely as much as possible on collective knowledge in order to try to avoid biases such as the overconfidence which seems to underly my disagreement on this particular issue. However since few people find my meta-arguments persuasive, it raises the question of whether this approach is sound after all. My tentative resolution is that most people do adopt the "follow the crowd" maxim unconsciously, and only aim to stand out and show overconfidence on selected issues that bring social status. So I do think that my principles are ultimately consistent.
+
+
+title: Disagreement Case Study 1
+
+date: February 26, 2007 2:00 pm
+

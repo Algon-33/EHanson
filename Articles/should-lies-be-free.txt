@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+A few weeks ago I wrote:
+The usual rationale for “free speech,” which seems persuasive, is that in the long run we as a society learn more via an open competition for the best ideas, where anyone can try to persuade us as best they can, and listeners are free to choose what to hear.
+This week we hear:
+The federal courts are wrestling with a question … Does the First Amendment right to free speech protect people who lie about being war heroes?  At issue is the Stolen Valor Act, a three-year-old federal law that makes it a crime punishable by up to a year in jail to lie about receiving a U.S. military medal. …
+Lawyers … [are] saying the First Amendment protects almost all speech that doesn’t hurt someone else. Neither man has been accused by prosecutors of seeking financial gain for himself.  Jonathan Turley … said the Stolen Valor Act raises constitutional questions because it bans bragging or exaggerating about yourself.  “Half the pickup lines in bars across the country could be criminalized under that concept,” he said. …
+Lawyers challenging the act say that lying about getting a medal doesn’t fit any of the categories of speech that the U.S. Supreme Court has said can be banned: lewd, obscene, profane, libelous or an imminent danger to others, such as yelling “fire” in a crowded theater.
+For some kinds of lawsuits, it makes sense to limit attention to financial harms, because other harms are harder to estimate; deterrence via compensating for financial harms is good enough.  But it is crazy to pretend that non-financial harms don’t exist. Of course it hurts other folks if they believe you have medals that you don’t.  And the basic rationale for free speech, finding truth via open competition, hardly endorses straight lies!
+Yes, I can sort of see the point of allowing some social contexts in which people accept that it is ok to lie about certain topics; maybe folks there are more interested in seeing how well and creatively you lie, and don’t really care much about the truth on those topics.  But it seems to me ok to require some explicit opting in there; I’m fine with a default to legally punish liars.  Unless your audience agreed that certain lies are ok, they aren’t ok.
+I’ll admit most people seem to disagree, preferring no legal penalty for non-financial-harm lies.  I suspect this is analogous to disinterest in objective risk estimates:
+Well-connected managers already know they prefer estimates by officials who respond to social pressure, over hard-to-manipulate market estimates, even if the later are more accurate.  Of course less well-connected managers should prefer the opposite, but who wants to signal their bad connections by endorsing independent markets?
+Those who can more easily lie, and detect lies, want lies to be allowed, while the less lie-capable should want lies to be punished.  But who wants to publicly signal they are bad at lying or at detecting lies?
+
+
+title: Should Lies Be Free?
+
+date: February 10, 2010 10:00 am
+

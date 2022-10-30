@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+In my health econ class I review a classic ’98 paper by Irving Kirsch and others, suggesting that the apparent benefit of antidepressants is actually an “active placebo effect,” a stronger placebo effect than from sugar pills; patients who see they get side effects, like sleepiness or dry-mouth, feel assured they have a “real” drug:
+Mean effect sizes for changes in depression were calculated for 2,318 patients who had been randomly assigned to either antidepressant medication or placebo in 19 double-blind clinical trials. As a proportion of the drug response, the placebo response was constant across different types of medication (75%), and the correlation between placebo effect and drug effect was .90. … These data raise the possibility that the apparent drug effect (25% of the drug response) is actually an active placebo effect. (more)
+Kirsch is still working on the topic. His new paper avoids publication selection bias by looking at all 47 trials ever done. He still gets similar results:
+We requested from the FDA all publicly releasable information about the clinical trials for efﬁcacy conducted for marketing approval of ﬂuoxetine, venlafaxine, nefazodone, paroxetine, sertraline, and citalopram, the six most widely prescribed antidepressants approved between 1987 and 1999. … Forty-seven clinical trials were identiﬁed in the data obtained from the FDA. … Unlike prior studies, we restricted our analysis to complete datasets that included all trials conducted, whether published or not. Thus, simple publication bias cannot underlie the results. … We found no linear relation between severity and response to medication. … The differences between drug and placebo were not clinically signiﬁcant in clinical trials involving either moderately or very severely depressed patients, but did reach the criterion for trials involving patients whose mean initial depression scores were at the upper end of the very severe depression category. … The response to placebo in these trials was exceptionally large, duplicating more than 80% of the improvement observed in the drug groups. In contrast, the effect of placebo on pain is estimated to be about 50% of the response to pain medication. (more)
+
+
+title: Beware Active Placebos
+
+date: June 18, 2010 1:00 pm
+

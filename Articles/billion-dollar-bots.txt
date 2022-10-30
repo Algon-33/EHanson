@@ -1,0 +1,19 @@
+author: James Miller
+
+text: 
+Robin presented a scenario in which whole brain emulations, or what he calls bots come into being.  Here is another:
+Bots are created with hardware and software.  The higher the quality of one input the less you need of the other.  Hardware, especially with cloud computing, can be quickly allocated from one task to another.  So the first bot might run on hardware worth billions of dollars.
+The first bot creators would receive tremendous prestige and a guaranteed place in the history books.  So once it becomes possible to create a bot many firms and rich individuals will be willing to create one even if doing so would cause them to suffer a large loss.
+Imagine that some group has $300 million to spend on hardware and will use the money as soon as $300 million becomes enough to create a bot.  The best way to spend this money would not be to buy a $300 million computer but to rent $300 million of off-peak computing power.  If the group needed only 1,000 hours of computing power (which it need not buy all at once) to prove that it had created a bot then the group could have, roughly, $3 billion of hardware for the needed 1,000 hours.
+It’s likely that the  first bot would run very slowly.  Perhaps it would take the bot 10 real seconds to think as much as a human does in one second.
+Under my scenario the first bot would be wildly expensive.  But because of Moore’s law once the first bot was created everyone would expect that the cost of bots would eventually become low enough so that they would radically remake society.
+Consequently, years before bots come to dominate the economy, many people will come to expect that within their lifetime bots will someday come to dominate the economy.   Bot expectations will radically change the world.
+I suspect that after it becomes obvious that we could eventually create cheap bots world governments will devote trillions to bot Manhattan projects.  The expected benefits of winning the bot race will be so high that it would be in the self-interest of individual governments to not worry too much about bot friendliness.
+The U.S. and Chinese militaries  might fall into a bot prisoners’ dilemma in which both militaries would prefer an outcome in which everyone slowed down bot development to ensure friendliness yet both nations were individually better off (regardless of what the other military did) taking huge chances on friendliness so as to increase the probability of their winning the bot race.
+My hope is that the U.S. will have such a tremendous advantage over China that the Chinese don’t try to win the race and the U.S. military thinks it can afford to go slow.  But given China’s relatively high growth rate I doubt humanity will luck into this safe scenario.
+
+
+title: Billion Dollar Bots
+
+date: November 22, 2008 11:30 pm
+

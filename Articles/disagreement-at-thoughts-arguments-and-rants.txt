@@ -1,0 +1,14 @@
+author: Nicholas Shackel
+
+text: 
+Some time ago I offered an argument for the possibility of reasonable disagreement over philosophical positions. Brian Weatherson at TAR has just posted a paper with an interesting argument for a similar conclusion: here.  He is discussing the position of Feldman, Christensen and Elga, also held by Robin and some others here, that finding an epistemic peer disagreeing with you should weaken your belief.   Brian is using a strategy that is often effective at refuting a philosophical theory: seeing whether the theory can coherently apply to itself.
+
+This equal weight view, hereafter EW, is itself a philosophical position. And while some of my friends believe it, some of my friends do not. (Nor, I should add for your benefit, do I.) This raises an odd little dilemma. If EW is correct, then the fact that my friends disagree about it means that I shouldn’t be particularly confident that it is true, since EW says that I shouldn’t be too confident about any position on which my friends disagree. But, as I’ll argue below, to consistently implement EW, I have to be maximally confident that it is true. So to accept EW, I have to inconsistently both be very confident that it is true and not very confident that it is true. This seems like a problem, and a reason to not accept EW. (Weatherson online pdf:1)
+
+ 
+
+
+title: Disagreement at Thoughts, Arguments and Rants
+
+date: January 10, 2007 12:11 am
+

@@ -1,0 +1,14 @@
+author: Patri Friedman
+
+text: 
+Bryan Caplan posits that people treat irrationality as a consumption good, in that they choose to buy it when its cheap.  Irrationality is cheap when holding wrong opinions is unlikely to have negative impact on our lives, such as when we are opining about things we have no control over (eg politics).  Since opinions on these things can make us feel good, there is value to buying them, and so bias is rife.
+A few years back, I noticed a striking example of this in my own thought processes.  I have long been a libertarian, and I realized an alternative way to look at why governments perform poorly, which gave a strange new idea about how they could be made to do a better one.  Coming up with this solution made me suddenly see all the problems with conventional libertarianism – the views which I had but recently held.  And not just small problems – I went from thinking that if only enough people could be converted, or a state taken over, a stable libertarian government could be created, to thinking that it would never happen, and if it did would quickly devolve back into big government.
+Despite my purported values of objectivity, my subconscious had sneakily purchased some irrationality.  The irrationality was cheap, as erroneous political beliefs have little impact on my life, and it was valuable, as it gave me hope that the society I find most appealing might someday exist.  It was only when that value disappeared, because I saw an alternate way for the society to come about, that I was able to rationally examine the belief.
+This suggests some techniques for reducing bias.  If it is important to you that something be true, imagine an alternative which gets you the same positive feeling, and see if the first thing is still believable.  Or imagine yourself in a position where your opinions on grand social issues actually matter.  One of the great things about betting markets is that make many types of opinions matter, thus forcing people to more carefully consider them.  If the blowhard at the bar really thinks Iraq is such a mess, ask him to place a bet.  If he won’t, everyone (including, most importantly, himself) knows that he doesn’t really believe it.  If he does bet, he’ll quickly learn whether he is overconfident about his judgment.
+On the other hand, perhaps it is best for our mental health that not all of these attics be subjected to the light of critical examination.  There is some value to illusions – particularly those our subconscious sees as cheap at the price.
+
+
+title: Uncovering Rational Irrationalities
+
+date: June 7, 2007 2:16 pm
+

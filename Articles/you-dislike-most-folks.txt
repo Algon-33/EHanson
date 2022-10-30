@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+You might love humanity in the abstract, but given greater exposure to any one person, the odds are pretty good that you’d soon dislike them, often intensely.  JPSP ’07:
+Although people believe that learning more about others leads to greater liking, more information about others leads, on average, to less liking. Thus, ambiguity—lacking information about another—leads to liking, whereas familiarity—acquiring more information— can breed contempt. This “less is more” effect is due to the cascading nature of dissimilarity: Once evidence of dissimilarity is encountered, subsequent information is more likely to be interpreted as further evidence of dissimilarity, leading to decreased liking. …
+We do not argue that increased information leads to less liking in every case, but rather that this is the case on average. Individuals may feel overly positively toward their significant others, but these are the rare exceptions who were liked enough to stimulate efforts to acquire more information.
+Why do we so consistently misjudge here?  The paper suggests:
+Given the ultimate goal of finding a mate, it might be adaptive to start with a positive bias to generate many new options from which to choose; given limited capacity, however, in both available time and cognitive capacity, it may be adaptive to switch to a negativity bias while screening to eliminate poor options quickly. In fact, the robustness of optimism prior to first dates may be essential in motivating people to persevere in a long and arduous screening process.
+This doesn’t make much sense to me.  Instead, let me suggest that “nice” people, who tend like more others, also tend to be more liked by others.  So we are built to try to appear nicer by appearing to like others more.  Our initial attitude toward strangers is more visible to most folks than our later dislike for the few we come to know better. Hat tip to Rob Wiblin.
+More evidence that people just aren’t as nice they seem:
+We introduce the joy-of-destruction game. Two players each receive an endowment and simultaneously decide on how much of the other player’s endowment to destroy. In a treatment without fear of retaliation, money is destroyed in almost 40% of all decisions.
+In the hidden treatment … on average, 39.4% of all decisions involve the destruction of at least some of the partner’s endowment. … in the hidden treatment substantial amounts are burned (in total 20.4% of the maximum allowed).
+
+
+title: You Dislike Most Folks
+
+date: September 28, 2009 8:45 am
+

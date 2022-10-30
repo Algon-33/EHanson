@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+When I bought my Miata the dealer told me to use premium gas, but my wife recently suggested I try regular.  At which point I considered midgrade gas, and noticed: one is better off mixing regular and premium than buying midgrade!  For regular, midgrade, premium, the $/gal. prices were 1.77, 1.92, 2.02 , while the octane ratings were 87, 89, 93.  So the first jump gives you 2 octane points for $0.15, while the second jump gives you 4 octane points for only $0.10.  Since mixing gas averages the octane ratings, if you mix 2/3 regular with 1/3 premium, you make your own midgrade gas for only 1.85, saving 0.07.  I then went searching and found this Feb ’08 paper:
+
+ Regular octane remains the product of choice for most consumers with an 82.2% market share in 2006.  Midgrade is a mature product with a 2006 market share of 9.3%. Premium’s market share ranks last at 8.4% in 2006. … Midgrade is a redundant product offering, easily and almost costlessly replicated by mixing existing regular and premium products. Indeed, this redundancy is widely known and exploited by … just-in-time mixing at the retail pump from separate underground regular and premium storage tanks. … It is rare to see a consumer create a midgrade by buying from two retail feedstocks at a single retail gas station. This is true despite the overwhelming evidence that consumer midgrade mixing is almost uniformly the least costly way to buy retail midgrade. … 
+
+  
+
+ Consider a midgrade buyer making a 17-gallon purchase.  With a 3.13 cents per gallon spread between the posted midgrade price and the cost of an equivalent mixture of premium and regular, the 17-gallon consumer saves 53.21 cents per fill-up. Assuming that scanning the same credit card a second time and changing hoses takes an additional 30 seconds, the savings would accrue at $63.85 per hour of mixing time. As this is an after tax savings, the before tax implied wage for a mixing buyer in a 40% combined marginal tax bracket would be $106.42 per hour risk free. While this savings reflects the nationwide average, it doesn’t necessarily indicate how lucrative mixing can be. A recent observation in the Los Angeles metropolitan area indicated a 20-cent spread from regular to midgrade and a 10-cent spread from midgrade to premium. The effective before-tax wage rate for a 17-gallon buyer’s mixing at this station is $340 per hour risk free.
+
+Even with lower gas prices you’ll still make a handsome wage.  You can even avoid the extra changing costs if you alternate between filling half-empty tanks with regular and premium; you’ll alternate between midgrade and a gas halfway between midgrade and premium, and you’ll pay less than the midgrade price.  The amazing thing here is how eagerly people monitor gas station prices to save a few cents, and yet completely ignore grade rate savings.
+
+
+title: Gas Arbitrage
+
+date: December 5, 2008 6:00 am
+

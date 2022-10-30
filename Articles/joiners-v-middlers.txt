@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Kelley … traced the success of conservative churches to their ability to attract and retain an active and committed membership, characteristics that he in turn attributed to their strict demands for complete loyalty, unwavering belief, and rigid adherence to a distinctive lifestyle. … [Such] a group limits and thereby increases the cost of non-group activities, such as socializing with members of other churches or pursuing “secular” pastime. …
+Seemingly unproductive costs … screen out people whose participation would otherwise be low, while at the same time they increase participation among those who do join. As a consequence, apparently unproductive sacrifices can increase the utility of group members. Efficient religions with perfectly rational members may thus embrace stigma, self-sacrifice, and bizarre behavioral standards. …
+When we group religions according to the (rated) stringency of their demands, … [we see that] compared to members of other Protestant denominations, [high-demand] sect members are poorer and less educated, contribute more money and attend more services, hold stronger beliefs, belong to more church-related groups, and are less involved in secular organizations. … Data from the 1990 National Jewish Population Survey reveal patterns of interdenominational variation virtually identical to those observed within Protestantism. (more)
+I see these tendencies in opinions:
+
+Those with more opinions on some topic categories have more on other categories.
+Those with more opinions overall have more extreme opinions on each topic.
+Those with more extreme opinions on some topics have more extreme opinions on others.
+Those with more extreme opinions are more eager to express their opinions, and vice versa.
+Those with more extreme opinions are more eager to join groups and attend their meetings.
+
+(All these could have instead been expressed in terms of less extreme opinions, and “extreme” means noticeably away from the distribution middle.)
+One might try to explain these by saying that opinions on a few key topics drive most other opinions. Folks with weak opinions on key topics thus have fewer opinions on other topics, and less interest in expressing opinions or in joining groups to spread the word. Yet there is little evidence that such key opinions exist; most people show little correlation of opinion across topics, or even on the same subject across time.
+A more plausible explanation follows the quote above on religion. Religions, ideologies, and other idea-affiliated social groups vary in the level of commitment they ask of members. High commitment groups produce stronger community bonds, and people vary in their taste for such strong bonds. Some folks are “joiners,” with a taste for more strongly bonded groups. Joiners have an induced taste for groups with extreme opinions, and thus an induced taste to have their own more extreme opinions, in order to better fit with stronger groups. Thus joiners tend to let themselves have more opinions and more extreme opinions on many topics.
+The opposite group are “middlers,” who prefer to get along mildly well with most everyone, instead of bonding more tightly with a smaller group. Middlers have fewer opinions, fewer extreme opinions, and tend not to join groups that are clearly distinguished by being associated with unusual opinions.
+The opinions habits of both joiners and middlers come mainly from social preferences, instead of a preference for belief accuracy. While it isn’t obvious which group is more wrong, it is more obviously wrong to embody the opinion correlations described above.
+
+
+title: Joiners v. Middlers
+
+date: October 29, 2013 8:30 am
+

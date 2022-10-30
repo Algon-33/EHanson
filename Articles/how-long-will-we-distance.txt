@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+We often go out of our way, collectively, to accommodate small subsets of the population. For example, in parking spots and building entrances for those who use wheelchairs, in extra food sorting and labeling for those allergic to nuts or gluten, and in extra accommodations in language and labels for the non-binary-gendered.
+But there are also population subsets that we do not go out of our way to accommodate. For example, we might have helped pay for the famous “boy in the bubble” to have a bubble, but we did not otherwise do much to accommodate him. (There are other subsets where I could actually get into “trouble” for even mentioning that we might consider accommodating them more. As they are besides the point of this post, I won’t mention them here.)
+At the moment we are spending great amounts (too much I’d say) to accommodate the subset of the population who is vulnerable to infection by covid. For a while, that has nominally been a majority of the population, though their risks are far from equal. But over the next year, more people will get vaccinated, and more will get infected, and fewer people will be in the leftover group. And a big question will loom: how far will we go to continue to insist on “distancing” of various forms to protect everyone?
+So far the standard story has been that people who’ve been vaccinated or infected must not be held to any more lenient standards; they must all “distance” just as strongly. Not only because there remain other folks, but because protections are not 100% effective. But as the average risk falls, will we get to a point where this standard changes?
+To explore this question, I made this poll:
+
+Let 100% be ave. risk of covid harm in Feb. 2020. This % falls as treatments get better & more get infected & vaccinated (I&V), but never falls to zero; even I&V have some risk. How far must % before most can go back to normal, & only those at unusual risk must act different?
+— Robin Hanson (@robinhanson) February 16, 2021
+
+But actually, I think the question hinges more on the moral framing, i.e., the moral colors that will be associated with each side. For example, if the dominant moral story is that the non-vaccinated are anti-social science-deniers who don’t deserve accommodation, then we may switch at a high % still vulnerable.
+But if the dominant moral story is instead that those who want to end distancing then are the same people who have always wanted to end distancing, then the previous moral disapproval of such advocates would make people reluctant to embrace their position. Similarly, if the story is that the more vulnerable tend to be the poor and people of color, who don’t have the political and economic clout to cut in line to get vaccines early, and who face larger infection risks due to their jobs.
+Another key issue is that at the future time we are seriously considering such a switch, we will have been heavily distancing for over a year. So distancing will have a lot of social inertial then, requiring a substantial degree of social energy and initiative to overcome.
+Added 22Feb: I don’t think I was clear enough above that I estimate a low %, say ~3%, and thus a long time before back to normal is allowed.
+
+
+title: How Long Will We Distance?
+
+date: February 16, 2021 2:40 pm
+

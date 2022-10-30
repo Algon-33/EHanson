@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+A new article at Behavioral and Brain Sciences reviews attempts to explain the following puzzle.  People do badly at questions worded this way:
+
+The probability of breast cancer is 1% for a woman at age forty who participates in routine screening. If a woman has breast cancer, the probability is 80% that she will get a positive mammography. If a woman does not have breast cancer, the probability is 9.6% that she will also get a positive mammography. A woman in this age group had a positive mammography in a routine screening. What is the probability that she actually has breast cancer? __%
+
+They do much better at questions worded this way:
+
+10 out of every 1,000 women at age forty who participate in routine screening have breast cancer.  8 out of every 10 women with breast cancer will get a positive mammography.  95 out of every 990 women without breast cancer will also get a positive mammography.  Here is a new representative sample of women at age forty who got a positive mammography in routine screening.  How many of these women do you expect to actually have breast cancer?  ___ out of ___. 
+
+Whatever the explanation, the lesson should be clear: prefer to reason in terms of frequencies, instead of probabilities.  Thanks to Keith Henson for the pointer.  
+
+
+title: Think Frequencies, Not Probabilities
+
+date: February 23, 2007 6:00 am
+

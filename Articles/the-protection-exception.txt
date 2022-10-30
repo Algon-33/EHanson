@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+We have many regulations, justified in many ways. One common type of regulation prevents people from making and enforcing certain voluntary agreements, and one common justification for such regulation is that we protect people from hurting themselves via such agreements. For example:
+Chief Justice Robert Bauman ruled in favour of the section of the [Canadian] Criminal Code outlawing polygamous unions. … Bauman said while the law does infringe on religious freedom, it is justified given the harm polygamy causes to children, women and society. (more)
+However, almost every such protection comes with one huge loophole, big enough to drive many a truck through: we let people emigrate to other countries. For example, we protect you and your kids from the harms of voluntary polygamy agreements, except that you and your kids may move to a nation that allows polygamy. The same applies to pretty much any other regulatory protection we offer, such as protections against buying unsafe products, hiring unlicensed professionals, paying for sex, or selling yourself into slavery. You are allowed to do any of these things as long as you first move to another nation that allows it.
+This raises an obvious question: why do we allow this huge hole in the “protections” we maintain? It would seem to me more consistent to either:
+
+Prevent people from moving to nations that do not preserve the protections we think important, or
+Let locals make voluntary agreements that violate our basic protections, as long they plausibly demonstrate that they are so committed to such arrangements that they’d consider leaving the nation to get them.
+
+Its seems pointless to consistently let people leave the nation to evade our “protections,” since after they leave, they aren’t protected. What gives?
+Added 11p: Some responses to comments:
+I am addressing paternalistic regulation rationales. Of course rules to limit local externalities are consistent with letting folks emigrate.
+Some say the only way to show a willingness to move is to move. But similar folks moving for similar reasons could be evidence that you’d move, and we could invite folks who have moved to come back with fewer limits.
+Some say we shouldn’t expect law to make any sense so its a mistake to try to explain legal patterns. That seems a head-in-sands approach to me.
+Some say it is hard to prevent people from leaving. But we don’t even try. And we wouldn’t have to prevent leaving to any nation, just to nations that are especially unprotective.
+Some say we let people leave because we realize our rules might be wrong. But that would equally justify stopping those rules at home.
+My best guess here: We don’t limit emigration because the nations that have done so are now low status and we don’t want to look like them. Limiting people at home does much less to lower our status, so we feel more free to do that. We mostly make such limits for other reasons, and pretend we want to protect people.
+Added 8a: This also can’t just be that we don’t care about people who are not longer part of “us”, since we let people temporarily travel to other nations to evade limits. People travel to Holland for weed, Thailand for prostitutes, and Spain for watching bulls killed.
+
+
+title: The Protection Exception
+
+date: November 29, 2011 3:50 pm
+

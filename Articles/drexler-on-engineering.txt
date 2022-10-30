@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Most of my economics colleagues know little about engineering. Yet much of what they actually want to do in the world, i.e., get people to adopt new better institutions, is better seen as engineering than as science. To help educate them, I quote from Eric Drexler in his new book, explaining the difference between science and engineering:
+The essence of science is inquiry; the essence of engineering is design. Scientific inquiry expands the scope of human perception and understanding; engineering design expands the scope of human plans and results. …
+•     Scientists seek unique, correct theories, and if several theories seem plausible, all but one must be wrong, while engineers seek options for working designs, and if several options will work, success is assured.
+•     Scientists seek theories that apply across the widest possible range (the Standard Model applies to everything), while engineers seek concepts well-suited to particular domains (liquid-cooled nozzles for engines in liquid-fueled rockets).
+•     Scientists seek theories that make precise, hence brittle predictions (like Newton’s), while engineers seek designs that provide a robust margin of safety.
+•     In science a single failed prediction can disprove a theory, no matter how many previous tests it has passed, while in engineering one successful design can validate a concept, no matter how many previous versions have failed. ..
+Simple systems can behave in ways beyond the reach of predictive calculation. This is true even in classical physics. …. Engineers, however, can constrain and master this sort of unpredictability. A pipe carrying turbulent water is unpredictable inside (despite being like a shielded box), yet can deliver water reliably through a faucet downstream. The details of this turbulent flow are beyond prediction, yet everything about the flow is bounded in magnitude, and in a robust engineering design the unpredictable details won’t matter.  …
+The reason that aircraft seldom fall from the sky with a broken wing isn’t that anyone has perfect knowledge of dislocation dynamics and high-cycle fatigue in dispersion-hardened aluminum, nor because of perfect design calculations, nor because of perfection of any other kind. Instead, the reason that wings remain intact is that engineers apply conservative design, specifying structures that will survive even unlikely events, taking account of expected flaws in high-quality components, crack growth in aluminum under high-cycle fatigue, and known inaccuracies in the design calculations themselves. This design discipline provides safety margins, and safety margins explain why disasters are rare. …
+The key to designing and managing complexity is to work with design components of a particular kind— components that are complex, yet can be understood and described in a simple way from the outside. … Exotic effects that are hard to discover or measure will almost certainly be easy to avoid or ignore. … Exotic effects that can be discovered and measured can sometimes be exploited for practical purposes. …
+When faced with imprecise knowledge, a scientist will be inclined to improve it, yet an engineer will routinely accept it. Might predictions be wrong by as much as 10 percent, and for poorly understood reasons? The reasons may pose a difficult scientific puzzle, yet an engineer might see no problem at all. Add a 50 percent margin of safety, and move on.
+
+
+title: Drexler on Engineering
+
+date: June 11, 2013 7:30 am
+

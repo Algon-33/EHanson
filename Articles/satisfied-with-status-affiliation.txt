@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+I suspect:
+
+Students are more satisfied hearing the same lecture from a professor than a grad student.
+Diners are more satisfied with their restaurant food if a celebrity sits at the table next to them.
+An exercise video done by a famous actress is more satisfying than one by a professional trainer.
+Journal article referees like the same article more if it is written by a famous researcher.
+
+If you share my suspicions, then you shouldn’t be surprised to hear:
+Hekman and his colleagues evaluated 12,091 patient reports about 113 doctors working at a large HMO in the Pacific Northwest. They also studied objective data about the doctors. The regularity with which doctors place heart patients on certain drugs, for example, is a good measure of the quality of their care. The number of e-mails doctors send patients is a measure of their accessibility. And the number of questions doctors ask patients during checkups is a measure of their diligence.
+In all these domains, however, Hekman found that these objective measures of performance correlated with patient satisfaction reports only when the doctors were white men. For women and minorities, extra quality, accessibility and diligence not only did not result in better evaluations by patients — they produced worse evaluations. …
+In a related experiment involving bookshop employees, volunteers were shown two videotaped interactions between a customer and a sales clerk and were told to imagine they were customers and rate the shop’s service. Some were shown a white male sales clerk, while others were shown a black male clerk or a white female clerk. All the clerks were actors — and everything else in the videos was identical, down to the script.
+Those shown the white male clerk rated the service provided 19 percent higher than volunteers shown the woman or the black man. They also rated stores with white male clerks as being cleaner.  Hekman also studied the satisfaction levels of 3,600 golfers at 66 clubs nationwide. Clubs that employed higher numbers of Latinos were rated more poorly than clubs employing fewer minorities — even when they performed identically on objective measures.
+People usually invoke two explanations for such behavior:
+1) Irrational or ideological racism or sexism.
+2) Rational stereotyping that just happens to go wrong in these cases.
+But A third explanation seems to me more plausible:
+3) We prefer to affiliate with higher status folks.  If female doctors, black or female sales clerks, or latino golf club employees are considered lower status, then customers will be less satisfied with them even if they do exactly the same things.
+
+
+title: Satisfied with Status Affiliation
+
+date: June 9, 2009 6:00 am
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Alex:
+I cannot think of a simpler change that would improve health care to as great an extent as freeing the data.
+He was riffing off Newsweek:
+In trying to find the oncologist or cancer center with the best track record on, say, stage IV bladder cancer, even the savviest patient quickly hits a wall: with a few exceptions, cancer centers treat these “outcomes” data like state secrets. … For these cancers there are indeed significant outcome differences depending where you are treated. … The Cleveland Clinic is the only one that makes its detailed outcomes data available to the public. … Although the National Comprehensive Cancer Network … collects data on how well its members adhere to treatment guidelines, it will not release the information on specific centers.
+Years ago as a health policy postdoc at UC Berkeley, I was stunned to hear a famous health economist explain it was good that the government did not disclose the med outcome data it made hospitals collect – the public might “misinterpret” outcomes, you see, not correcting right for differing patient mixes.  He didn’t think it relevant that the same argument suggests Consumer Reports not publish car reliability stats, since they do not correct for driver differences.
+Eric Crampton notices a similar mistake:
+I’ve about a half dozen times heard … spokespersons … arguing that allowing private competitors into …. the New Zealand Accident Compensation Commission, is bad because private firms have to earn profits and so they’ll have to have higher cost structures than the public insurer.  But no National Radio interviewer provided the obvious retort:  If the argument were true, we’d want the government to be running everything!
+The core problem seems to be that folks who intuitively feel that area A deserves special treatment T look for a justification, and then stop when they find a feature F of area A that suggests treatment T might be a good idea.  But by stopping there, they do not consider why this argument does not also justify the same special treatment T of areas B, C, D, etc. that also have feature F.   This is an extremely common error, even among folks very skilled at analyzing math models of feature F.
+To justify their intuitions that medicine should be treated specially, people often refer to features like sometime large decision consequences, sometimes large prices, suppliers knowing more than customers about product quality, customer behavior influencing customer outcomes, etc.  But such folks usually do not favor giving other areas that share these same features the same special treatments.
+
+
+title: Missing Analogies
+
+date: October 26, 2009 9:00 am
+

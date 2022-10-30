@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+The probability of being sentenced to death is much greater if a defendant kills a white or Hispanic victim who is married with a clean criminal record and a college degree, as opposed to a black or Asian victim who is single with a prior criminal record and no college degree. …
+
+“Irrelevant social facts also shape the ultimate state sanction” Phillips says. “In the capital of capital punishment, death is more apt to be sought and imposed on behalf of high status victims. Some victims matter more than others.”
+Phillips research is based on 504 death penalty cases that occurred in Harris County, Texas between 1992 and 1999.  Drawing on the same data, Phillips’s previous research demonstrated that black defendants were more likely to be sentenced to death than white defendants in Houston. The racial disparities revealed in the prior paper become even more acute after accounting for victim social status – black defendants were more apt to be sentenced to death despite being less apt to kill high status victims.
+More here (HT naz). I expect such patterns to be found in most legal jurisdictions, not just Harris County Texas.  You will find it hard to find any lawyer, judge, or law professor who will go on the record saying these are officially accepted as legitimate considerations in legal sentencing.  Most will say the law “tries” to ignore such considerations.  And yet such patterns have long existed, have long been widely known to exist.
+These are motivated biases, not just random accidents of a system trying to be fair but failing to because of limited human mental capacity.  These errors are far more likely to persist than the opposite error.  If the opposite errors were suddenly to become common, enormous concern would be expressed, great resources would be spent, and we’d be willing to consider large institutional changes to eliminate them.
+The place such errors enter is of course via “judgment.”  We recoil in horror at the thought of a simple legal system where judges or juries could make any decision they wanted in each case they considered.  But we also recoil at the thought of a legal system with explicit rules which had to be followed exactly in each case.  We instead prefer a legal system with lots of specific rules, where in the end “reasonable” people are allowed to exercise “judgment” about how to “interpret” the rules.   It sure looks like what we want is the appearance of constraining ourselves to follow rules, combined with the practice of arbitrary choice.
+
+
+title: Motivated Legal Bias
+
+date: March 7, 2010 5:00 pm
+

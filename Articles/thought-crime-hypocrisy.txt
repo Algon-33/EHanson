@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Philip Tetlock’s new paper on political hypocrisy re thought crimes:
+The ability to read minds raises the specter of punishment of thought crimes and preventive incarceration of those who harbor dangerous thoughts. … Our participants were highly educated managers participating in an executive education program who had extensive experience inside large business organizations and held diverse political views. … We asked participants to suppose that scientists had created technologies that can reveal attitudes that people are not aware of possessing but that may inﬂuence their actions nonetheless.
+In the control condition, the core applications of these technologies (described as a mix of brain-scan technology and the IAT’s reaction-time technology) were left unspeciﬁed. In the two treatment conditions, these technologies were to be used … to screen employees for evidence of either unconscious racism (UR) against African Americans or unconscious anti-Americanism (UAA). … Liberals were consistently more open to the technology, and to punishing organizations that rejected its use, when the technology was aimed at detecting UR among company managers; conservatives were consistently more open to the technology, and to punishing organizations that rejected its use, when the technology was aimed at detecting UAA among American Muslims.
+Virtually no one was ready to abandon that [harm] principle and endorse punishing individuals for unconscious attitudes per se. … When directly asked, few respondents saw it as defensible to endorse the technology for one type of application but not for the other—even though there were strong signs from our experiment that differential ideological groups would do just that when not directly confronted with this potential hypocrisy. …
+Liberal participants were [more] reluctant to raise concerns about researcher bias as a basis for opposition, a reluctance consistent [the] ﬁnding that citizens tend to believe that scientists hold liberal rather than conservative political views. …
+This experiment confronted the more extreme participants with a choice between defending a double standard (explaining why one application is more acceptable) and acknowledging that they may have erred initially (reconsidering their support for the ideologically agreeable technology). … Those with more extreme views were more disposed to … backtrack from their initial position. (more; ungated)
+So if we oppose thought crime in general, but support it when it serves our partisan purposes, that probably means that we will have it in the long run. There will be thought crime.
+
+
+title: Thought Crime Hypocrisy
+
+date: May 21, 2013 10:20 am
+

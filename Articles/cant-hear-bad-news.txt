@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+I’ve long been puzzled with why students aren’t taught more about the consequences of choosing different careers, and why they don’t take more initiative to learn this for themselves. One clue: apparently students are only capable of hearing good news about future earnings. Maybe students don’t want to hear, and aren’t told, out of an urge to avoid hearing bad news? Details:
+[Of] undergraduate college students … we ask … (1) their self beliefs about their own expected earnings if they were to major in different fields and (2) their beliefs about the population distribution of earnings. After the initial round in which the baseline beliefs are elicited, we provide students with accurate information on the population characteristics and then re-elicit their self beliefs. …
+Students in our sample, despite belonging to a very high ability group, have biased beliefs about the population distribution of earnings. … More experienced students  – those in their second or third year – hav[e] relatively more accurate beliefs about population earnings. …
+The effect of information is asymmetric: There is signifcant updating when the information is good news for the respondent, i.e., when the respondent is informed that population earnings are higher than her prior beliefs, and no significant updating in instances where the respondent is informed that the population earnings are lower than her prior beliefs. … Relative to freshmen, experienced students are more likely to be non-updaters and less likely to react excessively to information. …
+The information on earnings we provide causes nearly half of the students to revise their beliefs about graduating with the different majors. (more)
+
+
+title: Can’t Hear Bad News
+
+date: November 23, 2011 8:30 am
+

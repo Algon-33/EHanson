@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Giving a keynote talk at a software conference recently made me reflect on the essence of "nerds."  
+ Assume that nerds essentially have "Autism light," i.e., high intelligence and low social skills.  If so, then while nerds can reason and sympathize well, they are less able to read the acts and expressions of others in order to infer their states of mind.  Nerd social behavior could then be as strategic or altruistic as anyone else, but it couldn’t as subtly depend on reading social cues.   
+ Distinguish two key social effects of these lower social skills: effects on cooperation and on conniving.  If low social skills makes it harder for nerds to cooperate, then we should find that groups of nerds are less able to coordinate with each other to achieve common ends, such as managing large projects together.  There may be an effect here, but if so it seems weak; nerds cooperate pretty effectively all the time on large software and other engineering projects. 
+ The other social effect is on Machiavellian conniving.  Nerds should be worse at judging which coalition to join when, which associates may betray them or have done so, when and how to betray associates, what lies to tell, what threats will be credible and appropriate, and so on.  These low conniving skills should make nerds less attractive as coalition partners, at least for helping each coalition deal with other coalitions.  It seems pretty obvious to me that there is a large effect here.  
+ Now compare the social versus the private costs of these social skill deficits.   While a reduced ability to cooperate might hurt society even more than it hurt the nerd, a reduced ability to connive should hurt the nerd more than it hurts society.  Poorly cooperating nerds would tax society, giving a reason to shun nerds, but poorly conniving nerds would mainly be preyed upon by those with better social skills, and be victims worthy of social sympathy.  Spouses could more easily get away with cheating on nerds, and business partners could more easily get away with reneging on implicit understandings.  
+ If, as it seems to me, nerd social handicaps reduce nerd abilities to connive far more than their abilities to cooperate, then people should try too hard to avoid being exploited nerds, relative to a social optimum.  If so, we have too few nerds, and all else equal we should want to subsidize nerds, to get more of them.  
+
+
+title: Nerds as Bad Connivers
+
+date: August 21, 2007 6:00 am
+

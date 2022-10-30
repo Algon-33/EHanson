@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Today “social insurance” tends to transfer money and other resources to people when they are in relative need, such as when sick, disabled, unemployed, homeless, or too old to work. These policies tend to mix together the functions of redistribution, transferring resources between people, and insurance, for a person transferring resources between different future states of the world.
+By mixing up redistribution and insurance, we make it harder for people to get insurance tailored to their individual style, preferences, and circumstances, and we instead push everyone to get the same kind of insurance. Here’s how we could do better.
+Imagine that at a standard newly adult age, say 18 years old, everyone makes a big initial payment to gain a long-term hardship insurance contract, covering their future sickness, disability, unemployment, homelessness, retirement, etc. The client who buys this contract can pay more later to upgrade it if they like, but if they do not so upgrade then this contract will cover them for the rest of their life, even if they stop making payments. (Though the contract may specific quality cuts in this case.)
+Insurers must be reinsured sufficiently to ensure that they can in fact meet their contractual obligations over a lifetime. And contracts may specify that the client will pay fractions of their future income or wealth to the insurer, to help lower their initial payment. Contracts might also allow groups of new adults to co-insure, in effect agreeing to help each other in the case of hardship.
+Those who have larger budgets will of course be able to afford more generous hardship insurance. So the larger society could do a once-per-lifetime redistribution of resources to increase low budgets, enabling those people to buy more generous hardship insurance.
+If this once-per-lifetime transfer were this society’s main channel for redistribution, then it would have largely succeeded in separating redistribution from hardship insurance. The rich could help the poor, while also leaving individuals free to choose the details of their hardship insurance to suit their individual concerns, risk-aversion, likely problems, and social resources.
+Parents would of course be expected to contribute to their children’s hardship insurance purchase, and redistribution to those with low budgets would in effect be a subsidy paid to parents for having more children. As fertility seems excessively low today, this doesn’t seem such a bad thing now.
+When hardships arise later, people may complain about the terms of their hardship insurance if it was chosen by someone else on their behalf, or if they were too young and ill-informed when they made their choice. So hardship insurance should be chosen at the sort of age when it would be legitimate to let someone choose a career or a housing loan, or to choose to get married or emigrate.
+Perhaps the choice of hardship insurance should be marked by a solemn ritual, and only done after passing a test showing that one understand the basics of the contract to which one has agreed. And of course regulations might prohibit some hardship contracts terms when authorities believe that such choices would usually be mistakes.
+If we also had vouchers for criminal law, it seems natural to consider merging the roles of crime law vouchers and hardship insurer. And if we merged the role of life and health insurer in order to create better medical treatment incentives (an idea I published 25 years ago!), it also seems natural to consider merging in this role as well. Then you’d have a single long-lived organization who vouches not just for your crime, but also for your health and your security.
+
+
+title: Separating Redistribution From Hardship Insurance
+
+date: October 4, 2019 5:00 am
+

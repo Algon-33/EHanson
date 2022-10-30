@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Why do men give women engagement rings? A standard story is that a ring shows commitment; by paying a cost that one would lose if the marriage fails, one shows that one places a high value on the marriage.
+However, as a signal the ring has two problems. On the one hand, if the ring is easy to sell for its purchase price, then it detracts from the woman’s signal of the value she places on the marriage. Accepting a ring makes her look mercenary. On the other hand, if the ring can’t be sold for near its purchase price, and if the woman values the ring itself at less than its price, then the couple destroys value in order to allow the signal.
+These are common problems with loyalty signals – either value is destroyed, or stronger signals on one side weakens signals from other sides. Value-destroying loyalty signals are very common in couples, clubs, churches, firms, professions, and nations. For example, we might give up poker nights for a spouse, pork food for a religion, casual clothes to be a manager, or old-world customs for a new nation.
+A few days ago I had an idea for a more efficient loyalty signal. Imagine that when he was twenty a man made a $5000 bet that he would never marry before the age of fifty. Then when he is thirty-five and wants to marry, he can send a strong signal of his desire to marry just by his willingness to lose this bet. Since the bet is lost to a third party, it doesn’t hinder the bride’s ability to signal her loyalty. And assuming the bet is made at fair odds, the lost bets are on average paid to versions of this man in alternative scenarios where he doesn’t marry by fifty. So he retains the value, which is not destroyed.
+Today this approach probably suffers from being weird, so doing this would also send an unwelcome signal of weirdness. But it is only a signal of one’s weirdness when one made the bet – maybe one can credibly claim to be less weird later when marrying. And the bet would remain potent as a signal of devotion.
+There are many related applications. For example, a young person who bet that they would never join a religion might later credibly signal their devotion to that religion, and perhaps avoid having to eat and dress funny to show such devotion. Also, someone who bet that they would never change countries might signal their loyalty when they moved to a new nation. To let my future self signal his devotion to his political party, perhaps I should bet today that I’ll never join a political party. Do I have any takers?
+Added 20July: Of course the need to lose a bet to get married would discourage some from getting married. But the same harm happens for any expectation of needing to send a loyalty signal if one gets married. This effect isn’t particular to bets as loyalty signals; it happens for all kinds of loyalty signals.
+Mechanically one way to implement marriage bets as loyalty signals would be for parents to buy their sons male spinster insurance, which pays money to the son when he is fifty if he never marries, and otherwise gives him a nice visible cheap pin/brooch when he gets married. His new wife can wear the pin to brag about his devotion. The pin might be color coded to indicate how much money he sacrificed.
+
+
+title: Bets As Loyalty Signals
+
+date: July 19, 2014 3:30 pm
+

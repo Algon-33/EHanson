@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Restaurants are held to a higher standards of food preparation than individuals.  Few rules constrain your holiday meal for twenty, but if you served ten folks for lunch in a tiny diner, a huge rule book applies.
+In Europe, firms are also held to a higher privacy standards than individuals.  Firms must be careful to store your emails to them very carefully, to ensure a very low risk they might be stolen.  But individuals can be very sloppy in how they store emails.
+There are many such apparent regulatory “biases,” i.e., ways that regulations hold some things to higher standards than others, even when the relevant consequences seem similar.  For example we seem to prefer:
+
+Individuals over firms
+Non-money over money exchange.
+Natural over artificial chemicals
+Old over new practices
+Human over machine control
+Locals over foreigners
+Non- over for-profit organizations.
+What else?
+
+Now I’m sure clever folks can think up justifications for such preferences.  But as with the common preference to redistribute money but not grades, I expect few folks could quickly come up with those reasons, even though most embrace such preferences. This again suggests that the clever reasons some can offer are not the main reasons most folks support such biases. And the obvious reasons that might drive most folks to support such biases do not suggest these are biases worth keeping.
+
+
+title: Regulatory Bias
+
+date: May 11, 2011 2:50 pm
+

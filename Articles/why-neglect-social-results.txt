@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+For many decades I’ve heard people argue about the possibility of ems, i.e., brain emulations (also called “uploads”). Many like to talk about whether ems are possible, when they might happen, and if ems would be conscious, or whether they would “be me.”  People also love to read fiction set in worlds where there are ems. Almost twenty years ago I wrote a short article on the social implications of a world of emulations — what that would actually be like. But that didn’t kick-start much interest in the subject – most discussion is still on possibility, timing, consciousness, identity, and story settings.
+Over the years I’ve also heard many people argue about the possibility that we live in a computer simulation. Twelve years ago I wrote a short article “How to live in a simulation,” on how you should live your life differently to take this possibility into account. That article also didn’t kick-start much interest in social implications. Today, most discussion of the simulation possibility continues to focus on using it as a setting for fiction, on the chances that it is true, on clues for inferring if it is true, and on what it implies for identity, consciousness, physics, etc. There remains almost no discussion of life strategies conditional on a simulation.
+I just now noticed how similar are these situations, a similarity that cries out for explanation. I see three somewhat related candidate explanations:
+
+The sorts of people who most like these topics are techies, who mostly don’t believe that social and human sciences exist, and thus aren’t interested in hearing about  applications of such sciences.
+People are mainly interested in these sorts of topics as ways to stretch and stress-test their basic concepts. So only people with a library of grand social concepts are interested in using these topics to stretch and stress-test such concepts. There aren’t many such people.
+I personally did a poor job of introducing these topics. Had someone more prestigious or articulate done the job, there might well be much larger conversations now about these topics.
+
+Whatever the explanation, this bodes poorly for interest in my more elaborated book-length discussion of the social implications of ems. However, I will soldier on nonetheless.
+
+
+title: Why Neglect Social Results?
+
+date: March 13, 2014 10:20 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+At a big wonk dinner last night there was a long discussion of NSA policy. People seemed to agree that such policies are unlikely to change due to concrete publicized examples of specific resulting harms. Instead, people argued that changing technologies require us to change laws and policies in order to uphold basic principles such as that policies should be accountable to the public, avoid possibilities for corruption, and offer some substantial limits on government powers. But I wondered: how strongly does the public really support such principles?
+You may recall I posted on survey results saying a US majority thought Snowden was wrong to expose NSA intelligence-gathering efforts. Also, Robert Rubin’s favorite graph of 2013 is one showing that the US public trusts the military and police far more than the courts, media, congress, or even the president. At the dinner many talked about wanting to avoid the abuses uncovered by the Church committee, but I’ll bet few in the public even remember what that was, and even fewer remember the Church committee as the good guys.
+It occurs to me that what support the US public does have for principles of a limited and accountable government may be largely a side effect of war and patriotism propaganda. During the cold war we were often told that what made them bad and us good is that we had freedoms, while their governments had and used arbitrary powers. We were also told similar things about why the Nazis were bad. And in support of all this, schools tell kids that the US started because we objected to England’s arbitrary powers over us.
+But as the cold war and WWII fade into history, we define ourselves less in opposition to enemies whose governments have arbitrary powers. We instead fall back more onto presuming that our status quo laws and policies are sufficient to support whatever principles we might have. Because in fact we don’t really support abstract principles of governance. We instead support the general presumptions that they are bad and we are good, and that our existing laws and policies are good unless someone can show otherwise via specific demonstrated harms. If today “they” are terrorists, then we assume that whatever we do to hurt them under existing policies is probably good too.
+If there is a hope here, it would be that political elites feel a much stronger attachment to political principles, and that the public will over time come to adopt elite beliefs. But for now that seems a slim or distant hope. World of mass government surveillance, here we come.
+
+
+title: Freedom As Identity
+
+date: January 9, 2014 10:00 am
+

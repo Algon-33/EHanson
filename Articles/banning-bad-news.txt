@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Bad news often has self-fulfilling prophesy effects.  Tell a student his work is bad and he might give up.  Telling friends someone is unpopular makes her even less popular.  Tell a sport team they will lose and they might not try as hard.  Tell customers a product is bad and they might look at it more carefully for flaws or switch products, and with fewer customers the producer has fewer resources to improve the product.  Tell people a bank is in trouble and they withdraw their deposits, stressing the bank further. 
+ But most of us think it crazy to therefore ban bad news.  Sure some might maliciously spread negative rumors to hurt a rival, but this hardly means we should forbid anyone from ever talking negatively about anything!  We should instead rely on listeners treating rumors skeptically and listening less to those they find to be unreliable sources. 
+ Alas, all this common sense goes out the window when bad news comes via financial markets.  When we buy stock observers reasonably interpret that as our saying we have good news about that stock, while selling is reasonably interpreted as bad news.   And so the US SEC is doing more to ban bad news:  
+  
+
+ An order from the Securities and Exchange Commission aimed at protecting some of the country’s largest financial companies against a form of short selling took effect yesterday. …. In the current financial environment, short selling can be especially harmful to banks and brokerage firms because customers and investors may view sinking stock prices as a sign of trouble and react by withdrawing deposits. 
+
+ The result of these sort of policies is sad and obvious:  it will take longer for us to find out about bad news, and so we will interpret silence and apparent good news more skeptically.  That is, we will just know less.  Note also that speculative markets actually do better at punishing malicious rival rumors — those who spread false rumors via gossip are less reliably punished than those who sell short a stock they know to be valuable. 
+ Coming soon after speculators were blamed for rising commodity prices, I fear this is bad news for hopes for legal prediction markets anytime soon.   
+Added: A related oped. 
+
+
+title: Banning Bad News
+
+date: July 23, 2008 6:00 am
+

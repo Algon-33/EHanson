@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Imagine that you are a kid, and that you recently acquired a new friend who likes to come over to your house to play. You’ve started to notice that he pays a lot of attention to your sister when he visits, that he likes to visit when she is home, that he likes to play in the house near where she is at the time. You suspect that he has a crush on your sister, and that is why he recently became your friend.
+This is a case of hypocrisy, where X is less about the Y that it seems about, but is instead more about Z. Here X is your new friendship, Y is his liking to spent time with you, and Z is his wanting to get closer to your sister. Of course Y is probably true to some extent, though not as much as he’d led you to believe.
+Now consider some possible responses to this situation:
+
+Nothing: Do and say nothing; pretend you don’t notice.
+Private support: tell him privately about your suspicions, but make sure he understands that you will fully support his efforts, and that you don’t hold any grudge.
+Private confrontation: tell him privately about your suspicions. Act mildly offended.
+Public exposure: speak loud and clearly, in front of all his friends, as well as your sister, giving evidence of his hypocrisy. Act deeply offended.
+Indirect private confrontation: have a mutual friend tell him that his behavior seems suspicious. This mutual friend isn’t offended, and promises not to keep it quiet. But they were wondering, that’s all.
+
+What if you like this person, and so want him to act more like a real friend. Which of the above responses are most likely to turn his hypocrisy, in pretending to do Y while really doing Z, into sincerity, i.e., really doing mainly Y?
+In this case #4 is probably the absolute worst approach, and #3 probably isn’t that much better. #2 may usually have good outcomes, but even that risks him feeling embarrassed and avoiding you. #5 is a little safer, but even that could spook him. I’d say #1 is probably the safest: just do nothing.
+Consider this as a metaphor for exposing hypocrisy more generally. Sometimes exposing hypocrisy, or confronting the hypocrites, can shame them into actually doing what they say they are doing. But at other times it scares them away, so that they do even less of what they said they were doing.
+For example, people pretend to learn at school, but more plausibly they meet mates and signal their features. If this hypocrisy were made clear, would people actually learn more, or would they switch to other ways to meet mates and signal features? People also pretend to give to charity because they want to help, but more plausibly they want to bond with associates and to signal their gentle natures. If their hypocrisy were made more visible, would they try to be more effective at helping with their charity, or would they switch to other ways to associate and signal gentleness?
+Consider this a partial answer to Ryan Carey’s request for criticism of effective altruism. A community associated with that label says it wants to promote charity as helping, and it points out how common charity patterns often fall far short of that goal. And if main cause of falling short were ignorance or laziness, this should induce a lot more helping. But if the main cause is instead hypocrisy, then what they are mainly doing is exposing hypocrisy.
+And yes, for some people exposing their hypocrisy will shame them into more effectively doing what they had been pretending to do. But for others it may embarrass them into doing less. Maybe they will be more forthright about bonding and showing gentleness in other ways. I don’t actually know which it will be on net. But I do know that we should study hypocrisy more carefully, in order to better position ourselves to answer such questions.
+Added 8a: People vary in their gentleness both via immediate system one reactions, and via more considered system two reactions. If people are more interested in signaling their system one gentleness, and if effective charity choices are those that look better to system two, then effective choices can be in conflict with their signaling desires.
+For example, in the standard trolley problem people say they would divert the trolley to kill one person on the tracks to save five on other tracks, but would not push one person off a footbridge to achieve the same savings. Pressuring people to admit that pushing in the trolley problem is effective altruism is getting them to resist their system one inclinations, and if they succeed at that they may look less good to associates in terms of system one gentleness.
+Added 10a: Sebastian Nickel reminds me of this study showing:
+Large prior donors increase the likelihood of giving in response to information on aid effectiveness, whereas small prior donors decrease their giving.
+
+
+title: On Exposing Hypocrisy
+
+date: January 7, 2015 2:45 pm
+

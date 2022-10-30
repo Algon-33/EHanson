@@ -1,0 +1,31 @@
+author: Robin Hanson
+
+text: 
+In ordinary talk, you often hear arguments like:
+
+There aren’t enough Jazz stations – government should subsidize them.
+Too many kids today let their pants hanging low – that should be illegal.
+Not enough kids want to be scientists – schools should push that earlier.
+
+But to an economist, it is not enough to note that you do or don’t like something, to justify a policy to encourage or discourage it. We instead hold ourselves to a higher analysis standard – is there a net market failure sufficient to justify an intervention?
+Except, alas, on (national at-a-time between-family) income and wealth inequality. There, most economists think it sufficient to just note that a policy influences inequality – they rarely feel a need to identity an associated market failure. For example, Christina Romer:
+A successful argument for a government manufacturing policy has to go beyond the feeling that it’s better to produce “real things” than services. … The economic rationales for a policy aimed specifically at shoring up manufacturing largely fall into three categories. None are completely convincing:
+MARKET FAILURES Government intervention can be justified on efficiency grounds if the free market won’t work well. … The market can malfunction if there are positive externalities across companies. … But large clustering effects have been hard to find. … A study of the semiconductor industry found that although learning by doing was substantial, most of the rewards went to companies doing the early investing. … We need a strong manufacturing base in case of war. … But it still doesn’t follow that all manufacturing deserves special treatment. …
+JOBS A key argument for encouraging manufacturing is to create jobs and reduce unemployment. Unfortunately, those effects are probably small. … Today, we face a profound shortfall of demand. That truly is a terrible market failure, and it warrants government intervention. …
+INCOME DISTRIBUTION A final argument for supporting manufacturing is distributional. Manufacturing jobs are seen as one of the few sources of well-paying jobs for less-educated workers. … But that is much less true today.  … If increasing income equality is the goal, it might be wiser to put money into infrastructure than to subsidize manufacturing. …
+Public policy needs to go beyond sentiment and history. It should be based on hard evidence of market failures, and reliable data on the proposals’ impact on jobs and income inequality. (more; HT Tyler)
+Note that she even uses market failure to justify pushing jobs. But not for income equality – that is just obviously bad. I see the same thing over and over – only economists wary of equality-promoting policies talk market failures, and then they mainly ask what they are. For example Charles Lane:
+Americans may never agree on an optimal distribution of income, either morally or practically. But they probably could agree that, to the extent possible, government should limit its interventions to bona fide cases of market failure. (more)
+Well, no, Americans probably don’t agree on that. But you might hope economists would. Tyler Cowen has an article where he says there are market failures in the finance sector that increase inequality, and recommends fixing them. Which of course makes sense, but we’d want to fix those problems even if they reduced inequality.
+The closest I could find to a market failure argument for reducing inequality was Ian Ayres and Aaron Edlin:
+The progressive reformer and eminent jurist Louis D. Brandeis once said, “We may have democracy, or we may have wealth concentrated in the hands of a few, but we cannot have both.” (more)
+But that is quite a stretch – there is no evidence that wealth concentration is threatening to stop our nation from being a democracy. And it is far from obvious that not being a democracy is a market failure.
+As Obama has decided to make reducing inequality a central issue in his reelection campaign, we are going to hear a lot about it between now and November, including from economists. Could economists who support policies to reduce inequality please identify their market failure arguments?!  Why lower our usual standards for this topic?
+(I argued here that a poverty insurance market failure seems implausible.)
+Added 2p: In case it is not clear, this post is directed to economists, in their role as economists. I’m not saying market failure is the only consideration anyone uses to decide policy, but I am suggesting that it is the main consideration that economists use in their role as holders of economic expertise. Economists don’t have much expert to say about whether we have too much or too little inequality, outside of their expert ability to discern and fix market failures.
+
+
+title: Inequality Market Failure?
+
+date: February 5, 2012 5:20 pm
+

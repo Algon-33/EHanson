@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+I’m not very good at social networking, but by now I’m old enough to see the value in many skills that I don’t have. One problem is that you often need to invest in networks many years before you plan to draw on them. Another is that it isn’t at all clear to young nerds, as I was once, what sorts of connections and relations would end up being most valuable later. Especially if you have big doubts about where your career and interests may go.
+What if we could create games to show and teach social networking skills? And perhaps even to encourage the creation of useful networks? As nerds like games, we might tempt nerdy kids to play them, and we might subsidize such games as a society, to induce stronger denser social networks. There are plausibly externalities by which we all benefit when we all have longer stronger networks.
+The tricky part, of course, is figuring out what exactly should happen in these games. We don’t want them to encourage just any social networks; we want the networks that are actually socially helpful. So we don’t obviously just want to encourage people to have more LinkedIn connections or Facebook friends, or to join and rise within multilevel Ponzi-like marketing systems like Amway. At least we don’t while we remain uncertain about the marginal value of more connections in such systems.
+Ideally, we want people to be usefully selective about who they include in their network, and to whom they make referrals. We want to give them incentives to evaluate potential network partners well for suitability in various networking roles. But holding constant such evaluation and selectivity, we also want people to put in the work to collect more network partners.
+For example, imagine that we periodically announced prizes shared among everyone in the first network path to connect a person of type X to a person of type Y. Say, a someone with a particular foot problem to someone who knows well how to deal with that problem. From what space of X,Y pairs should we draw for tied prizes to induce the most socially valuable networks?
+Being not good at social networking, I’m probably also not good at making such proposals. But I might be better at evaluating such proposals, or more generally at social network game proposals. So please, you of my associates who like inventing games or who understand social networking better, do make such suggestions for I and others to evaluate.
+Btw, negative liability would seem to help encourage such networks.
+
+
+title: Social Network Games
+
+date: May 4, 2020 12:00 pm
+

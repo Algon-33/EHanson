@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Tyler Cowen and Bryan Caplan have been arguing about the signaling theory of education. Bryan’s latest is here, Tyler’s here. Tyler cites two recent empirical papers which estimate that “signaling accounts for one-third of the educational wage premium.” Such papers generally try to predict later income as a function of schooling years and quality, plus other covariates. Today I want point out two bits of “armchair econ” data that complicate such discussions.
+Datum #1: Pretty much no one cared about the grades I got before tenth grade. 
+As long as my grades weren’t very low, I was consistently promoted to the next level. If I got into special classes for gifted students, that was based on IQ tests, not grades. Colleges later cared about my high school GPA, but not about any earlier GPAs. So since no one was watching my earlier grades, they couldn’t possibly be signals right?
+Not so fast. Assume for the sake of argument that employers want high GPA grads of good colleges entirely for signaling reasons – students never learn anything useful for future jobs, but merely show innate abilities. But also assume that it takes years of training and effort for kids with high innate ability to learn to do well in school. Given these assumptions third grade schooling is entirely an investment in a signal to later show employers. GPAs then only help kids see how well they are learning school stuff, which will later help them send a good signal. So even though no signaling is happening in third grade, everything third grade students do might be an investment in later signals.
+Datum #2: When I visit private firms, people there often mention the prestigious degrees they have.
+Yes, they may do this more often for academic visitors, but the point remains. Firms want to impress customers, suppliers, investors, etc. with the quality of their employees, and hiring graduates from prestigious schools helps them signal such quality. Hiring such graduates can also help a manager to impress his bosses, potential employees, and sister divisions about the quality of his employees. Thus even once a boss has determined the “real” productivity of his or her employer, he or she should still be willing to pay extra for employees with prestigious degrees.
+Furthermore, people in business signal to each other all the time. In fact, most of the on-the-job business learning that employees do after college, such as how to dress well, how to give presentations, how to write memos, how to talk with clients, etc. might be skills that are mainly useful to signal innate features to bosses, co-workers, clients, etc. So employers might pay more for students with prestigious degrees because such degrees show an ability to learn how to later send good business signals. And this extra pay for top degrees could be entirely an investment in signaling, even if after hiring someone no one ever knew of or mentioned their degrees, and even if schooling makes students better able to please employers.
+Bottom line: If much of human interaction is signaling, then much of human investment is in ways to better signal. Businesses that signal are also willing to invest in better signals. The fact that attending school seem to cause changes in students that employers are willing to pay for does not show that school isn’t all about signaling.
+
+
+title: School Signal Investing
+
+date: July 9, 2011 8:20 pm
+

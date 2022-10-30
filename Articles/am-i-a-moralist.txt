@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+Imagine that a “musicalist” is someone who makes good and persuasive musical arguments. One might define this broadly, by saying that any act is musical if it influences the physical world so as to change the distribution of sound, as most sound has musical elements. Here anyone who makes good and persuasive arguments that influence physical acts is a good “musicalist.”
+Or one might try to define “musicalist” more narrowly, by requiring that the acts argued for have an especially strong effect on the especially musical aspects of the physical world, that musical concepts and premises often be central to the arguments. Far fewer people would be see as good “musicalists” here.
+The concept of “moralist” can also be defined broadly or narrowly. Defined broadly, a “moralist” might be anyone who makes good and persuasive arguments about acts for which anyone thinks moral considerations to be relevant. This could be because the acts influence morally-relevant outcomes, or because the acts are encouraged or discouraged by some moral rules.
+Defining narrowly, however, one might require that the acts influenced have especially strong moral impacts, and that moral concepts and premises often be central to the arguments. Far fewer people are good “moralists” by this definition.
+Bryan Caplan recently praised me as a “moralist”:
+Robin … excels as a moralist – in three distinct ways.
+Robin often constructs sound original moral arguments.  His arguments against cuckoldry and for cryonics are just two that come to mind.  Yes, part of his project is to understand why most people are forgiving of cuckoldry and hostile to cryonics.  But the punchline is that the standard moral position on these issue is indefensible.
+Second, Robin’s moral arguments actually persuade people.  I’ve met many of his acolytes in person, and see vastly more online.  This doesn’t mean, of course, that Robin’s moral arguments persuade most readers.  Any moral philosopher will tell you that changing minds is like pulling teeth.  My point is that Robin has probably changed the moral convictions of hundreds.  And that’s hundreds more than most moralists have changed.
+Third, Robin takes some classical virtues far beyond the point of prudence.  Consider his legendary candor.
+I accept (and am grateful for) Bryan’s praise relative to a broad interpretation of “moralist.” Yes, I try to create good and persuasive arguments on many topics relevant to actions, and according to many concepts of morality most acts have substantial moral impact. Since moral considerations are so ubiquitous, most anyone who is a good arguer must also be a good moralist.
+But what if we define “moralist” narrowly, so that the acts must be unusually potent morally, and the concepts and premises invoked must be explicitly moral ones? In this case, I don’t see that I qualify, since I don’t focus much on especially moral concepts, premises, rules, or consequences.
+Bryan gave two examples, and his readers gave two more. Here are quick summaries:
+
+I argue that cryonics might work, that it only needs a >~5% of working to make sense, and that your wanting to do it triggers abandonment feelings in others exactly because they think you think it might work.
+I argue that with simple precautions betting on terror acts won’t cause terror acts, but could help to predict and prevent such attacks.
+I argue that the kinds of inequality we talk most about are only a small fraction of all inequality, but we talk about them most because they can justify us grabbing stuff that is more easily grabbed.
+I argue that cuckoldry (which results in kids) causes many men great emotional and preference harm, plausibly comparable to the harm women get from being raped.
+
+I agree that these arguments address actions about which many people have moral feelings. But I don’t see myself as focused on moral concepts or premises; I see my discussions as focused on other issues.
+Yes, most people have moral wants. These aren’t all or even most of what people want, but moral considerations do influence what people (including me) want. Yes, these moral wants are relevant for many acts. But people disagree about the weight and even direction that moral considerations push on many of these acts, and I don’t see myself as especially good at or interested taking sides in arguments about such weights and directions. I instead mostly seek other simple robust considerations to influence beliefs and wants about acts.
+Bryan seems to think that my being a good moralist by his lights argues against my “dealism” focus on identifying social policies that can get most everyone more of what they want, instead of taking sides in defined moral battles, wherein opposing sides make conflicting and often uncompromising demands. It seems to me that I in fact do work better by not aligning myself clearly with particular sides of established tug-o-wars, but instead seeking considerations that can appeal broadly to people on both sides of existing conflicts.
+
+
+title: Am I A Moralist?
+
+date: February 14, 2015 12:20 pm
+

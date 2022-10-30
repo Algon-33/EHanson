@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Most folks distrust athiests, because atheists don’t fear punishment from God:
+Recent polls indicate that atheists are among the least liked people in areas with religious majorities (i.e., in most of the world). The sociofunctional approach to prejudice, combined with a cultural evolutionary theory of religion’s effects on cooperation, suggest that anti-atheist prejudice is particularly motivated by distrust. Consistent with this theoretical framework, a broad sample of American adults revealed that distrust characterized anti-atheist prejudice but not anti-gay prejudice. … A description of a criminally untrustworthy individual was seen as comparably representative of atheists and rapists but not representative of Christians, Muslims, Jewish people, feminists, or homosexuals. … Results were consistent with the hypothesis that the relationship between belief in God and atheist distrust was fully mediated by the belief that people behave better if they feel that God is watching them. … Atheists were systematically socially excluded only in high-trust domains; belief in God, but not authoritarianism, predicted this discriminatory decision-making against atheists in high trust domains. (more)
+So are atheists actually less trustworthy?  I’d guess that they are, but that the difference is less than people think. Believing that atheists are untrustworthy, like believing in God, helps signal your trustworthiness to others.
+I suspect a similar effect applies to human law enforcement. Most people probably also signal their trustworthiness by over-estimating their chances of getting caught and punished if they commit a crime.
+Added 1p: Here are experiments on religion and trustworthiness:
+Perrin (2000) tested the relationship between religiosity and cheating behaviour among 150 undergraduate students. In the experiment, subjects were asked to check their grades in an ostensibly wrongly-graded class test. Only 32% reported back honestly, 52% falsely claimed their tests were correctly graded, and 16% claimed they were owed a point. Four out of seven measures of religiosity were significant and positively related to honesty. …
+Two players each make simultaneous withdrawals (i.e. under imperfect information) from an envelope containing 100 coins. If the sum of withdrawals exceeds 100, neither wins anything. Otherwise, players receive their withdrawals plus half of the sum remaining in the envelope multiplied by 1.5. … Religious males withdrew less than religious females and secular males. This effect is found to be driven by those religious males who attend synagogue daily. …
+Using a naturally-occurring classification of religiosity based on 103 male subjects studying for priesthood or secular qualifications in rural India, … the average [public goods game] contributions of religious (66%) and non-religious (51) students differ significantly (p = 0.014). …
+Fehr et al. (2002) find that in among 429 German household survey respondents contacted to participate in a trust game experiment, Catholic religion raised sending levels significantly in a regression model with a baseline of religiously unaffiliated subjects. … The impression from these studies is low explanatory power of religious variables, especially when compared to demographics. … Senders send more the greater the religiosity of responders which they were told. This relationship holds overall and for high-religiosity senders, but not for those with lower religiosity. (more)
+Added 26Nov: In case its not obvious, I’m an atheist.
+Added 7Dec: Evidence that religion makes your more truthful.
+
+
+title: Atheists Distrusted
+
+date: November 25, 2011 10:00 am
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+A simple but reasonable definition of inequality says that moving any part of a distribution toward its median value (while holding the rest of the distribution constant) reduces the inequality in that distribution. Moving a part away from the median value increases inequality.
+The median adult income worldwide is ~$1000 ($3000 per household), and median wealth is $7500. If you make/have more than those amounts, and if you are trying to increase your personal income and wealth, then if successful your efforts will increase inequality in those distributions. The same applies for any distribution where you are above the median; your efforts to increase your personal value are efforts to increase inequality.
+Thus you are trying to increase inequality if you try to increase your number of Twitter followers but have more than 200 now. And that’s compared to other people on Twitter. Compared the the median human, even going from zero to one Twitter followers increases inequality.
+The median firm has four employees, so if your firm is larger, and you try to grow your firm, you are trying to increase inequality across firms. The median publication has one citation, and the median human has zero publication, so your trying to increase either of those numbers regarding yourself is trying to increase inequality.
+Medians for the US are an IQ of 98, reading comprehension of 7th/8th grade, 4 books read per year, and 6.3/4.3 lifetime sex partners (M/F age 25-49). So if you are in US, your personal figures are higher, and you try to increase those figures, you are trying to increase US inequality. And if US numbers are higher than the world, you also increase world inequality, and that’s even true for many lower personal values.
+You might try to justify improving any one above-median X by pointing to other Y on which you are below median, saying that you are a loser overall trying to improve your overall position. But are you really a loser compared to all humans alive today, or all humans ever so far, or all creatures ever so far?
+Sometimes people try to justify their above-median efforts by claiming that they mainly fight against those who are even higher in the distribution than they. For example, their firm competes mainly with even larger firms, or their publications compete mainly with even more popular publications. But this just can’t be true for as many people as try to claim this justification. So how can we judge who are in fact the rare above-median Robin Hoods, taking from the even richer?
+For everyone else, it seems you should admit that either (A) you count for more than others, so that your increases are more worthwhile than theirs, or (B) while reducing inequality is a nice goal, you have judged that it is just not as worthy a goal as just increasing these numbers in general, for anyone and everyone.
+Added 6am: Sure, if your efforts to raise yourself also happen to also raise the entire rest of the distribution by the same proportion or amount, or cause especially big rises for some below median folks. then that may not increase inequality. But if your efforts raise yourself more than they raise others, the inequality effect issue remains.
+
+
+title: You Choose Inequality
+
+date: May 19, 2022 9:20 am
+

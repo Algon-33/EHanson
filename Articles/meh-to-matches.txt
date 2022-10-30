@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Human aversion to being overtly ranked makes them look too often for good matches, rather than just for good people. For example, kids choosing a college are usually overly concerned with finding a good “match,” when then should just focus on the best college that is cheap and conveniently located.
+Similarly for relationships. Bryan Caplan tells me that although spouses tend to have similar religion, politics, education, wealth, and intelligence, their personalities are not correlated.  Turns out, there are no personality interaction effects for relation and life satisfaction: your personality and their personality matter, but not the combination:
+Three very large, nationally representative samples of married couples were used to examine the relative importance of 3 types of personality effects on relationship and life satisfaction. … Using data sets from Australia (N = 5,278), the United Kingdom (N = 6,554), and Germany (N = 11,418) … Actor effects accounted for approximately 6% of the variance in relationship satisfaction and between 10% and 15% of the variance in life satisfaction. Partner effects (which were largest for Agreeableness, Conscientiousness, and Emotional Stability) accounted for between 1% and 3% of the variance in relationship satisfaction and between 1% and 2% of the variance in life satisfaction. Couple similarity consistently explained less than .5% of the variance in life and relationship satisfaction after controlling for actor and partner effects.
+If you want a happy relationship, be a happy person and pick a happy partner; no need to worry about how well you match personality-wise.
+
+
+title: Meh To Matches
+
+date: August 19, 2010 4:15 pm
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Here is a deep and important theory question: What determines when familiar systems and other structures decay and become less functional, versus when they remain stable or improve in functionality with time? I call this a theory question because we basically know the physics of all the familiar systems around us, so this question is in principle answerable with careful enough theory analysis.
+Yes, thermodynamics says that all structures will eventually decay down to a small set consistent with max entropy. But what about long before then?
+In biology, most all individual cells and organisms at first grow and become more capable, but then later decay and die. Even whole species typically decay, though the extreme rare tail of species that improve eventually have far more descendant species, so that whole biospheres improve over time.
+Small human organizations like clubs and firms often grow when small, but then consistently ossify and decay when old; few last for centuries. Even whole human civilizations and empires seem to follow a similar pattern, over a several century timescale. And yet our entire human civilization has consistently become more capable over time.
+In software engineering, we find that most all computer systems become gradually more fragile and harder to usefully modify over time, and eventually are replaced wholesale. “Refactoring” can delay this, but only for a while and at substantial cost.
+All of this might be summarized as saying that whole competitive fields often improve over time, while each competing item tends to rise and then fall. Life grows, but living things die.
+But this summary just isn’t good enough to address a big important question: what will happen as we introduce more and more “global” (i.e., civilization-wide) structures? Such as global governance bodies, global professional associations, global integration of academic disciplines, global trading networks, or global conversation communities. Are these structures more like entire biospheres that improve or more like individual organisms that eventually die and must be replaced?
+The question is important because such global structures face much weaker threats from outside competition. So pressures to improve may have to mainly come from inside them. And if they effectively repress internal dissent, they may persist for a very long time, even if they greatly decay and rot. The weight of such decay on overall progress and growth might eventually outweigh other sources of improvement, to permanently hinder our civilization’s overall growth and limit our long term potential.
+So we must decide how wary to be of allowing global structures to repress internal dissent and efforts to end or replace them wholesale. And to inform those key choices, it would help to better understand: what makes stuff rot?
+
+
+title: What Makes Stuff Rot?
+
+date: October 22, 2021 11:45 am
+

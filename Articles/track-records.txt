@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+More evidence that a huge way to improve your accuracy is track records: simply write down your forecasts and check their accuracy later:
+In the context of a Super Bowl loss (Study 1), a presidential election (Studies 2 and 3), an important purchase (Study 4), and the consumption of candies (Study 5), individuals mispredicted their affective reactions to these experiences and subsequently misremembered their predictions as more accurate than they actually had been. … This recall error results from people’s tendency to anchor on their current affective state when trying to recall their affective forecasts. Further, those who showed larger recall errors were less likely to learn to adjust their subsequent forecasts and reminding people of their actual forecasts enhanced learning. These results suggest that a failure to accurately recall one’s past predictions contributes to the perpetuation of forecasting errors. (more)
+What we need are techs to make it very easy for record our forecasts as we go about our lives, and to review them later for accuracy.
+
+
+title: Track Records
+
+date: September 29, 2010 10:40 am
+

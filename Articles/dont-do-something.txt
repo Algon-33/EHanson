@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The October Journal of Economic Psychology says goalies do too much:
+
+In soccer penalty kicks, goalkeepers choose their action before they can clearly observe the kick direction. An analysis of 286 penalty kicks in top leagues and championships worldwide shows that given the probability distribution of kick direction, the optimal strategy for goalkeepers is to stay in the goal’s center. Goalkeepers, however, almost always jump right or left. … The claim that jumping is the norm is supported by a second study, a survey conducted with 32 top professional goalkeepers. The seemingly biased decision making is particularly striking since the goalkeepers have huge incentives to make correct decisions, and it is a decision they encounter frequently. Finally, we discuss several implications of the action/omission bias for economics and management. … 
+The action/omission bias might affect the decision of investors whether to change their portfolio (action) or not (inaction). It can affect the choice of managers whether to leave their company’s strategy or investments unchanged (inaction), or to change them (action). The bias may also have implications for the decision of workers whether to stay in their job (inaction) or look for a better job (action), and one’s decision whether to re-locate to another city or not. In the macro-economic level, the action/omission bias may also affect decisions made by governments and central banks whether to change various policy variables (interest rates, tax rates, various types of expenditures, etc.), or leave them unchanged.
+
+ Of course if you do nothing you risk being seen as cowardly or ignorant, so it might not pay you to correct this bias.   
+
+
+title: Don’t Do Something
+
+date: November 15, 2007 6:00 am
+

@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Mental health diagnoses are evaluated in part by the consistency with which professionals assign diagnoses. Turns out, there is often a low correlation between the diagnoses different folks assign to a patient:
+The DSM-5 revision has been intensely controversial, with critics … charging that poorly drafted changes would lead to millions more people being given unnecessary and risky drugs.  The field trials used a statistic called kappa. This measures the consensus between different doctors assessing the same patient, with 1 corresponding to perfect diagnostic agreement, and 0 meaning concordance could just be due to chance. In January, leaders of the DSM-5 revision announced that kappas as low as 0.2 should be considered “acceptable”.
+“Most researchers agree that 0.2 to 0.4 is really not in the acceptable range,” says Dayle Jones of the University of Central Florida in Orlando, who is tracking DSM-5 for the American Counseling Association.
+One proposed diagnosis failed to reach even this standard. Some patients turning up in doctors’ offices are both depressed and anxious, so mixed anxiety/depression was tested as a new category: the kappa for adults was less than 0.01.
+Attenuated psychosis syndrome, meanwhile, was intended to catch young people in the early stages of schizophrenia and other psychotic disorders. While field trials gave a kappa of 0.46, the variability was so large that Darrel Regier, APA’s head of research, told the meeting that the result was “uninterpretable”. Both disorders are now headed for DSM-5’s appendix …
+The low kappas recorded for major depressive disorder and generalised anxiety disorder – 0.32 and 0.2 respectively in the adult trials – raise serious questions. (more)
+Similarly low levels of agreement are found in academic peer review – referees judging papers submitted to journals, for example, rarely agree on whether the paper should be accepted. Yet, not only are academics and mental health professionals still considered experts, expert agreement remains one of the main ways the public uses to judge who is an expert.
+In the public eye, experts on X are people who tend to agree when outsiders ask them questions about X, such as the meaning of special words or phrases about X, or who is an expert on X.  After all, this is pretty much the only concrete data they have to go on. It helps if these experts also do some things that outsiders see as impressive, but this usually isn’t necessary to be considered an expert.
+I have two observations:
+
+On the one hand, this is a depressingly low standard. For example, even if religious priests can agree on what statements are religious heresy, we wouldn’t necessarily want to empower them to torture such heretics. So the fact that psychiatrists can agree on how to diagnose certain types of mental illness doesn’t by itself mean we should empower them to detain such patients against their will. Yet in practice mere agreement among experts is the main criteria the public uses to decide which experts to empower.
+On the other hand, given how important expert agreement is to expert reputation, it might seem surprising that experts don’t try harder to find simple ways to agree with each. For example, mental health experts could coordinate on hair color, weight, or vocabulary as simple ways to make sure they assign the same labels to the same patients. Yes, they’d have to do this on the sly, and overtly pretend to be using other criteria. But how hard could that be for homo hypocritus to do? Apparently, the fact that they agree enough on who is an expert gives them some slack to disagree about some other things. Their pride and beliefs about the basis of their expertise prevent them from coordinating too consciously on simple ways to agree, such as diagnosing mental illness based on hair color, etc.
+
+
+
+title: Experts Agree
+
+date: May 25, 2012 2:35 pm
+

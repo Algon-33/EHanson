@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+More support for the theory that fertility has fallen because status now puts more weight on having well educated kids:
+Discussions … typically assume that the poor have more children than the rich. Micro-data from [62,146 women in] 48 developing countries suggest that this assumption was false until recently. …
+In earlier birth cohorts (mostly of the 1940s and 1950s), both the number of ever-born siblings and the number of surviving siblings are positively associated with years of education in 25 countries and negatively associated in two. In contrast, in later birth cohorts (mostly of the 1980s), 20 countries exhibit negative associations between both measures of sibship size and education, while seven show the opposite. …
+Changes in women’s labor force participation, sectoral composition, GDP per capita, [urbanization,] and child mortality do not predict changes in the education-sibship size association. Instead, one variable stands out …: the average educational attainment of the parent generation. …
+Two explanations … stand out. … The ﬁrst involves subsistence consumption constraints. … This explanation is somewhat difﬁcult to square with the ﬁnding that economic growth is uncorrelated with changes in the education-sibship size association. … The second explanation is … that mass education induces widespread change in fertility norms … [and so] increases the importance of child quality relative to quantity in the utility function, [with] the preferences of the most educated couples [being] most sensitive. (more)
+
+
+title: School Status Stops Kids
+
+date: June 20, 2013 3:45 pm
+

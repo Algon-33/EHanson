@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The Fed’s view has been that bubbles can be identified only in hindsight, and that all the central bank can do is prepare to clean up after they burst. The current crisis shows that policy is mistaken, [New York Fed Chief] Dudley said.  “Asset bubbles may not be that hard to identify,” he said. “This crisis has demonstrated that the cost of waiting to clean up asset bubbles after they burst can be very high.” Dudley did not specify what tools the Fed should use. Analysts have suggested that central bankers might raise reserve requirements or amp up restrictions on margin lending.
+That is from the Post.  My problem with such approaches is that they aren’t very accountable; i.e., they don’t let us see very easily if past regulator actions helped or hurt on net.  Two years ago I suggested a more accountable way for regulators to reduce bubbles:
+Congress could give some well-regarded “best and brightest” regulators a big pile of cash, say $100 billion, and have them correct prices by trading, buying when they think prices should rise and selling when they think prices should fall.  If regulators really do know how to choose good price pushes, then not only will they correct “biased” stock prices, they will increase their pile of cash, and we won’t need to give them any more.
+I’m still game; are they?  My approach could also allow a more accountable correction of “excess volatility.”  The Post reports today:
+The [US CFTC] will consider new measures to curb speculation in the markets for energy and other commodities … The move aims to reduce the volatility of prices but faces resistance from top Wall Street firms, which fear the efforts could cut into profits.  Regulators and lawmakers increasingly worry that these firms have used their size and power to inflate the prices of commodities, booking profits in the process. … Firms have introduced new ways to speculate on rising or falling values of commodities by betting on batches of futures known as indexes. … The CFTC is planning to announce today that it will consider … limiting the size of an investment any single firm could make in a particular commodity.
+It regulators think they know when commodity prices are too volatile, they should just buy low and sell high; if they are right they’ll reduce volatility and make a profit in the process.  And if they are wrong, we’d hear about their losses. So why aren’t regulators interested in more accountable regulation?   The obvious explanation:  they expect their accounts wouldn’t look very good.
+
+
+title: How To Pop Bubbles
+
+date: July 7, 2009 1:00 pm
+

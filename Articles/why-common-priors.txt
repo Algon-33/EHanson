@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+
+Do I contradict myself? Very well, then I contradict myself, I am large, I contain multitudes.  Walt Whitman
+
+A key issue for the (epistemic) rationality of disagreement is whether different Bayesians can rationally have different priors.  Bayesians with different priors could easily disagree, though they would see no point in offering information to resolve it.   But a standard practice has been to assume rational priors are common.  For example, the vast majority of economic models of multiple decision makers are models of Bayesians with common priors.   And even when philosophers allow priors to be different between people, philosophers usually insist that different parts of a mind, or different versions of that mind on different days, have the same prior.  
+Can rational priors be different?   On the one hand, some don’t see why priors can’t be different, especially since disagreement often feels rational.  On the other hand, some say part of the meaning of rational belief is that it should not depend on arbitrary individual features, and others suggest Dutch Book arguments apply to groups as well as to individuals.  (One can claim rational priors are common without needing to give exact formulas for them, just as one can claim that P(A) + P(notA) = 1 without giving a formula for P(A).)   
+  
+After eight rejections at other journals, Theory and Decision just published my paper (see also this ppt) offering a new argument for the rationality of common priors.  It only has few lines of math, which formalize this key idea: a rational prior must be consistent with reasonable beliefs about the processes that produced everyone’s priors.
+ That is, while priors are usually fully known to everyone (and everyone knows that everyone knows etc.), each agent is asked to consider the information situation of a "pre-agent" who is not sure which agents will get which priors.  Each agent can have a different pre-agent, but each agent’s prior should be consistent with his pre-agent’s "pre-prior," in the sense that the prior equals the pre-prior conditional on the key piece of information that distinguishes them:  which agents actually get which priors.  
+ The main result is that an agent can only have a different prior if his pre-agent believed the process that produced his prior was special; reality correlated with his prior, but not with other priors. 
+
+Consider, for example, two astronomers who disagree about whether the universe is open (and infinite) or closed (and finite). Assume that they are both aware of the same relevant cosmological data, and that they try to be Bayesians, and therefore want to attribute their difference of opinion to differing priors about the size of the universe.  
+This paper shows that neither astronomer can believe that, regardless of the size of the universe, nature was equally likely to have switched their priors. Each astronomer must instead believe that his prior would only have favored a smaller universe in situations where a smaller universe was actually more likely. Furthermore, he must believe that 
+
+title: Why Common Priors
+
+date: December 24, 2006 6:00 am
+

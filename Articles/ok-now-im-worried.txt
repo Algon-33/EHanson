@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Nukes seem our biggest near-term disaster threat, and this worries me most:
+
+The U.S. intelligence community "doesn’t have a story" to explain the recent Iranian tests.  One group of tests that troubled Graham, the former White House science adviser under President Ronald Reagan, were successful efforts to launch a Scud missile from a platform in the Caspian Sea. … Another troubling group of tests involved Shahab-3 launches where the Iranians "detonated the warhead near apogee, not over the target area where the thing would eventually land, but at altitude," Graham said. … Graham chairs the Commission to Assess the Threat to the United States from Electromagnetic Pulse (EMP) Attack, a blue-ribbon panel established by Congress in 2001. … "That’s exactly what you would do if you had a nuclear weapon on a Scud or a Shahab-3 or other missile, and you wanted to explode it over the United States." …  
+
+  
+
+"If even a crude nuclear weapon were detonated anywhere between 40 kilometers to 400 kilometers above the earth, in a split-second it would generate an electro-magnetic pulse [EMP] that would cripple military and civilian communications, power, transportation, water, food, and other infrastructure." … The near-term impact on U.S. society would dwarf the damage of a direct nuclear strike on a U.S. city. … 
+In his recent congressional testimony, Graham revealed that Iranian military journals, translated by the CIA at his commission’s request, "explicitly discuss a nuclear EMP attack that would gravely harm the United States." … If Iran launched its attack from a cargo ship plying the commercial sea lanes off the East coast … U.S. investigators might never determine who was behind the attack. … Iranians could simply decide to sink the ship … The only thing Iran is lacking for an effective EMP attack is a nuclear warhead, and no one knows with any certainty when that will occur. The latest U.S. intelligence estimate states that Iran could acquire the fissile material for a nuclear weapon as early as 2009, or as late as 2015, or possibly later. 
+
+Wikipedia elaborates: 
+
+An offshore detonation at high altitude … would disrupt both an entire coast and regions hundreds of miles inland (e.g. 120 mile altitude, 1000 mile EMP radius). Moreover, a high altitude burst could be positioned over international waters by means of a missile of low accuracy, launched from a ship , also in international waters.  North Korea, Iran, and Pakistan (for example) have Scud-derived missiles of more than adequate capability.
+
+It is hard to see that we could replace critical electronics fast enough, or evaculate the US eastern seabord fast enough without them, to avoid mass casualties.  If we don’t have protected caches of critical replacement electronics, we should.
+
+
+title: OK, Now I’m Worried
+
+date: July 31, 2008 6:00 am
+

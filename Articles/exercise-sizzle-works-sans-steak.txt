@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+I was stunned to learn from Psychological Science that exercise has an apparent placebo effect:  
+
+84 female room attendants working in seven different hotels were measured on physiological health variables affected by exercise. Those in the informed condition were told that the work they do (cleaning hotel rooms) is good exercise and satisfies the Surgeon General’s recommendations for an active lifestyle. Examples of how their work was exercise were provided. Subjects in the control group were not given this information. Although actual behavior did not change, 4 weeks after the intervention, the informed group perceived themselves to be getting significantly more exercise than before. As a result, compared with the control group, they showed a decrease in weight, blood pressure, body fat, waist-to-hip ratio, and body mass index. These results support the hypothesis that exercise affects health in part or in whole via the placebo effect.
+
+This could also plausibly be a status effect; status has huge health benefits, and perhaps good exercise jobs are seen as having higher status.  This result is stunning because exercise had previously been my clearest example of something people could do to improve their health.  Yes, the strong correlation between health and exercise is partly because healthy people feel more like exercizing.  But it seemed so plausible that exercise also improves health.  Now I am not so sure.
+This is also stunning because we already saw that at least 2/3, and perhaps all, of the benefit of anti-depressant drugs is a placebo effect. 
+Added: The paper reports no apparent change in related health behavior:
+
+The room attendants did not report any increase in exercise outside of work, nor did they experience any increase in workload over the course of the study. In addition, the subjects reported their habits had not changed over the past 30 days with respect to how much they ate (including servings of sugary foods and vegetables) and how much they drank (caffeine, alcohol, and water).
+
+
+
+title: Exercise Sizzle Works Sans Steak
+
+date: April 18, 2007 6:00 am
+

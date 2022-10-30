@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Firms almost never have enough data to justify their belief that ads work:
+Classical theories assume the firm has access to reliable signals to measure the causal impact of choice variables on profit. For advertising expenditure we show, using twenty-five online field experiments with major U.S. retailers and brokerages ($2.8 million expenditure), that this assumption typically does not hold. Evidence from the randomized trials is very weak because individual-level sales are incredibly volatile relative to the per capita cost of a campaign — a “small” impact on a noisy dependent variable can generate positive returns. A calibrated statistical argument shows that the required sample size for an experiment to generate informative confidence intervals is typically in excess of ten million person-weeks. This also implies that selection bias unaccounted for by observational methods only needs to explain a tiny fraction of sales variation to severely bias observational estimates. We discuss how weak informational feedback has shaped the current marketplace and the impact of technological advances moving forward. (more; HT Bo Cowgill)
+More striking quotes below. The paper offers management consulting and nutrition supplements as examples of other products that people rarely have sufficient evidence to justify. In fact, I wouldn’t be surprised if this applied to a large fraction of what we and firms buy: we buy because others say it works, and we don’t have data to disprove them.
+More striking quotes: 
+The standard deviation of sales, on the individual level, is typically ten times the mean over the duration of a typical [ad] campaign and evaluation window. … Answering questions such as “was the ROI 15% or -5%,” a large difference for your average investment decision, or “was the annualized ROI at least 5%,” a reasonable question to calibrate against the cost of capital, typically requires at least hundreds of millions of independent person-weeks—nearly impossible for a campaign of any realistic size. …
+If an ad costs 0.5 cents per delivery (typical of “premium” online display ads), each viewer sees one ad, and the marginal profit per “conversion” is $30, then only 1 in 6,000 people need to be “converted” for the ad to break even. Suppose a targeted individual has a 10% higher baseline purchase probability (a very modest degree of targeting), then the selection effect is expected to be 600 times larger than the causal effect of the ad. …
+This regression amounts to detecting 35 cent impact on a variable with a mean of $7 and a standard deviation of $75. This implies that the R2 for a highly profitable campaign is on the order of 0.0000054.2 To successfully employ an observational method, we must be sure we have not omitted any control variables or misspecified the functional form to a degree that would generate an R2 on the order of 0.000002 or more, otherwise estimates will be severely biased. …
+Our results do not necessarily apply to small firms, brand new products or direct-response TV advertising. However, according to estimates from Kantar AdSpender (and other industry sources), large advertisers using standard ad formats, such as the ones we study, account for the vast majority of advertising expenditure. …
+The existence of vastly different advertising strategies by seemingly similar firms operating in the same market with similar margins is consistent with our prediction that very different beliefs on the efficacy of advertising are allowed to persist in the market.
+
+
+title: Why Do Firms Buy Ads?
+
+date: May 9, 2014 11:50 am
+

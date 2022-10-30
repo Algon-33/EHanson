@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Consider four possible acts:
+
+Eating Twinkies
+Watching Gilligan’s Island
+Fighting cancer
+Working for racial justice
+
+Now consider pairwise comparisons of value between these acts. You might say which you prefer, or which matters more, or is more important or admirable.
+It seems to me that we don’t mind ranking #1 vs #2. We might think the exercise silly, but we’d still be comfortable expressing an opinion. It also seems to me that we don’t mind puffing up our chest and intoning very seriously that either of #3,4 are more noble and admirable than either of #1,2, and looking sadly down on those who might say otherwise. But if asked to rank #3 vs #4, we are much less comfortable. In this case we could be seen as saying something against an act many find important and admirable. That isn’t the sort of thing we like to be quoted on. We don’t like to speak against the sacred.
+Because of this, we end up sharing less info about relative rankings among the acts we most admire. Which, alas, are the acts most valuable to rank. We learn what others think of the relative ranking of silly tv shows and minor foods, but not about our most important choices. Silly humans.
+I’m fond of this classic question pair: “What is the most important research question in your discipline?” followed by “Why aren’t you working on it?”
+
+
+title: Ranking The Sacred
+
+date: May 3, 2015 12:52 pm
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+I don’t post on medicine much lately, because my attention has been elsewhere. But this looks too important not to mention:
+In 1999, the Institute of Medicine published the famous “To Err Is Human” report, … reporting that up to 98,000 people a year die because of mistakes in hospitals. The number was initially disputed, but is now widely accepted by doctors and hospital officials — and quoted ubiquitously in the media. In 2010, the Office of Inspector General for Health and Human Services said that bad hospital care contributed to the deaths of 180,000 patients in Medicare alone in a given year.
+Now comes a study in the current issue of the Journal of Patient Safety that says the numbers may be much higher — between 210,000 and 440,000 patients each year who go to the hospital for care suffer some type of preventable harm that contributes to their death, the study says.
+That would make medical errors the third-leading cause of death in America, behind heart disease, which is the first, and cancer, which is second. …
+James based his estimates on the findings of four recent studies that identified preventable harm suffered by patients – known as “adverse events” in the medical vernacular – using use a screening method called the Global Trigger Tool, which guides reviewers through medical records, searching for signs of infection, injury or error. Medical records flagged during the initial screening are reviewed by a doctor, who determines the extent of the harm.
+In the four studies, which examined records of more than 4,200 patients hospitalized between 2002 and 2008, researchers found serious adverse events in as many as 21 percent of cases reviewed and rates of lethal adverse events as high as 1.4 percent of cases.
+By combining the findings and extrapolating across 34 million hospitalizations in 2007, James concluded that preventable errors contribute to the deaths of 210,000 hospital patients annually.
+That is the baseline. The actual number more than doubles, James reasoned, because the trigger tool doesn’t catch errors in which treatment should have been provided but wasn’t, because it’s known that medical records are missing some evidence of harm, and because diagnostic errors aren’t captured.
+An estimate of 440,000 deaths from care in hospitals “is roughly one-sixth of all deaths that occur in the United States each year.” (more; source)
+
+
+title: 1/6 of US Deaths From Hospital Errors
+
+date: September 27, 2013 1:30 pm
+

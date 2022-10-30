@@ -1,0 +1,44 @@
+author: Robin Hanson
+
+text: 
+The United States is perhaps unique among the developed world in that under law, some hate speech is protected. (more)
+The United States has a very complicated system of evidentiary rules; for example, John Wigmore’s celebrated treatise on it filled ten volumes. James Bradley Thayer reported in 1898 that even English lawyers were surprised by the complexity of American evidence law. (more)
+The main rules of evidence in Sweden are: (i) the principle of free evidence, meaning that there are basically no provisions on what is permitted as evidence as long as it is relevant to the facts to be proven in the case; and (ii) the principle of free evaluation of evidence, meaning that the court evaluates all evidence at its discretion. (more)
+On 2 December 1766 Sweden became the first country in the world to have freedom of the press written into the constitution. (more)
+Many in the US are proud that the US has weaker limits on speech than do most other nations, especially regarding political speech. However, most in US are not aware that the US also has some of the strongest “rules of evidence” limits on speech in legal courts. These US rules are new; we didn’t have them centuries ago.
+Yet the usual arguments used to argue for free political speech can also argue for free court speech, while the usual arguments supporting rules of evidence can also support similar limits on political speech. And the examples of other nations shows that there isn’t a strong world consensus that court limits make more sense than political speech limits. Sweden shows that one can allow free speech in both contexts, while many other nations show that one can also have strong limits in both contexts.
+Here are some common rules of evidence limiting trial speech. These are rough guides; the law is quite complex with simple summaries rarely applying exactly.
+
+A big clear separation is required between “news” and “editorials”, that is between supporting evidence (most of a trial) and arguments for conclusions (given in closing statements).
+All witnesses must swear oaths to tell the truth, and are guilty of a crime if they lie.
+Anyone may be required to testify, except the accused, spouses, docs, therapists, lawyers.
+One must apply any burdens of proof separately to each element, not just to overall evidence.
+
+All these kinds of evidence are not allowed:
+
+The opinion of a non-expert, unless it is reached unconsciously,
+Unauthenticated tangible evidence,
+Indirect circumstantial evidence,
+Data on similar prior convictions or behavior by the accused,
+Hearsay, i.e., what someone heard someone else say,
+Simple “naked” statistical evidence, based on relative counts rather than direct observations,
+Extrinsic evidence of the contents of a written contract,
+Evidence obtained via illegal acts, and
+Confessions obtained in an “unreliable” context.
+
+If we wanted, we could eliminate these court rules, and just let everyone say anything relevant that they want in court, as happens now in Sweden.
+Or, we might instead apply many of these rules to public political speech. For example, we could require evidence and argument to appear in separate places, we could ban opinions by non-experts, and ban arguments using hearsay or naked statistical evidence. We might even ban irrelevant distracting tangents.
+Such rules would require some discretion to enforce, but not much more than judges already use now to apply such rules in courts. Any disputes about excess or misdirected discretion would be judged by those very same legal judges who now make those judgments in courtrooms. And as with most law, minor offenses, which bring small sanctions, may be mostly ignored by both state police and by private suits.
+Even in the US, we already apply many limits to business speech. For example, alcohol firms can’t tell the public that most studies find health benefits from modest consumption, anti-discrimination laws limit the kinds of questions one can ask in a job interview, professional licensing limits who you can pay for advice, and some offers are banned by blackmail and wrongful interference with relations rules.
+The business world still roughly functions with these rules, as do political worlds in other nations that have strong limits on political speech. And courts could still roughly function without rules of evidence, as happens now in Sweden. These are clearly choices we could make, not clearly forced on us by survival or even wealth considerations.
+So what should we choose, more free speech at trials, less free political speech, or a continuation of our inconsistent approach? Here’s a Twitter poll on that:
+
+Compared to other nations, the US has fewer limits on political speech (PS), but more "rules of evidence" that limit court speech (CS). Which, if any, should be made more like the other, via changes in speech limits? https://t.co/HjLW0SyAKH
+— Robin Hanson (@robinhanson) October 25, 2019
+  
+
+
+title: Rules of Public Evidence?
+
+date: October 25, 2019 10:00 am
+

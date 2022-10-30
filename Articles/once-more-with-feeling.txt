@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Justin Wolfers:
+
+ Judging by the pre-vote polls and prediction markets, the Democratic primary in New Hampshire created one of the most surprising upsets in U.S. political history. 
+
+ Many take this to show prediction markets have failed. Paul Krugman:
+
+Prediction markets – which you see, again and again, touted as having some mystical power to aggregate information, know no more than the conventional wisdom. … There’s no hint that the market saw either Iowa or New Hampshire coming, or knew anything beyond the bloviations of the talking heads. 
+
+ Daniel Gross:
+
+ So, I’ve been watching the action in one of the political futures markets this evening, Intrade. And the action in this prediction market has reinforced my opinion that these are less futures markets than immediate-past markets.  The price movement tends to respond to conventional wisdom and polling data; it doesn’t lead them. 
+
+ Again we see the usual media formula: when prediction markets give a >50% chance to what happened, they are hailed as oracles, but when they give a <50% chance, they are unmasked as charlatans.  But this is just the wrong way to evaluate such things. Justin Wolfers: 
+
+Prices suggest a probabilistic statement that the ultimate outcome was about a 7% chance. And as any horseplayer can tell you, sometimes the long shots do win. 
+
+ We do not claim that prediction markets will always be more accurate that other methods.  Often other institutions do pretty much the best they can.  Rather, compared to other long-lived institutions which make frequently-updated probabilistic forecasts, we claim that well-traded prediction markets will in most situations rarely be much less accurate, and in some situations be much more accurate.  Often other institutions are seriously broken, and do much worse than is possible.    
+
+
+title: Once More, With Feeling
+
+date: January 9, 2008 11:45 am
+

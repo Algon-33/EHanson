@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+A working paper by Ilan Yaniv says we do listen to others, but we weigh our opinion 70% and someone else’s equally qualified opinion 30%:
+
+Suppose you are responsible for hiring someone to fill a job, and you initially had a strongly favorable opinion about a candidate but are told that a colleague of yours has a lukewarm opinion of the same candidate. … from your internal point of view, the two opinions are not on a par. Decision makers place more weight on beliefs for which they have more evidence. Because decision makers are privy to their own thoughts, but not to the reasons underlying an advisor’s opinion, they place a higher weight on their own opinion than on an advisor’s. Indeed, studies show that other things being equal, people discount others’ opinions and prefer their own, with the weights split roughly 70% on self and 30% on other; this balance changes when differences in ability or knowledge between self and other are made salient
+
+Is this self-preference a bias?  The main excuse I can see is that you might need to use your detailed reasons to make more detailed choices.  For example, you might prefer job candidates where you know the reasons they are good, because those reasons could help you match them to tasks.  Without such an excuse, you need a better than average reason to think that your reasons are better than the average reasons of others you don’t see.
+
+
+title: 70 For Me, 30 For You
+
+date: January 17, 2007 6:00 am
+

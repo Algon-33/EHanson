@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+   
+We often use Bayesian analysis to identify human biases, by looking for systematic deviations between what humans and Bayesians would believe.  Many, however, are reluctant to accept this Bayesian standard; they prefer to collect more specific criteria about what beliefs are reasonable or justified.    For example, Nicholas Shackel recently commented: 
+
+ It is no less reasonable, and perhaps more reasonable, to start from the premiss that people do reasonably disagree … and if Bayesianism conflicts with that, so much the worse for Bayesianism.
+
+ This choice of Bayesian vs. more specific epistemic judgments is an example of a common choice we face.  We often must choose between a strong “simple” framework with relatively few degrees of freedom, and a weak “complex” framework with many more degrees of freedom.  We see similar choices in law, between a few simple general laws and many complex context-dependent legal judgments.  
+ We also see similar choices in morality, such as between a simple Utilitarianism and more complex context-dependent moral rules, like that we should distribute basic medicine but not movies equitably with a nation.  In a paper on this moral choice, I used the following figure to make an analogy with Bayesian curve-fitting.
+  
+ 
+Imagine that one has a collection of data points, such as a sequence of temperatures driven in part by global warming.   In general one thinks of these points as determined both by some underlying trend one wants to understand, and some other distracting “noise” processes that obscures this underlying trend.     
+In choosing a curve to describe this underlying trend, one can pick either a complex line which gets close to most points, or a simple line which deviates further from the data.  The Bayesian analysis of curve-fitting says that whether the complex or simple line is better depends in part on how strong is the noise process.   When there is little noise a complex line will extract more useful details about the underlying trend.  But when noise is large, a complex line will mostly just fit the noise, and so will predict new data points badly.   
+ Returning to the subject of human biases, we have many context-specific intuitions about what beliefs seem reasonable in various contexts.   But we expect those intuitions to be clouded and polluted by error.  If we expect just a little error, our best judgment about epistemic criteria should stay close to those intuitions.   But if we expect a lot of error, we are better off choosing a simple general approach like Bayesian analysis, since the context-dependent details of our intuitions are most likely to reflect error.  
+ In curve-fitting, if one has enough data one can estimate the error rate by looking at how well some parts of the data can predict other parts.   We might do well to consider a similar exercise to calibrate the error rates in our intuitions about reasonable beliefs.   
+Today philosophy, literature, and parts of sociology tend to favor many context-dependent epistemic criteria, while statistics, economics, physics, and computer science tend to prefer simple standard closer-to-Bayesian criteria.  My knee also tends to jerk in this second direction.    
+
+
+title: When Error is High, Simplify
+
+date: December 18, 2006 6:00 am
+

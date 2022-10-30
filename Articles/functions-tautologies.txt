@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Bryan:
+Calling the mind a computer is just a metaphor – and using metaphors to infer literal truths about the world is a fallacy.
+Me:
+I’m saying that your mind is literally a signal processing system. … While minds have a great many features, a powerful theory, in fact our standard theory, to explain the mix of features we see associated with minds, is that minds fundamentally function to process signals, and that brains are the physical devices that achieve that function.
+Bryan:
+The “standard theories of minds as signal processors” that Robin refers to aren’t theories at all. They’re just eccentric tautologies. As Robin has frankly admittedly to me several times, he uses the term “signal processors” so broadly that everything whatsoever is a signal processor. On Robin’s terms, a rock is a signal processor. What “signals” do rocks “process”? By moving or not moving, rocks process signals about the mass and distance of other objects in the universe.
+Consider an analogy. Our theory of table legs is that they function mainly for structural support; table legs hold up tables. Yes, anything can be analyzed for the structural support it provides, and most objects can be arranged to as to provide some degree of structural support to something else. But that doesn’t make our theories of structural support tautologies. Our theories can tell us how efficient and effective any given arrangement of objects is at achieving this function. It we believe that something was designed to be a table leg, our theories of structural support make predictions about what sort of object arrangement it will be. And if our table is missing a leg, such theories recommend object arrangements to use as a substitute table leg.
+Similarly, while any object arrangement can be analyzed in terms of the signals it sends out and the ways that it transforms incoming signals into outgoing signals, all of these do not function equally well as signal processors. If we know that something was designed as a signal processor, and know something about the kinds of signals it was designed to process for what purposes, then our theories of signal processing make predictions about how this thing will be designed. And if we find ourselves missing a part of a signal processor, such theories tell us what sort of replacement part(s) can efficiently restore the signaling function.
+Animal brains evolved to direct animal actions. Fish, for example, swim toward prey and away from predators. So fish brains need to take in external signals about the locations of other fish, and process those signals into useful directions to give muscles about how to change the direction and intensity of swimming. This makes all sorts of predictions about how fish brains will be designed by evolution.
+Human brains evolved to achieve many more functions than to merely to direct our speed and direction of motion. But we understand many of those functions in quite some detail, and that understanding implies many predictions about how human brains are efficiently designed to simultaneously achieve these functions.
+This same combination of general signal processing theory and specific understandings about the functions evolution designed human brains to perform also implies predictions on how to substitute wholesale for human brain functions. For example, knowing that brain cells function mainly to take signals coming from other cells, transform them, and pass them on to other cells, implies predictions on what cell details one needs to emulate to replicate the signaling function of a human brain cell. It also makes predictions like:
+In order manage its intended input-output relation, a single processor simply must be designed to minimize the coupling between its designed input, output, and internal channels, and all of its other “extra” physical degrees of freedom. (more)
+All of which goes to show that signal processing theory is far from a tautology, even if every object can be seen as in some way processing signals.
+
+
+title: Functions /= Tautologies
+
+date: September 9, 2012 12:10 pm
+

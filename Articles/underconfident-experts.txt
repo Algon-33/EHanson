@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+In Myth of the Rational Voter, Bryan Caplan claims people are overconfident and otherwise irrational about their political beliefs:
+Voters are worse than ignorant; they are, in a word, irrational – and vote accordingly. …  emotion and ideology – not just the facts or their “processing” – powerfully sway human judgment. Protectionist thinking is hard to uproot because it feels good. When people vote under the influence of false beliefs that feel good, democracy persistently delivers bad policies. … irrationality, like ignorance, is selective. We habitually tune out unwanted information on subjects we don’t care about. In the same vein, I claim that we turn off our rational faculties on subjects where we don’t care about the truth.
+Bryan’s finds voters irrational by comparing them to experts, such as economists or toxologists, and to counter this irrationality he suggests that people use their discretion to push expert views (p. 199):
+
+Harry Truman famously longed for a “one-handed economist,” who would not say “on one hand, on the other hand.” … When economists choose between communicating (a) nothing, or (b) simplified but roughly accurate conclusions, they seem strangely to prefer (a).   When you have an entire semester with a group of students, they forget all but the main points.  If you fail to hammer a few fundamental principles into your students, odds are they will take away nothing at all.  …
+Professors can drastically change the content and style of their courses at low cost. … they should strive to channel the spirit of the original one-handed economist, Frederic Bastiat.  It makes no difference if “teacher of economics” is your official job description.  Everyone who knows some economics – professors, policy wonks, journalists, students, and concerned citizens – has opportunities to teach.  …
+At first many feel uncomfortable being a one-handed economist.  But anyone can do it.  Spend less time qualifying general principles.  Except at the best schools, introductory classes should be almost qualification free – there is too much nonsense to unlearn to waste time on rare conditions where the standard conclusions fail.  …
+Economists … usually say, “Competition works as long as …” and then list the many strong assumptions of perfect competition.  … It is more important for students to understand that self-interest often encourages socially beneficial behavior than to understand that this mechanism falls short of perfection.  … Yes, these techniques can be used to inculcate fallacies as well as insight.  But there is no intrinsic conflict with truth.  You can actually get students excited about thinking for themselves on topics where society disapproves …
+When the media spotlight gives other experts a few seconds to speak their mind, they usually strive to forcefully communicate one or two simplified conclusions. … But economists are reluctant to use this strategy.  Though the forum demands it, they think it unseemly to express a definite judgment.  This is a recipe for being utterly ignored.  If you are one voice in a sea of self-promotion, you had better speak up clearly when you finally get your chance to talk. … professional humility is dangerous … there are two kinds of errors.  Hubris is one; self-abasement is the other.
+(I gotta say, all this “excess” honesty makes me proud to be an economist.)
+Bryan apparently suggests that anyone who thinks they know how expert opinion differs from average opinion should, unless they are speaking to rare elites, forcefully push a unqualified version of that expert opinion.  “If you’ve ever taken a course in subject X, confidently declare oversimplified claims about X.”
+But since most everyone can find excuses to consider their opinions relatively expert, this seems a recipe for making most everyone more overconfidence.  This hardly seems like getting people to “think for themselves,” and should we really encourage everyone to drop any pretense to reasonable open-minded discussion?
+If we rank people on their socially-observable expertise on a topic, perhaps Bryan is right, and there is some critical expertise level above which people are underconfident when speaking to people below some other critical expertise level.  If so, how could we tell, what are these two critical levels, and does this apply to most experts, or mainly just to economics?
+
+
+title: Underconfident Experts?
+
+date: May 17, 2007 6:00 am
+

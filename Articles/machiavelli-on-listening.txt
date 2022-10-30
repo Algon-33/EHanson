@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+In 1505, Machiavelli advised leaders to let a few trusted advisors tell them the truth when answering specific questions in private, but to never let anyone advise them in public, especially at those people’s own initiative:
+There is no other way of guarding oneself from flatterers except letting men understand that to tell you the truth does not offend you; but when every one may tell you the truth, respect for you abates.
+Therefore a wise prince ought to hold a third course by choosing the wise men in his state, and giving to them only the liberty of speaking the truth to him, and then only of those things of which he inquires, and of none others; but he ought to question them upon everything, and listen to their opinions, and afterwards form his own conclusions. With these councillors, separately and collectively, he ought to carry himself in such a way that each of them should know that, the more freely he shall speak, the more he shall be preferred; outside of these, he should listen to no one, pursue the thing resolved on, and be steadfast in his resolutions. He who does otherwise is either overthrown by flatterers, or is so often changed by varying opinions that he falls into contempt. (more)
+Machiavelli was very smart and insightful on such subjects. So I’m reluctant to disagree with him. But his advice seems to tell leaders never to listen to prediction markets, and I’m not quite ready to give up on that idea yet. So what I want now is to better understand Machiavelli’s advice: why exactly should leaders not let themselves be seen as listening to public advice others initiate?
+Some possible theories:
+
+Advice givers are higher status that advice receivers, and leaders must seek maximal status.
+There are standard embarrassing truths and audiences take one’s ability to keep people from voicing them as a costly signal of dominance.
+If people can influence you by telling you things, they will spend too much effort trying to do so, at the expense of other useful activities.
+What else?
+
+
+
+title: Machiavelli On Listening
+
+date: January 18, 2013 8:45 pm
+

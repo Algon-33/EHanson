@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Responding to Will’s comments, I wrote:
+Will Wilkinson seems to me a bit too quick here to assume the activities he likes are less deserving of taxes. …  If we are to tax positional or unhappy activities, then let’s do that consistently, following our best data on positionality or happiness.
+Will replied:
+First, I think Robin may have missed one of my key points, which is that “negative externality” is not a synonym for “harm” in the relevant sense of the word. It begs the question to just go ahead and talk about various harms as if I had not just argued that they don’t all count as harms just because someone is bothered by each of them. …
+There is no clear theoretical basis for selecting a single, clear theoretical basis for determining what does and does not count as a harm. Indeed, no one is rationally bound to accept the normative assumptions underlying the case for economic competition–the clear theoretical basis for “harm” Robin is willing to accept. …
+Moral diversity and disagreement are ineradicable. … I think Robin complains that I share Miller’s and Frank’s reliance on intuitions about things we happen to dislike because I’m arguing with them from within what I see to be their prior liberal moral commitments, which I share. We’re all liberals, which means we dislike many of the same things.
+Will is such a pleasure to converse with that I didn’t notice how differently we use words.  Like most economists, I do count anything that bothers anyone as a “harm,” and anything that benefits anyone as a good.  (The same act can be both.)  To decide which acts should be taxed or subsidized, I use the usual economists’ efficiency criteria to rank policies.  Call me morally naive, but this seems a good guide to me.
+Given these choices it becomes a matter of fact whether taxing any given activity increases or decreases efficiency, and disagreement should be eradicable.  In the absence of substantial market failures it is clear that ordinary competition is favored.  What I meant when asking for “a clear principle we are willing to apply consistently” is a way to see through the mass of detail to discern the efficient policies in the other subtler cases.
+I get that you can offer quicker stronger arguments to your fellow liberals by referring to your shared assumptions with them.  But I seek more widely acceptable arguments.
+
+
+title: Reply to Wilkinson
+
+date: May 27, 2009 10:00 pm
+

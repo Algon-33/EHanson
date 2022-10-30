@@ -1,0 +1,22 @@
+author: Robin Hanson
+
+text: 
+Me in January on Too Much Consulting?:
+Last night I discussed the popularity of law, finance, and management consulting with Tyler and many somewhat-libertarian-leaning others. I was surprised that most were skeptical that firms get their money’s worth from consulting, more skeptical than for law or finance. I was also surprised that most focused on explaining why kids from elite schools work at such firms, rather than on why firms pay so much for this consulting.
+My explanation:
+The CEO often understands what needs to be done, but does not have the resources to fight this blocking coalition. But if a prestigious outside consulting firm weighs in, that can turn the status tide.
+Freakonomics Radio interviewed me about it a bit later, and they’ve just put up a podcast they say was “inspired in part” by my post. In addition to me, they talk to Keith Yost, a former consultant:
+Fellow consultants and associates … [said] fifty percent of the job is nodding your head at whatever’s being said, thirty percent of it is just sort of looking good, and the other twenty percent is raising an objection but then if you meet resistance, then dropping it.
+and Christopher McKenna, Oxford business historian:
+They divide the roles into two parts. The first part is the one that we tend to understand the best and the one that we tend to think of in the most positive terms, and that is that they bring advice to a firm that doesn’t otherwise have it. … The second thing that they provide is legitimacy, and that’s the one that seems a little bit strange. So you’ve made a decision or you think you might know what you’d like to do about entering those markets or making a new product. And instead of just going ahead and doing it, you hire the consultants to confirm what you already thought. And those consultants come in and they say yes you’re right, or even imagine you’re having a political fight within the firm and both sides hire consultants and in effect they both produce reports, and somebody wins that fight with the help of that extra amount of knowledge from outside.
+and Nick Bloom, Stanford economist:
+So there are really two types of consulting. There’s operational consulting, you know, down on the factory floor, in the shop type improvements. That’s probably ninety-five percent of the industry. Most of it is done by firms you’ve never heard of. And those guys are very much like seasoned, gnarly, ex-manufacturing managers that have spent twenty years working in Ford and are real experts, and are now getting paid as consultants to hand out advice. That stuff typically has pretty big impact because you’re paying someone to give them long-earned advice. And then there’s the very small elite end, strategy consulting, about five percent. And that’s much more helping CEOs make big decisions.
+Bloom did a randomized trial in India of the first type of consulting, and found that it gave great value. But on the other type, which is what I think Yost, McKenna, I, and my dinner companions were discussing, the only positive evidence the show offers is cohost Steve Levitt saying that as a consultant he sure felt he added value:
+My own experience has been that even though I know nothing about an industry, if you give me a week, and you get a bunch of really smart people to explain the industry to me, and to tell me what they do, a lot of times what I’ve learned in economics, what I’ve learned in other places can actually be really helpful in changing the way that they see the world.
+And how can you argue with data like that?
+
+
+title: Freakonomics On Consulting
+
+date: November 26, 2012 3:50 pm
+

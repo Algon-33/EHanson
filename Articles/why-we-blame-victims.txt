@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+A “hazard” model is common statistical model used to explain rare events. In such a model, the chance of a certain kind of event happening (e.g. death) goes as the product of rate contributions from various factors. (E.g., a factor each for age, gender, income, smoking, etc.) Each value of each factor then contributes a “hazard ratio”, a factor by which that value increases or decreases the event chance, relative to some standard value.
+Let us postulate that most of us use a related product model to predict “crimes”, i.e., bad events that we blame on particular people:
+B = C*E*V*N*R.
+Here B is the how bad was an event, C is a factor contributed by a “criminal”, E is a factor contributed by other “enabler” people, V the factor contributed by the victim, N a factor contributed by nature, and R a randomness factor required to complete the model.
+For example, the chance of a bad automobile accident may depend on how often and fast a reckless driver drives, and also on how often a victim driver drives. Nature adds to the chances with road conditions and bad weather, and in addition we need a big randomness factor to explain any given accident. After all, most reckless driving never results in a bad accident.
+Each of these factors can be used to “blame” or “explain” the crime in two different ways. First, the person behind a factor might be blamed for setting their factor to a stably high level. Someone who consistently drives recklessly can be blamed for resulting auto accidents. Second, if these factor values vary from case to case, we might try to explain variations in B in terms of variations in these factors. In this sense we may explain accidents more in terms of the factors that vary the most.
+If we accepted this general functional form above, we might tend to see most crimes as accidental, mainly the result of enablers, nature and randomness, with only a minor contribution from the “criminal”, and a similar contribution from the “victim”. Then we might not feel very inclined to punish the criminal. “These things happen”, we might say.
+Thus to better motivate punishment, and to make our story easier to tell and remember, we might try to simplify it. We have to keep the victim in the story, else there’s no reason to punish. But we could drop or deemphasize the enabler, nature, and randomness terms, leaving
+B = C*V.
+Furthermore, we could postulate that C is consistently set to a high level. After all, if the criminal just occasionally fell into a foul destructive “mood”, we might see this as “temporary insanity”, worthy of only mild punishment. And we might look around them for what other context might have pushed them into such a mood, and blame that context.
+So instead we postulate that this criminal consistently tries to do things that hurt others. And with that story, we can feel more free to blame and punish them. They are B-B-B-B-Bad, Bad to the bone, and need to be taught a lesson to set their C parameter consistently low instead of high.
+The problem here is, we all still know that high values of B are rare things. Most of the time, nothing goes wrong. Murders and rapes are rare, after all. So there must be a lot of variation in B across cases. But if C doesn’t vary much to contribute to B variation, the only thing have left now within our simplified model to explain B variation is variation in V; victims must be varying across cases in how much they contribute to bad things happening.
+And thus we can end up naturally “blaming the victim”. To help us justify our punishing “criminals”, we de-emphasize the contributions of enablers, nature, and randomness, and we suppress variation in criminal contributions. Which leaves victim variations as our only way to explain why bad things happen only rarely. It must be, we conclude, that in the rare cases where bad things happened, the victim did something substantially different to cause that. The rape victim dressed provocatively, the murder victim was insolent, or the cancellation victim talked on an sensitive subject while lacking proper progressive credentials.
+Note that I’m not saying that victims do not often actually contribute a lot with substantial variations in their V factor. I’m instead suggesting that our simplification strategy to help us blame criminals backs us into a corner wherein consistency forces us to expect large V variations. Even when when such variations are not actually there.
+
+
+title: Why We Blame Victims
+
+date: July 16, 2022 10:19 am
+

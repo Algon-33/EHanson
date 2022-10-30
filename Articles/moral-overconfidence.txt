@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+A Washington Post article from from last Saturday says:
+
+In the 2006 survey of more than 36,000 high school students, 60 percent said they cheated on a test, 82 percent said they lied to their parents about something significant and 28 percent said they stole something from a store. … 92 percent said they were "satisfied with my own ethics and character." About 74 percent said that "when it comes to doing right, I am better than most people I know." … the percentage of students who lie, cheat or steal could be higher than the survey found.   When asked, 27 percent of the students admitted that they lied on at least one survey question. 
+
+It is hard to see how 3/4 of people could be better than most people they know about anything; moral overconfidence is a far more plausible explanation.
+On a similar topic, a clever set of experiments, described in "Exploiting Moral Wiggle Room" (and discussed at Marginal Revolution) shows that people act to appear fair, but are less fair when given even feeble excuses for their unfair behavior.  
+Are you willing to admit that you are about as moral as most people you know?  I am.  
+
+
+title: Moral Overconfidence
+
+date: November 25, 2006 6:00 am
+

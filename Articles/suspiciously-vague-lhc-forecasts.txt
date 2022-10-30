@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Me in ’06: 
+
+ You can get 80% of the improvement that prediction markets offer by using a much simpler solution: collect track records.  … When people make forecast-like-statements, write them down in a clear standardized form, and then check back later to see who was more accurate.
+
+ I’m at scifoo (Nature/O’Reilly/Google Science Foo Camp) and yesterday heard a talk about the Large Hadron Collider that will go live in a few weeks – and had a disturbing thought.  Odds are very good that within the next few years we will see news articles where bigshot physicists say a new LHC result vindicates a theory they’ve been pushing.  But today there are no public predictions by high-profile physicists stated precisely enough to be clearly scored for accuracy!  While weather, business, and sport forecasters commonly make scoreable probability forecasts, here are the sorts of forecasts bigshot physicists make:
+  
+
+Randall: An answer to the question of the weakness of gravity … should be revealed.Lederman: Will surely help us to understand  … the accelerated expansion of the universe. Vilenkin: [If] supersymmetry was responsible for the apparent fine-tunings in particle physics … then signatures of supersymmetry are very likely to show up at LHC. Rees: I’m hoping that it will clarify the nature of the particles that constitute the "dark matter."Witten: A process of "symmetry breaking" [between electromagnetic and weak interactions] … whereby nature spontaneously picks one force over another – even though fundamentally they are equivalent. The LHC will tell us whether this notion is correct, and if so, how it works. Susskind: I see only two possible outcomes of the LHC project – either there will be low energy supersymmetry, or there won’t. If there isn’t, I would expect that the minimal Standard Model will prevail. In either case, the Higgs particle … will be shown to exist.Schwarz: Indications of extra dimensions, black holes, strings, magnetic monopoles, etc.  … I am pessimistic about the prospects for finding them in the LHC’s energy range.Kane: The LHC data could test supersymmetry, establish string theory .
+
+ Sean Carroll at least attaches probabilities: 
+
+ The Higgs Boson: 95%.  … Supersymmetry: 60%. …  Large Extra Dimensions: 1%. … Warped Extra Dimensions: 10%. … Evidence for or against String Theory: 0.5%. … Dark Matter: 15%. … Dark Energy: 0.1%. … Strong Dynamics: 5%. … New Massive Gauge Bosons: 2%. … New Quarks or Leptons: 2%. … Preons: 1%. … Mysterious Missing Energy: 15%. … Baryon-Number Violation: 0.2%. … Magnetic Monopoles, Strangelets, Q-Balls, Solitons: 1%. … Unparticles: 0.5%. … Something that Has Never Been Predicted: 50%. … Something that Has Been Predicted, but Not Listed Above: 2%. … Absolutely Nothing: 3% 
+
+What the LHC will more directly find are particles with particular properties, such as charge, spin, mass, lifetime, and source and sink particle decay rates.  Translating such particle property packages to the labels above (e.g. "supersymmetry") will take some interpretation, allowing lingering and perhaps unsettleable disputes about which predictions were vindicated.  So why don’t bigshot physicists make clear scoreable forecasts, i.e., about probabilities of particle property packages?
+ 
+
+title: Suspiciously Vague LHC Forecasts
+
+date: August 10, 2008 12:30 pm
+

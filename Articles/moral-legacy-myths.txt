@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Imagine that you decide that this week you’ll go to a different doctor from your usual one. Or that you’ll get a haircut from a different hairdresser. Ask yourself: by how much do you expect such actions to influence the distant future of all our descendants? Probably not much. As I argued recently, we should expect most random actions to have very little long term influence.
+Now imagine that you visibly take a stand on a big moral question involving a recognizable large group. Like arguing against race-based slavery. Or defending the Muslim concept of marriage. Or refusing to eat animals. Imagine yourself taking a personal action to demonstrate your commitment to this moral stand. Now ask yourself: by how much do you expect these actions to influence distant descendants?
+I’d guess that even if you think such moral actions will have only a small fractional influence on the future world, you expect them to have a much larger long term influence than doctor or haircut actions. Furthermore, I’d guess that you are much more willing to credit the big-group moral actions of folks centuries ago for influencing our world today, than you are willing to credit people who made different choices of doctors or hairdressers centuries ago.
+But is this correct? When I put my social-science thinking cap on, I can’t find good reasons to expect big-group moral actions to have much stronger long term influence. For example, you might posit that moral opinions are more stable than other opinions and hence last longer. But more stable things should be harder to change by any one action, leaving the average influence about the same.
+I can, however, think of a good reason to expect people to expect this difference: near-far (a.k.a construal level) theory. Acts based on basic principles seem more far than acts based on practical considerations. Acts identified with big groups seem more far than acts identified with small groups. And longer-term influence is also more strongly associated with a far view.
+So I tentatively lean toward concluding that this expectation of long term influence from big-group moral actions is mostly wishful thinking. Today’s distribution of moral actions and the relations between large groups mostly result from a complex equilibrium of people today, where random disturbances away from that equilibrium are usually quickly washed away. Yes, sometimes they’ll be tipping points, but those should be rare, as usual, and each of us can only expect to have a small fraction influence on such things.
+
+
+title: Moral Legacy Myths
+
+date: March 2, 2014 2:00 pm
+

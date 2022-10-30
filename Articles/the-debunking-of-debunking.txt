@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+In a new paper in Journal of Social Philosophy, Nicholas Smyth offers a “moral critique” of “psychological debunking”, by which he means “a speech‐act which expresses the proposition that a person’s beliefs, intentions, or utterances are caused by hidden and suspect psychological forces.” Here is his summary:
+There are several reasons to worry about psychological debunking, which can easily counterbalance any positive reasons that may exist in its favor:
+1. It is normally a form of humiliation, and we have a presumptive duty to avoid humiliating others.
+2. It is all too easy to offer such stories without acquiring sufficient evidence for their truth,
+3. We may aim at no worthy social or individual goals,
+4. The speech‐act itself may be a highly inefficient means for achieving worthy goals, and
+5. We may unwittingly produce bad consequences which strongly outweigh any good we do achieve, or which actually undermine our good aims entirely.
+These problems … are mutually reinforcing. For example, debunking stories would not augment social tensions so rapidly if debunkers were more likely to provide real evidence for their causal hypotheses. Moreover, if we weren’t so caught up in social warfare, we’d be much less likely to ignore the need for evidence, or to ignore the need to make sure that the values which drive us are both worthy and achievable.
+That is, people may actually have hidden motives, these might in fact explain their beliefs, and critics and audiences may have good reasons to consider that possibility. Even so, Smyth says that it is immoral to humiliate people without sufficient reason, and we in fact do tend to humiliate people for insufficient reasons when we explain their beliefs via hidden motives. Furthermore, we tend to lower our usual epistemic standards to do so.
+This sure sounds to me like Smyth is offering a psychological debunking of psychological debunking! That is, his main argument against such debunking is via his explaining this common pattern, that we explain others’ beliefs in terms of hidden motives, by pointing to the hidden motives that people might have to offer such explanations.
+Now Smyth explicitly says that he doesn’t mind general psychological debunking, only that offered against particular people:
+I won’t criticize high‐level philosophical debunking arguments, because they are distinctly impersonal: they do not attribute bad or distasteful motives to particular persons, and they tend to be directed at philosophical positions. By contrast, the sort of psychological debunking I take issue with here is targeted at a particular person or persons.
+So presumably Smyth doesn’t have an issue with our book The Elephant in the Brain: Hidden Motives in Everyday Life, as it also stays at the general level and does’t criticize particular people. And so he also thinks his debunking is okay, because it is general.
+However, I don’t see how staying with generalities saves Smyth from his own arguments. Even if general psychological debunking humiliates large groups all at once, instead of individuals one at a time, it is still humiliation. Which he still might do yet should avoid because of his inadequate reasons, lowering of epistemic standards, there being better ways to achieve his goals, and it unwittingly producing bad consequences. Formally his arguments work just as well against general as against specific debunking.
+I’d say that if you have a general policy of not appearing to pick fights, then you should try to avoid arguing by blaming your opponents’ motives if you can find other arguments sufficient to make your case. But that’s just an application of the policy of not visibly picking fights when you can avoid them. And many people clearly seem to be quite willing and eager to pick fights, and so don’t accept this general policy of avoiding fights.
+If your policy were just to speak the most relevant truth at each point, to most inform rational audience members at that moment on a particular topic, then you probably should humiliate many people, because in fact hidden motives are quite common and relevant to many debates. But this speak-the-most-truth policy tends to lose you friends and associates over the longer run, which is why it is usually not such a great strategy.
+
+
+title: The Debunking of Debunking
+
+date: May 3, 2021 2:25 pm
+

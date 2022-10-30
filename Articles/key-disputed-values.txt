@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Some like to paint world history as an epic conflict between deeply divergent visions of civilization, which come down to disputes over a few key values.  But if so, just what are those key disputed values?  For many decades, our best data on this key value variation has been the World Value Survey:
+The WVS grew out of its eurocentric origins to embrace 42 countries in the 2nd wave, 54 in the 3rd wave and 62 in the 4th wave. … The questionnaires from the most recent waves have consisted of about 250 questions, … with an average in the 4th wave of about 1330 interviews per country and a worldwide total of about 92000 interviews. …
+A number of variables were condensed [by factor analysis] into two dimensions of cultural variation (known as “traditional v. secular-rational” and “survival v. self-expression”), and on this basis the world’s countries could be mapped into specific cultural regions. The WVS claims: “These two dimensions explain more than 70 percent of the cross-national variance in a factor analysis of ten indicators”.
+Here is a map of the world using those two main value factors:
+
+Note that similar nations are grouped together, with rich nations to the upper right and poor nations to the lower left.  Note also that the main antagonists of the most recent global conflict, the Cold War, are nearly at opposite sides; Russia and its allies are to the upper left while USA and its allies are to the lower right.  Clearly this 2D space represents key value disputes.  But what values exactly?
+Here are the projections of some particular value answers into this same 2D factor space:
+
+WVS leaders’ views on the key value disputes are found in their diagram labels: “survival vs. well-being” and “traditional vs. rational-legal.”  But we need not accept their labels
+
+title: Key Disputed Values
+
+date: November 17, 2009 12:20 am
+

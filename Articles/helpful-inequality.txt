@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+We find significant and sizeable negative peer effects arising from students at the very bottom of the ability distribution, but little evidence that the average peer quality and the very top peers significantly affect pupils’ academic achievements.
+More here.  Thus we’d probably do better to isolate the worst kids in their own school or work hell; they’d be worse off but the gains to other students would more than compensate.  At the other end of the status spectrum, the number of new businesses we get seems limited by the number of folks personally wealthy enough to start new businesses.  So having more really rich folks benefits everyone via innovation.  Details here:
+Since richer entrepreneurs make larger investments and expect to have more wealth in the future, it is the relatively poor entrepreneurs who decide to take more risk and would be more likely to exit from business in the future. As a result, the model predicts that survival of entrepreneurial business is positively related to entrepreneurial assets, which is consistent with empirical findings. … Since agents enter entrepreneurship with relatively low wealth levels, our model also implies that young businesses exhibit lower survival rates, and, conditional on survival, small (younger) firms grow faster than larger (older) ones. All these implications are in line with strong empirical evidence from the literature on firm dynamics.
+I’m not saying these are the only issues for how much inequality we want, but they seem to me neglected issues.
+
+
+title: Helpful Inequality
+
+date: January 10, 2010 11:00 am
+

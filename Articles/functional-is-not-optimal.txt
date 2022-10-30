@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+If you look at what a random animal is doing at a random time, you will usually find a complex behavior, with many correlated parts.  Similarly if you look at a random physical part of an animal, you will find a complex structure, with many correlated parts.  The best way to make sense of such structures is usually to look for the functions they might perform, i.e., the way that they might contribute to survival and reproduction, now or in the past, of the animal or its parasites.  Sure, some structures are "spandrel" side effects of other functional structures, but (at the aggregate level) most are not.  
+ This, however, does not at all imply that most such structures are anything close to optimal, giving the best possible outcomes.  Consider that when we transplant plants or animals to a new continent, they often handily out-compete existing species.  This could not happen if the existing species were close to optimal.  Often their structures worked in the past, but have not adapted enough to changing context.  
+ It is similar for most human organizations.  A good way to understand what a random organization is doing at a random time, or to understand a random part of its physical or communication structure, is to ask how such structures once functioned to help the organization or its parasites to survive or grow.  But this hardly means that every organization is optimal; many are clearly dinosaurs losing to new rivals.  
+ A lot of human behavior does not immediately make sense in terms of survival and reproduction.  We sing, dance, joke, worship, collect, chatter, decorate, party, dribble, travel, argue, blog, and much more.  With a little thought, we can come up with functional explanations, such as signaling theories, for most of this behavior.  Many people, however, reject such explanations, saying functional explanations would imply human behavior is optimal, which it is clearly not.  Thus, they argue, odd human behavior must instead be due to random mistakes, spandrels, or our changing environment.  
+ This "head in sand" attitude is so contrary to what we know about animals and organizations that I have to conclude that not only is it seriously wrong, but that humans seem built to self-deceive about the functions of their behavior.  While our behavior may be far from optimal, there is surely a detailed correspondence between our behavior and the functions they perform.  But we prefer to be innocently unaware of the signals our behavior functions to send and receive. 
+ From a lunch conversation with Mike Makowsky, Bryan Caplan, and Alex Tabarrok.  
+
+
+title: Functional Is Not Optimal
+
+date: June 19, 2007 6:00 am
+

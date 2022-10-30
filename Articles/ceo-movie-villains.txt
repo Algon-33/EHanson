@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Alex:
+In the movies, capitalists are almost invariably cast as villains. … Is an environment being despoiled? Look no further than the CEO of some large corporation. … The most grotesque character in the “Star Wars” films represents commerce, Jabba the Hutt, a literal business worm. …
+Hollywood’s anti-capitalism … stems from three sources: the rage of directors and screenwriters against their own capitalist backers, the difficulty of using a visual medium to depict the invisible hand, and an ethical framework which Hollywood shares with most of our culture that regards self-interest as inherently immoral or, at best, amoral. …
+Directors and screenwriters see the [movie-investing] capitalist as a constraint, a force that prevents them from fulfilling their vision. … Hollywood … share[s] Marx’s … idea that under capitalism workers are separated from the product of their work and made to feel like cogs in a machine. …
+A second … reason, … movies focus on individual character, choice and action because that’s where the drama lies. … To really understand capitalism we must transcend the level of character to see the hidden forces that coordinate the actions of millions of individuals across the world. …
+[Third,] Hollywood wants its heroes to be virtuous, but it defines virtue in a way that excludes any action that is self-interested. If virtue means putting others ahead of self, then it’s clear that most people, let alone most capitalists, aren’t very virtuous. …
+Like many works of literature, Hollywood chooses for its villains people who strive for social dominance through the pursuit of wealth, prestige, and power. But the ordinary business of capitalism is much more egalitarian: It’s about finding meaning and enjoyment in work and production.
+Yes, all stories focus on visible direct effects, and neglect obscured indirect effects. And humans have long affirmed their anti-domination norms by sharing stories about selfish would-be-dominators who get their comeuppance. But our society contains many powerful folks who can visibly threaten via domination; why don’t more stories make them villians? For example, instead of a greedy CEO polluting the protagonist’s water, why not:
+
+Power-mad police lies under oath to convict not-deferential-enough protagonist.
+Celebrity musician seduces protagonist’s sister, dumps when bored, breaks her heart.
+Clueless cover-his-butt bureaucrat denies reasonable home-extension building permit.
+Brutal sergeant, seeking promotion, pushes his soldiers to needless deaths.
+Professor fails protagonist student because of political disagreement.
+
+One possible explanation is that most folk see selfishness as usual for CEOs, but unusual for police, musicians, bureaucrats, sergeants, and professors.  If so, this seems a sad and curious misunderstanding; the truth is, as Alex says, “most people … aren’t very virtuous.”
+
+
+title: CEO Movie Villains
+
+date: June 4, 2010 3:15 pm
+

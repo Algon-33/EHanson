@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+We each owe some degree of consideration to our close associates, and to larger groups with which we associate. But what do we owe the larger world and universe?
+Some of us think we should each put in some effort to improve that universe. Not just that this would be nice, but that we are morally obligated to do so. But how should we think about this obligation?
+We could try to collect a long list of specific things different people should do for the world, and how those things vary with context. But is there a simpler more general way to describe these obligations?
+We can think of ourself as made up of many smaller selves, at each moment in time, and in each possible world. And then standard expected utility theory says that we maximize a weighted sum across these many sub-selves. So a natural way to include the rest of the universe is to expand this weighted sum to include every other creature, and their many component selves.
+The relative weight we put on others might vary with their distance in spacetime, and with their similarity to us. But a general problem with this approach is that in many scenarios we will either want to do near nothing or near everything. If we consider some large group of others, then as we increase the weight we put on members of that group, at first we will want to do very little for them, and then as the weight passes a key threshold we suddenly switch to wanting to put most all of our efforts into helping them. The weight must be finely tuned to induce intermediate efforts.
+If intermediate levels of help sound more reasonable, one way to get that is to talk in terms of a budget: we might each have an obligation to spend at least some fixed fraction of our resources helping the world. Resources such as money, time, reputation, etc. The simplest version of this would require the same fraction for everyone, though more complex versions could make this vary with context.
+Bryan Caplan’s new book is titled How Evil Are Politicians?, based on this essay wherein he seems to embrace something like a budget obligation story, except with politicians having much larger budget obligations:
+If you’re in a position to pass or enforce laws, lives and freedom are in your hands. Common decency requires … politicians to make … intellectual hygiene their top priority. Until they calmly recuse themselves from their society and energetically weigh a wide range of moral arguments, they have no business lifting a political finger. At this point, the iniquity of practicing politicians should be clear. How much time and mental energy does the average politician pour into moral due diligence? A few hours a year seems like a high estimate. They don’t just fall a tad short of their moral obligations. They’re too busy passing laws and giving orders to face the possibility that they’re wielding power illegitimately.
+To check on all this, I did a series of Twitter polls asking what fraction of their resources different kinds of people are obligated to spend trying to help the world. Here are the resulting (median of lognormal-fit) % estimates:
+
+The basic % of budget moral framing seems confirmed by many answering these questions and few complaining about the framing. Furthermore, respondents do seem to think this budget varies with type of person, and agree with Caplan that politicians have much higher obligations.
+However, respondents had enormously divergent opinions on what is that obligation budget % (median standard dev. is a factor of ~18), and even the middle estimates in the chart above seem to me to vary way too much across types of people. It seems to me unfair to demand far more efforts by others than you are willing to make. And it seems disrespectful to demand far less from other kinds of people, as if you don’t see them as sufficiently human to hold them to moral standards.
+This looks to me more like a status story, wherein we try to hold higher status people to higher moral standards, as some sort of “progressive taxation” of status. And while progressive taxation might make sense for governments, having moral obligations vary this strongly with status just doesn’t make much sense of my moral intuitions. We should all try to help others, at least to some similarly modest degree.
+Added 10a: The prior numbers in the table were wrong due to a math mistake, now fixed.
+
+
+title: What Do We Owe The World?
+
+date: May 4, 2022 9:00 pm
+

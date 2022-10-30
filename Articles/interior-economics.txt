@@ -1,0 +1,34 @@
+author: Robin Hanson
+
+text: 
+Imagine you asked what fraction of whipped cream should be air, and someone responded "it is impossible to have whipped cream without air."  Or imagine you asked how much discretion judges should have, relative to following clear legal rules, and someone responded "it is impossible to eliminate all discretion from legal decisions."  You’d think they were avoiding the question.  Similarly, I asked:
+
+For good policy advice, what is the best weight to place on economic theory, versus (individual or cultural) intuitive judgment? 
+
+And offered a tentative answer:
+
+ My guess is over 75% weight, so I try to mostly just straightforwardly apply economic theory, adding little personal or cultural judgment. 
+
+ Tyler Cowen "answers":
+
+There is no such thing as "straightforwardly applying economic theory." … Theories are always applied and interpreted through our personal and cultural filters and there is no other way it can be.  Robin believes in an Archimedean point for using theory, I do not. … Robin’s post is the clearest example I have seen of what I call Robin’s logical atomism. 
+
+  
+ Free Exchange chimes in: 
+
+There is no simple fact of the matter about the content of "economic theory". There are many bodies of theory that give conflicting answers to the same questions. … While I greatly admire Mr Hanson’s ambitions to overcome bias, sometimes his approach reminds me of tying one’s hands to the bedframe to avoid self-molestation. 
+
+Commenters at Marginal Revolution pile on:  
+
+ I wonder why some people are so determined to keep trying to conduct life as though the point-of-view conundrum can be willed away. … People have used "logic" and "rationality" to "prove" all sorts of things throughout history. … There is no such thing as presuppositionless exegesis. … 
+
+Geez. One should be able to ask where one wants to sit on a spectrum without being accused of saying the extremes are feasible or desirable.  Yes of course economic theory isn’t an autonomous computer program, able to answer any policy question posed.  And yes there can be other legitimate influences on policy.  
+ Nevertheless, the process of becoming an economist, including studying economics models, does influence our policy opinions.  So we can reasonably ask how strong we want that influence to be.  We can ask how much subjective weight on average we want to give to what we perceive to be "economic theory" versus other internal influences.  Or we can ask what fraction of our policy opinion variance we want to be explained by exposure to common economic theory (including frameworks, default assumptions, and standard data sources).  
+ But instead of engaging such hard questions, Tyler prefers to accuse me of thinking I see things from some perfect vantage-point, or that I know the "atoms" of thought. 
+Added:  Tyler responds in the comments, and I reply.
+
+
+title: Interior Economics
+
+date: December 20, 2007 1:14 pm
+

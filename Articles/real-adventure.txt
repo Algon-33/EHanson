@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+I’ve been sick, so watched tv more than usual. Watching Journey to the Center of the Earth, I noticed yet again how folks seem to like adventure stories and games to come with guides.  People prefer main characters to follow a trail of clues via a map or book written by someone who has passed before, or at least to follow the advice of a wise old person.
+Note that in most other ways, such stories go out of their way to describe grand glorious adventures, i.e.,with a great deal at stake, in very strange and different settings, and facing great obstacles.  But wouldn’t it be even more glorious and heroic to achieve such ends against such obstacles without a guide?  Why go to such extremes to tell an extreme story, just to rein it in by telling only about folks who achieve via guides, instead of folks who achieve without guides?  Why isn’t the story of how someone came to know enough to guide more dramatic than the story of someone guided?
+In video games the answer seems obvious: in most adventure settings, players without guides (or overwhelming resources) would have to do a lot of random searching before they could plausibly succeed.  It just isn’t believable if they always stumble on the right path on their first try.  But random searching adds a lot of noise into the relation between player skill and player success, and players don’t like that.  Players prefer games which more clearly demonstrate their skill, over games that tell grander stories.
+This same explanation also works for adventure stories more generally.  We imagine being the main character in an adventure, and want to fantasize that such a situation would let us more clearly demonstrate our great character to an admiring audience.  As in video games, guides help these main characters avoid a lot of random searching.
+It is just less fun to fantasize about being the one of thousands who happens to find the northwest passage out of blind luck, than to imagine being a clever faithful grandson who follows lucky-grandad-the-finder’s clues on how to find that hidden passage.  You can reveal more about your skill, courage, etc. in a short time as a guide-follower than as a guider.
+This has a big lesson for those who like to think of their real life as a grand adventure: relative to fiction, real grand adventures tend to have fewer guides, and more randomness in success. Real adventurers must accept huge throws of the dice; even if you do most everything right, most likely some other lucky punk will get most of the praise.
+If you want life paths that quickly and reliably reveal your skills, like leveling up in video games, you want artificial worlds like schools, sporting leagues, and corporate fast tracks. You might call such lives adventures, but really they are pretty much the opposite. If you insist instead on adventuring for real, achieving things of real and large consequence against great real obstacles, well then learn to see the glorious nobility of those who try well yet fail. In the words of Kipling:
+If you can make one heap of all your winnings
+And risk it on one turn of pitch-and-toss,
+And lose, and start again at your beginnings
+And never breath a word about your loss;
+… you’ll be a Man my son!
+
+
+title: Real Adventure
+
+date: July 18, 2010 11:15 am
+

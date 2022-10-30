@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Much of armchair social science is pondering "puzzles," i.e., social behavior that doesn't fit well with simple theories, such as yesterday's cashless Christmas wish-list puzzle. A few standard theories can be easily invoked to explain most any social puzzle:  
+
+Preferences – we just intrinsically want the specific outcomes produced by certain behavior; it is not instrumental toward other goals. E.g., folks pick their nose because it just feels good, not to clear out their noses. 
+Mistakes – typical mental heuristics and patterns of thought just consistently misjudge the situation. E.g., we buy mid octane gas because just we didn't think of mixing high and low octane gas. 
+Norms – we do the usual thing so we won't look weird; norm violators tend to be odd and poorly informed about social conventions. E.g., you don't want to hire a guy who doesn't wear a suit to an interview. 
+
+The problem is that it is way too easy to explain most anything with such theories, at least if most possible preferences, mistakes, and norms seem nearly equally plausible. We can get more mileage out of specific and constrained theories of what are plausible preferences, mistakes, and norms. But no doubt many puzzles are in fact explained by odd preferences, mistakes, and norms. So what do we do?
+It seems to me that the right approach is to seek theories that, with only a few free parameters, can explain a wide range of diverse puzzles. Trying to explain each puzzle with a new ad hoc story just doesn't get you very far; much better to lay out lots of related puzzles on the table and then ask how to explain many of them all at once.  For example, instead of making up an ad hoc theory to explain US Christmas giving, collect "stylized facts" about holiday, wedding, birthday, and other gifts from across diverse cultures, and then look for theories which might explain a lot of that variation all at once.
+
+
+title: Weak Social Theories
+
+date: December 18, 2008 3:00 pm
+

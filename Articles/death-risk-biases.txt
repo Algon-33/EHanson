@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+A recent Journal of Risk and Uncertainty paper confirms very standard results; low risk people overestimate their risks, high risk people underestimate their risks, overall people underestimate risk, and men are worse than women: 
+
+Individuals’ perception of their own road-traffic and overall mortality risks are examined in this paper. Perceived risk is compared with the objective risk of the respondents’ peers, i.e. their own gender and age group, and the results suggest that individuals’ risk perception of their own risk is biased. For road-traffic risk we obtain similar results to what have been found previously in the literature, overassessment and underassessment among low- and high-risk groups, respectively. For overall risk we find that all risk groups underestimate their risk. The results also indicate that men’s risk bias is larger than women’s.
+
+We could fill up this blog just with abstracts of papers like this, but what would be the point?  
+
+
+title: Death Risk Biases
+
+date: June 25, 2007 6:00 am
+

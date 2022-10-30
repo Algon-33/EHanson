@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+If planets like ours are common but intelligent life like ours is rare, then it should be rare that life on a planet evolves to our level of development before life is no longer possible on that planet.  If Earth was “lucky” in this way, and if life had to go through a series of stages of varying difficulty to reach our level, how long should each stage have taken?
+Now these stages could be of quite different difficulties, taking quite different unconditional expected times to complete.  But back in ’98 I noticed (and posted) an interesting non-intuitive result: if each stage is “exponential,” with a constant per time chance c to jump to the next level, then all “hard step” durations are similarly distributed, no matter what their relative difficulty.  (Joint step times are drawn from a uniform distribution.)  So we should see a history of roughly equally spaced hard step transition events in Earth’s history.
+Prof. David J. Aldous, of U.C. Berkeley Dept. of Statistics, has just posted some generalizations of this result. While my result generalizes trivially to any per time success chance function C(t) that is nearly a constant C(t) = c near t=0, Aldous also generalized my similarly-distributed result to any function that is nearly linear C(t) = c*t near t=0.  He also generalized my result to any arbitrary tree of possible paths.  Each link in the tree can have arbitrarily varying difficulty, at each node in the tree many processes compete to be the first to succeed, and the one that wins this contest determines the system’s direction in the tree.
+While Aldous warns us against over-reliance on simple models, this does I think gives a bit more reason to expect our history to consist of a sequence of roughly equally spaced hard step transitions.
+
+
+title: New Hard Steps Results
+
+date: August 7, 2010 6:00 am
+

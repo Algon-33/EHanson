@@ -1,0 +1,14 @@
+author: Paul Gowder
+
+text: 
+In honor of Christmas, a religious question.
+Richard and Jerry are Bayesians with common priors.  Richard is an atheist.  Jerry was an atheist, but then he had an experience which he believes gives him certain knowledge of the following proposition (LGE): “There is a God, and he loves me.”  Jerry’s experiences his knowledge as gnosis: a direct experience of divine grace that bestowed certain knowledge, period, and not conditioned on anything else at all.  (Some flavors of Christianity and many other religions claim experiences like this, including prominently at least some forms of Buddhism.)  In addition to believing certain knowledge of LGE, Jerry’s gnosis greatly modifies his probability estmates of almost every proposition in his life.  For example, before the gnosis, the Christian Bible didn’t significantly impact the subjective probabilities of the propositions it is concerned with.  Now it counts very heavily.  
+Richard and Jerry are aware of a disagreement as to the probability of LGE, and also the truth of the various things in the Bible.  They sit down to work it out.  
+It seems like the first step for Richard and Jerry is to merge their data.  Otherwise, Jerry has to violate one rule of rationality or another: since his gnosis is only consistent with the certainty of LGE, he can either discard plainly relevant data (irrational) or fail to reach agreement (irrational).  Richard does his best to replicate the actions that got the gnosis into Jerry’s head: he fasts, he meditates on the koans, he gives money to the televangelist.  But no matter what he does, Richard can not get the experience that Jerry had.  He can get Jerry’s description of the experience, but Jerry insists that the description falls woefully short of the reality — it misses a qualitative aspect, the feeling of being “touched,” the bestowal of certain knowledge of the existence of a loving God.  
+Is it in principle possible for Richard and Jerry to reach agreement on their disputed probabilities given a non-transmissible experience suggesting to Jerry that P(LGE)=1?
+
+
+title: Gnosis
+
+date: December 25, 2006 1:59 pm
+

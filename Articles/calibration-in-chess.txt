@@ -1,0 +1,22 @@
+author: Andrew
+
+text: 
+Daniel Kahneman posted the following on the Judgment and Decision Making site:  
+
+ Have there been studies of the calibration of expert players in judgments of chess situations — e.g., probability that white will win? 
+ In terms of the amount and quality experience and feedback, chess players are at least as privileged as weather forecasters and racetrack bettors — but they don’t have the experience of expressing their judgments in probabilities. I [Kahneman] am guessing that the distinction between a game that is "certainly lost" and "probably lost" is one that very good players can make reliably, but I know of no evidence. 
+
+ Despite knowing much less about decision making and (likely) less about chess than Kahneman, I have three conjectures:
+  
+1.  Players would show superadditivity in the sense of overstating their own chances of winning.  To put it another way, suppose that both players in a game give you Pr(I win), Pr(I tie), Pr(I lose).  Call these W1, W2, W3 (for white) and B1, B2, B3 (for black).  My conjecture is that (W1+B1) > (W3+B3)–that is, that the total "I win" probability exceeds the total "I lose" probability.  It would be interesting to see this on average and also for individual games and times of the game. 
+ 2.  Players would show the usual overconfidence in probability statements, for example, events that are stated to happen 90% of the time only happening 75% of the time, and so forth. 
+ 3.  Aspects of both points above might be explained by the idea that:chess players, like the rest of us, tend to make their probability statements about the ideal, rather than the actual, game outcome.  For example, suppose you were to do a study to measure probability judgments and find the (generically) expected overconfidence:  when players predict a 99% chance of victory, it only happens 90% of the time, or whatever.  On those 10% of the times when his or her prediction is wrong, I could imagine he or she explaining it away as some blunder that "wasn’t supposed to happen" and so shouldn’t count. 
+ Similarly, before the game even starts, each player’s probability of winning can be calculated based on who is playing white, who is black, and their ratings (see here), but I would imagine that, before the game begins, each player overestimates his or her own winning probability, thinking "this time I’ll play harder" or something similar. 
+ This ties in a bit to the distinction between the "is vs. should" or "descriptive vs. normative" distinction in decision analysis.  I think it would be natural to assess the chances of winning in the well-fought game of the player’s imagination rather than in the calibrated empirical world of all realistic possibilities. 
+ Anyway, it would be fun to see the data.  And I’m probably being overconfident about my own conjectures above.
+
+
+title: Calibration in chess
+
+date: July 21, 2007 1:00 pm
+

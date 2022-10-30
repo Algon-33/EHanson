@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Joshua Fox and I have agreed to a bet:
+We, Robin Hanson and Joshua Fox, agree to bet on which kind of artificial general intelligence (AGI) will dominate first, once some kind of AGI dominates humans. If the AGI are closely based on or derived from emulations of human brains, Robin wins, otherwise Joshua wins. To be precise, we focus on the first point in time when more computing power (gate-operations-per-second) is (routinely, typically) controlled relatively-directly by non-biological human-level-or-higher general intelligence than by ordinary biological humans. (Human brains have gate-operation equivalents.)
+If at that time more of that computing power is controlled by emulation-based AGI, Joshua owes Robin whatever $3000 invested today in S&P500-like funds is worth then. If more is controlled by AGI not closely based on emulations, Robin owes Joshua that amount. The bet is void if the terms of this bet make little sense then, such as if it becomes too hard to say if capable non-biological intelligence is general or human-level, if AGI is emulation-based, what devices contain computing power, or what devices control what other devices. But we intend to tolerate modest levels of ambiguity in such things.
+[Added 16Aug:] To judge if “AGI are closely based on or derived from emulations of human brains,” judge which end of the following spectrum is closer to the actual outcome. The two ends are 1) an emulation of the specific cell connections in a particular human brain, and 2) general algorithms of the sort that typically appear in AI journals today.
+We bet at even odds, but of course the main benefit of having more folks bet on such things is to discover market odds to match the willingness to bet on the two sides. Toward that end, who else will declare a willingness to take a side of this bet? At what odds and amount?
+My reasoning is based mainly on the huge costs to create new complex adapted systems from scratch when existing systems embody great intricately-coordinated and adapted detail. In such cases there are huge gains to instead adapting existing systems, or to creating new frameworks to allow the transfer of most detail from old systems.
+Consider, for example, complex adapted systems like bacteria, cities, languages, and legal codes. The more that such systems have accumulated detailed adaptations to the detail of other complex systems and environments, the less it makes sense to redesign them from scratch. The human mind is one of the most complex and intricately adapted systems we know, and our rich and powerful world economy is adapted in great detail to many details of those human minds. I thus expect a strong competitive advantage from new mind systems which can inherit most of that detail wholesale, instead of forcing the wholesale reinvention of substitutes.
+Added 16Aug: Note that Joshua and I have agreed on a clarifying paragraph.
+
+
+title: Em- vs Non-Em- AGI Bet
+
+date: August 12, 2013 11:30 am
+

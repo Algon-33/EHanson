@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Almost no one, that's who.  Oh folks may cheer a ruling favoring their side, but that is hardly the same.  On average referees mostly get complaints from all sides.   Who asks for their autograph, or wants to grow up to be one? 
+ Similarly who cheers the officials who keep elections fair, or the teachers who grade fairly?  Inspiring stories are told of folks who win legal cases or music competitions, but what stories are told of fair neutral judges who make sure the right people win?  After all, competition stories are not nearly as inspiring with arbitrary or corrupt judges.  Oh judges are sometimes celebrated, but for supporting the "good" side, not for making a fair neutral evaluation.
+ Sure we give lip service to fairness, and we may sincerely believe that we care about it, but that mostly expresses itself as sincere outrage when our side is treated unfairly.  We usually can't be bothered to pay much attention to help settle disputes in which we have little stake.  So if you want to be celebrated and gain social support, take sides.  But if you want to instead do the most good for the world, consider pulling the rope sideways instead of joining the tug-o-war.  Consider being a neutral arbitrator, or better yet consider developing better systems of arbitration and evaluation. 
+  
+ There are a lot fewer prediction market projects than the topic's popularity might suggest, and part of the reason is that prediction markets are a neutral arbiter; it is a lot easier get people inspired about projects that take sides.  We may sincerely believe that the world would be better off with a fair neutral way to evaluate political claims, but mainly because we expect such evaluations to favor our side.  When it comes allocating resources, we are far more interested in pushing our side than in developing better neutral ways to evaluate claims.
+ While in practice economics is full of folks promoting various sides, one of the reasons I am proud to be an economist is that we have a good standard neutral analysis criteria, economic welfare, for judging policies, and we have a large literature full of techniques for applying this criteria to specific situations.  In the field of institution/mechanism design, we try to design new institutions that better meet this criteria, and test the best in the lab and field.  Prediction markets are such a mechanism.  
+ This is a partial answer to Eliezer's "what would I do with power" question: taking all the creatures who exist, have existed, or might exist someday, and accepting their preferences as given, I want to field institutions that better maximize economic welfare among all these creatures.  My futarchy concept is a particularly ambitious attempt to find a better institution.  Most people consider it rather too ambitious, and tell me I should focus on more practical options.  So it seems odd to hear Eliezer say he wishes I'd think more about a perfect future instead of focusing so much on compromises that seem needed.  
+
+
+title: Who Cheers The Referee?
+
+date: December 16, 2008 11:30 pm
+

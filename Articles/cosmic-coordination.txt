@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+The universe looks dead. If it is actually teeming with ancient advanced life, why don’t any of them use all those resources we see? Yes, there might be other even more attractive resources we don’t see, but it still seems odd none specialize in using what we do see. Yes everything might be under the control of a unified collective, who agree on a preference to keep the universe looking dead. But pretty much any observation could be explained as due to a vast unified ancient power with an arbitrary preference to make the universe appear a certain way. (more)
+I’ve posted before that coordination is harder than most folks realize. Today I’d like to emphasize that coordination on the largest scales of space and time, across the entire visible universe, should be the very hardest. Our far minds tend to assume that stuff at this furthest scale is the simplest, with the fewest relevant details, suggesting easy coordination. After all, if there’s just a few kinds of creatures, each with a few kinds of preferences and ways to act, then a simple mechanism might well be up to the task of coordinating them. But in fact creatures the size of stars or galaxies could have vast complex detail, diverging immensely across the universe, and changing greatly over billions of years. Their ability to monitor each other and enforce any agreements must surely be challenged by the vast distances and times involved. And for agreements to not use ample resources, there would remain great temptations to use such resources secretly, perhaps to support a breakout from the coordination regime.
+Yes, billions of years also offer a long time to find and implement the best possible coordination mechanisms. But if those mechanisms must be in place before substantial expansion begins from some central origin, that seems to require maximal development of coordination technology at a cosmically very early development stage. If coordination is hard, that seems an extremely high hurdle.
+
+
+title: Cosmic Coordination
+
+date: December 7, 2010 10:00 am
+

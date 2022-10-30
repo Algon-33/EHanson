@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+When I buy a really expensive car, this story goes, it subtly shifts my community’s frame of reference for signals of social status. … As Robin has been insistently pointing out, how good-looking we are, … how smart and funny we are when we talk, … signals at least as strongly as our cars. If our investments in appearance, … Bourdieuian cultural capital, … are not equally harmful, then why not? …
+This line of thinking can be taken even further. Many so-called “culture wars” are largely about cultural externalities. Consider Linda Hirschman-like arguments to the effect that women who choose to stay at home raising children impose a significant cost on women who wish to pursue professional success by reinforcing traditional stereotypes of women’s relative strengths. …
+It looks like we’ve defined “harm” so loosely that the harm principle, so understood, could be the basis for the state regulation of any action whatsoever that affects anyone else in a way they don’t like. … If I open a hot dog stand across the street from your hot dog stand, I will take some of your business. … Have I “harmed” you in some way that requires that you be made whole … ? The law says no, and the law is right. …
+When a black family moves into a neighborhood of white racists, thereby causing great unhappiness, or when the recognition of the legitimacy of gay marriages causes traditionalists to feel that their traditional marriages have been “devalued,” … somebody really is getting hurt in some real sense. But I don’t much care, and Robert Frank probably doesn’t either …
+In the land of the deaf, there is no noise pollution. In the land of cosmopolitan enlightenment, there is no “there goes the neighborhood.” … To identify a “harm,” and to invoke the harm principle, the moment there is a complaint, is the essence of reactionary politics. It is to shut down the very possibility of relocating “the problem” from the source of a reaction to the reaction itself.
+More here.  When I ask students to justify various subsidies and taxes, they are quick to say “externality,” but slow to identify specific plausibly-related side-effects, and even slower to seek opposing side-effects.  They usually just seek support for pre-existing intuitions.
+Like Robert Frank and Geoffrey Miller, Will Wilkinson seems to me a bit too quick here to assume the activities he likes are less deserving of taxes.  I’ve been arguing mostly for consistent application of principles.  If we are to tax positional or unhappy activities, then let’s do that consistently, following our best data on positionality or happiness.   Let’s not just selectively apply a rationale to things we already intuitively disliked.
+We have long had a clear theoretical basis for allowing businesses to harm each other via competition, but we have less clear a basis for allowing harm via changing expectations about car standards, female workers, neighborhood race, and marriage legitimacy.  So I won’t rule taxing such things out of hand.  But I will insist we first articulate a clear principle we are willing to apply consistently across a wide range of cases.
+
+
+title: Wilkinson on Side Effects
+
+date: May 27, 2009 10:15 am
+

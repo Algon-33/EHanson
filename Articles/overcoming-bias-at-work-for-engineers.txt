@@ -1,0 +1,12 @@
+author: Patri Friedman
+
+text: 
+While I am only an interested hobbyist when it comes to the theory and practice of overcoming bias, it looks like I will be gifted with the opportunity to explore this interest as a side project in my day job at a large tech company.  Specifically, to help design and deliver one or more classes in what I think of as the self-help side of behavior economics – what are the common human biases, and how can we work around them in our everyday lives?
+So I thought I’d take advantage of the collaborative filtering aspect of blogging and ask you for thoughts about the most common biases that affect engineers at work, and pointers to information on the best ways of learning to overcome them.  Preferably at a fine granularity – blog posts rather than full books.  An example of the type of approach I’m looking for is Andy Hunt’s talk (and upcoming book) "Refactoring Your Wetware", which is about how the brain works, how engineers misunderstand it (focusing on the logical serial processing and ignoring the intuitive parallel processing), and how that applies to being a programmer.  Sadly it is not yet available as a book or online video, but I’ve requested a copy of the talk he gave at work so perhaps I can fix that.
+I’ll post my own model for what I see as the key realization and skills in another entry, but I’d love to hear your thoughts on the subject.  And if my investigations prove fruitful and I successfully develop some material, in a few months, I may even be able to put up some of the materials.
+
+
+title: Overcoming bias at work for engineers
+
+date: November 10, 2007 6:00 am
+

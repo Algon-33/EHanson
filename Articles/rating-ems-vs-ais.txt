@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Everyone without exception believes his own native customs, and the religion he was brought up in, to be the best (Herodotus 440BC).
+I’ve given about sixty talks so far on the subject of my book The Age of Em. A common response is to compare my scenario to one where instead of ems, it is non-emulation-based software that can first replace humans on most all jobs. While some want to argue about which tech may come first, most prefer to evaluate which tech they want to come first.
+Most who compare to ems to non-em-AI seem to prefer the latter. Some say they are concerned because they see ems as having a lower quality of life than we do today (more on that below). But honestly I mostly hear about humans losing status. Even though both meat humans and ems can both be seen as our descendants, people identify more with meat as “us” and see ems as “them.” So they lament meat no longer being the top dog in-charge center-of-attention.
+The two scenarios have many similarities. In both scenarios, meat humans must all retire, and robots take over managing the complex details of this new world, which humans are too slow, distant, and stupid to manage. The world economy can grow very fast, letting meat get collectively very rich, and which meat soon starves depends mostly on how well meat insures and shares among themselves. But it is hard to offer much assurance of long run stability, as the world can plausibly change so fast.
+Ems, however, seem more threatening to status than other kinds of sophisticated capable machinery. You can more vividly imagine ems more clearly winning the traditional contests whereby humans compete for status, and then afterward acting superior, such as by laughing at meat humans. In contrast, other machines can be so alien that we may not be tempted to make status comparisons with them.
+If, in contrast, your complaint about the em world is that ems have a lower quality of life, then you have to either care about something more like an average quality of life, or you have to argue that the em quality of life is below some sort of “zero”, i.e., the minimum required for a life to be worth living (or having existed). And this seems to me a hard case to make.
+Oh I can see you thinking that em lives aren’t as good as yours; pretty much all cultures find ways to see their culture as superior. But unless you argue that em lives are much worse than the typical human life in history, then either you must say the typical human life was not worth living, or you must accept em lives as worth living. And if you claim that the main human lives that have been worth living are those in your culture, I’ll shake my head at your incredible cultural arrogance.
+(Yes, some like Nick Bostrom in Superintelligence, focus on which scenario reduces existential risk. But even he at one point says “On balance, it looks like the risk of an AI transition would be reduced if whole brain emulation comes before AI,” and in the end he can’t seem to rank these choices.)
+
+
+title: Rating Ems vs AIs
+
+date: May 27, 2016 4:20 pm
+

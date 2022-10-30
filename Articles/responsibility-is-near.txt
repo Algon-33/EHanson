@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+We are more willing to let folks off the hook because “my atoms or my brain made me do it” in far than near mode:
+A deterministic universe [is one] in which “Every decision is completely caused by what happened before the decision—given the past, each decision has to happen the way that it does.” … One group of participants was asked whether it is possible for anyone to be morally responsible for their actions in such a universe. These participants tended to say that it is not possible to be morally responsible in that universe. That question about moral responsibility is, of course, pitched at an abstract level.
+Another group of participants was presented instead with a concrete case of a man who killed his family. That provoked a much different response. When presented with a concrete case of man performing a reprehensible action, people tended to say that the man was fully morally responsible for his actions, even when set in a deterministic universe. Indeed, concrete cases of bad behavior lead people to attribute responsibility, even when the action is caused by a neurological disorder. …
+People are pulled in different directions because different mental mechanisms are implicated in different conditions. (more)
+
+
+title: Responsibility Is Near
+
+date: March 18, 2011 3:45 pm
+

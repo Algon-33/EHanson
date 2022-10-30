@@ -1,0 +1,19 @@
+author: Stuart Armstrong
+
+text: 
+In 1983, NASA was planning to bring back Martian soil samples to Earth. Contaminating the Earth with alien organisms was an issue, but engineers at Jet Propulsion Laboratories had devised a "safe" capsule re-entry system to avoid that risk. However, Carl Sagan was opposed to the idea and 
+
+ explained to JPL engineers that if they were so certain […] then why not put living Anthrax germs inside it, launch it into space, then [crash the capsule back to earth] exactly like the Mars Sample Return capsule would. 
+
+ The engineers helpfully responded by labeling Sagan an alarmist and extremist. But why were they so unwilling to do the test, if they were so sure of their system? The answer is probably they feared that if the test failed, their careers would be over and they would have caused a catastrophe. But an out of control Martian virus, no matter how unlikely, would have been equally a catastrophe. However, that vague threat didn’t concentrate their minds like the specific example of anthrax. 
+Imagine for a moment that those engineers had been forced to do Sagan’s test. Fear of specific disaster would have erased their overconfidence, and they would have moved from ‘being sure that things will go right’ to ‘imagining all the ways things could go wrong’ – and preventing them. The more dangerous the test, the more the engineers would have worked to overcome every contingency.
+  
+Similar sorts of dangerous testing should be mandatory for anything we need to be absolutely safe. ‘Bomb-proof’ nuclear reactors should be hit with high explosives in the open countryside, cyanide should be poured into the river above ‘infallible’ purification plants, rocks should be fired at the space-shuttle before take-off. The more spectacular the consequences of failure would be, the more we can trust the engineers’ promises that they’ve thought of everything.
+Addendum: In cases where direct testing isn’t possible (such as anti-terrorist security), we can often imitate the anthrax test by getting rid of all secondary security measures. Scrap immigration controls and no-fly lists and tell the designers of airport security machines that it is certain that terrorists will be boarding US planes regularly, and that they have to deal with that fact. Publish encrypted versions of military strategy to ‘danger test’ the encryption. Stop all security checks on low-level employees at sensitive locations to ‘danger test’ the other security measures.
+Basically, if there is a low-grade security measure helping to protect a vital secret, then that measure should be scraped and the high-grade measures should stand on their own. The lack of extra protection would be the equivalent of the ‘dangerous test’ for those measures, forcing security designers to expand their imagination.
+
+
+title: The case for dangerous testing
+
+date: May 14, 2007 4:34 pm
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Today is my health econ final exam.  I also return their last paper, on faith healing.  After an entire semester hearing how we get little health value from a wide margin of medical spending, almost every student (21 undergrads & 9 grads) said that a big argument against legal faith healing is that it can discourage people from going to regular doctors.  Most also said it is hard to evaluate faith healer quality, and to know if they are just in it for the money.   
+ Sigh.  Regular docs are mostly in it for the money, and are also hard to evaluate.  If we on average get near zero health from our last units of medicine, we are better off replacing those units with anything cheaper, at least if it also gives near zero net health effect and similar non-health benefits.  Faith healing seems to fit this bill.  
+ Sure, we vary in how much medicine we get, and in how much we would substitute legal faith healing for medicine.  So yes a general trend toward more faith healing would no doubt produce a few people who sometimes get too little medicine.  But that harm should be far outweighed by a reduction in harmful overtreatment.  Alas, apparently even econ students after a semester of my indoctrination can’t see this (only two mentioned it) – we all just love docs too much.  
+ I’m struck by how emotional was the opposition to faith healing and how timid were its supporters.  Most people believe prayer can make you well, but few believe religious specialists can use such powers to similarly help others.  Yet our faith in docs is so strong that when considering medical quantity variation, a few getting too little dominates our attention – we just can’t see most getting too much.
+
+
+title: Faith in Docs
+
+date: May 8, 2008 6:00 am
+

@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Consider two plausible assumptions:
+
+Within a few centuries, “immortality” goes on sale. That is, if you pay enough, and your body is of a convenient type (e.g., android), then you can buy backups and replacement parts, and keep functioning indefinitely. (At least until correlated failures hit all your backups at once). Most folks, however, may be unable to afford the price.
+At this time, there will still be a capitalist world economy with not-overwhelming taxes on the rich. So individuals can still accumulate wealth over a lifetime, as they have done for millennia.
+
+Today, as in the past, wealth levels tend to diverge over individual lifetimes, and then converge over many generations. People born with similar initial wealth often have quite different wealth at life’s end. They also tend to give different amounts to their children. Yet over many generations, distant descendants tend to have similar wealth. (At least if they live in the same nation; see Greg Clark.) Children often lack their parents’ drive or abilities, and prefer to spend their inherited wealth. “Rags to rags in three generations,” the saying goes.
+But given the above assumptions, in the future able driven folks can continue to accumulate wealth indefinitely, allowing the usual within-lifetime wealth divergence to last far longer. Maybe eventually these old dogs couldn’t learn new tricks, but we should still expect to see far more wealth divergence in this future. Quick: does this sound like a good or a bad thing?
+Now consider: in this future, wealth should depend less on parental luck, and more on personal merit, such as drive and ability. (Other kinds of luck matter too of course, but not obviously more than before.) Isn’t it good if personal wealth depends more on personal merit?
+If you still find this scenario horrifying, that suggests your dislike of wealth inequality isn’t based so much on it being undeserved, but is more against the very idea of inequality. Perhaps you are horrified by such huge inequality because it shows raw luck imposing unnecessary harmful risk, which you want to cure via redistribution. But if so, it should be enough to offer folks wealth insurance. If you are horrified by a future where enough able driven folks knowingly reject wealth insurance, allowing some to become fantastically rich, then again your objection seems to be to inequality itself.
+Btw, Tyler says:
+When will the world have its first trillionaire? In real terms I say never, marginal tax rates will rise to capture the rents, one way or another.
+This seems remarkably pessimistic about future world wealth or world-wide tax rates. Today’s richest man has $74B, which is probably ~$50B after correcting for “marginal tax rates.” So proportional growth of the world and the richest by a factor of twenty, roughly what we achieved in the twentieth century, would create a trillionaire.
+
+
+title: More Inequality, Merited
+
+date: September 22, 2011 6:45 pm
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Why are some nations rich and others poor?  Decades ago many thought a big part of the answer was “formal institutions.”  Folks understood in rough outline many ways in which institutions could go wrong, which suggested many ways to evaluate institution qualiy.  And rich nation institutions do tend to get higher marks in such evaluations. The hope was that if poor nations were fitted with formal institutions like those from rich nations, poor nations would also get rich.  But academic consensus has moved well away from that view today, as so many attempts to transfer formal institutions from rich to poor nations have failed miserably.  Now most see “culture” as a big part of the answer, and culture is not so easily copied, or even measured.
+Why are some communities of intellectuals productive at accumulating insight and accuracy, while others instead become dead, distracted, and dysfunctional?  We understand in rough outline many ways that intellectual communities can go wrong, and these suggest many ways to evaluate community health.  Furthermore, especially productive intellectual communities of the past do seem to get higher marks in such evaluations. This has led many to proclaim certifiers of intellectual accuracy, such as peer review or randomized experiments, which can give observers confidence in a community’s intellectual authority.  To decide which conflicting communities to believe in a confusing controversy, one merely need check for official certifying marks.
+Unfortunately, just as with nations, quality markers based on broad features of formal institutions are pretty weakly correlated with actual intellectual productivity and insight.  Whether an intellectual community works well depends much more on complex details of its culture, details that are hard for outsiders to discern.  Choosing who to believe based on weak indicators such as the use of peer review would be like guessing which nations are rich using the text of their constitutions.  If there were nothing better, of course, its what you’d have to do. But in intellectual controversies you’d do far better to rely on estimates from prediction market, if such were available; they’d do much better at eliciting honest insider assessments about the health of their communities.  Relying on prediction market estimtes would be much more like moving to a nation that is actually rich, instead of one with a rich-sounding constitution.
+
+
+title: Academics Like Nations?
+
+date: September 17, 2010 6:00 am
+

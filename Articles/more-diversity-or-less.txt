@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Nature reviews Biology’s First Law: The Tendency for Diversity and Complexity to Increase in Evolutionary Systems:
+McShea and Brandon state that diversity and complexity tend to increase over time in biological systems. It is, the authors argue, a universal law, applicable to all taxa, at all hierarchical levels and at all times. They use the analogy of Newton’s law of inertia — just as it tells us that a body will move with a constant velocity if no forces act on it, this zero-force evolutionary law seeks to capture how a biological system will behave in the absence of other influences. Although the trend they describe may not manifest itself in cases when it is counteracted by constraints, it provides the background against which other evolutionary pressures should be understood.
+The authors adopt a simplified measure of complexity that considers only the degree of differentiation among the parts of a biological system, not the various functions of those parts. … The authors argue persuasively that their simpler definition of complexity is more scientifically useful … because function is hard to quantify. … Diversity at one level of the hierarchy equates to complexity one level higher. Both diversity and complexity will increase over time through the accumulation of mutations, they suggest. …
+The tendency for increasing diversity has been recognized previously in specific situations. … The authors aim to encompass these various findings in a single theory that covers all of the fields in which the principle has been seen. … They make a good case for their argument that a single principle is at work. …
+Their theory suggests new research questions, such as whether the tendency for diversity to increase will usually be overcome by natural selection, and it advances our philosophical understanding of evolution. The law also makes testable predictions: for example, that diversity and complexity will increase fastest in ecological circumstances and taxa where selection is weak.
+This is a deliciously vast topic, with huge long term implications. Overall, diversity has clearly increased within biology on average over time.  Very recently, humans have displaced other biology diversity with human diversity.  Within the human realm, many kinds of diversity have also increased, though some kinds have decreased as well.  The big open question: will diversity continue to increase, or at least not greatly decrease, into the distant future?
+One the one hand you might think that physics is the same everywhere, matter doesn’t vary that much, and there is only one very best way to arrange atoms for any particular purpose.  So within a million years we’ll figure out the most competitive local designs and from then on everyone will use them.  Surely there is a lot of truth in this.
+On the other hand, the very best design for any one thing may depend greatly on other choices made nearby, and ancient legacies, choices made long ago that are too expensive to change, may vary greatly from place to place.  And there should be far far more places out there, only weakly connected to each other due to vast distances and light-speed limits.
+On a third hand (oh someone will have them), the future might not be competitive, if a stable world government arises before our descendants radiate rapidly out into the cosmos, and if there are no aliens that matter out there.  Such a stable central power might work to reduce diversity, to cement its hold on power.  (More on world govt here, here, and here.)  Or perhaps it will have stable preferences, unchallengeable power, and prefer to create diversity.
+So, will diversity increase in the long run?
+
+
+title: More Diversity Or Less?
+
+date: August 8, 2010 6:00 am
+

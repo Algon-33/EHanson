@@ -1,0 +1,45 @@
+author: Carl Shulman
+
+text: 
+Bryan Caplan argues that economists mostly agree with one another, compared to the general public, and reports results from the Survey of Americans and Economists on the Economy (SAEE):
+The leading correlates of economists’ disagreement are political-ideology and, to a lesser extent, party affiliation. Liberal Democratic and conservative Republican economists disagree in expected ways about taxes, regulation, excessive profits and executive pay, and some employment-related issues. Conservative economists are also markedly more optimistic about the country’s economic future. Note, however, that there is little evidence of an ideological divide over the economy’s past or present performance. Economists
+across the political spectrum can largely agree about the path of inequality, real income, and real wages over the past two decades.
+I don’t find agreement about the past very comforting: the point of economic advice is to deliver good consequences in the future. However, I would point out that disagreements about predictions are an opportunity for retrospective assessment. Indeed, when Bryan’s paper was published, in 2002, the 5 year timeline of the predictions had already come and gone. But there’s nothing stopping us from checking now. [Note, I prepared this post up until this point with the intention of posting it before peeking at the data.] Results below the fold.
+
+The SAEE was conducted in 1996, and asked the following question:
+Over the next five years, do you think the average American’s standard of living will rise, or fall, or stay about the same?
+
+
+
+
+Rise
+Fall
+Stay the same
+No
+opinion
+
+
+General Public
+24
+29
+46
+2
+
+
+Economists
+50
+8
+41
+1
+
+
+
+
+US median household income (inflation-adjusted) rose over the next 5 years, as predicted by the economists, and especially the conservative economists. [ETA: as did median personal income.] After the period of the prediction, household median income peaked in 2007, and is today slightly lower than it was in 1996. [ETA: median personal income is slightly higher, HT Todd Kuipers.]
+A single data point provides little evidence, but if someone collected a substantial time series of such predictions it could be very helpful in assessing the degree to which different ideologies’ empirical elements are “reality-based.” Perhaps funding for such a project could be raised from overconfident ideologues of rival factions each hoping,  ex ante,  to prove their ideologies’ superiority.
+
+
+title: The SAEE: who was right?
+
+date: February 4, 2013 11:08 pm
+

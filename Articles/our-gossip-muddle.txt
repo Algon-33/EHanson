@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Julia Galef wonders if it is ethical to view a leaked sex tape:
+A celebrity sex tape … was stolen (or hacked, I’m not sure) and leaked to the public. … I asked my friend if he feels any guilt about watching this tape, knowing that the woman didn’t want other people to see it. … My friend and I are both utilitarians. … We were concerned … with … does watching the tape harm the woman? As my friend emphasized, she’ll never know that he watched it. … Maybe it makes more sense to define “harming someone” to mean, “helping create a world which that person would not want to exist, given the option.” … My friend [said]: “The ‘harm’ is not in people watching the tape but in them thinking worse of her. Which I didn’t, so — no harm done.”… [But] maybe the woman would’ve been embarrassed even if she knew people weren’t judging her poorly for the tape. After all, a lot of people don’t like the idea of someone accidentally seeing them naked.
+This is a great example of the modern world’s confused attitude toward gossip and information property. In ancient Rome, and medieval Europe, you could be sued just for saying something bad about someone, even if true. After all, such words hurt, and the law discourages hurt. Today we hold gossip in higher regard, and so often think it both legal and moral to say embarassing things about people.
+Yet we call some truths “private,” so that it is illegal or immoral to discover them via certain means (such as hidden cameras). But many see little wrong in passing such private info along to others, as long as they were not the one who did the initial illicit discovery. However, if it is good that others learn of some info, why is it bad for someone to initially discover and spread it? And if it is bad to have people learn of some info, why not ban people from sharing it?
+We moderns are stuck with quite conflicting ideals: in general creating and sharing information is a good thing, except not about certain “private” topics. Yet we have only the vaguest notions of how to characterize such best-kept-private info. We could very much use a sharper analysis of what info it is bad for folks to know.
+
+
+title: Our Gossip Muddle
+
+date: August 10, 2011 10:30 pm
+

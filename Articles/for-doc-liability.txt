@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+From Obama’s big med speech:
+Many .., particularly on the Republican side … have long insisted that reforming our medical malpractice laws can help bring down the cost of health care. … I don’t believe malpractice reform is a silver bullet, but I’ve talked to enough doctors to know that defensive medicine may be contributing to unnecessary costs.  So I’m proposing that we move forward on a range of ideas about how to put patient safety first and let doctors focus on practicing medicine.
+But only a small percentage of actual malpractice ever leads to a suit, and a new NBER analysis says:
+Growth in malpractice payments over the last decade and a half contributed at most 5.0% to the total real growth in medical expenditures, which topped 33% over this period.  On the other side of the ledger, malpractice liability leads to modest reductions in patient mortality; the value of these more than likely exceeds the cost impacts of malpractice liability.
+A Vladimir Shklovsky emailed a few weeks ago saying that under current US liability law the fact that some practice is standard in an industry is a defense against a liability suit, but it is not an absolute defense.  Except in medicine; you simply can’t be legally liable for anything you did if most other docs do it too.
+I recall reading in Paul Starr’s classic The Social Transformation of American Medicine that what first gave US docs power was that at the time, local med practice was an absolute defense.  So if you didn’t play ball with the local docs, they’d refuse to defend you in such suits, leaving you open to devastating liability.
+Amazingly, we are so terrified of the idea that our docs might not do everything possible to save us that we simply will not allow anyone else to question their judgment.  Not insurance companies, not academics, not legal judges or juries.  And so it seems, not even other docs.
+
+
+title: For Doc Liability
+
+date: September 30, 2009 6:00 am
+

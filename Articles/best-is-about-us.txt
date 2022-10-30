@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Why don’t we express and follow clear principles on what sort of inequality is how bad? Last week I suggested that we want the flexibility to use inequality as an excuse to grab resources when grabbing is easy, but don’t want to obligate ourselves to grab when grabbing is hard.
+It seems we prefer similar flexibility on who are the “best” students to admit to elite colleges. Not only do inside views of the admission process seem to show careful efforts to avoid clarity on criteria, ordinary people seem to support such flexibility:
+Half [of whites surveyed] were simply asked to assign the importance they thought various criteria should have in the admissions system of the University of California. The other half received a different prompt, one that noted that Asian Americans make up more than twice as many undergraduates proportionally in the UC system as they do in the population of the state. When informed of that fact, the white adults favor a reduced role for grade and test scores in admissions—apparently based on high achievement levels by Asian-American applicants. (more)
+Matt Yglesias agrees:
+This is further evidence that there’s no stable underlying concept of “meritocracy” undergirding the system. But rather than dedicating the most resources to the “best” students and then fighting over who’s the best, we should be allocating resources to the people who are mostly likely to benefit from additional instructional resources.
+But this seems an unlikely strategy for an elite coalition to use to entrench itself. If we were willing to admit the students who would benefit most by objective criteria like income or career success, we could use prediction markets. The complete lack of interest in this suggests that isn’t really the agenda.
+Much of law is like this, complex and ambiguous enough to let judges usually draw their desired conclusions. People often say the law needs this flexibility to adapt to complex local conditions. I’m skeptical.
+
+
+title: `Best’ Is About `Us’
+
+date: August 15, 2013 12:10 pm
+

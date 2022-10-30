@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Two days ago I asked 8 related questions via Twitter. Here is one:
+
+Should it be okay to use political views or ideology as a basis for choosing associates at work (W), i.e., employee or business partner, or for choosing who you live with (L), i.e., house or apartment mates?
+— Robin Hanson (@robinhanson) December 22, 2018
+
+The rest of the questions made one of two changes. One change was to swap the type of choice from work/life to “producer (P) of a good or service to choose its customers (or price), or for a consumer (C) to choose from whom it buys”. The other change was to swap the choice basis from “political views or ideology” to “age”, “sex/gender”, or “race/ethnicity”. Here is the table of answer percentages (and total votes):
+
+(Column “W not L” means “P not C” for relevant rows. Matching tweets, by table row #: 1,2,3,4,5,6,7,8.)
+While the people who answered my poll are not a random sample of my nation or planet, I still think we can draw some tentative conclusions:
+1) People are consistently more forgiving of discrimination in living spaces relative to work, and by consumers relative to producers. Almost no one is willing to allow it for work/producers, and yet not for living/consumers.
+2) Opinion varies a lot. Aside from the empty column just described, most other answers get substantial support. Thought it seems few are against using age or sex/gender to choose who you live with.
+3) Some kinds of bases are more accepted than others. Support was weakest for discrimination using race/ethnicity, and strongest for using age.
+4) There seems to be more support for treating work and living mates differently than for treating producers and consumers differently.
+Of course we’d learn more from a large poll asking more specific questions.
+
+
+title: When OK to Discriminate?
+
+date: December 24, 2018 12:45 pm
+

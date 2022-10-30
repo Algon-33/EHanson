@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Today, Michael Abramowicz’s book Predictocracy is published.  This is my blurb for the cover:
+
+Decision markets will one day revolutionize governance, both public and private, and Michael Abramowicz”s Predictocracy is the first book length exploration of them – a wild roller coaster ride through the many strange wonders to be found in this vast new territory.
+
+ And what a wild ride it is.  Abramowicz has let his imagination run free searching for ways we could use prediction markets in governance.  His book goes rapid-fire through dozens of such mechanism concepts, sometimes briefly illustrated with possible applications to corporations, regulation, public administration, courts, and legislatures.  Abramowicz is hopeful but claims not to actually endorse any of these possibilities:
+
+This book is a technical manual, not a manifesto.  I have included radical examples to illustrate the power of prediction markets as building blocks in decision-making institutions, not to argue that we should or will displace our existing institutions.  
+
+ It is as if he is trying to teach folks who only knew the few types of Lego blocks available my youth about a bunch of the Lego types now available.  For each new block type, Abramowicz describes its possible uses, its potential problems, and ways one might use other blocks to mitigate those problems.  "This thingy could make that part go whoosh.  And if it’s too floppy, you could add that thingamajig about here."  
+  
+
+Whatever the merits of particular designs and proposals that I have suggested, my aim has been to show how careful thinking about the incentives of market participants can overcome virtually any limitation of prediction markets.  
+
+ The main problem with using Abramowicz’s book as a "technical manual", however, is that he’s never actually seen, much less touched, most of the blocks he describes.  His conclusions are not supported or tested by math models, computer simulations, lab experiments, field trials, nor a track record of successful past proposals – it is all based on his untested intuitions.  And he doesn’t seem inclined to do any such testing himself – he hopes his book will inspire others to do that. 
+ There is of course a spectrum of rigor in how solidly one can support a claim.  Most business decisions are based on far less rigor that elite academics often demand, and there is surely a place for "brainstorming" speculation.  Compared with most academics, I admit I have often been more than toward the speculation end of the spectrum, though I have tried to test my speculations via math models, lab experiments, field trials, and have arguably collected a modest track record of success.   
+ So I have mixed feelings about this book.  On the one hand, Abramowicz clearly understands what few take seriously enough: our institutions could be very different from what we now see.  And if even one novel suggestions pans out, he will have contributed far more than yet another measurement of the long-shot bias.  On the other hand, his relatively undisciplined speculation may feed the inevitable backlash against prediction markets.  
+ My intuitions about what will work how well differ in many ways from those of Abramowicz.  Hopefully I can write about those disagreements soon – anyone want to commission a book review? 🙂
+
+
+title: Predictocracy
+
+date: January 28, 2008 6:00 am
+

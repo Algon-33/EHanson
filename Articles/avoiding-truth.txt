@@ -1,0 +1,14 @@
+author: Arnold Kling
+
+text: 
+In this essay I describe two strategies for avoiding truth in forming political opinions.
+
+The great mass of people form their political beliefs with little regard for facts or logic. However, the elites also have a strategy for avoiding truth. Elites form their political beliefs dogmatically, using their cleverness to organize facts to fit preconceived prejudices. The masses’ strategy for avoiding truth is to make a low investment in understanding; the elites’ strategy is to make a large investment in selectively choosing which facts and arguments to emphasize or ignore.
+
+I am particularly interested in the high-investment strategy, also known as confirmation bias.  Is it true that for the most part we organize data to fit our priors?  If so, why?  How can we tell when we are confronting data honestly or with confirmation bias?
+
+
+title: Avoiding Truth
+
+date: January 8, 2007 11:46 am
+

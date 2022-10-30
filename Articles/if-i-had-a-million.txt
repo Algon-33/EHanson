@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+I’ve been telling folks for a long time that if I had a million dollars to spend on a project, I’d implement an idea I posted first twelve years ago today, and described in Forbes sixteen months ago:
+Make two subsidized real-money markets on the stock price of each Fortune 500 firm, one market conditional on its CEO stepping down by quarter’s end, and the other conditional on not stepping down.  The difference between these two prices would advice the board on dumping the CEO.
+If active, these markets should attract business press, and then most of these CEOs would come to see what the markets say about them.  Half a million would pay for legal/admin.  The other half would only cover a $1000 subsidy per firm, but CEOs trying to manipulate would add lots of liquidity.  A few years of data would let us clearly compare the returns of firms following market advice to firms not following.   With clear data I’d encourage shareholders to sue boards ignoring market advice, and after a few wins most boards would weigh market advice heavily.   A revolution in CEO accountability would then be complete, all for only a million.
+Technically, I’d also create a third market per firm in the chance the CEO will step down, and force the three prices to be consistent with external stock prices, so there’d only be two independent degrees of freedom.
+Added:  And of course this would be a huge foot-in-door legitimization and exposure for many other kinds of organizational decision markets.
+Added July 2020: I reaffirm that this is the project I’d fund with a million.
+
+
+title: If I Had A Million
+
+date: April 26, 2008 6:00 am
+

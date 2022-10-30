@@ -1,0 +1,25 @@
+author: Patri Friedman
+
+text: 
+The NYT reports:
+
+With Internet gambling predicted to surpass $20 billion in 2008, and with illegal wagering accounting for $150 billion in the United States, by some estimates, the temptation for those seeking to influence the outcome of games has never been greater. Now, a raft of gambling scandals in sports, from cricket to soccer and most recently tennis, has raised an uncomfortable question: Are the games we watch fixed?
+
+Part of the reason why sports is more vulnerable to manipulation is that, as I have long argued, they don’t matter:
+
+Who wins these sporting contests is irrelevant. It does not matter, except inasmuch as people choose to make it matter. It does not make the world a better or worse place…Much of the lure of sports lies in the illusion that they are important. It is pretty clear, when you think about it, that they aren’t, but the illusion is strong. After all, an awful lot of people care about them. Our newspapers in the morning and news shows at night have a business segment, a political segment, and a sports segment, implying that these sectors are of equal value. There are magazines devoted to sports…It is no wonder that so many are fooled into taking them with far more seriousness than they deserve.
+
+A CEO who manipulates his firms profits is manipulating something deeply attached to the real world: a measurement of how much value his firm is producing.  Since this value is hard to measure, there are ways to jigger the accounting, but they are inherently temporary.  Accumulated profits should appear in physical form, like cash or securities, or valuable property.  Eventually, Ponzi schemes and companies like Enron get caught, because their accumulated physical assets don’t match their claimed profits.
+  
+Sports, on the other hand, are inherently arbitrary and full of random noise.  Any athlete can choke on that crucial shot.  It will affect his career somewhat, but as long as he is careful to do it only occasionally, his career is judged on the basis of all his performance, while his bets are only made on those few times when he knows that he will produce a given outcome by choking deliberately.
+But that model suggests a disparity – an efficient fixer will lead to an unusual pattern of bets, with heavier betting on the winning side when the fix is in.  In some cases, this may mean that we can find such fixing.  Prediction markets not only make fixing easier to profit from, by creating a liquid market for insider betting, but they also make it easier to detect, by creating a centralized database of betting for analysis:
+
+The match fixing might never have been discovered had it not been detected by Betfair, which has revolutionized online wagering since its Web site started in June 2000…Betfair has become a focal point for the growing list of match-fixing scandals. Over the past seven years, it has alerted dozens of sports about suspicious betting activity, leading to investigations in horse racing, soccer and now tennis.
+
+So the effects are mixed, and in the end we are left with the Homer Simpson-esque paradox that prediction markets are both the cause of, and the solution to, insider trading.
+
+
+title: Prediction Markets and Insider Trading
+
+date: May 24, 2008 5:06 pm
+

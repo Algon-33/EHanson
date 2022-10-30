@@ -1,0 +1,29 @@
+author: Robin Hanson
+
+text: 
+Many software engineers read this blog, and I’d love to include a section on software engineering in my book on ems. But as my software engineering expertise is limited, I ask you, dear software engineer readers, for help.
+“Ems” are future brain emulations. I’m writing a book on em social implications. Ems would substitute for human workers, and once ems were common ems would do almost all work, including software engineering. What I seek are reasonable guesses on the tools and patterns of work of em software engineers – how their tools and work patterns would differ from those today, and how those would vary with time and along some key dimensions.
+Here are some reasonable premises to work from:
+
+Software would be a bigger part of the economy, and a bigger industry overall. So it could support more specialization and pay more fixed costs.
+Progress would have been made in the design of tools, languages, hardware, etc. But there’d still be far to go to automate all tasks; more income would still go to rent ems than to rent other software.
+After an initial transition where em wages fall greatly relative to human wages, em hardware costs would thereafter fall about as fast as non-em computer hardware costs. So the relative cost to rent ems and other computer hardware would stay about the same over time. This is in stark contrast to today when hardware costs fall fast relative to human wages.
+Hardware speed will not rise as fast as hardware costs fall. Thus the cost advantage of parallel software would continue to rise.
+Emulating brains is a much more parallel task than are most software tasks today.
+Ems would typically run about a thousand times human mind speed, but would vary over a wide range of speeds. Ems in software product development races would run much faster.
+It would be possible to save a copy of an em engineer who just wrote some software, a copy available to answer questions about it, or to modify it.
+Em software engineers could sketch out a software design, and then split into many temporary copies who each work on a different part of the design, and talk with each other to negotiate boundary issues. (I don’t assume one could merge the copies afterward.)
+Most ems are crammed into a few dense cities. Toward em city centers, computing hardware is more expensive, and maximum hardware speeds are lower. Away from city centers, there are longer communication delays.
+
+Again, the key question is: how would em software tools and work patterns differ from today’s, and how would they vary with time, application, software engineer speed, and city location?
+To give you an idea of the kind of conclusions one might be tempted to draw, here are some recent suggestions of François-René Rideau:
+Amdahl’s Law applies to ems. So does Gustafson’s Law, and programming em’s will thus use their skills to develop greater artifacts than is currently possible.
+Now, if you can afford to simulate a brain, memory and massive parallelism are practically free. Fast ems will thus use programming languages that are very terse and abstract, yet extremely efficient in a parallel setting. Much more like APL than like Java. Since running the code is expensive, bugs that waste programmer latency will be much more expensive than now. In some ways more like the old days of batch processing with punch cards than the current days of fancy interactive graphical interfaces — yet in other ways, more modern and powerful than what we use now. Any static or dynamic check that can be done in parallel with respectively developing or running the code will be done — the Lisp machine will be back, except it will also sport fancy static type systems. Low-level data corruption will be unthinkable; and even what we currently think of as high-level might be low-level to fast em programmers: declarative meta-programming will be the norm, with the computer searching through large spaces of programs for solutions to meta-level constraints — machine time is much cheaper than brain time, as long as it can be parallelized. Programmers will be very parsimonious in the syntax and semantics of their programming languages and other programs; they will favor both high-falluting abstraction and ruthless efficiency over any kind of fanciness. If you don’t grok both category theory and code bumming, you won’t be the template for the em programmer of the future. Instead imagine zillions of Edward Kmett’s programming in parallel.
+At high-speed, though, latency becomes a huge bottleneck of social programming, even for these geniuses — and interplanetary travel will only make that worse. Bug fixes and new features will take forever to be published then accepted by everyone, and every team will have to develop in parallel its own redundant changes to common libraries: what to us are simple library changes to fast ems might be as expensive as agreeing on standard document is to us. (more)
+Can you improve on that? If so, let’s hear it! Since I seek robust predictions, I’ll be especially interested to hear of implications that you mostly agree on. And for this post, I’m much less interested in comments from those without computer expertise.
+
+
+title: Em Software Engineering Bleg
+
+date: October 8, 2014 4:20 pm
+

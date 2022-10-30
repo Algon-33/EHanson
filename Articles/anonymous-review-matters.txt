@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+An April 2006 JAMA reported big effects of switching to anonymous peer review for presenting at the AHA annual meeting.  Science News reported: 
+
+ The survey focused on some 67,000 research abstracts submitted to the American Heart Association (AHA) between 2000 and 2004. … Beginning in 2002, AHA changed its review process so that authors’ names and affiliations were stripped from abstracts before they were sent out for peer review. … For instance, during 2000 and 2001, abstracts from U.S. authors were 80 percent more likely to be accepted … After blinding, the U.S.-based papers were only 41 percent more likely to be accepted, … Similarly, the share of abstracts from faculty at highly regarded U.S. research universities dropped by about 20 percent, after blinding. For authors in government agencies, the acceptance rate fell by 30 percent.
+
+Clearly reviewers were using author names and affiliations as clues about quality, since their choices changed when they no longer had access to such clues.  But this study says nothing about whether this practice was biased, since it didn’t look at any other indicators of paper quality.  Hat tip to Rafe Furst. 
+
+
+title: Anonymous Review Matters
+
+date: August 3, 2007 6:00 am
+

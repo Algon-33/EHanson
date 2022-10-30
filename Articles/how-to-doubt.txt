@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Doubting conventional wisdom seems pretty central to my style and central issues.  So I took some time to ponder the general issue of doubt.  Here’s what I came up with.
+The relation between confident and doubtful states of belief is like that between the three corners of a triangle and the points within the area of the triangle. Even though there are far more area points than corner points, area points are more similar to each other, in a distance sense. In the same way, there are far more states of doubt than confidence, yet states of doubt are more similar to each other, in that they lead to similar decisions.
+What can you do about serious skepticism, i.e., the possibility that you might be quite mistaken on a great many of your beliefs? For this, you might want to consider which of your beliefs are the most reliable, in order to try to lean more on those beliefs when fixing the rest of your beliefs.  But note that this suggests there is no general answer to what to do about doubt – the answer must depend on what you think are actually your most reliable beliefs.
+When seeking your most reliable beliefs, to help fix other beliefs, you might be tempted to just consider simple beliefs like “George is my friend” or “carrots are orange.” But you may do better to rely on your less often stated beliefs that it is quite unlikely for a great many of your “independently” generated beliefs to all be mistaken.
+That is, our most potent beliefs for dealing with doubt are often our beliefs about the correlations between errors in other beliefs. This is because having low error correlations can imply that related averages and aggregates are very reliable. For example, if there is little correlation in the errors your eyes make under different conditions in judging brightness, then you need only see the same light source under many conditions to get a reliable estimate of its brightness.
+Since beliefs about low error correlations can support such strong beliefs on aggregates, in practice doubt about one’s beliefs often focuses on doubts about the correlations in one’s belief errors. If we guess that a certain set of errors have low correlation, but worry that they might really have a high correlation, it is doubts about such hidden correlations that threaten to infect many other beliefs.
+So then what do we actually worry about, when we worry that our belief errors might be correlated?  It seems to me that we mainly worry about two sources of correlated error:
+
+Hidden psychological tendencies: We worry that our mind are built in such a way as to give related errors on what appear to be unrelated topics.  Our minds might, for example, be biased toward high estimates of our ability, for many kinds of unrelated abilities.
+Hidden social coordination: We worry that our social groups coordinate so as to give related errors from what appear to be unrelated social sources. Sources that share a common ideology might, for example, make similar errors on diverse topics.
+
+Most academic consideration of radical skepticism happens in philosophy. But the above analysis suggests that if you were serious about actually doubting, instead of just discussing doubt, you’d want to study psychology and social sciences, especially hidden psychological biases and social coordination. Getting a grip on these subjects might position you well to actually consider the possibility that you might in fact be quite mistaken about a great deal.
+Of course once you do understand psych and socsci, there is no guarantee that such understanding enables you to, on your own, powerfully address your doubts.  If fact, you may end up agreeing with me that our best approach is for would-be doubters to coordinate to support new institutions that better reward correction of error, especially correlated error.  I refer of course to prediction markets.
+In sum: States of doubt are diverse, yet lead to similar decisions, relative to states of confidence. To productively doubt, you’ll want to identify beliefs in which you have greater confidence. When your belief errors have low correlation, you can have quite high confidence in certain aggregate beliefs. So doubts about belief error correlations are central to real skepticism. Since most doubts about correlations seem to arise from concerns about hidden mental tendencies and social coordination, a serious doubter will give those topics the most attention. And an ambitious doubter might join me in supporting something like prediction markets.
+
+
+title: How To Doubt
+
+date: January 5, 2011 6:00 pm
+

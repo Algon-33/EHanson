@@ -1,0 +1,25 @@
+author: Robin Hanson
+
+text: 
+Today’s New York Times mentions my work on the history of prizes and grants: 
+
+Back in the 1700s, prizes were a fairly common way to reward innovation. … Eventually, though, prizes began to be replaced by grants that awarded money upfront. Some of this was for good reason. As science became more advanced, scientists often needed to buy expensive equipment and hire a staff before having any chance of making a discovery.
+ But grants also became popular for a less worthy reason: they made life easier for the government bureaucrats who oversaw them and for the scientists who received them. Robin Hanson, an economist at George Mason University who has studied the history of prizes, points out that they create a lot of uncertainty – about who will receive money and when a government will have to pay it. Grants, on the other hand, allow a patron (and the scientists advising that patron) to choose who gets the money. "Bureaucracies like a steady flow of money, not uncertainty," said Mr. Hanson, who worked as a physicist at NASA before becoming an economist. "But prizes are often more effective if what you want is scientific progress." … 
+These are the two essential advantages of prizes. They pay for nothing but performance, and they ensure that anyone with a good idea — not just the usual experts — can take a crack at a tough problem.  
+
+  
+Historically, we saw a great change from a situation of more prize-like science funding than grant-like funding, to an almost complete reliance on grant-like funding.  This change was often accomplished by fraud: 
+
+In 1831 the founder of the dues-funded British Association for the Advancement of Science announced his plan for prize competitions. Association leaders instead instituted the first British grant system, and most money ended up going repeatedly to the same ten Association insiders. …  In 1820 the will of Baron Montyon endowed two very large annual [French] Academy prizes for "making some industrial process less unhealthy," and for "improving medical science or surgery."  The unprecedented size of Montyon’s bequest emboldened the Academy to obtain royal permission to violate Montyon’s will.
+
+While economists tend to think prizes are a better way to induce innovation, historians of science mostly praise this change, saying "The grant was a much better way of getting more research for the same amount of money."  My research showed that this historical change was predicted by a statistical model, based only on patterns of patronage among eighteenth century scientific societies:
+
+[Comparing] prize-like vs. grant-like funding among eighteenth century scientific societies, [science-focused] societies with non-autocratic, non-local government patrons were especially likely to use grant-like funding.  As these are today’s dominant patrons of basic research, eighteenth century data successfully predicts current patronage forms.
+
+This suggests that the main thing that changed was who was giving out the money.  I speculated that new patrons preferred "grant-like funding to prize-like funding because they were susceptible to distributive pressures from leaders of scientific societies, who preferred the `pork’ of increased discretion over the money that passed through their hands."  Perhaps the social status of powerful individual patrons made them less easily cowed by big-shot scientists demanding grants.   
+
+
+title: Prizes versus Grants
+
+date: January 31, 2007 10:30 am
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+A standard myth:
+Once upon a time, poor masses suffered under rich elites.  Then one day the poor realized they could revolt, and since then, the rich help the poor, fearing the poor will revolt if they ever feel they suffer too much.
+Revolution experts mostly reject this myth; famous revolutions happened after things had gotten better, not worse, for the poor. Yet Matt Yglesias (responding to Bryan Caplan responding to me) seems to echo this myth:
+Another way of putting it would be Simon (i.e., plenty) for capital and Malthus (i.e., subsistence) for labor. That, of course, is Karl Marx’s vision of long-term economic development. And while I don’t have a strong opinion as to whether or not this is accurate over the long term, it’s certainly a plausible story about the future, and Marx’s solution—socialism—unquestionably seems to me to be the correct one. Marx’s forecast of the immiseration of labor and all the returns going to the owners of capital clearly hasn’t been true in the 150 years or so since his time, but it certainly could happen. … If the robots are sentient beings, then we’d presumably be looking at an eventual slave revolt and Communist revolution.
+Matt claims that if sentient robots are poor, they must eventually revolt. Karl Smith responds:
+The robots will be EMs. But, … they will likely remember having been stems [= flesh and blood people]. … This means the robots get the ability to feel jealousy right along with the ability to engineer new products. … However, the analogy isn’t as Matt suggests a return to the late 1800s. It’s a return to the 1600s. The Stems won’t be capitalists. … The Stems will be landed gentry. …
+The EMs will likely not be slaves because there will be no reason to enslave them. The rent on land will exceed the profits from running a slave operation. Lastly the EMs will not revolt because there will be little to gain. … Stems are extremely wealthy because you are taking a tiny slice of a huge amount of economic output and then giving it to an incredibly tiny fraction of the population.
+I doubt it matters whether a tiny elite, presumably including most humans, owns capital or land.  But Karl is quite right about the key point: poverty does not by itself lead to revolt.  While a transition could be rough, once the world is in a Malthusian equilibrium there’s no particular reason to expect trillions of ems to revolt, any more than ancient farmer masses did, or most of the world’s poor today.  (Current “Arab Spring” revolts are driven more by under-employed well-educated.)
+Keep in mind that in a Malthusian world, even if future robots could grab all the capital or land, it would be worth only a modest fraction of total wealth, and a revolution could threaten the productive system on which they all depend.
+
+
+title: The Poor Don’t Revolt
+
+date: May 27, 2011 4:25 pm
+

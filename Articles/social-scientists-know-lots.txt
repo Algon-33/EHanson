@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+For me, the year’s best reading is usually the many thoughtful answers to The Edge‘s annual question.  This year they ask:
+What have you changed your mind about?  Why?
+I’d love to hang out with these folks, so maybe I should audition.  My answer:
+Social scientists know lots.
+As a physics student and computer science researcher, I assimilated the usual “hard science” perception that “social science” is an oxymoron — no one knows much about it, so your opinion is as good as anyone’s.  When I finally decided I needed social science credentials, to turn my institution hobby into a career, I focused on experimental economics, the only sort a hard scientist could trust, and Caltech, with impeccable hard science credentials.  But I was soon thoroughly convinced: social scientists know tons.
+Why then do so many people think otherwise?  Many say it is because social scientists are stupid, or the social world is too complex or uncontrollable.  Better answers are that social expertise conflicts with our overconfidence about familiar experience, or with our democratic ideology that everyone’s political opinions should get equal weight.  But the best answer, I think is that most public talk by social experts reflects little social science.  That is, what social experts say in legal or congressional testimony, or in newspapers or magazines, mostly reflects what they and we want and expect to hear, instead of what expert evidence reveals.
+
+For an analogy, consider the lives of a distant isolated group, like Al Qaeda or devil worshipers.  If most of us had strong emotional preconceptions, or if many advocates wanted us to have certain opinions about them, then we might not be able to believe much of what we heard about this group.  That is, we might not have cheap and effective ways to distinguish honest reports from those driven by other agendas.  This would not imply that no one knows anything about this distant group; insiders there surely know, for example.
+Similarly, social scientists have data and theory giving powerful insight into a great many social issues, at least to those with open minds.  Open minded social scientists talking privately can make great intellectual progress.  But powerful forces are eager to distort the messages social scientists give the public on important topics. Academics with deserved reputations for careful accurate work on obscure academic topics tend to adopt different standards when writing editorials or advising politicians.  Even if most academics would not do this, those selected for such roles usually do.
+This effect is a good reason for “intellectual travel,” to see many topics for yourself up close.  Also, a mechanism that could cut through this fog and tell the public what honest social scientists really think might have great social value, at least if the public could be shamed into listening to them.  This is one of my great hopes for prediction markets.
+
+
+title: Social Scientists Know Lots
+
+date: January 7, 2008 6:00 am
+

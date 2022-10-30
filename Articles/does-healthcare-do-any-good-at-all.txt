@@ -1,0 +1,13 @@
+author: David J. Balan
+
+text: 
+The RAND experiment showed that people with more generous health insurance consumed a lot more health care than those with less generous insurance, but didn’t have much (or maybe anything) in the way of better health outcomes.  The natural interpretation of this is that everyone, including those with less generous insurance, chooses to get all of the high-value treatments, and that the extra treatments consumed only by those with more generous insurance aren’t worth much.*  If this was true, then Robin’s suggestion to radically cut health care would follow directly; it would be the low-value marginal treatments that would get cut while the high-value infra-marginal treatments would remain.  This would also be consistent with the evidence that it is damaging to one’s health to have no insurance at all (everyone in the RAND experiment had insurance of some kind), as people with no insurance would be missing out on (at least some of) the high-value infra-marginal treatments along with the low-value marginal ones.
+The problem is that some of the other evidence from the RAND study is not really consistent with this story.  It seems that the marginal care consumed only by people with more generous insurance is not just low-value stuff.  The marginal treatments consumed only by those with more generous insurance, in the opinion of expert doctors, looks a lot like the infra-marginal treatments consumed by everybody.  But if that’s true, doesn’t it have to mean that all health care is of little value?  If the marginal care looks just like the infra-marginal care, and the marginal care is of little value, then doesn’t the infra-marginal care have to be of little value too?  I don’t think anybody seriously believes that, which makes me think that there is something wrong with the studies that say that the marginal care is just like the infra-marginal care.  Does anyone have any other ideas?
+  
+*I ignore here the possibility that these marginal treatments provide little improvement in health as measured by the study, but provide substantial quality-of-life benefits.  I also ignore the possibility that things have changed in a fundamental way since the RAND study was done many years ago; a possibility that Robin has recognized and responded to with a call that the RAND experiment be repeated.
+
+
+title: Does Healthcare Do Any Good At All?
+
+date: December 11, 2007 6:00 am
+

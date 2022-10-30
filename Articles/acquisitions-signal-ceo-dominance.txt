@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+CEOs may try to acquire other companies in order to signal dominance within their firm.  At least this is my interpretation of this article in the Sept. Journal of Economics and Business:
+
+ Logistic regression and Australian data … suggest that both CEO overconfidence and CEO dominance are important in explaining the decision to acquire another firm. When compared to existing US studies, the evidence on CEO overconfidence is robust across two different financial and corporate governance systems. Our results also indicate that CEO dominance is at least as significant as CEO overconfidence in the decision to undertake an acquisition. 
+
+ Humans constantly struggle to achieve and signal dominance over each other.  Since in equilibrium more dominant CEOs are in fact better able to push through an acquisition, doing so is a credible way to signal that you do in fact dominate decision making in your firm.   And since signals must always "overdo" it to be credible, this may explain why acquisitions appear to be "overconfident." 
+Btw, I’ve been wondering: what fraction of a CEO pay is for the value he adds to key decisions, versus the value he adds by being an impressive person for employees to look up to, outsiders to meet, admire, feel comfortable with, and so on?   
+
+
+title: Acquisitions Signal CEO Dominance
+
+date: September 14, 2007 6:00 am
+

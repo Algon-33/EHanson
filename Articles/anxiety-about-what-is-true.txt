@@ -1,0 +1,17 @@
+author: Hal Finney
+
+text: 
+Robin links to an article about apparent manipulation of the medical process by drug manufacturers, dealing particularly with the drug Fosamax which is supposed to improve bone strength. The article raises the possibility that many modern diseases don’t exist at all but are the creation of the pharmaceutical industry to give them tools to sell more drugs.
+My wife used to take Fosamax, so this was a topic of interest to me. To learn more, I did a search on scholar.google.com for “fosamax hip-fracture”. It looks to me like most of the hits are pretty favorable to the drug, but how much does that really prove?
+  
+From the 1st hit: “Therefore, for postmenopausal women with low bone mass, alendronate is well tolerated and produces significant, progressive increases in BMD at the lumbar spine and hip in addition to significant reduction in the risk of nonvertebral fracture.” From the 3rd hit, a recent meta-analysis: “We conclude that therapy with alendronate is associated with significant and clinically important reductions in the incidence of hip fracture in women with postmenopausal osteoporosis. The overall reduction is consistent among different patient populations.” From the 5th hit: “These data demonstrate that treatment with alendronate reduces the risk of multiple symptomatic fractures during a treatment period averaging 4.3 years. The reductions were consistent across prespecified subgroups. This effect is evident early in treatment and is sustained.”
+The issue that bothers me is, how are non-specialists to know what is true? What is the best methodology to follow for a lay person to reach the truth? In this case, should he go to the primary sources, study medical textbooks to learn the details of bone dynamics, read all the recent research to get up to date, look at results from the various drug studies, learn about the pharmaceutical industry and the incentives governing research and publication, weigh all this evidence and come to his own conclusion? That would be a big job. And it is not at all clear that this method is likely to succeed, given that there is substantial disagreement among people who have in fact performed all these steps.
+Or should he do as I did, a quick perusal of a sampling of results, reading through a few abstracts to find key sentences in the conclusions, to get a sense of the overall consensus in the field?
+Or should he rely on the various exposes and/or rebuttals which float about on the web, perhaps focusing on those which best fit into his individual prejudices, preconceptions and ideological biases? That seems to be what most people do.
+For a lot of “big” issues it doesn’t really matter; the individual’s opinion has no effect. But for questions of personal health, nutrition and similar issues, this kind of information could make a big difference in many individuals’ lives. Nobody wants a hip fracture in old age, but OTOH they don’t want their jaw to dissolve or whatever other horrific side effect may manifest. Our lack of a social consensus on a good mechanism for approximating the truth on controversial issues seems to me to be a major stumbling block in improving health and welfare.
+
+
+title: Anxiety about what is true
+
+date: April 5, 2008 11:58 am
+

@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+It seems to me that people tend to ask their associates for advice too little, at least relative to the goal of improving their decisions. One key explanation: associates get mad when we don’t follow their advice:
+We study the effect of participative decision making in an experimental principal agent game, where the principal can consult the agent’s preferred option regarding the task to be undertaken in the final stage of the game. We show that consulting the agent was beneficial to principals as long as they followed the agent’s choice. Ignoring the agent’s choice was detrimental to the principal as it engendered negative emotions and low levels of transfers. Nevertheless, the majority of principals were reluctant to change their mind and adopt the agent’s proposal. Our results suggest that the ability to change one’s own mind is an important dimension of managerial success. (more; HT Dan Houser)
+Giving advice seems to confer status, at least if the advice is followed. Which helps explain why so much unwanted advice is offered.
+
+
+title: Advising For Status
+
+date: October 3, 2011 6:00 pm
+

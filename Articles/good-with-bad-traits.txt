@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+Here’s something odd to ponder: we generally think we are better than average, but tend to think we have particular personality traits that are less socially desirable. Two from the latest JPSP:
+The tendency for people to evaluate themselves more favorably than an average-peer—the better-than-average effect (BTAE)—is among the most well-documented effects in the social-psychological literature. The BTAE has been demonstrated in many populations with various methodologies. … For dimensions on which the self is positively evaluated, enhancement motives restrict the extent to which average-peer assimilation occurs. But for dimensions on which the self is negatively evaluated, enhancement motives amplify average-peer assimilation. (more)
+Consensus studies from 4 cultures—in Belgium, the Czech Republic, Estonia, and Germany—as well as secondary analyses … from 29 cultures suggest that there is a cross-culturally replicable pattern of difference between internal and external perspectives for the Big Five personality traits. People see themselves as more neurotic and open to experience compared to how they are seen by other people. External observers generally hold a higher opinion of an individual’s conscientiousness than he or she does about him- or herself. As a rule, people think that they have more positive emotions and excitement seeking but much less assertiveness than it seems from the vantage point of an external observer. … A relatively strong negative correlation (r = −.53) between the average self-minus-observer profile and social desirability ratings suggests that people in most studied cultures view themselves less favorably than they are perceived by others (more)
+
+
+title: Good With Bad Traits
+
+date: October 27, 2010 9:20 am
+

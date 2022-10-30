@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+In the spy business a "mole" pretends to work for A, but really works for B.  The mole may usually do very little for B, and B may avoid acting visibly on any info the mole passes on.  The idea is to move the mole up the A hierarchy, and to wait for rare high leverage situations.
+Unfortunately something similar seems to hold for pundits, columnists, etc.  Before becoming a pundit someone may spend a long career as a trustworthy academic or journalist, giving careful measured evaluations of the small issues before them.  As a pundit they may even usually give thoughtful reasoned commentary on issues of moderate importance.   
+But every four years, when a major election is at stake, or when a big crisis appears, styles change.  In their world folks mutter, "pull out all the stops, this is really important."  They may retain the outward appearance of keeping to their previous standards, but in fact they start to say whatever it takes to push "their side."   
+Just as moles mean we can rely on our spies least when we need them most, pushy election pundits also imply we can rely on our pundits least when we need them most.  (This key mole insight came from a talk by Robert Axelrod.) 
+
+
+title: Pundits As Moles
+
+date: September 24, 2008 6:00 am
+

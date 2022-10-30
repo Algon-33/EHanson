@@ -1,0 +1,19 @@
+author: Andrew
+
+text: 
+One thing that bugs me is that there seems to be so little model checking done in statistics.  Data-based model checking is a powerful tool for overcoming bias, and it’s frustrating to see this tool used so rarely.  As I wrote in this referee report,
+
+ I’d like to see some graphs of the raw data, along with replicated datasets from the model. The paper admirably connects the underlying problem to the statistical model; however, the Bayesian approach requires a lot of modeling assumptions, and I’d be a lot more convinced if I could (a) see some of the data and (b) see that the fitted model would produce simulations that look somewhat like the actual data. Otherwise we’re taking it all on faith. 
+
+But, why, if this is such a good idea, do people not do it?  
+  
+I don’t buy the cynical answer that people don’t want to falsify their own models. My preferred explanation might be called sociological and goes as follows: We’re often told to check model fit. But suppose we fit a model, write a paper, and check the model fit with a graph. If the fit is ok, then why bother with the graph: the model is OK, right? If the fit shows problems (which, realistically, it should, if you think hard enough about how to make your model-checking graph), then you better not include the graph in the paper, or the reviewers will reject, saying that you should fix your model. And once you’ve fit the better model, no need for the graph.  
+The result is: (a) a bloodless view of statistics in which only the good models appear, leaving readers in the dark about all the steps needed to get there; or, worse, (b) statisticians (and, in general, researchers) not checking the fit of their model in the first place, so that neither the original researchers nor the readers of the journal learn about the problems with the model.
+One more thing . . .
+You might say that there’s no reason to bother with model checking since all models are false anyway. I do believe that all models are false, but for me the purpose of model checking is not to accept or reject a model, but to reveal aspects of the data that are not captured by the fitted model. (See chapter 6 of Bayesian Data Analysis for some examples.)
+
+
+title: Why so little model checking done in statistics?
+
+date: September 22, 2007 10:00 am
+

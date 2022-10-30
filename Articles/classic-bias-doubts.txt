@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Thomas Reid (1785):
+
+If a man’s honesty were called into question, it would be ridiculous to refer to the man’s own word, whether he be honest or not. The same absurdity there is in attempting to prove, by any kind of reasoning, probable or demonstrative, that our reason is not fallacious, since the very point in question is, whether reasoning may be trusted.
+
+Charles Darwin (1877):
+
+With me, the horrid doubt always arises whether the convictions of man’s mind, which has been developed from the mind of the lower animals, are of any value or at all trustworthy. Would any one trust in the convictions of a monkey’s mind, if there are any convictions in such a mind? (Darwin 1887)"
+
+Alvin Plantinga (2007):
+
+What our minds are for (if anything) is not the production of true beliefs, but the production of adaptive behavior: that our species has survived and evolved at most guarantees that our behavior is adaptive; it does not guarantee or even make it likely that our belief-producing processes are for the most part reliable, or that our beliefs are for the most part true. That is because our behavior could perfectly well be adaptive, but our beliefs false as often as true. 
+
+If we can reasonably expect only a weak correlation between true and adaptive beliefs, then we should lower our confidence in all our beliefs to match this correlation level.  If we can identify topics where the correlation should be stronger or weaker, then we should adjust beliefs on those topics to match each topic’s correlation level.   
+ Adaptive beliefs about the relative location, abilities, weaknesses, and intentions of predators, prey, competitors, and mates should be reasonably true, but we have less  reason to expect adaptive gains from true beliefs about abstract topics like the origin of the universe or the mood of the stars.  
+
+
+title: Classic Bias Doubts
+
+date: March 20, 2007 6:00 am
+

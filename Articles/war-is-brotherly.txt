@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+From a new NBER working paper:
+We examine the empirical relationship between the occurrence of interstate conflicts and the degree of relatedness between countries, showing that populations that are genetically closer are more prone to go to war with each other, even after controlling for a wide set of measures of geographic distance and other factors that affect conflict, including measures of trade and democracy.
+So instead of war being conflict between natural genetic alliances, war is sibling rivalry writ large?  Perhaps this won’t hold up to further scrutiny, but it sure is provocative.
+
+
+title: War Is Brotherly
+
+date: June 30, 2009 10:30 pm
+

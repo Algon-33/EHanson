@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+Last Monday I gave a talk (slides, audio) at VCU econ, on decision markets and futarchy.
+
+
+title: VCU Futarchy Talk
+
+date: December 4, 2010 10:00 am
+

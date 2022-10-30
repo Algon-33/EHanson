@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+When reporters are assigned to write articles on controversial topics, how much readers can learn from their articles depends on how much those reporter learn when investigating their topics.
+Now on most controversies readers expect to see two main sides, each easily predicted from standard social divisions like left vs. right, male vs. female, etc.  So if a reporter interviews a random set of smart folks knowledgeable on a topic, they are likely to hear a wide range of complex opinions and arguments, and so they risk appearing confusing and unbalanced by giving too little coverage to one of the two main sides.
+So busy reporters take an easier approach: they keep a stable of standard sources who are clearly identified with some side of a standard division, e.g., left or right, and can be relied on to take predictable positions associated with that side.  That is, they interview ideologues.
+Ideologues allow reporters to quickly collect quotes to fill out a standard story format, listing some arguments from each of the two expected sides.  If reporters instead interviewed generally smart thoughtful people, they’d get more and more complex positions.  These would be harder to explain, and risk the article seeming unfairly balanced.
+There are three kinds of info one might learn about any controversy:
+
+ What are the various positions taken
+ Which folks take what positions
+ What arguments are offered for and against each position
+
+What we learn from the usual reporter process is mainly the arguments offered by ideologues trying to support the expected two sides.  We don’t learn about arguments that don’t clearly support an expected side, nor about the wider space of positions taken, nor about the distribution of opinions on the topic.
+From Alex Tabarrok explaining why he gets interviewed more often than Nobel prize winners.
+
+
+title: Balance Blocks News Info
+
+date: December 17, 2009 8:00 am
+

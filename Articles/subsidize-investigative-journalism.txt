@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+At Cato Unbound, Paul Starr calls for an investigative journalism subsidy:
+Many regional papers in the United States have cut back or shut down their Washington bureaus, reducing coverage of their region’s representatives in Congress and the implications of federal policy for their area. The analogous process has also happened within the states; in the past five years, according to surveys by the American Journalism Review, the number of reporters covering state government has dropped by one-third … Will non-commercial patrons step in to rectify this imbalance and finance more public-service journalism? Perhaps, but I see no reason to assume so. …
+Public policy in the United States didn’t always put the public press at a relative disadvantage. Beginning in the 1790s, when most papers were partisan, Congress subsidized their development through postal policy. The postal rates for sending newspapers through the mail were set below cost, and editors could exchange copies with one another at no charge. Congress also refrained from taxing newspapers, a legacy of colonial opposition to Britain’s Stamp Act. …
+While partisan journalism has a legitimate place, we also need sources of reported news that can be widely trusted.  … Government subsidies that are viewpoint-neutral and that do not give officials any discretion may be a less constraining method of supporting journalism than leaving it to dependence on patrons. Today, any such subsidies should be not only viewpoint-neutral, but also platform-neutral. We need the modern equivalent of the postal subsidies of the early American republic, except that there ought to be no bias in favor of publications that appear in print.
+At a modest cost, investigative journalists add enormous value to the health of our political system, and media firms capture only a small fraction of that value.  This sets a strong presumption of a market failure, and hence a strong argument for neutral subsidies.   I completely agree: let’s raise low-official-discretion subsidies of political investigative journalism.  There is clearly a tradeoff between how narrowly targeted is any subsidy, and how much discretion that produces.  But many available options seem better than the status quo.
+
+
+title: Subsidize Investigative Journalism
+
+date: July 17, 2009 1:30 pm
+

@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Usually, I don’t get worked up about local short term trends; I try to focus on global long term trends, which mostly look pretty good (at least until the next great era comes). But lately I’ve seen some worrying changes to big trends. For example, while for over a century IQ has risen and death rates have fallen, both steadily, in the last two decades IQ has stopped rising (as has height) in most rich nations, and in the U.S. death rates have started rising. Economic growth also seems to have slowed, thought not stopped, world-wide.
+Added to these are some worrisome long term trends. Global warming continues. Fertility has been falling for centuries. Rates of innovation per innovator have been falling greatly for perhaps a century. And since the end of the world wars, within-nation inequality and political polarization has been increasing.
+One good-looking trend that hasn’t reversed lately is a falling rate of violence, via crime, civil war, and war between nations. But this graph of war deaths over the last 600 years makes me pause:
+
+Yes, war death rates have fallen since the world wars, but those wars were a historical peak. And though the pattern is noisy, we seem to see a roughly half century cycle (as noted by Turchin), a cycle that is perhaps increasing in magnitude. So we have to wonder: are we now near a war cycle nadir, with another war peak coming soon?
+The stakes here are hard to exaggerate. If war is coming back soon, the next peak might be high, maybe even a record high. And the easiest way to imagine achieving that is via nukes. If war may come back soon with a vengeance, we must consider preparing for that possibility.
+Not only have we seen fewer war deaths since the world wars, we’ve also seen a great reduction in social support for military virtues, values, and investments. Compared to our ancestors, we glorify soldiers less, and less steel non-soldiers to sacrifice for war. (E.g., see They Shall Not Grow Old.) In contrast, ancient societies were in many ways organized around war, offering great status and support for warriors. They even supported soldiers raping, pillaging, exterminating, and enslaving enemies.
+Yes, trying to create more local social support for war might well help create the next rise of war. Which could be a terrible thing. (Yes my even talking about this could help cause it, but even here I prioritize honesty.) However, if preparing more sooner for war helps nations to win or at least survive the next war peak, do you really want it to be only other nations who gain that advantage?
+Given the stakes here, it seems terribly important to better understand the causes of the recent decline in war deaths. I’ve proposed a farmers-returning-to-foragers story, whose simplest version predicts a continuing decline. But I’m far from confident of that simplest version, which would not have predicted the world wars as a historical peak. Please fellow intellectuals, let’s figure this out!
+
+
+title: Will War Return?
+
+date: July 23, 2019 3:00 pm
+

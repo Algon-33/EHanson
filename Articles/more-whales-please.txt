@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+I was struck by this quote in the paper cited in my last post:
+The biosphere considered as a whole has managed to expand the amount of solar energy captured for metabolism to around 5%, limited by the nonuniform presence of key nutrients across the Earth’s surface — primarily fresh water, phosphorus, and nitrogen. Life on Earth is not free-energy-limited because, up until recently, it has not had the intelligence and mega-engineering to distribute Earth’s resources to all of the places solar energy happens to fall, and so it is, in most places, nutrient-limited. (more)
+That reminded me of reading earlier this year about how whale poop was once a great nutrient distributor:
+A couple of centuries ago, the southern seas were packed with baleen whales. Blue whales, the biggest creatures on Earth, were a hundred times more plentiful than they are today. Biologists couldn’t understand how whales could feed themselves in such an iron-poor environment. And now we may have an answer: Whales are extraordinary recyclers. What whales consume (which is a lot), they give back. (more)
+It seems we should save (and expand) the whales because of their huge positive externality on other fish. If humans manage to increase the fraction of solar energy used by life on Earth, it will be primarily because of trade and transport. Transport gives us the ability to move lots of nutrients, and trade gives us the incentives to move them.
+
+
+title: More Whales Please
+
+date: October 4, 2014 10:36 am
+

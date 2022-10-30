@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+It seems that the puzzle of why death rates rise in good economic times is nearly solved. There’s an effect of increased driving deaths from increased driving, but the main effect is that in good times nursing homes have to compete more for minimum wage nursing assistants. Apparently a one percentage point cut in the unemployment rate leads to three percent fewer nursing assistants, which increases the national death rate by a half percent (which cuts about three weeks of life per person):
+We find that most of the additional deaths that occur during times of economic growth are among the elderly, particularly elderly women. … Cyclicality is especially strong for deaths occurring in nursing homes, and is stronger in states where a higher fraction of the elderly reside in nursing homes. … Staffing in skilled nursing facilities moves counter-cyclically.
+A typical estimate suggests that a one-percentage point increase in a state’s unemployment rate leads to a 0.54% reduction in that state’s mortality rate. … Deaths by motor vehicle accidents are associated with the largest coefficient estimate. … It is likely that motor vehicle deaths fluctuate because people drive more during strong economic times. …
+Approximately 80 percent of the averted respiratory deaths are among those over age 60. … Virtually all of the additional cardiovascular deaths are among those over age 65. … The correlation between changes in hospital employment and changes in aggregate employment is strongly negative (-0.90). … Nursing homes experience especially severe shortages of nursing aides when the economy is strong. … Between 70 to 90% of home health care agencies and nursing homes indicate shortages of direct care workers. …
+Nursing home deaths are associated with an estimated [unemployment rate] coefficient that is an order of magnitude larger than the coefficient that is estimated among deaths taking place elsewhere. …
+A one percentage point increase in the unemployment rate raises total full-time employment at skilled nursing facilities by approximately three percent.  There is no statistically significant increase in the number of physicians, but there are significant increases in nurses, certified aides, and other occupations. (more)
+A quick calculation says the US paid ~$13 billion for nursing assistant salaries in 2004, less than one percent of US medical spending (source). By cutting nursing assistants 3% when unemployment falls by 1% (and cutting three weeks off US lifespan), we save ~$400 million a year, or one part in 5000 of US medical spending.
+Given how cheap they are, it seems inexcusable that we don’t raise wages on nursing assistants in boom times, to keep nursing homes fully staffed. Might this be due to a fixed government price that refuses to adapt to the business cycle?
+Added 23Dec: See the comment here suggesting that med understaffing is chronic and makes a big difference.
+
+
+title: Why Boom Times Kill
+
+date: December 19, 2011 1:30 pm
+

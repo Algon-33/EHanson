@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+Medical publication bias was real:
+
+The makers of antidepressants like Prozac and Paxil never published the results of about a third of the drug trials that they conducted to win government approval, misleading doctors and consumers about the drugs’ true effectiveness, a new analysis has found. … The new analysis, reviewing data from 74 trials involving 12 drugs, is the most thorough to date. And it documents a large difference: while 94 percent of the positive studies found their way into print, just 14 percent of those with disappointing or uncertain results did. … In the study, a team of researchers identified all antidepressant trials submitted to the Food and Drug Administration to win approval from 1987 to 2004.  The studies involved 12,564 adult patients testing drugs like Prozac from Eli Lilly, Zoloft from Pfizer and Effexor from Wyeth. 
+
+Fortunately, you needn’t worry; the problem has been fixed: 
+
+Alan Goldhammer, deputy vice president for regulatory affairs at the Pharmaceutical Research and Manufacturers of America, said the new study neglected to mention that industry and government had already taken steps to make clinical trial information more transparent. "This is all based on data from before 2004, and since then we’ve put to rest the myth that companies have anything to hide," he said.
+
+Can you guess what he will say if the same results are found in data through 2007, but not published until 2011? 
+
+
+title: Antidepressant Publication Bias
+
+date: January 17, 2008 10:13 pm
+

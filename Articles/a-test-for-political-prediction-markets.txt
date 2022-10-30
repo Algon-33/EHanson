@@ -1,0 +1,18 @@
+author: James Miller
+
+text: 
+Ron Rosenbaum writes:
+
+"So I was down in DC this past weekend and happened to run into a well-connected media person, who told me flatly, unequivocally that ‘everyone knows’ The LA Times was sitting on a story, all wrapped up and ready to go about what is a potentially devastating sexual scandal involving a leading Presidential candidate. ‘Everyone knows’ meaning everyone in the DC mainstream media political reporting world….By the way, it’s not the Edwards rumor, it’s something else."
+
+Slate’s Mickey Kaus thinks this speculation is worth repeating.
+If there really is some “devastating sexual scandal involving a leading Presidential candidate” that the general public is not aware of but everyone in the “DC mainstream media political reporting world” knows then we have a perfect test for political prediction markets.
+The price of candidates in prediction markets should take into account information known only to DC mainstream political reporters.  The prediction market Intrade gives Obama a 12.6% chance of capturing the Democratic nomination.  I follow politics fairly closely and this 12.6% seems low to me based on the information I have.  Obama has lots of cash, is doing well in the Iowa polls and lots of Democrats are worried about Clinton’s chance of winning in a general election.  So it seems very possible to me that Obama’s prediction market price is being negatively influenced by something that the general public is unaware of.
+Intrade gives Clinton a 71.3% chance of winning the Presidential election and a 47.7% chance of becoming president.  Some people are speculating that Rosenbaum’s devastating sex scandal involves Clinton.  If this is true then her Intrade prices should be much lower than they currently are.  
+In sum, if many media members have private information about an Obama sex scandal then the Intrade prediction markets are working as prediction market enthusiasts would hope and thus the Obama scandal represents a victory for prediction markets.  If, however, many members of the media have private information about a devastating Hillary Clinton scandal then prediction markets, in this instance, have failed us and supporters of prediction markets will have to rethink our enthusiasm towards them.
+
+
+title: A test for political prediction markets
+
+date: November 4, 2007 10:00 am
+

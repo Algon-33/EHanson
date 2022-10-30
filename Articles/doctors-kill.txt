@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+On reflection, I suspect the main thing keeping me from convincing people that the second half of medical spending hurts as often as it helps is a reluctance to believe that "doctors kill."   I should argue more like the October AEI Health Policy Outlook: 
+
+Hospital-acquired infections1 (HAIs) are estimated by the World Health Organization (WHO) to kill between 1.5 and 3 million people every year … Even in the United States, nearly 100,000 people die from HAIs every year. Someone who is already sick – that is, a hospital patient – is especially susceptible to new infection, since his immunity is compromised. Whatever bug is going around is likely to flourish. Hospitals can be dangerous places. … A recent study … at fifteen hospitals in Ontario showed that less than one third of doctors and nurses washed their hands between patients as required by good practice …
+A recent investigation into how long nosocomial pathogens can survive on dry surfaces [found that] … the most common – Methicillin-resistant Staphylococcus aureus (MRSA), Clostridium difficile, E. coli, and tuberculosis lasted for months on surfaces and remained continuous sources of infection if no regular disinfection was performed. The study also flatly contradicts the common belief that HIV can last only a short time outside the body, stating that "blood-borne viruses, such as hepatitis B and HIV, can last over a week on dry surfaces."  …
+
+  
+
+WHO estimates that at least 16 billion injections are given every year in developing and transitional countries. Less than 5 percent of these are immunizations; over 70 percent are unnecessary or could be given orally. Patients believe injections deliver faster, stronger medicines, and doctors over-prescribe injections to satisfy them. In some cases, nine out of ten patients receive an injection at every visit. … Assessments carried out by WHO in numerous countries have revealed that syringes and needles are often just rinsed in a pot of tepid water between injections. Worldwide, up to 40 percent of injections are given with syringes and needles reused without sterilization. In some countries, this proportion is as high as 70 percent. …
+A recent mathematical model suggested that unsafe injections may cause 8-16 million cases of hepatitis B, 2.3-4.5 million cases of hepatitis C, and 80-160,000 cases of HIV annually worldwide … In the past year, a study in Zambia led by the CDC found that medical injections – whether into muscle or veins – "were overwhelmingly correlated with HIV prevalence, exceeding the contribution of sexual behaviours in a multivariable logistic regression." … On demographic, medical, cultural, and sexual behavior … criteria the women were in the low-risk category for HIV… and yet 30.3 percent were found to be HIV positive. … the most significant risk factor to which these women had been exposed was going to a clinic and having an injection. As the authors conclude, "medical injection history made an overwhelming contribution to explaining prevalent HIV infection, even after demographic variables, sexual behaviours, and substance abuse were already parcelled out of . . . the . . . equation." In this study, all risk factors were compared with each other for perhaps the first time, and the results seriously undermine current public health messages on HIV.
+
+A colleague of my wife was a nurse at a local hospital, and was assigned to see if doctors were washing their hands enough.  She identified and reported the worst offender, whose patients were suffering as a result.  That doctor had her fired; he still works there not washing his hands.  Presumably other nurses assigned afterward learned their lesson.  Hat tip to Michael Cannon.
+
+
+title: Doctors Kill
+
+date: October 16, 2007 6:00 am
+

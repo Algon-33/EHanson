@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+From a distance it seems obvious – in the vast space of interesting topics, academics clump around a few familiar themes, neglecting vast territories between the currently fashionable clumps. This is sure how it seems to outsiders and students, at least for fields like social science or literature, fields which must cover a vast territory.   For example, economists have thousands of papers on auctions, and hardly any papers on romance, even though most people think romance far more interesting and important than auctions. 
+ But up close, academics don’t seem to see it that way.  Journal referees usually reject submissions on the neglected topics as "uninteresting," in favor of variations on the current fashionable topics, which referees call "interesting."  Thus outsiders disagree with insiders on what topics are "interesting."  
+ Outsiders complain that clumping comes from insiders rewarding papers that build on their own work, no matter how obscure.  But insiders say only they know the details which are crucial to deciding what is most interesting.  How can we decide between these two views?
+Added:  Socially valuable reasons academics could clump include focusing on rare productive areas, and local scale economies of work, competition, and evaluation.    
+
+
+title: Academia Clumps
+
+date: November 26, 2007 8:00 am
+

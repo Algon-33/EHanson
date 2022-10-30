@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Imagine someone argued:
+Stock car races are a huge waste of resources.  To find out which car models are faster, we can just have experts keep track of the speed of the cars they drive past, and write up their observations.  Then we’ll have them debate each other.  Sure some biases might slip in, but we shouldn’t pretend we can escape bias; stock car races can have biases too.  For example, there might be a pebble on one side of the track that isn’t on the other side, or the sun might get in one driver’s eye for a moment but not in another’s.
+Or imagine:
+Big formal elections are a huge waste of resources.  To find out which candidate is more popular, we can just have experts survey different groups at different times, and write up their observations.  Then we’ll have them debate each other.  Sure some biases might slip in, but we shouldn’t pretend we can escape bias; elections can have biases too.  After all, rain on election day, or certain news the day before, might discourage some kinds of voters but not others.
+To me, Austin Frakt on medical experiments talks similarly.  Him:
+Randomized experiments differ only in degree from nonexperimental evaluations of causal effects … The half-billion dollars or so that some advocate spending on another RAND HIE would arguably be better spent funding [~1000] well-conceived observational or natural experiment-based studies.
+Me:
+No doubt a thousand “well-conceived” observational studies, neutrally executed and interpreted, could in principle give more total info than one big experiment.  But … [this] would give many thousands of opportunities for such biases to skew their results. … The main hope for [a clear decisive answer comes] from just a few big experiments focused clear health outcomes agreed on ahead of time.
+Him:
+The potential for bias in general does not necessarily mean that this randomized study in particular should be preferred. … Contamination of experimental arms, attrition, … [mistaken] statistical corrections … selective reporting of results. … limitations in their generalizability. Even the original RAND HIE has a few imperfections. … Ten years is a very long time in health care. By the time a second RAND HIE study is complete … the new results will be stale. …
+No doubt the results of 1,000 such studies would not be unanimous, … But … there would be a general consensus on some questions … To be sure there would be room for debate … just as there is in the case of the RAND HIE. …  And that is really my main point. No study, or collection of studies, can ever be the definitive word on a subject. There will always be debate. … The best we can hope is that they inform, not that they settle, debate.
+More likely than not, medicine is on average is near useless or harmful on the margin; that is my best reading of the evidence.  When I try to persuade folks, I start with our single best data point, the old RAND experiment, but people complain it was too small, short, and long ago (and it let folks leave too easily).  When I point to other studies they suggest I must be biased about which studies I cite.  Other experts are cagey about how much they agree with me.  Most agree the effect seems small, but many insist that even tiny effects are oh so important; and we don’t dare cut back, as that would be giving up on maybe improving things.
+Lots of small diverse flawed studies, plus lots of diverse  researchers each choosing their own criteria for rating and debating them, seems to me a recipe for everyone believing whatever they want.  Without one (or a few) very strong very clear studies, there is simply no way to convince most folks that marginal medicine is on average useless, and we should cut way back.  And with folks like Austin Frakt eager to make sure there is plenty of room for debate, we may never get such clarity.
+Added: Austin responds.
+
+
+title: Too Much Debate
+
+date: April 8, 2010 9:35 pm
+

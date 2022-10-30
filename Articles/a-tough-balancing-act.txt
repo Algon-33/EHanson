@@ -1,0 +1,21 @@
+author: Patri Friedman
+
+text: 
+My interest in bias is indirect: what I really want is the truth, and bias gets in the way.  One subtle effect of bias is its effect on movements (political or otherwise).  Once a movement forms to the degree where it is an identifiable entity, it seems to almost inevitably become an echo chamber.  Even its original inspiration is true, it will be amplified into falsehood.
+For example, as is natural in someone interested in bias, for awhile I self-labeled as a skeptic.  I even subscribed to The Skeptical Inquirer – but I did not renew.  The magazine seemed to spend most of its time on the easy cases, like UFOs and psychics, rather than the interesting ones on the fractal boundary between truth and falsehood, where diligent examination is necessary (but not always sufficient) to determine the truth.  If you’ve read anything about bias, this tendency to repeatedly confirm known truths should be a red flag.  A true skeptic should be honing his faculties on the hard cases which expand our knowledge, not the easy ones which play to the crowd.
+For example, Michael Shermer recently linked approvingly to this post by David Cowan "debunking" Airborne, a multivitamin product sold to help prevent and fight colds.  The argument is:
+  
+
+The product uses sneaky marketing and exaggerated claims to get people to buy it.
+The FDA has not evaluated the product’s claims.
+There are no studies of Airborne supporting its effectiveness – there was one small study by a non-objective party whose results the company will not make available.
+
+The heuristic that Cowan uses is to assume that these facts must indicate that the product is snake oil.  Since I happen to have researched many vitamins, I used a more effective one – looking at the ingredients.  Airborne contains a number of vitamins and minerals, including at least two (vitamin C and Zinc), for which there is significant evidence of (modest) cold-fighting ability.  In fact, the box of zinc lozenges in front of me says "Clinically proven to reduce the duration of the common cold", refers to a specific study on the back, and has no FDA disclaimer, which I believe means the FDA accepts that the claim has been demonstrated.  And Airborne contains this same ingredient.
+To be fair, at the end of Shermer’s column, in what he describes as "one final lunge at product verisimilitude", he consults someone who looks up the ingredients, and notes that vitamin C is mildly efficacious (his consultant seems to have missed the zinc).  But he seems to be using this as a disproof of the product’s miraculous marketing claims, rather than a demonstration of its modest benefits.
+Hence why I am skeptical about any movement – even the Skeptics.  After all, if your disbelief has a hair-trigger, it should probably have wide confidence intervals too.  For a similar case related to life extension skepticism, see Chris Mooney’s Doubt and About column.
+
+
+title: A Tough Balancing Act
+
+date: April 3, 2007 11:42 pm
+

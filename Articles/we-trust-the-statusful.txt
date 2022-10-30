@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+The ancient world heavily favored aristocrats for important social positions. Yes, they were probably on average more competent in many ways, but many have claimed that good family connections were favored more strongly than can be explained by this effect.
+You might argue that aristocrats were just conspiring to favor themselves, but it seems that others also shared their preference. For example, many stories (e.g.) describe someone seeking an audience with a high official, out of a belief that higher officials must be less corrupt and more concerned with general welfare, relative to the lower ones. “If only the king would hear, he’d do something.”
+It seems to me that humans have generally trusted higher status people more, and that we still do so today. For example, status is the main way we trust doctors, lawyers, CEOs, fund managers, and many other professionals (instead of track records or incentive contracts).
+As another example, even though people say that they trust smaller orgs more than big ones, people say they trust those at the top of orgs more than those at the bottom. Yes, top people get more easily spread their messages blaming lower folks for problems, and can more easily repress lower folks who blame them. But it seems most people don’t correct for this, or don’t see it as a big correction.
+Furthermore, consider our criminal law system. Whether and how much a possible criminal is accused or punished is influenced by many parties. First police, then prosecutors, then judges, then appellate judges, then executives who can pardon, and finally prison wardens and parole boards who influence prison duration and severity. All of these parties are either politicians, political appointees, or folks appointed directly or indirectly by such appointees, and thus should all have incentives to please such people.
+Yet if you ask people who they trust to make choices in this system, they consistently prefer the higher status people. In some recent polls, I’ve found that they trust prosecutors more than police, trust judges more than prosecutors, trust judges more than prison wardens or parole boards, and trust executives whose pardons overrule judges. Furthermore, people only proposed recently to “defund” the lowest status among these groups, and one of the main proposals to make police more trustworthy is to require more years of education, i.e., to raise their status.
+Some people say this is because the higher status groups have better incentives. But we have chosen the incentives that each of these parties to be what they are, and we could, if we wanted, give all these other groups the same incentives we now give the most trusted group, judges. The relative status of these groups seems to me a cleaner explanation.
+I think we are suffering enormous losses from trusting based on status, instead of using other methods. But it seems very hard to displace our innate trust of the high status enough to get people to consider such alternatives. We don’t seek solutions when we don’t think we have a problem.
+Added 6Apr: I failed above to mention that we are reluctant to ask for track records or incentives from our statusful suppliers in part because we see that as weakening the connection by which their status raises our status. We want it to look like we mutually trust each other, as that’s the kind of relation by which associates gain status from each other.
+
+
+title: We Trust The Statusful
+
+date: March 31, 2022 12:35 pm
+

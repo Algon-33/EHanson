@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan asks Why Aren’t Academic Economists Bayesians?:
+Almost all economic models assume that human beings are Bayesians, … [but] academic economists are not Bayesians.  And they’re proud of it!
+This is clearest for theorists.  Their epistemology is simple: Either something has been (a) proven with certainty, or (b) no one knows – and no intellectually respectable person will say more.  If no one has proven that Comparative Advantage still holds with imperfect competition, transportation costs, and indivisibilities, only an ignoramus would jump the gun and recommend free trade in a world with these characteristics. …
+Empirical economists’ deviation from Bayesianism is more subtle.  Their epistemology is rooted in classical statistics.  The respectable researcher comes to the data an agnostic, and leaves believing “whatever the data say.”  When there’s no data that meets their standards, they mimic the theorists’ snobby agnosticism.  If you mention “common sense,” they’ll scoff.
+I’ve argued that the main social function of academia is to let students, patrons, readers, etc. affiliate with credentialed-as-impressive minds.  If so, academic beliefs are secondary – the important thing is to clearly show respect to those who make impressive displays like theorems or difficult data analysis. And the obvious way for academics to use their beliefs to show respect for impressive folks is to have academic beliefs track the most impressive recent academic work.
+So it won’t do to have beliefs bounce around with every little common sense thing anyone says, however informative those may be.  That would give too much respect to not-very-impressive sources of common sense. Instead, beliefs must stay fixed until an impressive enough theorem or data analysis comes along where beliefs should change out of respect for it.  Academics also avoid keeping beliefs pretty much the same when each new study hardly adds much evidence – that wouldn’t offer enough respect to the new display.
+Relative to the Bayesians that academic economic theorists typically assume populate the world, real academics over-react or under-react to evidence, as needed to show respect for impressive academic displays. This helps assure the customers of academia that by affiliating with the most respected academics, they are affiliating with very impressive minds.
+
+
+title: Why Academics Aren’t Bayesian
+
+date: November 15, 2009 8:45 am
+

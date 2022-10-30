@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+In 2008 I posted on the famous RAND Health Insurance Experiment:
+1974 to 1982 the US government spent $50 million to randomly assign 7700 people in six US cities to three to five years each of either free or not free medicine, provided by the same set of doctors. … people randomly given free medicine in the late 1970s consumed 30-40% more medical services, paid one more “restricted activity day” per year to deal with the medical system, but were not noticeably healthier! (More, see also)
+I got 60 signatures on a petition then for the “US to publicly conduct a similar experiment again soon, this time with at least ten thousand subjects treated for at least ten years”.
+In 2011 I posted on the Oregon Health Insurance Experiment:
+Oregon assigned a limited number of available Medicaid slots by lottery. … 8,704 (~30%) [very sick and poor US adults] were enrolled in Medicaid medical insurance. … at most see two years worth of data. … had substantially and significantly better self-reported health. … over two thirds of the health gains … appeared on the very first survey, done before lottery winners got additional medical treatment. (More)
+No statistically significant effect on measures of blood pressure, cholesterol, or blood sugar. … did not reduce the predicted risk of a cardiovascular event within ten years and did not significantly change the probability that a person was a smoker or obese. … it reduced observed rates of depression by 30 percent. (More)
+Today I report on the new Karnataka Hospital Insurance Experiment:
+This study … is amongst the largest health insurance experiments ever conducted … in Karnataka, which spans south to central India. The sample included 10,879 households (comprising 52,292 members) in 435 villages. Sample households were above the poverty line … and lacked other [hospital] insurance. … randomized to one of 4 treatments: free RSBY [= govt hospital] insurance, the opportunity to buy RSBY insurance, the opportunity to buy plus an unconditional cash transfer equal to the RSBY premium, and no intervention. … intervention lasted from May 2015 to August 2018. …
+Opportunity to purchase insurance led to 59.91% uptake and access to free insurance to 78.71% uptake. … Across a range of health measures, we estimate no significant impacts on health. … We conducted a baseline survey involving multiple members of each household 18 months before the intervention. We measured outcomes two times, at 18 months and at 3.5 years post intervention. … only 3 (0.46% of all estimated coefficients concerning health outcomes) were significant after multiple-testing adjustments. We cannot reject the hypothesis that the distribution of p-values from these estimates is consistent with no differences (P=0.31). (more)
+So a new randomized experiment on ordinary health residents of India had 6.8x as many subjects as the RAND experiment, and also found no net effect on health. It only looked at the effects of hospital treatment, but to many that is the crown jewel of medicine.
+Bottom line: we now have more stronger data that on average, more medicine doesn’t improve health. Though of course for people committed to buying useless medicine insurance can cut financial stress. Update your beliefs accordingly.
+
+
+title: Karnataka Hospital Insurance Experiment
+
+date: December 20, 2021 8:15 pm
+

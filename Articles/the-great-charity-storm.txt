@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Around 1800 in England and Russia, the three main do-gooder activities were medicine, school, and alms (= food/shelter for the weak, such as the old or crippled). Today the three spending categories of medicine, school, and alms make up ~40% of US GDP, a far larger fraction than in 1800. Why the vast increase?
+My explanation: we long ago evolved strong feelings of respect for these activities, but modern context changes have allowed out-of-equilibrium exploitation of such feelings. Details:
+1. Foragers who personally taught kids, cared for sick folks, and gave food/shelter to weak folks, credibly signaled their loyalty to allies, at least when such needy were allies. Weak group selection helped encourage such aid as ways to signal loyalty, in place of other possible loyalty signals. Humans eventually evolved deep feelings of respect for such activities.
+2.	Farmers inherited such feelings, and thus also gave social credit to those who donated money instead of time to promote these three classic charities. Rich farmer elites felt this more strongly, as they had more forager style attitudes. As such donations were less observable than forager help, farmer donors had weaker incentives to help. Also, the indirection often resulted in money being spend badly.
+3.	Industry era folk also inherited such feelings, strengthened by wealth. Voters today get social credit for supporting tax-funded activities that look similar to the three classic charities: medicine, school, alms — even though one can fake such signals without having the loyalty that such signals are seen as showing. That is, votes supporting spending taxes on medicine, school and alms are interpreted as showing loyal “caring” for one’s community, even though most of this spending is on typical voters, not those in special need, and even though one person’s vote doesn’t change outcomes. And even if a vote did change outcomes, paying via taxes doesn’t sacrifice personal income relative to local rivals, making this signal mostly “cheap talk.” Indirection continues to hurt effectiveness. All this creates a perfect storm of vast voter support for tax-funded medicine, school, and alms. So we can all feel fantastic about how caring we all are. Yeah us.
+
+
+title: The Great “Charity” Storm
+
+date: July 5, 2011 8:30 pm
+

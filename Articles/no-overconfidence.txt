@@ -1,0 +1,11 @@
+author: Robin Hanson
+
+text: 
+New data question the claim that people tend to overestimate their abilities:
+A large body of literature purports to find that people are generally overconfident. In particular, a better-than-average effect in which a majority of people claim to be superior to the average person has been noted for a wide range of skills, from driving, to spoken expression, to the ability to get along with others, to test taking on simple tests. The literature generally accepts that this better-than-average effect is indicative of inflated self- assessments. However, [we] recently … show that the better-than-average data … does not indicate … people have made some kind of error in their self-evaluations.  Because of this reason, almost none of the existing experimental literature on relative overconfidence can actually claim to have found overconfidence. … In this paper, we report on an experiment designed to provide a proper test of overconfidence. … As in much previous experimental work, we find a better-than-average effect among our subjects. … We find evidence that subjects are uncertain of their own types. Our experiment can be viewed as a test of the null hypothesis that people are behaving rationally (and are not overconfident). We cannot reject that hypothesis.
+
+
+title: No Overconfidence?
+
+date: December 22, 2008 6:00 am
+

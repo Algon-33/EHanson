@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Imagine that advanced life like us is terribly rare in the universe. So damn rare that if we had not shown up, then our region of the universe would almost surely have forever remained dead, for eons and eons. In this case, we should still be able to predict when we humans showed up, which happens to be now at 13.8 billion years after the universe began. Because we showed up on a planet near a star, and we know the rate at which our universe has and will make stars, how long those stars will last, and which stars where lived far enough away from frequent sterilizing explosions to have at least a chance at birthing advanced life.
+However, this chart (taken from our new paper) calculates the percentile rank of our current date within this larger distribution. And it finds that we are surprisingly early, unless you assume both that there are very few hard steps in the evolution of advanced life (the “power n”), and also that the cutoff in lifetime above which planets simply cannot birth advanced life is very low. While most stars have much longer lives, none of those have any chance whatsoever to birth advanced life. (The x-axis shown extends from Earth’s lifetime up to the max known star lifetime.)
+
+In the paper (in figures 2,17), we also show how this percentile varies with three other parameters: the timescale on which star formation decays, the peak date for habitable star formation, and a “mass favoring power” which says bu how much more are larger mass stars favored in habitability. We find that these parameters mostly make only modest differences; the key puzzle of humans earliness remains.
+Yes, whether a planet gives rise to advanced life might depend on a great many other parameters not included in our calculations. But as we are only trying to estimate the date of arrival, not many other details, we only need to include factors that correlate greatly with arrival date.
+Why have others not reported the puzzle previously? Because they neglected to include the key hard-steps power law effect in how chances vary with time. This effect is not at all controversial, though it often seems counter-intuitive to those who have not worked through its derivation (and who are unwilling to accept a well-established literature they have not worked out for themselves).
+This key fact that humans look early is one that seems best explained by a grabby aliens model. If grabby aliens come and take all the volume, that sets a deadline for when we could arrive, if we were to have a chance of becoming grabby. We are not early relative to that deadline.
+
+
+title: Humans Are Early
+
+date: February 3, 2021 2:00 pm
+

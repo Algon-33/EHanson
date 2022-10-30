@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+When my kids were young and played a new game, the pattern was clear: If they won, they liked that game and wanted to play it again.  If they lost, they didn't like that game.  Tyler Cowen once told me how this generalizes; the essential question of ideology is: who should be admired?  We tend to think it would be good for the world if policies and culture tilted a bit to more admire the activities that tend to make us look good.  
+Such disagreements, however, shouldn't distract us from the fact that societies often agree quite a bit on what kinds of activities they admire.  For example, Frank and Miller's instinctive fear that the love of stuff obtained from distant soulless others corrupts one's soul is ancient.  Greek historian Herodotus ~430BC:
+The Egyptians are divided into seven distinct classes—these are, the priests, the warriors, the cowherds, the swineherds, the tradesmen, the interpreters, and the boatmen. … Whether the Greeks borrowed from the Egyptians their notions about trade, like so many others, I cannot say for certain. I have remarked that the Thracians, the Scyths, the Persians, the Lydians, and almost all other barbarians, hold the citizens who practice trades, and their children, in less repute than the rest, while they esteem as noble those who keep aloof from handicrafts, and especially honour such as are given wholly to war. These ideas prevail throughout the whole of Greece, particularly among the Lacedaemonians. Corinth is the place where mechanics are least despised.
+I'm not exactly sure why traders have been so consistently disliked, though I suspect it has something to do with loyalty signaling.  But I am pretty sure that while societies consistently prefer to encourage more of the activities they admire, such choices often make them on net worse off.  I said two years ago: 
+  
+Admirable activities help us to develop and show our admirable qualities.  But since admiration is in part relative, my looking more admirable comes in part at the expense of others looking less admirable.  So there is in part an arms race quality to admirable activities, which suggests we do too much of them from a global point of view.
+
+title: Against Admirable Activities, Again
+
+date: May 21, 2009 6:00 am
+

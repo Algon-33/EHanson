@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Noah Smith complains about people like me:
+There’s a fad in the economics world that annoys me. The fad is to describe every human action as “signaling.” This has to stop, people. … It’s become fashionable in the economics world to label any and every human social interaction as a form of signaling. The most enthusiastic promoter of this way of thinking is GMU economist Robin Hanson. Fashion isn’t self-expression — it’s signaling. Leisure isn’t about fun — it’s about signaling. And so on.
+The problem is, this notion of “signaling” isn’t really what Spence had in mind. Spence’s signaling model was about proving yourself by doing something difficult — something so difficult that someone who didn’t have what it takes wouldn’t even bother. But most of what Hanson is talking about is just communication, not Spence-style signaling. Even if hipsters wax their moustaches in order to prove their hip-ness, that doesn’t mean there are a whole bunch of wannabe hipsters out there who just didn’t have what it takes to wax their moustaches. Communication, like signaling, is costly. But it’s not a matter of jumping through hoops to prove yourself. (more; followup)
+Let’s distinguish three different kinds of messages I might send with my waxed moustache:
+1) “I have thick shiney hair.” This message is verifiable. Soon enough, others can just directly check if it is true. So I don’t need to pay costs to send this message, though I may pay costs to create the nice hair.
+2) “Hipster is one of my interest areas.” If you and I are going to talk anyway, but must pick a conversation topic, we may share a sufficient common interest in finding talk topics of mutual interest. In such a context, it can be enough for me to just tell you about my interests. You can just accept my claims for the purpose of picking a talk topic. Technically, this is a “cheap talk” message.
+3) “I am especially devoted to the hipster ethos” or “I especially embody hipster ideals.” That is, I am especially willing to identify myself as a hipster, and my personal features are an especially high quality match to ideal hipster features, including having a creative and contrarian yet attractive and coherent personal style that fits with current hipster fashions. These messages are hard to verify, and the interests of observers and I conflict. While observers want to accurately rank me relative to others, I may want them to estimate me as having maximal devotion and quality. Since verification and cheap talk won’t work here, I have to show, not just say, my messages.
+To show my hipster devotion, I can choose an appearance that is sufficiently off-putting to ordinary people at work, home, church, etc.. By paying the cost of putting off possible associates, I show my devotion to hipsterism. To show my hipster features, I can pay to track hipster fashions and to continually search in the space of possible styles for a combination that simultaneously reflects current fashions while being creative, coherent, and showing off my best personal features. Not being a hipster, I don’t know how exactly that works for them. But I do know, for example, that since lipstick and tight clothes make some bodies look better while making other bodies look worse, they are costly signals of the quality of lips and body shape. There must be similar factors for showing off hipster qualities.
+More generally I call a message “signaling” if it has these features:
+
+It is not sent mainly via the literal meanings of words said.
+It is not easily or soon verifiable.
+It is mainly about the senders’ personal features, perhaps via association with groups.
+It is about sender “quality” dimensions where more is better, so senders want others to believe quality is as high as possible, while others want to assess more accurately. Such qualities are not just unitary, but can include degrees of loyalty to particular allies.
+
+Cheap talk cannot send a message like this; one cannot just say such a thing, one must show it. And since it cannot be verified, one must show it indirectly, via how such features make one more willing or able to do something. And since willingness and ability track costs, these are “costly” signals.
+When weighted by how much the messages matter to us, and by how much effort we put into adjusting them, I’d say that most of our communication is “signaling” of this sort. Most of the private value, if not most of the bits.
+
+
+title: What Is Signaling?
+
+date: May 7, 2015 4:50 pm
+

@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+Via Tyler Cowen, we learn that Daniel Kahneman and Jonathan Renshon argue in Foreign Policy that all known cognitive biases favor hawks over doves:  
+
+Social and cognitive psychologists have identified a number of predictable errors (psychologists call them biases) in the ways that humans judge situations and evaluate risks. Biases have been documented both in the laboratory and in the real world, mostly in situations that have no connection to international politics. For example, people are prone to exaggerating their strengths … Such a predisposition, often shared by leaders on both sides of a conflict, is likely to produce a disaster. And this is not an isolated example.  In fact, when we constructed a list of the biases uncovered in 40 years of psychological research, we were startled by what we found: All the biases in our list favor hawks. … these biases have the effect of making wars more likely to begin and more difficult to end.
+
+Matthew Continetti responds, objecting that many biases also favor doves.  But all the commentary I’ve seen misses the key question: Compared to the advantages these biases gave our ancestors, are foreign policy advantages larger or smaller?   
+  
+Yes of course war is bad for the world.  But unless we are willing to sacrifice ourselves for the world, we must ask if war if good for us.  For example, yes, overconfidence is bad for those who care about believing what is true, and yes, it must cost us sometimes in bad decisions.  But surely overconfidence gave our ancestors advantages that for them outweighed these costs.  
+In a recent working paper I look at the patterns of over and under confidence that result from five different theories: 
+
+title: Do Biases Favor Hawks?
+
+date: January 5, 2007 6:00 am
+

@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+In two posts, I recently explained how a simple 3 parameter model of grabby aliens can explain our apparent early arrival in the universe, via a selection effect: we might give rise to a grabby civ, but that had to happen before other grabby civs took over all the volume.
+With some collaborators, I’ve been exploring computer sims of this model, and found one striking statistic: at the origin time of a grabby civ, on average ~40% of universe volume is controlled by grabby aliens. A stat which seems obviously contradicted by what we see, namely nothing. In the volumes we see, they can’t be controlling much, at least if control would make it look much different. What gives?
+In this post I want to show how this apparent emptiness can be explained by a parameter choice and a selection effect. First, let’s get oriented. Here is a spacetime diagram showing us now, and all the events that we can see from here, as our red backward light-cone.
+
+Next, consider the fact that if we extend a yellow cone back in time from where we are at the grabby civ expansion speed, no grabby civ could have had their origin in that excluded volume, because if so then they would have prevented us, to prevent us from becoming grabby.
+
+Because that’s the definition of grabby: they expand and prevent the origin of other grabby civs within the volumes they control. We could only see grabby civs who have their origin in the green volume, as their expansion would not have reached us yet.
+Now if the expansion speed were small, that green area would encompass most of the volume in our past light-cone, and we’d still have a puzzle: why don’t we see them? But as their expansion speed approaches the speed of light, the green volume gets small, making for a low chance of seeing any grabby aliens. (The chance of not seeing one goes as roughly the fraction of their expansion speed to the speed of light.)
+Now let’s look at one of those grabby civs we could see:
+
+Since its origin is in the green volume, its forward expanding cone of control (in orange) intersects our backward light-cone. At the closest intersection point, the spatial extent of that civ is given by the horizontal purple line, which is large compared to its distance away. (Imagine space were 2D, fixing one end of the purple line at the origin axis, and rotating the other end out of the diagram.) So it would be absolutely huge in the sky. This diagram also shows our forward expansion cone intersecting its forward cone relatively soon in the future; we meet them soon.
+Now look at the vertical purple line in this next diagram. Holding constant the spatial location of this alien origin, consider the other possible times at which this civ could have originated at that location and still be visible to us.
+
+The higher is that origin point in the diagram, and the closer is that origin to our red backward light cone, then the smaller is that vertical purple line. And since geometrically the two purple lines must move in proportion, the smaller of an appearance that civ would make in the sky.
+As civ origin times should be roughly uniformly distributed over that vertical range, there is thus only a tiny chance of seeing aliens that take up a tiny fraction of our sky. Either we see them huge, or not at all. So there’s little point in building bigger SETI telescopes or deeper surveys to try to see very tiny grabby aliens very far away.
+Thus our grabby aliens model can use selection effects to explain not only why we have appeared so early in the history of the universe, but also why we don’t see them even though they should on average take up (and modify) ~40% of universe volume at the moment. At least if we postulate that their expansion speed is a substantial fraction of the speed of light. Which we already had reason to believe, just based on the idea that “grabby” civs try to grab as fast as they can.
+Added 7Mar: Here is the likelihood ratio for seeing our data of no big alien volumes in the sky, as a function of power n and speed s/c:
+
+
+
+title: Why We Can’t See Grabby Aliens
+
+date: January 8, 2021 11:10 am
+

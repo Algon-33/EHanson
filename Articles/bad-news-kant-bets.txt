@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+The famous philosopher Kant saw bets as encouraging thoughtfulness and discouraging self-deception:
+The usual touchstone of whether what someone asserts is mere persuasion or at least a subjective conviction, i.e., firm belief, is betting. Often someone pronounces his propositions with such confident and inflexible defiance that he seems to have entirely laid aside all concern for error. A bet disconcerts him. Sometimes he reveals that he is persuaded enough for one ducat but not for ten. For he would happily bet one, but at ten he suddenly becomes aware of what he had not previously noticed, namely that it is quite possible that he has erred. (Critique of Pure Reason, A824/B852; more; HT Tyler)
+If we were to see life out there in the universe, at or below our level of development, that would be bad news regarding our future.  It would suggest that more of the great filter that stands between dead matter and expanding civilization lies ahead of our place on that path. Similarly, it is bad news to hear that Kant had a high opinion of the accuracy advantages of bets.  Let me explain.
+I hope for a future where betting markets are a commonly used mechanism to create official consensus beliefs, but I must explain the fact that they are not already often used this way.  What barriers have stood in their way? One barrier is widespread skepticism about bet accuracy. But hearing of Kant’s well-known position reduces my estimate of this barrier; many respected people have long respected bet accuracy. So I must therefore increase my estimate of the difficulty of other barriers.  Alas, since skepticism about accuracy seems one of the easiest barriers to overcome, via track records and lab experiments, I must increase my estimate of the overall difficulty of my goal.  I’ll keep trying though.
+
+
+title: Bad News: Kant & Bets
+
+date: January 7, 2011 11:30 am
+

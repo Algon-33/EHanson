@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+HP began to explore prediction markets in 1996, but did not even consider applying them to the 2002 HP-Compaq merger.  Similarly, Yahoo and Microsoft are two of the companies mentioned most often as being involved in prediction markets (along with their main competitor Google), but I’ll bet none are considering the by-far-most-valuable markets they could create, on their just-announced proposed merger.  Decision markets could say whether this merger is good for shareholders, by estimating the combined stock price given a merger, and given no merger.  Similarly, decision markets could say whether this merger is good for these firms’ customers, by estimating the price and/or quantity of web ads given a merger, and given no merger.  This might help convince regulators to approve the merger.   From the Post:
+
+ The deal also will face scrutiny from antitrust regulators, who will hear from consumer groups concerned that so much power — and consumer information — would be concentrated in one company.   However, some said that allowing the acquisition would enhance competition by creating a credible competitor to Google. 
+ "You want to encourage competition with Google," said Ben Scott, policy director at Free Press, a public-interest firm. "But you don’t want to bend over backward to do that and end up with a duopoly that ignores the anticompetitive implications of Microsoft integrating Yahoo products into Windows." 
+The Justice Department and House and Senate committees are likely to review the transaction, officials said. "We will need to scrutinize the deal carefully to insure that it will not cause any harm to the competitiveness of what has been a vibrant high-tech marketplace," said Herb Kohl (D-Wis.), chairman of the Senate Judiciary Committee’s subcommittee on antitrust, competition policy and consumer rights. 
+ The subcommittee, which recently examined Google’s proposed takeover of DoubleClick, would also look at whether a Microsoft-Yahoo deal would violate the privacy rights of Internet users. 
+
+My main doubt here is whether ad price and quantity are good enough measures of the merger’s social benefits – what other outcomes could such markets estimate, to speak more clearly?  And this is a very clear demonstration that these companies are just not serious about finding the highest value applications of prediction markets.
+Added: More comments at the cross -posting at Midas Oracle.    
+
+
+title: Merger Decision Markets
+
+date: February 2, 2008 11:00 am
+

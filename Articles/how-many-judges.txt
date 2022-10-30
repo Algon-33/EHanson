@@ -1,0 +1,33 @@
+author: Robin Hanson
+
+text: 
+“Wow, that was sure a long slow legal process we just went through to get X punished for Y. Surely many such cases are never punished, because this process is just too hard.”
+“I’ve heard that in some places it is much simpler and faster. If you have a complaint, you call over the local police officer, and he or she soon looks into it, and then makes a decision, usually that day. Fast and easy, no need for lawyers, courts, etc. Doesn’t that sound better?”
+“No, that sounds terrible! What if that local police is corrupt, or biased, or stupid? Our checks and balances help correct for such problems.”
+“Well in our system, after a slow expensive complex process, judges usually make the final decision. So what stops judges from being as corrupt, biased, or stupid as police?”
+“Well there are a lot fewer judges than police, so we can focus our attention on a smaller number of them. For example, we can send in people undercover to try to bribe them, and arrest those who accept bribes.”
+“But we almost never actually do that with judges. And we could also do that with police.”
+“With judges we have an appeals system, where appeals judges fix other judges’ mistakes. And the process is public, so anyone can point to problems.”
+“We could do an appeals system with police too – if there’s a complaint, call nearby police to see if they want to come make a quick appeals decision. And that process could be public.”
+“We elect judges, or those who appoint them. That holds them accountable to citizens.”
+“So why can’t we elect police, or those who appoint them?”
+“Judges are more prestigious than police. They are picked for being the lawyers who are most respected by other lawyers.”
+“Our actual police are also the most respected among people who apply to police academy.”
+“Yeah but overall lawyers are more prestigious than police. They go to college, know big words, make more money.”
+“And that makes them less corruptible or biased, and more just?”
+“Well elites are more eager to conform, and are better able to conform, so either they will almost all be corrupt and biased or almost none will be.”
+“Not sure I feel better about that. And aren’t they better at knowing how to tell when they can get away with things, so that they will be better at finding the loopholes where we are not checking, to be more corrupt and biased there? And doesn’t their conformity better help them coordinate to get away with stuff together?”
+“Look, humans have long chosen to be ruled by prestigious elites, its our nature. So it must work somehow. We pick prestigious lawyers to run law, prestigious doctors to run medicine, and prestigious academics to run teaching and research. And those work well, right?”
+“Okay, if it is better to be ruled by a smaller group of more prestigious people, making judges better than police, why isn’t it even better to be ruled by one most prestigious of all dictator? Who appoints and fires police or judges as they want?”
+“No no, that’s terrible too! That’s too much concentration of power. This dictator could rule with impunity, because even if some of us know of his/her corruption or bias, we’ll be afraid to say so in public. He/she could crush us for our opposition.”
+“But can’t judges crush us for opposing them?”
+“No, that never happens. When have you ever heard of judges crushing opponents?”
+“In a dictatorship, would you actually hear of the dictator crushing opponents?”
+“I’m sure I would. And dictators don’t tend to be the most prestigious; they tend to be brutal thugs.”
+“But won’t everyone say they are prestigious, out of fear of retaliation? And if it is better to spread out a dictator’s power, among many judges, why isn’t it even better to spread out that power among even more police?”
+
+
+title: How Many Judges?
+
+date: March 27, 2020 7:45 am
+

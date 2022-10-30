@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Back on ’07 I posted on how the NSF thwarts Congress’ efforts to “pay for results” in research via prizes:
+NSF pulled the usual agency trick of stalling until Congressional pressure faded. and those who get the usual money the usual way made sure the official recommendation was for no change in that; only a little money, and only new money, should go to new methods.
+This week the NYT tells how the SEC thwarts Congress’ efforts to “pay for results” in law enforcement via bounties:
+When insider-trading scandals plagued the financial markets in the late 1980s, lawmakers created a bounty program for whistle-blowers, allowing regulators to reward tipsters who uncovered evidence of manipulation. The effort largely failed, in part because the issue of whether to make a reward payment was left to the discretion of regulators. In 20 years, the program paid out a total of less than $160,000 to a handful of whistle-blowers.
+Now, Congress and financial-market regulators are revamping a reward system for whistle-blowers, offering big payouts for tips about a host of securities and commodity law violations, to be doled out from a new $451 million fund. …
+Already, business executives and trade groups are arguing that those lottery-size windfalls … will make it harder for companies to police themselves and will pit employees in search of a big payday against a company’s effort to make sure it is obeying the law. …
+The proposed S.E.C. rules … exclude a large raft of people from receiving potential awards. Experience with other bounty programs shows that most whistle-blowers receive relatively small awards and that their lives are often made miserable as part of the experience. Other government agencies also have ramped up their whistle-blower bounties in recent years. The Internal Revenue Service whistle-blower program, revised as part of the 2006 Tax Relief Act, awards 15 percent to 30 percent of the proceeds it collects in enforcement actions worth more than $2 million, or in the case of individual taxpayers, $200,000 in gross income. The False Claims Act, a century-old law updated last year that rewards people who uncover fraud against the government, also can produce blockbuster awards. …
+Part of the incentive for the new financial whistle-blower program was the failure of the S.E.C. to catch some of the most egregious wrongdoing that surfaced after the financial crisis of 2007 and 2008. … Staff had received numerous early warnings and detailed complaints about Mr. Madoff but had not performed a thorough investigation. …
+The new programs … require the payment of 10 to 30 percent of the penalty or amount recovered when a whistle-blower’s tips provide the basis for a case involving violations of securities or commodities laws.
+In drawing up its rules, the S.E.C. said it wanted to encourage employees to go first to their corporate compliance departments, offering potentially higher rewards for whistle-blowers who did so. … Employees who turned to corporate compliance officers … have often been fired. [HT Alex T.]
+I don’t have high hopes as long as the S.E.C. designs the process, and decides who to prosecute when. Now if we move toward a full bounty system, where the bounty hunter could collect evidence, and then choose to prosecute the case, we’d see a much stronger deterrent.  Which is of course why finance firms prefer the S.E.C. to retain full control.
+
+
+title: Bungling Bounties
+
+date: November 17, 2010 7:15 pm
+

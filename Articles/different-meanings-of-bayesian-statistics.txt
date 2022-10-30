@@ -1,0 +1,21 @@
+author: Andrew
+
+text: 
+I had a discussion with Christian Robert about the mystical feelings that seem to be sometimes inspired by Bayesian statistics.  The discussion originated with an article by Eliezer so it seemed appropriate to put the discussion here on Eliezer's blog.  As background, both Christian and I have done a lot of research on Bayesian methods and computation, and we've also written books on the topic, so in some ways we're perhaps too close to the topic to be the best judge of how a newcomer will think about Bayes.
+Christian began by describing Eliezer's article about constructing Bayes’ theorem for simple binomial outcomes with two possible causes as "indeed funny and entertaining (at least at the beginning) but, as a mathematician, I [Christian] do not see how these many pages build more intuition than looking at the mere definition of a conditional probability and at the inversion that is the essence of Bayes’ theorem. The author agrees to some level about this . . . there is however a whole crowd on the blogs that seems to see more in Bayes’s theorem than a mere probability inversion . . . a focus that actually confuses—to some extent—the theorem [two-line proof, no problem, Bayes' theorem being indeed tautological] with the construction of prior probabilities or densities [a forever-debatable issue].
+I replied that there are several different points of fascination about Bayes:  
+  
+1. Surprising results from conditional probability. For example, if you test positive for a disease with a 1% prevalence rate, and the test is 95% effective, that you probably don’t have the disease.
+2. Bayesian data analysis as a way to solve statistical problems. For example, the classic partial-pooling examples of Lindley, Novick, Efron, Morris, Rubin, etc.
+3. Bayesian inference as a way to include prior information in statistical analysis.
+4. Bayes or Bayes-like rules for decision analysis and inference in computer science, for example identifying spam.
+5. Bayesian inference as coherent reasoning, following the principles of Von Neumann, Keynes, Savage, etc.
+My impression is that people have difficulty separating these ideas. In my opinion, all five of the above items are cool but they don’t always go together in any given problem. For example, the conditional probability laws in point 1 above are always valid, but not always particularly relevant, especially in continuous problems. (Consider the example in chapter 1 of Bayesian Data Analysis of empirical probabilities for football point spreads, or the example of kidney cancer rates in chapter 2.) Similarly, subjective probability is great, but in many many applications it doesn’t arise at all.
+Anyway, all of the five items above are magical, but a lot of the magic comes from the specific models being used–-and, for many statisticians, the willingness to dive into the unknown by using an unconventional model at all–-not just from the simple formula.
+To put it another way, the influence goes in both directions.  On one hand, the logical power of Bayes' theorem facilitates its use as a practical statistical tool (i.e., much of what I do for a living).  From the other direction, the success of Bayes in practice gives additional backing to the logical appeal of Bayesian decision analysis.
+
+
+title: Different meanings of Bayesian statistics
+
+date: January 27, 2009 8:00 pm
+

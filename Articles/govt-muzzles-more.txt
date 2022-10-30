@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Sponsorship [of pharmaceutical research and drug trials] by manufacturers has been found to be associated with a reduced likelihood of the reporting of adverse results.  Likewise, a significant link has been found between industry funding and the likelihood that results of a randomized trial will support a new therapy. … One proposed solution to this problem is to increase public funding for the conduct of research on therapeutic effectiveness. Ironically, that may well aggravate the problem. In July 2007, AcademyHealth, a professional association of health services and health policy researchers, published results of a study of sponsor restrictions on the publication of research results. Surprisingly, the results revealed that more than three times as many researchers had experienced problems with government funders related to prior review, editing, approval, and dissemination of research results.  In addition, a higher percentage of respondents had turned down government sponsorship opportunities due to restrictions than had done the same with industrial funding. Much of the problem was linked to an “increasing government custom and culture of controlling the flow of even non-classified information.”
+Of particular concern is a provision of the Senate-passed Patient Protection and Affordable Care Act, [regarding] the … new Patient-Centered Outcomes Research Institute to conduct comparative-effectiveness research.  The bill allows the withholding of funding to any institution where a researcher publishes findings not “within the bounds of and entirely consistent with the evidence,” a vague authorization that creates a tremendous tool that can be used to ensure self-censorship and conformity with bureaucratic preferences. This appears to be an effort in part to bypass the court order in Stanford v. Sullivan, a case involving federal contractual requirements that would have banned researchers from any discussion of their work without pre-approval by the Department of Health and Human Services. The order held that such blanket bans are “overly broad” and constitute “illegal prior restraint” on speech.  The language in the Senate bill attempts to overcome this hurdle by eliminating prior restraint, but using the threat of post hoc punishment as an incentive for self-censorship.
+That was written Feb 8; I just contacted its author and he doesn’t know if this made it into the final med bill or not.  Alas this bodes poorly for the new comparative-effectiveness research program.
+Added: Steven says this was in the final bill!  You’d better agree with the government’s interpretation of your findings if you want any future money.
+
+
+title: Govt Muzzles More
+
+date: March 31, 2010 1:30 pm
+

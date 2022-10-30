@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Imagine a challenge:
+You claim you strongly believe X and suggest that we should as well; what supporting arguments can you offer?
+Imagine this response:
+I won’t offer arguments, because the arguments I might offer now would not necessarily reveal my beliefs. Even all of the arguments I have ever expressed on the subject wouldn’t reveal my beliefs on that subject. Here’s why.
+I might not believe the arguments I express, and I might know of many other arguments on the subject, both positive and negative, that I have not expressed. Arguments on other topics might be relevant for this topic, and I might have changed my mind since I expressed arguments. There are so many random and local frictions that influence on which particular subjects people express which particular arguments, and you agree I should retain enough privacy to not have to express all the arguments I know. Also, if I gave arguments now I’d probably feel more locked into that belief and be less willing to change it, and we agree that would be bad.
+How therefore could you possibly be so naive as to think the arguments I might now express would reveal what I believe? And that is why I offer no supporting arguments for my claim.
+Wouldn’t you feel this person was being unreasonably evasive? Wouldn’t this response suggest at least that he doesn’t in fact know of good supporting arguments for this belief? After all, even if many random factors influence what arguments you express when, and even if you may know of many more arguments than you express, still typically on average the more good supporting arguments you can offer, the more good supporting arguments you know, and the better supported your belief.
+This is how I feel about folks like Tyler Cowen who say they feel little obligation to make or accept offers to bet in support of beliefs they express, nor to think less of others who similarly refuse to bet on beliefs they express. (Adam Gurri links to ten posts on the subject here.)
+Yes of course, due to limited options and large transaction costs most financial portfolios have only a crude relation to holder beliefs. And any one part of a portfolio can be misleading since it could be cancelled by other hidden parts. Even so, typically on average observers can reasonably infer that someone unwilling to publicly bet in support of their beliefs probably doesn’t really believe what they say as much as someone who does, and doesn’t know of as many good reasons to believe it.
+It would be reasonable to point to other bets or investments and say “I’ve already made as many bets on this subject as I can handle.” It is also reasonable to say you are willing to bet if a clear verifiable claim can be worked out, but that you don’t see such a claim yet. It would further be reasonable to say that you don’t have strong beliefs on the subject, or that you aren’t interested in persuading others on it. But to just refuse to bet in general, even though you do express strong beliefs you try to persuade others to share, that does and should look bad.
+Added 4July: In honor of Ashok Rao, more possible responses to the challenge:
+A norm of thinking less of claims by those who offer fewer good supporting arguments is biased against people who talk slow, are shy of speaking, or have bad memory or low intelligence. Also, by discouraging false claims we’d discourage innovation, and surely we don’t want that.
+
+
+title: Bets Argue
+
+date: July 3, 2013 8:45 am
+

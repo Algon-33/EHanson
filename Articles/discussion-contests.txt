@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+My last post outlined how to make a better “sport” wherein people compete on, and are ranked by, their ability to persuade audiences of claims. Which might be a nice way to find/make sales-folk.
+But what I’d really like is to find/make people good at informative discussion. That is, we the audience want to listen to people who are good at taking the floor of our attention and talking so as to more rapidly move our estimates toward higher-confidence values. And we want this more for the case where we are a reasonable rational audience, relative to our being easily swayed by demagoguery. We want to listen to people who will more rapidly change our reasonable minds.
+Here’s an idea using betting markets. Imagine a topic for which we will later have some ex post objective measure of truth. We can thus create (possibly subsidized) betting markets over this space of outcomes. Also imagine having some info weights regarding different possible probability distribution over outcomes. Using these weights, we can create a single number saying how informative are any given set of prices. Thus we can say how much info was added (or subtracted) to those prices during any given time period.
+So if we have a center of attention “stage” wherein one speaker talks at a time, and if the audience participates in a betting market while they listen, then we can get a measure of the info added by each speaker while they spoke. So we can score each speaker on their info given per second of talking.
+Okay, yes, there may be a delay between when a speaker says something and when a listener comes to realize its implications and then makes a resulting market trade. This is a reason to have speakers talk for longer durations, so that their score over this duration can include this delayed realization effect.
+Now one way to use this is debate style. Give each speaker the same amount of total time, in the same-length time blocks, and see which one added the most info by the end. Repeat in many pairwise contests. But another approach is to instead just pay to try to get the most info out of any given set of potential speakers.
+Imagine an auction for each short period of speaking. If you bid the most per second, you get to the center stage to talk, and then you will be paid in proportion to the info you end up contributing, according to market price changes. Speakers could bid on themselves, or investors might pay for speaker bids. (Let speakers bid for future time periods long enough to include the delayed realization effect.)
+Even if there were other sources of info possible, besides this center stage, this auction would still give a credible reason for most of the audience to pay some attention to the center stage. After all, the auction would have selected for the one person expected to be most worth listening to, at least on average.
+So now, to induce an informative discussion on a topic, one both subsidizes prediction markets on that topic, and commits to pay each person who wins an auction to speak from a center stage a reward proportional to the info added to those prediction markets while they speak.
+What if different time periods are expected to add different amounts of info to the market prices through channels other than the center stage speaker? This could bias the debate structure, but isn’t a problem for the auction structure. Auction bidders would bid more for those extra info time periods, but the winner would still be the speaker expected to add the most info.
+This should be pretty easy to test in lab experiments. Who wants to help set them up?
+
+
+title: Discussion Contests
+
+date: January 24, 2022 9:25 pm
+

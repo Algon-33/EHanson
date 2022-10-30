@@ -1,0 +1,67 @@
+author: Robin Hanson
+
+text: 
+Princeton neuroscience professor Michael Graziano has a new book out today, Rethinking Consciousness: A Scientific Theory of Subjective Experience, which is mostly on his account of consciousness. On Sunday he published a related WSJ article, on his last book chapter (out of 9), which is on how society would change with uploads (= ems). And while most of his observations about an upload/em world are reasonable points, he misses so many other big changes that his picture ends up badly distorted.
+Those reasonable points by Graziano (even when I don’t agree):
+
+Uploads are inevitable, but not soon. “I’d guess at least 100 years if not substantially more”.
+We will soon have good/cheap enough computers, brain cell models, body emulations, and virtual reality environments.
+We are far from good/cheap enough scans at sufficient scale and resolution.
+To survive system redesigns & upgrades, uploads need long lasting computer file & emulation system formats.
+The very first uploads may suffer due to imperfections in the emulation process.
+“mind uploading … may have some major risks, but I think it also has great possibility. … mind uploading will be a cultural and ethical mess that sorts itself out eventually.”
+Long-lived uploads would eventually run out of memory, and so either must add memory or use a rolling memory window.
+“We” must decide what rights uploads and their copies get.
+“We” must decide which humans are uploaded.
+Humans will ask themselves if an upload of them is really them.
+Uploads and their still-living human originals can have social conflicts over friends, jobs, etc.
+You can be bolder in virtual reality as you can’t get physically hurt there.
+Uploads never need to go to the bathroom.
+Things like tastes and breathing may not feel exactly the same for uploads
+Uploads can continue to do jobs and have social relations with humans.
+Instead of “dystopian” policies that insist on only one version of each human at a time, it seems better if “the system remains chaotic and freewheeling, with no restrictions on the number of versions of each person, causing a societal revolution in our concept of identity and individuality.”
+The ability to prevent people from being uploaded might be a great power, if that were the only route to immortality.
+Immortal uploads would help us to preserve wisdom, knowledge and culture, but they’d also slow down cultural and linguistic change.
+Immortality allows bad leaders to more easily retrain control, in both politics and academia.
+As uploads have more life experience, “the balance of power and culture would shift rapidly to the [upload] world.”
+Uploads could more easily travel in space, and could slow down their minds during boring travel periods.
+Eventually it may be possible for uploads to communicate via more direct mind reading.
+
+So, the picture Graziano paints is of an inter-mixed world of humans and uploads, sharing culture and doing jobs for and having social relations with each other. The main difference is that the uploads are immortal, and therefore older, wiser, more powerful, and more conservative:
+Unlike a traditional heaven, it isn’t a separate world. It’s seamlessly connected to the real world. … Socially, politically, economically, the virtual and the real worlds would connect into one larger and always expanding civilization. … Our jobs, our contributions to the larger world, are done through the mind, and if the mind can be uploaded, it can keep doing the same job. … The sim you and the bio you represent two fully functional, interactive, capable instances of you, competing within the same larger, interconnected social and economic universe. … the [human] world becomes a kind of larval stage for immature human minds, and the [upload] world would be where life really begins. …
+You would not believe what it’s like in here! In some ways a little bland on the surface, but I’m sure I’ll entertain myself. I passed a movie theater, and a bookstore, and we have money here so we can shop, thank goodness, and they say that the Star Wars simulator is so real that you’re actually in the movie and you get a chance to be the Wookiee. And remember Kevin, the guy who died of cancer last week? He’s here, too! He’s fine, and he still has the same job. He Skypes with his old yoga studio three times a week to teach his fitness class. But his girlfriend in the real world left him for someone who’s not dead yet, so he’s a little bummed out. Still, lots of new people to date here.
+This picture seems to me quite misleading, as it misses these changes:
+
+As uploads are much cheaper (and more productive), most all humans quickly lose their jobs.
+Without wages, humans must live off of capital, insurance, welfare, or charity, or starve.
+As uploads can be made fast in factories, upload wages quickly fall to subsistence levels.
+Upload minds get fragile with subjective age, and so must retire within a few subjective centuries.
+Upload retirees are mostly replaced by copies of the same minds with less subjective experience.
+The upload population grows very fast, allowing the economy to double perhaps monthly.
+As virtual meetings cut travel congestion, uploads squish into a few larger denser cities.
+Upload cities are red hot, crammed full of computers, power plants, and cooling pipes.
+Humans live far from upload cities, which are toxic to humans.
+Compared to humans, uploads worry less about global warming or damaging nature.
+Upload cost goes linearly with speed between a million times slower & faster than human.
+The typical upload runs at roughly one thousand times human speed.
+The typical upload retiree runs at much slower speeds, perhaps even human speeds.
+The upload era may only last a year or two before something else happens.
+In most upload meetings, slower ones temporarily adopt the speed of the fastest.
+To meet with humans, fast uploads make temporary slow human-speed copies.
+Most working uploads are copies of the few hundred most productive humans.
+Most working uploads come from humans who were scanned as young children.
+Initially, and for a substantial time, the upload scanning process destroys human brains.
+For the vast majority of humans, uploads of them earn lower wages than their costs to exist.
+Most all working uploads are middle-aged, and are temporary copies deleted a few hours later.
+The social unit of the clan of all copies of an original human is used for many purposes.
+Work teams are copied as units, who pay close attention to stats on other team copy behaviors.
+
+This picture is of much more different and separate worlds than Graziano describes. Uploads work, and are very productive, while humans have average abilities and are retired. Uploads are parts of large groups of similar copies, while humans are unique and different. Humans are slow and gawk from afar with amazement and limited understanding at the strange, hot, toxic, and very fast growing upload cities, crammed full of uploads who experience a subjective career length in a human month. Humans have little hope of keeping up with any but the slowest and most obvious upload cultural changes.
+I of course discuss all this at length in my 2016 book Age of Em, which Graziano doesn’t cite (though 22% of his book is citations). I know that he knows about it, as I sent him a copy during our 13 message Aug.-Oct. 2017 email conversation on if we should debate uploads at a conference we both attended that November. (Finding that we seemed to agree on upload timing and valence, we decided not to debate. I also offered by email to send him a book draft in Dec. 2013 and the final version in July 2016.)
+Btw, the places I’d disagree with his points are: I see scans as easier and cell models as harder than he sees them, and I see the upload age/experience advantage as small compared to other advantages.
+
+
+title: Graziano on a World of Uploaded Minds
+
+date: September 17, 2019 2:30 pm
+

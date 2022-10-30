@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+The September Atlantic has an “economics” article, by Don Peck, Can the Middle Class Be Saved? As economics, it is a “scam” I see often, but want to complain about yet again. These articles combine two key features.  First, they gain “relevance” via detailed discussions of problematic current trends. Such as:
+The most important economic trend in the United States over the past couple of generations has been the ever more distinct sorting of Americans into winners and losers, and the slow hollowing-out of the middle class. … Wide-ranging social consequences of male economic problems [include:] … Women tend not to marry (or stay married to) jobless or economically insecure men—though they do have children with them. And those children usually struggle when, as typically happens, their parents separate and their lives are unsettled. … These sorts of social problems … have been seeping into the nonprofessional middle class.
+Second, these articles offer “relevant” policy solutions to such problems:
+We can adapt, but we have to start now. … [by] … Bigger tax breaks for private R&D spending, and a much lower corporate tax rate (and a simpler corporate tax code) overall. … A National Innovation Bank that would invest in, or lend to, innovative start-ups. … [For] new and emerging industries … our bias should be toward light regulation. … Redoubling our commitment to improving U.S. schools, to letting in a much larger number of creative, highly skilled immigrants each year. … We must press China on currency realignment, putting sanctions on the table if necessary. … Development of “career academies”—schools of 100 to 150 students, within larger high schools, offering a curriculum that mixes academic coursework with hands-on technical courses. … It is hard to imagine an adequate answer to the problems we face that doesn’t involve greater redistribution of wealth.
+The key scam is: standard economic theory, the main authority implicitly invoked by such “economics” articles, offers little reason to think these trends of concern have much relevance to these policy proposals. Whether such proposals are good or bad ideas can depend on many relevant factors, but the exact values of these trends are not among those factors! If R&D tax credits are a good idea (economically), they are a good idea regardless of trends in median wages or divorce rates. If raising taxes on the rich is a good idea because, hey, we gotta tax someone, that is a good idea regardless of how well or poorly the rich have been doing lately.  As I said before:
+Which institutions will most increase economic welfare rarely depends much on the exact values of the sorts of parameters social scientists and the media track with such enthusiasm and concern. (more)
+
+
+title: Irrelevant Relevance
+
+date: September 29, 2011 2:30 pm
+

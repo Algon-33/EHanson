@@ -1,0 +1,12 @@
+author: Eric Falkenstein
+
+text: 
+I read Douglas Hofstadter’s new book I am a Strange Loop, which argues that consciousness happens spontaneously after a system of dynamic patterns is sufficiently complex.  Strange loops of self-awareness  existing on multiple levels (as in Godel’s famous proof) create hallucinations of a hallucination, and so an "I" forms.  Anyway, as I often do when reading nonfiction, I read a little bit more about the author, and was struck by Hofstadter’s law: It always takes longer than you expect, even when you take into account Hofstadter’s law (note this is recursive and paradoxical, which is Hofstader’s specialty). This turns out to be pretty well known among programmers where everyone has read Hofstadter’s Godel, Escher, Bach. 
+As they say, Hofstadter’s Law is funny because it rings true to many programmers, who often work on complex projects that take years to complete.  Clearly an alternative to the Law of Iterated expectations.  Why might people involved in sufficiently complicated tasks–writing a paper, a book, building a deck–generally underestimate their length?  I think the main reason is that goals become self-fulfilling, so any lengthening of a goal time would add to the total time  the way bureaucracies spend the limit of their budget whatever it is.  Just like a group of people, people themselves have multiple goals; to watch tv, to get a project done, to be a better golfer.  A successful goal needs a  bias to compete with your other goals, who probably also have biased homunculus advocating for them in your mind.  
+On one level an unbiased expectation is optimal because it allows us to allocate our resources more efficiently.  But there are many cases where this is not true, where a little too much hope and faith actually makes you a more successful person, and more fun to be around.  Just think about how annoying ‘brutally frank’ people are–they are jerks.  Think about the guy who thinks he is a better dancer than he really his confidence actually makes him a better dancer, because part of good dancing is not being self-conscious.  Robert Trivers has pointed out that self-deception is, in moderation, an evolutionary advantage, in that a liar who believes his own lies is a more effective persuader than a lie who knows he is lying, and fundamentally we are social animals trying to convince others to do this or think that.
+
+
+title: Hofstadter’s Law
+
+date: May 29, 2007 1:00 pm
+

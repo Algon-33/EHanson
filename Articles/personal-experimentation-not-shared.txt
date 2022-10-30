@@ -1,0 +1,15 @@
+author: Katja Grace
+
+text: 
+I’ve been talking about how personal experimentation could be worth it for people like me, without relevant info being depleted long ago.
+My next potential explanation is that people do experiment, but results aren’t aggregated and spread, so everyone has to reinvent everything.
+This is exactly what you would expect in a simple model where people benefit from information, but bear a net cost from spreading it. Without incentives to contribute one’s own findings to others, there is no reason information should spread. But on closer inspection this is roughly the opposite of what the world looks like. There is a lot of advice about how to run the details of a life. Sometimes it is offered for money, but often so enthusiastically and freely as to make the most curious life-optimizer want to run away. The problem seems to be more that there is so much advice, advising pretty much the full range of behavior. There are apparently incentives for spreading such ‘information’, but not incentives to actually find any information to begin with.
+This is doubly puzzling. It’s not surprising if all the possible self-help books exist. But for folks volunteering their own time to tell me about whatever relaxation technique or diet, spreading random misinformation seems low value. And again we have the question of why it wasn’t worth it, for their own benefit, to get some actual information to begin with.
+A plausible explanation to me for both of these things is that just about any random innocuous change makes life seem better, and people are genuinely trying to be helpful by telling others about such ‘discoveries’. So the problem then would be widespread use of informal data collection, which is much more unreliable than people think. In which case, my own experimentation is just as likely to fail if I rely on such data collection. Experimentation in general would not be as useful as suspected – continually experimenting would make you feel like things were good, but none of your efforts would have long term payoffs.
+This leaves the questions of whether and why people would be misinformed about their abilities to casually collect information about the effects of interventions on their lives. What say you?
+
+
+title: Personal experimentation: not shared?
+
+date: January 26, 2013 8:53 pm
+

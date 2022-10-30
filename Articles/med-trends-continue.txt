@@ -1,0 +1,23 @@
+author: Robin Hanson
+
+text: 
+Beware of the news; usually the main thing one learns is that long term trends continue.
+
+Case 1: US medical spending, now >16% of GDP, continues to double as a fraction of GDP every three decades. Politicians worry and agonize, but refuse to actually cut. Specifically, a recent article said Congress keeps postponing ’97 rules it set to limit rising Medicare fees, and rising fees plus a huge increase in number of doc visits led to a 51% increase in Medicare payments to docs from ’00 to ’08. The low chance of remedial action is shown by the article title: “Doctors say Medicare cuts force painful decision about elderly patients.” (more)
+
+
+Case 2: Docs kill huge numbers of people via preventable errors, and there is little support for forcing hospitals to publish error stats, much less for strong financial incentives to punish errors. Docs say such stats would be “misinterpreted.” Specifically, a recent study found that in at least 0.4% of hospital stays, a medical mistake “caused or contributed to a patient’s death.” This rate has not changed since a 1999 report estimating up to 98,000 US annual med mistake deaths “led to a national movement to reduce errors.” Multiplied by the 40 million US hospital discharges reported for 2008, this makes for 173,000 annual deaths. For who else besides docs would we not do the obvious easy thing to greatly reduce such a huge cause of death? (more; HT Tyler.)
+
+Some article quotes:  On med spending:
+A long-postponed rate-setting method that is on track to slash Medicare’s payment rates to doctors by 23 percent Dec. 1. Known as the Sustainable Growth Rate and adopted by Congress in 1997, it was intended to keep Medicare spending on doctors in line with the economy’s overall growth rate. But after the SGR formula led to a 4.8 percent cut in doctors’ pay rates in 2002, Congress has chosen to put off the ever steeper cuts called for by the formula ever since. …
+The growing cost of running a medical practice … rose 18 percent from 2000 to 2008. During the same period, Medicare’s physician fees rose 5 percent. … From 2000 to 2008, the volume of services per Medicare patient rose 42 percent, … [which] helps explain why Medicare’s total payments to doctors per patient rose 51 percent from 2000 to 2008.  A review of physicians’ incomes suggests that specialists … reaped most of the benefit. On average, primary-care doctors make about $190,000 a year, kidney specialists $300,000, and radiologists close to $500,000,
+On death by med error:
+The study, conducted from 2002 to 2007 in 10 North Carolina hospitals, found that harm to patients was common and that the number of incidents did not decrease over time. The most common problems were complications from procedures or drugs and hospital-acquired infections “It is unlikely that other regions of the country have fared better.” …
+It is one of the most rigorous efforts to collect data about patient safety since a landmark report in 1999 found that medical mistakes caused as many as 98,000 deaths and more than one million injuries a year in the United States. That report, by the Institute of Medicine, an independent group that advises the government on health matters, led to a national movement to reduce errors and make hospital stays less hazardous to patients’ health. … About 18 percent of patients were harmed by medical care, some more than once, and 63.1 percent of the injuries were judged to be preventable. … 42.7 percent of them required extra time in the hospital for treatment of problems like an infected surgical incision. In 2.9 percent of the cases, patients suffered a permanent injury. … 8 percent of the problems were life-threatening, … and 2.4 percent of them caused or contributed to a patient’s death. …
+The study was limited by its list of “triggers.” If a hospital had performed a completely unnecessary operation, but had done it well, the study would not have uncovered it. … “Process changes, like a new computer system or the use of a checklist, may help a bit,” he said, “but if they are not embedded in a system in which the providers are engaged in safety efforts, … progress may be painfully slow.” … “What we know works in a general sense is a competitive open market where consumers can compare providers and services. … Right now you ought to be able to know the infection rate of every hospital in your community.”
+
+
+title: Med Trends Continue
+
+date: November 27, 2010 12:40 pm
+

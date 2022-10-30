@@ -1,0 +1,19 @@
+author: Stuart Buck
+
+text: 
+Via the British Psychological Society’s excellent blog comes news of this study: MCCABE, D., CASTEL, A. (2008). "Seeing is believing: The effect of brain images on judgments of scientific reasoning," Cognition, 107(1), 343-352. 
+From the abstract: 
+
+Brain images are believed to have a particularly persuasive influence on the public perception of research on cognition. Three experiments are reported showing that presenting brain images with articles summarizing cognitive neuroscience research resulted in higher ratings of scientific reasoning for arguments made in those articles, as compared to articles accompanied by bar graphs, a topographical map of brain activation, or no image. These data lend support to the notion that part of the fascination, and the credibility, of brain imaging research lies in the persuasive power of the actual brain images themselves. We argue that brain images are influential because they provide a physical basis for abstract cognitive processes, appealing to people’s affinity for reductionistic explanations of cognitive phenomena.
+
+As the BPS blog elaborates: 
+
+David McCabe and Alan Castel presented university students with 300-word news stories about fictional cognitive research findings that were based on flawed scientific reasoning. For example, one story claimed that watching TV was linked to maths ability, based on the fact that both TV viewing and maths activate the temporal lobe. Crucially, students rated these stories to be more scientifically sound when they were accompanied by a brain image, compared with when the equivalent data were presented in a bar chart, or when there was no graphical illustration at all.
+
+This fits in with the theme of how people tend to overvalue something that is dressed up in the attire of science.  
+
+
+title: Beware of Brain Images
+
+date: April 1, 2008 6:00 am
+

@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+The September Health Information and Libraries Journal suggests newspapers only cover medical study retractions when a press release explains it:
+
+Fifty citations were identified in PubMed … with the … Heading ‘Retracted Publication’. Next, … `Major Newspapers’ and … press releases were searched to find references to those retracted publications. … Newspaper articles addressed exactly three of the 50 retracted publications, and press releases, exactly four of the 50 retracted publications. All three retracted publications that received newspaper coverage also had a press release. In other words, newspapers only covered a retraction that had been introduced by a press release.
+
+It is too easy: to prevent media coverage of an embarrassing retraction from reducing your drug’s sales, just don’t mention it.  
+
+
+title: No Press Release, No Retraction
+
+date: September 9, 2007 7:00 am
+

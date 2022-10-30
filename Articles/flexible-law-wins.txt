@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+The transitions to farming and to industry were associated with huge sudden increases in growth rates. Growth had remained pretty steady before each transition, and then boom, within a quarter of a previous doubling time, doubling times fell by over a factor of 150. Going by the number of doublings in these previous modes, we are already overdue for another transition. So I suspect that within a century or so we will see another such “singularity.” And since the current doubling time is about fifteen years, we should roughly expect that within a space of about five years the world economy will transition to doubling every few weeks or less.
+Previous transitions were uneven in the sense that some places gained advantages by being first with the new mode. While such transition-induced inequality seems to have fallen over time, large inequalities will probably also occur with a new future mode, as some places more quickly adapt and welcome it. So which places will gain most from the next transition?
+One obvious possibility is that places where the new relevant tech originates will gain an advantage. But while important, this matters less than tech folks assume. More important is which places have key inputs required for the new mode, and a big demand for the outputs of the new mode. These input and demand factors should heavily favor the world’s then most well-balanced and prosperous economies.
+However, a fourth factor may matter most: legal and regulatory flexibility. If it is to radically remake the economy within a space of five years, this new mode will quickly run afoul of a wide range of existing laws and regulations. Places that require many years of discourse between diverse stakeholders to begin even incremental legal and regulatory changes are just not going to be where this new mode first grows big. Much more promising are places where new industries and ventures can just do things, or lobby a small set of key decision makers to quickly get big changes, and commit to keeping such changes. Random empty declarations of policy changes that could easily be soon reversed, or not enforced, won’t do either.
+Given all these relevant factors, it remains quite unclear which places will be the most congenial to the next big growth mode. Perhaps change will favor places where policy is decided at a more local level, as local policy is easier to change.  (This favors, for example, municipalizing medicine.)
+But if you believe a big change is coming, and hope for your place to gain first-mover advantages from it, this flexibility question seems key. It is where feasible policy changes have the biggest chance of actually making a consistent difference.
+By the way, the contract-law core of our legal system is actually remarkable general, general enough to allow a great range of law within the same framework, and large perhaps even sudden peaceful voluntary transitions within that framework. Most actual legal systems do not allow such a wide general use of contract, however, and it is not clear whether any will anytime soon.
+
+
+title: Flexible Law Wins
+
+date: November 10, 2010 4:00 pm
+

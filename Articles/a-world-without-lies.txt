@@ -1,0 +1,10 @@
+author: Robin Hanson
+
+text: 
+Among the many provocative answers to this year's Edge question, "What Will Change Everything?" my favorite was Sam Harris' "True Lie Detection":
+ Deception commends itself, perhaps even above violence, as the principal enemy of human cooperation. Imagine how our world would change if, when the truth really mattered, it became impossible to lie. … Reliable lie-detection will be much easier to achieve than accurate mind reading. … We will almost surely be able to determine, to a moral certainty, whether a person is representing his thoughts, memories, and perceptions honestly in conversation. Compared to many of the other hypothetical breakthroughs put forward in response to this year's Edge question, the development of a true lie-detector would represent a very modest advance over what is currently possible through neuroimaging. … 
+
+title: A World Without Lies?
+
+date: January 2, 2009 11:00 pm
+

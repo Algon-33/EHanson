@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan is concerned about this objection to his book: 
+
+Caplan says that people tend to be irrational on questions where there are no direct material costs of being wrong.  But there are no direct material costs to Caplan of being wrong on most if not all of the questions he addresses in this book. 
+
+ Bryan responds:
+
+I take this possibility seriously.  In all honesty, my situation is precisely the kind in which I claim that people’s attachment to rationality is weakest. … Rather than making a mostly futile effort to convince you of my own cognitive virtues, I prefer to direct your attention inwards.  Do your best to put your feelings and ideological commitments aside, and judge my claims on their own merits. … When dealing with abstract, "impractical" areas like politics and economics, it is unfair to infer that a viewpoint is wrong just because it is unpopular.  The best way to evaluate contrarian arguments, once again, is to put your feelings and ideological commitments aside and actually listen. …
+A final interesting possibility is that I am basically right but fail to temper my judgments with due modesty. … Pleas for greater modesty should be viewed with suspicion on both strategic and intrinsic grounds.  Strategically, the problem with modesty is that we live in a culture of energetic self-promotion.  In this environment, humility is the equivalent of unilateral disarmament. …  More fundamentally, though, neither I nor any other economist I know claims to be infallible or anything close.  All I claim is that on average, economists’ judgments about economic policy are a lot more trustworthy than the public’s. … Remember that limited expertise is better than none at all.
+
+ Alas Bryan stumbles twice here.  First, if we are, as he says, much more irrational on no-direct-material-cost questions, the reasonable response is to have much lower confidence in our opinions on those topics, relative to other topics.  Bryan says he is not claiming to be infallible and that experts are better than amateurs, but those are beside the point.  The issue is simple: does Bryan in fact have much lower confidence in his political opinions, vs. his other opinions?  If so, he is consistent; if not, not.  
+ Second, Bryan seems to mistakenly conclude that one is more justified in relying on one’s own direct evaluation of arguments, relative to the evaluations of others, on topics where people tend to be more irrational.  But that irrational tendency will afflict both his evaluation and others’ evaluations; it doesn’t obviously afflict others’ more than his.  The reason to weigh the evaluations of others, and not just focus entirely on your own, is that you might make mistakes.  That reason surely remains as relevant on topics where most everyone makes big mistakes.  
+
+
+title: Immodest Caplan
+
+date: September 12, 2008 6:00 am
+

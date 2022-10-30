@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Consider two bus-seat scenarios.
+In the first scenario, a bus (or train) has seats, but sometimes not enough, so that many have to stand. Imagine that this bus sells (single-use) elite cards, so that folks without elite cards must surrender their seat to elite cardholders if no other seats are available. Imagine also that you saw that someone nearby had dropped a card, and instead of returning it to them you kept it for yourself. You expect that if you had asked aloud if anyone dropped a card, the right person would have identified themselves. But you took it instead so that you could sit when the bus was crowded. Now consider: how bad would you feel about this?
+Got it?  Ok, now consider a second scenario, where bus seating is a free for all – first to grab a seat gets it. Imagine that as you and a big crowd get on a bus you rush to grab a seat before someone else takes it.  Now consider: how bad would you feel about this?
+My guess is that you probably felt a lot less bad on this second scenario. But the consequences of your act is pretty similar – in both cases you gain a seat at the expense of someone else. Yes, the fact that someone paid for their card suggests a higher than average value for sitting, but this isn’t a really strong clue about their value; many other considerations are relevant.  So the amount of hurt you expect to have caused shouldn’t be that different.
+Your feeling much less bad when law and norms let you grab a seat suggests that you mainly feel bad about violating laws and norms – your concern about the people involved is secondary. If asked why it is bad to steal you might express sympathy with the sad victim, but that’s not really why you feel bad about stealing.
+For a similar comparison, consider trying to seduce a married person or a unmarried person. Many people think the first act is immorality of the worse sort, while the second act is quite respectable. But in both cases the person seduced becomes less available to other partners, and in both cases your gain is someone else’s loss. Yes the fact that they chose to get married is a clue about the value they gain from each other, but it isn’t a strong clue; it might be overcome by other considerations.  Many folks could reasonably convince themselves they are a better match for the seducee than their competitors.
+
+
+title: Norms Beat Empathy
+
+date: October 21, 2010 8:00 am
+

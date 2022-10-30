@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+In the 1900 Ladies Home Journal, railroad engineer John Watkins offered unusually insightful predictions for a hundred years hence. His example seems a great place to learn lessons on sources of insight, and systematic biases, in forecasting. Yet while many have commented recently on Watkin’s forecasts, I haven’t seen any drawing lessons.
+I see these as Watkins main mistakes:
+
+Overestimating coordination capacities. Watkins said we’d cut underused letters like C,X,Q from our alphabet, eliminate mosquitoes and house-flies by ending their breeding grounds, put all city traffic below or above ground, and accept many American republics into the USA union. All of these require far more coordination than we seem capable of.
+Underestimating wealth indulgence and signaling. Watkins said we’d adopt an engineer’s efficiency attitude toward food preparation and personal fitness. People unable to walk ten miles at a stretch would be weaklings, and we’d use central cooking instead of personal kitchens. But rich folks don’t want to work that hard, and humans have long asserted wealth and autonomy via personalized vs. communal dining. Institutional communal food, such as in dorms, ships, military bases, boarding-house, etc., has long been avoided a sign of low status.
+
+Added 10a: The institutional food that is cheapest, and lowest in status, makes you eat where they say, when they say, and what they say. Yes of course a restaurant is “institutional” in some ways, but it costs more because it offers customers more flexibility in time, location, and food.
+
+
+title: Hail John Watkins
+
+date: January 19, 2012 1:20 pm
+

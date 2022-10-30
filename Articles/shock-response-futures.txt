@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+This month’s Quarterly Journal of Economics features an article by Snowberg, Wolfers, and Zitzewitz:  
+
+Analyzing high frequency financial fluctuations on November 2 and 3 in 2004, we find that markets anticipated higher equity prices, interest rates and oil prices and a stronger dollar under a Bush presidency than under Kerry. … analyses of all Presidential elections since 1880 … [suggests] electing a Republican President raises equity valuations by 2-3 percent, and that since Reagan, Republican Presidents have tended to raise bond yields. 
+
+ Their method can show how speculators expect a Republican president to effect any outcome X, but it suffers from three key limitations:
+
+the election, and the relevant outcome X, must both be forecast by markets whose prices change many times on election day,
+you must believe other important influences on X have been controlled in the statistical regression analysis, and
+it is not available in time to usefully advise voters on how to vote in that election. 
+
+  
+For many years I have suggested that organizations use "decision markets" (decision conditional market forecasts) to advise key choices.  Such markets can in principle suffer from "decision selection bias", but this is not a problem when decision makers know no more than market speculators.  This can be achieved by putting the market directly in control of the decision, or, when the decision-making group is small and well motivated, by letting that group trade in the markets.  But elections, with a huge poorly-motivated decision making group, are more of a problem.
+ To avoid decision selection bias in elections, while also avoiding the three problems above, let me propose a variation on the Snowberg et al. approach: Shock Response Futures.  As in the Snowberg et al. approach, we require two other markets, one in who wins the election and the other in some outcome X.  Unlike their approach, however, we only need two election day prices from each market.   
+ The "shock" DP is the change over election day in the market’s chance the Republican wins, while the "response" DX is the change over election day in the market estimate of X.  The "shock response" is then SR = DX/DP, which can of course be positive or negative.  A binary "shock response future" could pay if SR were greater than some threshold T, while a linear future could pay proportional to how much SR exceeded some minimum value.   
+ Shock response futures could trade long before the election, giving voters early non-partisan estimates of how large a change in outcome X would be caused by electing a candidate.  This estimate would not need to be corrected for other influences on X; speculators would average over other influences in producing their shock response market estimate.  Pick your favorite outcome: unemployment, war casualties, GDP, infant mortality, Roe v. Wade reversal, whatever, shock response futures could cut through the bull to tell voters clearly which candidates would cause which outcomes. 
+
+
+title: Shock Response Futures
+
+date: May 31, 2007 6:00 am
+

@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+Sunday’s Post:
+Once again, in the midst of the cacophony, calls abound for a national “dialogue” on race. Yet our nation cannot muster the patience or stamina to sustain such a discussion beyond a single news cycle. … At the barest suggestion of race, we line up at opposite corners and start hurling accusations. …
+Racial inequality is perpetuated less by individuals than by structural racism and implicit bias. Evidence of structural inequality is everywhere: in the grossly disproportionate numbers of young black men and women in prison; in the color of students shunted into remedial and special education tracks. … It is evident, too, in the history of blatant discrimination against black farmers practiced by the Agricultural Department.
+But that does not make doctors, nurses, police officers, judges, teachers, lawyers, city planners, admission officers or others prejudiced. Most are well-intentioned professionals who believe themselves to be free of racial bias. … Implicit bias is a reality we must confront far more openly. A growing mass of compelling research reveals the unconscious racial stereotypes many of us harbor that affect our decisions. … White and black test-takers match black faces more quickly than white ones with words representing violent concepts. … The more stereotypically black the features of a criminal defendant, the harsher the sentence he or she is likely to receive. Implicit bias has been shown to factor into hiring decisions and into the quality of health care that individuals receive. …
+The good news is that structures can be dismantled and replaced and unconscious biases can be transformed. … First, though, they must be acknowledged. … Our nation has to stop denying the complexity of our racial attitudes, history and progress. Let’s tone down the rhetoric on all sides.
+Many folks reasonably suspect invitations to discuss race are traps – it seems hard to say much on race without being accused of racism, racial insensitivity, etc.  But let me cautiously weigh in anyway.
+Yes, we have unconscious expectations about others, yes those depend in part on race, and yes those expectations are a mixture of info and error.  Some unconscious race-based expectations are a reasonable summary of actual common differences between races, while others are mistaken, with expectations that are too favorable or unfavorable for particular races.
+I see two basic approaches to reducing racial expectation errors:
+
+Rely on, and perhaps improve, local incentives for individual decision makers to identify and correct their own errors, and to select themselves into decision places well matched to their abilities to avoid such errors.
+Have a broad conversation on the rough sorts of racial errors we expect to be common, then authorize officials to use discretion to pick regulations to reduce such errors at an acceptable cost, relative to other considerations.
+
+One big problem with the regulation approach is that giving regulators discretion can make things worse, as well as better.  Two examples above, of racial errors by sentencing judges and by the Ag Dept, seem examples where regulator discretion went quite wrong.  Since medicine is heavily regulated to preserve doctor discretion, racial treatment errors by doctors has a similar cause.
+Unfortunately, judges, ag dept officials, and regulated doctors have only weak incentives to overcome their racial biases.  Sure they might fear that a broad conversation will arise and create a consensus among voters both that such folks had been racially biased, and that they should be punished strongly for it.  But really, how likely is that?
+In contrast, employers  choosing who to hire can have much stronger incentives.  If a labor market isn’t too heavily mis-regulated, any employer could profit substantially by preferring to hire folks that other employers unfairly neglect.  If ordinary hiring specialists are too busy or distracted to notice such opportunities, hiring consultants can specialize in charging to identify such opportunities.
+Yes, such incentives don’t prevent all employer racial bias, and yes thoughtful hard-working well-meaning regulators (including politicians and civil servants) can and have developed labor regulations that could reduce such bias.  The problem is, when you empower regulators to fix such problems, you empower many other kinds of regulators as well, also including lazy stupid racially-biased ones.  And you give all these regulators only weak incentives to overcome their biases.
+For problems about which many people feel strongly, it is indeed a feels-right forager way to seek a communal conversation to identify new communally-enforced social norms to solve the problem.  In large modern societies, however, this urge to solve problems by national conversations and laws seems largely dysfunctional.
+Much better, when possible, is to rely on local incentives.  For example, if employer incentives to overcome racial biases seem currently too weak, let’s up the ante by enabling corporate raiders, proxy access, etc.  Forms of futarchy can give participants strong incentives to overcome racial biases regarding policy recommendations.  There is plenty we can do, if people really want to overcome racial biases.
+
+
+title: OK, Let’s Talk Race
+
+date: July 26, 2010 4:30 pm
+

@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+At 6pm on Tuesday, 24 November 2015, I’ll speak at Amsterdam University College on:
+The Age of Em: Work, Love and Life when Robots Rule the Earth
+Robots may one day rule the world, but what is a robot-ruled earth like? Many think the first truly smart robots will be brain emulations or ems. Scan a human brain, then run a model with the same connections on a fast computer and you have a robot brain, but recognisably human. Ems make us question common assumptions of moral progress because they reject many of the values we hold dear. Applying decades of expertise in physics, computer science and economics, Robin Hanson uses standard theories to paint a detailed picture of a world dominated by ems. (more)
+The day before I’ll speak on the same subject at an invitation-only session of CIO Day. Added: I’ll also be on a panel on Enterprise Prediction Markets during the more open session on Tuesday.
+
+
+title: Age of Em in Amsterdam
+
+date: November 15, 2015 9:40 am
+

@@ -1,0 +1,13 @@
+author: David J. Balan
+
+text: 
+Robin argued in an earlier post that we should use stereotypes to the extent that they contain useful information.  The impulse to use all relevant information is generally a good one, but there are solid grounds for certain rule-based refusals to do so.  For example:
+1. The fact that jurors are supposed to assume that the guy in the dock committed the crime with probability 1/N, when everyone knows that it is really much higher than that, restrains cops who might otherwise exploit their power to get someone convicted on little evidence other than the fact that they were arrested.
+2. A ban on statistical discrimination in employment increases the incentive for members of groups with high average levels of some bad attribute to invest in themselves, secure in the knowledge that discrimination will not prevent them from realizing the gains from those investments.
+3. A ban on racial profiling, even though everybody knows that there are large cross-group differences in crime and terrorism, makes it harder for the authorities to harass people from unpopular groups just for kicks (and despite much progress on this front, there are no small number of cops who are inclined to do exactly that, and a policy in which it was possible to do so would attract many more of them).  Perhaps more importantly, a color/race/religion blind policy, by its very nature, alters the experience of receiving scrutiny by the authorities. If 22 year-old Muslim men and 75 year-old Swedish women are equally likely to get searched at the airport, then the search is experienced as a nuisance. Everyone rolls their eyes, looks at their watches, and commiserates together about what a hassle it all is. When it’s only the 22 year-old Muslim males getting searched, the experience is totally different and much less benign, both for the “bad” groups getting searched and for the “good” groups walking by them. 
+
+
+title: Two Cheers for Ignoring Plain Facts
+
+date: January 3, 2007 12:28 am
+

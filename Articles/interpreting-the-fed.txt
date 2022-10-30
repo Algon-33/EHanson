@@ -1,0 +1,16 @@
+author: Justin Wolfers
+
+text: 
+   
+Here’s a puzzle.
+For the first time ever, yesterday at 2pm the Fed released its forecasts for inflation (and other variables) for the next three years.  How should one interpret an inflation forecast for 2010?  Surely this is a statement of what the Fed thinks the “long run” looks like.  Thus, the 2010 inflation forecast – of 1-3/4 percent – is essentially an articulation of the Fed’s inflation target (or at a minimum, its definition of effective price stability).
+Now imagine that you are trying to price long-term bonds.  Surely an articulation of the Fed’s inflation target is the most important news all year, if not in several years.  (And surely it is more important than trying to discern whether the short-run forecasts suggest an easing next month, or the month after.)
+But markets thought this completely uninteresting.  Take a look at the bond market response: Of course, markets wouldn’t respond, if they already knew that this is the Fed’s inflation target.  But I’m not so sure this is accurate.  The Philly Fed’s latest Survey of Professional Forecasters suggested  that the expected inflation target was a bit lower (1.6%), and previously Chairman Bernanke had suggested a “comfort zone” of 1-2%.  
+Even if the markets already understood the Fed’s target then surely the announcement of yesterday’s news at least removed substantial uncertainty, which should have – but didn’t – change the risk premium built into the relative pricing of nominal relative to inflation-indexed bonds.
+I am left to conclude that markets are either under-reacting to truly important news, or they are truly prescient and already knew the Fed’s inflation target.  My bet is on the former.  
+
+
+title: Interpreting the Fed
+
+date: November 21, 2007 9:08 am
+

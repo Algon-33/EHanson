@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+From More’s famous book Utopia, a description of three standard ways to corrupt the law:
+“But what, if I should sort with another kind of ministers, whose chief contrivances and consultations were by what art the prince’s treasures might be increased? …
+A third offers some old musty laws that have been antiquated by a long disuse (and which, as they had been forgotten by all the subjects, so they had also been broken by them), and proposes the levying the penalties of these laws, that, as it would bring in a vast treasure, so there might be a very good pretence for it, since it would look like the executing a law and the doing of justice.
+A fourth proposes the prohibiting of many things under severe penalties, especially such as were against the interest of the people, and then the dispensing with these prohibitions, upon great compositions, to those who might find their advantage in breaking them. This would serve two ends, both of them acceptable to many; for as those whose avarice led them to transgress would be severely fined, so the selling licences dear would look as if a prince were tender of his people, and would not easily, or at low rates, dispense with anything that might be against the public good.
+Another proposes that the judges must be made sure, that they may declare always in favour of the prerogative; that they must be often sent for to court, that the king may hear them argue those points in which he is concerned; since, how unjust soever any of his pretensions may be, yet still some one or other of them, either out of contradiction to others, or the pride of singularity, or to make their court, would find out some pretence or other to give the king a fair colour to carry the point. For if the judges but differ in opinion, the clearest thing in the world is made by that means disputable, and truth being once brought in question, the king may then take advantage to expound the law for his own profit; while the judges that stand out will be brought over, either through fear or modesty; and they being thus gained, all of them may be sent to the Bench to give sentence boldly as the king would have it; for fair pretences will never be wanting when sentence is to be given in the prince’s favour. It will either be said that equity lies of his side, or some words in the law will be found sounding that way, or some forced sense will be put on them; and, when all other things fail, the king’s undoubted prerogative will be pretended, as that which is above all law, and to which a religious judge ought to have a special regard.
+Thus all consent to that maxim of Crassus, that a prince cannot have treasure enough.
+That is, you can gain more fine revenue by newly enforcing old long-ignored laws, by adding many more laws to prohibit more things, and by using discretion to let people pay you to excuse them in particular cases. Also, the more than you can get judges to be selected from, trained in, and socialize within social world that you dominate, the more you can get judges to rule in our favored directions.
+Our law seems to have been corrupted in all these ways, among others.
+
+
+title: Thomas More on How to Corrupt Law
+
+date: July 9, 2020 2:20 pm
+

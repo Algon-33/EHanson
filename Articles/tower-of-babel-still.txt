@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+If language evolved to allow us to exchange information, how come most people cannot understand what most other people are saying? This perennial question was famously addressed in the Old Testament story of the Tower of Babel. … The real puzzle is that the greatest diversity of human societies and languages arises not where people are most spread out, but where they are most closely packed together. Papua New Guinea is a classic case. That relatively small land mass – only slightly larger than California – is home to between 800 and 1000 distinct languages, or around 15 per cent of all languages spoken on the planet. This linguistic diversity is not the result of migration and physical isolation of different populations. Instead, people living in close quarters seem to have chosen to separate into many distinct societies, leading lives so separate that they have become incapable of talking to one another. Why? …
+Languages act as powerful social anchors of our tribal identity. … distinct languages are an effective way to prevent eavesdropping or the loss of important information to a competitor. In support of this idea, I have found anthropological accounts of tribes deciding to change their language, with immediate effect, for no other reason than to distinguish themselves from neighbouring groups. …
+Today, around 1.2 billion people – about 1 in 6 of us – speak Mandarin. Next come Spanish and English with about 400 million speakers each, and Bengali and Hindi follow close behind. (more)
+Today much larger communities speak the same “language” in the sense of speaking English or Mandarin. But when it comes to the higher levels of specialized terminologies, styles of analysis, prototypical examples, etc. that naturally arise in different communities, organizations, and disciplines, it seems to me that a Tower of Babel still reigns. People quite often find it prohibitively hard to talk merely because different groups have gotten into the habit of talking differently, even though their concepts could be translated without great difficulty. And members of these groups often go out of their way to signal group loyalty by choosing to talk differently than outsiders.
+The world fails dramatically to coordinate on language, both at the basic English-like level, and at these higher levels. Sometimes a nation will push hard to get everyone in the nation to speak the same basic language, in order to strengthen national solidarity. But beyond that, there is very little government effort to try to coordinate on language. Which just shows how hard is coordination, and how little of government is about coordination.
+
+
+title: Tower Of Babel Still
+
+date: January 10, 2013 8:20 am
+

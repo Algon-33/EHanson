@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+ Years of studying the history, philosophy, and sociology of science led me to conclude that the word "science" says little useful beyond "good research."  Peter Woit over at Not Even Wrong demonstrates, ranting against Bostrom’s "pseudoscience" simulation argument.   His complaints: he doesn’t see how to check it with data soon, it is easier than his research but has "dense thickets" of reasoning he finds too hard to follow, and it is not very connected to and distracts attention from his research areas:  
+
+ On the pseudo-science front … beyond the edge of absurd, there’s today’s NYT Science Times section, which features a piece by John Tierney about the ideas of philosopher of science Nick Bostrom. … that there’s a significant probability that our universe is just a simulation being conducted by a more advanced civilization … Maybe we should be trying to entertain our creators so they will not turn off the simulation? … 
+The main reason I find myself getting annoyed with discussions of it here is that generally it’s pretty irrelevant to the science I’m concerned about.  Not only that, but a huge amount of damage is being done to that science by an increasingly large number of people who seem unable to tell the difference between science and science fiction. … people who want to do pseudo-science because it’s a lot easier than science will keep on justifying absurd, and inherently untestable speculation, claiming that "how do you know that a miracle won’t happen if we work on this? If we do, maybe we’ll find a real test!"
+ People who do this behave exactly the same way as every crackpot I’ve ever made the mistake of arguing with, trying to draw you into an endless investigation of the dense thickets of their idiocy. Arguing with someone who thinks the "simulation argument" is a scientific hypothesis is just this kind of waste of time. 
+ … I don’t see what the problem is with "lumping Bostrom’s ideas in with religion".  They’re not science and have similar characteristics: grandiose speculation about the nature of the universe which some people enjoy discussing for one reason or another, but that is inherently untestable, and completely divorced from the actual very interesting things that we have learned about the universe through the scientific method. … 
+The thing which is likely to lead me sooner or later to have to give up and shut down this blog is … the large number of people who want to turn this into a discussion forum for crackpottery and various forms of pseudo-science.
+
+Sure there are possible ways you could define "science"; but few agree on which one, and when a proposed definition seems to conflict with "good research" people usually start to look for another definition. 
+Added: Woit responds with "neener neener."  
+
+
+title: Pseudo-Criticism
+
+date: August 18, 2007 1:00 pm
+

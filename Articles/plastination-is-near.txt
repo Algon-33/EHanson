@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+The biggest single charity donation I’ve made so far is ~$100. But now I’m donating $5000 to an exceptionally worthy cause. And I suggest you donate too. Here’s my cause:
+People who “die” today could live again in the future, perhaps forever, as brain emulations (= uploads, ems), if enough info were saved today about their brains. (And of course if civilization doesn’t die, if someone in the future cares enough to bother, if you are your brain activity, etc.)
+This is probably enough brain info: the spatial shape and location of each brain cell, including the long skinny parts that stick out to touch other cells, and two dozen chemical densities (at the skinny part scale) to help identify cell and connection types. Actually, it is probably enough to just get 95% of the connections right, and a half dozen chemical densities.
+Today, the main way folks try to save such brain info is to pay a cryonics org to freeze their brain in liquid nitrogen, and keep it so frozen for a long time. Alas, this approach fails if this org ever even briefly fails at this task, letting brains thaw, an event I expect is more likely than not over a century timescale.
+In addition, we don’t actually know that frozen brains preserve enough brain info. Until recently, ice formation in the freezing process ripped out huge brain chunks everywhere and shoved them to distant locations. Recent use of a special anti-freeze has reduced that, but we don’t actually know if the anti-freeze gets to enough places. Or even if enough info is saved where it does go.
+The people who developed the anti-freeze published some 2D pictures that look good, but we don’t know how selectively these were chosen, or how much worse is the typical cryonics freezing process. Some good brain researchers are skeptical. (Yes, future folk might undo even very complex brain scrabbling, but don’t count on it.) And given my usual medical skepticism, I gotta be skeptical here too.
+Though cryonics has been practiced for forty years, its techniques have improved only slowly; its few customers can only induce a tiny research effort. The much larger brain research community, in contrast, has been rapidly improving their ways to do fast cheap detailed 3D brain scans, and to prepare samples for such scans. You see, brain researchers need ways to stop brain samples from changing, and to be strong against scanning disruptions, just so they can study brain samples at their leisure.
+These brain research techniques have now reached two key milestones:
+
+They’ve found new ways to “fix” brain samples by filling them with plastic, ways that seem impressively reliable, resilient, and long lasting, and which work on large brain volumes (e.g., here). Such plastination techniques seem close to being able to save enough info in entire brains for centuries, without needing continual care. Just dumping a plastic brain in a box in a closet might work fine.
+Today, for a few tens of thousands of dollars, less than the price charged for one cryonics customer, it is feasible to have independent lab(s) take random samples from whole mouse or human brains preserved via either cryonics or plastination, and do high (5nm) resolution 3D scans to map out thousands of neighboring cells, their connections, and connection strengths, to test if either of these approaches clearly preserve such key brain info.
+
+An anonymous donor has actually funded a $100K Brain Preservation Prize, paid to the first team(s) to pass this test on a human brain, with a quarter of the prize going to those that first pass the test on a mouse brain. Cryonics and plastination teams have already submitted whole mouse brains to be tested. The only hitch is that the prize organization needs money (~25-50K$) to actually do the tests!
+This is the exceptionally worthy cause to which I am donating $5K, and to which I encourage others to donate.  (More info here; donate here.) We seem close to having a feasible plastination technique, where for a few 10K$ or less one could fill a brain with plastic, saving its key brain info for future revival in an easily stored form. We may only lack donations of a similar amount to actually test that it does save this key brain info. (And if the first approach fails, perhaps to test a few revisions.)
+I don’t understand why the cryonics community isn’t already all over this. To express my opinions to them more forcefully, I offer to bet up to $5K that plastination is more likely to win this full prize than cryonics. That is, if plastination wins but cryonics fails, I win the bet, and if cryonics wins but plastination fails, I lose. If they both win or both fail, the bet is called off. Any takers?
+
+
+title: Plastination Is Near
+
+date: June 18, 2012 2:00 pm
+

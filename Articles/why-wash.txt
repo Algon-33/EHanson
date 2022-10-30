@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+In 2005, Boston-based doctors published the very first clinical trial of alcohol-based hand sanitizers in homes and enrolled about 300 families with young children in day care. For five months, half the families got free hand sanitizer and a “vigorous hand-hygiene” curriculum. But the spread of respiratory infections in homes didn’t budge, a result that “somewhat surprised” the researchers. A Columbia University study also found no reduction in common infections among inner-city families given free antibacterial hand soap, detergent, and cleaning supplies. The same year, University of Michigan epidemiologist Allison Aiello summarized data on hand hygiene for the FDA and pointed out that three out of four studies showed that alcohol-based hand sanitizers didn’t prevent respiratory infections. Then, in 2008, the Boston group repeated the study—this time in elementary schools—and threw in free Clorox disinfecting wipes for classrooms. Again, the rate of respiratory infections remained unchanged, though the rate of gastrointestinal infections, which are less common than respiratory infections, did fall slightly. Finally, last October, a report ordered by the Public Health Agency of Canada concluded that there is no good evidence that vigorous hand hygiene practices prevent flu transmission. …
+In hospitals, outside of these clinical trials, just half of doctors and nurses regularly clean their hands before patient care, despite widespread publicity. More worrisome: In hospitals where massive educational efforts have increased hand-washing rates from 40 percent up to 70 percent, there has been no overall reduction in infection rates. Even in highly regulated places like hospitals, the promising benefits of hand-washing remain largely unrealized.
+More here; HT Tyler.
+Added 12Mar: Yvian lists may pro-washing studies here.
+
+
+title: Why Wash?
+
+date: March 11, 2010 1:45 pm
+

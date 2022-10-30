@@ -1,0 +1,34 @@
+author: Robin Hanson
+
+text: 
+Monday Tuesday I’ll be taped again for a segment of the John Stossel Show, to air [added: on some coming yet to be determined] Thursday at 10p. This time I’ll be defending blackmail, a subject I’ve discussed here, here, here. In preparation, I’ve just reviewed twenty academic papers on the subject.
+Blackmail starts with a situation where A knows something embarrassing about B.  Assume A obtained this info legally, and has the legal freedom to tell or not tell this info to others, based on many noble or ignoble motivations, including rivalry and revenge.  A is guilty of illegal blackmail if he requests compensation from B in exchange for A not telling others. Such a deal is legal, however, if B suggests it. (So A should say, “I happen to know this about you. And on a completely unrelated subject, I sure could use a new car.”) For example, recently someone was sent to prison for trying to blackmail David Letterman on his extramarital affairs.
+In those twenty papers, roughly a quarter of the authors think blackmail should be legal. Others offered a wide range of arguments for illegality:
+
+Your right to keep quiet is weaker than your right to speak.
+It is stupid to pay a blackmailer; stupidity should be illegal.
+A blackmailer’s motives, in wanting money, are immoral.
+Saying embarrassing things about someone hurts them.
+It is especially wrong to gain money by hurting someone.
+The blackmailer uses third parties, without their permission, to extract gains.
+Blackmail discourages embarrassing activities, but some things just can’t be changed.
+Blackmailers may commit crimes to get the info, as may victims to get money.
+Rules forbidding or requiring the telling of certain info might be good, but are less “practical” than blackmail laws.
+If blackmail is impossible, people will instead gossip, and gossip will result in more folks knowing, and discourage embarrassing activities more.
+Government law can optimally discourage an activity via optimal punishment and rates of detection and error. Blackmail is an out of control private law, and will get these things wrong by detecting and punishing too often.
+
+The issue of blackmailer motives could be addressed by only legalizing “charity blackmail”, where the compensation obtained is donated to a charity. (Credit to Rong Rong for the idea.) As probably few would support allowing only charity blackmail, it seems blackmailer motives aren’t the main issue.
+Note that gossip is also an out-of-control private law which can discourage activities too much – why allow gossip but disallow blackmail? Note also that those who most dislike the idea of either blackmail or gossip discouraging their embarrassing activities seem to prefer that blackmail be illegal – they don’t believe that gossip alone discourages such activities more. Nor do I.
+Posner ’93 offers an elite bias explanation:
+It is extremely easy for a legislator, judge, or other public official to visualize himself or herself as a blackmail victim: any public official is a prime target for blackmail, and public officials are influential in the formation of law.
+Smilansky ’95 agreees:
+Part of the explanation for the perplexing attitude of common-sense morality on this issue is probably cynical, e.g. that the thought of being blackmailed in the ordinary ways is frightening to the rich and powerful in society, who may be less concerned with e.g. the threats of employers or politicians. Hence, that ordinary blackmail be taken so seriously is just what one would expect.
+Boyle ’92 says we don’t like money intruding on “private” realms:
+“Blackmail seems like the intrusion of market logic into the realm that should be most “private.” … To commodify is itself to violate the private realm. To commodify a violation of privacy, then, is doubly reprehensible. …. Blackmail is illegal because we have a vision of “privateness” that is constructed in part around the control of information as opposed to, say, wealth, healthcare, or housing. … We make a pre theoretical judgment that an activity is “private,” and only then do we “deduce” that it must be kept from the ruthless, instrumental logic of the market.
+I made a similar suggestion last October.
+
+
+title: Charity Blackmail?
+
+date: August 6, 2011 5:35 pm
+

@@ -1,0 +1,26 @@
+author: Robin Hanson
+
+text: 
+Ben Goertzel isn’t big on friendly AI:
+SIAI’s “Scary Idea”:  … Progressing toward advanced AGI without a design for “provably non-dangerous AGI” is highly likely to lead to an involuntary end for the human race. …
+Reasons for believing the Scary Idea: …
+
+If one pulled a random mind from the space of all possible minds, the odds of it being friendly to humans are very low.
+… If you create an AGI with a roughly-human-like value system, then this … is likely to rapidly diverge into something with little or no respect for human values.
+“Hard takeoffs” (in which AGIs recursively self-improve and massively increase their intelligence) are fairly likely once AGI reaches a certain level of intelligence; and humans will have little hope of stopping these events.
+A hard takeoff, unless it starts from an AGI designed in a “provably Friendly” way, is highly likely to lead to an AGI system that doesn’t respect the rights of humans to exist.
+
+… I think the first of the above points is reasonably plausible, though I’m not by any means convinced. … I agree much less with the final three points listed above. …
+I doubt human value is particularly fragile. Human value has evolved and … already takes multiple different forms. … I think it’s fairly robust.  … I think a hard takeoff is possible, though … I think it’s very unlikely to occur until we have an AGI system… at the level of a highly intelligent human. And I think the path to this … somewhat gradual, not extremely sudden. …
+Pointing out that something scary is possible, is a very different thing from having an argument that it’s likely. The Scary Idea is certainly something to keep in mind, but there are also many other risks to keep in mind, some much more definite and palpable. …
+I’m also quite unconvinced that “provably safe” AGI is even feasible. … The goal of “Friendliness to humans” or “safety” or whatever you want to call it, is rather nebulous and difficult to pin down. … One is going to need to build systems with a nontrivial degree of fundamental unpredictability. …
+I think the way to come to a useful real-world understanding of AGI ethics is going to be to … study these early-stage AGI systems empirically, with a focus on their ethics as well as their cognition in the usual manner of science. … So what’s wrong with this approach?  Nothing, really — if you hold the views of most AI researchers or futurists.
+I’m also not big on friendly AI, but my position differs somewhat. I’m pretty skeptical about a very local hard takeoff scenario, where within a month one unnoticed machine in a basement takes over a world like ours. And even given on such a scenario the chance that its creators could constrain it greatly via a provably friendly design seems remote. And the chance such constraint comes from a small friendliness-design team that is secretive for fear of assisting reckless others seems even more remote.
+On the other hand, I think it pretty likely that growth in the world economy will speed up greatly and suddenly, that increasing intelligence in creatures will contribute to that growth, and that most future intelligence will be machine-based.  I also think it inevitable that uncontrolled evolution in a competitive world leads to future creatures with values different from ours, inducing behavior we dislike. So in this sense I see a fast takeoff to unfriendly AI as likely.
+I just see little point anytime soon in trying to coordinate to prevent such an outcome. Like Ben, I think it is ok (if not ideal) if our descendants’ values deviate from ours, as ours have from our ancestors. The risks of attempting a world government anytime soon to prevent this outcome seem worse overall.
+
+
+title: Goertzel on Friendly AI
+
+date: October 30, 2010 1:00 pm
+

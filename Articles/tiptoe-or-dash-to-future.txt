@@ -1,0 +1,18 @@
+author: Robin Hanson
+
+text: 
+To test who should TA elite classes, new physics grad students at U Chicago in ’81 were asked to pick a physics problem and explain its solution to the group.  I did well by picking the question: should you walk fast or slow if you want to get the least water on your front while moving a certain distance in the rain.  The answer is: move as fast as you can.
+On the other hand, I’m told that when working one’s way across a minefield, one is well advised to move slowly; in that case the extra time to look closely for mines pays off in a lower chance of tripping mines.  So whether you want to move fast or slow through a destructive region depends on the details of the region.
+Humanity is now moving through a dangerous region in tech/econ growth. It will be very hard to squash us once we are spread across space with strong robust advance abilities, but we are now small, dumb, and weak.  Between here and there is a minefield of disasters that could destroy us; should we tiptoe slow or run fast?  That is, if the world economy now grows at 4% a year, should we prefer to slow it to 2%, speed it to 8%, or what?  The answer depends on which factors dominate:
+
+Natural resources – Today’s tech uses certain natural resources most heavily, while tomorrow’s tech will probably use different resources.  If we run out of today’s resources before we can reach the next tech level, we risk not being able to grow to reach that level.  This factor says go fast.
+Crazy Outbreaks – Our political and business organizations usually work tolerably, but every once in a while some crazy takes over one and all hell breaks loose.  (Similar for natural disasters like asteroids.)  We want a minimum of such events between here and there.  A faster growing economy might release such crazies faster, but as long as that rate less than doubles as growth doubles, this factor says go fast.
+Pundit Foresight – If we have a limited number of thoughtful pundits who can consider the implications of new upcoming techs and changes, then the fewer changes that arrive per year the more thought our pundits might give to each change.  If more pundit thought per change leads to better policies to avoid terrible change, this factor says go slow.
+
+My guess is that going fast is better.  But it seems an open question.  So what other factors say to grow fast or slow, to survive?
+
+
+title: Tiptoe Or Dash To Future?
+
+date: December 23, 2009 11:30 pm
+

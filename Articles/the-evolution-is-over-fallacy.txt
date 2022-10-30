@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+David Brin and Jerome Barkow both responded to my last Cato Unbound comment by assuming that the evolution of aliens would end at somewhere around our human level of development. While aliens would acquire new tech, there would be little further change in their preferences or basic psychology over the following millions or billions of years. In my latest comment, I mainly just repeat what I’d said before:
+Even when each creature has [powerful tech and] far broader control [over its local environment], this won’t prevent selection from favoring creatures who better use their controls to survive and reproduce. No, what is required to stop selection is very broad and strong coordination. As I wrote:
+Yes it is possible that a particular group of aliens will somehow take collective and complete control over all local evolution early in their history, and thereby forever retain their early styles. … Such collective control requires quite advanced coordination abilities. … Anything less than complete control of evolution would not end evolution; it would instead create a new environment for adaptation.
+My guess is that even when this happens, it will only be after a great degree of adaptation to post-biological possibilities. So even then adaptation to advanced technology should be useful in predicting their behaviors.
+I’ll call this mistake the “evolution is over” fallacy, and I nominate it as the most important fallacy about aliens, and our future. Evolutionary selection of preferences and psychology is not tied to DNA-based replication, or to making beings out of squishy proteins, or to a lack of intelligence. Selection is instead a robust long-run feature of decentralized competition. The universe is influenced more by whatever wins competitions for influence; where competition continues, selection also continues.
+
+
+title: The Evolution-Is-Over Fallacy
+
+date: December 31, 2014 11:40 am
+

@@ -1,0 +1,21 @@
+author: Robin Hanson
+
+text: 
+Life insurance is bought more because it sounds like a good idea than because it is actually needed. In fact, most people who buy life insurance never actually get paid when they die:
+Almost 85% of [US life insurance] term policies fail to end with a death claim; nearly 88% of universal life policies ultimately do not terminate with a death beneﬁt claim.  In fact, 74% of term policies and 76% of universal life policies sold to seniors at age 65 never pay a claim. …
+We document the following core facts about the U.S. life insurance industry, which has over $10 trillion of individual coverage in force …:
+
+ A death beneﬁt is not paid on most policies. For “term policies” that oﬀer coverage over a ﬁxed number of years, most are “lapsed” prior to the end of the term; a majority of permanent (e.g., “whole life”) policies are “surrendered” (i.e., lapsed and a cash value is paid) before death.
+Insurers make substantial amounts of money on clients that lapse their policies and lose money on those that do not. Insurers, however, do not earn extra-ordinary proﬁts. Rather, lapsing policyholders cross subsidize households who keep their coverage.
+Real premiums decrease over time (i.e., policies are “front loaded”) rather than increasing with age in a manner more consistent with either actuarially fair pricing or optimal insurance in the presence of reclassiﬁcation risk where new information about mortality risk is revealed.
+As an industry, insurers lobby intensely to restrict the operations of secondary markets. In other markets (e.g., initial public oﬀerings or certiﬁcates of deposit), the ability to resell helps support the demand for the primary oﬀering. …
+
+While consumers correctly account for mortality risk when buying life insurance, they fail to suﬃciently weight the importance of background risks. … Since consumers do not anticipate the need to lapse, this front-loaded policy appears to be cheaper than a policy that is actuarially fair each period. … The introduction of a secondary market undermines this cross-subsidy by oﬀering lapsing households better terms relative to surrendering. (more)
+We cryonics patients are hopefully an exception – we really do need the money to pay for the cryonics treatment. More info on cheating insurance agents:
+We construct a rich dataset describing individual insurance agents operating in Texas. We match licensing data with company affiliations and detailed sales practice complaint records from the state regulator. From the company affiliation data, we identify two types of experts: monitored agents from large, branded companies, and unmonitored agents working as independents. We fid that the odds of monitored experts from large, branded companies taking advantage of their customers are 21 to 98% greater than the odds for unmonitored independent experts. In a supplemental analysis, we use national sale practice complaints data to confirm our results. Finally, we find that more experienced agents are significantly more likely to mislead their customers. … Company agents may earn 50 to 70% of the gross commissions of their sales, depending on the type of insurance product. (more)
+
+
+title: Beware Life Insurance
+
+date: January 17, 2013 9:30 am
+

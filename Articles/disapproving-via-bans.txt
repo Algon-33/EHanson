@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+Adam Ozimek posted on why anti-prostitution laws are inefficient:
+Say Ray’s friend Lenore wants to purchase Ray’s prostitution services and she values them at $400. But when Lenore does this it bothers Ray’s other friend Tonya. … The marginal utility gained from prostitution by consumers would vastly exceed the marginal disutility to objectors. (more)
+Matt Yglesias responds:
+I think Adam Ozimek’s post … nicely illustrates why nobody likes economists: … a big part of the point of prostitution prohibition laws is to express social disapproval of prostitutes and prostitution. … You can [call]  a person … you disapprove … as a “whore.” … Its insult status reflects and upholds a social consensus that whores are bad people, not just that whoring is a kind of undesirable nuisance. Side-payments can’t address this issue.
+I think the best way to think about prostitution prohibition is just to observe that we’ve historically done a lot of stuff to bolster the privileged position of heterosexual companionate marriage. This has entailed a lot of avoidable cruelty to gays and lesbians, sexually active women, children of unmarried women, and voluntary prostitutes. But the cruelty isn’t a pointless side-effect that can be reduced through better policy design. The cruelty is integral to obtaining the objective. (more)
+Adam responds:
+One could … [argue] that the costs and benefits of the expressive value of laws should be taken into consideration. .. This would mean weighing the cost of lower status of prostitutes against the benefits of those who wish to lower their status. … Matt seems to think the reason people don’t like economists is because they miss these things or they ignore them. That’s a fair enough criticism. But he should consider Robin Hanson, whose willingness to wrap any cost or benefit into welfare analysis, no matter how egregious, is surely the purest form of economic thinking. No offense to Robin, but I don’t think people would like economists more if [they] conducted economic analysis more like him. (more)
+So do people dislike economists like me because we ignore key costs and benefits, or because we try to consider them neutrally, instead of tipping the scales toward their desired conclusions?
+Oddly for a post emphasizing the importance of social disapproval, Matt doesn’t say if he approves of banning things to express disapproval,  or of disliking economists for neglecting disapproval motives. Nor does Matt says if he thinks bans-to-disapprove are efficient.
+So let me say clearly: policies that create real social costs for the purpose of raising the status of some relative to others are usually inefficient, and therefore bad. Those whose status is raised usually gain less than is lost by those whose status is lowered, plus those who suffer the social costs of the policy
+We can also see this as some societies trying to look good in the eyes of other societies, by paying real costs to signal their commitment to certain ideals. Even if this benefits such societies, the set of all societies probably loses on net.
+
+
+title: Disapproving Via Bans
+
+date: November 5, 2010 11:00 am
+

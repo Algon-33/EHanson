@@ -1,0 +1,24 @@
+author: Robin Hanson
+
+text: 
+The latest Science has an article by Michael Stumpf and Mason Porter, complaining that people aren’t careful enough about fitting power laws. It mentions that a sum of heavy-tail-distributed things generically becomes has a power law tail in the sum limit. And it claims:
+Although power laws have been reported in areas ranging from finance and molecular
+biology to geophysics and the Internet, the data are typically insufﬁcient and the mechanistic insights are almost always too limited for the identiﬁcation of power-law behavior to be scientifically useful … Examination (15) of the statistical support for numerous reported power laws has revealed that the overwhelming majority of them failed statistical testing (sometimes rather epically).
+Yet in reference 15, where Aaron Clauset, Cosma Rohilla Shalizi, and M. E. J. Newman looked carefully at 25 data sets that others had claimed fit power laws, only for 3 did they find less than moderate support for a power law fit, and in none of those cases was any other specific model significantly favored over a power law! It this is the best criticism they’ve got, this seems to me resounding support for power laws.
+Here are the phenomena where the power is less than one, meaning the few biggest items get most of the weight:
+intensity of wars 0.7(2); solar ﬂare intensity 0.79(2); religious followers 0.8(1); count of word use 0.95(2)
+The number is the power and the digit in parens is the uncertainty of the last digit shown. Here are the phenomena where the power is greater than one, meaning most weight goes to many small items:
+telephone calls received 1.09(1); bird species sightings  1.1(2); Internet degree  1.12(9); blackouts 1.3(3); population of cities 1.37(8); terrorist attack severity 1.4(2); species per genus 1.4(2); freq. of surnames 1.5(2); protein interaction degree 2.1(3); citations to papers 2.16(6); email address books size 2.5(6); sales of books 2.7(3); papers authored 3.3(1)
+For quake intensity they give power 0.64(4), but say a better fit is a different power (unspecified) and a cutoff.  For net worth (of the US richest 400) they give power 1.3(1), but say a power-law doesn’t fit, though no other model tried fits better.
+On catastrophic risk, I wrote in ’07:
+We should worry more about disasters with lower powers, such as forest ﬁres (area power of 0.66), hurricanes (dollar loss power of 0.98, death power of 0.58), earthquakes (energy power of 1, dollar loss and death powers of 0.41), wars (death power of 0.41), and plagues (death power of 0.26 for Whooping Cough and Measles).
+So the above study suggests we worry most about wars, quakes, religions, and solar flares. I hadn’t been worried about solar flares so much before; now I am. On city inequality, I think I trust that other paper more.
+Added 4p: Cosma Shalizi says:
+In ten of the twelve cases we looked at, the only way to save the idea of a power-law at all is to include this exponential cut-off. But that exponentially-shrinking factor is precisely what squelches the WTF, X IS ELEVENTY TIMES LARGER THAN EVER! THE BIG ONE IS IN OUR BASE KILLING OUR DOODZ!!!!1!! mega-events.
+I’m happy to admit that worse case fears are reduced by the fact that <1 power law data tend to be better fit by a tail cutoff. Good news! I don’t want to believe in disaster, but I do think we must consider that possibility.
+
+
+title: Rah Power Laws
+
+date: February 14, 2012 1:15 pm
+

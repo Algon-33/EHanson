@@ -1,0 +1,20 @@
+author: Robin Hanson
+
+text: 
+In Science, academic “deliberation” experts offer a fix for our political ills:
+Citizens to express their views … overabundance [of] … has been accompanied by marked decline in civility and argumentative complexity. Uncivil behavior by elites and pathological mass communication reinforce each other. How do we break this vicious cycle? …
+All survey research … obtains evidence only about the capacity of the individual in isolation to reason about politics. … [But] even if people are bad solitary reasoners, they can be good group problem-solvers … Deliberative experimentation has generated empirical research that refutes many of the more pessimistic claims about the citizenry’s ability to make sound judgments.
+Great huh? But there’s a catch:
+Especially when deliberative processes are well-arranged: when they include the provision of balanced information, expert testimony, and oversight by a facilitator … These effects are not necessarily easy to achieve; good deliberation takes time and effort. Many positive effects are demonstrated most easily in face-to-face assemblies and gatherings, which can be expensive and logistically challenging at scale. Careful institutional design involv[es] participant diversity, facilitation, and civility norms …
+A major improvement … might involve a randomly selected citizens’ panel deliberating a referendum question and then publicizing its assessments for and against a measure … problem is not social media per se but how it is implemented and organized. Algorithms for ranking sources that recognize that social media is a political sphere and not merely a social one could help. …
+It is important to remain vigilant against incentives for governments to use them as symbolic cover for business as usual, or for well-financed lobby groups to subvert their operation and sideline their recommendations. These problems are recognized and in many cases overcome by deliberative practitioners and practice. … The prospects for benign deployment are good to the degree that deliberative scholars and practitioners have established relationships with political leaders and publics—as opposed to being turned to in desperation in a crisis.
+So ordinary people are capable of fair and thoughtful deliberation, but only via expensive processes carefully managed in detail by, and designed well in advance by, proper deliberation experts with “established relationships with political leaders and publics.” That is, these experts must be free to pick the “balance” of info, experts, and participants included, and even who speaks when how, and these experts must be treated with proper respect and deference by the public and by political authorities.
+No, they aren’t offering a simple well-tested mechanism (e.g., an auction) that we can apply elsewhere with great confidence that the deployed mechanism is the same as the one that they tested. Because what they tested instead was a mechanism with a lot of “knobs” that need context-specific turning; they tested the result of having particular experts use a lot of discretion to make particular political and info choices in particular contexts. They say that went well, and their academic peer reviewers (mostly the same people) agreed. So we shouldn’t worry that such experts would become corrupted if we gave them a lot more power.
+This sure sounds like a priesthood to me. If we greatly empower and trust a deliberation priesthood, presumably overseen by these 20 high priest authors and their associates, they promise to create events wherein ordinary people talk much more reasonably, outputting policy recommendations that we could then all defer to with more confidence. At least if we trust them.
+In contrast, I’ve been suggesting that we empower and trust prediction markets on key policy outcomes. We’ve tested such mechanisms a lot, including in contexts with strong incentives to corrupt them, and these mechanisms have far fewer knobs that must be set by experts with discretion. Which seems more trustworthy to me.
+
+
+title: Can We Trust Deliberation Priests?
+
+date: March 19, 2019 11:55 am
+

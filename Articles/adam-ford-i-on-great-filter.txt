@@ -1,0 +1,19 @@
+author: Robin Hanson
+
+text: 
+Adam Ford interviewed me again, this time on the Great Filter:
+
+We have three main sources of info on existential risks (xrisks):
+
+Inside View Analysis – where we try to use our best theories to reason about particular causal processes.
+Earth Track Records – the empirical distribution of related events observed so far on Earth.
+The Great Filter – inferences from the fact that the universe looks dead everywhere but here.
+
+These sources are roughly equally informative. #2 suggests xrisks are low, even if high enough to deserve much effort to prevent them. I’d say that most variations on #1 suggest the same. However, #3 suggests xrisks could be very high, which should encourage more xrisk-mitigation efforts.
+Ironically most xrisk efforts (of which I’m aware) focus on AI-risk, which can’t explain the great filter. Most analysis efforts also focus on #1, less on #2, and almost none on #3.
+
+
+title: Adam Ford & I on Great Filter
+
+date: July 29, 2014 1:00 pm
+

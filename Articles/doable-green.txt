@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Since I recently said carbon emissions seemed a lost cause, let me emphasize that cap and trade fisheries are big, green, and feasible: 
+
+Two years ago, a team of researchers took a broad look at the world’s commercial fisheries and predicted that excessive harvesting would cause them all to collapse by 2048. Now, three other scientists have taken an equally broad look at how fisheries are managed and come up with a more hopeful view. …
+[Researchers show] that stocks are much less likely to collapse if fishers own rights to fish them, called catch shares. If implemented worldwide, they say, this kind of market-based management could reverse a destructive global trend. Says David Festa of the Environmental Defense Fund in San Francisco, California, "This gives definitive, concrete proof that this tool does end overfishing." …
+ Worm’s team had analyzed all the large marine ecosystems in the world and found that those with declining biodiversity tended to have more collapsed fisheries, defined as yields less than 10% of historical maximums.  .. Each fisher was allocated a number of individual transferable quotas (ITQs), which they can use to catch fish or sell to others. The quotas are a percentage of the total allowable catch, which is set by regulators each year …
+ Australia, New Zealand, and Iceland, among others, claimed success with this approach, but no one had done a comprehensive analysis. Costello, Gaines, and Lynham examined more than 11,135 fisheries worldwide. Only 14% of the 121 fisheries using ITQs or similar methods had collapsed, compared with the 28% collapsed among fisheries without ITQs. Had all the world’s fisheries implemented catch-share management in 1970, the researchers found, only 9% would have collapsed by 2003. The findings are conservative, Costello explains, because most ITQ systems have been put into place fairly recently; each year of rights-based management makes a collapse 0.5% less likely. 
+
+Added 9/26: Global carbon emissions increased 2.9% in ’07!
+
+
+title: Doable Green
+
+date: September 25, 2008 1:00 pm
+

@@ -1,0 +1,27 @@
+author: Robin Hanson
+
+text: 
+We have had many prediction markets on who will be elected, but almost none on who should be elected.  So far, the only exceptions I know are decision markets on which nominees would most help their party gain the U.S. presidency.   
+ Today, I’m pleased to announce that Peter McCluskey has funded the creation of six now-live InTrade markets that should tell us how a Democratic versus Republican U.S. President will differently effect oil prices, long term interest rates, US government debt, and US troops in Iraq!  If enough people trade these assets, then for voters who know which direction they want these parameters to move, InTrade market prices could advise them on how to vote! 
+  
+ Two different approaches will be tried on these four parameters.  Two parameters will use a binary shock response futures approach, with one asset each paying based on whether, over the course of election day, oil prices or T-bond interest rates move in the same direction as the probability of a Democrat winner. For example, if you think (speculators think) that a Democrat is more likely to raise oil prices than a non-Democrat, you should be willing to pay more than 50 for the asset that pays 100 if these two move in the same direction.  You can cash in these assets a few days after the election.  
+ For the two other parameters, four assets will support simple conditional estimates.  Each parameter will have Democrat, Non-Democrat asset pairs.  The Democrat asset in the pair pays only if a Democrat is the next president, while the other asset only pays otherwise.  Bundling each pair together gives assets whose prices estimate:
+
+ The probability US Govt debt will rise from FY 2010 to 2011 (assets: D, ND).
+The number of US troops in Iraq mid 2010 (assets: D, ND).
+
+ Dividing the price of each individual asset by market chances of a Democrat president (or not) produces estimates of these parameters conditional on a Democrat president (or not).  The difference between the Democrat and the other conditional estimates say how much of a difference speculators expect a Democrat to make on that parameter.  You’ll have to wait up to four years to cash in these assets.  
+ I see four key open questions: 
+
+ Can we get precise enough prices to see a Democrat versus not difference?
+Can we convince voters that such prices give reliable non-partisan estimates?  
+Can we convince voters these prices show causal effects of the party in power?
+Can enough voters tell which way they’d like these parameters to move for prices to be useful?  (I’m not sure which ways I want.)
+
+Added: Peter has been told InTrade will waive all trading fees in these markets! 
+
+
+title: Presidential Decision Markets
+
+date: January 4, 2008 11:59 am
+

@@ -1,0 +1,16 @@
+author: Peter McCluskey
+
+text: 
+This Wired article about the Netflix prize provides an important hint about a valuable result of understanding human biases: 
+
+ Couldn’t a pure statistician have also observed the inertia in the ratings? Of course. But there are infinitely many biases, patterns, and anomalies to fish for. And in almost every case, the number-cruncher wouldn’t turn up anything. A psychologist, however, can suggest to the statisticians where to point their high-powered mathematical instruments. "It cuts out dead ends,"
+
+This approach applies to a wide variety of problems, including beating markets. Not only is it important for investors to avoid dead ends in the sense of failing to find patterns, it’s important to distinguish patterns that are sustained by strong human biases from patterns that will vanish when a modest number of people figure out how to exploit them or patterns that are a byproduct of data that are not random samples from the space of all possible market behavior. Or as Coase is reported to have said, "if you torture the data enough, nature will always confess".
+ There are a variety of known strategies that seem to work even though many people are aware of them. Most seem to be sustained by some combination of Status Quo Bias, Endowment Effect, and Recency Bias, although the benefits of these strategies seem to diminish over time.
+ Also, since Robin’s advice to welcome diversity in analysis rather than beliefs seems too abstract for some, here’s how I think of putting it into practice when investing: focus on asking questions that few other people are asking. The more widely discussed a question is, the more likely it is that markets reflect the best answer to it. My best investments have been in companies that few people have heard of, often found by looking through more earnings reports than most investors would be willing to. And one infrequently mentioned result from the cognitive science literature has been more helpful in automating my search for underpriced companies than years of studying what other investors are doing.
+
+
+title: Biases and Investing
+
+date: March 18, 2008 1:00 pm
+

@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+To neutralize my nattering nabobs of negativity on medicine, here is a constructive suggestion. 
+The biggest problem in medicine is: what general process or institution can ordinary sick patients and concerned loved ones rely on to distinguish helpful from harmful medicine?  Recently there has been interest in "paying for performance," but that usually means small bonuses tied to statistics like how often doctors remind patients to stop smoking, or how often doctors prescribe antibiotics for ordinary flu symptoms.  In contrast, I published a pretty general solution in 1994.  (A similar idea appears in the 2003 book Why Not? )  I remain puzzled to see no interest in this idea.
+ For example, here is how we could reform Medicare.  If you were on Medicare, there would be a particular health plan responsible for paying all your medical expenses.  If a medical treatment were done to you, they would pay for it.  (You would still pay non-medical health expenses, like for diet or exercise.)  But your plan would also have wide discretion to veto treatment; no treatment would happen unless you and they both agreed.  This includes all treatment details, like where, when, and who.  
+ Why would you trust plans with such power?  Because they would "feel your pain."  Each year, the government would pay your plan a dollar amount based on your quality of life that year.  This might be $100,000 if you were healthy, $50,000 if you were disabled, $30,000 if you were in great pain, and so on.  (These evaluations of disability and pain might be based on random auditor visits.)  Thus bad medical choices would hurt them just as such choices hurt you.
+  
+As a result, plans would have incentives to make good tradeoffs between medical spending and health gains (at least for gains reflected in official quality of life payment schedules).  Plans would also have good incentives to advise you on your health choices, and you would have good incentive to listen.  Of course you start out with good incentives, so good incentives are not enough.  But being large organizations, such plans would be far better positioned than you to figure out how to respond to these incentives.  
+ Since payments to plans would usually far exceed medical expenses, an auction would be used to assign plans to people.  The plan willing to pay the government the most would get the (tradable) right to be your health plan forever more.  A full record of your medical history would be visible to auction bidders.  In this scenario net payments from the government equal expected medical spending.  Yes, the government would acquire a financial incentive to hurt your health, but public monitoring should prevent them from acting on this incentive.
+ Employer-provided medical coverage could use a similar mechanism, if a distant third party, unable to harm employee health, was paid up front to become responsible for making annual payments to health plans.  Employers might adjust value of life figures to employee details, and might allow employees to add funds to raise those figures.
+
+
+title: Buy Health, Not Medicine
+
+date: October 17, 2007 6:00 am
+

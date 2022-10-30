@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Families, clubs, professions, industries, firms, cities, and states are all important units of economic organization. That is, we coordinate to some extent via all of these units, to achieve mutual ends. But firms and cities make an especially interesting comparison.
+First, firms and cities are similar in many ways. They both vary greatly in size, and can be costly for long-time associates to leave. Both tend to be “selfish” in avoiding and excluding those who do not benefit other associates, and thus tend to favor rich folks. People can relate to both kinds of units as investors, suppliers, leaders, and customers.
+Second, people tend to like cities more than firms. For example, many movies are love songs to particular cities, yet few movies have cities as villains. Many movies have firms as villains, but few have firms as heroes. Sporting teams tied to cities play in huge stadiums, while teams tied to firms play in local parks.
+While people tend to dislike bigger firms more than small ones, cities tend to be bigger than firms, and the biggest cities tend to be the most celebrated. People tend to resent firms more when it is more costly to leave them, yet it tends to be harder to leave cities than firms. So why are cities loved so much more?
+One theory is that we related to cities less directly. If a city doesn’t hire you, you can say particular firms wouldn’t hire you. If a city won’t sell you a dress cheap, it is particular firms that wouldn’t sell it. So cities can more easily escape blame. However, a similar argument would suggest that we love shopping malls more than stores, or TV channels more than TV shows. Yet these seem weak effects, if they exist at all.
+Another theory is that we often see firms as illicit dominators. We see the employer-employee relation as a dominance-submission relation, because firms give employees orders. Of course customers often give orders to firms, such as to waiters and cab drivers. But perhaps the joy of sometimes dominating does not outweigh the pain of at other times submitting. (And why are landlords seen as dominators, with renters submissives?)
+Now cities do often seem to take a dominance relation to their citizens, such as via police, teachers, and rule-bound officials. But people seem to resent this dominance less. Is this because the major is democratically elected? CEOs are also usually elected, its just via one stock one vote, instead of one person one vote. Do people love cities less where local officials aren’t elected? Do people love non-profit firms as much as cities? Color me again confused.
+Added 4p: Andrew Gelman says many firms are actually very popular. Alas he doesn’t have comparable data on cities.
+
+
+title: Why Hate Firms, Love Cities?
+
+date: January 16, 2012 9:10 pm
+

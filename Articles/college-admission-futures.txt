@@ -1,0 +1,13 @@
+author: Robin Hanson
+
+text: 
+Last week I posted on how decision markets might help students pick a college.  Now consider colleges picking students.  The obvious approach is to bet on student success given starting at a certain college in a certain season (perhaps also at a certain school of that college).  
+ A college could ask applicants to submit an essay, which does not identify them individually, and agree to let the college post this and other anonymized details for all bettors to see.   And the college could commit to later publishing success stats on these students. 
+ Compared to students picking colleges, here success criteria are easier.   Whether the student graduated at all, and their GPA and eventual major if they do graduate, encompass a lot of what colleges now look at.  If one could wait longer, colleges also care about donations students might make as alumni.   And if we had worked out student success measures for college choice futures, college admissions could also look at these.
+The main problem with this proposal, other than the many years needed to evaluate a trial, is that it seems hard to start small – one would have to get an entire school of some college to sign on to a trial, and they might reasonably fear how this would effect their reputation.  
+
+
+title: College Admission Futures
+
+date: November 5, 2007 6:00 am
+

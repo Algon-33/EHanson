@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Some societies are more healthy, productive, innovative, and stronger than others. We now understand many factors that contribute to this difference, and we collect and track many stats related to these factors. To predict future changes in social health, it is especially important to track well the stats that change the fastest. After all, for slowly changing factors infrequent noisy measures may do fine.
+However, I see one factor which is important, which can and does change rapidly, and yet where we do very little tracking of related stats. That factor is: fashions in the status markers seen as determining who is more elite. Let me explain.
+All cultures and subcultures distinguish people by their status, via agreed-upon markers, such as wealth, power, attractiveness, credentials, wit, and much more. While the weights that different cultures put on these things usually have the same signs, their magnitudes can differ greatly. I’ve seen such weights vary greatly over my lifetime, and across the many social worlds I’ve inhabited. For example, societies that put more weight on military valor are likely to fight more wars, those that put more weight on business profits will see more wealth, and those that care more about music will hear more music.
+These differences have huge consequences, as a big fraction of social energy is devoted to seeking higher status. Especially among the “best” people. These difference probably vary not only by nation, but by city and region, by industry and profession, and by ethnic and other subcultures. And over time, status marker fashion changes not only with overall fashions, but also with the status of subareas, such as recently when tech got rich and was then taken over by traditional elites.
+Changes in status fashion have the potential to bring great societies crashing down, and to raise up once low societies. Such fashions do in fact often seem to change a lot over time timescale of decades. And yet I know of no attempts to create data series to measure these crucial changes. Seems a hole worth filling.
+We should also put a lot more thought into how to change our status markers to be promote social health. And to prevent the rise of unhealthy markers.
+
+
+title: Seeking Status Fashion Stats
+
+date: August 10, 2021 11:50 am
+

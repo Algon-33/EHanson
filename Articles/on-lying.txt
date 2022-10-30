@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+In a recent New Yorker, the New Republic editor who was duped by Stephen Glass takes a skeptical look at brain scan lie detectors.   Along the way we learn:
+
+“People hold a stereotype of the liar—as tormented, anxious, and conscience-stricken,” … In fact, many liars experience what deception researchers call “duping delight.” … When people tell complicated lies, they frequently pause longer and more often, and speak more slowly; but if the lie is simple, or highly polished, they tend to do the opposite. Clumsy deceivers are sometimes visibly agitated, but, over all, liars are less likely to blink, to move their hands and feet, or to make elaborate gestures. …
+Liars are more likely to tell a story in chronological order, whereas honest people often present accounts in an improvised jumble. Similarly, … subjects who spontaneously corrected themselves, or said that there were details that they couldn’t recall, were more likely to be truthful than those who did not … People who are afraid of being disbelieved, even when they are telling the truth, may well look more nervous than people who are lying. This is bad news for the falsely accused … “Baby-faced, non-weird, and extroverted people are more likely to be judged truthful.” 
+
+I can believe that current brain scan lie detectors are over-hyped, but within the next half century we’ll probably have robust devices like this, which could revolutionize our social relations.  
+
+
+title: On Lying
+
+date: July 20, 2007 6:00 am
+

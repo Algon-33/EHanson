@@ -1,0 +1,14 @@
+author: Michael Abramowicz
+
+text: 
+Thanks to Robin for posting a mini-review of Predictocracy. We’ve promised to debate the relative merits of a “futarchy” and a “predictocracy” later. 
+I’ll use this opportunity to respond briefly to his criticism (while gratefully accepting his praise). I agree that it’s best when technical designs for prediction markets can be supported by mathematical models or empirical evidence. At the same time, I didn’t want to scare away readers by including math. Meanwhile, I agree that field experiments can be helpful, and I am developing a web site that will test some of the ideas of the book (subject, of course and unfortunately, to legal restrictions). While recognizing the contributions of experimental economics, I doubt that laboratory experiments will be of much use in persuading skeptics that prediction markets can be useful in real-world institutions. 
+Nonetheless, almost all of the market designs that I describe in the book already have some support of the kind that Robin recommends (in some cases by Robin himself). For example, I previously offered a mathematical elaboration of “deliberative markets,” which seek to encourage participants to seek to persuade others that their predictions are correct. 
+Admittedly, there are a few exceptions. The incentives provided by two of my technical proposals (the decentralized subsidy approach and the nobody-loses prediction market) are sufficiently straightforward to me that math seems superfluous to me, though I agree that field tests comparing these with alternatives would be useful. Two of the proposals (the text-authoring market and the market web) could certainly benefit from experimentation, but the software needed to implement them would be considerably more complicated than what is needed for existing prediction markets. 
+A concluding thought: Robin’s articles are generally ridiculously underplaced in comparison to both their quality and their influence. But certainly I’m glad that Robin didn’t wait to publish his articles on science claims and futarchy until he had developed mathematical models or laboratory experiments. I don’t think that they would have added much. Academia may well be biased against articles whose primary thrust is to propose new institutions; I’ve also generally had better luck in placing more conventional articles. But I still think that such articles perform a useful function, and while they should include support, there may be an efficient division of labor between those who sketch out broad ideas and those who elaborate them (with or without mathematical models) or test them (in laboratory and field experiments). This is particularly so when the practical reality is that many different forms of elaboration and confirmation will be necessary before new institutions can be adopted.
+
+
+title: Predictocracy — A Preliminary Response
+
+date: January 28, 2008 2:51 pm
+

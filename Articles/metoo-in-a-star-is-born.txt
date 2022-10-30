@@ -1,0 +1,41 @@
+author: Robin Hanson
+
+text: 
+The Me Too movement (or #MeToo movement), with many local and international alternative names, is a movement against sexual harassment and sexual assault. #MeToo spread virally in October 2017 as a hashtag on social media in an attempt to demonstrate the widespread prevalence of sexual assault and harassment, especially in the workplace. It followed soon after the sexual abuse allegations against Harvey Weinstein. (more)
+It is now a bit over a year since #MeToo started to push for more strongly censuring an expanded range of activities. Both the facts of change and expansion suggest that we are now less clear on what exactly counts as unacceptable sexual “harassment.” This increased ambiguity struck me when watching the new Star is Born movie, which now has a 64% chance to win the Best Picture Oscar, and when asking my twitter followers a few related questions.
+The prototypical #MeToo villain was Harvey Weinstein, a powerful older man in the movie industry who offered to help young pretty much-less-powerful women with their acting careers, in trade for sex. He’d help by recommending them for jobs, or hurt them by recommending against them. Yes, Harvey was also accused of directly forcing himself on some women, but society already had a strong consensus against that. These sex for career help offers were the newer issue.
+In the new movie A Star is Born, a popular older male singer hears a young amateur female singer. He then quickly expresses both sexual and professional interest in her, and many people around the two of them indicate that they see both of these interests expressed. He offers to fly her to his next show, she declines, but then changes her mind. He brings her on stage to sing a song, which greatly helps her career. She stays with him that night and they have sex. She continues to travel with him, and he continues to help and they continue to have sex. She isn’t an idiot, so we must presume she knows that if she stops having sex with him, there’s a good chance he will stop helping her career.
+One could interpret this situation as him making an implicit offer to trade career help for sex, and her accepting this offer. Which seems to violate the #MeToo standard that Harvey Weinstein violated. Yet few complain of this, even in a politically sensitive industry during this extra sensitive time. And in fact, while most of my twitter followers seemed reluctant to take any position on this, those who did were about 3 to 1 against blaming this man. They instead said they would not defend this woman and “believe her” if, a month into their relationship, she had soured on it and publicly accused him of abusing his position of power:
+
+Answer only if you’ve seen the new movie A Star Is Born. Imagine that, after a month into their relationship, female soured on it & declared publicly that male had abused his position of power, & was guilty of sexual harassment. Would you accept & defend her claim?
+— Robin Hanson (@robinhanson) December 16, 2018
+
+Yet given an abstract description of this sort of situation, about half of my twitter followers say that his behavior is not okay, and that he is not saved by her liking the deal overall, his asking only once, or his offering an implicit deal that gives her (and him) plausibly deniability:
+
+A powerful man offers to help a woman’s career in trade for sex. Is this okay of him if a) she likes deal & accepts, b) he only ever asks once, she declines, c) deal is indirect, giving her plausible deniability? Pick 1st answer you agree with:
+— Robin Hanson (@robinhanson) December 16, 2018
+
+These results seem to me to imply a lot of uncertainty, disagreement, and individual inconsistency. Whatever the actual causes of these opinions, we seem far from achieving a consensus on what behaviors to censure how much.
+Added 7pm:  Many on Twitter now say that my last poll above is aggressive, offensive, pro-harrassment, and itself constitutes harassment, because I allow respondents the possibility of saying that the man’s offer could be okay. In particular, respected economist Betsey Stevenson says:
+
+This kind of “innocent query” sums up why economics is a more hostile profession for women than many others. … it suggests the options you gave are potentially ok behavior. … why don’t you change your behavior given the feedback if you don’t want to be harassing.
+
+Added 10:30a: I’m struck by the contrast between so many people taking a moralizing critical tone with me for even allowing survey respondents to say such an trade is okay, and the complete lack of anyone taking such a tone regarding the apparently implicit trade in the movie.
+Added 19Dec: I did two more polls:
+
+A powerful man shows both sex & prof. interest in woman in same profession. He helps her career, she then has sex w/ him, then this continues. She knows he’ll likely stop helping if sex stops. But if asked, both deny trading, say are “in love”. Re their relation, observers should
+— Robin Hanson (@robinhanson) December 18, 2018
+
+
+A powerful man shows both sex & prof. interest in woman in same profession. He helps her career, she then has sex w/ him, then this continues. After a month she sours on relation & complains publicly that he took advantage of his power. Re their relation, observers should
+— Robin Hanson (@robinhanson) December 18, 2018
+
+So given an abstract description of the situation in A Star is Born, ~26-27% of my twitter followers say that they disapprove of the relation, regardless of whether the woman complains or not. If the woman doesn’t complain, then ~29% approve of the relation and the remaining ~45% don’t want to express an opinion. But if the woman does complain, then only ~20% approve. It seems that ~9% of those who would otherwise approve switch to not expressing an opinion, instead of having some switch from approval to disapproval.
+However, after watching the movie people are probably much more sympathetic to the relation, compared to hearing an abstract description of the situation. That’s what movies do to people. The still surprising thing to me is that #MeToo supporters don’t complain more about the movie, as it seems to create more sympathy for these relations, and probably encourages men to package expressions of both sex and career interest together in the way that this male character did.
+Added 27Jan: It is standard polling practice to not explain the motivation for a poll to its participants, as knowing that can change their answers. The odds for A Star Is Born winning best picture is much worse now, at 10:1.
+
+
+title: #MeToo In A Star Is Born
+
+date: December 17, 2018 1:30 pm
+

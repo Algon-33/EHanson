@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+From the April Physics World:
+A key problem, suggests mathematical physicist Eric Weinstein of the Natron Group, a hedge fund in New York, is that it is too easy for scientists in the “establishment” of any field to cut down new ideas, and to do so without really putting anything at risk, thereby leading to a culture that is systematically biased toward caution. …
+Weinstein suggests another idea — that we should borrow some ideas from financial engineering and make scientists back up their criticisms by taking real financial risks. You think that some new theory is utterly worthless and deserving of ridicule? In the world Weinstein envisions, you could not trash the research in an anonymous review, but would buy some sort of option giving you a financial stake in its scientific future, an instrument that would pay off if, as you expect, the work slides noiselessly into obscurity. The money would come from the theory’s proponents, who would similarly benefit if it pans out into the next big thing.
+Weinstein’s point is that markets, in theory at least, work efficiently and — putting the current financial meltdown to one side — lead to the accurate valuation of products. They exploit the “wisdom of crowds”, as a popular book of the same title recently put it. Take the famous electronic prediction markets at the University of Iowa, which pool the views of thousands of diverse individuals and consistently seem to give better predictions than any expert. …
+“It would be more efficient,” he says, “if the maverick could demand of the critic, if my theory is so obviously wrong, why don’t you quantify that by writing me an options contract based on future citations in the top 20 leading journals secured by your home, furniture, holiday home and pension?”
+This article makes it seem like Eric reinvented idea futures.  Except that Eric and I discussed the concept last May, when we had two phone conversations and exchanged seven emails.
+In 1996, a Russ Ray published a paper in Futures Research Quarterly that was basically cut and paste from my Idea Futures paper.  Imitation is the sincerest form of flattery, right?  Hat tip to Jef Allbright.
+
+
+title: Reinventing Idea Futures
+
+date: May 27, 2009 6:00 am
+

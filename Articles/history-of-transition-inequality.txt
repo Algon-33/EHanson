@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+I’ve posted recently on how the max innovations are meta ones bringing faster innovation rates.  I also posted recently on how faster growth rates reduce the natural genocide effect whereby success fluctuations make most lineages eventually extinct.  Today, let’s consider what we know about the extra inequality that has arisen because some lineages embodied new growth modes before others.
+For example, the transition to multi-cellular organisms produced huge inequality.  A probably tiny initial lineage soon came to dominate the metabolism, if not the mass, of life on Earth.  Then for the next half billion years animal brain sizes doubled roughly every thirty million years, but species only lasted about one to twenty million years.
+It is not clear how large was the first lineage or species to embody the key human brain innovation (whatever that was), but apparently our ancestors have since suffered a few bottlenecks where at most a few thousand individuals then essentially gave rise to all descendants now.  When successive waves of explorers left Africa, it seems later waves almost completely displaced earlier waves.  And groups of about seventy people apparently colonized both Polynesia and the New World.
+The lineages that first mastered farming did gain from it, but their advantage was not as overwhelming as before.  In Europe, Africa, and Bali it seems post-transition population was about 20-50% from invading farmer groups, and the rest from the previous locals.  Locals learned to adapt invader techniques fast enough to survive.
+For the industrial revolution, the advantage seems even smaller.  In 1500, Western Europe seems to have had about 18% of world population, and today it has about 4%.  It seems unlikely that more than half of people today are descended from year 1500 Western Europeans.  So they seem to have gained less than a relative factor of 2.5 in number of descendants by starting the industrial revolution.  In GDP terms they have gained more of course.
+Overall it seems that singularity first-movers have gained smaller advantages in successive singularities.  Dare we hope this pattern will continue?  Tomorrow I’ll try to make some sense of this pattern (though you are of course welcome to discuss it today).
+
+
+title: History of Transition Inequality
+
+date: June 19, 2008 6:00 am
+

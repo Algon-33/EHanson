@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Last week US federal agencies were in a hurry to spend the last of their annual budget. Agencies that don’t spend all of their budget not only don’t get to save it for next year, next year’s budget will likely be reduced by the unspent amount. And the manager sacked. This last minute burst of spending is usually less carefully considered, and less useful, than other spending. (More about it all here.)
+This situation is mildly puzzling. Why is not spending all of a budget such a bad sign? If needs and opportunities vary in time, spending that varies in time seems appropriate. Perhaps incompetent managers who just can’t plan induce more spending fluctuations. But is that really so much more likely than varying needs and opportunities? Some say that spending less than budgeted shows an agency “needs” less overall. But any tendency for agencies that sometimes spend less than budget to be less valuable seems to me much weaker than the tendency of last minute spending to be less valuable. So why aren’t bursts of last minute spending seen as just as bad or worse?
+One explanation is that we developed habits of judging organizations and managers based on their budget habits in contexts where it was much harder to observe the time pattern of spending than the total amount spent. We developed the social norm of disapproving of unspent budgets in that context, and have been slow to adapt to a world where the time pattern of spending is visible.
+A related explanation is while spending more near period end looks bad, there is a less clear bright line to coordinate on to say which time patterns of spending look bad. So while we each privately know last minute spending bursts look bad, we don’t coordinate to say it together.
+Perhaps there are other plausible explanations. But one relatively robust conclusion here I think is that the political process can be pretty terrible at coordinating to react to simple easily visible info. It isn’t enough that we can all know something. We have to all know that we can know and then coordinate to switch new social norms, so that we all know that we all expect us all to actually look at this visible info sometimes, and to react in a certain easily verified way to that info.
+Not very encouraging for folks who hope that government will finally sit up and notice other kinds of relevant policy info that it has long neglected.
+Added 11Oct:
+Spending in the last week of the year is 4.9 times higher than the rest-of-the-year weekly average. … Quality scores for year-end projects are 2.2 to 5.6 times more likely to be below the central value. Allowing agencies to roll over unused funding into the subsequent year can improve efficiency. We calibrate a dynamic model of spending and show that allowing rollover leads to welfare gains of up to 13 percent. … The one federal agency that has the ability to roll over unused funding for I.T. projects does not exhibit a year-end spike in spending or drop-off in quality in this category of spending. (more)
+
+
+title: On End Of Period Spending
+
+date: October 3, 2013 11:42 am
+

@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Between $6 and $9 trillion dollars—about 8% of annual world-wide economic production—is currently being spent on projects that individually cost more than $1 billion. These mega-projects (including everything from buildings to transportation systems to digital infrastructure) represent the biggest investment boom in human history, and a lot of that money will be wasted. …
+Over the course of the last fifteen years, [Flyvbjerg] has looked at hundreds of mega-projects, and he found that projects costing more than $1 billion almost always face massive cost overruns. Nine out of ten projects faces a cost overrun, with costs 50% higher than expected in real terms not unusual. …
+In fact, the number of mega-projects completed successfully—on time, on budget, and with the promised benefits—is actually too small for Flyvbjerg to determine why they succeeded with any statistical validity. He estimates that only one in a thousand mega-projects fit that criteria. (more; paper)
+You can probably throw most big firm mergers into this big inefficient project pot.
+There’s a simple signaling explanation here. We like to do big things, as they make us seem big. We don’t want to be obvious about this motive, so we pretend to have financial calculations to justify them. But we are purposely sloppy about those calculations, so that we can justify the big projects we want.
+It would be possible to make prediction markets that accurately told us on average that these financial calculations are systematically wrong. That could enable us to reject big projects that can’t be justified by reasonable calculations. But the people initiating these projects don’t want that, so it would have to be outsiders who set up these whistleblowing prediction markets. But alas as with most whistleblowers, the supply of these sort of whistleblowers is quite limited.
+
+
+title: Big Signals
+
+date: May 27, 2014 9:45 am
+

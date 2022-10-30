@@ -1,0 +1,30 @@
+author: Robin Hanson
+
+text: 
+We have few comments and no posts by women here.   A few women have mentioned to me privately that our whole project seems rather male.   Since they declined to give me quotes for us to ponder, I have turned to a review of feminist epistemology:
+
+Feminist standpoint theory claims an epistemic privilege … on behalf of the standpoint of women.  … The masculine cognitive style is abstract, theoretical, disembodied, emotionally detached, analytical, deductive, quantitative, atomistic, and oriented toward values of control or domination. The feminine cognitive style is concrete, practical, embodied, emotionally engaged, synthetic, intuitive, qualitative, relational, and oriented toward values of care. …
+ Postmodernism … questions attempts to transcend our situatedness by appeal to such ideas as universality, necessity, objectivity, rationality, essence, unity, totality, foundations, and ultimate Truth and Reality. It stresses the locality, partiality, contingency, instability, uncertainty, ambiguity and essential contestability of any particular account of the world, the self, and the good. …
+
+  
+
+The conceptions of objectivity considered problematic by feminists include … what is really ("objectively") real exists independently of knowers. … "objective" knowledge is ascertained through "the view from nowhere," … knowers have an "objective" stance toward what is known when they are emotionally detached from it. … knowers have an "objective" stance toward what is known when they adopt a neutral attitude toward it, declining to judge it either good or bad. … "objective" knowledge of an object (the way it "really" is) is attained by controlling it, especially by experimental manipulation … "objective" knowledge consists of representations whose content is dictated by the way things really are, not by the knower. …
+Some feminists have offered methodological guidelines … explaining how to avoid androcentrism, overgeneralization, gender insensitivity, and sexual double standards in research.
+
+There is a lot of food for thought here.   I can’t sympathize much with the apparent rejection of a reality independent of knowers, but I do see validity in warnings against overconfidence and in questioning how often emotional detachment and value-neutral attitudes really reduce bias.   But while I can see the objection if we claimed to have overcome bias, I don’t see why people with these concerns would dislike our attempt to try to better overcome bias.   
+An important hint comes, I think, from this review of how feminist bioethics objects to general ethical principles:  
+
+Virtually all feminists have doubts about the emphasis on abstract universal norms and the framework of allegedly universal moral principles that have dominated bioethical theory. The conception of the generic subject … tends to justify the prevailing status quo inhibiting consideration of social change. … Care theorists … press for an ethics that stresses … love, care, and responsibility. They emphasize the suitability of such values for capturing contextual subtleties and relational bonds that are overlooked within principle-oriented frameworks. … feminist bioethics … emphasize the holistic nature of human persons, their particular social contexts, the centrality of emotional responses in ethical reasoning, and refusal to judge actions apart from the lived narrative that confers meaning on them. 
+
+Also note that male social status is more about job rank and rankable achievements, while female status is more about relations with family, friends, and neighbors.  I see two main possibilities for explaining female disinterest:
+
+Our goal of overcoming bias is a kind of rankable achievement, but does not clearly enhance particular relationships, and can threaten loyalty to them.
+Our method of identifying and encouraging relation-blind principles and institutions does not rely much on emotionally-rich relationships.
+
+Added 28Jun’08: "I see two main possibilities" just meant those were possibilities that occurred to me at the moment – not that those are the only possibilities to consider. 
+
+
+title: Is Overcoming Bias Male?
+
+date: February 20, 2007 6:00 am
+

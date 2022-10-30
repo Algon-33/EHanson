@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+After some prodding by TGGP, I tried to dig into data studies on the relation between violence and sex ratios. Alas this seems to be one of those areas where results are all across the map:
+More men make more violence: here, here,
+More men make less violence: here, here, here.
+Mixed results: here, here.
+I quit, and tentatively conclude the evidence is unclear.
+
+
+title: Sex Ratio & Violence
+
+date: January 23, 2012 4:50 pm
+

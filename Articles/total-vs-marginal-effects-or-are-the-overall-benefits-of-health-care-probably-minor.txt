@@ -1,0 +1,25 @@
+author: Andrew
+
+text: 
+I was having an interesting discussion with Seth Roberts about his claim that "the overall benefits of health care are probably minor."
+  
+The basis of his claim is evidence cited by Aaron Swartz:
+
+In the 1970s, the RAND Corporation picked out 7700 people in six cities and gave half of them free health care. Those lucky ones took advantage of it (spending 30-40% more on average) and they spent it on reasonable things (as judged by medical observers), but they didn’t seem to get any healthier. . . . The RAND study was by far the biggest study of this kind, but other studies find similar results. One analysis found that regions whose Medicare programs give out more money (when the underlying healthiness of the residents is held constant) see no increase in survival rates. A replication found the same results in VA hospitals. Cross-national comparisons find “the impact of public spending on health is … both numerically small and statistically insignificant”. Correlational studies find “Environmental variables are far more important than medical care.” And there are more where that came from.
+
+Several discussants (including myself) at Seth’s blog were skeptical about his skeptism, citing various successful medical treatments (in my case, fixing a compound fracture of the wrist; others mentioned cancer treatment, etc.).  Seth responded:
+
+The RAND study, of course, is limited — but is there a better attempt to figure out the overall value of medicine? I don’t know of one. if you can point me to a study that shows the more-than-minor value of modern medicine I’d love to look at it. . . . when the overall effectiveness of medicine has come under scrutiny, it has not fared well — and the RAND study is a good example.
+
+ 
+Total vs. marginal effects
+I have not looked at the Rand study so can’t comment on the details, but my first thought is that the marginal benefits from additional health care will be less than the benefits from good existing care. So, even if more is not much better, that doesn’t mean that the overall benefits of existing care are “minor.”
+From a policy standpoint, it is the marginal effects that are the most interesting, since nobody (even Seth?) is proposing to zero out medical treatment.  Presumably there are diminishing returns, and the benefit/cost ratio for additional treatment is less than that for existing treatment.  (And, indeed, some medical care can make things worse, even in expected value; for example, you can get catch the flu in the doctor’s waiting room.)  But, unless I’m missing something, Seth and Aaron are confusing marginal with total effects.
+P.S.  Also see Robin Hanson’s discussion (with lots of links), which explicitly distinguishes between marginal and total effects.  Here I’m not expressing any position on the marginal effects of health care (given my ignorance on the topic), just pointing out that Robin’s position seems to have become overstated by others.
+P.P.S.  Further discussion appears in the comments here.  In particular, take a look at Jake Bowers’s discussion of how to interpret the Rand experiment.
+
+
+title: Total vs. marginal effects, or, Are the overall benefits of health care “probably minor”?
+
+date: June 12, 2007 3:40 pm
+

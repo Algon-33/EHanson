@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Our society claims to be concerned about less-favored races, religions, genders, sexual preferences, etc. But our most visible and well-enforced policies for showing such concern are rules about what folks may not say. And these rules are heavily classist, imposing much larger burdens on lower classes. Let me explain.
+Humans have complex coalition politics, wherein we jockey for allies, test potential allies for weaknesses, and try to undermine rivals. We often communicate at several levels at once, with overt talk that better withstands outside scrutiny, and covert talk that is more free.
+Lower “working” class cultures tend to talk more overtly. Insults are more direct and cutting, friends and co-workers often tease each other about their weaknesses. Nicknames often express weakness – a fat man might be nicknamed “slim.”
+Upper class culture, in contrast, tends more to emphasize politeness and indirect communication. This helps to signal intelligence and social awareness, and distinguishes upper from lower classes. Upper class folks can be just as cruel, but their words have more plausible deniability.
+The enforcement of laws against racist, sexist, etc. expressions is limited by the ability of courts and related observers to agree on the intent of what was said. Observers will not have access to all the local context and history that local folks use to interpret each others’ words. Now since official observers like judges tend to be upper class, they do tend to be better able to interpret the intent of upper class words. But this advantage seems insufficient compensate for the much greater indirection and politeness of upper class talk.
+So when an upper and a lower class person both express disfavor with a certain race, religion, gender, sexual preference, etc., the lower class expression is more likely to be legally and socially verifiable as racist, sexist, etc. If we add in the general reluctance of legal and social systems to punish upper class folks relative to lower class folks, we see that the burden of such policies mostly falls on the lower classes.
+Could it be that advantaged folks are especially eager to support policies to help the disadvantaged when the cost of such policies are mainly borne by someone else?
+(Idea stolen from a conversation with Katja Grace.)
+
+
+title: Talk Rules Are Classist
+
+date: December 14, 2011 5:17 pm
+

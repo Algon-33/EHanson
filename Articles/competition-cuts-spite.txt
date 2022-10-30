@@ -1,0 +1,28 @@
+author: Robin Hanson
+
+text: 
+Psychologists are exploring spitefulness in its customary role as a negative trait, a lapse that should be embarrassing but is often sublimated as righteousness, as when you take your own sour time pulling out of a parking space because you notice another car is waiting for it and you’ll show that vulture who’s boss here, even though you’re wasting your own time, too. …
+The new research on spite transcends older notions that we are savage, selfish brutes at heart, as well as more recent suggestions that humans are inherently affiliative creatures yearning to love and connect. Instead, it concludes that vice and virtue, like the two sides of a V, may be inextricably linked. (More)
+Our simplest economic models assume selfish agents, and in those models market competition helps such agents, encouraging efficient allocation, adaptation, and innovation. A standard critique, however, says that real humans are more altruistic than this, which they say favors non-market institutions such as families and hierarchies which better channels this altruism.
+However, while it is true that humans are often more other-oriented than in our simplest econ models, this other-orientation is as likely to be spiteful as generous. For example:
+
+Given the opportunity 2/3 of subjects will act spitefully, and 1/3 of them maximally so.
+In “public goods” experiments, where participants voluntarily contribute to a public project, letting them punish each other does get them to contribute more, but they can be worse off as a result, due to the harms from all that punishment.
+Shame and indignation are common and powerful feelings, that often lead people take substantial risks (e.g. via violence) to hurt people around them.
+We seem eager for war stories, and to identify with heroes who sacrifice for their war, a war not just for private gain but to right big wrongs. Yet such characters (and their readers) usually think little on if their side is really the right side, or if war is really the best way right relevant wrongs.
+Strong racism and sexism seem to have been real things, where people paid substantial personal costs to dump on certain classes of people, in part to show loyalty to their side of some social divisions.
+
+What if many people often see themselves as in moral “wars” with many others around them, so that they are willing to pay substantial costs to help allies and to punish or put down enemies? And what if they coordinate with allies to try to control the “high grounds” in such wars? Do such changes make market competition more or less attractive?
+The big obvious implication I see, relative to a world of relatively selfish people, is that in this world people would be more wary of associating with enemies, and more eager to associate with allies. So when people are free to choose associates, they would tend to choose allies, making fewer opportunities for spite and more for altruism. That is, competition would cut spite.
+However, when there exist non-competitive positions of power, moral warriors would be especially eager to gain control of those positions, to dump on their enemies. For example, if students have no choice of teachers, then becoming a teacher lets you dump on enemy students. And if residents have no control over police on nearby beats, then becoming a police lets you dump on nearby enemy residents. In contrast, when teachers and police must compete to attract and retain affiliations with students and residents, then they would expect to lose their competitions by mistreating enemies.
+Thus when many people see themselves in moral wars, eager to help allies and hurt enemies, potential targets of spite should be especially worried about being subject to such non-competitive positions of power. They should be especially eager to instead have many competing choices in key aspects of their lives, and be especially wary of creating centralized government regulators and service providers.
+Bottom line: while some say the existence of altruism is an argument for fewer competitive relations, the existence of spite is an argument for more choice and competition, and for  fewer centralized roles which less restrain spite, and which would be fought over by moral warriors seeking to hurt enemies.
+This may not be the strongest argument for market competition; that is probably still adaptation and innovation. But I haven’t heard this argument before, and it seems especially easy for most people to understand.
+Added noon: To clarify, I assume that for most people, their preference to not have a teacher who hates them is stronger than their preference for their enemies to have teachers who hate them. I’m assuming some substantial fraction of strongly spiteful (or altruistic) people, but I’m not assuming that most people are like this.
+Added 9Sep: A recent article on spite.
+
+
+title: Competition Cuts Spite
+
+date: August 30, 2021 9:00 pm
+

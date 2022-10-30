@@ -1,0 +1,31 @@
+author: Robin Hanson
+
+text: 
+I’m a bit late to this party, but must report:  We’ve known for decades how to fix global warming cheaply!  Many fear devastation if warming continues, while others fear impoverishment from quitting carbon.  But we can cancel the entire warming effect for less than one part in ten thousand of world product!  No new tech is needed, nor much preparation to start fast or stop suddenly if problems appear.  We just copy the cooling effect already seen in volcanoes:  For a few $B/yr or less we take a tiny fraction of the SO2 humans already emit and put it way up in the stratosphere, e.g., via Naval guns, where it blocks sunlight.    
+ A burst of news about a year ago included this in Time and this in Nature.  It isn’t a perfect fix: 
+
+Carbon dioxide does more than just warm – it also acidifies the ocean. Even if the warming effects of ever-increasing carbon dioxide could be cancelled out, the effects on corals, shellfish and eventually the entire marine food web would still be disastrous. … The pattern of warming expected from carbon dioxide, and the pattern of cooling expected from aerosols, would differ in both space and time. … Volcanic eruptions … seem to have an unfortunate side effect; the 1783 Laki eruption in Iceland, for instance, weakened the Indian monsoon and cut rains in the Sahel, in Africa, to boot. 
+
+It would also increase ozone depletion a bit.  But these seem minor compared with dire warnings on warming.  And people seem to have unfairly lumped this very solid approach with far more speculative approaches, e.g., orbiting shades or iron ocean seeding.  Volcano shading is all well-understood physics and chemistry!  Worse, it faces serious ideological opposition and academic indifference: 
+  
+
+Much of the climate community still views the idea with deep suspicion or outright hostility. Geoengineering, many say, is a way to feed society’s addiction to fossil fuels. "It’s like a junkie figuring out new ways of stealing from his children," … This new interest in geoengineering was set off by … Paul Crutzen … in August 2006. [His] article contained relatively little that wasn’t already in the literature … but it had a major impact because of who was saying it. … "Nobelist and general environmental worrier Paul Crutzen – someone who showed the world the risks of ozone depletion very early on." … It was for exactly this reason that Crutzen’s colleague Andreae urged him not to publish. …
+ 
+Lowell Wood … is a forceful spokesman for extreme ideas, most notoriously the proposed X-ray laser … of Ronald Reagan’s Star Wars programme.  In the 1990s, he had become enamoured of radiation management, as had his mentor, Edward Teller, Livermore’s hydrogen-bomb-begetting eminence gris. If geoengineering had not already had a bad name among climate scientists concerned about the environment, Teller’s championing of the idea in the pages of the Wall Street Journal would have won it one. …    
+A confident understanding of geoengineering’s promises and problems would require years of dedicated work from groups all over the world, an effort comparable to that reflected in the IPCC’s massive reports on the natural science of climate change. And even that, say critics, would not be enough. … The very thing that motivates people like Crutzen to study geoengineering – the risk of large surprises that require immediate action – leads others to see the whole idea as fundamentally unworkable … it is easily argued that betting the monsoon on the ability of models to accurately capture such subtleties would require a foolhardy level of trust.  …
+ 
+[NAS pres.] Ralph Cicerone … singles [Angel’s paper on orbital sunshades] out for praise for the painstakingly careful way it was done. … For him and many others, such academic excellence is the main point of publishing research on geoengineering.  For these researchers, the aim is not to find feasible solutions but to do good science that provides a standard against which to judge the less good, or flatly foolish, schemes that might otherwise accrete around the idea. … [Most say] models of geoengineering’s benefits need to be a lot more accurate than models of the harm that will be done in its absence. … "the role of a geoscientist is to understand nature, not to change it." Climate scientists … [are] happy to advocate … massive changes in technology, in geopolitics, in social norms … Not changes in the workings of the stratosphere. Not changes in the natural. 
+
+ There are risks from changing economies as well as from changing stratospheres, and we understand the later far better than the former.  If we cared more about global warming than symbolic gestures for planetary purity, we’d likely accept the risks and start artificial volcanoes as soon as we thought warming was hurting us.   
+From a lunch with Lane Lee, arranged by Bryan Caplan.  An authoritative tech review is here. 
+Added:  I said it was a cheap solution, not a permanent and complete solution – I even included quotes making it clear this can’t exactly and forever counter arbitrary CO2 emmisions.  But since interest rates are positive, the longer we can delay pain the cheaper is that pain, and this looks it can delay pain well.  
+Added 11July: Scott Barrett has a good review.  HT to Pedro Linares.  Amazingly, this whole discussion goes way back:
+
+In 1965, the President’s Science Advisory Committee warned in a report called Restoring the Quality of Our Environment that increases in atmospheric carbon dioxide due to the burning of fossil fuels would modify the earth’s heat balance to such an extent that harmful changes in climate could occur.  This report is now widely cited as the first official statement on “global warming.”  But the committee also recommended geoengineering options.  “The possibilities of deliberately bringing about countervailing climatic changes . . . need to be thoroughly explored,” it said.  As an illustration, it pointed out that, in a warming world, the earth’s solar reflectivity could be increased by dispersing buoyant reflective particles over large areas of the tropical sea at an annual cost, not considered excessive, of about $500 million.
+
+
+
+title: Artificial Volcanoes
+
+date: July 8, 2008 6:00 am
+

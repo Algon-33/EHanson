@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+I recently read on social media praise for someone I know, someone about whom I know some negative things. I realized that if I posted my negative comments, those would be held to much higher standards than are positive comments. I might be sued for defamation, and many would apply a social norm to me which demands that one defend negative comments with concrete supporting evidence. We don’t have such a norm regarding positive comments.
+While the Romans allowed one to sue for damages when someone defamed you even by saying true things, we today only allow that when someone says false negative things, although at common law the burden of proof is on the person accused of defamation to prove their negative claim. The message is: don’t say negative things about others in public if you can’t prove them in court.
+Presumably the reason we now allow suits for false defamation is that we see a net social harm there; others are liable to be misled, causing misallocations of resources and relations. In addition, resources may be wasted in back-and-forth defamation battles. But it seems to me that we should also expect similar social harms to result from false positive comments, not just false negative comments. So maybe we should consider having law discourage those as well.
+With negative comments it is the defamer who pays the person defamed, even though it is the larger society who in fact suffers the net social harm. The person defamed is just a convenient party we give an incentive to sue. But defamation law would serve a similar social function if we turned it into a bounty, where anyone could sue and collect it. So an obvious option for false positive comments would be to make that into a bounty.
+It seems counterproductive to expect the person who is falsely praised to sue someone for doing that. Their incentive can be weak, and if they win they gain twice, from the false claim and from the suit. So my proposal is: let anyone sue re a false positive claim, the first person to succeed gains a bounty amount equal to the court’s estimate of the false gain that resulted. Again put the burden of proof on the person who made the claim. So just as with defamation today, the bounty hunter would have to show some substantial net monetary equivalent gain to the person who was falsely praised, and that could be the amount awarded to that hunter.
+Yes, in our world where false praise isn’t punished there’s a lot of it, which isn’t believed so much, and thus each instance causes less harm. But that would also be true if we didn’t allow suing for defamation; a lot more criticism would happen, which would be believed less. If this isn’t a reason to allow defamation, it isn’t a reason not to allow suits against false praise.
+Of course, I don’t expect people to leap to implement my proposal. I offer it as a thought experiment, to help us think about *why* we don’t like this, even though its justification seems similarly strong to our usual justification for allowing false defamation lawsuits. Why is false praise seen as so much less harmful than false criticism?
+
+
+title: Why Not Also Punish False Praise?
+
+date: October 31, 2019 11:00 am
+

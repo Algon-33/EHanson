@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Looking for insight into farmer-era world views, I just read the 1931 novel The Good Earth, about Chinese farmers. It is of course more a morality tale than a documentary, and the main character soon gets rich, and is then no longer a representative farmer. But the story illustrates differences between farmer vs. forager style morality.
+Foragers live in close egalitarian bands, with behavior well adapted to their environment. So forager morality issues are mostly about well-adapted personal behavior in conflict with group interests. Foragers sin by bragging, not sharing, being violent against associates, etc.
+Farmer morality, in contrast, is much more about conflicts within people than within groups. Farmers sin by being lazy, wanting overly fancy foods, taking drugs, having sex with prostitutes, wanting status markers that cost too much in the long run, etc.  Farmers need to resist internal temptations to do things that might make sense for foragers, but which can ruin farmers. These can also ruin one’s family and friends, so farmer sins also have shades of selfishness.
+Of course farmers also care about bragging, violence, etc. In some sense farmers have more morality – more and stronger rules, to fight against stronger natural inclinations. So farming culture introduced religion and stronger social pressures to enforce their rules, to keep farmers from relapsing into foragers.
+This helps me make sense of Jonathan Haight’s observations that liberals, who I’ve called forager-like, rely on fewer moral principles than conservatives, who I’ve called farmer-like:
+The current American culture war, we have found, can be seen as arising from the fact that liberals try to create a morality relying primarily on the Care/harm foundation, with additional support from the Fairness/cheating and Liberty/oppression foundations. Conservatives, especially religious conservatives, use all six foundations, including Loyatly/betrayal, Authority/subversion, and Sanctity/degradation. (more)
+I’ve suggested that as we’ve become richer, we’ve become more forager-like. If our descendants get poor again, they’ll probably need stronger social norms again, to get them to resist temptations to act like foragers and do what is functional in their world. Their morality would probably rely on a wider more-conservative-like range of moral feelings.
+In the em scenario I’ve been discussing here, sex would be unimportant except as a possible way to waste too much time. So em morality would be pretty liberal on sex. But money, work, and reputation would be important – ems would probably have pretty conservative attitudes on keeping their word, doing their job, obeying their boss, and not stealing. When mind theft or virus corruption are big risks, they’d also probably have strong purity feelings about avoiding acts that could risk such harms. And they’d probably feel strong clan loyalty, even beyond what farmers feel, to the clan of copies of the same original human.
+
+
+title: Forager, Farmer Morals
+
+date: May 20, 2012 4:35 pm
+

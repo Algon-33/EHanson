@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Tyler Cowen in today’s NYT:
+One disturbing portent came over the summer when it was reported that the Obama administration had promised deals to doctors and to pharmaceutical companies under the condition that they publicly support health care reform. That’s another example of creating favored beneficiaries through politics. …
+Even worse, these political deals threaten open discourse. The dealmaking may be inhibiting some people in health care from speaking out in opposition to the administration’s proposals. Robert Reich, who served as secretary of labor in the Clinton administration, deserves credit for complaining about this arrangement, but not enough people are asking where such dealmaking might stop.
+The banking sector has been facing similar constraints; if bankers criticize the Treasury or the Fed, they risk losing their gilded cages and could get a bad deal when the next bailout comes. When major economic sectors can be influenced in this way, are we really very far from the nightmare depicted by Ayn Rand in “Atlas Shrugged”?
+This identifies an important conflict in democracy.  On the one hand, deals help democracies get things done.  More bills get passed with deals like “If you support my bill, I’ll support yours.”  If different groups couldn’t get together to to negotiate deals, but instead could only propose bills and lobby for the bills they liked, it would be harder to find solutions that many groups prefer to the status quo.
+On the other hand, democracies require citizens to get info on which proposed bills are in their interest.  To evaluate a politician, voters may evaluate bills that politician has supported or opposed, and to evaluate bills voters may depend on hearing support or opposition from known interest groups.  But this interest group signal can be muddled if groups make deals to support or oppose bills in ways contrary to voter expectations.
+Part of the problem may be voter naivete about interest groups.  If docs or pharma firms support a med reform bill, that may be because they have been paid off financially, not because the bill helps docs help patients, or improves drug development.  Futarchy would help with this, as speculators should be much less naive.
+It seems especially problematic for the president to make gag deals, as the president has unusual power to use administrative discretion to punish those who speak against him.  But is it the discretion or the gagging that is the real problem here?
+
+
+title: Gag Deals
+
+date: September 13, 2009 9:30 am
+

@@ -1,0 +1,16 @@
+author: Robin Hanson
+
+text: 
+We humans evolved a way to take some of the things that are important to us, and bind our groups together by seeing those things as “sacred”. That is, by seeing them in the same way, via always seeing them from a distance. Such things are seen more abstractly and intuitively, with less conscious calculation, and less attending to details. Sacred things are idealized, and not to be mixed with or traded off against other things. Sacred thinking can be less competent, but induces more effort, and can keep us from being overwhelmed by strong passions.
+Let us call the experts associated with a sacred area “priests”. The possibility of priests raises two issues for the sacred. First, if ordinary people saw a sacred area as one where they could personally gain expertise, and where they need to think to judge the relative expertise of others, this would seem to induce conscious calculation about the details of this sacred topic, which is a no-no. Second, those who are most expert would think a lot about the topic, and often see it up close, which would make it harder for them to see it a sacred.
+Humans seem to solve the first issue by treating all sacred topics as being at one of two extremes. At one extreme, e.g., medicine, there are highly expert sacred priests, which they rest of us are not to second guess nor evaluate. At the other extreme, e.g., politics or friendship, expertise via thinking is seen as not possible, making everyone’s opinions nearly as good as anyone’s opinions. In neither case does thinking help ordinary people much, either to form opinions or to choose experts.
+On the second issue, experts who only rarely directly confront the most sacred versions of their subject up close, like soldiers, police, or doctors, can drill and practice in a far mode, so that they can perform well intuitively and without much thought in the rare big stakes cases. But what about the other priests, who confront their sacred subjects more often?
+When we think about this question in a sacred mode, intuitively and using a few abstract associations, our minds usually conclude that as the sacred is good and ideal, contact with it makes people more good and ideal. Thus we can trust priests to act in our collective interest. But the norm that the rest of us are not to judge such experts, and are to defer strongly to their judgement, gives them a lot of collective discretion. And it seems to me that near mode engagement with the topic means we can’t count much on their reverence for it to restrain them from from using their discretion for selfish advantage.
+Thus in fact priests will often act profanely, a fact that the rest of us are often unwilling to see. Beware profane priests.
+Added 26Sep: Someone suggested we trust experts on the sacred due to their sacrificing more to take such jobs, I did 16 Twitter polls on 16 kinds of jobs. Here are median estimates of “% of value which workers of that type sacrifice on average to do their job”:
+
+
+title: Beware Profane Priests
+
+date: September 24, 2022 11:00 am
+

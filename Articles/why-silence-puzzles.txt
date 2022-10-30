@@ -1,0 +1,15 @@
+author: Robin Hanson
+
+text: 
+Bryan Caplan:
+[Recent planet] discoveries seriously undermine the Fermi Paradox.  If we’ve only recently confirmed the existence of extrasolar planets, why on earth should we be surprised by the fact that we’ve failed to confirm the existence of extrasolar intelligent life?  … Shouldn’t they already be here?  Not if space travel (including the value of time) permanently remains extremely costly relative to the value of raw materials.  It’s a lot easier to believe that space travel will forever remain a rare luxury for intelligent life than that intelligent life exists on Earth alone. ..
+[Some] say, “Whatever intelligent life usually does, surely one species of intelligent life would be the exception that proves the rule.”  Facile.  When you multiply independent, rare events together, you quickly reach situations with zero examples. … Even if there are seven billion species of intelligent life in the galaxy, there could easily be zero species that entered our solar system during the last century, approached the earth, and stayed long enough for the scientific community to detect and confirm.
+When a tree burns, what fraction of its leaves float to another tree still burning enough to ignite it? What fraction of the coconuts on an island float away to a barren island to grow a new tree there? What fraction of the virus copies in someone who is infected fly out in a sneeze to infect a new person?  Why should we ever expect such fractions to be large enough to create forest fires, or coconuts on new islands, or viruses that spread to many people?
+If we knew that one tree in our dense dry forrest was burned a few days ago, we should be surprised to see untouched trees near where we stand, even if we could not see that burned tree far away. We should also be surprised to see unburned coal near us if we knew a fire had started days ago far away, beyond our sight, in the same rich ventilated coal mine. And if we knew that one drop of spoiled milk was added days ago to a large room temperature vat of milk, we should be surprised to see unspoiled milk in any part of the vat we could see.
+We should be surprised to think billions of technologically-advanced intelligent civilizations have existed in our galaxy for billions of years. This is because for a civ only a millennia more advanced than us, it should only take a tiny (i.e., a part in a billion or less) fraction of its resources to send out a self-reproducing seed that could colonize an empty galaxy densely (so that we’d see it everywhere we looked) within a billion years. It doesn’t matter if this venture is expensive and time-consuming relative to the typical hobby budget or time of a human today, or a bacterium on any day. What matters is that civs can be diverse, and contain great internal diversity. And it just takes one spark to start a fire.
+
+
+title: Why Silence Puzzles
+
+date: January 15, 2012 3:15 pm
+

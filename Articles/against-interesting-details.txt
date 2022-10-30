@@ -1,0 +1,12 @@
+author: Robin Hanson
+
+text: 
+From the December Journal of Experimental Psychology:
+In Experiment 1, students received an illustrated booklet, PowerPoint presentation, or narrated animation that explained 6 steps in how a cold virus infects the human body. The material included 6 high-interest details mainly about the role of viruses in sex or death (high group) or 6 low-interest details consisting of facts and health tips about viruses (low group). The low group outperformed the high group across all 3 media on a subsequent test of problem-solving transfer (d = .80) but not retention (d = .05). In Experiment 2, students who studied a PowerPoint lesson explaining the steps in how digestion works performed better on a problem-solving transfer test if the lesson contained 7 low-interest details rather than 7 high-interest details (d = .86), but the groups did not differ on retention (d = .26). In both experiments, as the interestingness of details was increased, student understanding decreased (as measured by transfer). Results are consistent with a cognitive theory of multimedia learning, in which highly interesting details sap processing capacity away from deeper cognitive processing of the core material during learning.
+For this reason I tend to disagree with most people about who are the best speakers and writers.  Most people prefer those with lots of interesting tidbits; I prefer those that stay focused on and deliver a key interesting point.  
+
+
+title: Against Interesting Details
+
+date: December 31, 2008 6:00 am
+

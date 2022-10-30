@@ -1,0 +1,17 @@
+author: Robin Hanson
+
+text: 
+Sometimes I’d like a particular person to comment on a particular thing I say. And maybe these particular people sometimes find themselves in similar situations. Could we make a deal here, wherein I reply to them in trade for them replying to me? And can we set up a system to lower the trouble and cost of arranging for such deals? 
+In this post, I outline a simple design for such a system built on top of Twitter. It doesn’t need official support from Twitter, though they might have an advantage in setting it up to function well.
+Let’s say you have N followers on Twitter. You can at anytime toggle a public bit that says you are willing to respond to one comment. Any account with least N credits in the system, and which you have not blocked, can then officially request that you comment on a particular tweet, within D days. This request comes to you via a tweet or direct message. If you block the account of the requestor or tweet, the request is cancelled (or never happens).
+If you reply to (or retweet) that tweet with your tweet containing at least X commenting characters, their account goes down by N credits, and yours goes up by N. If system credits are public, observers can check that the accounting is being done right. If you neither block nor respond within D days, their request is cancelled and your participation in this system is frozen until you go through some trouble to unfreeze it.
+And that’s the basic system. Yes, people might “comment” with text that basically says “No comment”, but informal social shaming seems sufficient to deal with that, and the requestor could at least publicly show that they had nothing more substantial to say. Yes, it might get tedious to keep blocking accounts to which you don’t want to respond, but hey why not just respond to one and be done with it? 
+Yes, the system needs to start with some folks holding some credits. It probably makes sense to take the initial Facebook strategy of starting the system by endowing a few social elites with credits. Then it would at first be a prestige thing to have credits in the system, as you can’t get them until some insider asks you to comment on them. Later we probably need a way to add more credits to ensure trading liquidity; might a monetary expert weigh on on how best to do this? 
+Instead of having to request comment from a particular person, you might prefer to pick a whole set of accounts, and request that one of them comment. (First one gets it.) But then we’d have to notify that whole set of this request, and that might bother people with too many notifications. As I’m not sure how to fix this, I’d start the system with only direct requests to one person. 
+So, might this work? Do you see bugs & fixes? Anyone want to set this up?
+
+
+title: Comment Requested
+
+date: June 18, 2021 12:25 pm
+

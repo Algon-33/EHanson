@@ -1,0 +1,14 @@
+author: Robin Hanson
+
+text: 
+Requiring food nutrition labels doesn’t get people to eat healthier:
+A study of New York City’s pioneering law on posting calories in restaurant chains … tracked customers at four fast-food chains — McDonald’s, Wendy’s, Burger King and Kentucky Fried Chicken — in poor neighborhoods of New York City where there are high rates of obesity.  It found that about half the customers noticed the calorie counts, which were prominently posted on menu boards. About 28 percent of those who noticed them said the information had influenced their ordering, and 9 out of 10 of those said they had made healthier choices as a result.  But when the researchers checked receipts afterward, they found that people had, in fact, ordered slightly more calories than the typical customer had before the labeling law went into effect, in July 2008. (more)
+A new study involving the Taco Time fast-food chain in Washington State.  Researchers found that adding calorie counts to restaurant menus had no impact on diners’ choices.  Similar studies in New York City have recently reported conflicting results; some surveys showed that menu labeling led to fewer calories purchased, but others found no difference in meal selection. Researchers are not discouraged by the results, however, noting that providing nutritional and calorie information on menus may still benefit consumers indirectly.  As more local authorities mandate such changes, food vendors are pre-emptively modifying their menus to both lighten existing options and add healthier foods.  (Time 1/31/11, p17)
+So the reason to require food nutrition labels is to scare producers into offering healthier food, with the implicit threat that if producers don’t fall into line stricter regulations will soon follow? Really? Seems to me this is more driven by a public opinion unwilling to update on the evidence. Ordinary people think labels should help, so support label laws, and the rest of the policy and political process just falls into line.
+Added 31Jan:  A new paper says calorie posting at Starbucks reduced average calories per transaction by 6%.
+
+
+title: Nutrition Labels
+
+date: January 25, 2011 9:00 am
+
